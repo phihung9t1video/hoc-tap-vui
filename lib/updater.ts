@@ -41,7 +41,15 @@ function newer(a: string, b: string) {
  * beta = true (máy của bố mẹ): nhận cả bản thử nghiệm (pre-release) để kiểm tra trước.
  * beta = false (máy các con): chỉ nhận bản đã được duyệt phát hành.
  */
-export async function checkForUpdate(beta = false): Promise<UpdateState> {
+let inflight: Promise<UpdateState> | null = null;
+
+export function checkForUpdate(beta = false): Promise<UpdateState> {
+  // Mỗi lúc chỉ một lượt kiểm tra, tránh tải trùng bản cập nhật
+  if (!inflight) inflight = runCheck(beta).finally(() => (inflight = null));
+  return inflight;
+}
+
+async function runCheck(beta: boolean): Promise<UpdateState> {
   if (!Capacitor.isNativePlatform() || UPDATES_DISABLED) return { kind: "none" };
   const { CapacitorUpdater } = await import("@capgo/capacitor-updater");
   const { App } = await import("@capacitor/app");
