@@ -34,8 +34,7 @@ $dist = Join-Path $Root 'dist'
 if (Test-Path $dist) { Remove-Item $dist -Recurse -Force }
 New-Item -ItemType Directory $dist | Out-Null
 $webZip = "web-$new.zip"
-Add-Type -AssemblyName System.IO.Compression.FileSystem
-[IO.Compression.ZipFile]::CreateFromDirectory((Join-Path $Root 'out'), (Join-Path $dist $webZip))
+New-WebZip (Join-Path $Root 'out') (Join-Path $dist $webZip)
 
 Step "Build APK $new"
 & npx cap sync android
