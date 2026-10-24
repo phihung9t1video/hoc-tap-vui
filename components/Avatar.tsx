@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState, type PointerEvent } from "react";
 import { Body, HAIR_CAP, Head, ITEM_MAP, defaultLook, type Crop } from "@/lib/items";
-import { OL, Sparkle, type Rarity } from "@/lib/draw";
+import { OL, Sparkle, starPoints, type Rarity } from "@/lib/draw";
 import type { Look, Slot } from "@/lib/types";
 
 const FALLBACK = defaultLook("nam");
@@ -14,6 +14,29 @@ const TWINKLES: [number, number, number][] = [
 ];
 
 /** Hạt sáng lấp lánh khi mặc đồ Sử thi / Huyền thoại: đồ càng hiếm càng nhiều, càng rực */
+/** Điểm xuất phát [x, y, cỡ] của các ngôi sao bay lên */
+const FLOATERS: [number, number, number][] = [
+  [40, 210, 6], [160, 200, 5], [70, 236, 4], [130, 230, 6], [24, 170, 5], [178, 160, 4], [96, 244, 5], [58, 120, 4], [146, 116, 5], [110, 200, 4],
+];
+const FLOAT_SEC = 2.8;
+
+/** Sao bay lên, lấp lánh rồi tan, nối tiếp nhau (vẽ phía trước nhân vật) */
+function FloatingStars({ rank }: { rank: number }) {
+  if (rank < 2) return null;
+  const legendary = rank === 3;
+  const list = FLOATERS.slice(0, legendary ? 10 : 5);
+  const colors = legendary ? ["#fde047", "#ffffff", "#fbbf24", "#fff7cc"] : ["#e9d5ff", "#ffffff", "#c4b5fd"];
+  return (
+    <g pointerEvents="none">
+      {list.map(([x, y, r], i) => (
+        <g key={i} className={`fs ${i % 2 ? "fs-l" : "fs-r"}`} style={{ animationDelay: `${((i * FLOAT_SEC) / list.length).toFixed(2)}s`, animationDuration: `${FLOAT_SEC}s` }}>
+          <polygon points={starPoints(x, y, r + (legendary ? 3 : 1.5), (r + (legendary ? 3 : 1.5)) * 0.45)} fill={colors[i % colors.length]} stroke={legendary ? "#f59e0b" : "#a855f7"} strokeWidth={0.8} />
+        </g>
+      ))}
+    </g>
+  );
+}
+
 function RarityFx({ rank }: { rank: number }) {
   if (rank < 2) return null;
   const legendary = rank === 3;
@@ -111,6 +134,7 @@ export function Avatar({
       {get("pet").draw?.(c)}
       {hasPet && get("petAcc").draw?.(c)}
       {get("petToy").draw?.(c)}
+      <FloatingStars rank={topRank} />
     </svg>
   );
 }
