@@ -57,8 +57,7 @@ Nhấp đúp các file trong thư mục D:\PM HOC TAP theo thứ tự:
 
   3-PHAT-HANH-BAN-THU.bat
       Nhập số phiên bản mới (ví dụ 1.0.1, phải lớn hơn bản cũ) và ghi chú.
-      Script tự kiểm tra code rồi đẩy lên GitHub. GitHub build mất 5-8 phút
-      (theo dõi tại https://github.com/phihung9t1video/hoc-tap-vui/actions).
+      Script tự kiểm tra code rồi đẩy lên GitHub. Máy tính tự build APK rồi tải lên GitHub (2-3 phút)
       -> CHỈ điện thoại bố mẹ (đã bật "Nhận bản thử nghiệm") nhận bản này.
 
   4-DUYET-PHAT-HANH.bat
@@ -98,5 +97,4 @@ File D:\PM HOC TAP\.env.local cũng chứa khóa Gemini: không chia sẻ.
 ---------------------------------------------------------------------
 Mã nguồn:        https://github.com/phihung9t1video/hoc-tap-vui
 Các bản phát hành: https://github.com/phihung9t1video/hoc-tap-vui/releases
-Tiến trình build:  https://github.com/phihung9t1video/hoc-tap-vui/actions
 Khóa Gemini:     https://aistudio.google.com/apikey

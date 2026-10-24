@@ -9,3 +9,4 @@ android-keys/
 *.jks
 *.keystore
 .next-dev
+dist
