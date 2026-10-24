@@ -17,6 +17,8 @@ interface Manifest {
   minNativeCode: number;
   web: string;
   apk: string;
+  /** SHA-256 của file web zip (plugin bắt buộc có để kiểm tra file tải về nguyên vẹn) */
+  checksum?: string;
 }
 
 export type UpdateState =
@@ -71,8 +73,8 @@ export async function checkForUpdate(beta = false): Promise<UpdateState> {
     let bundle = bundles.find((b) => b.version === m.version && b.status !== "error");
     if (!bundle) {
       const url = asset(m.web);
-      if (!url) return { kind: "none" };
-      bundle = await CapacitorUpdater.download({ url, version: m.version });
+      if (!url || !m.checksum) return { kind: "none" };
+      bundle = await CapacitorUpdater.download({ url, version: m.version, checksum: m.checksum });
     }
     // Tự áp dụng khi app được đóng hoặc chuyển sang nền
     await CapacitorUpdater.next({ id: bundle.id });

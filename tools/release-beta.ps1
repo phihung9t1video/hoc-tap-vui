@@ -56,7 +56,8 @@ if (-not $ok) { Fail 'Build APK bi loi.' }
 Copy-Item 'android\app\build\outputs\apk\release\app-release.apk' (Join-Path $dist 'hoc-tap-vui.apk')
 
 $rel = Get-Content 'release.json' -Raw | ConvertFrom-Json
-@{ version = $new; versionCode = $code; minNativeCode = [int]$rel.minNativeCode; web = $webZip; apk = 'hoc-tap-vui.apk' } |
+$checksum = (Get-FileHash (Join-Path $dist $webZip) -Algorithm SHA256).Hash.ToLower()
+@{ version = $new; versionCode = $code; minNativeCode = [int]$rel.minNativeCode; web = $webZip; apk = 'hoc-tap-vui.apk'; checksum = $checksum } |
   ConvertTo-Json | Out-File -Encoding ascii (Join-Path $dist 'version.json')
 
 Step "Luu phien ban $new len GitHub"
