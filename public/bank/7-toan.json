@@ -341,6 +341,36 @@
     "16"
    ],
    "4² = 16 và 4 ≥ 0."
+  ],
+  [
+   "Kết quả của √(9) · √(4) là:",
+   [
+    "6",
+    "13",
+    "36",
+    "5"
+   ],
+   "3 · 2 = 6."
+  ],
+  [
+   "Làm tròn số 1 235 678 đến hàng nghìn:",
+   [
+    "1 236 000",
+    "1 235 000",
+    "1 240 000",
+    "1 235 700"
+   ],
+   "Chữ số hàng trăm là 6 (≥ 5) nên làm tròn lên: 1 236 000."
+  ],
+  [
+   "Số đối của √5 là:",
+   [
+    "−√5",
+    "√5",
+    "1/√5",
+    "5"
+   ],
+   "Số đối của a là −a."
   ]
  ],
  "c3": [
@@ -483,6 +513,26 @@
     "Câu hỏi và đáp án"
    ],
    "Định lí: nếu (giả thiết) thì (kết luận)."
+  ],
+  [
+   "Hai góc kề bù có hiệu là 40°. Góc lớn hơn bằng:",
+   [
+    "110°",
+    "70°",
+    "140°",
+    "100°"
+   ],
+   "Tổng 180°, hiệu 40°: góc lớn = (180° + 40°) : 2 = 110°."
+  ],
+  [
+   "Đường thẳng c cắt hai đường thẳng a, b. Nếu có một cặp góc so le trong bằng nhau thì:",
+   [
+    "a // b",
+    "a ⊥ b",
+    "a trùng b",
+    "a cắt b"
+   ],
+   "Dấu hiệu nhận biết hai đường thẳng song song."
   ]
  ],
  "c4": [
@@ -767,6 +817,26 @@
     "Điểm thi"
    ],
    "Môn thể thao yêu thích là dữ liệu dạng chữ (định tính)."
+  ],
+  [
+   "Trong một lớp, tỉ lệ học sinh giỏi là 20%. Lớp có 40 học sinh. Số học sinh giỏi là:",
+   [
+    "8",
+    "20",
+    "10",
+    "4"
+   ],
+   "20% · 40 = 8."
+  ],
+  [
+   "Trong biểu đồ hình quạt tròn, các phần có tổng bằng:",
+   [
+    "100%",
+    "360%",
+    "50%",
+    "180%"
+   ],
+   "Tổng các phần bằng 100%."
   ]
  ],
  "c6": [
@@ -1121,6 +1191,36 @@
     "x² + 9"
    ],
    "Thay x = −3: −3 + 3 = 0."
+  ],
+  [
+   "(3x − 2) − (x + 5) = ?",
+   [
+    "2x − 7",
+    "2x + 3",
+    "4x − 7",
+    "2x − 3"
+   ],
+   "3x − 2 − x − 5 = 2x − 7."
+  ],
+  [
+   "(x² + 2x)·x = ?",
+   [
+    "x³ + 2x²",
+    "x³ + 2x",
+    "x² + 2x²",
+    "2x³"
+   ],
+   "Nhân từng hạng tử với x."
+  ],
+  [
+   "Hệ số của x trong đa thức 4x³ − 7x + 1 là:",
+   [
+    "−7",
+    "4",
+    "1",
+    "7"
+   ],
+   "Hạng tử chứa x là −7x."
   ]
  ],
  "c8": [
@@ -1243,6 +1343,26 @@
     "1/2"
    ],
    "20 : 35 = 4/7."
+  ],
+  [
+   "Gieo hai đồng xu. Biến cố \"Có ít nhất một mặt sấp hoặc mặt ngửa\" là:",
+   [
+    "Biến cố chắc chắn",
+    "Biến cố không thể",
+    "Biến cố ngẫu nhiên",
+    "Có xác suất 1/2"
+   ],
+   "Mỗi đồng xu luôn ra sấp hoặc ngửa."
+  ],
+  [
+   "Một túi có 6 kẹo cam, 4 kẹo chanh. Lấy ngẫu nhiên 1 viên. Xác suất lấy kẹo chanh là:",
+   [
+    "2/5",
+    "3/5",
+    "4/6",
+    "1/4"
+   ],
+   "4/10 = 2/5."
   ]
  ],
  "c9": [
@@ -1527,6 +1647,26 @@
     "2 lít"
    ],
    "V = 2 m³ = 2 000 dm³ = 2 000 lít."
+  ],
+  [
+   "Một hộp hình lập phương có thể tích 64 cm³. Cạnh hộp dài:",
+   [
+    "4 cm",
+    "8 cm",
+    "16 cm",
+    "6 cm"
+   ],
+   "4³ = 64."
+  ],
+  [
+   "Lăng trụ đứng tứ giác có đáy là hình chữ nhật 3 cm × 4 cm, chiều cao 5 cm. Thể tích là:",
+   [
+    "60 cm³",
+    "35 cm³",
+    "70 cm³",
+    "12 cm³"
+   ],
+   "S_đáy = 12 cm²; V = 12 · 5 = 60 (cm³)."
   ]
  ],
  "tong-hop": [
@@ -1609,6 +1749,46 @@
     "24 dm³"
    ],
    "2³ = 8 (dm³)."
+  ],
+  [
+   "(−1)¹⁰⁰ = ?",
+   [
+    "1",
+    "−1",
+    "100",
+    "−100"
+   ],
+   "Lũy thừa bậc chẵn của −1 bằng 1."
+  ],
+  [
+   "Tam giác ABC vuông tại A, B̂ = 30°. Ĉ bằng:",
+   [
+    "60°",
+    "30°",
+    "90°",
+    "150°"
+   ],
+   "90° − 30° = 60°."
+  ],
+  [
+   "Giá trị của biểu thức 3x − 1 tại x = 1/3 là:",
+   [
+    "0",
+    "1",
+    "−1",
+    "2/3"
+   ],
+   "3 · 1/3 − 1 = 0."
+  ],
+  [
+   "y tỉ lệ nghịch với x với hệ số 20. Khi x = 4 thì y bằng:",
+   [
+    "5",
+    "80",
+    "16",
+    "24"
+   ],
+   "y = 20 : 4 = 5."
   ]
  ]
 }

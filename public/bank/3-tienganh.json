@@ -323,6 +323,26 @@
     "Linda"
    ],
    "book là quyển sách; các từ còn lại là tên người."
+  ],
+  [
+   "Read: \"This is Linh. She is my friend.\" Who is Linh?",
+   [
+    "my friend",
+    "my sister",
+    "my teacher",
+    "my mother"
+   ],
+   "She is my friend."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "Is that Mary?",
+    "That is Mary?",
+    "Is Mary that?",
+    "Mary is that?"
+   ],
+   "Câu hỏi Yes/No: Is that ...?"
   ]
  ],
  "u4": [
@@ -425,6 +445,26 @@
     "eyes"
    ],
    "nose = cái mũi."
+  ],
+  [
+   "Chọn từ khác loại:",
+   [
+    "pencil",
+    "eyes",
+    "ears",
+    "nose"
+   ],
+   "pencil là bút chì; các từ còn lại là bộ phận cơ thể."
+  ],
+  [
+   "I have two ___. (bàn tay)",
+   [
+    "hands",
+    "hand",
+    "a hand",
+    "handes"
+   ],
+   "two + số nhiều: hands."
   ]
  ],
  "u5": [
@@ -649,6 +689,26 @@
     "phòng thể dục"
    ],
    "classroom = lớp học."
+  ],
+  [
+   "Read: \"My school is big. It has a big library and a nice playground.\" Is the school big?",
+   [
+    "Yes, it is.",
+    "No, it isn't.",
+    "Yes, it does.",
+    "No, it doesn't."
+   ],
+   "My school is big → Yes, it is."
+  ],
+  [
+   "Sắp xếp: go / Let's / the / to / gym",
+   [
+    "Let's go to the gym.",
+    "Go let's to the gym.",
+    "Let's to go the gym.",
+    "The gym let's go to."
+   ],
+   "Let's + V: Let's go to the gym."
   ]
  ],
  "u7": [
@@ -751,6 +811,26 @@
     "Đứng lên"
    ],
    "Come in = vào."
+  ],
+  [
+   "Cô giáo muốn em mở sách. Cô nói:",
+   [
+    "Open your book, please.",
+    "Close your book, please.",
+    "Sit down, please.",
+    "Go out, please."
+   ],
+   "Open your book = mở sách."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "May I go out?",
+    "May I goes out?",
+    "May go I out?",
+    "I may go out?"
+   ],
+   "May I + V nguyên mẫu?"
   ]
  ],
  "u8": [
@@ -975,6 +1055,26 @@
     "purple"
    ],
    "brown = màu nâu."
+  ],
+  [
+   "Read: \"My pencil case is pink and my pens are blue.\" What colour are the pens?",
+   [
+    "blue",
+    "pink",
+    "red",
+    "green"
+   ],
+   "My pens are blue."
+  ],
+  [
+   "What colour is a banana?",
+   [
+    "yellow",
+    "blue",
+    "black",
+    "purple"
+   ],
+   "Quả chuối chín màu vàng (yellow)."
   ]
  ],
  "u10": [
@@ -1077,6 +1177,26 @@
     "kitchen"
    ],
    "basketball = bóng rổ."
+  ],
+  [
+   "Read: \"At break time, Nam plays chess and Mai plays badminton.\" What does Mai play?",
+   [
+    "badminton",
+    "chess",
+    "football",
+    "volleyball"
+   ],
+   "Mai plays badminton."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "We play football at break time.",
+    "We plays football at break time.",
+    "We playing football at break time.",
+    "We are play football at break time."
+   ],
+   "We + play."
   ]
  ],
  "u11": [
@@ -1301,6 +1421,26 @@
     "two"
    ],
    "doctor bắt đầu bằng phụ âm: a doctor."
+  ],
+  [
+   "Read: \"My mother is a nurse. She works in a hospital.\" What is the mother's job?",
+   [
+    "nurse",
+    "teacher",
+    "farmer",
+    "singer"
+   ],
+   "My mother is a nurse."
+  ],
+  [
+   "A ___ grows rice and vegetables.",
+   [
+    "farmer",
+    "doctor",
+    "driver",
+    "singer"
+   ],
+   "Nông dân trồng lúa và rau."
   ]
  ],
  "u13": [
@@ -1525,6 +1665,26 @@
     "bức tường"
    ],
    "door = cửa ra vào."
+  ],
+  [
+   "Read: \"There is a bed, a desk and two chairs in my bedroom.\" How many chairs are there?",
+   [
+    "two",
+    "one",
+    "three",
+    "four"
+   ],
+   "two chairs."
+  ],
+  [
+   "There ___ a lamp on the desk.",
+   [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "a lamp số ít: There is."
   ]
  ],
  "u15": [
@@ -1627,6 +1787,26 @@
     "rau"
    ],
    "meat = thịt."
+  ],
+  [
+   "Read: \"For breakfast, I have bread, eggs and milk.\" What does the speaker drink?",
+   [
+    "milk",
+    "juice",
+    "water",
+    "tea"
+   ],
+   "milk là đồ uống trong bữa sáng."
+  ],
+  [
+   "Sắp xếp: like / Would / some / you / rice / ?",
+   [
+    "Would you like some rice?",
+    "You would like some rice?",
+    "Would like you some rice?",
+    "Some rice would you like?"
+   ],
+   "Lời mời: Would you like some ...?"
   ]
  ],
  "u16": [
@@ -1851,6 +2031,26 @@
     "gấu bông"
    ],
    "robot = người máy."
+  ],
+  [
+   "Read: \"Ben has a red car and a blue robot.\" What colour is the robot?",
+   [
+    "blue",
+    "red",
+    "yellow",
+    "green"
+   ],
+   "a blue robot."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "He has a kite.",
+    "He have a kite.",
+    "He has kite a.",
+    "He haves a kite."
+   ],
+   "He + has + a + N."
   ]
  ],
  "u18": [
@@ -2075,6 +2275,26 @@
     "đi bộ"
    ],
    "fly a kite = thả diều."
+  ],
+  [
+   "Read: \"It is sunny today. My brother is flying a kite in the park.\" Where is the brother?",
+   [
+    "in the park",
+    "at school",
+    "in the kitchen",
+    "at the zoo"
+   ],
+   "in the park."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "They are cycling.",
+    "They is cycling.",
+    "They cycling are.",
+    "They are cycle."
+   ],
+   "They are + V-ing."
   ]
  ],
  "u20": [
@@ -2339,6 +2559,36 @@
     "rabbit"
    ],
    "bedroom là phòng ngủ; còn lại là con vật."
+  ],
+  [
+   "Read: \"I'm Minh. I'm in grade 3. I have a cat. Its name is Kitty.\" What is the cat's name?",
+   [
+    "Kitty",
+    "Minh",
+    "Grade",
+    "Cat"
+   ],
+   "Its name is Kitty."
+  ],
+  [
+   "Chọn câu hỏi phù hợp: \"I'm ten years old.\"",
+   [
+    "How old are you?",
+    "What's your name?",
+    "How are you?",
+    "Where are you?"
+   ],
+   "Trả lời tuổi → câu hỏi How old are you?"
+  ],
+  [
+   "\"Thank you\" nghĩa là:",
+   [
+    "Cảm ơn",
+    "Xin lỗi",
+    "Xin chào",
+    "Tạm biệt"
+   ],
+   "Thank you = Cảm ơn."
   ]
  ]
 }

@@ -241,6 +241,26 @@
     "You should drinking more water."
    ],
    "should + V nguyên mẫu."
+  ],
+  [
+   "Choose the word with a different meaning group:",
+   [
+    "sunburn",
+    "apple",
+    "banana",
+    "orange"
+   ],
+   "sunburn là bệnh cháy nắng; còn lại là trái cây."
+  ],
+  [
+   "You shouldn't ___ too much sugar.",
+   [
+    "eat",
+    "eats",
+    "eating",
+    "to eat"
+   ],
+   "shouldn't + V nguyên mẫu."
   ]
  ],
  "u3": [
@@ -465,6 +485,26 @@
     "than"
    ],
    "the same as = giống như."
+  ],
+  [
+   "Read: \"Trang can play the piano. Her brother can draw very well.\" What can Trang do?",
+   [
+    "play the piano",
+    "draw pictures",
+    "sing",
+    "dance"
+   ],
+   "Trang can play the piano."
+  ],
+  [
+   "\"Composer\" nghĩa là:",
+   [
+    "nhà soạn nhạc",
+    "ca sĩ",
+    "họa sĩ",
+    "diễn viên"
+   ],
+   "composer = nhà soạn nhạc."
   ]
  ],
  "u5": [
@@ -689,6 +729,26 @@
     "phụ huynh"
    ],
    "gifted = có năng khiếu."
+  ],
+  [
+   "Read: \"Our school has 30 classrooms, a library and a big playground.\" How many classrooms are there?",
+   [
+    "30",
+    "13",
+    "3",
+    "300"
+   ],
+   "30 classrooms."
+  ],
+  [
+   "We often go to school ___ bike.",
+   [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "by bike = bằng xe đạp."
   ]
  ],
  "u7": [
@@ -913,6 +973,26 @@
     "phim hài"
    ],
    "animated film = phim hoạt hình."
+  ],
+  [
+   "Read: \"I watched a science fiction film last night. It was about robots on Mars.\" What was the film about?",
+   [
+    "robots on Mars",
+    "a funny family",
+    "a haunted house",
+    "animals in Africa"
+   ],
+   "It was about robots on Mars."
+  ],
+  [
+   "The film was ___. I laughed a lot.",
+   [
+    "funny",
+    "scary",
+    "boring",
+    "sad"
+   ],
+   "laughed a lot → funny."
   ]
  ],
  "u9": [
@@ -1401,6 +1481,26 @@
     "An UK has four countries."
    ],
    "The UK."
+  ],
+  [
+   "The official language of Australia is ___.",
+   [
+    "English",
+    "French",
+    "Spanish",
+    "Chinese"
+   ],
+   "Úc dùng tiếng Anh."
+  ],
+  [
+   "New Zealand's capital is ___.",
+   [
+    "Wellington",
+    "Auckland",
+    "Sydney",
+    "Canberra"
+   ],
+   "Thủ đô New Zealand là Wellington."
   ]
  ],
  "tong-hop": [
@@ -1483,6 +1583,46 @@
     "expensive only"
    ],
    "Gió và mặt trời là năng lượng tái tạo."
+  ],
+  [
+   "Read: \"Last summer, Minh visited his grandparents in Hue. He ate a lot of local food.\" Where did Minh go?",
+   [
+    "Hue",
+    "Ha Noi",
+    "Da Nang",
+    "Can Tho"
+   ],
+   "He visited his grandparents in Hue."
+  ],
+  [
+   "Choose the correct sentence:",
+   [
+    "I am interested in music.",
+    "I am interesting in music.",
+    "I interested in music.",
+    "I am interest in music."
+   ],
+   "be interested in."
+  ],
+  [
+   "How ___ is it from your house to school?",
+   [
+    "far",
+    "long",
+    "much",
+    "many"
+   ],
+   "Hỏi khoảng cách: How far."
+  ],
+  [
+   "We ___ solar panels next year.",
+   [
+    "will install",
+    "installed",
+    "install",
+    "are install"
+   ],
+   "next year → will + V."
   ]
  ]
 }
