@@ -159,6 +159,46 @@
     "550"
    ],
    "Các số tròn trăm: 400, 500... Số tròn trăm liền sau 450 là 500."
+  ],
+  [
+   "Lớp 3A có 32 học sinh, lớp 3B nhiều hơn lớp 3A 4 học sinh. Lớp 3B có bao nhiêu học sinh?",
+   [
+    "36 học sinh",
+    "28 học sinh",
+    "34 học sinh",
+    "38 học sinh"
+   ],
+   "Nhiều hơn thì cộng: 32 + 4 = 36 (học sinh)."
+  ],
+  [
+   "Một cửa hàng có 560 kg gạo, đã bán 230 kg. Cửa hàng còn lại bao nhiêu ki-lô-gam gạo?",
+   [
+    "330 kg",
+    "790 kg",
+    "320 kg",
+    "340 kg"
+   ],
+   "560 − 230 = 330 (kg)."
+  ],
+  [
+   "Số 999 là số:",
+   [
+    "Lớn nhất có ba chữ số",
+    "Bé nhất có ba chữ số",
+    "Lớn nhất có hai chữ số",
+    "Bé nhất có bốn chữ số"
+   ],
+   "999 là số lớn nhất có ba chữ số."
+  ],
+  [
+   "Tìm x, biết x − 37 = 48.",
+   [
+    "85",
+    "11",
+    "75",
+    "95"
+   ],
+   "Số bị trừ = hiệu + số trừ: x = 48 + 37 = 85."
   ]
  ],
  "c2": [
@@ -331,6 +371,56 @@
     "40 ghế"
    ],
    "9 × 5 = 45 (ghế)."
+  ],
+  [
+   "Mỗi con thỏ có 4 chân. 9 con thỏ có bao nhiêu chân?",
+   [
+    "36 chân",
+    "13 chân",
+    "32 chân",
+    "40 chân"
+   ],
+   "4 × 9 = 36 (chân)."
+  ],
+  [
+   "Có 54 quyển vở chia đều cho 9 bạn. Mỗi bạn được mấy quyển?",
+   [
+    "6 quyển",
+    "5 quyển",
+    "7 quyển",
+    "45 quyển"
+   ],
+   "54 : 9 = 6 (quyển)."
+  ],
+  [
+   "Hùng có 6 viên bi, Nam có gấp 3 lần số bi của Hùng. Nam có bao nhiêu viên bi?",
+   [
+    "18 viên",
+    "9 viên",
+    "3 viên",
+    "2 viên"
+   ],
+   "Gấp 3 lần thì nhân 3: 6 × 3 = 18 (viên)."
+  ],
+  [
+   "Một đoạn dây dài 40 cm cắt thành các đoạn, mỗi đoạn 8 cm. Cắt được bao nhiêu đoạn?",
+   [
+    "5 đoạn",
+    "4 đoạn",
+    "32 đoạn",
+    "48 đoạn"
+   ],
+   "40 : 8 = 5 (đoạn)."
+  ],
+  [
+   "Mẹ có 3 chục quả trứng, mẹ dùng hết 1/3 số trứng. Mẹ đã dùng bao nhiêu quả?",
+   [
+    "10 quả",
+    "3 quả",
+    "20 quả",
+    "27 quả"
+   ],
+   "3 chục = 30 quả; 1/3 của 30 là 30 : 3 = 10 (quả)."
   ]
  ],
  "c3": [
@@ -655,6 +745,46 @@
     "6 l"
    ],
    "48 : 6 = 8 (l)."
+  ],
+  [
+   "Một thùng có 4 gói kẹo, mỗi gói 24 viên. Thùng đó có bao nhiêu viên kẹo?",
+   [
+    "96 viên",
+    "28 viên",
+    "86 viên",
+    "98 viên"
+   ],
+   "24 × 4 = 96 (viên)."
+  ],
+  [
+   "Có 75 học sinh xếp đều vào 5 xe. Mỗi xe có bao nhiêu học sinh?",
+   [
+    "15 học sinh",
+    "14 học sinh",
+    "70 học sinh",
+    "16 học sinh"
+   ],
+   "75 : 5 = 15 (học sinh)."
+  ],
+  [
+   "Có 50 lít nước rót vào các can 6 lít. Cần ít nhất mấy can để chứa hết?",
+   [
+    "9 can",
+    "8 can",
+    "7 can",
+    "10 can"
+   ],
+   "50 : 6 = 8 (dư 2). 8 can còn thừa 2 lít nên cần 9 can."
+  ],
+  [
+   "Năm nay bố 40 tuổi, tuổi con bằng 1/5 tuổi bố. Con bao nhiêu tuổi?",
+   [
+    "8 tuổi",
+    "5 tuổi",
+    "35 tuổi",
+    "45 tuổi"
+   ],
+   "40 : 5 = 8 (tuổi)."
   ]
  ],
  "c5": [
@@ -979,6 +1109,56 @@
     "91"
    ],
    "56 : 7 = 8; 7 : 7 = 1. Kết quả 81."
+  ],
+  [
+   "Một cửa hàng ngày đầu bán 214 kg đường, ngày sau bán gấp đôi ngày đầu. Ngày sau bán được:",
+   [
+    "428 kg",
+    "216 kg",
+    "642 kg",
+    "107 kg"
+   ],
+   "214 × 2 = 428 (kg)."
+  ],
+  [
+   "Có 846 quyển sách xếp đều vào 6 ngăn. Mỗi ngăn có:",
+   [
+    "141 quyển",
+    "140 quyển",
+    "146 quyển",
+    "131 quyển"
+   ],
+   "846 : 6 = 141 (quyển). Thử lại: 141 × 6 = 846."
+  ],
+  [
+   "Giá trị của biểu thức 450 − 50 × 3 là:",
+   [
+    "300",
+    "1 200",
+    "150",
+    "400"
+   ],
+   "Nhân trước: 50 × 3 = 150; 450 − 150 = 300."
+  ],
+  [
+   "Giá trị của biểu thức (450 − 50) × 3 là:",
+   [
+    "1 200",
+    "300",
+    "1 300",
+    "400"
+   ],
+   "Trong ngoặc trước: 450 − 50 = 400; 400 × 3 = 1 200."
+  ],
+  [
+   "Mua 3 quyển vở giá 8 000 đồng một quyển và 1 cái bút giá 5 000 đồng. Hết tất cả:",
+   [
+    "29 000 đồng",
+    "39 000 đồng",
+    "16 000 đồng",
+    "24 000 đồng"
+   ],
+   "3 × 8 000 = 24 000; 24 000 + 5 000 = 29 000 (đồng)."
   ]
  ],
  "c8": [
@@ -1273,6 +1453,46 @@
     "100 cm"
    ],
    "Xăng-ti-mét vuông là diện tích hình vuông cạnh 1 cm."
+  ],
+  [
+   "Một tấm bìa hình vuông có chu vi 36 cm. Diện tích tấm bìa là:",
+   [
+    "81 cm²",
+    "36 cm²",
+    "9 cm²",
+    "144 cm²"
+   ],
+   "Cạnh = 36 : 4 = 9 (cm). Diện tích = 9 × 9 = 81 (cm²)."
+  ],
+  [
+   "Hình chữ nhật có chiều rộng 4 cm, chiều dài gấp đôi chiều rộng. Diện tích là:",
+   [
+    "32 cm²",
+    "24 cm²",
+    "16 cm²",
+    "12 cm²"
+   ],
+   "Chiều dài = 4 × 2 = 8 (cm). Diện tích = 8 × 4 = 32 (cm²)."
+  ],
+  [
+   "Ghép 2 hình vuông cạnh 3 cm thành một hình chữ nhật. Chu vi hình chữ nhật đó là:",
+   [
+    "18 cm",
+    "24 cm",
+    "12 cm",
+    "9 cm"
+   ],
+   "Hình chữ nhật dài 6 cm, rộng 3 cm: (6 + 3) × 2 = 18 (cm)."
+  ],
+  [
+   "Hình vuông A cạnh 5 cm, hình vuông B cạnh 4 cm. Diện tích hình A lớn hơn hình B:",
+   [
+    "9 cm²",
+    "1 cm²",
+    "4 cm²",
+    "20 cm²"
+   ],
+   "25 − 16 = 9 (cm²)."
   ]
  ],
  "c10": [
@@ -1689,6 +1909,36 @@
     "63 500"
    ],
    "25 000 + 37 500 = 62 500."
+  ],
+  [
+   "Một trường có 1 250 học sinh nam và 1 180 học sinh nữ. Trường có tất cả:",
+   [
+    "2 430 học sinh",
+    "70 học sinh",
+    "2 330 học sinh",
+    "2 420 học sinh"
+   ],
+   "1 250 + 1 180 = 2 430 (học sinh)."
+  ],
+  [
+   "Một xe chở 15 000 kg hàng, đã dỡ xuống 7 500 kg. Xe còn lại:",
+   [
+    "7 500 kg",
+    "22 500 kg",
+    "8 500 kg",
+    "6 500 kg"
+   ],
+   "15 000 − 7 500 = 7 500 (kg)."
+  ],
+  [
+   "Năm nay nhà máy sản xuất 46 500 sản phẩm, năm ngoái ít hơn năm nay 3 500 sản phẩm. Năm ngoái sản xuất:",
+   [
+    "43 000 sản phẩm",
+    "50 000 sản phẩm",
+    "42 000 sản phẩm",
+    "44 000 sản phẩm"
+   ],
+   "46 500 − 3 500 = 43 000 (sản phẩm)."
   ]
  ],
  "c13": [
@@ -1841,6 +2091,36 @@
     "15 000 đồng"
    ],
    "6 000 × 3 = 18 000 (đồng)."
+  ],
+  [
+   "Lan đi học lúc 6 giờ 45 phút, đến trường lúc 7 giờ 5 phút. Lan đi hết bao nhiêu phút?",
+   [
+    "20 phút",
+    "40 phút",
+    "15 phút",
+    "25 phút"
+   ],
+   "Từ 6 giờ 45 đến 7 giờ là 15 phút, thêm 5 phút nữa: 20 phút."
+  ],
+  [
+   "Ngày 30 tháng 4 là thứ Năm. Ngày 1 tháng 5 cùng năm là thứ mấy?",
+   [
+    "Thứ Sáu",
+    "Thứ Tư",
+    "Thứ Bảy",
+    "Thứ Năm"
+   ],
+   "Tháng 4 có 30 ngày nên ngày tiếp theo là 1/5, là thứ Sáu."
+  ],
+  [
+   "Mẹ đưa 50 000 đồng mua 2 kg táo, mỗi ki-lô-gam 20 000 đồng. Mẹ được trả lại:",
+   [
+    "10 000 đồng",
+    "30 000 đồng",
+    "40 000 đồng",
+    "20 000 đồng"
+   ],
+   "2 kg táo giá 40 000 đồng; 50 000 − 40 000 = 10 000 (đồng)."
   ]
  ],
  "c14": [
@@ -1983,6 +2263,36 @@
     "17"
    ],
    "Tính từ trái sang phải: 84 : 7 = 12; 12 × 5 = 60."
+  ],
+  [
+   "Một đội trồng cây, mỗi ngày trồng 1 250 cây. Trong 6 ngày đội trồng được:",
+   [
+    "7 500 cây",
+    "1 256 cây",
+    "6 250 cây",
+    "7 250 cây"
+   ],
+   "1 250 × 6 = 7 500 (cây)."
+  ],
+  [
+   "Có 28 350 kg gạo chia đều cho 5 kho. Mỗi kho có:",
+   [
+    "5 670 kg",
+    "5 607 kg",
+    "5 760 kg",
+    "567 kg"
+   ],
+   "28 350 : 5 = 5 670 (kg). Thử lại: 5 670 × 5 = 28 350."
+  ],
+  [
+   "6 bao xi măng nặng 300 kg. 9 bao như thế nặng:",
+   [
+    "450 kg",
+    "1 800 kg",
+    "2 700 kg",
+    "50 kg"
+   ],
+   "Mỗi bao nặng 300 : 6 = 50 (kg). 9 bao nặng 50 × 9 = 450 (kg)."
   ]
  ],
  "c15": [

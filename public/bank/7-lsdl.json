@@ -1,55 +1,446 @@
 {
-  "c1": [
-    ["Cuộc phát kiến địa lí nổi tiếng của C. Cô-lôm-bô (Columbus) năm 1492 đã tìm ra:", ["Châu Mỹ", "Châu Úc", "Châu Nam Cực", "Ấn Độ thật sự"], "Năm 1492, Columbus đến châu Mỹ (khi đó ông tưởng là Ấn Độ)."],
-    ["Phong trào Văn hóa Phục hưng bắt đầu ở nước nào?", ["I-ta-li-a (Ý)", "Anh", "Trung Quốc", "Ai Cập"], "Phục hưng khởi đầu ở I-ta-li-a vào thế kỉ XIV."],
-    ["Lê-ô-na-đô đa Vin-xi (Leonardo da Vinci) là tác giả bức họa nổi tiếng:", ["Nàng Mô-na Li-sa", "Đêm đầy sao", "Hoa hướng dương", "Tiếng thét"], "Mona Lisa là kiệt tác của Leonardo da Vinci."],
-    ["Lãnh địa phong kiến ở Tây Âu thời trung đại thuộc quyền sở hữu của:", ["Lãnh chúa", "Nông nô", "Thương nhân", "Thợ thủ công"], "Lãnh chúa sở hữu lãnh địa; nông nô cày cấy và nộp tô."],
-    ["Bốn phát minh kĩ thuật quan trọng của Trung Quốc thời trung đại gồm:", ["Giấy, kĩ thuật in, la bàn, thuốc súng", "Máy hơi nước, điện, ô tô, máy bay", "Kính viễn vọng, đồng hồ, máy tính, điện thoại", "Xe đạp, tàu thủy, đèn điện, radio"], "Đó là bốn phát minh lớn của Trung Quốc."],
-    ["Vương triều Gúp-ta, Mô-gôn là các vương triều của:", ["Ấn Độ", "Trung Quốc", "Nhật Bản", "Ai Cập"], "Gupta và Mogul là các vương triều Ấn Độ."]
+ "c1": [
+  [
+   "Cuộc phát kiến địa lí nổi tiếng của C. Cô-lôm-bô (Columbus) năm 1492 đã tìm ra:",
+   [
+    "Châu Mỹ",
+    "Châu Úc",
+    "Châu Nam Cực",
+    "Ấn Độ thật sự"
+   ],
+   "Năm 1492, Columbus đến châu Mỹ (khi đó ông tưởng là Ấn Độ)."
   ],
-  "c2": [
-    ["Công trình kiến trúc nổi tiếng Ăng-co Vát thuộc quốc gia nào ngày nay?", ["Cam-pu-chia", "Lào", "Thái Lan", "Việt Nam"], "Angkor Wat là biểu tượng của Cam-pu-chia."],
-    ["Thạt Luổng là công trình kiến trúc tiêu biểu của:", ["Lào", "Cam-pu-chia", "Mi-an-ma", "In-đô-nê-xi-a"], "That Luang ở Viêng Chăn (Lào)."],
-    ["Khu vực Đông Nam Á chịu ảnh hưởng mạnh của nền văn hóa nào?", ["Ấn Độ và Trung Quốc", "Hy Lạp và La Mã", "Ai Cập", "Bắc Âu"], "Đông Nam Á tiếp thu văn hóa Ấn Độ, Trung Quốc."],
-    ["Thời kì thịnh vượng của Vương quốc Cam-pu-chia gọi là:", ["Thời kì Ăng-co", "Thời kì Phù Nam", "Thời kì Lạn Xạng", "Thời kì Pa-gan"], "Thời kì Ăng-co (thế kỉ IX–XV) là thời kì phát triển rực rỡ."],
-    ["Vương quốc Lạn Xạng là của:", ["Lào", "Thái Lan", "Mi-an-ma", "Cam-pu-chia"], "Lan Xang (Triệu Voi) là vương quốc của người Lào."]
+  [
+   "Phong trào Văn hóa Phục hưng bắt đầu ở nước nào?",
+   [
+    "I-ta-li-a (Ý)",
+    "Anh",
+    "Trung Quốc",
+    "Ai Cập"
+   ],
+   "Phục hưng khởi đầu ở I-ta-li-a vào thế kỉ XIV."
   ],
-  "c3": [
-    ["Ai lên ngôi vua năm 968, đặt tên nước là Đại Cồ Việt?", ["Đinh Bộ Lĩnh", "Ngô Quyền", "Lê Hoàn", "Lý Công Uẩn"], "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, lên ngôi, đặt quốc hiệu Đại Cồ Việt."],
-    ["Năm 1010, Lý Công Uẩn dời đô từ Hoa Lư về:", ["Đại La (đổi tên là Thăng Long)", "Phú Xuân", "Cổ Loa", "Tây Đô"], "Năm 1010, vua Lý Thái Tổ dời đô về Đại La, đổi tên là Thăng Long."],
-    ["Người chỉ huy trận phòng tuyến sông Như Nguyệt chống quân Tống (1077) là:", ["Lý Thường Kiệt", "Trần Hưng Đạo", "Lê Lợi", "Ngô Quyền"], "Lý Thường Kiệt chỉ huy kháng chiến chống Tống."],
-    ["Nhà Trần đã mấy lần kháng chiến chống quân Mông – Nguyên?", ["Ba lần", "Một lần", "Hai lần", "Bốn lần"], "Ba lần: 1258, 1285, 1287–1288."],
-    ["Chiến thắng Bạch Đằng năm 1288 gắn với tên tuổi của:", ["Trần Hưng Đạo (Trần Quốc Tuấn)", "Ngô Quyền", "Lê Hoàn", "Quang Trung"], "Trần Hưng Đạo chỉ huy trận Bạch Đằng 1288."],
-    ["Khởi nghĩa Lam Sơn (1418–1427) do ai lãnh đạo?", ["Lê Lợi", "Lê Hoàn", "Hồ Quý Ly", "Lý Bí"], "Lê Lợi lãnh đạo khởi nghĩa Lam Sơn, lập ra nhà Lê sơ."],
-    ["\"Bình Ngô đại cáo\" do ai soạn thảo?", ["Nguyễn Trãi", "Lý Thường Kiệt", "Trần Hưng Đạo", "Lê Thánh Tông"], "Nguyễn Trãi viết Bình Ngô đại cáo năm 1428."]
+  [
+   "Lê-ô-na-đô đa Vin-xi (Leonardo da Vinci) là tác giả bức họa nổi tiếng:",
+   [
+    "Nàng Mô-na Li-sa",
+    "Đêm đầy sao",
+    "Hoa hướng dương",
+    "Tiếng thét"
+   ],
+   "Mona Lisa là kiệt tác của Leonardo da Vinci."
   ],
-  "c4": [
-    ["Châu Âu nằm chủ yếu trong đới khí hậu:", ["Ôn đới", "Nhiệt đới", "Xích đạo", "Hàn đới hoàn toàn"], "Phần lớn châu Âu có khí hậu ôn đới."],
-    ["Dãy núi ngăn cách châu Âu và châu Á là:", ["U-ran", "An-pơ", "Hi-ma-lay-a", "An-đét"], "Dãy Ural là ranh giới tự nhiên giữa châu Âu và châu Á."],
-    ["Tổ chức liên kết kinh tế – chính trị lớn của châu Âu là:", ["Liên minh châu Âu (EU)", "ASEAN", "APEC", "OPEC"], "EU là Liên minh châu Âu."],
-    ["Dân cư châu Âu có đặc điểm:", ["Già hóa, tỉ lệ dân thành thị cao", "Rất trẻ, ít người sống ở thành phố", "Đông nhất thế giới", "Chủ yếu sống du mục"], "Châu Âu có cơ cấu dân số già và đô thị hóa cao."],
-    ["Sông nào chảy qua nhiều quốc gia châu Âu nhất?", ["Đa-nuýp", "Nin", "A-ma-dôn", "Mê Công"], "Sông Danube chảy qua nhiều nước châu Âu."]
+  [
+   "Lãnh địa phong kiến ở Tây Âu thời trung đại thuộc quyền sở hữu của:",
+   [
+    "Lãnh chúa",
+    "Nông nô",
+    "Thương nhân",
+    "Thợ thủ công"
+   ],
+   "Lãnh chúa sở hữu lãnh địa; nông nô cày cấy và nộp tô."
   ],
-  "c5": [
-    ["Châu Á là châu lục:", ["Rộng lớn nhất thế giới", "Nhỏ nhất thế giới", "Nằm hoàn toàn ở Nam bán cầu", "Không có biển"], "Châu Á có diện tích lớn nhất."],
-    ["Đỉnh núi cao nhất thế giới Ê-vơ-rét (Everest) thuộc dãy:", ["Hi-ma-lay-a", "An-pơ", "U-ran", "An-đét"], "Everest thuộc dãy Himalaya."],
-    ["Khu vực Đông Nam Á có kiểu khí hậu chủ yếu là:", ["Nhiệt đới gió mùa", "Hàn đới", "Ôn đới lục địa", "Hoang mạc"], "Đông Nam Á chủ yếu có khí hậu nhiệt đới gió mùa."],
-    ["Quốc gia đông dân nhất châu Á (cũng là của thế giới hiện nay) là:", ["Ấn Độ", "Nhật Bản", "Việt Nam", "Thái Lan"], "Từ năm 2023, Ấn Độ là nước đông dân nhất thế giới."],
-    ["Việt Nam thuộc khu vực nào của châu Á?", ["Đông Nam Á", "Tây Nam Á", "Trung Á", "Bắc Á"], "Việt Nam nằm ở Đông Nam Á."]
+  [
+   "Bốn phát minh kĩ thuật quan trọng của Trung Quốc thời trung đại gồm:",
+   [
+    "Giấy, kĩ thuật in, la bàn, thuốc súng",
+    "Máy hơi nước, điện, ô tô, máy bay",
+    "Kính viễn vọng, đồng hồ, máy tính, điện thoại",
+    "Xe đạp, tàu thủy, đèn điện, radio"
+   ],
+   "Đó là bốn phát minh lớn của Trung Quốc."
   ],
-  "c6": [
-    ["Hoang mạc lớn nhất thế giới ở châu Phi là:", ["Xa-ha-ra", "Gô-bi", "A-ta-ca-ma", "Ca-la-ha-ri"], "Sahara là hoang mạc nóng lớn nhất thế giới, ở Bắc Phi."],
-    ["Sông Nin chảy ở châu lục nào?", ["Châu Phi", "Châu Á", "Châu Mỹ", "Châu Âu"], "Sông Nile chảy qua Đông Bắc châu Phi."],
-    ["Rừng A-ma-dôn (Amazon) nằm ở:", ["Nam Mỹ", "Bắc Mỹ", "Châu Phi", "Châu Á"], "Rừng Amazon ở Nam Mỹ."],
-    ["Châu lục nào lạnh nhất, gần như không có người sinh sống thường xuyên?", ["Châu Nam Cực", "Châu Âu", "Châu Đại Dương", "Châu Phi"], "Châu Nam Cực phủ băng, khí hậu cực lạnh."],
-    ["Lục địa Ô-xtrây-li-a thuộc châu lục:", ["Châu Đại Dương", "Châu Á", "Châu Mỹ", "Châu Âu"], "Australia thuộc châu Đại Dương."],
-    ["Dãy núi An-đét chạy dọc phía tây của:", ["Nam Mỹ", "Bắc Mỹ", "Châu Phi", "Châu Âu"], "Andes là dãy núi dài ở phía tây Nam Mỹ."]
-  ],
-  "tong-hop": [
-    ["Năm 1010 gắn với sự kiện:", ["Lý Công Uẩn dời đô về Thăng Long", "Ngô Quyền thắng Bạch Đằng", "Khởi nghĩa Lam Sơn thắng lợi", "Nhà Trần thành lập"], "Năm 1010: Chiếu dời đô, Thăng Long ra đời."],
-    ["Phục hưng là phong trào văn hóa diễn ra ở:", ["Châu Âu", "Châu Á", "Châu Phi", "Châu Mỹ"], "Phong trào Văn hóa Phục hưng ở châu Âu."],
-    ["Hoang mạc Xa-ha-ra thuộc châu:", ["Phi", "Á", "Mỹ", "Âu"], "Sahara ở Bắc Phi."],
-    ["Người lãnh đạo khởi nghĩa Lam Sơn là:", ["Lê Lợi", "Lý Thường Kiệt", "Trần Hưng Đạo", "Đinh Bộ Lĩnh"], "Lê Lợi."],
-    ["Châu lục có diện tích lớn nhất là:", ["Châu Á", "Châu Phi", "Châu Mỹ", "Châu Âu"], "Châu Á."]
+  [
+   "Vương triều Gúp-ta, Mô-gôn là các vương triều của:",
+   [
+    "Ấn Độ",
+    "Trung Quốc",
+    "Nhật Bản",
+    "Ai Cập"
+   ],
+   "Gupta và Mogul là các vương triều Ấn Độ."
   ]
+ ],
+ "c2": [
+  [
+   "Công trình kiến trúc nổi tiếng Ăng-co Vát thuộc quốc gia nào ngày nay?",
+   [
+    "Cam-pu-chia",
+    "Lào",
+    "Thái Lan",
+    "Việt Nam"
+   ],
+   "Angkor Wat là biểu tượng của Cam-pu-chia."
+  ],
+  [
+   "Thạt Luổng là công trình kiến trúc tiêu biểu của:",
+   [
+    "Lào",
+    "Cam-pu-chia",
+    "Mi-an-ma",
+    "In-đô-nê-xi-a"
+   ],
+   "That Luang ở Viêng Chăn (Lào)."
+  ],
+  [
+   "Khu vực Đông Nam Á chịu ảnh hưởng mạnh của nền văn hóa nào?",
+   [
+    "Ấn Độ và Trung Quốc",
+    "Hy Lạp và La Mã",
+    "Ai Cập",
+    "Bắc Âu"
+   ],
+   "Đông Nam Á tiếp thu văn hóa Ấn Độ, Trung Quốc."
+  ],
+  [
+   "Thời kì thịnh vượng của Vương quốc Cam-pu-chia gọi là:",
+   [
+    "Thời kì Ăng-co",
+    "Thời kì Phù Nam",
+    "Thời kì Lạn Xạng",
+    "Thời kì Pa-gan"
+   ],
+   "Thời kì Ăng-co (thế kỉ IX–XV) là thời kì phát triển rực rỡ."
+  ],
+  [
+   "Vương quốc Lạn Xạng là của:",
+   [
+    "Lào",
+    "Thái Lan",
+    "Mi-an-ma",
+    "Cam-pu-chia"
+   ],
+   "Lan Xang (Triệu Voi) là vương quốc của người Lào."
+  ]
+ ],
+ "c3": [
+  [
+   "Ai lên ngôi vua năm 968, đặt tên nước là Đại Cồ Việt?",
+   [
+    "Đinh Bộ Lĩnh",
+    "Ngô Quyền",
+    "Lê Hoàn",
+    "Lý Công Uẩn"
+   ],
+   "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, lên ngôi, đặt quốc hiệu Đại Cồ Việt."
+  ],
+  [
+   "Năm 1010, Lý Công Uẩn dời đô từ Hoa Lư về:",
+   [
+    "Đại La (đổi tên là Thăng Long)",
+    "Phú Xuân",
+    "Cổ Loa",
+    "Tây Đô"
+   ],
+   "Năm 1010, vua Lý Thái Tổ dời đô về Đại La, đổi tên là Thăng Long."
+  ],
+  [
+   "Người chỉ huy trận phòng tuyến sông Như Nguyệt chống quân Tống (1077) là:",
+   [
+    "Lý Thường Kiệt",
+    "Trần Hưng Đạo",
+    "Lê Lợi",
+    "Ngô Quyền"
+   ],
+   "Lý Thường Kiệt chỉ huy kháng chiến chống Tống."
+  ],
+  [
+   "Nhà Trần đã mấy lần kháng chiến chống quân Mông – Nguyên?",
+   [
+    "Ba lần",
+    "Một lần",
+    "Hai lần",
+    "Bốn lần"
+   ],
+   "Ba lần: 1258, 1285, 1287–1288."
+  ],
+  [
+   "Chiến thắng Bạch Đằng năm 1288 gắn với tên tuổi của:",
+   [
+    "Trần Hưng Đạo (Trần Quốc Tuấn)",
+    "Ngô Quyền",
+    "Lê Hoàn",
+    "Quang Trung"
+   ],
+   "Trần Hưng Đạo chỉ huy trận Bạch Đằng 1288."
+  ],
+  [
+   "Khởi nghĩa Lam Sơn (1418–1427) do ai lãnh đạo?",
+   [
+    "Lê Lợi",
+    "Lê Hoàn",
+    "Hồ Quý Ly",
+    "Lý Bí"
+   ],
+   "Lê Lợi lãnh đạo khởi nghĩa Lam Sơn, lập ra nhà Lê sơ."
+  ],
+  [
+   "\"Bình Ngô đại cáo\" do ai soạn thảo?",
+   [
+    "Nguyễn Trãi",
+    "Lý Thường Kiệt",
+    "Trần Hưng Đạo",
+    "Lê Thánh Tông"
+   ],
+   "Nguyễn Trãi viết Bình Ngô đại cáo năm 1428."
+  ],
+  [
+   "Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng năm:",
+   [
+    "938",
+    "1288",
+    "1077",
+    "1427"
+   ],
+   "Chiến thắng Bạch Đằng năm 938."
+  ],
+  [
+   "Nhà Lý đặt tên nước là Đại Việt vào năm:",
+   [
+    "1054",
+    "968",
+    "1010",
+    "1428"
+   ],
+   "Năm 1054, nhà Lý đổi quốc hiệu thành Đại Việt."
+  ]
+ ],
+ "c4": [
+  [
+   "Châu Âu nằm chủ yếu trong đới khí hậu:",
+   [
+    "Ôn đới",
+    "Nhiệt đới",
+    "Xích đạo",
+    "Hàn đới hoàn toàn"
+   ],
+   "Phần lớn châu Âu có khí hậu ôn đới."
+  ],
+  [
+   "Dãy núi ngăn cách châu Âu và châu Á là:",
+   [
+    "U-ran",
+    "An-pơ",
+    "Hi-ma-lay-a",
+    "An-đét"
+   ],
+   "Dãy Ural là ranh giới tự nhiên giữa châu Âu và châu Á."
+  ],
+  [
+   "Tổ chức liên kết kinh tế – chính trị lớn của châu Âu là:",
+   [
+    "Liên minh châu Âu (EU)",
+    "ASEAN",
+    "APEC",
+    "OPEC"
+   ],
+   "EU là Liên minh châu Âu."
+  ],
+  [
+   "Dân cư châu Âu có đặc điểm:",
+   [
+    "Già hóa, tỉ lệ dân thành thị cao",
+    "Rất trẻ, ít người sống ở thành phố",
+    "Đông nhất thế giới",
+    "Chủ yếu sống du mục"
+   ],
+   "Châu Âu có cơ cấu dân số già và đô thị hóa cao."
+  ],
+  [
+   "Sông nào chảy qua nhiều quốc gia châu Âu nhất?",
+   [
+    "Đa-nuýp",
+    "Nin",
+    "A-ma-dôn",
+    "Mê Công"
+   ],
+   "Sông Danube chảy qua nhiều nước châu Âu."
+  ]
+ ],
+ "c5": [
+  [
+   "Châu Á là châu lục:",
+   [
+    "Rộng lớn nhất thế giới",
+    "Nhỏ nhất thế giới",
+    "Nằm hoàn toàn ở Nam bán cầu",
+    "Không có biển"
+   ],
+   "Châu Á có diện tích lớn nhất."
+  ],
+  [
+   "Đỉnh núi cao nhất thế giới Ê-vơ-rét (Everest) thuộc dãy:",
+   [
+    "Hi-ma-lay-a",
+    "An-pơ",
+    "U-ran",
+    "An-đét"
+   ],
+   "Everest thuộc dãy Himalaya."
+  ],
+  [
+   "Khu vực Đông Nam Á có kiểu khí hậu chủ yếu là:",
+   [
+    "Nhiệt đới gió mùa",
+    "Hàn đới",
+    "Ôn đới lục địa",
+    "Hoang mạc"
+   ],
+   "Đông Nam Á chủ yếu có khí hậu nhiệt đới gió mùa."
+  ],
+  [
+   "Quốc gia đông dân nhất châu Á (cũng là của thế giới hiện nay) là:",
+   [
+    "Ấn Độ",
+    "Nhật Bản",
+    "Việt Nam",
+    "Thái Lan"
+   ],
+   "Từ năm 2023, Ấn Độ là nước đông dân nhất thế giới."
+  ],
+  [
+   "Việt Nam thuộc khu vực nào của châu Á?",
+   [
+    "Đông Nam Á",
+    "Tây Nam Á",
+    "Trung Á",
+    "Bắc Á"
+   ],
+   "Việt Nam nằm ở Đông Nam Á."
+  ]
+ ],
+ "c6": [
+  [
+   "Hoang mạc lớn nhất thế giới ở châu Phi là:",
+   [
+    "Xa-ha-ra",
+    "Gô-bi",
+    "A-ta-ca-ma",
+    "Ca-la-ha-ri"
+   ],
+   "Sahara là hoang mạc nóng lớn nhất thế giới, ở Bắc Phi."
+  ],
+  [
+   "Sông Nin chảy ở châu lục nào?",
+   [
+    "Châu Phi",
+    "Châu Á",
+    "Châu Mỹ",
+    "Châu Âu"
+   ],
+   "Sông Nile chảy qua Đông Bắc châu Phi."
+  ],
+  [
+   "Rừng A-ma-dôn (Amazon) nằm ở:",
+   [
+    "Nam Mỹ",
+    "Bắc Mỹ",
+    "Châu Phi",
+    "Châu Á"
+   ],
+   "Rừng Amazon ở Nam Mỹ."
+  ],
+  [
+   "Châu lục nào lạnh nhất, gần như không có người sinh sống thường xuyên?",
+   [
+    "Châu Nam Cực",
+    "Châu Âu",
+    "Châu Đại Dương",
+    "Châu Phi"
+   ],
+   "Châu Nam Cực phủ băng, khí hậu cực lạnh."
+  ],
+  [
+   "Lục địa Ô-xtrây-li-a thuộc châu lục:",
+   [
+    "Châu Đại Dương",
+    "Châu Á",
+    "Châu Mỹ",
+    "Châu Âu"
+   ],
+   "Australia thuộc châu Đại Dương."
+  ],
+  [
+   "Dãy núi An-đét chạy dọc phía tây của:",
+   [
+    "Nam Mỹ",
+    "Bắc Mỹ",
+    "Châu Phi",
+    "Châu Âu"
+   ],
+   "Andes là dãy núi dài ở phía tây Nam Mỹ."
+  ],
+  [
+   "Đại dương lớn nhất thế giới là:",
+   [
+    "Thái Bình Dương",
+    "Đại Tây Dương",
+    "Ấn Độ Dương",
+    "Bắc Băng Dương"
+   ],
+   "Thái Bình Dương có diện tích lớn nhất."
+  ],
+  [
+   "Kênh đào Xuy-ê nối Địa Trung Hải với:",
+   [
+    "Biển Đỏ",
+    "Biển Đen",
+    "Biển Bắc",
+    "Biển Ca-ri-bê"
+   ],
+   "Kênh Suez nối Địa Trung Hải và Biển Đỏ."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Năm 1010 gắn với sự kiện:",
+   [
+    "Lý Công Uẩn dời đô về Thăng Long",
+    "Ngô Quyền thắng Bạch Đằng",
+    "Khởi nghĩa Lam Sơn thắng lợi",
+    "Nhà Trần thành lập"
+   ],
+   "Năm 1010: Chiếu dời đô, Thăng Long ra đời."
+  ],
+  [
+   "Phục hưng là phong trào văn hóa diễn ra ở:",
+   [
+    "Châu Âu",
+    "Châu Á",
+    "Châu Phi",
+    "Châu Mỹ"
+   ],
+   "Phong trào Văn hóa Phục hưng ở châu Âu."
+  ],
+  [
+   "Hoang mạc Xa-ha-ra thuộc châu:",
+   [
+    "Phi",
+    "Á",
+    "Mỹ",
+    "Âu"
+   ],
+   "Sahara ở Bắc Phi."
+  ],
+  [
+   "Người lãnh đạo khởi nghĩa Lam Sơn là:",
+   [
+    "Lê Lợi",
+    "Lý Thường Kiệt",
+    "Trần Hưng Đạo",
+    "Đinh Bộ Lĩnh"
+   ],
+   "Lê Lợi."
+  ],
+  [
+   "Châu lục có diện tích lớn nhất là:",
+   [
+    "Châu Á",
+    "Châu Phi",
+    "Châu Mỹ",
+    "Châu Âu"
+   ],
+   "Châu Á."
+  ]
+ ]
 }

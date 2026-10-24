@@ -1,65 +1,528 @@
 {
-  "c1": [
-    ["Yếu tố nào KHÔNG phải đặc điểm chính của truyện ngắn?", ["Có nhiều tuyến nhân vật và sự kiện phức tạp như tiểu thuyết", "Dung lượng ngắn", "Ít nhân vật", "Tập trung vào một vài sự việc chính"], "Truyện ngắn có dung lượng nhỏ, ít nhân vật, ít sự kiện; tiểu thuyết mới có nhiều tuyến phức tạp."],
-    ["Người kể chuyện xưng \"tôi\" và tham gia vào câu chuyện là ngôi kể:", ["Ngôi thứ nhất", "Ngôi thứ ba", "Ngôi thứ hai", "Không có ngôi kể"], "Người kể xưng tôi là ngôi thứ nhất."],
-    ["Người kể chuyện giấu mình, gọi nhân vật bằng tên là ngôi kể:", ["Ngôi thứ ba", "Ngôi thứ nhất", "Ngôi thứ hai", "Ngôi số nhiều"], "Người kể không xuất hiện, gọi tên nhân vật: ngôi thứ ba."],
-    ["Chủ đề của một tác phẩm là:", ["Vấn đề chính mà tác giả muốn thể hiện qua tác phẩm", "Tên của tác phẩm", "Nhân vật chính", "Số trang của truyện"], "Chủ đề là vấn đề trung tâm tác giả đặt ra."],
-    ["Tính cách nhân vật thường được thể hiện qua:", ["Lời nói, hành động, suy nghĩ của nhân vật", "Số trang của truyện", "Tên tác giả", "Năm xuất bản"], "Ta hiểu nhân vật qua lời nói, hành động, ý nghĩ, ngoại hình."],
-    ["Đọc đoạn: \"Nam lặng lẽ nhặt từng mẩu giấy vụn quanh lớp dù chẳng ai nhờ.\" Chi tiết này cho thấy Nam là người:", ["Có ý thức, tự giác", "Lười biếng", "Hay khoe khoang", "Nóng tính"], "Tự nguyện nhặt rác khi không ai nhờ thể hiện ý thức tự giác."]
+ "c1": [
+  [
+   "Yếu tố nào KHÔNG phải đặc điểm chính của truyện ngắn?",
+   [
+    "Có nhiều tuyến nhân vật và sự kiện phức tạp như tiểu thuyết",
+    "Dung lượng ngắn",
+    "Ít nhân vật",
+    "Tập trung vào một vài sự việc chính"
+   ],
+   "Truyện ngắn có dung lượng nhỏ, ít nhân vật, ít sự kiện; tiểu thuyết mới có nhiều tuyến phức tạp."
   ],
-  "c2": [
-    ["Thơ bốn chữ là thơ có:", ["Mỗi dòng 4 tiếng", "Mỗi bài 4 dòng", "Mỗi khổ 4 bài", "4 vần trong một dòng"], "Thơ bốn chữ: mỗi dòng có bốn tiếng."],
-    ["Thơ năm chữ thường ngắt nhịp:", ["2/3 hoặc 3/2", "4/4", "1/6", "Không ngắt nhịp"], "Dòng thơ năm chữ thường ngắt nhịp 2/3 hoặc 3/2."],
-    ["Vần chân là vần được gieo ở:", ["Cuối dòng thơ", "Đầu dòng thơ", "Giữa dòng thơ", "Tên bài thơ"], "Vần chân nằm ở tiếng cuối các dòng thơ."],
-    ["Đặc điểm nào phù hợp với thơ bốn chữ, năm chữ?", ["Ngắn gọn, giàu nhịp điệu, dễ thuộc", "Rất dài, không có vần", "Luôn có 8 chữ mỗi dòng", "Viết bằng văn xuôi"], "Thơ bốn chữ, năm chữ ngắn gọn, nhịp nhàng."],
-    ["Dòng thơ nào có năm chữ?", ["Trăng tròn như quả bóng", "Mẹ ơi", "Ông trăng tròn", "Em đi học về nhà vui quá"], "\"Trăng tròn như quả bóng\" có 5 tiếng."],
-    ["Biện pháp tu từ trong dòng \"Ông trăng cười với em\" là:", ["Nhân hóa", "So sánh", "Điệp ngữ", "Nói quá"], "Trăng được gọi bằng ông và biết cười như người: nhân hóa."]
+  [
+   "Người kể chuyện xưng \"tôi\" và tham gia vào câu chuyện là ngôi kể:",
+   [
+    "Ngôi thứ nhất",
+    "Ngôi thứ ba",
+    "Ngôi thứ hai",
+    "Không có ngôi kể"
+   ],
+   "Người kể xưng tôi là ngôi thứ nhất."
   ],
-  "c3": [
-    ["Truyện ngụ ngôn thường nhằm mục đích:", ["Gửi gắm bài học về cách nhìn nhận, cư xử trong cuộc sống", "Kể lại sự thật lịch sử", "Giải thích nguồn gốc vũ trụ", "Ca ngợi người anh hùng"], "Ngụ ngôn mượn chuyện để nêu bài học."],
-    ["Truyện \"Ếch ngồi đáy giếng\" phê phán điều gì?", ["Sự hiểu biết hạn hẹp mà lại huênh hoang", "Lòng dũng cảm", "Sự chăm chỉ", "Tính thật thà"], "Ếch tưởng bầu trời chỉ bằng miệng giếng: phê phán kẻ hiểu biết nông cạn mà kiêu ngạo."],
-    ["Bài học từ truyện \"Thầy bói xem voi\" là:", ["Muốn hiểu sự vật cần xem xét toàn diện", "Nên tin lời thầy bói", "Voi là con vật to lớn", "Không nên đi xem voi"], "Mỗi thầy chỉ sờ một bộ phận rồi kết luận sai: cần nhìn toàn diện."],
-    ["Câu tục ngữ \"Tấc đất tấc vàng\" khẳng định:", ["Giá trị quý báu của đất đai", "Đất có lẫn vàng", "Vàng rẻ như đất", "Không nên trồng trọt"], "Đất đai quý như vàng, cần trân trọng."],
-    ["Câu tục ngữ \"Ăn quả nhớ kẻ trồng cây\" khuyên chúng ta:", ["Biết ơn người đã tạo thành quả cho mình", "Chỉ ăn quả mình trồng", "Không nên ăn quả", "Trồng thật nhiều cây"], "Tục ngữ nhắc nhở lòng biết ơn."],
-    ["Tục ngữ có đặc điểm:", ["Ngắn gọn, có vần, có nhịp, đúc kết kinh nghiệm", "Rất dài, kể chuyện", "Không có vần", "Luôn có nhân vật"], "Tục ngữ ngắn gọn, hàm súc, đúc kết kinh nghiệm nhân dân."]
+  [
+   "Người kể chuyện giấu mình, gọi nhân vật bằng tên là ngôi kể:",
+   [
+    "Ngôi thứ ba",
+    "Ngôi thứ nhất",
+    "Ngôi thứ hai",
+    "Ngôi số nhiều"
+   ],
+   "Người kể không xuất hiện, gọi tên nhân vật: ngôi thứ ba."
   ],
-  "c4": [
-    ["Trong văn nghị luận, luận điểm là:", ["Ý kiến, quan điểm chính người viết đưa ra", "Ví dụ minh họa", "Tên tác giả", "Câu mở đầu"], "Luận điểm là ý kiến chính cần chứng minh."],
-    ["Bằng chứng trong văn nghị luận có tác dụng:", ["Làm sáng tỏ, chứng minh cho lí lẽ", "Làm bài văn dài hơn", "Gây cười", "Kể chuyện"], "Bằng chứng cụ thể giúp lí lẽ thuyết phục."],
-    ["Văn bản hướng dẫn luật chơi một trò chơi thuộc loại:", ["Văn bản thông tin", "Thơ", "Truyện ngụ ngôn", "Kịch"], "Văn bản giới thiệu quy tắc, luật lệ là văn bản thông tin."],
-    ["Lí lẽ là:", ["Những lời giải thích, phân tích để làm rõ luận điểm", "Những con số thống kê", "Tên các nhân vật", "Câu kết bài"], "Lí lẽ là lập luận làm sáng tỏ ý kiến."],
-    ["Câu nào thể hiện rõ một ý kiến (luận điểm)?", ["Đọc sách giúp chúng ta mở rộng hiểu biết.", "Hôm qua trời mưa.", "Lan có ba quyển sách.", "Thư viện mở cửa lúc 7 giờ."], "Câu nêu quan điểm về lợi ích của đọc sách."],
-    ["Văn bản thông tin thường dùng các phương tiện hỗ trợ nào?", ["Hình ảnh, sơ đồ, bảng biểu", "Vần, nhịp", "Lời thoại nhân vật", "Ẩn dụ, nhân hóa là chủ yếu"], "Hình ảnh, sơ đồ giúp truyền đạt thông tin rõ ràng."]
+  [
+   "Chủ đề của một tác phẩm là:",
+   [
+    "Vấn đề chính mà tác giả muốn thể hiện qua tác phẩm",
+    "Tên của tác phẩm",
+    "Nhân vật chính",
+    "Số trang của truyện"
+   ],
+   "Chủ đề là vấn đề trung tâm tác giả đặt ra."
   ],
-  "c5": [
-    ["Tùy bút là thể loại:", ["Ghi chép, bày tỏ cảm xúc, suy nghĩ của tác giả một cách tự do", "Kể chuyện có cốt truyện chặt chẽ", "Thơ có vần luật", "Kịch diễn trên sân khấu"], "Tùy bút thiên về cảm xúc, suy tưởng của người viết."],
-    ["Yếu tố nổi bật trong tùy bút, tản văn là:", ["Cái tôi trữ tình của tác giả", "Xung đột kịch", "Nhân vật phản diện", "Lời thoại"], "Người đọc cảm nhận rõ cái tôi tác giả."],
-    ["Tản văn thường có dung lượng:", ["Ngắn, linh hoạt", "Rất dài, nhiều chương", "Luôn 14 dòng", "Bắt buộc có vần"], "Tản văn ngắn gọn, linh hoạt."],
-    ["Đọc câu: \"Mùa thu Hà Nội làm lòng tôi chùng lại, nhớ những buổi sớm se lạnh.\" Câu văn thể hiện:", ["Cảm xúc của người viết", "Số liệu khoa học", "Luật lệ trò chơi", "Lời thoại kịch"], "Câu văn bộc lộ cảm xúc nhớ nhung, đặc trưng tùy bút."],
-    ["Chất liệu của tùy bút thường lấy từ:", ["Những điều tác giả quan sát, trải nghiệm trong đời sống", "Hoàn toàn do tưởng tượng thần kì", "Công thức toán học", "Luật pháp"], "Tùy bút dựa trên trải nghiệm thực tế của tác giả."]
+  [
+   "Tính cách nhân vật thường được thể hiện qua:",
+   [
+    "Lời nói, hành động, suy nghĩ của nhân vật",
+    "Số trang của truyện",
+    "Tên tác giả",
+    "Năm xuất bản"
+   ],
+   "Ta hiểu nhân vật qua lời nói, hành động, ý nghĩ, ngoại hình."
   ],
-  "c6": [
-    ["Từ nào là số từ?", ["ba", "nhiều", "những", "rất"], "Ba chỉ số lượng chính xác: số từ."],
-    ["Từ in đậm trong câu \"Em **đã** làm xong bài.\" là:", ["Phó từ", "Số từ", "Danh từ", "Tính từ"], "Đã bổ sung ý nghĩa thời gian cho động từ: phó từ."],
-    ["Phó từ \"rất\" trong \"rất đẹp\" bổ sung ý nghĩa về:", ["Mức độ", "Thời gian", "Số lượng", "Phủ định"], "Rất chỉ mức độ của tính từ."],
-    ["Câu nào được mở rộng thành phần bằng cụm từ?", ["Những bông hoa hồng đỏ thắm nở rộ trong vườn.", "Hoa nở.", "Trời mưa.", "Em học."], "Chủ ngữ được mở rộng thành cụm danh từ \"Những bông hoa hồng đỏ thắm\"."],
-    ["Trạng ngữ trong câu \"Sáng nay, lớp em đi tham quan.\" là:", ["Sáng nay", "lớp em", "đi tham quan", "tham quan"], "Sáng nay chỉ thời gian: trạng ngữ."],
-    ["Từ \"thứ hai\" trong \"Em đứng thứ hai\" là:", ["Số từ chỉ thứ tự", "Phó từ", "Danh từ chỉ ngày", "Tính từ"], "Thứ hai chỉ thứ tự: số từ thứ tự."]
-  ],
-  "c7": [
-    ["Câu nào sử dụng biện pháp nói quá?", ["Mồ hôi thánh thót như mưa ruộng cày.", "Bạn ấy đi học.", "Trời hôm nay nắng.", "Em có hai cái bút."], "Phóng đại mức độ mồ hôi: nói quá."],
-    ["Câu \"Bác đã đi rồi sao Bác ơi!\" (Tố Hữu) dùng biện pháp:", ["Nói giảm nói tránh", "Nói quá", "So sánh", "Nhân hóa"], "\"Đi\" thay cho \"mất\": nói giảm, nói tránh để giảm đau buồn."],
-    ["Từ Hán Việt nào có nghĩa là \"núi sông\"?", ["sơn hà", "thiên địa", "phụ mẫu", "huynh đệ"], "Sơn là núi, hà là sông."],
-    ["\"Phụ mẫu\" có nghĩa là:", ["Cha mẹ", "Anh em", "Ông bà", "Thầy cô"], "Phụ là cha, mẫu là mẹ."],
-    ["Thuật ngữ là:", ["Từ biểu thị khái niệm khoa học, công nghệ", "Từ địa phương", "Từ lóng", "Từ tượng thanh"], "Thuật ngữ dùng trong các văn bản khoa học, công nghệ."],
-    ["Một đoạn văn mạch lạc khi:", ["Các câu cùng hướng về một chủ đề và sắp xếp hợp lí", "Các câu nói về nhiều chủ đề khác nhau", "Không có câu chủ đề", "Lặp lại một câu nhiều lần"], "Mạch lạc là sự thống nhất về chủ đề và trình tự hợp lí."]
-  ],
-  "tong-hop": [
-    ["Người kể xưng \"tôi\" là ngôi kể:", ["Thứ nhất", "Thứ ba", "Thứ hai", "Không xác định"], "Xưng tôi: ngôi thứ nhất."],
-    ["Truyện \"Ếch ngồi đáy giếng\" thuộc thể loại:", ["Truyện ngụ ngôn", "Truyện cổ tích", "Truyền thuyết", "Tiểu thuyết"], "Đây là truyện ngụ ngôn."],
-    ["\"Có công mài sắt có ngày nên kim\" khuyên:", ["Kiên trì thì sẽ thành công", "Nên mài kim", "Sắt quý hơn kim", "Không nên làm việc khó"], "Bài học về lòng kiên trì."],
-    ["Từ \"đang\" trong \"Em đang học bài\" là:", ["Phó từ", "Số từ", "Danh từ", "Tính từ"], "Đang chỉ thời gian, bổ sung cho động từ."],
-    ["Biện pháp tu từ trong \"Lỗ mũi mười tám gánh lông\" là:", ["Nói quá", "Nói giảm nói tránh", "Hoán dụ", "Liệt kê"], "Phóng đại để gây cười: nói quá."],
-    ["Trong văn nghị luận, ý kiến chính của người viết gọi là:", ["Luận điểm", "Bằng chứng", "Nhân vật", "Cốt truyện"], "Luận điểm là ý kiến chính."]
+  [
+   "Đọc đoạn: \"Nam lặng lẽ nhặt từng mẩu giấy vụn quanh lớp dù chẳng ai nhờ.\" Chi tiết này cho thấy Nam là người:",
+   [
+    "Có ý thức, tự giác",
+    "Lười biếng",
+    "Hay khoe khoang",
+    "Nóng tính"
+   ],
+   "Tự nguyện nhặt rác khi không ai nhờ thể hiện ý thức tự giác."
   ]
+ ],
+ "c2": [
+  [
+   "Thơ bốn chữ là thơ có:",
+   [
+    "Mỗi dòng 4 tiếng",
+    "Mỗi bài 4 dòng",
+    "Mỗi khổ 4 bài",
+    "4 vần trong một dòng"
+   ],
+   "Thơ bốn chữ: mỗi dòng có bốn tiếng."
+  ],
+  [
+   "Thơ năm chữ thường ngắt nhịp:",
+   [
+    "2/3 hoặc 3/2",
+    "4/4",
+    "1/6",
+    "Không ngắt nhịp"
+   ],
+   "Dòng thơ năm chữ thường ngắt nhịp 2/3 hoặc 3/2."
+  ],
+  [
+   "Vần chân là vần được gieo ở:",
+   [
+    "Cuối dòng thơ",
+    "Đầu dòng thơ",
+    "Giữa dòng thơ",
+    "Tên bài thơ"
+   ],
+   "Vần chân nằm ở tiếng cuối các dòng thơ."
+  ],
+  [
+   "Đặc điểm nào phù hợp với thơ bốn chữ, năm chữ?",
+   [
+    "Ngắn gọn, giàu nhịp điệu, dễ thuộc",
+    "Rất dài, không có vần",
+    "Luôn có 8 chữ mỗi dòng",
+    "Viết bằng văn xuôi"
+   ],
+   "Thơ bốn chữ, năm chữ ngắn gọn, nhịp nhàng."
+  ],
+  [
+   "Dòng thơ nào có năm chữ?",
+   [
+    "Trăng tròn như quả bóng",
+    "Mẹ ơi",
+    "Ông trăng tròn",
+    "Em đi học về nhà vui quá"
+   ],
+   "\"Trăng tròn như quả bóng\" có 5 tiếng."
+  ],
+  [
+   "Biện pháp tu từ trong dòng \"Ông trăng cười với em\" là:",
+   [
+    "Nhân hóa",
+    "So sánh",
+    "Điệp ngữ",
+    "Nói quá"
+   ],
+   "Trăng được gọi bằng ông và biết cười như người: nhân hóa."
+  ]
+ ],
+ "c3": [
+  [
+   "Truyện ngụ ngôn thường nhằm mục đích:",
+   [
+    "Gửi gắm bài học về cách nhìn nhận, cư xử trong cuộc sống",
+    "Kể lại sự thật lịch sử",
+    "Giải thích nguồn gốc vũ trụ",
+    "Ca ngợi người anh hùng"
+   ],
+   "Ngụ ngôn mượn chuyện để nêu bài học."
+  ],
+  [
+   "Truyện \"Ếch ngồi đáy giếng\" phê phán điều gì?",
+   [
+    "Sự hiểu biết hạn hẹp mà lại huênh hoang",
+    "Lòng dũng cảm",
+    "Sự chăm chỉ",
+    "Tính thật thà"
+   ],
+   "Ếch tưởng bầu trời chỉ bằng miệng giếng: phê phán kẻ hiểu biết nông cạn mà kiêu ngạo."
+  ],
+  [
+   "Bài học từ truyện \"Thầy bói xem voi\" là:",
+   [
+    "Muốn hiểu sự vật cần xem xét toàn diện",
+    "Nên tin lời thầy bói",
+    "Voi là con vật to lớn",
+    "Không nên đi xem voi"
+   ],
+   "Mỗi thầy chỉ sờ một bộ phận rồi kết luận sai: cần nhìn toàn diện."
+  ],
+  [
+   "Câu tục ngữ \"Tấc đất tấc vàng\" khẳng định:",
+   [
+    "Giá trị quý báu của đất đai",
+    "Đất có lẫn vàng",
+    "Vàng rẻ như đất",
+    "Không nên trồng trọt"
+   ],
+   "Đất đai quý như vàng, cần trân trọng."
+  ],
+  [
+   "Câu tục ngữ \"Ăn quả nhớ kẻ trồng cây\" khuyên chúng ta:",
+   [
+    "Biết ơn người đã tạo thành quả cho mình",
+    "Chỉ ăn quả mình trồng",
+    "Không nên ăn quả",
+    "Trồng thật nhiều cây"
+   ],
+   "Tục ngữ nhắc nhở lòng biết ơn."
+  ],
+  [
+   "Tục ngữ có đặc điểm:",
+   [
+    "Ngắn gọn, có vần, có nhịp, đúc kết kinh nghiệm",
+    "Rất dài, kể chuyện",
+    "Không có vần",
+    "Luôn có nhân vật"
+   ],
+   "Tục ngữ ngắn gọn, hàm súc, đúc kết kinh nghiệm nhân dân."
+  ],
+  [
+   "Câu tục ngữ \"Uống nước nhớ nguồn\" khuyên ta:",
+   [
+    "Biết ơn những người đi trước",
+    "Uống nhiều nước",
+    "Đi tìm nguồn nước",
+    "Tiết kiệm nước"
+   ],
+   "Nhắc nhở lòng biết ơn cội nguồn."
+  ],
+  [
+   "Câu tục ngữ \"Chuồn chuồn bay thấp thì mưa, bay cao thì nắng, bay vừa thì râm\" thuộc chủ đề:",
+   [
+    "Kinh nghiệm về thời tiết",
+    "Kinh nghiệm học tập",
+    "Quan hệ gia đình",
+    "Ẩm thực"
+   ],
+   "Tục ngữ đúc kết kinh nghiệm dự báo thời tiết."
+  ]
+ ],
+ "c4": [
+  [
+   "Trong văn nghị luận, luận điểm là:",
+   [
+    "Ý kiến, quan điểm chính người viết đưa ra",
+    "Ví dụ minh họa",
+    "Tên tác giả",
+    "Câu mở đầu"
+   ],
+   "Luận điểm là ý kiến chính cần chứng minh."
+  ],
+  [
+   "Bằng chứng trong văn nghị luận có tác dụng:",
+   [
+    "Làm sáng tỏ, chứng minh cho lí lẽ",
+    "Làm bài văn dài hơn",
+    "Gây cười",
+    "Kể chuyện"
+   ],
+   "Bằng chứng cụ thể giúp lí lẽ thuyết phục."
+  ],
+  [
+   "Văn bản hướng dẫn luật chơi một trò chơi thuộc loại:",
+   [
+    "Văn bản thông tin",
+    "Thơ",
+    "Truyện ngụ ngôn",
+    "Kịch"
+   ],
+   "Văn bản giới thiệu quy tắc, luật lệ là văn bản thông tin."
+  ],
+  [
+   "Lí lẽ là:",
+   [
+    "Những lời giải thích, phân tích để làm rõ luận điểm",
+    "Những con số thống kê",
+    "Tên các nhân vật",
+    "Câu kết bài"
+   ],
+   "Lí lẽ là lập luận làm sáng tỏ ý kiến."
+  ],
+  [
+   "Câu nào thể hiện rõ một ý kiến (luận điểm)?",
+   [
+    "Đọc sách giúp chúng ta mở rộng hiểu biết.",
+    "Hôm qua trời mưa.",
+    "Lan có ba quyển sách.",
+    "Thư viện mở cửa lúc 7 giờ."
+   ],
+   "Câu nêu quan điểm về lợi ích của đọc sách."
+  ],
+  [
+   "Văn bản thông tin thường dùng các phương tiện hỗ trợ nào?",
+   [
+    "Hình ảnh, sơ đồ, bảng biểu",
+    "Vần, nhịp",
+    "Lời thoại nhân vật",
+    "Ẩn dụ, nhân hóa là chủ yếu"
+   ],
+   "Hình ảnh, sơ đồ giúp truyền đạt thông tin rõ ràng."
+  ]
+ ],
+ "c5": [
+  [
+   "Tùy bút là thể loại:",
+   [
+    "Ghi chép, bày tỏ cảm xúc, suy nghĩ của tác giả một cách tự do",
+    "Kể chuyện có cốt truyện chặt chẽ",
+    "Thơ có vần luật",
+    "Kịch diễn trên sân khấu"
+   ],
+   "Tùy bút thiên về cảm xúc, suy tưởng của người viết."
+  ],
+  [
+   "Yếu tố nổi bật trong tùy bút, tản văn là:",
+   [
+    "Cái tôi trữ tình của tác giả",
+    "Xung đột kịch",
+    "Nhân vật phản diện",
+    "Lời thoại"
+   ],
+   "Người đọc cảm nhận rõ cái tôi tác giả."
+  ],
+  [
+   "Tản văn thường có dung lượng:",
+   [
+    "Ngắn, linh hoạt",
+    "Rất dài, nhiều chương",
+    "Luôn 14 dòng",
+    "Bắt buộc có vần"
+   ],
+   "Tản văn ngắn gọn, linh hoạt."
+  ],
+  [
+   "Đọc câu: \"Mùa thu Hà Nội làm lòng tôi chùng lại, nhớ những buổi sớm se lạnh.\" Câu văn thể hiện:",
+   [
+    "Cảm xúc của người viết",
+    "Số liệu khoa học",
+    "Luật lệ trò chơi",
+    "Lời thoại kịch"
+   ],
+   "Câu văn bộc lộ cảm xúc nhớ nhung, đặc trưng tùy bút."
+  ],
+  [
+   "Chất liệu của tùy bút thường lấy từ:",
+   [
+    "Những điều tác giả quan sát, trải nghiệm trong đời sống",
+    "Hoàn toàn do tưởng tượng thần kì",
+    "Công thức toán học",
+    "Luật pháp"
+   ],
+   "Tùy bút dựa trên trải nghiệm thực tế của tác giả."
+  ]
+ ],
+ "c6": [
+  [
+   "Từ nào là số từ?",
+   [
+    "ba",
+    "nhiều",
+    "những",
+    "rất"
+   ],
+   "Ba chỉ số lượng chính xác: số từ."
+  ],
+  [
+   "Từ in đậm trong câu \"Em **đã** làm xong bài.\" là:",
+   [
+    "Phó từ",
+    "Số từ",
+    "Danh từ",
+    "Tính từ"
+   ],
+   "Đã bổ sung ý nghĩa thời gian cho động từ: phó từ."
+  ],
+  [
+   "Phó từ \"rất\" trong \"rất đẹp\" bổ sung ý nghĩa về:",
+   [
+    "Mức độ",
+    "Thời gian",
+    "Số lượng",
+    "Phủ định"
+   ],
+   "Rất chỉ mức độ của tính từ."
+  ],
+  [
+   "Câu nào được mở rộng thành phần bằng cụm từ?",
+   [
+    "Những bông hoa hồng đỏ thắm nở rộ trong vườn.",
+    "Hoa nở.",
+    "Trời mưa.",
+    "Em học."
+   ],
+   "Chủ ngữ được mở rộng thành cụm danh từ \"Những bông hoa hồng đỏ thắm\"."
+  ],
+  [
+   "Trạng ngữ trong câu \"Sáng nay, lớp em đi tham quan.\" là:",
+   [
+    "Sáng nay",
+    "lớp em",
+    "đi tham quan",
+    "tham quan"
+   ],
+   "Sáng nay chỉ thời gian: trạng ngữ."
+  ],
+  [
+   "Từ \"thứ hai\" trong \"Em đứng thứ hai\" là:",
+   [
+    "Số từ chỉ thứ tự",
+    "Phó từ",
+    "Danh từ chỉ ngày",
+    "Tính từ"
+   ],
+   "Thứ hai chỉ thứ tự: số từ thứ tự."
+  ],
+  [
+   "Từ \"những\" trong \"những bông hoa\" là:",
+   [
+    "Lượng từ (chỉ số lượng nhiều, không cụ thể)",
+    "Số từ chỉ số lượng chính xác",
+    "Phó từ",
+    "Động từ"
+   ],
+   "Những chỉ số lượng không cụ thể."
+  ],
+  [
+   "Câu \"Trên cành cây, chim hót líu lo.\" có trạng ngữ chỉ:",
+   [
+    "Nơi chốn",
+    "Thời gian",
+    "Nguyên nhân",
+    "Mục đích"
+   ],
+   "Trên cành cây chỉ nơi chốn."
+  ]
+ ],
+ "c7": [
+  [
+   "Câu nào sử dụng biện pháp nói quá?",
+   [
+    "Mồ hôi thánh thót như mưa ruộng cày.",
+    "Bạn ấy đi học.",
+    "Trời hôm nay nắng.",
+    "Em có hai cái bút."
+   ],
+   "Phóng đại mức độ mồ hôi: nói quá."
+  ],
+  [
+   "Câu \"Bác đã đi rồi sao Bác ơi!\" (Tố Hữu) dùng biện pháp:",
+   [
+    "Nói giảm nói tránh",
+    "Nói quá",
+    "So sánh",
+    "Nhân hóa"
+   ],
+   "\"Đi\" thay cho \"mất\": nói giảm, nói tránh để giảm đau buồn."
+  ],
+  [
+   "Từ Hán Việt nào có nghĩa là \"núi sông\"?",
+   [
+    "sơn hà",
+    "thiên địa",
+    "phụ mẫu",
+    "huynh đệ"
+   ],
+   "Sơn là núi, hà là sông."
+  ],
+  [
+   "\"Phụ mẫu\" có nghĩa là:",
+   [
+    "Cha mẹ",
+    "Anh em",
+    "Ông bà",
+    "Thầy cô"
+   ],
+   "Phụ là cha, mẫu là mẹ."
+  ],
+  [
+   "Thuật ngữ là:",
+   [
+    "Từ biểu thị khái niệm khoa học, công nghệ",
+    "Từ địa phương",
+    "Từ lóng",
+    "Từ tượng thanh"
+   ],
+   "Thuật ngữ dùng trong các văn bản khoa học, công nghệ."
+  ],
+  [
+   "Một đoạn văn mạch lạc khi:",
+   [
+    "Các câu cùng hướng về một chủ đề và sắp xếp hợp lí",
+    "Các câu nói về nhiều chủ đề khác nhau",
+    "Không có câu chủ đề",
+    "Lặp lại một câu nhiều lần"
+   ],
+   "Mạch lạc là sự thống nhất về chủ đề và trình tự hợp lí."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Người kể xưng \"tôi\" là ngôi kể:",
+   [
+    "Thứ nhất",
+    "Thứ ba",
+    "Thứ hai",
+    "Không xác định"
+   ],
+   "Xưng tôi: ngôi thứ nhất."
+  ],
+  [
+   "Truyện \"Ếch ngồi đáy giếng\" thuộc thể loại:",
+   [
+    "Truyện ngụ ngôn",
+    "Truyện cổ tích",
+    "Truyền thuyết",
+    "Tiểu thuyết"
+   ],
+   "Đây là truyện ngụ ngôn."
+  ],
+  [
+   "\"Có công mài sắt có ngày nên kim\" khuyên:",
+   [
+    "Kiên trì thì sẽ thành công",
+    "Nên mài kim",
+    "Sắt quý hơn kim",
+    "Không nên làm việc khó"
+   ],
+   "Bài học về lòng kiên trì."
+  ],
+  [
+   "Từ \"đang\" trong \"Em đang học bài\" là:",
+   [
+    "Phó từ",
+    "Số từ",
+    "Danh từ",
+    "Tính từ"
+   ],
+   "Đang chỉ thời gian, bổ sung cho động từ."
+  ],
+  [
+   "Biện pháp tu từ trong \"Lỗ mũi mười tám gánh lông\" là:",
+   [
+    "Nói quá",
+    "Nói giảm nói tránh",
+    "Hoán dụ",
+    "Liệt kê"
+   ],
+   "Phóng đại để gây cười: nói quá."
+  ],
+  [
+   "Trong văn nghị luận, ý kiến chính của người viết gọi là:",
+   [
+    "Luận điểm",
+    "Bằng chứng",
+    "Nhân vật",
+    "Cốt truyện"
+   ],
+   "Luận điểm là ý kiến chính."
+  ]
+ ]
 }

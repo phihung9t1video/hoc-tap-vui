@@ -1,58 +1,496 @@
 {
-  "c1": [
-    ["Họ nội gồm những ai?", ["Ông bà, cô chú, bác bên bố", "Ông bà, cậu dì bên mẹ", "Hàng xóm của em", "Bạn cùng lớp"], "Họ nội là những người thuộc gia đình bên bố."],
-    ["Họ ngoại gồm những ai?", ["Ông bà, cậu, dì bên mẹ", "Ông bà, cô, chú bên bố", "Thầy cô giáo", "Bác bảo vệ"], "Họ ngoại là những người thuộc gia đình bên mẹ."],
-    ["Em gọi anh trai của mẹ là:", ["Cậu", "Chú", "Bác", "Dượng"], "Anh hoặc em trai của mẹ, em gọi là cậu."],
-    ["Khi thấy đồ dùng điện trong nhà bốc khói, em nên làm gì?", ["Tránh xa và báo ngay cho người lớn", "Lấy nước dội vào", "Lại gần xem", "Tự sửa"], "Không tự xử lí; tránh xa và báo người lớn để ngắt điện an toàn."],
-    ["Việc làm nào giúp phòng tránh hỏa hoạn ở nhà?", ["Không nghịch diêm, bật lửa", "Để bếp ga cạnh rèm cửa", "Cắm nhiều phích vào một ổ điện", "Đốt giấy trong nhà"], "Không nghịch lửa giúp phòng tránh cháy nổ."],
-    ["Việc làm nào giữ vệ sinh xung quanh nhà?", ["Bỏ rác đúng nơi quy định", "Vứt rác ra đường", "Để nước đọng trong chum không đậy", "Đổ nước thải ra sân"], "Bỏ rác đúng nơi quy định giữ môi trường sạch sẽ."]
+ "c1": [
+  [
+   "Họ nội gồm những ai?",
+   [
+    "Ông bà, cô chú, bác bên bố",
+    "Ông bà, cậu dì bên mẹ",
+    "Hàng xóm của em",
+    "Bạn cùng lớp"
+   ],
+   "Họ nội là những người thuộc gia đình bên bố."
   ],
-  "c2": [
-    ["Khi tham gia hoạt động ở trường, em cần:", ["Tuân theo hướng dẫn của thầy cô", "Chạy nhảy xô đẩy bạn", "Trèo lên cây cao", "Tự ý ra khỏi trường"], "Làm theo hướng dẫn giúp em an toàn."],
-    ["Việc làm nào giữ vệ sinh trường học?", ["Nhặt rác bỏ vào thùng", "Vẽ lên tường", "Khạc nhổ bừa bãi", "Bẻ cành cây"], "Nhặt rác bỏ vào thùng giữ trường lớp sạch đẹp."],
-    ["Để tìm hiểu truyền thống nhà trường, em có thể:", ["Hỏi thầy cô và xem phòng truyền thống", "Hỏi người bán hàng ngoài cổng", "Đoán", "Xem phim hoạt hình"], "Thầy cô và phòng truyền thống cung cấp thông tin về lịch sử nhà trường."],
-    ["Khi lên xuống cầu thang ở trường, em nên:", ["Đi chậm, bám tay vịn, không xô đẩy", "Chạy thật nhanh", "Trượt trên tay vịn", "Nhảy nhiều bậc một lúc"], "Đi chậm và bám tay vịn để không bị ngã."],
-    ["Ngày 20 tháng 11 hằng năm là ngày gì?", ["Ngày Nhà giáo Việt Nam", "Ngày Quốc khánh", "Tết Trung thu", "Ngày Quốc tế Thiếu nhi"], "20/11 là Ngày Nhà giáo Việt Nam."],
-    ["Việc làm nào thể hiện em yêu quý trường học?", ["Giữ gìn bàn ghế, sách vở sạch đẹp", "Viết bậy lên bàn", "Làm hỏng cây xanh", "Bỏ rác dưới ngăn bàn"], "Giữ gìn tài sản chung thể hiện tình yêu trường lớp."]
+  [
+   "Họ ngoại gồm những ai?",
+   [
+    "Ông bà, cậu, dì bên mẹ",
+    "Ông bà, cô, chú bên bố",
+    "Thầy cô giáo",
+    "Bác bảo vệ"
+   ],
+   "Họ ngoại là những người thuộc gia đình bên mẹ."
   ],
-  "c3": [
-    ["Hoạt động nào là hoạt động sản xuất nông nghiệp?", ["Trồng lúa", "Dệt vải trong nhà máy", "Bán hàng ở chợ", "Dạy học"], "Trồng trọt, chăn nuôi là hoạt động nông nghiệp."],
-    ["Sản phẩm nào là sản phẩm của nghề thủ công?", ["Giỏ mây tre đan", "Lúa gạo", "Xe máy", "Điện thoại"], "Đan giỏ mây tre là nghề thủ công truyền thống."],
-    ["Hoạt động nào là hoạt động sản xuất công nghiệp?", ["Sản xuất ô tô trong nhà máy", "Nuôi gà", "Trồng rau", "Đánh bắt cá"], "Sản xuất trong nhà máy là hoạt động công nghiệp."],
-    ["Khi đi tham quan di tích lịch sử, em nên:", ["Giữ gìn cảnh quan, không viết vẽ lên di tích", "Khắc tên lên tường", "Bẻ hoa", "Vứt rác bừa bãi"], "Cần bảo vệ, giữ gìn di tích."],
-    ["Nông sản nào được làm ra từ hoạt động trồng trọt?", ["Rau, củ, quả", "Thịt gà", "Cá tôm", "Sữa bò"], "Rau củ quả có được nhờ trồng trọt; thịt, sữa nhờ chăn nuôi."],
-    ["Để sử dụng tiết kiệm sản phẩm của người lao động, em nên:", ["Ăn hết suất, không bỏ phí thức ăn", "Bỏ đồ ăn thừa", "Vứt đồ dùng còn tốt", "Dùng giấy một mặt rồi bỏ"], "Không lãng phí là biết trân trọng sức lao động."]
+  [
+   "Em gọi anh trai của mẹ là:",
+   [
+    "Cậu",
+    "Chú",
+    "Bác",
+    "Dượng"
+   ],
+   "Anh hoặc em trai của mẹ, em gọi là cậu."
   ],
-  "c4": [
-    ["Bộ phận nào của cây hút nước và chất khoáng từ đất?", ["Rễ", "Lá", "Hoa", "Quả"], "Rễ hút nước và muối khoáng cho cây."],
-    ["Lá cây có chức năng gì?", ["Quang hợp, hô hấp và thoát hơi nước", "Hút nước từ đất", "Giữ cho cây đứng vững", "Tạo thành hạt"], "Lá giúp cây quang hợp (tạo chất dinh dưỡng), hô hấp và thoát hơi nước."],
-    ["Thân cây có chức năng gì?", ["Vận chuyển nước, chất dinh dưỡng và nâng đỡ cây", "Hút nước từ đất", "Tạo ra hạt", "Thụ phấn"], "Thân vận chuyển các chất và nâng đỡ tán lá."],
-    ["Con vật nào có lông vũ?", ["Con gà", "Con mèo", "Con cá", "Con ếch"], "Chim, gà có lông vũ."],
-    ["Thực vật cần gì để sống?", ["Ánh sáng, nước, không khí và chất khoáng", "Chỉ cần nước", "Chỉ cần đất", "Bóng tối"], "Cây cần đủ ánh sáng, nước, không khí và chất khoáng."],
-    ["Con vật nào thở bằng mang?", ["Con cá", "Con chó", "Con gà", "Con mèo"], "Cá sống dưới nước, thở bằng mang."]
+  [
+   "Khi thấy đồ dùng điện trong nhà bốc khói, em nên làm gì?",
+   [
+    "Tránh xa và báo ngay cho người lớn",
+    "Lấy nước dội vào",
+    "Lại gần xem",
+    "Tự sửa"
+   ],
+   "Không tự xử lí; tránh xa và báo người lớn để ngắt điện an toàn."
   ],
-  "c5": [
-    ["Cơ quan tiêu hóa gồm:", ["Miệng, thực quản, dạ dày, ruột, gan, tụy", "Tim và mạch máu", "Phổi và khí quản", "Não và tủy sống"], "Các bộ phận tiêu hóa thức ăn thuộc cơ quan tiêu hóa."],
-    ["Bộ phận nào bơm máu đi khắp cơ thể?", ["Tim", "Phổi", "Dạ dày", "Não"], "Tim co bóp, bơm máu đi nuôi cơ thể."],
-    ["Bộ phận nào điều khiển mọi hoạt động của cơ thể?", ["Não", "Tim", "Phổi", "Gan"], "Não thuộc cơ quan thần kinh, điều khiển hoạt động cơ thể."],
-    ["Để bảo vệ cơ quan thần kinh, em nên:", ["Ngủ đủ giấc, học tập và vui chơi hợp lí", "Thức khuya xem điện thoại", "Học liên tục không nghỉ", "Hay lo lắng, sợ hãi"], "Ngủ đủ và sinh hoạt điều độ giúp thần kinh khỏe mạnh."],
-    ["Chất nào gây hại, em cần tránh xa?", ["Thuốc lá", "Sữa", "Nước lọc", "Rau xanh"], "Thuốc lá là chất gây nghiện, có hại cho sức khỏe."],
-    ["Bữa ăn hằng ngày nên có:", ["Đủ các nhóm chất: tinh bột, đạm, chất béo, rau quả", "Chỉ có bánh kẹo", "Chỉ có thịt", "Nước ngọt thay cơm"], "Ăn đa dạng, đủ chất giúp cơ thể phát triển."]
+  [
+   "Việc làm nào giúp phòng tránh hỏa hoạn ở nhà?",
+   [
+    "Không nghịch diêm, bật lửa",
+    "Để bếp ga cạnh rèm cửa",
+    "Cắm nhiều phích vào một ổ điện",
+    "Đốt giấy trong nhà"
+   ],
+   "Không nghịch lửa giúp phòng tránh cháy nổ."
   ],
-  "c6": [
-    ["Mặt Trời mọc ở phương nào?", ["Phương Đông", "Phương Tây", "Phương Nam", "Phương Bắc"], "Mặt Trời mọc ở phương Đông, lặn ở phương Tây."],
-    ["Mặt Trăng quay quanh:", ["Trái Đất", "Mặt Trời", "Sao Hỏa", "Không quay quanh gì"], "Mặt Trăng là vệ tinh tự nhiên quay quanh Trái Đất."],
-    ["Trái Đất có hình gì?", ["Hình cầu", "Hình vuông", "Hình phẳng như cái đĩa", "Hình tam giác"], "Trái Đất có dạng hình cầu."],
-    ["Đứng quay mặt về phía Mặt Trời mọc, sau lưng em là phương nào?", ["Phương Tây", "Phương Đông", "Phương Bắc", "Phương Nam"], "Mặt hướng Đông thì sau lưng là Tây."],
-    ["Trên quả địa cầu, phần lớn bề mặt Trái Đất là:", ["Nước (biển và đại dương)", "Núi cao", "Sa mạc", "Đồng bằng"], "Khoảng 3/4 bề mặt Trái Đất là nước."],
-    ["Trái Đất có mấy đới khí hậu?", ["5 đới", "2 đới", "3 đới", "4 đới"], "Gồm 1 đới nóng, 2 đới ôn hòa và 2 đới lạnh."]
-  ],
-  "tong-hop": [
-    ["Em gọi em gái của bố là:", ["Cô", "Dì", "Mợ", "Thím"], "Chị hoặc em gái của bố, em gọi là cô (có nơi gọi là bác với chị gái của bố)."],
-    ["Bộ phận nào giúp cây hút nước?", ["Rễ", "Hoa", "Lá", "Quả"], "Rễ hút nước và chất khoáng."],
-    ["Phổi thuộc cơ quan nào?", ["Cơ quan hô hấp", "Cơ quan tiêu hóa", "Cơ quan tuần hoàn", "Cơ quan thần kinh"], "Phổi giúp ta thở, thuộc cơ quan hô hấp."],
-    ["Mặt Trời lặn ở phương nào?", ["Phương Tây", "Phương Đông", "Phương Nam", "Phương Bắc"], "Mặt Trời mọc ở Đông, lặn ở Tây."],
-    ["Hoạt động nào là chăn nuôi?", ["Nuôi bò lấy sữa", "Trồng ngô", "Dệt lụa", "May áo"], "Nuôi bò là hoạt động chăn nuôi."],
-    ["Việc nào giúp phòng tránh hỏa hoạn?", ["Tắt bếp ga sau khi nấu xong", "Để bật lửa trong tầm tay trẻ nhỏ", "Đốt rác trong nhà", "Phơi quần áo gần bếp lửa"], "Tắt bếp sau khi dùng giúp an toàn."]
+  [
+   "Việc làm nào giữ vệ sinh xung quanh nhà?",
+   [
+    "Bỏ rác đúng nơi quy định",
+    "Vứt rác ra đường",
+    "Để nước đọng trong chum không đậy",
+    "Đổ nước thải ra sân"
+   ],
+   "Bỏ rác đúng nơi quy định giữ môi trường sạch sẽ."
   ]
+ ],
+ "c2": [
+  [
+   "Khi tham gia hoạt động ở trường, em cần:",
+   [
+    "Tuân theo hướng dẫn của thầy cô",
+    "Chạy nhảy xô đẩy bạn",
+    "Trèo lên cây cao",
+    "Tự ý ra khỏi trường"
+   ],
+   "Làm theo hướng dẫn giúp em an toàn."
+  ],
+  [
+   "Việc làm nào giữ vệ sinh trường học?",
+   [
+    "Nhặt rác bỏ vào thùng",
+    "Vẽ lên tường",
+    "Khạc nhổ bừa bãi",
+    "Bẻ cành cây"
+   ],
+   "Nhặt rác bỏ vào thùng giữ trường lớp sạch đẹp."
+  ],
+  [
+   "Để tìm hiểu truyền thống nhà trường, em có thể:",
+   [
+    "Hỏi thầy cô và xem phòng truyền thống",
+    "Hỏi người bán hàng ngoài cổng",
+    "Đoán",
+    "Xem phim hoạt hình"
+   ],
+   "Thầy cô và phòng truyền thống cung cấp thông tin về lịch sử nhà trường."
+  ],
+  [
+   "Khi lên xuống cầu thang ở trường, em nên:",
+   [
+    "Đi chậm, bám tay vịn, không xô đẩy",
+    "Chạy thật nhanh",
+    "Trượt trên tay vịn",
+    "Nhảy nhiều bậc một lúc"
+   ],
+   "Đi chậm và bám tay vịn để không bị ngã."
+  ],
+  [
+   "Ngày 20 tháng 11 hằng năm là ngày gì?",
+   [
+    "Ngày Nhà giáo Việt Nam",
+    "Ngày Quốc khánh",
+    "Tết Trung thu",
+    "Ngày Quốc tế Thiếu nhi"
+   ],
+   "20/11 là Ngày Nhà giáo Việt Nam."
+  ],
+  [
+   "Việc làm nào thể hiện em yêu quý trường học?",
+   [
+    "Giữ gìn bàn ghế, sách vở sạch đẹp",
+    "Viết bậy lên bàn",
+    "Làm hỏng cây xanh",
+    "Bỏ rác dưới ngăn bàn"
+   ],
+   "Giữ gìn tài sản chung thể hiện tình yêu trường lớp."
+  ]
+ ],
+ "c3": [
+  [
+   "Hoạt động nào là hoạt động sản xuất nông nghiệp?",
+   [
+    "Trồng lúa",
+    "Dệt vải trong nhà máy",
+    "Bán hàng ở chợ",
+    "Dạy học"
+   ],
+   "Trồng trọt, chăn nuôi là hoạt động nông nghiệp."
+  ],
+  [
+   "Sản phẩm nào là sản phẩm của nghề thủ công?",
+   [
+    "Giỏ mây tre đan",
+    "Lúa gạo",
+    "Xe máy",
+    "Điện thoại"
+   ],
+   "Đan giỏ mây tre là nghề thủ công truyền thống."
+  ],
+  [
+   "Hoạt động nào là hoạt động sản xuất công nghiệp?",
+   [
+    "Sản xuất ô tô trong nhà máy",
+    "Nuôi gà",
+    "Trồng rau",
+    "Đánh bắt cá"
+   ],
+   "Sản xuất trong nhà máy là hoạt động công nghiệp."
+  ],
+  [
+   "Khi đi tham quan di tích lịch sử, em nên:",
+   [
+    "Giữ gìn cảnh quan, không viết vẽ lên di tích",
+    "Khắc tên lên tường",
+    "Bẻ hoa",
+    "Vứt rác bừa bãi"
+   ],
+   "Cần bảo vệ, giữ gìn di tích."
+  ],
+  [
+   "Nông sản nào được làm ra từ hoạt động trồng trọt?",
+   [
+    "Rau, củ, quả",
+    "Thịt gà",
+    "Cá tôm",
+    "Sữa bò"
+   ],
+   "Rau củ quả có được nhờ trồng trọt; thịt, sữa nhờ chăn nuôi."
+  ],
+  [
+   "Để sử dụng tiết kiệm sản phẩm của người lao động, em nên:",
+   [
+    "Ăn hết suất, không bỏ phí thức ăn",
+    "Bỏ đồ ăn thừa",
+    "Vứt đồ dùng còn tốt",
+    "Dùng giấy một mặt rồi bỏ"
+   ],
+   "Không lãng phí là biết trân trọng sức lao động."
+  ]
+ ],
+ "c4": [
+  [
+   "Bộ phận nào của cây hút nước và chất khoáng từ đất?",
+   [
+    "Rễ",
+    "Lá",
+    "Hoa",
+    "Quả"
+   ],
+   "Rễ hút nước và muối khoáng cho cây."
+  ],
+  [
+   "Lá cây có chức năng gì?",
+   [
+    "Quang hợp, hô hấp và thoát hơi nước",
+    "Hút nước từ đất",
+    "Giữ cho cây đứng vững",
+    "Tạo thành hạt"
+   ],
+   "Lá giúp cây quang hợp (tạo chất dinh dưỡng), hô hấp và thoát hơi nước."
+  ],
+  [
+   "Thân cây có chức năng gì?",
+   [
+    "Vận chuyển nước, chất dinh dưỡng và nâng đỡ cây",
+    "Hút nước từ đất",
+    "Tạo ra hạt",
+    "Thụ phấn"
+   ],
+   "Thân vận chuyển các chất và nâng đỡ tán lá."
+  ],
+  [
+   "Con vật nào có lông vũ?",
+   [
+    "Con gà",
+    "Con mèo",
+    "Con cá",
+    "Con ếch"
+   ],
+   "Chim, gà có lông vũ."
+  ],
+  [
+   "Thực vật cần gì để sống?",
+   [
+    "Ánh sáng, nước, không khí và chất khoáng",
+    "Chỉ cần nước",
+    "Chỉ cần đất",
+    "Bóng tối"
+   ],
+   "Cây cần đủ ánh sáng, nước, không khí và chất khoáng."
+  ],
+  [
+   "Con vật nào thở bằng mang?",
+   [
+    "Con cá",
+    "Con chó",
+    "Con gà",
+    "Con mèo"
+   ],
+   "Cá sống dưới nước, thở bằng mang."
+  ],
+  [
+   "Con vật nào được nuôi để lấy sữa?",
+   [
+    "Con bò",
+    "Con chó",
+    "Con mèo",
+    "Con vẹt"
+   ],
+   "Bò sữa cho sữa."
+  ],
+  [
+   "Hoa có chức năng gì đối với cây?",
+   [
+    "Tạo thành quả và hạt để sinh sản",
+    "Hút nước",
+    "Nâng đỡ cây",
+    "Quang hợp chủ yếu"
+   ],
+   "Hoa là cơ quan sinh sản, tạo quả và hạt."
+  ]
+ ],
+ "c5": [
+  [
+   "Cơ quan tiêu hóa gồm:",
+   [
+    "Miệng, thực quản, dạ dày, ruột, gan, tụy",
+    "Tim và mạch máu",
+    "Phổi và khí quản",
+    "Não và tủy sống"
+   ],
+   "Các bộ phận tiêu hóa thức ăn thuộc cơ quan tiêu hóa."
+  ],
+  [
+   "Bộ phận nào bơm máu đi khắp cơ thể?",
+   [
+    "Tim",
+    "Phổi",
+    "Dạ dày",
+    "Não"
+   ],
+   "Tim co bóp, bơm máu đi nuôi cơ thể."
+  ],
+  [
+   "Bộ phận nào điều khiển mọi hoạt động của cơ thể?",
+   [
+    "Não",
+    "Tim",
+    "Phổi",
+    "Gan"
+   ],
+   "Não thuộc cơ quan thần kinh, điều khiển hoạt động cơ thể."
+  ],
+  [
+   "Để bảo vệ cơ quan thần kinh, em nên:",
+   [
+    "Ngủ đủ giấc, học tập và vui chơi hợp lí",
+    "Thức khuya xem điện thoại",
+    "Học liên tục không nghỉ",
+    "Hay lo lắng, sợ hãi"
+   ],
+   "Ngủ đủ và sinh hoạt điều độ giúp thần kinh khỏe mạnh."
+  ],
+  [
+   "Chất nào gây hại, em cần tránh xa?",
+   [
+    "Thuốc lá",
+    "Sữa",
+    "Nước lọc",
+    "Rau xanh"
+   ],
+   "Thuốc lá là chất gây nghiện, có hại cho sức khỏe."
+  ],
+  [
+   "Bữa ăn hằng ngày nên có:",
+   [
+    "Đủ các nhóm chất: tinh bột, đạm, chất béo, rau quả",
+    "Chỉ có bánh kẹo",
+    "Chỉ có thịt",
+    "Nước ngọt thay cơm"
+   ],
+   "Ăn đa dạng, đủ chất giúp cơ thể phát triển."
+  ],
+  [
+   "Để bảo vệ cơ quan tiêu hóa, em nên:",
+   [
+    "Ăn chín, uống sôi, rửa tay trước khi ăn",
+    "Ăn quà vặt nhiều",
+    "Ăn xong chạy nhảy ngay",
+    "Uống nước lã"
+   ],
+   "Ăn uống hợp vệ sinh giúp bảo vệ tiêu hóa."
+  ],
+  [
+   "Để tim khỏe mạnh, em nên:",
+   [
+    "Vận động vừa sức, sống vui vẻ",
+    "Thức khuya",
+    "Ăn nhiều đồ mặn",
+    "Không vận động"
+   ],
+   "Vận động hợp lí tốt cho tim."
+  ]
+ ],
+ "c6": [
+  [
+   "Mặt Trời mọc ở phương nào?",
+   [
+    "Phương Đông",
+    "Phương Tây",
+    "Phương Nam",
+    "Phương Bắc"
+   ],
+   "Mặt Trời mọc ở phương Đông, lặn ở phương Tây."
+  ],
+  [
+   "Mặt Trăng quay quanh:",
+   [
+    "Trái Đất",
+    "Mặt Trời",
+    "Sao Hỏa",
+    "Không quay quanh gì"
+   ],
+   "Mặt Trăng là vệ tinh tự nhiên quay quanh Trái Đất."
+  ],
+  [
+   "Trái Đất có hình gì?",
+   [
+    "Hình cầu",
+    "Hình vuông",
+    "Hình phẳng như cái đĩa",
+    "Hình tam giác"
+   ],
+   "Trái Đất có dạng hình cầu."
+  ],
+  [
+   "Đứng quay mặt về phía Mặt Trời mọc, sau lưng em là phương nào?",
+   [
+    "Phương Tây",
+    "Phương Đông",
+    "Phương Bắc",
+    "Phương Nam"
+   ],
+   "Mặt hướng Đông thì sau lưng là Tây."
+  ],
+  [
+   "Trên quả địa cầu, phần lớn bề mặt Trái Đất là:",
+   [
+    "Nước (biển và đại dương)",
+    "Núi cao",
+    "Sa mạc",
+    "Đồng bằng"
+   ],
+   "Khoảng 3/4 bề mặt Trái Đất là nước."
+  ],
+  [
+   "Trái Đất có mấy đới khí hậu?",
+   [
+    "5 đới",
+    "2 đới",
+    "3 đới",
+    "4 đới"
+   ],
+   "Gồm 1 đới nóng, 2 đới ôn hòa và 2 đới lạnh."
+  ],
+  [
+   "Trái Đất tự quay quanh mình theo hướng:",
+   [
+    "Từ tây sang đông",
+    "Từ đông sang tây",
+    "Từ bắc xuống nam",
+    "Không quay"
+   ],
+   "Trái Đất tự quay từ tây sang đông."
+  ],
+  [
+   "Ngày và đêm xảy ra là do:",
+   [
+    "Trái Đất tự quay quanh mình",
+    "Mặt Trăng quay quanh Trái Đất",
+    "Mây che Mặt Trời",
+    "Mặt Trời tắt"
+   ],
+   "Trái Đất tự quay nên có ngày và đêm."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Em gọi em gái của bố là:",
+   [
+    "Cô",
+    "Dì",
+    "Mợ",
+    "Thím"
+   ],
+   "Chị hoặc em gái của bố, em gọi là cô (có nơi gọi là bác với chị gái của bố)."
+  ],
+  [
+   "Bộ phận nào giúp cây hút nước?",
+   [
+    "Rễ",
+    "Hoa",
+    "Lá",
+    "Quả"
+   ],
+   "Rễ hút nước và chất khoáng."
+  ],
+  [
+   "Phổi thuộc cơ quan nào?",
+   [
+    "Cơ quan hô hấp",
+    "Cơ quan tiêu hóa",
+    "Cơ quan tuần hoàn",
+    "Cơ quan thần kinh"
+   ],
+   "Phổi giúp ta thở, thuộc cơ quan hô hấp."
+  ],
+  [
+   "Mặt Trời lặn ở phương nào?",
+   [
+    "Phương Tây",
+    "Phương Đông",
+    "Phương Nam",
+    "Phương Bắc"
+   ],
+   "Mặt Trời mọc ở Đông, lặn ở Tây."
+  ],
+  [
+   "Hoạt động nào là chăn nuôi?",
+   [
+    "Nuôi bò lấy sữa",
+    "Trồng ngô",
+    "Dệt lụa",
+    "May áo"
+   ],
+   "Nuôi bò là hoạt động chăn nuôi."
+  ],
+  [
+   "Việc nào giúp phòng tránh hỏa hoạn?",
+   [
+    "Tắt bếp ga sau khi nấu xong",
+    "Để bật lửa trong tầm tay trẻ nhỏ",
+    "Đốt rác trong nhà",
+    "Phơi quần áo gần bếp lửa"
+   ],
+   "Tắt bếp sau khi dùng giúp an toàn."
+  ]
+ ]
 }

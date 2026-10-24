@@ -59,6 +59,26 @@
     "Dùng để gõ chữ"
    ],
    "Thân máy chứa bộ xử lí và các linh kiện chính."
+  ],
+  [
+   "Thao tác giữ nút trái chuột và di chuyển chuột gọi là:",
+   [
+    "Kéo thả chuột",
+    "Nháy chuột",
+    "Nháy đúp chuột",
+    "Nháy chuột phải"
+   ],
+   "Kéo thả: giữ nút trái và di chuyển."
+  ],
+  [
+   "Ngón tay nào thường dùng để nhấn nút trái chuột?",
+   [
+    "Ngón trỏ",
+    "Ngón cái",
+    "Ngón út",
+    "Ngón áp út"
+   ],
+   "Ngón trỏ nhấn nút trái, ngón giữa nhấn nút phải."
   ]
  ],
  "c2": [
@@ -319,6 +339,26 @@
     "1 2 3 4 5"
    ],
    "Hàng cơ sở là hàng có các phím A S D F G H J K L."
+  ],
+  [
+   "Phím Shift dùng để:",
+   [
+    "Gõ chữ in hoa hoặc kí tự phía trên",
+    "Xuống dòng",
+    "Xóa chữ",
+    "Tắt máy"
+   ],
+   "Giữ Shift khi gõ để được chữ hoa."
+  ],
+  [
+   "Phím Backspace dùng để:",
+   [
+    "Xóa kí tự bên trái con trỏ",
+    "Xuống dòng",
+    "Viết hoa",
+    "Tạo dấu cách"
+   ],
+   "Backspace xóa kí tự đứng trước con trỏ."
   ]
  ],
  "c7": [

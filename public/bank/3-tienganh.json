@@ -201,6 +201,26 @@
     "50"
    ],
    "five = 5."
+  ],
+  [
+   "Sắp xếp thành câu đúng: name / your / What's / ?",
+   [
+    "What's your name?",
+    "Your name what's?",
+    "Name your what's?",
+    "What's name your?"
+   ],
+   "Câu hỏi tên: What's your name?"
+  ],
+  [
+   "\"I'm eight years old.\" nghĩa là:",
+   [
+    "Mình 8 tuổi.",
+    "Mình tên là Tám.",
+    "Mình có 8 bạn.",
+    "Mình học lớp 8."
+   ],
+   "years old = tuổi."
   ]
  ],
  "u3": [
@@ -507,6 +527,26 @@
     "đi bộ"
    ],
    "painting = vẽ tranh (tô màu)."
+  ],
+  [
+   "Sắp xếp thành câu đúng: like / I / painting",
+   [
+    "I like painting.",
+    "Like I painting.",
+    "Painting like I.",
+    "I painting like."
+   ],
+   "Chủ ngữ + động từ + tân ngữ: I like painting."
+  ],
+  [
+   "Đọc: \"My name is Mai. I like dancing and singing.\" Mai thích gì?",
+   [
+    "nhảy múa và ca hát",
+    "vẽ tranh",
+    "bơi lội",
+    "nấu ăn"
+   ],
+   "dancing = nhảy múa, singing = ca hát."
   ]
  ],
  "u6": [
@@ -813,6 +853,26 @@
     "Don't"
    ],
    "Yes, I do."
+  ],
+  [
+   "Đọc: \"I have a pen, two pencils and a ruler.\" Bạn ấy có mấy cái bút chì?",
+   [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "two pencils = hai cái bút chì."
+  ],
+  [
+   "Sắp xếp thành câu đúng: have / Do / you / a / ruler / ?",
+   [
+    "Do you have a ruler?",
+    "You do have a ruler?",
+    "Have you do a ruler?",
+    "Do have you a ruler?"
+   ],
+   "Câu hỏi: Do you have ...?"
   ]
  ],
  "u9": [
@@ -1119,6 +1179,26 @@
     "ngôi nhà"
    ],
    "family = gia đình."
+  ],
+  [
+   "Đọc: \"There are four people in my family: my father, my mother, my brother and me.\" Gia đình bạn ấy có mấy người?",
+   [
+    "4",
+    "3",
+    "2",
+    "5"
+   ],
+   "four people = bốn người."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "This is my mother.",
+    "This my mother is.",
+    "Is this my mother.",
+    "My this is mother."
+   ],
+   "Giới thiệu: This is my ..."
   ]
  ],
  "u12": [
@@ -1323,6 +1403,26 @@
     "nhà bếp"
    ],
    "bedroom = phòng ngủ."
+  ],
+  [
+   "Đọc: \"This is my house. It has a living room, a kitchen and two bedrooms.\" Nhà có mấy phòng ngủ?",
+   [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "two bedrooms = hai phòng ngủ."
+  ],
+  [
+   "Sắp xếp thành câu đúng: the / Where's / kitchen / ?",
+   [
+    "Where's the kitchen?",
+    "The kitchen where's?",
+    "Kitchen the where's?",
+    "Where's kitchen the?"
+   ],
+   "Câu hỏi vị trí: Where's the ...?"
   ]
  ],
  "u14": [
@@ -1629,6 +1729,26 @@
     "con thỏ"
    ],
    "dog = con chó."
+  ],
+  [
+   "Đọc: \"I have a dog and two cats. My dog is black.\" Con chó của bạn ấy màu gì?",
+   [
+    "black",
+    "white",
+    "brown",
+    "yellow"
+   ],
+   "My dog is black = Con chó của mình màu đen."
+  ],
+  [
+   "Chọn câu trả lời đúng: \"Do you have any pets?\"",
+   [
+    "Yes, I do. I have a rabbit.",
+    "Yes, I am.",
+    "No, I am not.",
+    "I'm fine."
+   ],
+   "Do you ...? trả lời Yes, I do / No, I don't."
   ]
  ],
  "u17": [
@@ -1833,6 +1953,26 @@
     "How are you?"
    ],
    "What are you doing? = Bạn đang làm gì?"
+  ],
+  [
+   "Đọc: \"Look at Tom. He is reading a book.\" Tom đang làm gì?",
+   [
+    "đọc sách",
+    "viết thư",
+    "vẽ tranh",
+    "nghe nhạc"
+   ],
+   "reading a book = đọc sách."
+  ],
+  [
+   "Sắp xếp: is / She / drawing",
+   [
+    "She is drawing.",
+    "Is she drawing she.",
+    "Drawing she is.",
+    "She drawing is."
+   ],
+   "She is + V-ing."
   ]
  ],
  "u19": [
@@ -2037,6 +2177,26 @@
     "con công"
    ],
    "horse = con ngựa."
+  ],
+  [
+   "Đọc: \"At the zoo, I can see a big elephant and two funny monkeys.\" Có mấy con khỉ?",
+   [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "two funny monkeys = hai con khỉ vui nhộn."
+  ],
+  [
+   "What can you see? – I can see ___ tigers.",
+   [
+    "three",
+    "a",
+    "an",
+    "one"
+   ],
+   "tigers số nhiều nên dùng số lớn hơn 1: three."
   ]
  ],
  "tong-hop": [
@@ -2139,6 +2299,46 @@
     "sure"
    ],
    "Từ chối lịch sự: No, thanks."
+  ],
+  [
+   "Đọc: \"Hi, I'm Lucy. I'm nine years old. I like swimming.\" Lucy bao nhiêu tuổi?",
+   [
+    "9",
+    "8",
+    "10",
+    "7"
+   ],
+   "nine = 9."
+  ],
+  [
+   "Đọc: \"Hi, I'm Lucy. I'm nine years old. I like swimming.\" Lucy thích gì?",
+   [
+    "bơi lội",
+    "nhảy múa",
+    "vẽ",
+    "đá bóng"
+   ],
+   "swimming = bơi lội."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "They are my friends.",
+    "They is my friends.",
+    "They am my friends.",
+    "They my friends are."
+   ],
+   "They đi với are."
+  ],
+  [
+   "Chọn từ khác loại:",
+   [
+    "bedroom",
+    "cat",
+    "dog",
+    "rabbit"
+   ],
+   "bedroom là phòng ngủ; còn lại là con vật."
   ]
  ]
 }
