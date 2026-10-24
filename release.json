@@ -1,4 +1,4 @@
 {
-    "minNativeCode":  10101,
-    "notes":  "Ban 1.1.1"
+  "minNativeCode": 10101,
+  "notes": "Sửa lỗi tự cập nhật. Máy đang dùng bản 1.0.0 hoặc 1.1.0 cần cài APK mới một lần."
 }
