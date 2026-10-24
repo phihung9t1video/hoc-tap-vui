@@ -23,7 +23,7 @@ Cài đặt một lần:
 1. Tạo dự án miễn phí tại https://supabase.com (có thể đăng nhập bằng GitHub).
 2. Vào **SQL Editor**, dán toàn bộ file `supabase/schema.sql`, rồi bấm **Run**.
 3. Vào **Project Settings → API**, lấy **Project URL** và khóa **anon public**.
-4. Trên GitHub, vào repo → **Settings → Secrets and variables → Actions → Variables** và thêm `SUPABASE_URL`, `SUPABASE_ANON_KEY`. Hai giá trị này được phép công khai: khóa anon chỉ đọc và thêm được câu hỏi, không sửa hay xóa được.
+4. Thêm 2 dòng vào file `.env.local`: `NEXT_PUBLIC_SUPABASE_URL=...` và `NEXT_PUBLIC_SUPABASE_ANON_KEY=...`, rồi phát hành bản mới. Khóa anon được phép công khai: nó chỉ đọc và thêm được câu hỏi, không sửa hay xóa được.
 
 Chưa cài Supabase thì app vẫn chạy; câu hỏi chỉ lưu trên từng máy.
 
@@ -35,7 +35,7 @@ Nhấp đúp các file trong thư mục gốc, theo thứ tự:
 |---|---|---|
 | `1-THU-NHANH.bat` | Mở app trên trình duyệt (http://localhost:3000). Sửa code đến đâu thấy đến đó. | Chỉ PC này |
 | `2-THU-ANDROID.bat` | Build APK thật, tự bật máy ảo Android (hoặc dùng điện thoại cắm cáp có bật USB debugging), cài và mở app. Bản thử **tắt tự cập nhật** để không bị bản trên GitHub đè lên. | Chỉ PC này |
-| `3-PHAT-HANH-BAN-THU.bat` | Nhập số phiên bản mới (ví dụ 1.0.1) và ghi chú. Script tự kiểm tra code, đẩy lên GitHub và build trên mạng (5–8 phút). Bản này là **bản thử nghiệm**. | Chỉ máy bật "Nhận bản thử nghiệm" |
+| `3-PHAT-HANH-BAN-THU.bat` | Nhập số phiên bản mới (ví dụ 1.0.1) và ghi chú. Script tự kiểm tra code, build APK trên PC rồi tải lên GitHub Releases (2–3 phút). Bản này là **bản thử nghiệm**. | Chỉ máy bật "Nhận bản thử nghiệm" |
 | `4-DUYET-PHAT-HANH.bat` | Thử trên điện thoại bố mẹ thấy ổn thì duyệt (gõ `CO` để xác nhận). | Tất cả máy các con |
 
 **Điện thoại của bố mẹ:** vào ⚙️ Cài đặt → bật **Nhận bản thử nghiệm**. Máy các con để tắt (mặc định).
@@ -49,7 +49,7 @@ Nhấp đúp các file trong thư mục gốc, theo thứ tự:
 - `lib/curriculum.ts`: mục lục các chương.
 - `lib/gemini.ts`: gọi Gemini để soạn đề và tự kiểm tra lại đáp án.
 - `lib/cloud.ts`, `supabase/schema.sql`: kho câu hỏi chung.
-- `lib/updater.ts`, `.github/workflows/release.yml`: tự cập nhật qua GitHub Releases.
+- `lib/updater.ts`, `tools/release-beta.ps1`: tự cập nhật qua GitHub Releases (APK được build trên PC rồi tải lên).
 - `lib/items.tsx`, `lib/pets.tsx`, `lib/draw.tsx`: đồ cho nhân vật và thú cưng (hình vẽ SVG).
 - `lib/rewards.ts`, `lib/achievements.ts`: xu, rương quà, thành tích.
 - `components/`: các màn hình.

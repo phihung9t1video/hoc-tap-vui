@@ -76,9 +76,10 @@ Muốn các máy dùng chung kho (máy này soạn, máy kia dùng lại ngay):
 1. Tạo dự án miễn phí tại https://supabase.com (đăng nhập bằng GitHub).
 2. Vào SQL Editor -> dán toàn bộ file supabase\schema.sql -> bấm Run.
 3. Vào Project Settings -> API: lấy "Project URL" và khóa "anon public".
-4. Gửi 2 giá trị đó cho người hỗ trợ (hoặc tự thêm vào GitHub: repo ->
-   Settings -> Secrets and variables -> Actions -> Variables:
-   SUPABASE_URL và SUPABASE_ANON_KEY), rồi phát hành bản mới.
+4. Mở file D:PM HOC TAP.env.local bằng Notepad, thêm 2 dòng:
+     NEXT_PUBLIC_SUPABASE_URL=<Project URL>
+     NEXT_PUBLIC_SUPABASE_ANON_KEY=<khóa anon public>
+   rồi phát hành bản mới (3-PHAT-HANH-BAN-THU.bat).
 
 
 6. GIỮ CẨN THẬN - RẤT QUAN TRỌNG
