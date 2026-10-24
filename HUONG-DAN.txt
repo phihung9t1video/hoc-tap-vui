@@ -1,0 +1,102 @@
+=====================================================================
+                  HỌC TẬP VUI - HƯỚNG DẪN SỬ DỤNG
+=====================================================================
+
+1. FILE APK NẰM Ở ĐÂU?
+---------------------------------------------------------------------
+a) Bản chính thức (cài cho các con) - tải trên GitHub:
+   https://github.com/phihung9t1video/hoc-tap-vui/releases/latest/download/hoc-tap-vui.apk
+
+   Danh sách tất cả các bản (kể cả bản thử nghiệm):
+   https://github.com/phihung9t1video/hoc-tap-vui/releases
+
+b) Bản thử trên máy tính này (sau khi chạy 2-THU-ANDROID.bat):
+   D:\PM HOC TAP\android\app\build\outputs\apk\release\app-release.apk
+   (Bản này TẮT tự cập nhật, chỉ dùng để thử. Không cài cho các con.)
+
+
+2. CÀI APP LÊN ĐIỆN THOẠI ANDROID
+---------------------------------------------------------------------
+1. Trên điện thoại, mở trình duyệt Chrome, vào link 1a ở trên.
+2. Tải file hoc-tap-vui.apk về, bấm mở file.
+3. Android hỏi "Cho phép cài ứng dụng từ nguồn này?" -> bấm Cho phép.
+4. Bấm Cài đặt. Nếu Play Protect cảnh báo "ứng dụng không rõ" -> chọn
+   "Vẫn cài đặt" (app này do gia đình tự làm, không có trên CH Play).
+
+Lần đầu mở app:
+- Bố mẹ dán KHÓA GEMINI (lấy miễn phí tại https://aistudio.google.com/apikey).
+  Khóa chỉ lưu trên điện thoại đó. Có thể dán nhiều khóa, mỗi dòng một khóa.
+- KHÔNG bật thanh toán (billing) cho dự án Google chứa khóa -> luôn miễn phí.
+- Sau đó cho con tạo tên, chọn lớp, chọn nhân vật và phối đồ.
+
+Đổi khóa, giới hạn xu mỗi ngày: màn hình chọn người chơi -> "Cài đặt (bố mẹ)".
+
+
+3. TỰ ĐỘNG CẬP NHẬT
+---------------------------------------------------------------------
+- Giao diện, câu hỏi, đồ mới: app tự tải khi có mạng, áp dụng ở lần mở
+  app sau (hoặc bấm "Cập nhật ngay" trên thanh thông báo trong app).
+- Khi có thay đổi phần lõi Android: app hiện nút "Tải về", bố mẹ bấm và
+  cài đè (dữ liệu của con vẫn giữ nguyên).
+
+ĐIỆN THOẠI CỦA BỐ MẸ: vào Cài đặt -> bật "Nhận bản thử nghiệm".
+MÁY CÁC CON: để TẮT ô này (mặc định), chỉ nhận bản bố mẹ đã duyệt.
+
+
+4. QUY TRÌNH PHÁT TRIỂN: THỬ TRƯỚC, ỔN MỚI PHÁT HÀNH
+---------------------------------------------------------------------
+Nhấp đúp các file trong thư mục D:\PM HOC TAP theo thứ tự:
+
+  1-THU-NHANH.bat
+      Mở app trên trình duyệt máy tính (http://localhost:3000).
+      Sửa code đến đâu thấy ngay đến đó. Đóng cửa sổ đen để tắt.
+
+  2-THU-ANDROID.bat
+      Build APK thật, tự bật máy ảo Android (hoặc dùng điện thoại cắm
+      cáp USB có bật "Gỡ lỗi USB"), cài và mở app để thử.
+
+  3-PHAT-HANH-BAN-THU.bat
+      Nhập số phiên bản mới (ví dụ 1.0.1, phải lớn hơn bản cũ) và ghi chú.
+      Script tự kiểm tra code rồi đẩy lên GitHub. GitHub build mất 5-8 phút
+      (theo dõi tại https://github.com/phihung9t1video/hoc-tap-vui/actions).
+      -> CHỈ điện thoại bố mẹ (đã bật "Nhận bản thử nghiệm") nhận bản này.
+
+  4-DUYET-PHAT-HANH.bat
+      Thử trên điện thoại bố mẹ thấy ổn -> chạy file này, nhập phiên bản,
+      gõ CO để xác nhận.
+      -> Máy các con tự cập nhật khi mở app có mạng.
+
+Nếu bản thử có lỗi: KHÔNG chạy bước 4. Sửa code, rồi phát hành bản thử
+mới với số phiên bản lớn hơn (ví dụ 1.0.2).
+
+
+5. KHO CÂU HỎI CHUNG (SUPABASE) - TÙY CHỌN, MIỄN PHÍ
+---------------------------------------------------------------------
+Hiện tại câu hỏi AI soạn được lưu trên từng máy, theo lớp / môn / chương.
+Muốn các máy dùng chung kho (máy này soạn, máy kia dùng lại ngay):
+1. Tạo dự án miễn phí tại https://supabase.com (đăng nhập bằng GitHub).
+2. Vào SQL Editor -> dán toàn bộ file supabase\schema.sql -> bấm Run.
+3. Vào Project Settings -> API: lấy "Project URL" và khóa "anon public".
+4. Gửi 2 giá trị đó cho người hỗ trợ (hoặc tự thêm vào GitHub: repo ->
+   Settings -> Secrets and variables -> Actions -> Variables:
+   SUPABASE_URL và SUPABASE_ANON_KEY), rồi phát hành bản mới.
+
+
+6. GIỮ CẨN THẬN - RẤT QUAN TRỌNG
+---------------------------------------------------------------------
+Thư mục:  D:\PM HOC TAP\android-keys\
+  - hoctapvui.jks             (khóa ký APK)
+  - MAT-KHAU-KHOA-KY.txt      (mật khẩu của khóa)
+=> SAO LƯU thư mục này ra Google Drive hoặc USB.
+   Mất khóa này thì các máy đã cài sẽ KHÔNG cập nhật APK được nữa.
+=> KHÔNG gửi thư mục này cho ai, KHÔNG đưa lên GitHub.
+
+File D:\PM HOC TAP\.env.local cũng chứa khóa Gemini: không chia sẻ.
+
+
+7. CÁC ĐỊA CHỈ CẦN NHỚ
+---------------------------------------------------------------------
+Mã nguồn:        https://github.com/phihung9t1video/hoc-tap-vui
+Các bản phát hành: https://github.com/phihung9t1video/hoc-tap-vui/releases
+Tiến trình build:  https://github.com/phihung9t1video/hoc-tap-vui/actions
+Khóa Gemini:     https://aistudio.google.com/apikey
