@@ -8,3 +8,4 @@ next-env.d.ts
 android-keys/
 *.jks
 *.keystore
+.next-dev

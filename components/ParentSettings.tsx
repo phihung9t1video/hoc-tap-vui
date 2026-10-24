@@ -4,7 +4,7 @@ import { useState } from "react";
 import { cloudEnabled } from "@/lib/cloud";
 import { checkKey, parseKeys } from "@/lib/gemini";
 import type { Settings } from "@/lib/types";
-import { APP_VERSION } from "@/lib/updater";
+import { APP_VERSION, UPDATES_DISABLED } from "@/lib/updater";
 
 const mask = (k: string) => `${k.slice(0, 6)}…${k.slice(-4)}`;
 
@@ -110,10 +110,36 @@ export function ParentSettings({
         <div className="card stack">
           <strong>☁️ Kho câu hỏi chung</strong>
           <span className="muted">{cloudEnabled ? "Đang bật: câu hỏi đã soạn được lưu lên kho chung, máy khác dùng lại được." : "Chưa bật: câu hỏi chỉ lưu trên máy này."}</span>
-          {onCheckUpdate && (
-            <button className="btn" onClick={onCheckUpdate}>
-              🔄 Kiểm tra bản cập nhật
-            </button>
+        </div>
+      )}
+
+      {!firstRun && (
+        <div className="card stack">
+          <strong>🔄 Cập nhật</strong>
+          {UPDATES_DISABLED ? (
+            <span className="muted">Đây là bản thử trên máy tính, đã tắt tự cập nhật.</span>
+          ) : (
+            <>
+              <label className="row" style={{ alignItems: "flex-start" }}>
+                <input
+                  type="checkbox"
+                  checked={!!settings.betaChannel}
+                  onChange={(e) => onSave({ ...settings, betaChannel: e.target.checked })}
+                  style={{ width: 22, height: 22, marginTop: 3 }}
+                />
+                <span>
+                  <strong>Nhận bản thử nghiệm</strong>
+                  <div className="muted" style={{ fontSize: 14 }}>
+                    Chỉ bật trên máy của bố mẹ để thử bản mới trước. Máy các con để tắt, chỉ nhận bản đã duyệt.
+                  </div>
+                </span>
+              </label>
+              {onCheckUpdate && (
+                <button className="btn" onClick={onCheckUpdate}>
+                  Kiểm tra bản cập nhật
+                </button>
+              )}
+            </>
           )}
         </div>
       )}

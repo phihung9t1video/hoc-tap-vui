@@ -83,6 +83,8 @@ export interface Settings {
   geminiKeys?: string[];
   /** Đã qua màn hình cài đặt lần đầu */
   setupDone?: boolean;
+  /** Máy của bố mẹ: nhận bản thử nghiệm trước khi duyệt cho các con */
+  betaChannel?: boolean;
 }
 
 export interface AppData {

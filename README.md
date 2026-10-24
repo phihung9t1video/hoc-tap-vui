@@ -27,12 +27,20 @@ Cài đặt một lần:
 
 Chưa cài Supabase thì app vẫn chạy; câu hỏi chỉ lưu trên từng máy.
 
-## Phát hành bản mới (dành cho người phát triển)
+## Thử trước rồi mới phát hành (dành cho người phát triển)
 
-1. Sửa code, rồi đổi `notes` trong `release.json`.
-2. Gắn tag phiên bản rồi đẩy lên GitHub: `git tag v1.0.1 && git push --tags`.
-3. GitHub Actions tự build APK có ký và bản cập nhật giao diện, rồi tạo Release. Các máy đã cài sẽ tự cập nhật.
-4. Nếu bản mới có thêm plugin Android hoặc sửa thư mục `android/`, tăng `minNativeCode` trong `release.json` lên bằng mã của phiên bản đó. Mã được tính là major×10000 + minor×100 + patch; ví dụ 1.2.0 thành 10200. Khi đó app sẽ yêu cầu cài APK mới.
+Nhấp đúp các file trong thư mục gốc, theo thứ tự:
+
+| File | Việc làm | Ai thấy |
+|---|---|---|
+| `1-THU-NHANH.bat` | Mở app trên trình duyệt (http://localhost:3000). Sửa code đến đâu thấy đến đó. | Chỉ PC này |
+| `2-THU-ANDROID.bat` | Build APK thật, tự bật máy ảo Android (hoặc dùng điện thoại cắm cáp có bật USB debugging), cài và mở app. Bản thử **tắt tự cập nhật** để không bị bản trên GitHub đè lên. | Chỉ PC này |
+| `3-PHAT-HANH-BAN-THU.bat` | Nhập số phiên bản mới (ví dụ 1.0.1) và ghi chú. Script tự kiểm tra code, đẩy lên GitHub và build trên mạng (5–8 phút). Bản này là **bản thử nghiệm**. | Chỉ máy bật "Nhận bản thử nghiệm" |
+| `4-DUYET-PHAT-HANH.bat` | Thử trên điện thoại bố mẹ thấy ổn thì duyệt (gõ `CO` để xác nhận). | Tất cả máy các con |
+
+**Điện thoại của bố mẹ:** vào ⚙️ Cài đặt → bật **Nhận bản thử nghiệm**. Máy các con để tắt (mặc định).
+
+**Khi có thay đổi phần lõi Android** (thêm plugin, sửa thư mục `android/`): trước bước 3, tăng `minNativeCode` trong `release.json` lên bằng mã của phiên bản mới. Mã tính theo công thức major×10000 + minor×100 + patch; ví dụ 1.2.0 thành 10200. Khi đó app sẽ yêu cầu cài APK mới.
 
 **Khóa ký APK** nằm ở `android-keys/` và không được đưa lên GitHub. Hãy sao lưu thư mục này. Nếu mất khóa, các máy đã cài sẽ không cập nhật APK được nữa. GitHub dùng bản sao của khóa lưu trong Secrets (`KEYSTORE_BASE64`, `KEYSTORE_PASSWORD`).
 

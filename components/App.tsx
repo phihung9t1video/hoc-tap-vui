@@ -42,10 +42,15 @@ export function App() {
   const [screen, setScreen] = useState<Screen>({ name: "profiles" });
   const [update, setUpdate] = useState<UpdateState>({ kind: "none" });
 
+  const beta = !!data?.settings.betaChannel;
   const runUpdateCheck = useCallback(() => {
-    checkForUpdate().then(setUpdate);
-  }, []);
-  useEffect(runUpdateCheck, [runUpdateCheck]);
+    checkForUpdate(beta).then(setUpdate);
+  }, [beta]);
+  useEffect(() => {
+    if (data) runUpdateCheck();
+    // Chỉ kiểm tra khi mở app hoặc khi đổi kênh nhận bản cập nhật
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [!!data, runUpdateCheck]);
 
   useEffect(() => {
     const d = loadData();
