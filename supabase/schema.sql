@@ -4,7 +4,7 @@
 create table if not exists public.questions (
   id uuid primary key,
   grade smallint not null check (grade between 1 and 12),
-  subject text not null check (subject in ('toan', 'tienganh')),
+  subject text not null check (subject in ('toan', 'tiengviet', 'nguvan', 'tienganh', 'tnxh', 'khoahoc', 'khtn', 'lsdl', 'tinhoc')),
   chapter_id text not null check (char_length(chapter_id) <= 40),
   question text not null check (char_length(question) between 3 and 800),
   options jsonb not null check (jsonb_typeof(options) = 'array' and jsonb_array_length(options) = 4),

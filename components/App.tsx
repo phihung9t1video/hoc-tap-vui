@@ -1,8 +1,10 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
+import { builtinQuestions, findBuiltin, isBuiltinId } from "@/lib/builtin";
 import { fetchCloudQuestions, pushCloudQuestions } from "@/lib/cloud";
 import { SUBJECTS, findChapter } from "@/lib/curriculum";
+import { HOME_STARTER_IDS, defaultHome } from "@/lib/home";
 import { ITEM_MAP, STARTER_IDS } from "@/lib/items";
 import { applyQuiz, type QuizOutcome } from "@/lib/rewards";
 import { addQuestions, bankKey, findQuestion, getQuestions, loadData, saveData } from "@/lib/storage";
@@ -15,6 +17,7 @@ import { Avatar } from "./Avatar";
 import { AvatarEditor } from "./AvatarEditor";
 import { ChooseLesson } from "./ChooseLesson";
 import { CreateProfile } from "./CreateProfile";
+import { HomeScreen } from "./HomeScreen";
 import { Lobby } from "./Lobby";
 import { ParentSettings } from "./ParentSettings";
 import { Profiles } from "./Profiles";
@@ -22,6 +25,8 @@ import { Quiz } from "./Quiz";
 import { Result } from "./Result";
 
 const QUIZ_SIZE = 10;
+/** Nguồn đề của lần làm bài gần nhất, để nút "Làm bài nữa" dùng lại */
+let lastSource: "kho" | "ai" = "kho";
 const WELCOME_COINS = 50;
 
 type Screen =
@@ -30,6 +35,7 @@ type Screen =
   | { name: "lobby" }
   | { name: "wardrobe" }
   | { name: "achievements" }
+  | { name: "home" }
   | { name: "settings" }
   | { name: "choose"; subject: Subject }
   | { name: "loading"; subject: Subject }
@@ -73,23 +79,36 @@ export function App() {
   const patchProfile = (fn: (p: Profile) => Profile) =>
     setData((d) => d && { ...d, profiles: d.profiles.map((p) => (p.id === d.currentId ? fn(p) : p)) });
 
-  async function startQuiz(p: Profile, subject: Subject, chapterId: string) {
+  async function startQuiz(p: Profile, subject: Subject, chapterId: string, source: "kho" | "ai" = "ai") {
     setScreen({ name: "loading", subject });
+    lastSource = source;
 
     if (chapterId === "review") {
       const prefix = `${p.grade}|${subject}|`;
-      const items = Object.entries(p.wrong)
-        .filter(([, key]) => key.startsWith(prefix))
-        .map(([id, key]) => {
-          const q = findQuestion(key, id);
-          return q ? { ...q, bankKey: key } : null;
-        })
-        .filter((q): q is QuizItem => q !== null);
+      const found = await Promise.all(
+        Object.entries(p.wrong)
+          .filter(([, key]) => key.startsWith(prefix))
+          .map(async ([id, key]) => {
+            const q = isBuiltinId(id) ? await findBuiltin(id) : findQuestion(key, id);
+            return q ? { ...q, bankKey: key } : null;
+          }),
+      );
+      const items = found.filter((q): q is QuizItem => q !== null);
       if (!items.length) return setScreen({ name: "error", subject, message: "Không còn câu sai nào để ôn. Giỏi quá! 🎉" });
       return setScreen({ name: "quiz", subject, chapterId, items: shuffle(items).slice(0, QUIZ_SIZE), demo: false });
     }
 
     const key = bankKey(p.grade, subject, chapterId);
+
+    if (source === "kho") {
+      const all = await builtinQuestions(p.grade, subject, chapterId);
+      if (!all.length) return setScreen({ name: "error", subject, message: "Chương này chưa có câu trong kho đề. Con chọn Đề mới AI soạn nhé!" });
+      const fresh = shuffle(all.filter((q) => !p.seen[q.id]));
+      const old = shuffle(all.filter((q) => p.seen[q.id]));
+      const items = [...fresh, ...old].slice(0, QUIZ_SIZE).map((q) => ({ ...q, bankKey: key }));
+      return setScreen({ name: "quiz", subject, chapterId, items, demo: false });
+    }
+
     let pool = getQuestions(key);
     let notice: string | undefined;
 
@@ -139,7 +158,8 @@ export function App() {
       ...info,
       id: newId(),
       coins: WELCOME_COINS,
-      owned: STARTER_IDS,
+      owned: [...STARTER_IDS, ...HOME_STARTER_IDS],
+      home: defaultHome(),
       seen: {},
       wrong: {},
       history: [],
@@ -192,6 +212,7 @@ export function App() {
         onPlay={(subject) => setScreen({ name: "choose", subject })}
         onWardrobe={() => setScreen({ name: "wardrobe" })}
         onAchievements={() => setScreen({ name: "achievements" })}
+        onHome={() => setScreen({ name: "home" })}
         onSwitch={() => {
           setData({ ...data, currentId: undefined });
           setScreen({ name: "profiles" });
@@ -222,6 +243,8 @@ export function App() {
         />
       </div>
     );
+  } else if (screen.name === "home") {
+    content = <HomeScreen profiles={data.profiles} me={profile} onChange={patchProfile} onBack={() => setScreen({ name: "lobby" })} />;
   } else if (screen.name === "achievements") {
     content = <Achievements profile={profile} onBack={() => setScreen({ name: "lobby" })} />;
   } else if (screen.name === "choose") {
@@ -229,7 +252,8 @@ export function App() {
       <ChooseLesson
         profile={profile}
         subject={screen.subject}
-        onStart={(chapterId) => startQuiz(profile, screen.subject, chapterId)}
+        onStart={(chapterId, source) => startQuiz(profile, screen.subject, chapterId, source)}
+        hasAI={(data.settings.geminiKeys ?? []).length > 0}
         onBack={() => setScreen({ name: "lobby" })}
       />
     );
@@ -271,10 +295,11 @@ export function App() {
         outcome={screen.outcome}
         profile={profile}
         onHome={() => setScreen({ name: "lobby" })}
-        onAgain={() => startQuiz(profile, screen.subject, screen.chapterId)}
+        onAgain={() => startQuiz(profile, screen.subject, screen.chapterId, lastSource)}
         onWear={(itemId) => {
           const item = ITEM_MAP[itemId];
-          if (item) patchProfile((p) => ({ ...p, look: { ...p.look, [item.slot]: itemId } }));
+          if (!item) return setScreen({ name: "home" });
+          patchProfile((p) => ({ ...p, look: { ...p.look, [item.slot]: itemId } }));
         }}
       />
     );

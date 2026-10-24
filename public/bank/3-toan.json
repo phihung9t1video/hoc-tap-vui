@@ -1,0 +1,2272 @@
+{
+ "c1": [
+  [
+   "Số 507 đọc là:",
+   [
+    "Năm trăm linh bảy",
+    "Năm trăm bảy mươi",
+    "Năm mươi bảy",
+    "Năm trăm không bảy mươi"
+   ],
+   "507 gồm 5 trăm, 0 chục, 7 đơn vị nên đọc là năm trăm linh bảy."
+  ],
+  [
+   "Số gồm 6 trăm, 4 chục và 9 đơn vị là:",
+   [
+    "649",
+    "694",
+    "469",
+    "6 049"
+   ],
+   "6 trăm, 4 chục, 9 đơn vị viết là 649."
+  ],
+  [
+   "Số lớn nhất trong các số 389, 398, 893, 839 là:",
+   [
+    "893",
+    "839",
+    "398",
+    "389"
+   ],
+   "So sánh hàng trăm: 8 > 3. Trong 893 và 839, hàng chục 9 > 3 nên 893 lớn nhất."
+  ],
+  [
+   "356 + 127 = ?",
+   [
+    "483",
+    "473",
+    "482",
+    "373"
+   ],
+   "6 + 7 = 13, viết 3 nhớ 1; 5 + 2 + 1 = 8; 3 + 1 = 4. Kết quả 483."
+  ],
+  [
+   "642 − 318 = ?",
+   [
+    "324",
+    "334",
+    "336",
+    "314"
+   ],
+   "2 không trừ được 8, mượn 1: 12 − 8 = 4; 4 − 1 − 1 = 2; 6 − 3 = 3. Kết quả 324."
+  ],
+  [
+   "Tìm x, biết x + 45 = 100.",
+   [
+    "55",
+    "45",
+    "65",
+    "145"
+   ],
+   "Muốn tìm số hạng chưa biết, lấy tổng trừ số hạng đã biết: x = 100 − 45 = 55."
+  ],
+  [
+   "5 × 7 = ?",
+   [
+    "35",
+    "30",
+    "40",
+    "12"
+   ],
+   "Bảng nhân 5: 5 × 7 = 35."
+  ],
+  [
+   "Mỗi con gà có 2 chân. 8 con gà có bao nhiêu chân?",
+   [
+    "16 chân",
+    "10 chân",
+    "18 chân",
+    "14 chân"
+   ],
+   "2 × 8 = 16 (chân)."
+  ],
+  [
+   "Số liền trước của 600 là:",
+   [
+    "599",
+    "601",
+    "590",
+    "500"
+   ],
+   "Số liền trước thì bớt đi 1: 600 − 1 = 599."
+  ],
+  [
+   "Kết quả của 1 000 − 1 là:",
+   [
+    "999",
+    "990",
+    "900",
+    "1 001"
+   ],
+   "1 000 − 1 = 999."
+  ],
+  [
+   "Số 830 gồm:",
+   [
+    "8 trăm, 3 chục, 0 đơn vị",
+    "8 trăm, 0 chục, 3 đơn vị",
+    "83 trăm",
+    "8 chục, 3 đơn vị"
+   ],
+   "830: chữ số 8 ở hàng trăm, 3 ở hàng chục, 0 ở hàng đơn vị."
+  ],
+  [
+   "475 + 286 = ?",
+   [
+    "761",
+    "751",
+    "661",
+    "771"
+   ],
+   "5 + 6 = 11 viết 1 nhớ 1; 7 + 8 + 1 = 16 viết 6 nhớ 1; 4 + 2 + 1 = 7. Kết quả 761."
+  ],
+  [
+   "900 − 456 = ?",
+   [
+    "444",
+    "544",
+    "454",
+    "456"
+   ],
+   "900 − 456 = 444. Thử lại: 444 + 456 = 900."
+  ],
+  [
+   "Tìm x, biết 120 − x = 45.",
+   [
+    "75",
+    "165",
+    "85",
+    "65"
+   ],
+   "Số trừ = số bị trừ − hiệu: x = 120 − 45 = 75."
+  ],
+  [
+   "2 × 9 = ?",
+   [
+    "18",
+    "11",
+    "16",
+    "29"
+   ],
+   "Bảng nhân 2: 2 × 9 = 18."
+  ],
+  [
+   "Số tròn trăm liền sau số 450 là:",
+   [
+    "500",
+    "400",
+    "460",
+    "550"
+   ],
+   "Các số tròn trăm: 400, 500... Số tròn trăm liền sau 450 là 500."
+  ]
+ ],
+ "c2": [
+  [
+   "6 × 4 = ?",
+   [
+    "24",
+    "20",
+    "28",
+    "18"
+   ],
+   "Bảng nhân 6: 6 × 4 = 24."
+  ],
+  [
+   "56 : 7 = ?",
+   [
+    "8",
+    "7",
+    "9",
+    "6"
+   ],
+   "Vì 7 × 8 = 56 nên 56 : 7 = 8."
+  ],
+  [
+   "9 × 9 = ?",
+   [
+    "81",
+    "72",
+    "99",
+    "18"
+   ],
+   "Bảng nhân 9: 9 × 9 = 81."
+  ],
+  [
+   "1/3 của 18 quả táo là bao nhiêu quả?",
+   [
+    "6 quả",
+    "3 quả",
+    "9 quả",
+    "15 quả"
+   ],
+   "Muốn tìm 1/3 của 18, lấy 18 : 3 = 6 (quả)."
+  ],
+  [
+   "Mỗi hộp có 8 cái bút. 5 hộp như thế có bao nhiêu cái bút?",
+   [
+    "40 cái",
+    "13 cái",
+    "45 cái",
+    "35 cái"
+   ],
+   "8 × 5 = 40 (cái bút)."
+  ],
+  [
+   "Có 42 học sinh xếp đều thành 6 hàng. Mỗi hàng có mấy học sinh?",
+   [
+    "7 học sinh",
+    "6 học sinh",
+    "8 học sinh",
+    "36 học sinh"
+   ],
+   "42 : 6 = 7 (học sinh)."
+  ],
+  [
+   "Phép tính nào có kết quả bằng 24?",
+   [
+    "3 × 8",
+    "4 × 7",
+    "5 × 5",
+    "6 × 5"
+   ],
+   "3 × 8 = 24; còn 4 × 7 = 28, 5 × 5 = 25, 6 × 5 = 30."
+  ],
+  [
+   "Mẹ mua 3 túi kẹo, mỗi túi 6 cái. Mẹ cho bé 5 cái. Mẹ còn lại bao nhiêu cái kẹo?",
+   [
+    "13 cái",
+    "18 cái",
+    "23 cái",
+    "14 cái"
+   ],
+   "Mẹ có 3 × 6 = 18 (cái). Mẹ còn 18 − 5 = 13 (cái)."
+  ],
+  [
+   "Số nào điền vào chỗ chấm: ... : 4 = 9?",
+   [
+    "36",
+    "13",
+    "32",
+    "40"
+   ],
+   "Số bị chia = thương × số chia = 9 × 4 = 36."
+  ],
+  [
+   "Tô màu 1/4 một hình nghĩa là:",
+   [
+    "Chia hình thành 4 phần bằng nhau, tô 1 phần",
+    "Chia hình thành 4 phần, tô cả 4 phần",
+    "Chia hình thành 1 phần, tô 4 phần",
+    "Tô 4 hình giống nhau"
+   ],
+   "1/4 nghĩa là chia đều thành 4 phần bằng nhau và lấy 1 phần."
+  ],
+  [
+   "8 × 6 = ?",
+   [
+    "48",
+    "42",
+    "56",
+    "46"
+   ],
+   "Bảng nhân 8: 8 × 6 = 48."
+  ],
+  [
+   "63 : 9 = ?",
+   [
+    "7",
+    "6",
+    "8",
+    "9"
+   ],
+   "Vì 9 × 7 = 63 nên 63 : 9 = 7."
+  ],
+  [
+   "7 × 7 = ?",
+   [
+    "49",
+    "42",
+    "56",
+    "14"
+   ],
+   "Bảng nhân 7: 7 × 7 = 49."
+  ],
+  [
+   "1/6 của 30 là:",
+   [
+    "5",
+    "6",
+    "24",
+    "36"
+   ],
+   "30 : 6 = 5."
+  ],
+  [
+   "Có 36 bông hoa cắm đều vào 4 lọ. Mỗi lọ có:",
+   [
+    "9 bông",
+    "8 bông",
+    "32 bông",
+    "40 bông"
+   ],
+   "36 : 4 = 9 (bông)."
+  ],
+  [
+   "Mỗi bàn có 3 bạn ngồi. 8 bàn như thế có bao nhiêu bạn?",
+   [
+    "24 bạn",
+    "11 bạn",
+    "21 bạn",
+    "27 bạn"
+   ],
+   "3 × 8 = 24 (bạn)."
+  ],
+  [
+   "Có 5 hàng ghế, mỗi hàng 9 ghế. Có tất cả bao nhiêu ghế?",
+   [
+    "45 ghế",
+    "14 ghế",
+    "54 ghế",
+    "40 ghế"
+   ],
+   "9 × 5 = 45 (ghế)."
+  ]
+ ],
+ "c3": [
+  [
+   "Trung điểm của đoạn thẳng AB là điểm:",
+   [
+    "Nằm giữa A, B và cách đều A và B",
+    "Nằm ngoài đoạn thẳng AB",
+    "Trùng với điểm A",
+    "Nằm giữa A và B nhưng gần A hơn"
+   ],
+   "Trung điểm nằm giữa hai đầu đoạn thẳng và cách đều hai đầu."
+  ],
+  [
+   "Đoạn thẳng AB dài 10 cm, M là trung điểm của AB. Độ dài đoạn AM là:",
+   [
+    "5 cm",
+    "10 cm",
+    "20 cm",
+    "2 cm"
+   ],
+   "M chia AB thành hai phần bằng nhau: 10 : 2 = 5 (cm)."
+  ],
+  [
+   "Hình tròn tâm O có bán kính 3 cm. Đường kính của hình tròn đó là:",
+   [
+    "6 cm",
+    "3 cm",
+    "9 cm",
+    "4 cm"
+   ],
+   "Đường kính dài gấp 2 lần bán kính: 3 × 2 = 6 (cm)."
+  ],
+  [
+   "Hình vuông có mấy góc vuông?",
+   [
+    "4",
+    "2",
+    "3",
+    "0"
+   ],
+   "Hình vuông có 4 góc đều là góc vuông."
+  ],
+  [
+   "Hình tam giác có mấy cạnh?",
+   [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "Hình tam giác có 3 cạnh và 3 đỉnh."
+  ],
+  [
+   "Khối lập phương có bao nhiêu mặt?",
+   [
+    "6",
+    "4",
+    "8",
+    "12"
+   ],
+   "Khối lập phương có 6 mặt đều là hình vuông."
+  ],
+  [
+   "Hình chữ nhật có đặc điểm nào sau đây?",
+   [
+    "Có 4 góc vuông, hai cạnh dài bằng nhau, hai cạnh ngắn bằng nhau",
+    "Có 4 cạnh dài bằng nhau và không có góc vuông",
+    "Chỉ có 3 góc vuông",
+    "Có 3 cạnh"
+   ],
+   "Hình chữ nhật có 4 góc vuông, hai chiều dài bằng nhau, hai chiều rộng bằng nhau."
+  ],
+  [
+   "Đồ vật nào có dạng khối hộp chữ nhật?",
+   [
+    "Hộp sữa giấy",
+    "Quả bóng",
+    "Cái nón lá",
+    "Viên bi"
+   ],
+   "Hộp sữa giấy có 6 mặt là hình chữ nhật nên có dạng khối hộp chữ nhật."
+  ],
+  [
+   "Bán kính của một hình tròn bằng bao nhiêu so với đường kính?",
+   [
+    "Một nửa đường kính",
+    "Gấp đôi đường kính",
+    "Bằng đường kính",
+    "Một phần ba đường kính"
+   ],
+   "Đường kính gấp đôi bán kính, nên bán kính bằng một nửa đường kính."
+  ],
+  [
+   "Hình tròn có đường kính 10 cm. Bán kính của hình tròn là:",
+   [
+    "5 cm",
+    "10 cm",
+    "20 cm",
+    "2 cm"
+   ],
+   "Bán kính bằng một nửa đường kính: 10 : 2 = 5 (cm)."
+  ],
+  [
+   "Hình nào có 4 cạnh bằng nhau và 4 góc vuông?",
+   [
+    "Hình vuông",
+    "Hình chữ nhật dài",
+    "Hình tam giác",
+    "Hình tròn"
+   ],
+   "Hình vuông có 4 cạnh bằng nhau và 4 góc vuông."
+  ],
+  [
+   "Dụng cụ để kiểm tra góc vuông là:",
+   [
+    "Ê ke",
+    "Com-pa",
+    "Thước dây",
+    "Bút chì"
+   ],
+   "Dùng ê ke để kiểm tra và vẽ góc vuông."
+  ],
+  [
+   "Dụng cụ để vẽ hình tròn là:",
+   [
+    "Com-pa",
+    "Ê ke",
+    "Thước thẳng",
+    "Tẩy"
+   ],
+   "Com-pa dùng để vẽ đường tròn."
+  ],
+  [
+   "Khối hộp chữ nhật có bao nhiêu đỉnh?",
+   [
+    "8",
+    "6",
+    "12",
+    "4"
+   ],
+   "Khối hộp chữ nhật có 8 đỉnh, 12 cạnh, 6 mặt."
+  ],
+  [
+   "Hình tứ giác có mấy đỉnh?",
+   [
+    "4",
+    "3",
+    "5",
+    "6"
+   ],
+   "Tứ giác có 4 cạnh và 4 đỉnh."
+  ]
+ ],
+ "c4": [
+  [
+   "23 × 3 = ?",
+   [
+    "69",
+    "66",
+    "26",
+    "96"
+   ],
+   "3 × 3 = 9; 2 × 3 = 6. Kết quả 69."
+  ],
+  [
+   "16 × 5 = ?",
+   [
+    "80",
+    "50",
+    "75",
+    "85"
+   ],
+   "6 × 5 = 30, viết 0 nhớ 3; 1 × 5 = 5, thêm 3 là 8. Kết quả 80."
+  ],
+  [
+   "48 : 4 = ?",
+   [
+    "12",
+    "11",
+    "14",
+    "44"
+   ],
+   "4 : 4 = 1; 8 : 4 = 2. Kết quả 12."
+  ],
+  [
+   "17 : 5 = ?",
+   [
+    "3 (dư 2)",
+    "3 (dư 1)",
+    "4 (dư 3)",
+    "2 (dư 7)"
+   ],
+   "5 × 3 = 15; 17 − 15 = 2. Vậy 17 : 5 = 3 (dư 2)."
+  ],
+  [
+   "Gấp 6 lên 4 lần được:",
+   [
+    "24",
+    "10",
+    "2",
+    "64"
+   ],
+   "Gấp lên 4 lần thì nhân với 4: 6 × 4 = 24."
+  ],
+  [
+   "Giảm 35 đi 5 lần được:",
+   [
+    "7",
+    "30",
+    "40",
+    "175"
+   ],
+   "Giảm đi 5 lần thì chia cho 5: 35 : 5 = 7."
+  ],
+  [
+   "Trong phép chia có dư, số dư phải như thế nào so với số chia?",
+   [
+    "Bé hơn số chia",
+    "Bằng số chia",
+    "Lớn hơn số chia",
+    "Luôn bằng 0"
+   ],
+   "Số dư luôn bé hơn số chia."
+  ],
+  [
+   "An có 8 quyển truyện, Bình có 24 quyển. Số truyện của Bình gấp mấy lần số truyện của An?",
+   [
+    "3 lần",
+    "16 lần",
+    "4 lần",
+    "32 lần"
+   ],
+   "Lấy số lớn chia số bé: 24 : 8 = 3 (lần)."
+  ],
+  [
+   "Một tấm vải dài 96 m, cắt thành 3 phần bằng nhau. Mỗi phần dài:",
+   [
+    "32 m",
+    "93 m",
+    "33 m",
+    "31 m"
+   ],
+   "96 : 3 = 32 (m)."
+  ],
+  [
+   "Có 30 cái bánh xếp vào hộp, mỗi hộp 4 cái. Cần ít nhất bao nhiêu hộp để xếp hết bánh?",
+   [
+    "8 hộp",
+    "7 hộp",
+    "6 hộp",
+    "9 hộp"
+   ],
+   "30 : 4 = 7 (dư 2). 7 hộp còn thừa 2 cái nên cần thêm 1 hộp: 8 hộp."
+  ],
+  [
+   "32 × 3 = ?",
+   [
+    "96",
+    "66",
+    "35",
+    "93"
+   ],
+   "2 × 3 = 6; 3 × 3 = 9. Kết quả 96."
+  ],
+  [
+   "45 × 2 = ?",
+   [
+    "90",
+    "80",
+    "47",
+    "85"
+   ],
+   "5 × 2 = 10 viết 0 nhớ 1; 4 × 2 = 8, thêm 1 là 9. Kết quả 90."
+  ],
+  [
+   "84 : 4 = ?",
+   [
+    "21",
+    "20",
+    "24",
+    "12"
+   ],
+   "8 : 4 = 2; 4 : 4 = 1. Kết quả 21."
+  ],
+  [
+   "29 : 3 = ?",
+   [
+    "9 (dư 2)",
+    "9 (dư 1)",
+    "8 (dư 5)",
+    "10 (dư 1)"
+   ],
+   "3 × 9 = 27; 29 − 27 = 2. Vậy 29 : 3 = 9 (dư 2)."
+  ],
+  [
+   "Gấp 7 kg lên 5 lần được:",
+   [
+    "35 kg",
+    "12 kg",
+    "2 kg",
+    "75 kg"
+   ],
+   "7 × 5 = 35 (kg)."
+  ],
+  [
+   "Mẹ 36 tuổi, con 9 tuổi. Tuổi mẹ gấp mấy lần tuổi con?",
+   [
+    "4 lần",
+    "27 lần",
+    "3 lần",
+    "5 lần"
+   ],
+   "36 : 9 = 4 (lần)."
+  ],
+  [
+   "Giảm 48 l đi 6 lần còn:",
+   [
+    "8 l",
+    "42 l",
+    "54 l",
+    "6 l"
+   ],
+   "48 : 6 = 8 (l)."
+  ]
+ ],
+ "c5": [
+  [
+   "1 cm = ? mm",
+   [
+    "10 mm",
+    "100 mm",
+    "1 000 mm",
+    "1 mm"
+   ],
+   "1 xăng-ti-mét bằng 10 mi-li-mét."
+  ],
+  [
+   "1 kg = ? g",
+   [
+    "1 000 g",
+    "100 g",
+    "10 g",
+    "10 000 g"
+   ],
+   "1 ki-lô-gam bằng 1 000 gam."
+  ],
+  [
+   "1 l = ? ml",
+   [
+    "1 000 ml",
+    "100 ml",
+    "10 ml",
+    "10 000 ml"
+   ],
+   "1 lít bằng 1 000 mi-li-lít."
+  ],
+  [
+   "5 cm 3 mm = ? mm",
+   [
+    "53 mm",
+    "8 mm",
+    "503 mm",
+    "35 mm"
+   ],
+   "5 cm = 50 mm; 50 mm + 3 mm = 53 mm."
+  ],
+  [
+   "Nhiệt độ cơ thể người khỏe mạnh khoảng:",
+   [
+    "37 °C",
+    "10 °C",
+    "70 °C",
+    "100 °C"
+   ],
+   "Thân nhiệt bình thường của người khoảng 37 °C."
+  ],
+  [
+   "Hộp bánh nặng 300 g, hộp kẹo nặng 450 g. Cả hai hộp nặng:",
+   [
+    "750 g",
+    "150 g",
+    "700 g",
+    "755 g"
+   ],
+   "300 + 450 = 750 (g)."
+  ],
+  [
+   "Chai nước có 500 ml. Rót ra 2 cốc, mỗi cốc 150 ml. Chai còn lại:",
+   [
+    "200 ml",
+    "350 ml",
+    "300 ml",
+    "650 ml"
+   ],
+   "Rót ra 150 × 2 = 300 (ml). Còn lại 500 − 300 = 200 (ml)."
+  ],
+  [
+   "Đơn vị nào thích hợp để đo cân nặng một quả trứng gà?",
+   [
+    "Gam",
+    "Ki-lô-gam",
+    "Lít",
+    "Mét"
+   ],
+   "Quả trứng nhẹ (khoảng 50–60 g) nên đo bằng gam."
+  ],
+  [
+   "Nước sôi ở bao nhiêu độ C?",
+   [
+    "100 °C",
+    "50 °C",
+    "0 °C",
+    "37 °C"
+   ],
+   "Ở điều kiện bình thường, nước sôi ở 100 °C."
+  ],
+  [
+   "3 l = ? ml",
+   [
+    "3 000 ml",
+    "300 ml",
+    "30 ml",
+    "30 000 ml"
+   ],
+   "1 l = 1 000 ml nên 3 l = 3 000 ml."
+  ],
+  [
+   "2 kg 500 g = ? g",
+   [
+    "2 500 g",
+    "2 005 g",
+    "250 g",
+    "7 000 g"
+   ],
+   "2 kg = 2 000 g; 2 000 + 500 = 2 500 (g)."
+  ],
+  [
+   "60 mm = ? cm",
+   [
+    "6 cm",
+    "60 cm",
+    "600 cm",
+    "0,6 cm"
+   ],
+   "10 mm = 1 cm nên 60 mm = 6 cm."
+  ],
+  [
+   "Bao gạo nặng 25 kg, bao ngô nặng 18 kg. Bao gạo nặng hơn bao ngô:",
+   [
+    "7 kg",
+    "43 kg",
+    "17 kg",
+    "13 kg"
+   ],
+   "25 − 18 = 7 (kg)."
+  ],
+  [
+   "Để đo lượng nước trong một cốc nhỏ, đơn vị thích hợp là:",
+   [
+    "Mi-li-lít",
+    "Lít",
+    "Ki-lô-gam",
+    "Mét"
+   ],
+   "Lượng nước ít nên đo bằng mi-li-lít (ml)."
+  ],
+  [
+   "Nước đá đang tan có nhiệt độ khoảng:",
+   [
+    "0 °C",
+    "37 °C",
+    "100 °C",
+    "50 °C"
+   ],
+   "Nước đá tan ở khoảng 0 °C."
+  ]
+ ],
+ "c6": [
+  [
+   "124 × 3 = ?",
+   [
+    "372",
+    "362",
+    "127",
+    "342"
+   ],
+   "4 × 3 = 12, viết 2 nhớ 1; 2 × 3 = 6, thêm 1 là 7; 1 × 3 = 3. Kết quả 372."
+  ],
+  [
+   "205 × 4 = ?",
+   [
+    "820",
+    "802",
+    "209",
+    "840"
+   ],
+   "5 × 4 = 20, viết 0 nhớ 2; 0 × 4 = 0, thêm 2 là 2; 2 × 4 = 8. Kết quả 820."
+  ],
+  [
+   "684 : 2 = ?",
+   [
+    "342",
+    "324",
+    "682",
+    "343"
+   ],
+   "6 : 2 = 3; 8 : 2 = 4; 4 : 2 = 2. Kết quả 342."
+  ],
+  [
+   "Giá trị của biểu thức 50 + 20 × 3 là:",
+   [
+    "110",
+    "210",
+    "73",
+    "90"
+   ],
+   "Nhân trước, cộng sau: 20 × 3 = 60; 50 + 60 = 110."
+  ],
+  [
+   "Giá trị của biểu thức (50 + 20) × 3 là:",
+   [
+    "210",
+    "110",
+    "73",
+    "150"
+   ],
+   "Tính trong ngoặc trước: 50 + 20 = 70; 70 × 3 = 210."
+  ],
+  [
+   "Giá trị của biểu thức 90 : 3 − 10 là:",
+   [
+    "20",
+    "30",
+    "10",
+    "45"
+   ],
+   "Chia trước, trừ sau: 90 : 3 = 30; 30 − 10 = 20."
+  ],
+  [
+   "855 : 5 = ?",
+   [
+    "171",
+    "170",
+    "161",
+    "181"
+   ],
+   "8 : 5 = 1 dư 3; 35 : 5 = 7; 5 : 5 = 1. Kết quả 171."
+  ],
+  [
+   "Cửa hàng có 4 thùng nước, mỗi thùng 125 chai. Cửa hàng có bao nhiêu chai nước?",
+   [
+    "500 chai",
+    "129 chai",
+    "450 chai",
+    "525 chai"
+   ],
+   "125 × 4 = 500 (chai)."
+  ],
+  [
+   "Biểu thức có phép cộng và phép nhân, không có dấu ngoặc, ta thực hiện:",
+   [
+    "Phép nhân trước, phép cộng sau",
+    "Phép cộng trước, phép nhân sau",
+    "Lần lượt từ trái sang phải",
+    "Phép nào trước cũng được"
+   ],
+   "Nhân, chia trước; cộng, trừ sau."
+  ],
+  [
+   "Số 120 gấp số 4 bao nhiêu lần?",
+   [
+    "30 lần",
+    "116 lần",
+    "124 lần",
+    "480 lần"
+   ],
+   "120 : 4 = 30 (lần)."
+  ],
+  [
+   "312 × 3 = ?",
+   [
+    "936",
+    "933",
+    "315",
+    "963"
+   ],
+   "2 × 3 = 6; 1 × 3 = 3; 3 × 3 = 9. Kết quả 936."
+  ],
+  [
+   "128 × 4 = ?",
+   [
+    "512",
+    "482",
+    "132",
+    "502"
+   ],
+   "8 × 4 = 32 viết 2 nhớ 3; 2 × 4 = 8, thêm 3 là 11 viết 1 nhớ 1; 1 × 4 = 4, thêm 1 là 5. Kết quả 512."
+  ],
+  [
+   "936 : 3 = ?",
+   [
+    "312",
+    "321",
+    "302",
+    "313"
+   ],
+   "9 : 3 = 3; 3 : 3 = 1; 6 : 3 = 2. Kết quả 312."
+  ],
+  [
+   "Giá trị của biểu thức 120 : (2 + 4) là:",
+   [
+    "20",
+    "64",
+    "66",
+    "10"
+   ],
+   "Tính trong ngoặc trước: 2 + 4 = 6; 120 : 6 = 20."
+  ],
+  [
+   "Giá trị của biểu thức 25 × 4 − 50 là:",
+   [
+    "50",
+    "150",
+    "−50",
+    "100"
+   ],
+   "Nhân trước: 25 × 4 = 100; 100 − 50 = 50."
+  ],
+  [
+   "Trang trại có 165 con gà, số vịt gấp 3 lần số gà. Trang trại có bao nhiêu con vịt?",
+   [
+    "495 con",
+    "168 con",
+    "55 con",
+    "485 con"
+   ],
+   "165 × 3 = 495 (con)."
+  ],
+  [
+   "567 : 7 = ?",
+   [
+    "81",
+    "71",
+    "80",
+    "91"
+   ],
+   "56 : 7 = 8; 7 : 7 = 1. Kết quả 81."
+  ]
+ ],
+ "c8": [
+  [
+   "Số 4 052 đọc là:",
+   [
+    "Bốn nghìn không trăm năm mươi hai",
+    "Bốn nghìn năm trăm hai mươi",
+    "Bốn trăm năm mươi hai",
+    "Bốn nghìn năm mươi hai trăm"
+   ],
+   "4 052 gồm 4 nghìn, 0 trăm, 5 chục, 2 đơn vị."
+  ],
+  [
+   "Số gồm 7 nghìn, 3 trăm, 0 chục, 5 đơn vị là:",
+   [
+    "7 305",
+    "7 350",
+    "73 005",
+    "7 035"
+   ],
+   "Viết lần lượt các hàng: 7 nghìn, 3 trăm, 0 chục, 5 đơn vị → 7 305."
+  ],
+  [
+   "Số La Mã XII là số:",
+   [
+    "12",
+    "7",
+    "21",
+    "102"
+   ],
+   "X là 10, II là 2; XII = 10 + 2 = 12."
+  ],
+  [
+   "Số 9 viết bằng chữ số La Mã là:",
+   [
+    "IX",
+    "XI",
+    "VIIII",
+    "IIX"
+   ],
+   "9 = 10 − 1, viết I đứng trước X: IX."
+  ],
+  [
+   "Làm tròn số 3 476 đến hàng trăm ta được:",
+   [
+    "3 500",
+    "3 400",
+    "3 480",
+    "4 000"
+   ],
+   "Chữ số hàng chục là 7 (≥ 5) nên làm tròn lên: 3 500."
+  ],
+  [
+   "Số bé nhất có bốn chữ số là:",
+   [
+    "1 000",
+    "1 111",
+    "9 999",
+    "0 001"
+   ],
+   "Số có bốn chữ số bé nhất là 1 000."
+  ],
+  [
+   "Điền dấu thích hợp: 5 099 ... 5 101",
+   [
+    "<",
+    ">",
+    "=",
+    "Không so sánh được"
+   ],
+   "Hàng nghìn bằng nhau, hàng trăm 0 < 1 nên 5 099 < 5 101."
+  ],
+  [
+   "Làm tròn số 6 852 đến hàng chục ta được:",
+   [
+    "6 850",
+    "6 860",
+    "6 900",
+    "6 800"
+   ],
+   "Chữ số hàng đơn vị là 2 (< 5) nên làm tròn xuống: 6 850."
+  ],
+  [
+   "Số liền sau của 9 999 là:",
+   [
+    "10 000",
+    "9 998",
+    "10 999",
+    "1 000"
+   ],
+   "9 999 + 1 = 10 000."
+  ],
+  [
+   "Số 8 006 đọc là:",
+   [
+    "Tám nghìn không trăm linh sáu",
+    "Tám nghìn sáu trăm",
+    "Tám trăm linh sáu",
+    "Tám nghìn không trăm sáu mươi"
+   ],
+   "8 006 gồm 8 nghìn, 0 trăm, 0 chục, 6 đơn vị."
+  ],
+  [
+   "Số La Mã XX là số:",
+   [
+    "20",
+    "11",
+    "2",
+    "200"
+   ],
+   "X là 10, XX = 10 + 10 = 20."
+  ],
+  [
+   "Số 4 viết bằng chữ số La Mã là:",
+   [
+    "IV",
+    "IIII",
+    "VI",
+    "IIV"
+   ],
+   "4 = 5 − 1: viết I trước V thành IV."
+  ],
+  [
+   "Số gồm 2 nghìn và 5 chục là:",
+   [
+    "2 050",
+    "2 500",
+    "2 005",
+    "250"
+   ],
+   "2 nghìn, 0 trăm, 5 chục, 0 đơn vị → 2 050."
+  ],
+  [
+   "Số lớn nhất có bốn chữ số khác nhau là:",
+   [
+    "9 876",
+    "9 999",
+    "9 870",
+    "9 678"
+   ],
+   "Chọn các chữ số lớn nhất khác nhau, xếp giảm dần: 9 876."
+  ],
+  [
+   "Làm tròn số 2 345 đến hàng chục ta được:",
+   [
+    "2 350",
+    "2 340",
+    "2 300",
+    "2 400"
+   ],
+   "Chữ số hàng đơn vị là 5 nên làm tròn lên: 2 350."
+  ]
+ ],
+ "c9": [
+  [
+   "Hình chữ nhật có chiều dài 8 cm, chiều rộng 5 cm. Chu vi là:",
+   [
+    "26 cm",
+    "13 cm",
+    "40 cm",
+    "21 cm"
+   ],
+   "Chu vi = (dài + rộng) × 2 = (8 + 5) × 2 = 26 (cm)."
+  ],
+  [
+   "Hình chữ nhật có chiều dài 8 cm, chiều rộng 5 cm. Diện tích là:",
+   [
+    "40 cm²",
+    "26 cm²",
+    "13 cm²",
+    "45 cm²"
+   ],
+   "Diện tích = dài × rộng = 8 × 5 = 40 (cm²)."
+  ],
+  [
+   "Hình vuông cạnh 6 cm có chu vi là:",
+   [
+    "24 cm",
+    "36 cm",
+    "12 cm",
+    "18 cm"
+   ],
+   "Chu vi hình vuông = cạnh × 4 = 6 × 4 = 24 (cm)."
+  ],
+  [
+   "Hình vuông cạnh 6 cm có diện tích là:",
+   [
+    "36 cm²",
+    "24 cm²",
+    "12 cm²",
+    "30 cm²"
+   ],
+   "Diện tích hình vuông = cạnh × cạnh = 6 × 6 = 36 (cm²)."
+  ],
+  [
+   "Tam giác có ba cạnh dài 3 cm, 4 cm, 5 cm. Chu vi tam giác là:",
+   [
+    "12 cm",
+    "60 cm",
+    "9 cm",
+    "7 cm"
+   ],
+   "Chu vi = tổng độ dài các cạnh: 3 + 4 + 5 = 12 (cm)."
+  ],
+  [
+   "Đơn vị nào dùng để đo diện tích?",
+   [
+    "Xăng-ti-mét vuông (cm²)",
+    "Xăng-ti-mét (cm)",
+    "Gam (g)",
+    "Mi-li-lít (ml)"
+   ],
+   "Diện tích đo bằng các đơn vị vuông như cm²."
+  ],
+  [
+   "Một hình vuông có chu vi 20 cm. Cạnh hình vuông dài:",
+   [
+    "5 cm",
+    "10 cm",
+    "80 cm",
+    "4 cm"
+   ],
+   "Cạnh = chu vi : 4 = 20 : 4 = 5 (cm)."
+  ],
+  [
+   "Hình chữ nhật có chu vi 30 cm, chiều dài 9 cm. Chiều rộng là:",
+   [
+    "6 cm",
+    "21 cm",
+    "3 cm",
+    "12 cm"
+   ],
+   "Nửa chu vi = 30 : 2 = 15 (cm). Chiều rộng = 15 − 9 = 6 (cm)."
+  ],
+  [
+   "Hình chữ nhật dài 12 cm, rộng 6 cm có diện tích là:",
+   [
+    "72 cm²",
+    "36 cm²",
+    "18 cm²",
+    "72 cm"
+   ],
+   "12 × 6 = 72 (cm²)."
+  ],
+  [
+   "Hình vuông cạnh 10 cm có chu vi là:",
+   [
+    "40 cm",
+    "100 cm",
+    "20 cm",
+    "14 cm"
+   ],
+   "10 × 4 = 40 (cm)."
+  ],
+  [
+   "Tứ giác có các cạnh 3 cm, 4 cm, 5 cm, 6 cm. Chu vi tứ giác là:",
+   [
+    "18 cm",
+    "15 cm",
+    "360 cm",
+    "12 cm"
+   ],
+   "3 + 4 + 5 + 6 = 18 (cm)."
+  ],
+  [
+   "Hình vuông có diện tích 49 cm². Cạnh hình vuông dài:",
+   [
+    "7 cm",
+    "49 cm",
+    "12 cm",
+    "24 cm"
+   ],
+   "7 × 7 = 49 nên cạnh dài 7 cm."
+  ],
+  [
+   "Mảnh vườn hình chữ nhật dài 20 m, rộng 10 m. Chu vi mảnh vườn là:",
+   [
+    "60 m",
+    "30 m",
+    "200 m",
+    "40 m"
+   ],
+   "(20 + 10) × 2 = 60 (m)."
+  ],
+  [
+   "1 cm² là diện tích của hình vuông có cạnh dài:",
+   [
+    "1 cm",
+    "10 cm",
+    "1 mm",
+    "100 cm"
+   ],
+   "Xăng-ti-mét vuông là diện tích hình vuông cạnh 1 cm."
+  ]
+ ],
+ "c10": [
+  [
+   "3 456 + 2 318 = ?",
+   [
+    "5 774",
+    "5 764",
+    "5 674",
+    "6 774"
+   ],
+   "6 + 8 = 14 viết 4 nhớ 1; 5 + 1 + 1 = 7; 4 + 3 = 7; 3 + 2 = 5. Kết quả 5 774."
+  ],
+  [
+   "7 000 − 2 450 = ?",
+   [
+    "4 550",
+    "5 450",
+    "4 450",
+    "5 550"
+   ],
+   "7 000 − 2 450 = 4 550. Thử lại: 4 550 + 2 450 = 7 000."
+  ],
+  [
+   "6 095 + 1 905 = ?",
+   [
+    "8 000",
+    "7 990",
+    "7 000",
+    "8 100"
+   ],
+   "6 095 + 1 905 = 8 000."
+  ],
+  [
+   "9 314 − 4 528 = ?",
+   [
+    "4 786",
+    "4 796",
+    "5 786",
+    "4 886"
+   ],
+   "9 314 − 4 528 = 4 786. Thử lại: 4 786 + 4 528 = 9 314."
+  ],
+  [
+   "Tìm x, biết x − 1 250 = 3 750.",
+   [
+    "5 000",
+    "2 500",
+    "4 000",
+    "2 400"
+   ],
+   "Số bị trừ = hiệu + số trừ: x = 3 750 + 1 250 = 5 000."
+  ],
+  [
+   "Thư viện có 2 450 quyển sách, mua thêm 1 380 quyển. Thư viện có tất cả:",
+   [
+    "3 830 quyển",
+    "1 070 quyển",
+    "3 730 quyển",
+    "3 820 quyển"
+   ],
+   "2 450 + 1 380 = 3 830 (quyển)."
+  ],
+  [
+   "Một kho có 5 600 kg gạo, đã xuất 2 750 kg. Kho còn lại:",
+   [
+    "2 850 kg",
+    "3 850 kg",
+    "2 950 kg",
+    "8 350 kg"
+   ],
+   "5 600 − 2 750 = 2 850 (kg)."
+  ],
+  [
+   "Tính nhẩm: 4 000 + 3 000 = ?",
+   [
+    "7 000",
+    "700",
+    "70 000",
+    "1 000"
+   ],
+   "4 nghìn + 3 nghìn = 7 nghìn = 7 000."
+  ],
+  [
+   "2 507 + 3 495 = ?",
+   [
+    "6 002",
+    "5 902",
+    "6 012",
+    "5 992"
+   ],
+   "2 507 + 3 495 = 6 002."
+  ],
+  [
+   "8 000 − 3 999 = ?",
+   [
+    "4 001",
+    "5 001",
+    "4 011",
+    "3 001"
+   ],
+   "8 000 − 3 999 = 4 001. Thử lại: 4 001 + 3 999 = 8 000."
+  ],
+  [
+   "Tìm x, biết x + 2 300 = 5 000.",
+   [
+    "2 700",
+    "7 300",
+    "3 700",
+    "2 300"
+   ],
+   "x = 5 000 − 2 300 = 2 700."
+  ],
+  [
+   "Tính nhẩm: 9 000 − 4 000 = ?",
+   [
+    "5 000",
+    "13 000",
+    "4 000",
+    "500"
+   ],
+   "9 nghìn − 4 nghìn = 5 nghìn."
+  ],
+  [
+   "Có 1 250 kg táo và 2 350 kg cam. Có tất cả bao nhiêu ki-lô-gam?",
+   [
+    "3 600 kg",
+    "1 100 kg",
+    "3 500 kg",
+    "3 700 kg"
+   ],
+   "1 250 + 2 350 = 3 600 (kg)."
+  ],
+  [
+   "Hiệu của số lớn nhất có bốn chữ số và số bé nhất có bốn chữ số là:",
+   [
+    "8 999",
+    "9 000",
+    "8 888",
+    "1 000"
+   ],
+   "9 999 − 1 000 = 8 999."
+  ]
+ ],
+ "c11": [
+  [
+   "Số 45 307 đọc là:",
+   [
+    "Bốn mươi lăm nghìn ba trăm linh bảy",
+    "Bốn trăm năm mươi ba nghìn không trăm bảy",
+    "Bốn mươi lăm nghìn ba trăm bảy mươi",
+    "Bốn nghìn năm trăm ba mươi bảy"
+   ],
+   "45 307 gồm 45 nghìn, 3 trăm, 0 chục, 7 đơn vị."
+  ],
+  [
+   "Số gồm 8 chục nghìn, 2 nghìn, 6 chục là:",
+   [
+    "82 060",
+    "82 600",
+    "80 260",
+    "8 260"
+   ],
+   "8 chục nghìn, 2 nghìn, 0 trăm, 6 chục, 0 đơn vị → 82 060."
+  ],
+  [
+   "Số lớn nhất có năm chữ số là:",
+   [
+    "99 999",
+    "10 000",
+    "90 000",
+    "100 000"
+   ],
+   "Số có năm chữ số lớn nhất là 99 999."
+  ],
+  [
+   "Làm tròn số 37 820 đến hàng nghìn ta được:",
+   [
+    "38 000",
+    "37 000",
+    "37 800",
+    "40 000"
+   ],
+   "Chữ số hàng trăm là 8 (≥ 5) nên làm tròn lên: 38 000."
+  ],
+  [
+   "Làm tròn số 64 500 đến hàng chục nghìn ta được:",
+   [
+    "60 000",
+    "70 000",
+    "64 000",
+    "65 000"
+   ],
+   "Chữ số hàng nghìn là 4 (< 5) nên làm tròn xuống: 60 000."
+  ],
+  [
+   "Chữ số 7 trong số 57 316 thuộc hàng nào?",
+   [
+    "Hàng nghìn",
+    "Hàng chục nghìn",
+    "Hàng trăm",
+    "Hàng chục"
+   ],
+   "57 316: 5 ở hàng chục nghìn, 7 ở hàng nghìn."
+  ],
+  [
+   "Dãy số nào được xếp từ bé đến lớn?",
+   [
+    "29 999; 30 001; 30 100",
+    "30 100; 30 001; 29 999",
+    "30 001; 29 999; 30 100",
+    "29 999; 30 100; 30 001"
+   ],
+   "29 999 < 30 001 < 30 100."
+  ],
+  [
+   "Số liền trước của 50 000 là:",
+   [
+    "49 999",
+    "50 001",
+    "49 000",
+    "40 000"
+   ],
+   "50 000 − 1 = 49 999."
+  ],
+  [
+   "Số 70 080 đọc là:",
+   [
+    "Bảy mươi nghìn không trăm tám mươi",
+    "Bảy nghìn không trăm tám mươi",
+    "Bảy mươi nghìn tám trăm",
+    "Bảy trăm nghìn tám mươi"
+   ],
+   "70 080 gồm 70 nghìn, 0 trăm, 8 chục, 0 đơn vị."
+  ],
+  [
+   "Số 100 000 đọc là:",
+   [
+    "Một trăm nghìn",
+    "Mười nghìn",
+    "Một triệu",
+    "Một nghìn"
+   ],
+   "100 000 là một trăm nghìn."
+  ],
+  [
+   "Chữ số 3 trong số 23 405 có giá trị là:",
+   [
+    "3 000",
+    "300",
+    "30 000",
+    "30"
+   ],
+   "Chữ số 3 ở hàng nghìn nên có giá trị 3 000."
+  ],
+  [
+   "Số tròn chục nghìn lớn nhất có năm chữ số là:",
+   [
+    "90 000",
+    "99 000",
+    "99 990",
+    "100 000"
+   ],
+   "Số tròn chục nghìn có năm chữ số lớn nhất là 90 000."
+  ],
+  [
+   "Điền dấu thích hợp: 45 678 ... 45 687",
+   [
+    "<",
+    ">",
+    "=",
+    "Không so sánh được"
+   ],
+   "Các hàng nghìn, trăm bằng nhau; hàng chục 7 < 8 nên 45 678 < 45 687."
+  ],
+  [
+   "Làm tròn số 81 499 đến hàng nghìn ta được:",
+   [
+    "81 000",
+    "82 000",
+    "81 500",
+    "80 000"
+   ],
+   "Chữ số hàng trăm là 4 (< 5) nên làm tròn xuống: 81 000."
+  ]
+ ],
+ "c12": [
+  [
+   "25 360 + 14 520 = ?",
+   [
+    "39 880",
+    "39 780",
+    "10 840",
+    "38 880"
+   ],
+   "25 360 + 14 520 = 39 880."
+  ],
+  [
+   "60 000 − 25 000 = ?",
+   [
+    "35 000",
+    "45 000",
+    "85 000",
+    "25 000"
+   ],
+   "60 nghìn − 25 nghìn = 35 nghìn = 35 000."
+  ],
+  [
+   "48 215 − 19 507 = ?",
+   [
+    "28 708",
+    "29 708",
+    "28 718",
+    "38 708"
+   ],
+   "48 215 − 19 507 = 28 708. Thử lại: 28 708 + 19 507 = 48 215."
+  ],
+  [
+   "Tìm x, biết x + 12 500 = 30 000.",
+   [
+    "17 500",
+    "42 500",
+    "18 500",
+    "27 500"
+   ],
+   "x = 30 000 − 12 500 = 17 500."
+  ],
+  [
+   "Tháng 1 nhà máy làm được 23 400 sản phẩm, tháng 2 nhiều hơn tháng 1 là 1 600 sản phẩm. Tháng 2 làm được:",
+   [
+    "25 000 sản phẩm",
+    "21 800 sản phẩm",
+    "24 000 sản phẩm",
+    "25 600 sản phẩm"
+   ],
+   "23 400 + 1 600 = 25 000 (sản phẩm)."
+  ],
+  [
+   "Tính nhẩm: 70 000 + 20 000 − 40 000 = ?",
+   [
+    "50 000",
+    "130 000",
+    "10 000",
+    "90 000"
+   ],
+   "70 nghìn + 20 nghìn = 90 nghìn; 90 nghìn − 40 nghìn = 50 nghìn."
+  ],
+  [
+   "Mẹ có 100 000 đồng, mua rau hết 35 000 đồng. Mẹ còn lại:",
+   [
+    "65 000 đồng",
+    "75 000 đồng",
+    "135 000 đồng",
+    "35 000 đồng"
+   ],
+   "100 000 − 35 000 = 65 000 (đồng)."
+  ],
+  [
+   "36 750 + 23 250 = ?",
+   [
+    "60 000",
+    "59 000",
+    "50 000",
+    "60 100"
+   ],
+   "36 750 + 23 250 = 60 000."
+  ],
+  [
+   "90 000 − 45 678 = ?",
+   [
+    "44 322",
+    "45 322",
+    "44 332",
+    "54 322"
+   ],
+   "90 000 − 45 678 = 44 322. Thử lại: 44 322 + 45 678 = 90 000."
+  ],
+  [
+   "Tìm x, biết x − 15 000 = 27 500.",
+   [
+    "42 500",
+    "12 500",
+    "32 500",
+    "41 500"
+   ],
+   "x = 27 500 + 15 000 = 42 500."
+  ],
+  [
+   "Thư viện có 12 500 quyển sách, đã cho mượn 3 750 quyển. Còn lại:",
+   [
+    "8 750 quyển",
+    "9 750 quyển",
+    "16 250 quyển",
+    "8 850 quyển"
+   ],
+   "12 500 − 3 750 = 8 750 (quyển)."
+  ],
+  [
+   "Tính nhẩm: 50 000 + 30 000 = ?",
+   [
+    "80 000",
+    "20 000",
+    "8 000",
+    "800 000"
+   ],
+   "50 nghìn + 30 nghìn = 80 nghìn."
+  ],
+  [
+   "Tổng của 25 000 và 37 500 là:",
+   [
+    "62 500",
+    "12 500",
+    "52 500",
+    "63 500"
+   ],
+   "25 000 + 37 500 = 62 500."
+  ]
+ ],
+ "c13": [
+  [
+   "Một năm có bao nhiêu tháng?",
+   [
+    "12 tháng",
+    "10 tháng",
+    "24 tháng",
+    "52 tháng"
+   ],
+   "Một năm có 12 tháng, từ tháng 1 đến tháng 12."
+  ],
+  [
+   "Tháng nào dưới đây có 31 ngày?",
+   [
+    "Tháng 7",
+    "Tháng 4",
+    "Tháng 6",
+    "Tháng 9"
+   ],
+   "Tháng 4, 6, 9, 11 có 30 ngày; tháng 7 có 31 ngày."
+  ],
+  [
+   "Tháng 2 của năm thường có bao nhiêu ngày?",
+   [
+    "28 ngày",
+    "30 ngày",
+    "31 ngày",
+    "27 ngày"
+   ],
+   "Tháng 2 năm thường có 28 ngày (năm nhuận có 29 ngày)."
+  ],
+  [
+   "Kim giờ chỉ số 3, kim phút chỉ số 12. Đồng hồ chỉ:",
+   [
+    "3 giờ",
+    "12 giờ 15 phút",
+    "12 giờ 3 phút",
+    "3 giờ 12 phút"
+   ],
+   "Kim phút chỉ 12 là giờ đúng; kim giờ chỉ 3 nên là 3 giờ."
+  ],
+  [
+   "Kim phút chỉ vào số 6 nghĩa là:",
+   [
+    "30 phút",
+    "6 phút",
+    "60 phút",
+    "15 phút"
+   ],
+   "Mỗi số trên mặt đồng hồ ứng với 5 phút: 6 × 5 = 30 (phút)."
+  ],
+  [
+   "Một giờ có bao nhiêu phút?",
+   [
+    "60 phút",
+    "100 phút",
+    "30 phút",
+    "24 phút"
+   ],
+   "1 giờ = 60 phút."
+  ],
+  [
+   "Mua một quyển vở giá 8 000 đồng và một cái bút giá 5 000 đồng. Hết tất cả:",
+   [
+    "13 000 đồng",
+    "3 000 đồng",
+    "12 000 đồng",
+    "85 000 đồng"
+   ],
+   "8 000 + 5 000 = 13 000 (đồng)."
+  ],
+  [
+   "Đưa cô bán hàng tờ 20 000 đồng để trả 15 000 đồng. Cô trả lại:",
+   [
+    "5 000 đồng",
+    "35 000 đồng",
+    "15 000 đồng",
+    "10 000 đồng"
+   ],
+   "20 000 − 15 000 = 5 000 (đồng)."
+  ],
+  [
+   "8 giờ 45 phút còn gọi là:",
+   [
+    "9 giờ kém 15 phút",
+    "8 giờ kém 15 phút",
+    "9 giờ 15 phút",
+    "8 giờ 15 phút"
+   ],
+   "Còn 15 phút nữa là 9 giờ, nên gọi là 9 giờ kém 15 phút."
+  ],
+  [
+   "Tháng 4 có bao nhiêu ngày?",
+   [
+    "30 ngày",
+    "31 ngày",
+    "28 ngày",
+    "29 ngày"
+   ],
+   "Tháng 4 có 30 ngày."
+  ],
+  [
+   "Một tuần lễ có mấy ngày?",
+   [
+    "7 ngày",
+    "5 ngày",
+    "10 ngày",
+    "30 ngày"
+   ],
+   "Một tuần có 7 ngày: từ thứ Hai đến Chủ nhật."
+  ],
+  [
+   "Thứ Hai tuần này là ngày 5. Thứ Hai tuần sau là ngày:",
+   [
+    "12",
+    "6",
+    "11",
+    "13"
+   ],
+   "Cách nhau 7 ngày: 5 + 7 = 12."
+  ],
+  [
+   "Từ 7 giờ đến 7 giờ 45 phút là bao nhiêu phút?",
+   [
+    "45 phút",
+    "7 phút",
+    "52 phút",
+    "15 phút"
+   ],
+   "7 giờ 45 phút − 7 giờ = 45 phút."
+  ],
+  [
+   "Tờ tiền nào có mệnh giá lớn nhất?",
+   [
+    "500 000 đồng",
+    "200 000 đồng",
+    "100 000 đồng",
+    "50 000 đồng"
+   ],
+   "500 000 đồng là mệnh giá lớn nhất trong các tờ trên."
+  ],
+  [
+   "Mua 3 cái bánh, mỗi cái 6 000 đồng. Hết tất cả:",
+   [
+    "18 000 đồng",
+    "9 000 đồng",
+    "36 000 đồng",
+    "15 000 đồng"
+   ],
+   "6 000 × 3 = 18 000 (đồng)."
+  ]
+ ],
+ "c14": [
+  [
+   "12 130 × 3 = ?",
+   [
+    "36 390",
+    "36 290",
+    "15 130",
+    "36 300"
+   ],
+   "12 130 × 3 = 36 390."
+  ],
+  [
+   "21 504 × 4 = ?",
+   [
+    "86 016",
+    "84 016",
+    "86 106",
+    "85 016"
+   ],
+   "21 504 × 4 = 86 016."
+  ],
+  [
+   "36 840 : 4 = ?",
+   [
+    "9 210",
+    "9 201",
+    "9 120",
+    "921"
+   ],
+   "36 840 : 4 = 9 210. Thử lại: 9 210 × 4 = 36 840."
+  ],
+  [
+   "45 000 : 5 = ?",
+   [
+    "9 000",
+    "900",
+    "90 000",
+    "9 500"
+   ],
+   "45 nghìn : 5 = 9 nghìn = 9 000."
+  ],
+  [
+   "Mua 5 quyển sách, mỗi quyển 12 000 đồng. Hết tất cả:",
+   [
+    "60 000 đồng",
+    "17 000 đồng",
+    "50 000 đồng",
+    "62 000 đồng"
+   ],
+   "12 000 × 5 = 60 000 (đồng)."
+  ],
+  [
+   "3 thùng có 24 hộp sữa. 5 thùng như thế có bao nhiêu hộp sữa?",
+   [
+    "40 hộp",
+    "72 hộp",
+    "120 hộp",
+    "32 hộp"
+   ],
+   "Mỗi thùng có 24 : 3 = 8 (hộp). 5 thùng có 8 × 5 = 40 (hộp)."
+  ],
+  [
+   "18 250 : 5 = ?",
+   [
+    "3 650",
+    "3 605",
+    "3 560",
+    "365"
+   ],
+   "18 250 : 5 = 3 650. Thử lại: 3 650 × 5 = 18 250."
+  ],
+  [
+   "Một xe chở 6 bao gạo, mỗi bao nặng 50 kg. 4 xe như thế chở được bao nhiêu ki-lô-gam gạo?",
+   [
+    "1 200 kg",
+    "300 kg",
+    "240 kg",
+    "1 000 kg"
+   ],
+   "Một xe chở 50 × 6 = 300 (kg). 4 xe chở 300 × 4 = 1 200 (kg)."
+  ],
+  [
+   "15 000 × 4 = ?",
+   [
+    "60 000",
+    "19 000",
+    "45 000",
+    "64 000"
+   ],
+   "15 nghìn × 4 = 60 nghìn."
+  ],
+  [
+   "24 600 : 3 = ?",
+   [
+    "8 200",
+    "8 020",
+    "820",
+    "8 300"
+   ],
+   "24 600 : 3 = 8 200. Thử lại: 8 200 × 3 = 24 600."
+  ],
+  [
+   "10 234 × 5 = ?",
+   [
+    "51 170",
+    "50 170",
+    "51 070",
+    "15 234"
+   ],
+   "10 234 × 5 = 51 170."
+  ],
+  [
+   "72 000 : 8 = ?",
+   [
+    "9 000",
+    "900",
+    "8 000",
+    "90 000"
+   ],
+   "72 nghìn : 8 = 9 nghìn."
+  ],
+  [
+   "5 hộp bút có 60 cái bút. 3 hộp như thế có bao nhiêu cái bút?",
+   [
+    "36 cái",
+    "180 cái",
+    "20 cái",
+    "12 cái"
+   ],
+   "Mỗi hộp có 60 : 5 = 12 (cái). 3 hộp có 12 × 3 = 36 (cái)."
+  ],
+  [
+   "Giá trị của biểu thức 84 : 7 × 5 là:",
+   [
+    "60",
+    "12",
+    "420",
+    "17"
+   ],
+   "Tính từ trái sang phải: 84 : 7 = 12; 12 × 5 = 60."
+  ]
+ ],
+ "c15": [
+  [
+   "Hộp có 5 viên bi đỏ, không có bi xanh. Lấy ra 1 viên, việc lấy được bi xanh là:",
+   [
+    "Không thể",
+    "Chắc chắn",
+    "Có thể",
+    "Rất dễ xảy ra"
+   ],
+   "Trong hộp không có bi xanh nên không thể lấy được bi xanh."
+  ],
+  [
+   "Hộp chỉ có bi vàng. Lấy ra 1 viên, việc lấy được bi vàng là:",
+   [
+    "Chắc chắn",
+    "Không thể",
+    "Có thể",
+    "Không biết được"
+   ],
+   "Mọi viên bi đều màu vàng nên chắc chắn lấy được bi vàng."
+  ],
+  [
+   "Tung một đồng xu, việc xuất hiện mặt ngửa là:",
+   [
+    "Có thể",
+    "Chắc chắn",
+    "Không thể",
+    "Luôn luôn"
+   ],
+   "Đồng xu có thể ra mặt sấp hoặc mặt ngửa."
+  ],
+  [
+   "Lớp 3A có 12 bạn thích bóng đá, 8 bạn thích cầu lông, 10 bạn thích bơi. Môn được nhiều bạn thích nhất là:",
+   [
+    "Bóng đá",
+    "Cầu lông",
+    "Bơi",
+    "Ba môn bằng nhau"
+   ],
+   "12 > 10 > 8 nên bóng đá được thích nhiều nhất."
+  ],
+  [
+   "Lớp 3A có 12 bạn thích bóng đá, 8 bạn thích cầu lông. Số bạn thích bóng đá nhiều hơn số bạn thích cầu lông là:",
+   [
+    "4 bạn",
+    "20 bạn",
+    "2 bạn",
+    "8 bạn"
+   ],
+   "12 − 8 = 4 (bạn)."
+  ],
+  [
+   "Có 12 bạn thích bóng đá, 8 bạn thích cầu lông, 10 bạn thích bơi. Tổng số bạn là:",
+   [
+    "30 bạn",
+    "22 bạn",
+    "20 bạn",
+    "28 bạn"
+   ],
+   "12 + 8 + 10 = 30 (bạn)."
+  ],
+  [
+   "Để biết mỗi bạn trong lớp thích loại quả nào, ta nên:",
+   [
+    "Hỏi từng bạn rồi ghi lại bằng vạch kiểm đếm",
+    "Đoán số lượng",
+    "Chỉ hỏi một bạn",
+    "Đếm số quả trong rổ"
+   ],
+   "Thu thập số liệu bằng cách hỏi từng bạn và kiểm đếm."
+  ],
+  [
+   "Gieo một con xúc xắc, việc xuất hiện mặt 1 chấm là:",
+   [
+    "Có thể",
+    "Chắc chắn",
+    "Không thể",
+    "Luôn luôn"
+   ],
+   "Mặt 1 chấm có thể xuất hiện hoặc không."
+  ],
+  [
+   "Túi có 3 viên kẹo cam và 3 viên kẹo dâu. Lấy 1 viên, việc lấy được kẹo nho là:",
+   [
+    "Không thể",
+    "Chắc chắn",
+    "Có thể",
+    "Rất dễ"
+   ],
+   "Trong túi không có kẹo nho."
+  ],
+  [
+   "Cửa hàng bán: thứ Hai 25 quyển sách, thứ Ba 30 quyển, thứ Tư 20 quyển. Ngày bán được nhiều nhất là:",
+   [
+    "Thứ Ba",
+    "Thứ Hai",
+    "Thứ Tư",
+    "Ba ngày bằng nhau"
+   ],
+   "30 > 25 > 20."
+  ],
+  [
+   "Cửa hàng bán: thứ Hai 25 quyển, thứ Ba 30 quyển, thứ Tư 20 quyển. Cả ba ngày bán được:",
+   [
+    "75 quyển",
+    "55 quyển",
+    "50 quyển",
+    "70 quyển"
+   ],
+   "25 + 30 + 20 = 75 (quyển)."
+  ],
+  [
+   "Cửa hàng bán: thứ Hai 25 quyển, thứ Ba 30 quyển, thứ Tư 20 quyển. Thứ Ba bán nhiều hơn thứ Tư:",
+   [
+    "10 quyển",
+    "5 quyển",
+    "50 quyển",
+    "15 quyển"
+   ],
+   "30 − 20 = 10 (quyển)."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "8 × 7 = ?",
+   [
+    "56",
+    "54",
+    "63",
+    "48"
+   ],
+   "Bảng nhân 8: 8 × 7 = 56."
+  ],
+  [
+   "1 kg − 250 g = ?",
+   [
+    "750 g",
+    "250 g",
+    "850 g",
+    "1 250 g"
+   ],
+   "1 kg = 1 000 g; 1 000 − 250 = 750 (g)."
+  ],
+  [
+   "Chu vi hình vuông cạnh 9 cm là:",
+   [
+    "36 cm",
+    "81 cm",
+    "18 cm",
+    "27 cm"
+   ],
+   "9 × 4 = 36 (cm)."
+  ],
+  [
+   "Số 12 viết bằng chữ số La Mã là:",
+   [
+    "XII",
+    "IIX",
+    "XXI",
+    "VII"
+   ],
+   "12 = 10 + 2 nên viết là XII."
+  ],
+  [
+   "Làm tròn số 4 532 đến hàng nghìn ta được:",
+   [
+    "5 000",
+    "4 000",
+    "4 500",
+    "4 600"
+   ],
+   "Chữ số hàng trăm là 5 (≥ 5) nên làm tròn lên: 5 000."
+  ],
+  [
+   "Giá trị của biểu thức 100 − 36 : 4 là:",
+   [
+    "91",
+    "16",
+    "64",
+    "96"
+   ],
+   "Chia trước: 36 : 4 = 9; 100 − 9 = 91."
+  ],
+  [
+   "1/5 của 45 là:",
+   [
+    "9",
+    "40",
+    "50",
+    "225"
+   ],
+   "45 : 5 = 9."
+  ],
+  [
+   "Tháng 12 có bao nhiêu ngày?",
+   [
+    "31 ngày",
+    "30 ngày",
+    "28 ngày",
+    "29 ngày"
+   ],
+   "Tháng 12 có 31 ngày."
+  ],
+  [
+   "Hình chữ nhật dài 7 cm, rộng 4 cm có diện tích là:",
+   [
+    "28 cm²",
+    "22 cm²",
+    "11 cm²",
+    "28 cm"
+   ],
+   "7 × 4 = 28 (cm²)."
+  ],
+  [
+   "27 : 4 = ?",
+   [
+    "6 (dư 3)",
+    "7 (dư 1)",
+    "6 (dư 2)",
+    "5 (dư 7)"
+   ],
+   "4 × 6 = 24; 27 − 24 = 3. Vậy 27 : 4 = 6 (dư 3)."
+  ],
+  [
+   "6 × 8 = ?",
+   [
+    "48",
+    "42",
+    "54",
+    "14"
+   ],
+   "Bảng nhân 6: 6 × 8 = 48."
+  ],
+  [
+   "Chu vi hình chữ nhật dài 10 cm, rộng 4 cm là:",
+   [
+    "28 cm",
+    "14 cm",
+    "40 cm",
+    "24 cm"
+   ],
+   "(10 + 4) × 2 = 28 (cm)."
+  ],
+  [
+   "Số La Mã XV là số:",
+   [
+    "15",
+    "6",
+    "50",
+    "105"
+   ],
+   "X = 10, V = 5; XV = 15."
+  ],
+  [
+   "72 : 8 = ?",
+   [
+    "9",
+    "8",
+    "7",
+    "64"
+   ],
+   "8 × 9 = 72 nên 72 : 8 = 9."
+  ],
+  [
+   "Tìm x, biết x : 6 = 7.",
+   [
+    "42",
+    "13",
+    "1",
+    "48"
+   ],
+   "Số bị chia = thương × số chia = 7 × 6 = 42."
+  ],
+  [
+   "1 kg = ? g",
+   [
+    "1 000 g",
+    "100 g",
+    "10 g",
+    "500 g"
+   ],
+   "1 kg = 1 000 g."
+  ]
+ ]
+}

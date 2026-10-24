@@ -1,5 +1,7 @@
 "use client";
 
+import { useEffect, useState } from "react";
+import { builtinCounts } from "@/lib/builtin";
 import { SUBJECTS, getCourse } from "@/lib/curriculum";
 import type { Profile, Subject } from "@/lib/types";
 
@@ -8,16 +10,25 @@ export function ChooseLesson({
   subject,
   onStart,
   onBack,
+  hasAI,
 }: {
   profile: Profile;
   subject: Subject;
-  onStart: (chapterId: string) => void;
+  /** source: "kho" = kho đề có sẵn, "ai" = đề mới do AI soạn */
+  onStart: (chapterId: string, source: "kho" | "ai") => void;
+  hasAI: boolean;
   onBack: () => void;
 }) {
   const course = getCourse(profile.grade, subject);
   const info = SUBJECTS[subject];
   const prefix = `${profile.grade}|${subject}|`;
   const wrongCount = Object.values(profile.wrong).filter((k) => k.startsWith(prefix)).length;
+  const [counts, setCounts] = useState<Record<string, number>>({});
+  const [open, setOpen] = useState<string | null>(null);
+
+  useEffect(() => {
+    builtinCounts(profile.grade, subject).then(setCounts);
+  }, [profile.grade, subject]);
 
   return (
     <div className="stack">
@@ -37,7 +48,7 @@ export function ChooseLesson({
       </div>
 
       {wrongCount > 0 && (
-        <button className="chapter" style={{ borderColor: "#ffb59c", background: "#fff4ef" }} onClick={() => onStart("review")}>
+        <button className="chapter" style={{ borderColor: "#ffb59c", background: "#fff4ef" }} onClick={() => onStart("review", "kho")}>
           <span className="num" style={{ background: "var(--primary)" }}>
             🔁
           </span>
@@ -54,16 +65,33 @@ export function ChooseLesson({
         const done = profile.history.filter((h) => h.subject === subject && h.chapterId === c.id);
         const best = done.reduce((m, h) => Math.max(m, h.total ? (h.correct / h.total) * 10 : 0), 0);
         return (
-          <button key={c.id} className="chapter" onClick={() => onStart(c.id)}>
-            <span className="num" style={{ background: info.color }}>
-              {c.id === "tong-hop" ? "★" : i + 1}
-            </span>
-            <span style={{ flex: 1 }}>
-              <strong>{c.name}</strong>
-              <div className="meta">{done.length ? `Đã làm ${done.length} bài · Cao nhất ${Math.round(best * 10) / 10} điểm` : "Chưa làm"}</div>
-            </span>
-            {best === 10 && <span title="Đã đạt điểm 10">🏅</span>}
-          </button>
+          <div key={c.id} className="stack" style={{ gap: 6 }}>
+            <button className="chapter" onClick={() => setOpen(open === c.id ? null : c.id)}>
+              <span className="num" style={{ background: info.color }}>
+                {c.id === "tong-hop" ? "★" : i + 1}
+              </span>
+              <span style={{ flex: 1 }}>
+                <strong>{c.name}</strong>
+                <div className="meta">
+                  {counts[c.id] ? `📚 ${counts[c.id]} câu có sẵn · ` : ""}
+                  {done.length ? `Đã làm ${done.length} bài · Cao nhất ${Math.round(best * 10) / 10} điểm` : "Chưa làm"}
+                </div>
+              </span>
+              {best === 10 && <span title="Đã đạt điểm 10">🏅</span>}
+            </button>
+            {open === c.id && (
+              <div className="row pop" style={{ gap: 8 }}>
+                <button className="btn btn-blue" style={{ flex: 1 }} disabled={!counts[c.id]} onClick={() => onStart(c.id, "kho")}>
+                  📚 Kho đề có sẵn
+                  <div style={{ fontSize: 13, fontWeight: 600 }}>{counts[c.id] ? `${counts[c.id]} câu` : "Đang soạn thêm"}</div>
+                </button>
+                <button className="btn btn-primary" style={{ flex: 1 }} disabled={!hasAI} onClick={() => onStart(c.id, "ai")}>
+                  ✨ Đề mới AI soạn
+                  <div style={{ fontSize: 13, fontWeight: 600 }}>{hasAI ? "Gemini soạn đề mới" : "Cần khóa Gemini"}</div>
+                </button>
+              </div>
+            )}
+          </div>
         );
       })}
     </div>

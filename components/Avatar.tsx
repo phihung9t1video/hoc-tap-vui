@@ -67,6 +67,7 @@ export function Avatar({
   crop = "full",
   className,
   angle = 0,
+  layer = "all",
 }: {
   look: Look;
   size?: number;
@@ -74,6 +75,8 @@ export function Avatar({
   className?: string;
   /** Góc xoay nhân vật (độ): 0 là nhìn thẳng, 180 là quay lưng */
   angle?: number;
+  /** char: chỉ nhân vật; pet: chỉ thú cưng (dùng trong ngôi nhà, nơi hai bên đi lại riêng) */
+  layer?: "all" | "char" | "pet";
 }) {
   const get = (s: Slot) => ITEM_MAP[look[s]] ?? ITEM_MAP[FALLBACK[s]];
   const cos = Math.cos((angle * Math.PI) / 180);
@@ -81,6 +84,8 @@ export function Avatar({
   const c = { skin: get("skin").color!, hair: get("hairColor").color!, back };
   const [x, y, w, h] = VIEW[crop];
   const hasPet = get("pet").draw !== undefined;
+  const showChar = layer !== "pet";
+  const showPet = layer !== "char";
   // Bóp ngang theo góc xoay để tạo cảm giác quay tròn
   const sx = Math.max(Math.abs(cos), 0.04) * (cos < 0 ? -1 : 1);
   const hair = get("hair");
@@ -100,8 +105,8 @@ export function Avatar({
         </defs>
       )}
       <RarityFx rank={topRank} />
-      {get("petHome").draw?.(c)}
-      <g transform={angle ? `translate(100 0) scale(${sx.toFixed(3)} 1) translate(-100 0)` : undefined}>
+      {layer === "all" && get("petHome").draw?.(c)}
+      {showChar && <g transform={angle ? `translate(100 0) scale(${sx.toFixed(3)} 1) translate(-100 0)` : undefined}>
         {back ? (
           <>
             <Body skin={c.skin} />
@@ -130,10 +135,10 @@ export function Avatar({
             {get("hat").draw?.(c)}
           </>
         )}
-      </g>
-      {get("pet").draw?.(c)}
-      {hasPet && get("petAcc").draw?.(c)}
-      {get("petToy").draw?.(c)}
+      </g>}
+      {showPet && get("pet").draw?.(c)}
+      {showPet && hasPet && get("petAcc").draw?.(c)}
+      {layer === "all" && get("petToy").draw?.(c)}
       <FloatingStars rank={topRank} />
     </svg>
   );

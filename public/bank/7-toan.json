@@ -1,0 +1,1464 @@
+{
+ "c1": [
+  [
+   "Số nào là số hữu tỉ âm?",
+   [
+    "−3/4",
+    "3/4",
+    "0",
+    "5"
+   ],
+   "Số hữu tỉ âm là số hữu tỉ nhỏ hơn 0. Số 0 không âm cũng không dương."
+  ],
+  [
+   "(−2/3) + 1/3 = ?",
+   [
+    "−1/3",
+    "1/3",
+    "−1",
+    "1"
+   ],
+   "(−2 + 1)/3 = −1/3."
+  ],
+  [
+   "So sánh −0,5 và −1/3:",
+   [
+    "−0,5 < −1/3",
+    "−0,5 > −1/3",
+    "−0,5 = −1/3",
+    "Không so sánh được"
+   ],
+   "−0,5 = −3/6, −1/3 = −2/6. Vì −3/6 < −2/6 nên −0,5 < −1/3."
+  ],
+  [
+   "(−3/4) · (8/9) = ?",
+   [
+    "−2/3",
+    "2/3",
+    "−3/2",
+    "−24/9"
+   ],
+   "(−3 · 8)/(4 · 9) = −24/36 = −2/3."
+  ],
+  [
+   "(2/3)² = ?",
+   [
+    "4/9",
+    "4/6",
+    "2/9",
+    "4/3"
+   ],
+   "(2/3)² = 2²/3² = 4/9."
+  ],
+  [
+   "(−1/2)³ = ?",
+   [
+    "−1/8",
+    "1/8",
+    "−1/6",
+    "−3/2"
+   ],
+   "Lũy thừa bậc lẻ của số âm là số âm: (−1/2)³ = −1/8."
+  ],
+  [
+   "Tìm x, biết x − 1/2 = 3/4.",
+   [
+    "5/4",
+    "1/4",
+    "3/8",
+    "−1/4"
+   ],
+   "x = 3/4 + 1/2 = 3/4 + 2/4 = 5/4."
+  ],
+  [
+   "Số đối của −2/5 là:",
+   [
+    "2/5",
+    "−5/2",
+    "5/2",
+    "−2/5"
+   ],
+   "Số đối của a là −a, nên số đối của −2/5 là 2/5."
+  ],
+  [
+   "(1/2)⁵ : (1/2)³ = ?",
+   [
+    "1/4",
+    "1/8",
+    "1/2",
+    "1/16"
+   ],
+   "Chia hai lũy thừa cùng cơ số: (1/2)⁵⁻³ = (1/2)² = 1/4."
+  ],
+  [
+   "Kết quả của 0,25 + 3/4 là:",
+   [
+    "1",
+    "0,28",
+    "3/16",
+    "1,25"
+   ],
+   "0,25 = 1/4; 1/4 + 3/4 = 1."
+  ],
+  [
+   "(−5/6) − (−1/6) = ?",
+   [
+    "−2/3",
+    "−1",
+    "2/3",
+    "1"
+   ],
+   "(−5 + 1)/6 = −4/6 = −2/3."
+  ],
+  [
+   "(3/5) : (−9/10) = ?",
+   [
+    "−2/3",
+    "2/3",
+    "−27/50",
+    "−3/2"
+   ],
+   "3/5 · (−10/9) = −30/45 = −2/3."
+  ],
+  [
+   "(−2)³ = ?",
+   [
+    "−8",
+    "8",
+    "−6",
+    "6"
+   ],
+   "(−2) · (−2) · (−2) = −8."
+  ],
+  [
+   "Tìm x, biết x · 2/3 = −4/9.",
+   [
+    "−2/3",
+    "−8/27",
+    "2/3",
+    "−3/2"
+   ],
+   "x = −4/9 : 2/3 = −4/9 · 3/2 = −2/3."
+  ],
+  [
+   "Số lớn nhất trong các số −1/2; 0; 1/3; 1/4 là:",
+   [
+    "1/3",
+    "1/4",
+    "0",
+    "−1/2"
+   ],
+   "1/3 = 4/12 > 1/4 = 3/12 > 0 > −1/2."
+  ],
+  [
+   "2⁵ · 2³ = ?",
+   [
+    "2⁸",
+    "2¹⁵",
+    "4⁸",
+    "2²"
+   ],
+   "Nhân hai lũy thừa cùng cơ số: cộng số mũ: 2⁵⁺³ = 2⁸."
+  ]
+ ],
+ "c2": [
+  [
+   "√81 = ?",
+   [
+    "9",
+    "−9",
+    "81",
+    "40,5"
+   ],
+   "Căn bậc hai số học của 81 là 9 vì 9 ≥ 0 và 9² = 81."
+  ],
+  [
+   "Số nào là số vô tỉ?",
+   [
+    "√2",
+    "0,5",
+    "−3",
+    "1/3"
+   ],
+   "√2 là số thập phân vô hạn không tuần hoàn nên là số vô tỉ."
+  ],
+  [
+   "Số 1/3 viết dưới dạng số thập phân là:",
+   [
+    "0,(3)",
+    "0,3",
+    "0,33",
+    "3,1"
+   ],
+   "1 : 3 = 0,333... = 0,(3), là số thập phân vô hạn tuần hoàn."
+  ],
+  [
+   "|−7| = ?",
+   [
+    "7",
+    "−7",
+    "0",
+    "1/7"
+   ],
+   "Giá trị tuyệt đối của một số luôn không âm: |−7| = 7."
+  ],
+  [
+   "Làm tròn số 3,14159 đến hàng phần trăm:",
+   [
+    "3,14",
+    "3,15",
+    "3,1",
+    "3,142"
+   ],
+   "Chữ số hàng phần nghìn là 1 (< 5) nên giữ nguyên: 3,14."
+  ],
+  [
+   "Nếu |x| = 5 thì:",
+   [
+    "x = 5 hoặc x = −5",
+    "x = 5",
+    "x = −5",
+    "Không có x"
+   ],
+   "Có hai số có giá trị tuyệt đối bằng 5 là 5 và −5."
+  ],
+  [
+   "√0,49 = ?",
+   [
+    "0,7",
+    "0,07",
+    "7",
+    "0,49"
+   ],
+   "0,7² = 0,49 nên √0,49 = 0,7."
+  ],
+  [
+   "Sắp xếp theo thứ tự tăng dần: −2; √3; 0; 1,5",
+   [
+    "−2; 0; 1,5; √3",
+    "−2; 0; √3; 1,5",
+    "0; −2; 1,5; √3",
+    "√3; 1,5; 0; −2"
+   ],
+   "√3 ≈ 1,732 > 1,5. Vậy −2 < 0 < 1,5 < √3."
+  ],
+  [
+   "Số 0,(6) bằng phân số nào?",
+   [
+    "2/3",
+    "6/10",
+    "3/5",
+    "1/6"
+   ],
+   "2 : 3 = 0,666... = 0,(6)."
+  ],
+  [
+   "√25 − √9 = ?",
+   [
+    "2",
+    "4",
+    "16",
+    "8"
+   ],
+   "5 − 3 = 2."
+  ],
+  [
+   "Làm tròn số 12,758 đến hàng phần mười:",
+   [
+    "12,8",
+    "12,7",
+    "13",
+    "12,76"
+   ],
+   "Chữ số hàng phần trăm là 5 nên làm tròn lên: 12,8."
+  ],
+  [
+   "|−3,5| + |2| = ?",
+   [
+    "5,5",
+    "−1,5",
+    "1,5",
+    "−5,5"
+   ],
+   "3,5 + 2 = 5,5."
+  ],
+  [
+   "Số nào là số thập phân vô hạn tuần hoàn?",
+   [
+    "0,(12)",
+    "0,25",
+    "√3",
+    "π"
+   ],
+   "0,(12) = 0,1212... lặp lại chu kì 12."
+  ],
+  [
+   "Số nào bằng √16?",
+   [
+    "4",
+    "8",
+    "−4",
+    "16"
+   ],
+   "4² = 16 và 4 ≥ 0."
+  ]
+ ],
+ "c3": [
+  [
+   "Hai góc kề bù có tổng số đo bằng:",
+   [
+    "180°",
+    "90°",
+    "360°",
+    "100°"
+   ],
+   "Hai góc kề bù có tổng bằng 180°."
+  ],
+  [
+   "Hai góc đối đỉnh thì:",
+   [
+    "Bằng nhau",
+    "Bù nhau",
+    "Phụ nhau",
+    "Kề nhau"
+   ],
+   "Tính chất: hai góc đối đỉnh thì bằng nhau."
+  ],
+  [
+   "Góc xOy = 50°. Góc kề bù với góc xOy có số đo:",
+   [
+    "130°",
+    "50°",
+    "40°",
+    "310°"
+   ],
+   "180° − 50° = 130°."
+  ],
+  [
+   "Tia phân giác của một góc 80° chia góc đó thành hai góc, mỗi góc bằng:",
+   [
+    "40°",
+    "80°",
+    "160°",
+    "20°"
+   ],
+   "Tia phân giác chia góc thành hai góc bằng nhau: 80° : 2 = 40°."
+  ],
+  [
+   "Hai đường thẳng song song bị cắt bởi một đường thẳng thứ ba thì hai góc so le trong:",
+   [
+    "Bằng nhau",
+    "Bù nhau",
+    "Phụ nhau",
+    "Có tổng bằng 90°"
+   ],
+   "Tính chất hai đường thẳng song song: các góc so le trong bằng nhau."
+  ],
+  [
+   "Theo tiên đề Euclid, qua một điểm ở ngoài một đường thẳng có bao nhiêu đường thẳng song song với đường thẳng đó?",
+   [
+    "Chỉ một",
+    "Hai",
+    "Vô số",
+    "Không có"
+   ],
+   "Tiên đề Euclid: chỉ có một đường thẳng song song."
+  ],
+  [
+   "Nếu a ⊥ c và b ⊥ c thì:",
+   [
+    "a // b",
+    "a ⊥ b",
+    "a cắt b",
+    "Không kết luận được"
+   ],
+   "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì song song với nhau."
+  ],
+  [
+   "Hai đường thẳng song song bị cắt bởi một cát tuyến, một góc đồng vị bằng 65°. Góc đồng vị còn lại bằng:",
+   [
+    "65°",
+    "115°",
+    "25°",
+    "130°"
+   ],
+   "Hai góc đồng vị tạo bởi hai đường thẳng song song thì bằng nhau."
+  ],
+  [
+   "Hai góc phụ nhau có tổng số đo bằng:",
+   [
+    "90°",
+    "180°",
+    "360°",
+    "60°"
+   ],
+   "Hai góc phụ nhau có tổng bằng 90°."
+  ],
+  [
+   "Hai đường thẳng cắt nhau tạo thành bốn góc, trong đó một góc bằng 90°. Ba góc còn lại:",
+   [
+    "Đều bằng 90°",
+    "Đều bằng 45°",
+    "Đều bằng 180°",
+    "Không xác định được"
+   ],
+   "Góc kề bù với góc vuông là góc vuông; góc đối đỉnh bằng nhau."
+  ],
+  [
+   "Góc xOy = 120°, Ot là tia phân giác của góc xOy. Góc xOt bằng:",
+   [
+    "60°",
+    "120°",
+    "240°",
+    "30°"
+   ],
+   "120° : 2 = 60°."
+  ],
+  [
+   "Hai đường thẳng song song bị cắt bởi một đường thẳng, hai góc trong cùng phía có tổng bằng:",
+   [
+    "180°",
+    "90°",
+    "360°",
+    "Bằng nhau"
+   ],
+   "Hai góc trong cùng phía bù nhau."
+  ],
+  [
+   "Một góc bằng 35°. Góc phụ với nó bằng:",
+   [
+    "55°",
+    "145°",
+    "35°",
+    "65°"
+   ],
+   "90° − 35° = 55°."
+  ],
+  [
+   "Một định lí gồm hai phần là:",
+   [
+    "Giả thiết và kết luận",
+    "Đề bài và lời giải",
+    "Hình vẽ và kí hiệu",
+    "Câu hỏi và đáp án"
+   ],
+   "Định lí: nếu (giả thiết) thì (kết luận)."
+  ]
+ ],
+ "c4": [
+  [
+   "Tổng ba góc trong một tam giác bằng:",
+   [
+    "180°",
+    "90°",
+    "360°",
+    "270°"
+   ],
+   "Định lí: tổng ba góc của một tam giác bằng 180°."
+  ],
+  [
+   "Tam giác ABC có Â = 60°, B̂ = 70°. Góc C bằng:",
+   [
+    "50°",
+    "60°",
+    "70°",
+    "130°"
+   ],
+   "Ĉ = 180° − 60° − 70° = 50°."
+  ],
+  [
+   "Tam giác vuông có một góc nhọn bằng 35°. Góc nhọn còn lại bằng:",
+   [
+    "55°",
+    "35°",
+    "65°",
+    "145°"
+   ],
+   "Hai góc nhọn của tam giác vuông phụ nhau: 90° − 35° = 55°."
+  ],
+  [
+   "Hai tam giác có ba cặp cạnh tương ứng bằng nhau thì bằng nhau theo trường hợp:",
+   [
+    "cạnh – cạnh – cạnh",
+    "cạnh – góc – cạnh",
+    "góc – cạnh – góc",
+    "góc – góc – góc"
+   ],
+   "Ba cạnh tương ứng bằng nhau: trường hợp c.c.c."
+  ],
+  [
+   "ΔABC = ΔDEF. Cạnh tương ứng với cạnh AB là:",
+   [
+    "DE",
+    "EF",
+    "DF",
+    "FE"
+   ],
+   "Các đỉnh tương ứng theo thứ tự: A ↔ D, B ↔ E, nên AB ↔ DE."
+  ],
+  [
+   "Tam giác cân có góc ở đỉnh bằng 40°. Mỗi góc ở đáy bằng:",
+   [
+    "70°",
+    "40°",
+    "140°",
+    "50°"
+   ],
+   "Hai góc ở đáy bằng nhau: (180° − 40°) : 2 = 70°."
+  ],
+  [
+   "Mỗi góc của tam giác đều bằng:",
+   [
+    "60°",
+    "90°",
+    "45°",
+    "180°"
+   ],
+   "Tam giác đều có ba góc bằng nhau: 180° : 3 = 60°."
+  ],
+  [
+   "Điểm nằm trên đường trung trực của đoạn thẳng AB thì:",
+   [
+    "Cách đều A và B",
+    "Là trung điểm của AB",
+    "Nằm trên đoạn AB",
+    "Gần A hơn B"
+   ],
+   "Tính chất đường trung trực: mọi điểm trên đó cách đều hai đầu đoạn thẳng."
+  ],
+  [
+   "Hai tam giác bằng nhau theo trường hợp góc – cạnh – góc khi:",
+   [
+    "Một cạnh và hai góc kề cạnh ấy tương ứng bằng nhau",
+    "Ba góc tương ứng bằng nhau",
+    "Hai cạnh và một góc bất kì bằng nhau",
+    "Có cùng chu vi"
+   ],
+   "Trường hợp g.c.g: một cạnh và hai góc kề với cạnh đó."
+  ],
+  [
+   "Tam giác ABC có Â = 50° và B̂ = Ĉ. Mỗi góc B, C bằng:",
+   [
+    "65°",
+    "50°",
+    "130°",
+    "40°"
+   ],
+   "(180° − 50°) : 2 = 65°."
+  ],
+  [
+   "Tam giác có ba góc 30°, 60°, 90° là:",
+   [
+    "Tam giác vuông",
+    "Tam giác đều",
+    "Tam giác tù",
+    "Tam giác cân"
+   ],
+   "Có một góc 90° nên là tam giác vuông."
+  ],
+  [
+   "Góc ngoài của tam giác bằng:",
+   [
+    "Tổng hai góc trong không kề với nó",
+    "Góc trong kề với nó",
+    "180°",
+    "90°"
+   ],
+   "Tính chất góc ngoài của tam giác."
+  ],
+  [
+   "Hai tam giác vuông có cạnh huyền và một góc nhọn tương ứng bằng nhau thì:",
+   [
+    "Bằng nhau",
+    "Không bằng nhau",
+    "Chỉ có diện tích bằng nhau",
+    "Không kết luận được"
+   ],
+   "Trường hợp cạnh huyền – góc nhọn."
+  ],
+  [
+   "Tam giác cân có góc ở đáy bằng 50°. Góc ở đỉnh bằng:",
+   [
+    "80°",
+    "50°",
+    "100°",
+    "130°"
+   ],
+   "180° − 2 · 50° = 80°."
+  ]
+ ],
+ "c5": [
+  [
+   "Biểu đồ hình quạt tròn thường dùng để biểu diễn:",
+   [
+    "Tỉ lệ phần trăm của các phần so với tổng thể",
+    "Sự thay đổi theo thời gian",
+    "Vị trí trên bản đồ",
+    "Hình dạng của vật"
+   ],
+   "Biểu đồ hình quạt cho thấy mỗi phần chiếm bao nhiêu phần trăm của tổng."
+  ],
+  [
+   "Trong biểu đồ hình quạt tròn, cả hình tròn biểu diễn:",
+   [
+    "100%",
+    "50%",
+    "360%",
+    "10%"
+   ],
+   "Cả hình tròn ứng với tổng thể, tức 100%."
+  ],
+  [
+   "Biểu đồ đoạn thẳng thích hợp để biểu diễn:",
+   [
+    "Nhiệt độ trong các ngày của tuần",
+    "Tỉ lệ học sinh thích các môn",
+    "Bản đồ trường học",
+    "Màu sắc yêu thích"
+   ],
+   "Biểu đồ đoạn thẳng thể hiện sự thay đổi của số liệu theo thời gian."
+  ],
+  [
+   "Lớp có 40 học sinh, trong đó 10 bạn thích bóng rổ. Tỉ lệ bạn thích bóng rổ là:",
+   [
+    "25%",
+    "10%",
+    "40%",
+    "4%"
+   ],
+   "10 : 40 = 0,25 = 25%."
+  ],
+  [
+   "Dữ liệu nào là dữ liệu số (định lượng)?",
+   [
+    "Chiều cao của các bạn (cm)",
+    "Màu sắc yêu thích",
+    "Tên môn thể thao",
+    "Loại quả yêu thích"
+   ],
+   "Chiều cao là số đo nên là dữ liệu định lượng."
+  ],
+  [
+   "Trong biểu đồ hình quạt tròn, phần chiếm 25% ứng với góc ở tâm bằng:",
+   [
+    "90°",
+    "25°",
+    "45°",
+    "180°"
+   ],
+   "25% · 360° = 90°."
+  ],
+  [
+   "Để thu thập ý kiến của cả lớp về món ăn yêu thích, cách hợp lí là:",
+   [
+    "Lập phiếu hỏi cho từng bạn",
+    "Đoán theo sở thích của mình",
+    "Chỉ hỏi bạn ngồi cạnh",
+    "Xem thực đơn của nhà ăn"
+   ],
+   "Phiếu hỏi giúp thu thập dữ liệu đầy đủ, chính xác."
+  ],
+  [
+   "Điểm kiểm tra của 5 bạn: 7, 8, 9, 8, 8. Điểm xuất hiện nhiều nhất là:",
+   [
+    "8",
+    "7",
+    "9",
+    "40"
+   ],
+   "Điểm 8 xuất hiện 3 lần."
+  ],
+  [
+   "Điểm kiểm tra của 5 bạn: 7, 8, 9, 8, 8. Điểm trung bình là:",
+   [
+    "8",
+    "7,5",
+    "8,5",
+    "40"
+   ],
+   "(7 + 8 + 9 + 8 + 8) : 5 = 40 : 5 = 8."
+  ],
+  [
+   "Trong biểu đồ hình quạt tròn, phần 40% học sinh thích Toán ứng với góc ở tâm:",
+   [
+    "144°",
+    "40°",
+    "90°",
+    "160°"
+   ],
+   "40% · 360° = 144°."
+  ],
+  [
+   "Dữ liệu nào là dữ liệu định tính (không phải số)?",
+   [
+    "Môn thể thao yêu thích",
+    "Cân nặng",
+    "Số anh chị em",
+    "Điểm thi"
+   ],
+   "Môn thể thao yêu thích là dữ liệu dạng chữ (định tính)."
+  ]
+ ],
+ "c6": [
+  [
+   "Từ tỉ lệ thức a/b = c/d (b, d ≠ 0) ta suy ra:",
+   [
+    "a · d = b · c",
+    "a · b = c · d",
+    "a + d = b + c",
+    "a · c = b · d"
+   ],
+   "Tính chất cơ bản của tỉ lệ thức: tích trung tỉ bằng tích ngoại tỉ."
+  ],
+  [
+   "Tìm x, biết x/6 = 2/3.",
+   [
+    "4",
+    "9",
+    "3",
+    "12"
+   ],
+   "x = 6 · 2 : 3 = 4."
+  ],
+  [
+   "Tìm x, biết 3/x = 6/10.",
+   [
+    "5",
+    "20",
+    "2",
+    "18"
+   ],
+   "6x = 30 nên x = 5."
+  ],
+  [
+   "Cho x/2 = y/3 và x + y = 20. Giá trị của x là:",
+   [
+    "8",
+    "12",
+    "4",
+    "10"
+   ],
+   "x/2 = y/3 = (x + y)/(2 + 3) = 20/5 = 4. Vậy x = 8."
+  ],
+  [
+   "y tỉ lệ thuận với x theo hệ số tỉ lệ 3. Khi x = 4 thì y bằng:",
+   [
+    "12",
+    "7",
+    "4/3",
+    "1"
+   ],
+   "y = 3x = 3 · 4 = 12."
+  ],
+  [
+   "y tỉ lệ nghịch với x; khi x = 2 thì y = 12. Khi x = 6 thì y bằng:",
+   [
+    "4",
+    "36",
+    "16",
+    "3"
+   ],
+   "Hệ số a = x · y = 24. Khi x = 6 thì y = 24 : 6 = 4."
+  ],
+  [
+   "Mua 5 quyển vở hết 40 000 đồng. Mua 8 quyển vở như thế hết:",
+   [
+    "64 000 đồng",
+    "48 000 đồng",
+    "72 000 đồng",
+    "25 000 đồng"
+   ],
+   "Số tiền tỉ lệ thuận với số vở: 40 000 : 5 · 8 = 64 000 (đồng)."
+  ],
+  [
+   "4 công nhân làm xong một công việc trong 6 ngày. 8 công nhân (năng suất như nhau) làm xong công việc đó trong:",
+   [
+    "3 ngày",
+    "12 ngày",
+    "2 ngày",
+    "6 ngày"
+   ],
+   "Số người và số ngày tỉ lệ nghịch: 4 · 6 : 8 = 3 (ngày)."
+  ],
+  [
+   "Chia 60 viên bi cho hai bạn theo tỉ lệ 2 : 3. Bạn được ít hơn nhận:",
+   [
+    "24 viên",
+    "36 viên",
+    "20 viên",
+    "30 viên"
+   ],
+   "60 : (2 + 3) = 12; bạn ít hơn nhận 12 · 2 = 24 (viên)."
+  ],
+  [
+   "Tìm x, biết 2/x = 8/12.",
+   [
+    "3",
+    "4",
+    "6",
+    "16"
+   ],
+   "8x = 24 nên x = 3."
+  ],
+  [
+   "x và y tỉ lệ thuận; khi x = 3 thì y = 12. Hệ số tỉ lệ k (y = kx) bằng:",
+   [
+    "4",
+    "36",
+    "9",
+    "1/4"
+   ],
+   "k = 12 : 3 = 4."
+  ],
+  [
+   "Chia số 90 thành ba phần tỉ lệ với 2, 3, 4. Phần lớn nhất là:",
+   [
+    "40",
+    "30",
+    "20",
+    "45"
+   ],
+   "90 : (2 + 3 + 4) = 10; phần lớn nhất 10 · 4 = 40."
+  ],
+  [
+   "Ô tô đi với tốc độ 60 km/h thì hết 4 giờ. Đi với tốc độ 80 km/h trên cùng quãng đường thì hết:",
+   [
+    "3 giờ",
+    "5 giờ",
+    "2 giờ",
+    "4 giờ"
+   ],
+   "Quãng đường 240 km; 240 : 80 = 3 (giờ)."
+  ],
+  [
+   "Cho a/3 = b/5 và b − a = 8. Giá trị của a là:",
+   [
+    "12",
+    "20",
+    "4",
+    "8"
+   ],
+   "a/3 = b/5 = (b − a)/(5 − 3) = 8/2 = 4, nên a = 12."
+  ]
+ ],
+ "c7": [
+  [
+   "Giá trị của biểu thức 2x + 3 tại x = −1 là:",
+   [
+    "1",
+    "5",
+    "−1",
+    "−5"
+   ],
+   "2 · (−1) + 3 = −2 + 3 = 1."
+  ],
+  [
+   "Bậc của đa thức 5x³ − 2x² + x − 7 là:",
+   [
+    "3",
+    "2",
+    "1",
+    "5"
+   ],
+   "Số mũ lớn nhất của x là 3."
+  ],
+  [
+   "Hệ số cao nhất của đa thức 4x² − 3x + 1 là:",
+   [
+    "4",
+    "−3",
+    "1",
+    "2"
+   ],
+   "Hệ số của hạng tử bậc cao nhất (4x²) là 4."
+  ],
+  [
+   "x = 2 là nghiệm của đa thức nào?",
+   [
+    "x − 2",
+    "x + 2",
+    "2x + 1",
+    "x² + 4"
+   ],
+   "Thay x = 2: 2 − 2 = 0."
+  ],
+  [
+   "(3x² + 2x) + (x² − 5x) = ?",
+   [
+    "4x² − 3x",
+    "4x² + 7x",
+    "2x² − 3x",
+    "3x² − 3x"
+   ],
+   "Cộng các hạng tử đồng dạng: 3x² + x² = 4x²; 2x − 5x = −3x."
+  ],
+  [
+   "(2x) · (3x²) = ?",
+   [
+    "6x³",
+    "5x³",
+    "6x²",
+    "5x²"
+   ],
+   "2 · 3 = 6; x · x² = x³."
+  ],
+  [
+   "(x + 1)(x − 1) = ?",
+   [
+    "x² − 1",
+    "x² + 1",
+    "x² − 2x + 1",
+    "2x"
+   ],
+   "x · x − x + x − 1 = x² − 1."
+  ],
+  [
+   "(6x³ − 4x²) : 2x = ?",
+   [
+    "3x² − 2x",
+    "3x² − 4x",
+    "4x³ − 2x",
+    "3x³ − 2x²"
+   ],
+   "6x³ : 2x = 3x²; 4x² : 2x = 2x."
+  ],
+  [
+   "Hệ số tự do của đa thức x² − 5x + 6 là:",
+   [
+    "6",
+    "−5",
+    "1",
+    "2"
+   ],
+   "Hệ số tự do là hạng tử không chứa biến: 6."
+  ],
+  [
+   "Đa thức P(x) = x² − 4 có các nghiệm là:",
+   [
+    "2 và −2",
+    "4 và −4",
+    "Chỉ có 2",
+    "Không có nghiệm"
+   ],
+   "x² = 4 nên x = 2 hoặc x = −2."
+  ],
+  [
+   "Giá trị của biểu thức x² − 3x tại x = 2 là:",
+   [
+    "−2",
+    "10",
+    "2",
+    "−10"
+   ],
+   "2² − 3 · 2 = 4 − 6 = −2."
+  ],
+  [
+   "Thu gọn 5x − 2x + x:",
+   [
+    "4x",
+    "2x",
+    "8x",
+    "3x"
+   ],
+   "(5 − 2 + 1)x = 4x."
+  ],
+  [
+   "(x − 2)(x + 3) = ?",
+   [
+    "x² + x − 6",
+    "x² − x − 6",
+    "x² + 5x − 6",
+    "x² − 6"
+   ],
+   "x² + 3x − 2x − 6 = x² + x − 6."
+  ],
+  [
+   "Nghiệm của đa thức 3x − 6 là:",
+   [
+    "2",
+    "−2",
+    "6",
+    "3"
+   ],
+   "3x − 6 = 0 nên x = 2."
+  ],
+  [
+   "(4x² − 8x) : 4x = ?",
+   [
+    "x − 2",
+    "x − 8",
+    "4x − 2",
+    "x² − 2"
+   ],
+   "4x² : 4x = x; 8x : 4x = 2."
+  ]
+ ],
+ "c8": [
+  [
+   "Gieo một con xúc xắc 6 mặt. Biến cố \"Xuất hiện mặt 7 chấm\" là:",
+   [
+    "Biến cố không thể",
+    "Biến cố chắc chắn",
+    "Biến cố ngẫu nhiên",
+    "Biến cố có xác suất 1/7"
+   ],
+   "Xúc xắc chỉ có từ 1 đến 6 chấm nên không thể ra 7 chấm."
+  ],
+  [
+   "Gieo một con xúc xắc. Biến cố \"Xuất hiện mặt có số chấm nhỏ hơn 7\" là:",
+   [
+    "Biến cố chắc chắn",
+    "Biến cố không thể",
+    "Biến cố ngẫu nhiên",
+    "Biến cố có xác suất 1/2"
+   ],
+   "Mọi mặt đều có số chấm nhỏ hơn 7."
+  ],
+  [
+   "Gieo một con xúc xắc cân đối. Xác suất xuất hiện mặt 3 chấm là:",
+   [
+    "1/6",
+    "1/3",
+    "1/2",
+    "3/6"
+   ],
+   "Có 6 mặt như nhau, 1 mặt có 3 chấm: 1/6."
+  ],
+  [
+   "Tung một đồng xu cân đối. Xác suất xuất hiện mặt sấp là:",
+   [
+    "1/2",
+    "1",
+    "0",
+    "1/4"
+   ],
+   "Hai mặt khả năng như nhau: 1/2."
+  ],
+  [
+   "Hộp có 3 bi đỏ và 2 bi xanh cùng kích thước. Lấy ngẫu nhiên 1 viên. Xác suất lấy được bi đỏ là:",
+   [
+    "3/5",
+    "2/5",
+    "3/2",
+    "1/3"
+   ],
+   "Có 5 viên, 3 viên đỏ: 3/5."
+  ],
+  [
+   "Xác suất của biến cố chắc chắn bằng:",
+   [
+    "1",
+    "0",
+    "1/2",
+    "100"
+   ],
+   "Biến cố chắc chắn có xác suất 1; biến cố không thể có xác suất 0."
+  ],
+  [
+   "Gieo một con xúc xắc cân đối. Xác suất xuất hiện mặt có số chấm chẵn là:",
+   [
+    "1/2",
+    "1/3",
+    "1/6",
+    "2/3"
+   ],
+   "Mặt chẵn: 2, 4, 6 → 3/6 = 1/2."
+  ],
+  [
+   "Rút ngẫu nhiên 1 thẻ từ 10 thẻ đánh số 1 đến 10. Xác suất rút được thẻ ghi số chia hết cho 5 là:",
+   [
+    "1/5",
+    "1/2",
+    "1/10",
+    "5/10"
+   ],
+   "Các số chia hết cho 5: 5 và 10 → 2/10 = 1/5."
+  ],
+  [
+   "Hộp có 5 viên bi: 1 đỏ, 4 xanh. Lấy ngẫu nhiên 1 viên, xác suất lấy được bi xanh là:",
+   [
+    "4/5",
+    "1/5",
+    "1/4",
+    "4"
+   ],
+   "4 bi xanh trên 5 bi: 4/5."
+  ],
+  [
+   "Gieo một con xúc xắc, xác suất xuất hiện mặt có số chấm lớn hơn 4 là:",
+   [
+    "1/3",
+    "1/2",
+    "1/6",
+    "2/3"
+   ],
+   "Mặt 5 và 6: 2/6 = 1/3."
+  ],
+  [
+   "Biến cố \"Tháng 2 có 32 ngày\" là:",
+   [
+    "Biến cố không thể",
+    "Biến cố chắc chắn",
+    "Biến cố ngẫu nhiên",
+    "Có xác suất 1/2"
+   ],
+   "Tháng 2 có nhiều nhất 29 ngày."
+  ],
+  [
+   "Lớp có 15 bạn nam và 20 bạn nữ. Chọn ngẫu nhiên 1 bạn, xác suất chọn được bạn nữ là:",
+   [
+    "4/7",
+    "3/7",
+    "20/15",
+    "1/2"
+   ],
+   "20 : 35 = 4/7."
+  ]
+ ],
+ "c9": [
+  [
+   "Trong một tam giác, cạnh đối diện với góc lớn hơn thì:",
+   [
+    "Lớn hơn",
+    "Nhỏ hơn",
+    "Bằng nhau",
+    "Không so sánh được"
+   ],
+   "Quan hệ giữa góc và cạnh đối diện: góc lớn hơn đối diện cạnh lớn hơn."
+  ],
+  [
+   "Bộ ba độ dài nào là độ dài ba cạnh của một tam giác?",
+   [
+    "3 cm, 4 cm, 5 cm",
+    "1 cm, 2 cm, 3 cm",
+    "2 cm, 3 cm, 6 cm",
+    "1 cm, 1 cm, 3 cm"
+   ],
+   "Bất đẳng thức tam giác: 3 + 4 > 5. Các bộ khác vi phạm (1 + 2 = 3; 2 + 3 < 6; 1 + 1 < 3)."
+  ],
+  [
+   "Từ một điểm ngoài đường thẳng, kẻ đường vuông góc và các đường xiên đến đường thẳng đó. Đoạn ngắn nhất là:",
+   [
+    "Đường vuông góc",
+    "Đường xiên bất kì",
+    "Đường xiên dài nhất",
+    "Tất cả bằng nhau"
+   ],
+   "Đường vuông góc ngắn hơn mọi đường xiên."
+  ],
+  [
+   "Giao điểm ba đường trung tuyến của tam giác gọi là:",
+   [
+    "Trọng tâm",
+    "Trực tâm",
+    "Tâm đường tròn nội tiếp",
+    "Trung điểm"
+   ],
+   "Ba đường trung tuyến đồng quy tại trọng tâm."
+  ],
+  [
+   "Trọng tâm cách mỗi đỉnh một khoảng bằng bao nhiêu độ dài đường trung tuyến đi qua đỉnh đó?",
+   [
+    "2/3",
+    "1/2",
+    "1/3",
+    "3/4"
+   ],
+   "Trọng tâm nằm cách đỉnh 2/3 độ dài trung tuyến."
+  ],
+  [
+   "Giao điểm ba đường trung trực của tam giác thì:",
+   [
+    "Cách đều ba đỉnh",
+    "Cách đều ba cạnh",
+    "Là trọng tâm",
+    "Nằm trên một cạnh"
+   ],
+   "Giao điểm ba đường trung trực cách đều ba đỉnh tam giác."
+  ],
+  [
+   "Giao điểm ba đường phân giác của tam giác thì:",
+   [
+    "Cách đều ba cạnh",
+    "Cách đều ba đỉnh",
+    "Là trực tâm",
+    "Là trọng tâm"
+   ],
+   "Giao điểm ba đường phân giác cách đều ba cạnh."
+  ],
+  [
+   "Ba đường cao của tam giác cùng đi qua một điểm gọi là:",
+   [
+    "Trực tâm",
+    "Trọng tâm",
+    "Tâm đối xứng",
+    "Trung điểm"
+   ],
+   "Ba đường cao đồng quy tại trực tâm."
+  ],
+  [
+   "Tam giác ABC có AB = 5 cm, AC = 7 cm. So sánh góc B và góc C:",
+   [
+    "Góc B lớn hơn góc C",
+    "Góc C lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Không so sánh được"
+   ],
+   "AC đối diện góc B, AB đối diện góc C. AC > AB nên góc B > góc C."
+  ],
+  [
+   "Tam giác có hai cạnh 2 cm và 7 cm, cạnh thứ ba là số nguyên lẻ (cm). Cạnh thứ ba dài:",
+   [
+    "7 cm",
+    "5 cm",
+    "9 cm",
+    "3 cm"
+   ],
+   "7 − 2 < c < 7 + 2 nên 5 < c < 9; số nguyên lẻ duy nhất là 7."
+  ],
+  [
+   "Tam giác ABC có Â = 80°, B̂ = 60°. Cạnh lớn nhất của tam giác là:",
+   [
+    "BC",
+    "AB",
+    "AC",
+    "Ba cạnh bằng nhau"
+   ],
+   "Ĉ = 40°. Góc lớn nhất là Â nên cạnh đối diện BC lớn nhất."
+  ],
+  [
+   "Tam giác có hai cạnh 3 cm và 8 cm. Cạnh thứ ba có thể dài:",
+   [
+    "7 cm",
+    "4 cm",
+    "11 cm",
+    "12 cm"
+   ],
+   "8 − 3 < c < 8 + 3 nên 5 < c < 11; chỉ 7 cm thỏa mãn."
+  ],
+  [
+   "Trong tam giác vuông, cạnh lớn nhất là:",
+   [
+    "Cạnh huyền",
+    "Cạnh góc vuông ngắn",
+    "Cạnh góc vuông dài",
+    "Không xác định"
+   ],
+   "Cạnh huyền đối diện góc vuông (góc lớn nhất)."
+  ],
+  [
+   "G là trọng tâm tam giác ABC, AM là đường trung tuyến dài 9 cm. Độ dài AG là:",
+   [
+    "6 cm",
+    "3 cm",
+    "4,5 cm",
+    "9 cm"
+   ],
+   "AG = 2/3 · AM = 6 (cm)."
+  ]
+ ],
+ "c10": [
+  [
+   "Thể tích hình hộp chữ nhật có ba kích thước 2 cm, 3 cm, 4 cm là:",
+   [
+    "24 cm³",
+    "9 cm³",
+    "26 cm³",
+    "24 cm²"
+   ],
+   "V = 2 · 3 · 4 = 24 (cm³)."
+  ],
+  [
+   "Thể tích hình lập phương cạnh 3 cm là:",
+   [
+    "27 cm³",
+    "9 cm³",
+    "18 cm³",
+    "54 cm³"
+   ],
+   "V = 3³ = 27 (cm³)."
+  ],
+  [
+   "Diện tích xung quanh hình hộp chữ nhật dài 5 cm, rộng 3 cm, cao 4 cm là:",
+   [
+    "64 cm²",
+    "60 cm²",
+    "94 cm²",
+    "32 cm²"
+   ],
+   "Sxq = 2 · (5 + 3) · 4 = 64 (cm²)."
+  ],
+  [
+   "Hình lập phương có bao nhiêu cạnh?",
+   [
+    "12",
+    "6",
+    "8",
+    "4"
+   ],
+   "Hình lập phương có 6 mặt, 8 đỉnh, 12 cạnh."
+  ],
+  [
+   "Hình lăng trụ đứng tam giác có bao nhiêu mặt bên?",
+   [
+    "3",
+    "2",
+    "5",
+    "6"
+   ],
+   "Mỗi cạnh của đáy tam giác ứng với một mặt bên: 3 mặt bên."
+  ],
+  [
+   "Thể tích hình lăng trụ đứng bằng:",
+   [
+    "Diện tích đáy × chiều cao",
+    "Chu vi đáy × chiều cao",
+    "Diện tích đáy + chiều cao",
+    "Tổng diện tích các mặt"
+   ],
+   "V = S_đáy · h."
+  ],
+  [
+   "Lăng trụ đứng có đáy là tam giác vuông với hai cạnh góc vuông 3 cm và 4 cm, chiều cao 10 cm. Thể tích là:",
+   [
+    "60 cm³",
+    "120 cm³",
+    "70 cm³",
+    "12 cm³"
+   ],
+   "S_đáy = 3 · 4 : 2 = 6 (cm²); V = 6 · 10 = 60 (cm³)."
+  ],
+  [
+   "Diện tích xung quanh của hình lăng trụ đứng bằng:",
+   [
+    "Chu vi đáy × chiều cao",
+    "Diện tích đáy × chiều cao",
+    "Chu vi đáy + chiều cao",
+    "2 × diện tích đáy"
+   ],
+   "Sxq = C_đáy · h."
+  ],
+  [
+   "Hình hộp chữ nhật có bao nhiêu mặt?",
+   [
+    "6",
+    "4",
+    "8",
+    "12"
+   ],
+   "Hình hộp chữ nhật có 6 mặt."
+  ],
+  [
+   "Thể tích hình hộp chữ nhật có kích thước 10 cm, 5 cm, 2 cm là:",
+   [
+    "100 cm³",
+    "17 cm³",
+    "50 cm³",
+    "80 cm³"
+   ],
+   "10 · 5 · 2 = 100 (cm³)."
+  ],
+  [
+   "Diện tích toàn phần của hình lập phương cạnh 2 cm là:",
+   [
+    "24 cm²",
+    "8 cm²",
+    "16 cm²",
+    "12 cm²"
+   ],
+   "6 · 2² = 24 (cm²)."
+  ],
+  [
+   "Bể nước hình hộp chữ nhật dài 2 m, rộng 1 m, cao 1 m chứa được nhiều nhất:",
+   [
+    "2 000 lít",
+    "200 lít",
+    "20 lít",
+    "2 lít"
+   ],
+   "V = 2 m³ = 2 000 dm³ = 2 000 lít."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "(−1/3) + (−2/3) = ?",
+   [
+    "−1",
+    "1",
+    "−1/3",
+    "−3/9"
+   ],
+   "(−1 − 2)/3 = −3/3 = −1."
+  ],
+  [
+   "√64 = ?",
+   [
+    "8",
+    "−8",
+    "32",
+    "4"
+   ],
+   "8² = 64 và 8 ≥ 0."
+  ],
+  [
+   "Tam giác ABC có Â = 90°, B̂ = 45°. Tam giác ABC là:",
+   [
+    "Tam giác vuông cân",
+    "Tam giác đều",
+    "Tam giác tù",
+    "Tam giác nhọn"
+   ],
+   "Ĉ = 45° = B̂ và Â = 90° nên tam giác vuông cân."
+  ],
+  [
+   "Tìm x, biết x/5 = 4/10.",
+   [
+    "2",
+    "8",
+    "4",
+    "20"
+   ],
+   "x = 5 · 4 : 10 = 2."
+  ],
+  [
+   "Bậc của đa thức 7x⁴ − x + 2 là:",
+   [
+    "4",
+    "1",
+    "7",
+    "2"
+   ],
+   "Số mũ cao nhất là 4."
+  ],
+  [
+   "Hộp có 4 thẻ đánh số 1, 2, 3, 4. Rút 1 thẻ, xác suất được số lẻ là:",
+   [
+    "1/2",
+    "1/4",
+    "3/4",
+    "1/3"
+   ],
+   "Số lẻ: 1 và 3 → 2/4 = 1/2."
+  ],
+  [
+   "Hai góc đối đỉnh, một góc bằng 110°. Góc còn lại bằng:",
+   [
+    "110°",
+    "70°",
+    "90°",
+    "250°"
+   ],
+   "Hai góc đối đỉnh bằng nhau."
+  ],
+  [
+   "Thể tích hình lập phương cạnh 2 dm là:",
+   [
+    "8 dm³",
+    "6 dm³",
+    "4 dm³",
+    "24 dm³"
+   ],
+   "2³ = 8 (dm³)."
+  ]
+ ]
+}

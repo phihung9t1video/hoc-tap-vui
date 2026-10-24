@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { Limb, OL, SIDES, Sparkle, Star, heartPath, mirror, type Draw, type DrawCtx, type Item } from "./draw";
+import { Limb, OL, PALETTE, SIDES, Sparkle, Star, heartPath, mirror, type Draw, type DrawCtx, type Item } from "./draw";
 import { PET_ITEMS } from "./pets";
 import type { Gender, Look, Slot } from "./types";
 
@@ -64,7 +64,7 @@ const torsoLeft = (y: number) => 70 - ((y - 146) * 8) / 58;
 
 function shirt(
   color: string,
-  o: { sleeve?: "short" | "long"; dress?: boolean; sleeveColor?: string; detail?: ReactNode } = {},
+  o: { sleeve?: "short" | "long"; dress?: boolean; sleeveColor?: string; detail?: ReactNode; shape?: string } = {},
 ): Draw {
   const sc = o.sleeveColor ?? color;
   return (c) => (
@@ -76,7 +76,7 @@ function shirt(
           <Limb key={i} x1={f(73)} y1={150} x2={f(66)} y2={165} w={18} color={sc} />
         ),
       )}
-      <path d={o.dress ? DRESS : TORSO} fill={color} stroke={OL} strokeWidth={2.5} />
+      <path d={o.shape ?? (o.dress ? DRESS : TORSO)} fill={color} stroke={OL} strokeWidth={2.5} />
       {!c.back && <path d="M90 143 Q100 152 110 143" fill="none" stroke={OL} strokeWidth={2} />}
       {!c.back && o.detail}
     </g>
@@ -212,6 +212,381 @@ const lens = (shape: (x: number) => ReactNode, frame = OL) => (
     <path d={`M${EYE_L + 14} ${EYE_Y - 2} Q100 ${EYE_Y - 7} ${EYE_R - 14} ${EYE_Y - 2}`} fill="none" stroke={frame} strokeWidth={3} />
   </g>
 );
+
+// ---------- Bộ sưu tập mở rộng (bản 1.1) ----------
+
+const pal = (ids: string[]) => PALETTE.filter((c) => ids.includes(c.id));
+const darker: Record<string, string> = {
+  do: "#b91c1c", hong: "#db2777", cam: "#ea580c", vang: "#ca8a04", xanhla: "#16a34a", xanhduong: "#2563eb", tim: "#7c3aed", den: "#111827",
+};
+const it = (id: string, slot: Slot, name: string, rarity: Item["rarity"], price: number, draw: Draw, back?: Draw): Item => ({
+  id, slot, name, rarity, price, draw, back,
+});
+
+const AODAI = "M72 146 Q100 138 128 146 L134 240 L106 240 L102 206 L98 206 L94 240 L66 240 Z";
+const mandarin = <path d="M88 141 L88 147 Q100 152 112 147 L112 141" fill="none" stroke={OL} strokeWidth={2} />;
+const blossoms = (fill: string) => (
+  <g>
+    {[[84, 172], [114, 188], [92, 214], [118, 224], [80, 230]].map(([x, y], i) => (
+      <g key={i}>
+        {[0, 72, 144, 216, 288].map((a) => (
+          <circle key={a} cx={x + 3 * Math.cos((a * Math.PI) / 180)} cy={y + 3 * Math.sin((a * Math.PI) / 180)} r={2.4} fill={fill} />
+        ))}
+        <circle cx={x} cy={y} r={1.4} fill="#fff7cc" />
+      </g>
+    ))}
+  </g>
+);
+const grid = (color: string) => (
+  <g stroke={color} strokeWidth={2.5} opacity={0.8}>
+    {[78, 90, 102, 114, 126].map((x) => <line key={x} x1={x - 2} y1={146} x2={x - 2} y2={204} />)}
+    {[158, 172, 186, 198].map((y) => <line key={y} x1={torsoLeft(y) + 2} y1={y} x2={mirror(torsoLeft(y) + 2)} y2={y} />)}
+  </g>
+);
+const rainbowBands = (
+  <g strokeWidth={7}>
+    {["#ef4444", "#fb923c", "#facc15", "#4ade80", "#60a5fa", "#a78bfa"].map((c, i) => {
+      const y = 152 + i * 9;
+      return <line key={c} x1={torsoLeft(y) + 2} y1={y} x2={mirror(torsoLeft(y) + 2)} y2={y} stroke={c} />;
+    })}
+  </g>
+);
+
+const MORE_SHIRTS: Item[] = [
+  ...pal(["do", "cam", "xanhla", "tim", "den"]).map((c) => it(`ao_thun_${c.id}`, "shirt", `Áo thun ${c.name}`, "thuong", 50, shirt(c.hex))),
+  ...pal(["do", "xanhla", "den", "hong"]).map((c) => it(`ao_hoodie_${c.id}`, "shirt", `Hoodie ${c.name}`, "hiem", 180, shirt(c.hex, { sleeve: "long", detail: hoodie(c.hex, darker[c.id]) }))),
+  ...pal(["vang", "tim", "do", "cam"]).map((c) =>
+    it(`vay_${c.id}`, "shirt", `Váy ${c.name}`, "hiem", 200, shirt(c.hex, { dress: true, detail: <path d="M60 214 Q100 222 140 214" fill="none" stroke="#fff" strokeWidth={4} /> })),
+  ),
+  it("ao_bong_da", "shirt", "Áo bóng đá đỏ sao vàng", "thuong", 120, shirt("#da251d", { detail: <Star cx={100} cy={174} R={12} fill="#ffcd00" /> })),
+  it("ao_so_mi_caro", "shirt", "Áo sơ mi caro", "thuong", 90, shirt("#f87171", { sleeve: "long", detail: grid("#7f1d1d") })),
+  it("ao_bac_si", "shirt", "Áo bác sĩ", "hiem", 150, shirt("#ffffff", {
+    sleeve: "long",
+    detail: (
+      <g>
+        <path d="M92 144 L100 176 L108 144" fill="none" stroke={OL} strokeWidth={2} />
+        <rect x={110} y={180} width={14} height={12} rx={2} fill="#fff" stroke={OL} strokeWidth={1.5} />
+        <path d="M117 182 V190 M113 186 H121" stroke="#ef4444" strokeWidth={2.5} />
+      </g>
+    ),
+  })),
+  it("ao_khoac_jean", "shirt", "Áo khoác jean", "hiem", 160, shirt("#4a78c2", {
+    sleeve: "long",
+    detail: (
+      <g>
+        <path d="M100 146 V206" stroke="#1e3a8a" strokeWidth={2} />
+        <path d="M84 144 L94 160 L100 148 L106 160 L116 144" fill="#3b63a8" stroke={OL} strokeWidth={1.5} />
+        {[168, 180, 192].map((y) => <circle key={y} cx={104} cy={y} r={1.8} fill="#facc15" />)}
+        <rect x={78} y={166} width={14} height={10} rx={2} fill="none" stroke="#9cc0f0" strokeWidth={1.5} />
+        <rect x={108} y={166} width={14} height={10} rx={2} fill="none" stroke="#9cc0f0" strokeWidth={1.5} />
+      </g>
+    ),
+  })),
+  ...[
+    { id: "do", name: "đỏ hoa mai", color: "#dc2626", flower: "#facc15" },
+    { id: "trang", name: "trắng", color: "#ffffff", flower: "#93c5fd" },
+    { id: "xanh", name: "xanh ngọc", color: "#2dd4bf", flower: "#ffffff" },
+    { id: "hong", name: "hồng đào", color: "#f9a8d4", flower: "#ffffff" },
+  ].map((c) => it(`ao_dai_${c.id}`, "shirt", `Áo dài ${c.name}`, "suthi", 350, shirt(c.color, { sleeve: "long", shape: AODAI, detail: <g>{mandarin}{blossoms(c.flower)}</g> }))),
+  it("ao_cau_vong", "shirt", "Áo cầu vồng", "suthi", 380, shirt("#ffffff", { detail: rainbowBands })),
+  it("ao_ninja", "shirt", "Áo ninja", "suthi", 400, shirt("#1f2937", {
+    sleeve: "long",
+    detail: (
+      <g>
+        <path d="M86 144 L112 176 M114 144 L88 176" stroke="#374151" strokeWidth={4} />
+        <rect x={64} y={188} width={72} height={8} fill="#dc2626" stroke={OL} strokeWidth={1.5} />
+      </g>
+    ),
+  })),
+  it("ao_phi_hanh_gia", "shirt", "Bộ phi hành gia", "suthi", 450, shirt("#f8fafc", {
+    sleeve: "long",
+    sleeveColor: "#e5e7eb",
+    detail: (
+      <g>
+        <rect x={86} y={164} width={28} height={20} rx={3} fill="#cbd5e1" stroke={OL} strokeWidth={1.5} />
+        <circle cx={93} cy={171} r={2.5} fill="#ef4444" />
+        <circle cx={100} cy={171} r={2.5} fill="#22c55e" />
+        <circle cx={107} cy={171} r={2.5} fill="#3b82f6" />
+        <rect x={91} y={177} width={18} height={3} rx={1.5} fill="#64748b" />
+        <circle cx={78} cy={156} r={5} fill="#2563eb" stroke={OL} strokeWidth={1} />
+        <Star cx={78} cy={156} R={3} fill="#fff" sw={0} />
+      </g>
+    ),
+  })),
+  it("ao_ngan_ha", "shirt", "Áo dải ngân hà", "huyenthoai", 1200, shirt("#312e81", {
+    sleeve: "long",
+    sleeveColor: "#3730a3",
+    detail: (
+      <g>
+        <path d="M66 190 Q100 160 134 172" fill="none" stroke="#a78bfa" strokeWidth={8} opacity={0.5} />
+        {[[78, 160], [118, 156], [96, 182], [124, 194], [74, 196], [108, 168]].map(([x, y], i) => (
+          <Sparkle key={i} x={x} y={y} s={i % 2 ? 3 : 5} fill={i % 3 ? "#fde68a" : "#ffffff"} />
+        ))}
+        <Star cx={100} cy={196} R={6} fill="#fde047" />
+      </g>
+    ),
+  })),
+];
+
+const plaid = (
+  <g stroke="#7f1d1d" strokeWidth={2} opacity={0.7}>
+    <path d="M70 206 H130 M72 218 H128 M74 230 H126 M84 198 V236 M116 198 V236" />
+  </g>
+);
+const MORE_PANTS: Item[] = [
+  ...pal(["do", "xanhla", "hong", "vang"]).map((c) => it(`quan_short_${c.id}`, "pants", `Quần short ${c.name}`, "thuong", 50, pants(c.hex, SHORT))),
+  it("quan_dai_den", "pants", "Quần dài đen", "thuong", 60, pants("#1f2937", LONG)),
+  it("quan_dai_kaki", "pants", "Quần kaki", "thuong", 60, pants("#b08d57", LONG)),
+  it("quan_dai_trang", "pants", "Quần dài trắng", "thuong", 60, pants("#f8fafc", LONG)),
+  ...pal(["tim", "vang", "xanhla", "do"]).map((c) => it(`chan_vay_${c.id}`, "pants", `Chân váy ${c.name}`, "thuong", 70, pants(c.hex, SKIRT))),
+  it("quan_ca_ro", "pants", "Quần caro", "hiem", 140, pants("#f87171", LONG, plaid)),
+  it("vay_tutu", "pants", "Váy tutu", "hiem", 180, pants("#f9a8d4", SKIRT, (
+    <g stroke={OL} strokeWidth={1.5}>
+      <path d="M58 220 Q64 232 72 222 Q80 234 88 224 Q96 236 104 224 Q112 236 120 224 Q128 234 136 222 Q142 232 146 220" fill="#fbcfe8" />
+      <Sparkle x={86} y={208} s={3} />
+      <Sparkle x={116} y={212} s={3} />
+    </g>
+  ))),
+];
+
+const sandals = (color: string): Draw => (c) => (
+  <g stroke={OL} strokeWidth={1.8}>
+    {[86, 114].map((cx) => (
+      <g key={cx}>
+        <ellipse cx={cx} cy={236} rx={11} ry={6} fill={c.skin} />
+        <rect x={cx - 15} y={240} width={30} height={6} rx={3} fill={color} />
+        <path d={`M${cx - 8} 240 L${cx} 232 L${cx + 8} 240`} fill="none" stroke={darker.do} strokeWidth={2.5} />
+      </g>
+    ))}
+  </g>
+);
+const skates = (color: string): Draw => () => (
+  <g stroke={OL} strokeWidth={2}>
+    {[86, 114].map((cx) => (
+      <g key={cx}>
+        <rect x={cx - 10} y={214} width={20} height={22} rx={4} fill={color} />
+        <path d={`M${cx - 15} 242 Q${cx - 15} 228 ${cx} 228 Q${cx + 15} 228 ${cx + 15} 242 Z`} fill={color} />
+        <rect x={cx - 15} y={240} width={30} height={4} rx={2} fill="#e5e7eb" />
+        <circle cx={cx - 9} cy={248} r={3.5} fill="#facc15" />
+        <circle cx={cx + 9} cy={248} r={3.5} fill="#facc15" />
+      </g>
+    ))}
+  </g>
+);
+const MORE_SHOES: Item[] = [
+  ...pal(["cam", "vang", "xanhla", "xanhduong", "hong", "tim"]).map((c) => it(`giay_mau_${c.id}`, "shoes", `Giày ${c.name}`, "thuong", 50, shoes(c.hex))),
+  ...pal(["do", "hong", "xanhduong"]).map((c) => it(`ung_${c.id}`, "shoes", `Ủng ${c.name}`, "hiem", 140, shoes(c.hex, darker[c.id], { boot: true }))),
+  it("dep_lao", "shoes", "Dép lào", "thuong", 30, sandals("#60a5fa")),
+  it("giay_ba_le", "shoes", "Giày ba lê", "hiem", 150, (c) => (
+    <g>
+      {shoes("#fbcfe8", "#f9a8d4")(c)}
+      <path d="M80 230 L92 214 M120 230 L108 214 M92 230 L80 214 M108 230 L120 214" stroke="#f472b6" strokeWidth={1.5} />
+    </g>
+  )),
+  it("giay_patin", "shoes", "Giày trượt patin", "suthi", 380, skates("#a78bfa")),
+  it("giay_cau_vong", "shoes", "Giày cầu vồng", "suthi", 400, (c) => (
+    <g>
+      {shoes("#ffffff", "#a78bfa", { lights: true })(c)}
+      {[86, 114].map((cx) =>
+        ["#ef4444", "#facc15", "#4ade80", "#60a5fa"].map((col, i) => (
+          <line key={`${cx}${i}`} x1={cx - 10 + i * 6} y1={232} x2={cx - 12 + i * 6} y2={240} stroke={col} strokeWidth={3} />
+        )),
+      )}
+    </g>
+  )),
+];
+
+const cap = (color: string, dark: string): Draw => () => (
+  <g stroke={OL} strokeWidth={2.5}>
+    <path d="M44 66 Q46 20 100 20 Q154 20 156 66 Z" fill={color} />
+    <path d="M44 66 Q100 54 156 66 Q160 76 100 74 Q40 76 44 66 Z" fill={dark} />
+    <circle cx={100} cy={22} r={5} fill={dark} />
+  </g>
+);
+const bow = (color: string, dark: string): Draw => () => (
+  <g stroke={OL} strokeWidth={2}>
+    <path d="M134 38 L114 26 L116 50 Z M134 38 L154 26 L152 50 Z" fill={color} />
+    <circle cx={134} cy={38} r={6} fill={dark} />
+  </g>
+);
+const MORE_HATS: Item[] = [
+  ...pal(["xanhduong", "vang", "xanhla", "den"]).map((c) => it(`mu_luoi_trai_${c.id}`, "hat", `Mũ lưỡi trai ${c.name}`, "thuong", 70, cap(c.hex, darker[c.id]))),
+  ...pal(["hong", "tim", "vang", "xanhduong"]).map((c) => it(`no_${c.id}`, "hat", `Nơ ${c.name}`, "thuong", 50, bow(c.hex, darker[c.id]))),
+  it("mu_bao_hiem", "hat", "Mũ bảo hiểm", "thuong", 100, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M40 72 Q40 12 100 12 Q160 12 160 72 Z" fill="#3b82f6" />
+      <path d="M100 12 V72" stroke="#ffffff" strokeWidth={6} />
+      <path d="M40 72 H160" strokeWidth={4} />
+    </g>
+  )),
+  it("non_la", "hat", "Nón lá", "hiem", 150, () => (
+    <g stroke={OL} strokeWidth={2}>
+      <path d="M22 60 L100 -2 L178 60 Q100 74 22 60 Z" fill="#ead9a6" />
+      {[0.25, 0.5, 0.75].map((t) => (
+        <path key={t} d={`M${100 - 78 * t} ${-2 + 62 * t} Q100 ${-2 + 70 * t} ${100 + 78 * t} ${-2 + 62 * t}`} fill="none" stroke="#c4a665" strokeWidth={1.5} />
+      ))}
+      <path d="M58 60 Q60 110 80 128 M142 60 Q140 110 120 128" fill="none" stroke="#f472b6" strokeWidth={2} />
+    </g>
+  )),
+  it("mu_cao_boi", "hat", "Mũ cao bồi", "hiem", 180, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M62 48 Q64 6 84 10 Q100 18 116 10 Q136 6 138 48 Z" fill="#a16207" />
+      <path d="M62 40 H138" stroke="#7c2d12" strokeWidth={6} />
+      <path d="M14 46 Q100 26 186 46 Q174 66 100 58 Q26 66 14 46 Z" fill="#b45309" />
+    </g>
+  )),
+  it("mu_dau_bep", "hat", "Mũ đầu bếp", "hiem", 150, () => (
+    <g stroke={OL} strokeWidth={2.5} fill="#ffffff">
+      <circle cx={76} cy={18} r={20} />
+      <circle cx={100} cy={8} r={22} />
+      <circle cx={124} cy={18} r={20} />
+      <rect x={60} y={22} width={80} height={30} rx={4} />
+    </g>
+  )),
+  it("mu_tho", "hat", "Mũ tai thỏ", "hiem", 180, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <ellipse cx={74} cy={6} rx={12} ry={34} fill="#ffffff" transform="rotate(-12 74 6)" />
+      <ellipse cx={126} cy={6} rx={12} ry={34} fill="#ffffff" transform="rotate(12 126 6)" />
+      <ellipse cx={74} cy={8} rx={5} ry={24} fill="#fbcfe8" strokeWidth={0} transform="rotate(-12 74 8)" />
+      <ellipse cx={126} cy={8} rx={5} ry={24} fill="#fbcfe8" strokeWidth={0} transform="rotate(12 126 8)" />
+      <path d="M46 50 Q100 22 154 50" fill="none" stroke="#ffffff" strokeWidth={8} />
+    </g>
+  )),
+  it("mu_hai_tac", "hat", "Mũ hải tặc", "suthi", 380, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M26 56 Q40 4 100 2 Q160 4 174 56 Q100 36 26 56 Z" fill="#111827" />
+      <circle cx={100} cy={28} r={7} fill="#ffffff" />
+      <path d="M92 40 L108 46 M108 40 L92 46" stroke="#ffffff" strokeWidth={2.5} />
+      <path d="M30 54 Q100 34 170 54" fill="none" stroke="#facc15" strokeWidth={3} />
+    </g>
+  )),
+  it("vong_hoa", "hat", "Vương miện hoa", "suthi", 350, () => (
+    <g stroke={OL} strokeWidth={1.2}>
+      {Array.from({ length: 9 }, (_, i) => {
+        const a = ((200 + i * 17.5) * Math.PI) / 180;
+        const x = 100 + 54 * Math.cos(a);
+        const y = 62 + 30 * Math.sin(a);
+        const col = ["#f472b6", "#facc15", "#a78bfa", "#fb7185"][i % 4];
+        return (
+          <g key={i}>
+            {[0, 72, 144, 216, 288].map((d) => (
+              <circle key={d} cx={x + 4.5 * Math.cos((d * Math.PI) / 180)} cy={y + 4.5 * Math.sin((d * Math.PI) / 180)} r={3.6} fill={col} />
+            ))}
+            <circle cx={x} cy={y} r={2.4} fill="#fff7cc" />
+          </g>
+        );
+      })}
+    </g>
+  )),
+  it("sung_ky_lan", "hat", "Sừng kỳ lân", "huyenthoai", 900, () => (
+    <g stroke={OL} strokeWidth={2}>
+      <path d="M88 40 L100 -18 L112 40 Z" fill="#fcd34d" />
+      <path d="M92 26 L108 20 M90 34 L110 28 M95 14 L105 10" stroke="#f59e0b" strokeWidth={2} />
+      <Sparkle x={120} y={-8} s={5} fill="#fff7cc" />
+      <Sparkle x={80} y={4} s={3} fill="#ffffff" />
+    </g>
+  )),
+];
+
+const MORE_GLASSES: Item[] = [
+  it("kinh_ram_hong", "glasses", "Kính râm hồng", "hiem", 150, () => lens((x) => <rect key={x} x={x - 15} y={EYE_Y - 11} width={30} height={22} rx={8} fill="#f472b6" fillOpacity={0.85} stroke={OL} strokeWidth={3} />)),
+  it("kinh_ram_xanh", "glasses", "Kính râm xanh", "hiem", 150, () => lens((x) => <rect key={x} x={x - 15} y={EYE_Y - 11} width={30} height={22} rx={8} fill="#38bdf8" fillOpacity={0.85} stroke={OL} strokeWidth={3} />)),
+  it("kinh_3d", "glasses", "Kính 3D", "hiem", 120, () => (
+    <g>
+      {lens((x) => <rect key={x} x={x - 15} y={EYE_Y - 10} width={30} height={20} rx={3} fill={x < 100 ? "#ef4444" : "#3b82f6"} fillOpacity={0.8} stroke="#f8fafc" strokeWidth={4} />, "#f8fafc")}
+    </g>
+  )),
+  it("kinh_phi_cong", "glasses", "Kính phi công", "hiem", 160, () =>
+    lens((x) => <path key={x} d={`M${x - 15} ${EYE_Y - 9} H${x + 15} Q${x + 15} ${EYE_Y + 14} ${x} ${EYE_Y + 12} Q${x - 15} ${EYE_Y + 14} ${x - 15} ${EYE_Y - 9} Z`} fill="#92400e" fillOpacity={0.8} stroke="#ca8a04" strokeWidth={2.5} />, "#ca8a04"),
+  ),
+  it("mat_na", "glasses", "Mặt nạ dạ hội", "suthi", 380, () => (
+    <g stroke={OL} strokeWidth={2}>
+      <path d="M60 86 Q78 74 96 88 L100 92 L104 88 Q122 74 140 86 Q144 104 124 106 Q110 106 100 98 Q90 106 76 106 Q56 104 60 86 Z" fill="#7c3aed" />
+      <ellipse cx={78} cy={92} rx={8} ry={5} fill="#2d2424" />
+      <ellipse cx={122} cy={92} rx={8} ry={5} fill="#2d2424" />
+      <path d="M140 84 Q156 60 150 44 M142 86 Q166 70 168 54" fill="none" stroke="#f472b6" strokeWidth={3} />
+      <Sparkle x={100} y={82} s={3} fill="#fde68a" />
+    </g>
+  )),
+  it("kinh_kim_cuong", "glasses", "Kính kim cương", "huyenthoai", 900, () => (
+    <g>
+      {lens((x) => (
+        <g key={x}>
+          <polygon points={`${x},${EYE_Y - 15} ${x + 15},${EYE_Y} ${x},${EYE_Y + 15} ${x - 15},${EYE_Y}`} fill="#a5f3fc" fillOpacity={0.85} stroke="#0891b2" strokeWidth={2.5} />
+          <path d={`M${x - 15} ${EYE_Y} H${x + 15} M${x} ${EYE_Y - 15} L${x - 6} ${EYE_Y} L${x} ${EYE_Y + 15} L${x + 6} ${EYE_Y} Z`} fill="none" stroke="#ffffff" strokeWidth={1.2} />
+        </g>
+      ), "#0891b2")}
+      <Sparkle x={EYE_R + 16} y={EYE_Y - 14} s={5} />
+    </g>
+  )),
+];
+
+const backpack = (color: string, dark: string): Draw => () => (
+  <g stroke={OL} strokeWidth={2.5}>
+    <rect x={56} y={148} width={88} height={60} rx={14} fill={color} />
+    <rect x={56} y={180} width={88} height={8} fill={dark} strokeWidth={0} />
+  </g>
+);
+const cape = (color: string): Draw => () => <path d="M72 146 L128 146 L154 240 Q100 250 46 240 Z" fill={color} stroke={OL} strokeWidth={2.5} />;
+const MORE_BACKS: Item[] = [
+  ...pal(["do", "xanhduong", "hong", "vang"]).map((c) => it(`balo_${c.id}`, "back", `Balo ${c.name}`, "thuong", 80, backpack(c.hex, darker[c.id]))),
+  ...pal(["tim", "xanhduong", "vang"]).map((c) => it(`ao_choang_${c.id}`, "back", `Áo choàng ${c.name}`, "hiem", 250, cape(c.hex))),
+  it("canh_doi", "back", "Cánh dơi", "suthi", 400, () => (
+    <g stroke={OL} strokeWidth={2.5} fill="#4c1d95">
+      <path d="M72 156 L20 120 Q24 146 10 156 Q30 160 26 176 Q44 172 48 188 Q60 178 74 186 Z" />
+      <path d="M128 156 L180 120 Q176 146 190 156 Q170 160 174 176 Q156 172 152 188 Q140 178 126 186 Z" />
+    </g>
+  )),
+  it("canh_rong", "back", "Cánh rồng", "suthi", 450, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M72 156 L14 100 L22 130 L4 136 L24 156 L12 172 L40 176 L50 196 L74 186 Z" fill="#16a34a" />
+      <path d="M128 156 L186 100 L178 130 L196 136 L176 156 L188 172 L160 176 L150 196 L126 186 Z" fill="#16a34a" />
+      <path d="M72 160 L22 132 M72 168 L26 158 M128 160 L178 132 M128 168 L174 158" stroke="#bbf7d0" strokeWidth={1.5} />
+    </g>
+  )),
+  it("canh_tien", "back", "Cánh tiên", "suthi", 420, () => (
+    <g stroke="#0ea5e9" strokeWidth={2}>
+      {SIDES.map((f, i) => (
+        <g key={i}>
+          <ellipse cx={f(48)} cy={148} rx={34} ry={20} fill="#bae6fd" fillOpacity={0.7} transform={`rotate(${i ? 30 : -30} ${f(48)} 148)`} />
+          <ellipse cx={f(56)} cy={190} rx={22} ry={13} fill="#e0f2fe" fillOpacity={0.7} transform={`rotate(${i ? -20 : 20} ${f(56)} 190)`} />
+        </g>
+      ))}
+      <Sparkle x={30} y={140} s={4} />
+      <Sparkle x={168} y={186} s={4} />
+    </g>
+  )),
+];
+
+const braid = (c: DrawCtx) => (
+  <g>
+    {SIDES.map((f, i) => (
+      <g key={i}>
+        {[112, 128, 144, 160, 176].map((y, j) => (
+          <ellipse key={y} cx={f(44 - j * 0.6)} cy={y} rx={9} ry={9} fill={c.hair} stroke={OL} strokeWidth={2.2} />
+        ))}
+        <circle cx={f(43)} cy={190} r={4} fill="#f472b6" stroke={OL} strokeWidth={1.5} />
+      </g>
+    ))}
+  </g>
+);
+const MORE_HAIR: Item[] = [
+  { id: "toc_mai_bang", slot: "hair", name: "Tóc mái bằng", rarity: "thuong", price: 60, ...hair("M42 94 Q40 26 100 26 Q160 26 158 94 L156 72 Q100 64 44 72 Z") },
+  { id: "toc_vuot", slot: "hair", name: "Tóc vuốt ngược", rarity: "thuong", price: 80, ...hair("M44 92 Q36 26 104 22 Q166 26 156 92 Q152 58 128 50 Q96 62 62 60 Q50 70 44 92 Z") },
+  { id: "toc_bui_cao", slot: "hair", name: "Búi tóc cao", rarity: "thuong", price: 80,
+    ...hair(BANGS, (c) => <circle cx={100} cy={22} r={22} fill={c.hair} stroke={OL} strokeWidth={2.5} />) },
+  { id: "toc_bim_tet", slot: "hair", name: "Hai bím tết", rarity: "hiem", price: 150, ...hair(BANGS, braid) },
+  { id: "toc_xu", slot: "hair", name: "Tóc xù", rarity: "hiem", price: 150,
+    ...hair("M40 96 Q34 24 100 24 Q166 24 160 96 Q150 64 100 60 Q50 64 40 96 Z", (c) => <circle cx={100} cy={70} r={76} fill={c.hair} stroke={OL} strokeWidth={2.5} />) },
+];
+
+const MORE_EYES: Item[] = [
+  it("mat_to_hong", "eyes", "Mắt long lanh hồng", "hiem", 150, () => <g>{brows}{[EYE_L, EYE_R].map(animeEye("#f472b6"))}</g>),
+  it("mat_to_vang", "eyes", "Mắt long lanh hổ phách", "hiem", 150, () => <g>{brows}{[EYE_L, EYE_R].map(animeEye("#f59e0b"))}</g>),
+  it("mat_to_xanh_la", "eyes", "Mắt long lanh xanh lá", "hiem", 150, () => <g>{brows}{[EYE_L, EYE_R].map(animeEye("#22c55e"))}</g>),
+];
+
+const MORE: Item[] = [...MORE_HAIR, ...MORE_EYES, ...MORE_SHIRTS, ...MORE_PANTS, ...MORE_SHOES, ...MORE_GLASSES, ...MORE_HATS, ...MORE_BACKS];
 
 // ---------- Danh mục đồ ----------
 
@@ -467,6 +842,9 @@ export const ITEMS: Item[] = [
         <path d="M30 160 Q46 166 60 166 M42 186 Q56 186 66 182 M170 160 Q154 166 140 166 M158 186 Q144 186 134 182" fill="none" stroke="#cbd5e1" strokeWidth={2} />
       </g>
     ) },
+
+  // Bộ sưu tập mở rộng
+  ...MORE,
 
   // Thú cưng và đồ cho thú cưng (lib/pets.tsx)
   ...PET_ITEMS,

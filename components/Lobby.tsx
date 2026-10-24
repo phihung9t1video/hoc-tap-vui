@@ -1,6 +1,6 @@
 "use client";
 
-import { SUBJECTS } from "@/lib/curriculum";
+import { SUBJECTS, subjectsForGrade } from "@/lib/curriculum";
 import { dayKey } from "@/lib/rewards";
 import type { Profile, Subject } from "@/lib/types";
 import { SpinAvatar } from "./Avatar";
@@ -18,12 +18,14 @@ export function Lobby({
   onPlay,
   onWardrobe,
   onAchievements,
+  onHome,
   onSwitch,
 }: {
   profile: Profile;
   onPlay: (s: Subject) => void;
   onWardrobe: () => void;
   onAchievements: () => void;
+  onHome: () => void;
   onSwitch: () => void;
 }) {
   const today = dayKey();
@@ -56,7 +58,11 @@ export function Lobby({
       </div>
 
       <div className="menu">
-        {(Object.keys(SUBJECTS) as Subject[]).map((s) => (
+        <button className="btn" style={{ gridColumn: "1 / -1", background: "linear-gradient(135deg, #fde68a, #fdba74)" }} onClick={onHome}>
+          <span className="ico">🏠</span>
+          Nhà của {profile.name}
+        </button>
+        {subjectsForGrade(profile.grade).map((s: Subject) => (
           <button key={s} className="btn" style={{ background: SUBJECTS[s].color, color: "#fff" }} onClick={() => onPlay(s)}>
             <span className="ico">{SUBJECTS[s].icon}</span>
             {SUBJECTS[s].name}

@@ -1,4 +1,6 @@
-export type Subject = "toan" | "tienganh";
+import type { HomeState } from "./home";
+
+export type Subject = "toan" | "tiengviet" | "nguvan" | "tienganh" | "tnxh" | "khoahoc" | "khtn" | "lsdl" | "tinhoc";
 export type Gender = "nam" | "nu";
 
 export type Slot =
@@ -74,6 +76,8 @@ export interface Profile {
   earnedDay: string;
   earnedToday: number;
   createdAt: number;
+  /** Ngôi nhà của con (đồ đã đặt, giấy dán tường, sàn) */
+  home?: HomeState;
 }
 
 export interface Settings {

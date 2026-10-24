@@ -1,4 +1,5 @@
 import { ACHIEVEMENTS, type Achievement } from "./achievements";
+import { HOME_ITEMS } from "./home";
 import { ITEMS } from "./items";
 import type { AnswerLog, Profile, Settings, Subject } from "./types";
 
@@ -30,7 +31,9 @@ export function dayKey(d = new Date()) {
 }
 
 function pickChestItem(owned: Set<string>): string | undefined {
-  const pool = ITEMS.filter((i) => !i.starter && !i.achievement && !owned.has(i.id) && (i.rarity === "hiem" || i.rarity === "suthi"));
+  const pool = [...ITEMS, ...HOME_ITEMS].filter(
+    (i) => !i.starter && !("achievement" in i && i.achievement) && !owned.has(i.id) && (i.rarity === "hiem" || i.rarity === "suthi"),
+  );
   if (!pool.length) return undefined;
   const epic = pool.filter((i) => i.rarity === "suthi");
   const rare = pool.filter((i) => i.rarity === "hiem");

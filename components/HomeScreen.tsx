@@ -1,0 +1,399 @@
+"use client";
+
+import { useState } from "react";
+import { RARITY } from "@/lib/draw";
+import {
+  HOME_CATS,
+  HOME_ITEMS,
+  HOME_MAP,
+  ROOMS,
+  ROOM_N,
+  ROOM_ORDER,
+  canHang,
+  canPlace,
+  doorTile,
+  footprint,
+  migrateHome,
+  type DoorTarget,
+  type HomeItem,
+  type RoomId,
+  type RoomState,
+} from "@/lib/home";
+import type { Profile } from "@/lib/types";
+import { newId } from "@/lib/util";
+import { HomeThumb, Room } from "./Room";
+import { Street } from "./Street";
+
+type Mode = "play" | "arrange" | "shop";
+type Where = { kind: "street" } | { kind: "room"; ownerId: string; room: RoomId; entry?: [number, number] };
+
+export function HomeScreen({
+  profiles,
+  me,
+  onChange,
+  onBack,
+}: {
+  profiles: Profile[];
+  me: Profile;
+  /** Cập nhật hồ sơ của con đang chơi, dựa trên dữ liệu mới nhất */
+  onChange: (fn: (p: Profile) => Profile) => void;
+  onBack: () => void;
+}) {
+  const [where, setWhere] = useState<Where>({ kind: "room", ownerId: me.id, room: "khach" });
+  const [mode, setMode] = useState<Mode>("play");
+  const [selected, setSelected] = useState<string | undefined>();
+  const [holding, setHolding] = useState<string | undefined>();
+  const [cat, setCat] = useState(HOME_CATS[0].id);
+  const [trial, setTrial] = useState<HomeItem | null>(null);
+  const [msg, setMsg] = useState<string | null>(null);
+
+  const flash = (t: string) => {
+    setMsg(t);
+    setTimeout(() => setMsg((m) => (m === t ? null : m)), 2200);
+  };
+  const resetTools = () => {
+    setSelected(undefined);
+    setHolding(undefined);
+    setTrial(null);
+  };
+
+  if (where.kind === "street") {
+    return (
+      <div className="stack">
+        <div className="topbar">
+          <button className="btn" onClick={onBack}>
+            ← Sảnh
+          </button>
+          <span className="pill pill-coin">⭐ {me.coins}</span>
+        </div>
+        <h1>🏘️ Khu phố nhà mình</h1>
+        <div className="room-card">
+          <Street
+            profiles={profiles}
+            meId={me.id}
+            onEnter={(id) => {
+              resetTools();
+              setMode("play");
+              setWhere({ kind: "room", ownerId: id, room: "khach", entry: [0, 4] });
+            }}
+          />
+        </div>
+        <div className="muted center">Chạm vào một ngôi nhà để vào chơi. Nhà có viền vàng là nhà của {me.name}.</div>
+      </div>
+    );
+  }
+
+  const owner = profiles.find((p) => p.id === where.ownerId) ?? me;
+  const mine = owner.id === me.id;
+  const home = migrateHome(owner.home);
+  const roomId = where.room;
+  const room = home.rooms[roomId];
+  const doors = ROOMS[roomId].doors;
+  const owned = new Set(me.owned);
+
+  const setRoom = (fn: (r: RoomState) => RoomState) =>
+    onChange((p) => {
+      const h = migrateHome(p.home);
+      return { ...p, home: { rooms: { ...h.rooms, [roomId]: fn(h.rooms[roomId]) } } };
+    });
+
+  // Mỗi món chỉ đặt được một chỗ trong cả ngôi nhà
+  const placedIds = new Set(ROOM_ORDER.flatMap((r) => [...home.rooms[r].floor.map((f) => f.id), ...home.rooms[r].wall.map((w) => w.id)]));
+  const inventory = HOME_ITEMS.filter((i) => owned.has(i.id) && (i.kind === "floor" || i.kind === "wall") && !placedIds.has(i.id));
+  const themesOwned = HOME_ITEMS.filter((i) => owned.has(i.id) && (i.kind === "wallpaper" || i.kind === "flooring"));
+  const sel = selected ? room.floor.find((f) => f.uid === selected) ?? room.wall.find((w) => w.uid === selected) : undefined;
+  const selItem = sel ? HOME_MAP[sel.id] : undefined;
+  const held = holding ? HOME_MAP[holding] : undefined;
+
+  function go(to: DoorTarget) {
+    resetTools();
+    if (to === "pho") return setWhere({ kind: "street" });
+    // Xuất hiện ở ô trước cửa dẫn ngược về phòng vừa rời
+    const back = ROOMS[to].doors.find((d) => d.to === roomId) ?? ROOMS[to].doors[0];
+    setWhere({ kind: "room", ownerId: owner.id, room: to, entry: doorTile(back) });
+  }
+
+  function onTile(x: number, y: number) {
+    if (held?.kind === "floor") {
+      for (const rot of [0, 1] as const) {
+        if (canPlace(room.floor, held, x, y, rot, undefined, doors)) {
+          setRoom((r) => ({ ...r, floor: [...r.floor, { uid: newId(), id: held.id, x, y, rot }] }));
+          setHolding(undefined);
+          return;
+        }
+      }
+      return flash("Chỗ này chật quá (hoặc chắn cửa), chọn ô khác nhé!");
+    }
+    const f = room.floor.find((p) => p.uid === selected);
+    if (f) {
+      const it = HOME_MAP[f.id];
+      if (canPlace(room.floor, it, x, y, f.rot, f.uid, doors)) setRoom((r) => ({ ...r, floor: r.floor.map((p) => (p.uid === f.uid ? { ...p, x, y } : p)) }));
+      else flash("Không chuyển tới đó được, chật quá!");
+      return;
+    }
+    setSelected(undefined);
+  }
+
+  function onWall(side: "L" | "R", i: number) {
+    const it = held?.kind === "wall" ? held : selItem?.kind === "wall" ? selItem : undefined;
+    if (!it) return;
+    const start = Math.min(i, ROOM_N - it.w);
+    const skip = held ? undefined : selected;
+    if (!canHang(room.wall, it, side, start, skip, doors)) return flash("Chỗ này đã có đồ hoặc có cửa rồi!");
+    if (held) {
+      setRoom((r) => ({ ...r, wall: [...r.wall, { uid: newId(), id: it.id, side, i: start }] }));
+      setHolding(undefined);
+    } else {
+      setRoom((r) => ({ ...r, wall: r.wall.map((w) => (w.uid === selected ? { ...w, side, i: start } : w)) }));
+    }
+  }
+
+  function rotate() {
+    const f = room.floor.find((p) => p.uid === selected);
+    if (!f) return;
+    const it = HOME_MAP[f.id];
+    const rot = (f.rot ? 0 : 1) as 0 | 1;
+    if (canPlace(room.floor, it, f.x, f.y, rot, f.uid, doors)) setRoom((r) => ({ ...r, floor: r.floor.map((p) => (p.uid === f.uid ? { ...p, rot } : p)) }));
+    else flash("Không đủ chỗ để xoay!");
+  }
+
+  function store() {
+    setRoom((r) => ({ ...r, floor: r.floor.filter((p) => p.uid !== selected), wall: r.wall.filter((w) => w.uid !== selected) }));
+    setSelected(undefined);
+  }
+
+  function applyTheme(it: HomeItem) {
+    setRoom((r) => (it.kind === "wallpaper" ? { ...r, wallpaper: it.id } : { ...r, flooring: it.id }));
+  }
+
+  function buy(it: HomeItem) {
+    onChange((p) => (p.coins >= it.price && !p.owned.includes(it.id) ? { ...p, coins: p.coins - it.price, owned: [...p.owned, it.id] } : p));
+    setTrial(null);
+    if (it.kind === "wallpaper" || it.kind === "flooring") {
+      applyTheme(it);
+      flash(`Đã đổi ${ROOMS[roomId].name.toLowerCase()} sang ${it.name}!`);
+    } else {
+      setMode("arrange");
+      setSelected(undefined);
+      setHolding(it.id);
+    }
+  }
+
+  const shopItems = HOME_ITEMS.filter((i) => i.cat === cat).sort((a, b) => Number(!a.starter) - Number(!b.starter) || a.price - b.price);
+
+  return (
+    <div className="stack">
+      <div className="topbar">
+        <button className="btn" onClick={onBack}>
+          ← Sảnh
+        </button>
+        <span className="pill pill-coin">⭐ {me.coins}</span>
+      </div>
+      <h1>
+        {ROOMS[roomId].icon} {ROOMS[roomId].name}
+      </h1>
+      <div className="muted" style={{ marginTop: -8 }}>
+        <button className="btn btn-ghost" style={{ padding: "0 4px" }} onClick={() => setWhere({ kind: "street" })}>
+          🏘️ Khu phố
+        </button>
+        › Nhà {owner.name} › {ROOMS[roomId].name}
+      </div>
+
+      {/* Chuyển phòng nhanh */}
+      <div className="tabs">
+        {ROOM_ORDER.map((r) => (
+          <button
+            key={r}
+            className={`tab ${r === roomId ? "on" : ""}`}
+            onClick={() => {
+              resetTools();
+              setWhere({ kind: "room", ownerId: owner.id, room: r, entry: doorTile(ROOMS[r].doors.find((d) => d.to !== "pho") ?? ROOMS[r].doors[0]) });
+            }}
+          >
+            {ROOMS[r].icon} {ROOMS[r].name}
+          </button>
+        ))}
+      </div>
+
+      {mine ? (
+        <div className="tabs">
+          {([
+            ["play", "🚶 Đi dạo"],
+            ["arrange", "✏️ Sắp xếp"],
+            ["shop", "🛒 Cửa hàng nội thất"],
+          ] as [Mode, string][]).map(([m, label]) => (
+            <button
+              key={m}
+              className={`tab ${mode === m ? "on" : ""}`}
+              onClick={() => {
+                setMode(m);
+                resetTools();
+              }}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
+      ) : (
+        <div className="banner">👋 Con đang đi thăm nhà {owner.name}. Chỉ chủ nhà mới sắp xếp được đồ nhé!</div>
+      )}
+
+      {mode !== "shop" && (
+        <div className="room-card">
+          <Room
+            key={`${owner.id}-${roomId}`}
+            room={room}
+            doors={doors}
+            entry={where.entry}
+            onDoor={go}
+            look={me.look}
+            mode={mine && mode === "arrange" ? "arrange" : "play"}
+            selectedUid={selected}
+            wallTarget={held?.kind === "wall" || selItem?.kind === "wall"}
+            onTile={onTile}
+            onWall={onWall}
+            onItem={(uid) => {
+              setHolding(undefined);
+              setSelected(uid === selected ? undefined : uid);
+            }}
+          />
+        </div>
+      )}
+
+      {msg && <div className="banner pop">{msg}</div>}
+
+      {(mode === "play" || !mine) && (
+        <div className="muted center">Chạm vào sàn để đi. Chạm vào cửa để sang phòng khác hoặc ra phố. Chạm vào nhân vật để nhảy lên!</div>
+      )}
+
+      {mine && mode === "arrange" && (
+        <div className="stack">
+          {held && (
+            <div className="card row between pop">
+              <span>
+                Đang cầm <strong>{held.name}</strong>: chạm vào {held.kind === "wall" ? "tường (ô vàng)" : "sàn"} để đặt.
+              </span>
+              <button className="btn" onClick={() => setHolding(undefined)}>
+                Thôi
+              </button>
+            </div>
+          )}
+          {sel && selItem && (
+            <div className="card stack pop">
+              <strong>{selItem.name}</strong>
+              <span className="muted" style={{ fontSize: 14 }}>
+                Chạm vào {selItem.kind === "wall" ? "chỗ khác trên tường" : "ô khác trên sàn"} để chuyển tới đó.
+              </span>
+              <div className="row wrap">
+                {selItem.kind === "floor" && selItem.w !== selItem.d && (
+                  <button className="btn" onClick={rotate}>
+                    ↻ Xoay
+                  </button>
+                )}
+                <button className="btn" onClick={store}>
+                  📦 Cất vào kho
+                </button>
+                <button className="btn btn-primary" onClick={() => setSelected(undefined)}>
+                  Xong
+                </button>
+              </div>
+            </div>
+          )}
+          {!held && !sel && (
+            <>
+              <strong>📦 Kho đồ ({inventory.length})</strong>
+              {inventory.length === 0 && <div className="muted">Kho trống. Vào 🛒 Cửa hàng nội thất để mua thêm đồ nhé!</div>}
+              <div className="items">
+                {inventory.map((it) => (
+                  <button key={it.id} className={`item r-${it.rarity}`} onClick={() => setHolding(it.id)}>
+                    <HomeThumb item={it} size={70} />
+                    <span>{it.name}</span>
+                  </button>
+                ))}
+              </div>
+              <strong>🎨 Tường và sàn cho {ROOMS[roomId].name.toLowerCase()}</strong>
+              <div className="items">
+                {themesOwned.map((it) => {
+                  const on = room.wallpaper === it.id || room.flooring === it.id;
+                  return (
+                    <button key={it.id} className={`item r-${it.rarity} ${on ? "on" : ""}`} onClick={() => applyTheme(it)}>
+                      <HomeThumb item={it} size={60} />
+                      <span>{it.name}</span>
+                    </button>
+                  );
+                })}
+              </div>
+              <div className="muted" style={{ fontSize: 14 }}>
+                Chạm vào đồ trong phòng để chuyển chỗ, xoay hoặc cất vào kho. Đồ trong kho đặt được ở bất kì phòng nào.
+              </div>
+            </>
+          )}
+        </div>
+      )}
+
+      {mine && mode === "shop" && (
+        <div className="stack">
+          <div className="muted">Đồ mua xong sẽ đặt vào {ROOMS[roomId].name.toLowerCase()}.</div>
+          <div className="tabs">
+            {HOME_CATS.map((c) => (
+              <button
+                key={c.id}
+                className={`tab ${cat === c.id ? "on" : ""}`}
+                onClick={() => {
+                  setCat(c.id);
+                  setTrial(null);
+                }}
+              >
+                {c.icon} {c.label}
+              </button>
+            ))}
+          </div>
+          <div className="items">
+            {shopItems.map((it) => {
+              const has = owned.has(it.id);
+              return (
+                <button key={it.id} className={`item r-${it.rarity} ${trial?.id === it.id ? "on" : ""}`} onClick={() => setTrial(it)}>
+                  <HomeThumb item={it} size={76} />
+                  <span>{it.name}</span>
+                  {has ? <span className="tag">✅</span> : <span className="price">⭐ {it.price}</span>}
+                </button>
+              );
+            })}
+          </div>
+          {trial && (
+            <div className={`card shop-panel pop r-${trial.rarity}`}>
+              <div className="row between wrap">
+                <div className="row">
+                  <HomeThumb item={trial} size={64} />
+                  <div>
+                    <strong style={{ fontSize: 19 }}>{trial.name}</strong>{" "}
+                    <span className="rarity" style={{ background: RARITY[trial.rarity].color }}>
+                      {RARITY[trial.rarity].label}
+                    </span>
+                    <div className="muted" style={{ fontSize: 14 }}>
+                      {owned.has(trial.id)
+                        ? "Con đã có món này."
+                        : me.coins >= trial.price
+                          ? `Giá ${trial.price} xu`
+                          : `Giá ${trial.price} xu – cần thêm ${trial.price - me.coins} xu`}
+                    </div>
+                  </div>
+                </div>
+                <div className="row">
+                  <button className="btn" onClick={() => setTrial(null)}>
+                    Thôi
+                  </button>
+                  {!owned.has(trial.id) && (
+                    <button className="btn btn-gold" disabled={me.coins < trial.price} onClick={() => buy(trial)}>
+                      Mua ⭐ {trial.price}
+                    </button>
+                  )}
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}

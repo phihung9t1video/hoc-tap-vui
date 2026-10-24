@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { isBuiltinId, reportBuiltin } from "@/lib/builtin";
 import { reportCloudQuestion } from "@/lib/cloud";
 import { reportQuestion } from "@/lib/storage";
 import type { AnswerLog, Profile, QuizItem } from "@/lib/types";
@@ -58,7 +59,8 @@ export function Quiz({
 
   function report() {
     if (!q) return;
-    if (!demo) {
+    if (isBuiltinId(q.id)) reportBuiltin(q.id);
+    else if (!demo) {
       reportQuestion(q.bankKey, q.id);
       void reportCloudQuestion(q.id);
     }
@@ -141,8 +143,26 @@ export function Quiz({
 
       {picked !== null && (
         <div className={`feedback pop ${correct ? "ok" : "no"}`}>
-          <strong>{correct ? praise : "Chưa đúng rồi, xem lời giải nhé 💪"}</strong>
-          <div style={{ marginTop: 4 }}>{q.explanation}</div>
+          {correct ? (
+            <>
+              <strong>{praise}</strong>
+              <details style={{ marginTop: 4 }}>
+                <summary style={{ cursor: "pointer", color: "var(--ink-2)" }}>Xem lời giải</summary>
+                <div style={{ marginTop: 4 }}>{q.explanation}</div>
+              </details>
+            </>
+          ) : (
+            <>
+              <strong>Chưa đúng rồi, không sao cả! 💪</strong>
+              <div className="guide">
+                <div className="guide-title">💡 Hướng dẫn</div>
+                <div>
+                  Đáp án đúng là <strong>{KEYS[q.answerIndex]}: {q.options[q.answerIndex]}</strong>
+                </div>
+                <div style={{ marginTop: 4 }}>{q.explanation}</div>
+              </div>
+            </>
+          )}
         </div>
       )}
 

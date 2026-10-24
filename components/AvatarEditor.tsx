@@ -8,6 +8,10 @@ import { Avatar, SpinAvatar } from "./Avatar";
 
 const THUMB: Record<Crop, number> = { head: 74, full: 62, pet: 64, toy: 76 };
 
+/** Đồ có sẵn trước, rồi theo giá tăng dần, đồ thành tích ở cuối */
+const shopOrder = (a: Item, b: Item) =>
+  Number(!a.starter) - Number(!b.starter) || Number(!!a.achievement) - Number(!!b.achievement) || a.price - b.price;
+
 export function AvatarEditor({
   look,
   owned,
@@ -77,7 +81,7 @@ export function AvatarEditor({
       {needsPet && <div className="banner">🐾 Con chưa có thú cưng. Chọn thú cưng ở mục 🐱 trước để đeo đồ cho bạn ấy nhé!</div>}
 
       <div className="items">
-        {ITEMS.filter((i) => i.slot === slot).map((item) => {
+        {ITEMS.filter((i) => i.slot === slot).sort(shopOrder).map((item) => {
           const has = owned.has(item.id);
           const on = look[slot] === item.id || trial?.id === item.id;
           return (

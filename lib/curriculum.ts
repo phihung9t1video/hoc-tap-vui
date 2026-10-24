@@ -1,3 +1,4 @@
+import { MORE_COURSES } from "./courses";
 import type { Subject } from "./types";
 
 export interface Chapter {
@@ -14,12 +15,24 @@ export interface Course {
 
 export const SUBJECTS: Record<Subject, { name: string; icon: string; color: string }> = {
   toan: { name: "Toán", icon: "📐", color: "#3b82f6" },
+  tiengviet: { name: "Tiếng Việt", icon: "✏️", color: "#f97316" },
+  nguvan: { name: "Ngữ văn", icon: "📖", color: "#f97316" },
   tienganh: { name: "Tiếng Anh", icon: "🔤", color: "#10b981" },
+  tnxh: { name: "Tự nhiên và Xã hội", icon: "🌳", color: "#65a30d" },
+  khoahoc: { name: "Khoa học", icon: "🔬", color: "#0891b2" },
+  khtn: { name: "Khoa học tự nhiên", icon: "🧪", color: "#0891b2" },
+  lsdl: { name: "Lịch sử và Địa lí", icon: "🌏", color: "#a16207" },
+  tinhoc: { name: "Tin học", icon: "💻", color: "#7c3aed" },
 };
 
-export const GRADES = [3, 7];
+export const GRADES = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-export const COURSES: Record<string, Course> = {
+/** Các môn có mục lục cho một lớp, theo thứ tự hiển thị */
+export function subjectsForGrade(grade: number): Subject[] {
+  return (Object.keys(SUBJECTS) as Subject[]).filter((s) => COURSES[`${grade}|${s}`]);
+}
+
+const BOOK_COURSES: Record<string, Course> = {
   "3|toan": {
     book: "Toán 3 – Kết nối tri thức với cuộc sống",
     chapters: [
@@ -101,6 +114,8 @@ export const COURSES: Record<string, Course> = {
     ],
   },
 };
+
+export const COURSES: Record<string, Course> = { ...MORE_COURSES, ...BOOK_COURSES };
 
 export function getCourse(grade: number, subject: Subject): Course | undefined {
   return COURSES[`${grade}|${subject}`];

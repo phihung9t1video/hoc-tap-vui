@@ -1,10 +1,12 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { HOME_MAP } from "@/lib/home";
 import { ITEM_MAP, RARITY } from "@/lib/items";
 import type { QuizOutcome } from "@/lib/rewards";
 import type { Profile } from "@/lib/types";
 import { Avatar } from "./Avatar";
+import { HomeThumb } from "./Room";
 
 function Confetti() {
   const bits = useMemo(
@@ -34,6 +36,23 @@ function scoreMessage(score: number) {
 }
 
 function NewItem({ id, profile, onWear }: { id: string; profile: Profile; onWear: (id: string) => void }) {
+  const home = HOME_MAP[id];
+  if (home) {
+    return (
+      <div className={`card center pop stack r-${home.rarity}`} style={{ alignItems: "center" }}>
+        <HomeThumb item={home} size={130} />
+        <div>
+          <strong style={{ fontSize: 20 }}>{home.name}</strong>{" "}
+          <span className="rarity" style={{ background: RARITY[home.rarity].color }}>
+            {RARITY[home.rarity].label}
+          </span>
+        </div>
+        <button className="btn btn-gold" onClick={() => onWear(id)}>
+          🏠 Mang về nhà
+        </button>
+      </div>
+    );
+  }
   const item = ITEM_MAP[id];
   const worn = profile.look[item.slot] === id;
   return (

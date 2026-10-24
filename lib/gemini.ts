@@ -93,19 +93,49 @@ const VERIFY_SCHEMA = {
 };
 
 function subjectRules(subject: Subject, grade: number) {
-  if (subject === "toan") {
-    return [
-      "Viết biểu thức bằng ký hiệu thông thường, KHÔNG dùng LaTeX: dùng × cho phép nhân, : cho phép chia, phân số viết a/b, số mũ dùng ký tự ² ³, căn bậc hai dùng √, số thập phân dùng dấu phẩy (ví dụ 2,5), số âm dùng dấu −.",
-      "Có cả câu tính toán và bài toán có lời văn gắn với đời sống.",
-    ];
+  const young = grade <= 2 ? ["Học sinh 6–7 tuổi: mỗi câu hỏi và phương án thật ngắn (dưới 15 từ), từ ngữ quen thuộc."] : [];
+  switch (subject) {
+    case "toan":
+      return [
+        ...young,
+        "Viết biểu thức bằng ký hiệu thông thường, KHÔNG dùng LaTeX: dùng × cho phép nhân, : cho phép chia, phân số viết a/b, số mũ dùng ký tự ² ³, căn bậc hai dùng √, số thập phân dùng dấu phẩy (ví dụ 2,5), số âm dùng dấu −.",
+        "Có cả câu tính toán và bài toán có lời văn gắn với đời sống.",
+      ];
+    case "tienganh":
+      return [
+        grade <= 5
+          ? "Câu hỏi và phương án bằng tiếng Anh đơn giản; có thể thêm hướng dẫn ngắn bằng tiếng Việt ở đầu câu (ví dụ: 'Chọn từ đúng:')."
+          : "Câu hỏi và phương án bằng tiếng Anh.",
+        "Các dạng bài: chọn từ hoặc cụm từ đúng điền vào chỗ trống, chọn nghĩa của từ, chọn câu trả lời phù hợp cho câu hỏi, tìm từ khác loại, ngữ pháp của bài. Không có bài nghe, không cần tranh.",
+        "Chỉ dùng từ vựng và cấu trúc thuộc chương trình đã học đến chủ đề này.",
+      ];
+    case "tiengviet":
+    case "nguvan":
+      return [
+        ...young,
+        "Viết bằng tiếng Việt chuẩn, đúng chính tả.",
+        "Nếu cần ngữ liệu đọc hiểu, tự viết đoạn văn hoặc đoạn thơ ngắn (2–5 câu) ngay trong câu hỏi; chỉ trích tối đa 1–2 câu thơ, câu văn nổi tiếng quen thuộc trong sách giáo khoa và ghi rõ tác giả.",
+        "Dạng bài: nhận biết từ loại, biện pháp tu từ, chính tả, dấu câu, nghĩa của từ, thành ngữ tục ngữ, đặc điểm thể loại, đọc hiểu đoạn ngắn.",
+      ];
+    case "tnxh":
+    case "khoahoc":
+    case "khtn":
+      return [
+        ...young,
+        "Kiến thức khoa học phải chính xác tuyệt đối, phù hợp sách giáo khoa; ưu tiên câu hỏi gắn với hiện tượng trong đời sống.",
+        grade >= 6 ? "Có thể có bài tính toán đơn giản; dùng đơn vị đo chuẩn (m, kg, s, N, J, W, V, A, °C), không dùng LaTeX." : "Không có tính toán phức tạp.",
+      ];
+    case "lsdl":
+      return [
+        "Mốc thời gian, nhân vật, sự kiện, số liệu địa lí phải chính xác theo sách giáo khoa Việt Nam; tránh chi tiết còn tranh cãi.",
+        "Có cả câu về Lịch sử và câu về Địa lí nếu chủ đề bao gồm cả hai.",
+      ];
+    case "tinhoc":
+      return [
+        "Kiến thức tin học phổ thông, không phụ thuộc phiên bản phần mềm cụ thể; câu hỏi gắn với tình huống sử dụng máy tính thực tế.",
+        "Câu hỏi về thuật toán có thể mô tả bằng các bước hoặc đoạn mã giả rất ngắn.",
+      ];
   }
-  return [
-    grade <= 5
-      ? "Câu hỏi và phương án bằng tiếng Anh đơn giản; có thể thêm hướng dẫn ngắn bằng tiếng Việt ở đầu câu (ví dụ: 'Chọn từ đúng:')."
-      : "Câu hỏi và phương án bằng tiếng Anh.",
-    "Các dạng bài: chọn từ hoặc cụm từ đúng điền vào chỗ trống, chọn nghĩa của từ, chọn câu trả lời phù hợp cho câu hỏi, tìm từ khác loại, ngữ pháp của bài. Không có bài nghe, không cần tranh.",
-    "Chỉ dùng từ vựng và cấu trúc thuộc chương trình đã học đến chủ đề này.",
-  ];
 }
 
 function buildPrompt(grade: number, subject: Subject, book: string, chapterName: string, topics: string, count: number, avoid: string[]) {
@@ -179,7 +209,10 @@ export async function generateQuestions(
   const course = getCourse(req.grade, req.subject);
   const chapter = findChapter(req.grade, req.subject, req.chapterId);
   if (!course || !chapter) return { error: "Không tìm thấy lớp, môn hoặc chương này." };
-  if (!keys.length) return { questions: demoQuestions(req.grade, req.subject).map(shuffleOptions), demo: true };
+  if (!keys.length) {
+    const demo = demoQuestions(req.grade, req.subject).map(shuffleOptions);
+    return demo.length ? { questions: demo, demo: true } : { error: "Môn này chưa có đề mẫu. Bố mẹ vào Cài đặt nhập khóa Gemini để AI soạn đề nhé!" };
+  }
 
   try {
     const prompt = buildPrompt(req.grade, req.subject, course.book, chapter.name, chapter.topics, req.count, req.avoid.slice(-40));

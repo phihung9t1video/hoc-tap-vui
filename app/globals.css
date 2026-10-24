@@ -258,3 +258,12 @@ h2 { font-size: 24px; }
   100% { opacity: 0; transform: translate(-10px, -110px) scale(0.2) rotate(-260deg); }
 }
 @media (prefers-reduced-motion: reduce) { .fs { animation: none; opacity: 0; } }
+
+/* ---------- Ngôi nhà ---------- */
+.room-card {
+  border-radius: 24px; overflow: hidden; border: 3px solid #fff; box-shadow: var(--shadow);
+  background: radial-gradient(circle at 50% 30%, #fff7ed, #fde7cf);
+}
+.home-selected { filter: drop-shadow(0 0 3px #f59e0b) drop-shadow(0 0 6px #fbbf24); }
+.guide { margin-top: 8px; background: #fff; border: 2px dashed #f59e0b; border-radius: 14px; padding: 10px 12px; }
+.guide-title { font-weight: 800; color: #b45309; margin-bottom: 4px; }

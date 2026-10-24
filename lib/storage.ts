@@ -1,3 +1,4 @@
+import { HOME_STARTER_IDS, migrateHome } from "./home";
 import type { AppData, Question } from "./types";
 
 const DATA_KEY = "hoctap_data_v1";
@@ -20,7 +21,14 @@ function saveJSON(key: string, value: unknown) {
   }
 }
 
-export const loadData = (): AppData => loadJSON<AppData>(DATA_KEY, { profiles: [], settings: { dailyCap: 400 } });
+export function loadData(): AppData {
+  const d = loadJSON<AppData>(DATA_KEY, { profiles: [], settings: { dailyCap: 400 } });
+  // Hồ sơ tạo từ bản cũ: chuyển sang nhà nhiều phòng, bổ sung đồ nhà có sẵn
+  d.profiles = d.profiles.map((p) =>
+    ({ ...p, home: migrateHome(p.home), owned: [...new Set([...p.owned, ...HOME_STARTER_IDS])] }),
+  );
+  return d;
+}
 export const saveData = (d: AppData) => saveJSON(DATA_KEY, d);
 
 // ---------- Ngân hàng câu hỏi (dùng chung cho các con cùng lớp) ----------
