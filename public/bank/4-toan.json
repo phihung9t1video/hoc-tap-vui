@@ -1,0 +1,4424 @@
+{
+ "c1": [
+  [
+   "Điền dấu: 5 316 253 ... 5 315 253",
+   [
+    ">",
+    "<",
+    "=",
+    "+"
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 5 316 253 > 5 315 253."
+  ],
+  [
+   "Số \"chín mươi sáu nghìn bốn trăm ba mươi mốt\" viết là:",
+   [
+    "96 431",
+    "9 643",
+    "196 431",
+    "964 310"
+   ],
+   "Viết từng lớp: 96 431."
+  ],
+  [
+   "Trong số 679 223, chữ số 2 ở hàng trăm có giá trị là:",
+   [
+    "200",
+    "2 000",
+    "2",
+    "20 000"
+   ],
+   "Chữ số 2 đứng ở hàng trăm nên có giá trị 200."
+  ],
+  [
+   "Điền dấu: 95 083 700 ... 95 084 700",
+   [
+    "<",
+    "+",
+    "=",
+    ">"
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 95 083 700 < 95 084 700."
+  ],
+  [
+   "Trong số 85 033, chữ số 0 thuộc hàng nào?",
+   [
+    "Hàng trăm",
+    "Hàng chục",
+    "Hàng chục nghìn",
+    "Hàng đơn vị"
+   ],
+   "Đếm từ phải sang trái: đơn vị, chục, trăm, nghìn,... chữ số 0 ở hàng trăm."
+  ],
+  [
+   "Số 22 353 là số chẵn hay số lẻ?",
+   [
+    "Số lẻ",
+    "Vừa chẵn vừa lẻ",
+    "Không chẵn không lẻ",
+    "Số chẵn"
+   ],
+   "Chữ số tận cùng là 3 nên 22 353 là số lẻ."
+  ],
+  [
+   "Làm tròn số 66 359 đến hàng nghìn được:",
+   [
+    "66 000",
+    "68 000",
+    "66 400",
+    "65 000"
+   ],
+   "Xét chữ số ngay sau hàng nghìn: nhỏ hơn 5 thì giữ nguyên, từ 5 trở lên thì cộng thêm 1 vào hàng nghìn. Kết quả 66 000."
+  ],
+  [
+   "Điền dấu: 352 401 ... 352 402",
+   [
+    "<",
+    ">",
+    "+",
+    "="
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 352 401 < 352 402."
+  ],
+  [
+   "Trong số 62 964 953, chữ số 4 ở hàng nghìn có giá trị là:",
+   [
+    "4 000",
+    "4",
+    "40 000",
+    "400"
+   ],
+   "Chữ số 4 đứng ở hàng nghìn nên có giá trị 4 000."
+  ],
+  [
+   "Điền dấu: 296 949 707 ... 726 371 660",
+   [
+    "<",
+    ">",
+    "+",
+    "="
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 296 949 707 < 726 371 660."
+  ],
+  [
+   "Số \"chín trăm mười bốn triệu bốn trăm bảy mươi ba nghìn bốn trăm sáu mươi bốn\" viết là:",
+   [
+    "914 473 464",
+    "9 144 734 640",
+    "914 573 464",
+    "91 447 346"
+   ],
+   "Viết từng lớp: 914 473 464."
+  ],
+  [
+   "Trong số 94 746, chữ số 7 ở hàng trăm có giá trị là:",
+   [
+    "700",
+    "70",
+    "7",
+    "7 000"
+   ],
+   "Chữ số 7 đứng ở hàng trăm nên có giá trị 700."
+  ],
+  [
+   "Số 5 755 154 đọc là:",
+   [
+    "Năm triệu bảy trăm năm mươi lăm nghìn một trăm năm mươi bốn",
+    "Năm triệu bảy trăm năm mươi lăm nghìn một trăm sáu mươi bốn",
+    "Năm trăm bảy mươi lăm nghìn năm trăm mười lăm",
+    "Năm mươi bảy triệu năm trăm năm mươi mốt nghìn năm trăm bốn mươi"
+   ],
+   "Tách lớp ba chữ số từ phải sang trái rồi đọc: năm triệu bảy trăm năm mươi lăm nghìn một trăm năm mươi bốn."
+  ],
+  [
+   "Số \"ba mươi ba nghìn một trăm bảy mươi hai\" viết là:",
+   [
+    "33 172",
+    "3 317",
+    "331 720",
+    "34 172"
+   ],
+   "Viết từng lớp: 33 172."
+  ],
+  [
+   "Số 93 379 là số chẵn hay số lẻ?",
+   [
+    "Số lẻ",
+    "Vừa chẵn vừa lẻ",
+    "Số chẵn",
+    "Không chẵn không lẻ"
+   ],
+   "Chữ số tận cùng là 9 nên 93 379 là số lẻ."
+  ],
+  [
+   "Trong số 7 363 615, chữ số 6 ở hàng chục nghìn có giá trị là:",
+   [
+    "60 000",
+    "6 000",
+    "6 000 000",
+    "600 000"
+   ],
+   "Chữ số 6 đứng ở hàng chục nghìn nên có giá trị 60 000."
+  ],
+  [
+   "Điền dấu: 78 849 ... 80 705",
+   [
+    "<",
+    ">",
+    "+",
+    "="
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 78 849 < 80 705."
+  ],
+  [
+   "Điền dấu: 35 002 ... 28 240 723",
+   [
+    "<",
+    "+",
+    ">",
+    "="
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 35 002 < 28 240 723."
+  ],
+  [
+   "Số 627 011 đọc là:",
+   [
+    "Sáu trăm hai mươi bảy nghìn không trăm mười một",
+    "Sáu trăm hai mươi bảy nghìn không trăm hai mươi mốt",
+    "Sáu triệu hai trăm bảy mươi nghìn một trăm mười",
+    "Sáu mươi hai nghìn bảy trăm linh một"
+   ],
+   "Tách lớp ba chữ số từ phải sang trái rồi đọc: sáu trăm hai mươi bảy nghìn không trăm mười một."
+  ],
+  [
+   "Điền dấu: 84 020 874 ... 90 098 660",
+   [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 84 020 874 < 90 098 660."
+  ],
+  [
+   "Số \"hai mươi bảy triệu một trăm năm mươi bảy nghìn bảy trăm mười\" viết là:",
+   [
+    "27 157 710",
+    "2 715 771",
+    "271 577 100",
+    "27 158 710"
+   ],
+   "Viết từng lớp: 27 157 710."
+  ],
+  [
+   "Số 86 205 là số chẵn hay số lẻ?",
+   [
+    "Số lẻ",
+    "Số chẵn",
+    "Không chẵn không lẻ",
+    "Vừa chẵn vừa lẻ"
+   ],
+   "Chữ số tận cùng là 5 nên 86 205 là số lẻ."
+  ],
+  [
+   "Làm tròn số 837 357 đến hàng chục nghìn được:",
+   [
+    "840 000",
+    "837 000",
+    "830 000",
+    "860 000"
+   ],
+   "Xét chữ số ngay sau hàng chục nghìn: nhỏ hơn 5 thì giữ nguyên, từ 5 trở lên thì cộng thêm 1 vào hàng chục nghìn. Kết quả 840 000."
+  ],
+  [
+   "Điền dấu: 566 313 136 ... 566 313 137",
+   [
+    "<",
+    ">",
+    "+",
+    "="
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 566 313 136 < 566 313 137."
+  ],
+  [
+   "Điền dấu: 36 539 863 ... 36 540 863",
+   [
+    "<",
+    ">",
+    "+",
+    "="
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 36 539 863 < 36 540 863."
+  ],
+  [
+   "Số 51 694 là số chẵn hay số lẻ?",
+   [
+    "Số chẵn",
+    "Số lẻ",
+    "Vừa chẵn vừa lẻ",
+    "Không chẵn không lẻ"
+   ],
+   "Chữ số tận cùng là 4 nên 51 694 là số chẵn."
+  ],
+  [
+   "Trong số 24 069, chữ số 4 thuộc hàng nào?",
+   [
+    "Hàng nghìn",
+    "Hàng chục nghìn",
+    "Hàng chục",
+    "Hàng trăm nghìn"
+   ],
+   "Đếm từ phải sang trái: đơn vị, chục, trăm, nghìn,... chữ số 4 ở hàng nghìn."
+  ],
+  [
+   "Số 58 148 là số chẵn hay số lẻ?",
+   [
+    "Số chẵn",
+    "Không chẵn không lẻ",
+    "Số lẻ",
+    "Vừa chẵn vừa lẻ"
+   ],
+   "Chữ số tận cùng là 8 nên 58 148 là số chẵn."
+  ],
+  [
+   "Số 31 112 là số chẵn hay số lẻ?",
+   [
+    "Số chẵn",
+    "Số lẻ",
+    "Vừa chẵn vừa lẻ",
+    "Không chẵn không lẻ"
+   ],
+   "Chữ số tận cùng là 2 nên 31 112 là số chẵn."
+  ],
+  [
+   "Trong số 191 027 082, chữ số 9 ở hàng chục triệu có giá trị là:",
+   [
+    "90 000 000",
+    "9",
+    "9 000 000",
+    "9 000 000 000"
+   ],
+   "Chữ số 9 đứng ở hàng chục triệu nên có giá trị 90 000 000."
+  ],
+  [
+   "Số 61 346 781 đọc là:",
+   [
+    "Sáu mươi mốt triệu ba trăm bốn mươi sáu nghìn bảy trăm tám mươi mốt",
+    "Sáu triệu một trăm ba mươi bốn nghìn sáu trăm bảy mươi tám",
+    "Sáu trăm mười ba triệu bốn trăm sáu mươi bảy nghìn tám trăm mười",
+    "Sáu mươi mốt triệu ba trăm bốn mươi sáu nghìn bảy trăm chín mươi mốt"
+   ],
+   "Tách lớp ba chữ số từ phải sang trái rồi đọc: sáu mươi mốt triệu ba trăm bốn mươi sáu nghìn bảy trăm tám mươi mốt."
+  ],
+  [
+   "Trong số 63 623 410, chữ số 1 thuộc hàng nào?",
+   [
+    "Hàng chục",
+    "Hàng chục triệu",
+    "Hàng nghìn",
+    "Hàng đơn vị"
+   ],
+   "Đếm từ phải sang trái: đơn vị, chục, trăm, nghìn,... chữ số 1 ở hàng chục."
+  ],
+  [
+   "Trong số 128 412 889, chữ số 8 ở hàng chục có giá trị là:",
+   [
+    "80",
+    "800",
+    "8",
+    "8 000"
+   ],
+   "Chữ số 8 đứng ở hàng chục nên có giá trị 80."
+  ],
+  [
+   "Trong số 5 946 196, chữ số 6 ở hàng nghìn có giá trị là:",
+   [
+    "6 000",
+    "600 000",
+    "6",
+    "60 000"
+   ],
+   "Chữ số 6 đứng ở hàng nghìn nên có giá trị 6 000."
+  ],
+  [
+   "Trong số 20 996, chữ số 6 ở hàng đơn vị có giá trị là:",
+   [
+    "6",
+    "60",
+    "600",
+    "0"
+   ],
+   "Chữ số 6 đứng ở hàng đơn vị nên có giá trị 6."
+  ],
+  [
+   "Trong số 176 993, chữ số 9 ở hàng trăm có giá trị là:",
+   [
+    "900",
+    "9 000",
+    "9",
+    "90"
+   ],
+   "Chữ số 9 đứng ở hàng trăm nên có giá trị 900."
+  ],
+  [
+   "Điền dấu: 2 321 121 ... 2 421 121",
+   [
+    "<",
+    "=",
+    ">",
+    "+"
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 2 321 121 < 2 421 121."
+  ],
+  [
+   "Số \"mười chín triệu bốn trăm bốn mươi nghìn bảy trăm sáu mươi ba\" viết là:",
+   [
+    "19 440 763",
+    "19 441 763",
+    "194 407 630",
+    "19 540 763"
+   ],
+   "Viết từng lớp: 19 440 763."
+  ],
+  [
+   "Điền dấu: 26 820 876 ... 26 820 877",
+   [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "So sánh số chữ số, rồi so sánh từng hàng từ trái sang phải: 26 820 876 < 26 820 877."
+  ],
+  [
+   "Số 820 490 đọc là:",
+   [
+    "Tám trăm hai mươi nghìn bốn trăm chín mươi",
+    "Tám trăm hai mươi nghìn năm trăm",
+    "Tám mươi hai nghìn không trăm bốn mươi chín",
+    "Tám trăm hai mươi mốt nghìn bốn trăm chín mươi"
+   ],
+   "Tách lớp ba chữ số từ phải sang trái rồi đọc: tám trăm hai mươi nghìn bốn trăm chín mươi."
+  ]
+ ],
+ "c2": [
+  [
+   "Góc có số đo 89° là:",
+   [
+    "Góc nhọn",
+    "Góc bẹt",
+    "Góc tù",
+    "Góc vuông"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Hai cạnh kề nhau của hình vuông thì:",
+   [
+    "Vuông góc với nhau",
+    "Song song với nhau",
+    "Không cắt nhau",
+    "Trùng nhau"
+   ],
+   "Mọi góc của hình vuông đều là góc vuông."
+  ],
+  [
+   "Lúc 2 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc nhọn",
+    "Góc bẹt",
+    "Góc tù",
+    "Góc vuông"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 2 giờ hai kim cách nhau 60°."
+  ],
+  [
+   "Hai đường thẳng vuông góc tạo thành mấy góc vuông?",
+   [
+    "4 góc vuông",
+    "1 góc vuông",
+    "2 góc vuông",
+    "3 góc vuông"
+   ],
+   "Hai đường thẳng vuông góc cắt nhau tạo thành 4 góc vuông chung đỉnh."
+  ],
+  [
+   "Dụng cụ dùng để kiểm tra góc vuông là:",
+   [
+    "Ê-ke",
+    "Com-pa",
+    "Cân",
+    "Thước dây"
+   ],
+   "Ê-ke có một góc vuông để kiểm tra và vẽ góc vuông."
+  ],
+  [
+   "Góc A bằng 129°, góc B bằng 52°. Khẳng định nào đúng?",
+   [
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Không so sánh được",
+    "Góc B lớn hơn góc A"
+   ],
+   "So sánh số đo: 129° > 52°."
+  ],
+  [
+   "Lúc 5 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc tù",
+    "Góc nhọn",
+    "Góc vuông",
+    "Góc bẹt"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 5 giờ hai kim cách nhau 150°."
+  ],
+  [
+   "Dụng cụ dùng để đo góc là:",
+   [
+    "Thước đo góc",
+    "Thước kẻ thẳng",
+    "Com-pa",
+    "Ê-ke"
+   ],
+   "Thước đo góc có vạch từ 0° đến 180°."
+  ],
+  [
+   "Lúc 10 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc nhọn",
+    "Góc bẹt",
+    "Góc vuông",
+    "Góc tù"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 10 giờ hai kim cách nhau 60°."
+  ],
+  [
+   "Góc A bằng 122°, góc B bằng 110°. Khẳng định nào đúng?",
+   [
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Không so sánh được",
+    "Góc B lớn hơn góc A"
+   ],
+   "So sánh số đo: 122° > 110°."
+  ],
+  [
+   "Góc có số đo 35° là:",
+   [
+    "Góc nhọn",
+    "Góc vuông",
+    "Góc tù",
+    "Góc bẹt"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Góc có số đo 60° là:",
+   [
+    "Góc nhọn",
+    "Góc vuông",
+    "Góc bẹt",
+    "Góc tù"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Lúc 4 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc tù",
+    "Góc bẹt",
+    "Góc nhọn",
+    "Góc vuông"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 4 giờ hai kim cách nhau 120°."
+  ],
+  [
+   "Góc A bằng 42°, góc B bằng 110°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Không so sánh được"
+   ],
+   "So sánh số đo: 110° > 42°."
+  ],
+  [
+   "Góc có số đo 180° là:",
+   [
+    "Góc bẹt",
+    "Góc nhọn",
+    "Góc vuông",
+    "Góc tù"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Góc A bằng 41°, góc B bằng 31°. Khẳng định nào đúng?",
+   [
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Góc B lớn hơn góc A",
+    "Không so sánh được"
+   ],
+   "So sánh số đo: 41° > 31°."
+  ],
+  [
+   "Lúc 8 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc tù",
+    "Góc vuông",
+    "Góc nhọn",
+    "Góc bẹt"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 8 giờ hai kim cách nhau 120°."
+  ],
+  [
+   "Góc có số đo 75° là:",
+   [
+    "Góc nhọn",
+    "Góc bẹt",
+    "Góc tù",
+    "Góc vuông"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Góc A bằng 52°, góc B bằng 163°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Không so sánh được"
+   ],
+   "So sánh số đo: 163° > 52°."
+  ],
+  [
+   "Góc A bằng 49°, góc B bằng 58°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Góc A lớn hơn góc B",
+    "Không so sánh được",
+    "Hai góc bằng nhau"
+   ],
+   "So sánh số đo: 58° > 49°."
+  ],
+  [
+   "Hai đường thẳng song song thì:",
+   [
+    "Không bao giờ cắt nhau",
+    "Cắt nhau tại một điểm",
+    "Cắt nhau tại hai điểm",
+    "Vuông góc với nhau"
+   ],
+   "Hai đường thẳng song song kéo dài mãi cũng không gặp nhau."
+  ],
+  [
+   "Góc A bằng 49°, góc B bằng 143°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Không so sánh được",
+    "Hai góc bằng nhau",
+    "Góc A lớn hơn góc B"
+   ],
+   "So sánh số đo: 143° > 49°."
+  ],
+  [
+   "Góc A bằng 34°, góc B bằng 155°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Hai góc bằng nhau",
+    "Không so sánh được",
+    "Góc A lớn hơn góc B"
+   ],
+   "So sánh số đo: 155° > 34°."
+  ],
+  [
+   "Góc bẹt bằng mấy góc vuông?",
+   [
+    "2 góc vuông",
+    "3 góc vuông",
+    "1 góc vuông",
+    "4 góc vuông"
+   ],
+   "Góc bẹt 180° = 2 × 90°."
+  ],
+  [
+   "Góc A bằng 123°, góc B bằng 161°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Không so sánh được",
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau"
+   ],
+   "So sánh số đo: 161° > 123°."
+  ],
+  [
+   "Góc A bằng 17°, góc B bằng 26°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Không so sánh được",
+    "Hai góc bằng nhau",
+    "Góc A lớn hơn góc B"
+   ],
+   "So sánh số đo: 26° > 17°."
+  ],
+  [
+   "Góc A bằng 120°, góc B bằng 66°. Khẳng định nào đúng?",
+   [
+    "Góc A lớn hơn góc B",
+    "Góc B lớn hơn góc A",
+    "Hai góc bằng nhau",
+    "Không so sánh được"
+   ],
+   "So sánh số đo: 120° > 66°."
+  ],
+  [
+   "Góc A bằng 29°, góc B bằng 39°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Không so sánh được",
+    "Hai góc bằng nhau",
+    "Góc A lớn hơn góc B"
+   ],
+   "So sánh số đo: 39° > 29°."
+  ],
+  [
+   "Góc có số đo 45° là:",
+   [
+    "Góc nhọn",
+    "Góc vuông",
+    "Góc tù",
+    "Góc bẹt"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Góc A bằng 140°, góc B bằng 13°. Khẳng định nào đúng?",
+   [
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Không so sánh được",
+    "Góc B lớn hơn góc A"
+   ],
+   "So sánh số đo: 140° > 13°."
+  ],
+  [
+   "Góc có số đo 135° là:",
+   [
+    "Góc tù",
+    "Góc vuông",
+    "Góc nhọn",
+    "Góc bẹt"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Lúc 6 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc bẹt",
+    "Góc nhọn",
+    "Góc tù",
+    "Góc vuông"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 6 giờ hai kim cách nhau 180°."
+  ],
+  [
+   "Góc A bằng 150°, góc B bằng 68°. Khẳng định nào đúng?",
+   [
+    "Góc A lớn hơn góc B",
+    "Không so sánh được",
+    "Góc B lớn hơn góc A",
+    "Hai góc bằng nhau"
+   ],
+   "So sánh số đo: 150° > 68°."
+  ],
+  [
+   "Lúc 1 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc nhọn",
+    "Góc bẹt",
+    "Góc vuông",
+    "Góc tù"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 1 giờ hai kim cách nhau 30°."
+  ],
+  [
+   "Góc A bằng 10°, góc B bằng 88°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Góc A lớn hơn góc B",
+    "Không so sánh được",
+    "Hai góc bằng nhau"
+   ],
+   "So sánh số đo: 88° > 10°."
+  ],
+  [
+   "Lúc 9 giờ đúng, kim giờ và kim phút tạo thành:",
+   [
+    "Góc vuông",
+    "Góc nhọn",
+    "Góc tù",
+    "Góc bẹt"
+   ],
+   "Mỗi khoảng giữa hai số trên mặt đồng hồ là 30°. Lúc 9 giờ hai kim cách nhau 90°."
+  ],
+  [
+   "Hình chữ nhật có mấy cặp cạnh song song?",
+   [
+    "2 cặp",
+    "1 cặp",
+    "3 cặp",
+    "4 cặp"
+   ],
+   "Hai cặp cạnh đối diện của hình chữ nhật song song với nhau."
+  ],
+  [
+   "Góc có số đo 120° là:",
+   [
+    "Góc tù",
+    "Góc vuông",
+    "Góc bẹt",
+    "Góc nhọn"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Góc A bằng 157°, góc B bằng 160°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Góc A lớn hơn góc B",
+    "Hai góc bằng nhau",
+    "Không so sánh được"
+   ],
+   "So sánh số đo: 160° > 157°."
+  ],
+  [
+   "Góc A bằng 47°, góc B bằng 142°. Khẳng định nào đúng?",
+   [
+    "Góc B lớn hơn góc A",
+    "Không so sánh được",
+    "Hai góc bằng nhau",
+    "Góc A lớn hơn góc B"
+   ],
+   "So sánh số đo: 142° > 47°."
+  ]
+ ],
+ "c3": [
+  [
+   "Một trạm có 27 599 lít xăng, đã xuất đi 21 162 lít xăng. Còn lại bao nhiêu lít xăng?",
+   [
+    "6 437 lít xăng",
+    "6 427 lít xăng",
+    "7 437 lít xăng",
+    "48 761 lít xăng"
+   ],
+   "27 599 − 21 162 = 6 437."
+  ],
+  [
+   "Tính thuận tiện: 411 + 622 + 378 = ?",
+   [
+    "1 411",
+    "511",
+    "1 033",
+    "1 421"
+   ],
+   "Nhóm 622 + 378 = 1000 trước: 411 + 1000 = 1 411."
+  ],
+  [
+   "Tìm x: x − 43 403 = 47 560",
+   [
+    "90 963",
+    "47 560",
+    "89 963",
+    "90 973"
+   ],
+   "x = 47 560 + 43 403 = 90 963."
+  ],
+  [
+   "Tìm x: x + 44 246 = 111 922",
+   [
+    "67 676",
+    "156 168",
+    "67 686",
+    "44 246"
+   ],
+   "x = 111 922 − 44 246 = 67 676."
+  ],
+  [
+   "Một nhà sách có 38 021 quyển sách, nhập thêm 29 386 quyển sách. Lúc này nhà sách có bao nhiêu quyển sách?",
+   [
+    "67 407 quyển sách",
+    "8 635 quyển sách",
+    "68 407 quyển sách",
+    "67 417 quyển sách"
+   ],
+   "38 021 + 29 386 = 67 407."
+  ],
+  [
+   "540 005 − 254 040 = ?",
+   [
+    "285 965",
+    "285 975",
+    "794 045",
+    "295 965"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 285 965."
+  ],
+  [
+   "Một vườn ươm có 25 827 cây giống, nhập thêm 6 197 cây giống. Lúc này vườn ươm có bao nhiêu cây giống?",
+   [
+    "32 024 cây giống",
+    "19 630 cây giống",
+    "31 924 cây giống",
+    "33 024 cây giống"
+   ],
+   "25 827 + 6 197 = 32 024."
+  ],
+  [
+   "Tìm x: x − 6 723 = 58 178",
+   [
+    "64 901",
+    "51 455",
+    "63 901",
+    "58 178"
+   ],
+   "x = 58 178 + 6 723 = 64 901."
+  ],
+  [
+   "151 954 + 69 350 = ?",
+   [
+    "221 304",
+    "221 303",
+    "221 404",
+    "221 204"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 221 304."
+  ],
+  [
+   "Tìm x: x − 40 381 = 88 332",
+   [
+    "128 713",
+    "128 723",
+    "127 713",
+    "47 951"
+   ],
+   "x = 88 332 + 40 381 = 128 713."
+  ],
+  [
+   "69 238 − 42 779 = ?",
+   [
+    "26 459",
+    "25 459",
+    "36 459",
+    "112 017"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 26 459."
+  ],
+  [
+   "Tìm x: x − 9 137 = 28 806",
+   [
+    "37 943",
+    "37 953",
+    "28 806",
+    "36 943"
+   ],
+   "x = 28 806 + 9 137 = 37 943."
+  ],
+  [
+   "389 090 − 228 997 = ?",
+   [
+    "160 093",
+    "160 103",
+    "159 093",
+    "618 087"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 160 093."
+  ],
+  [
+   "24 176 + 292 709 = ?",
+   [
+    "316 885",
+    "316 883",
+    "588 613",
+    "316 785"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 316 885."
+  ],
+  [
+   "Tìm x: x + 41 320 = 63 278",
+   [
+    "21 958",
+    "104 598",
+    "21 968",
+    "41 320"
+   ],
+   "x = 63 278 − 41 320 = 21 958."
+  ],
+  [
+   "Một trạm có 15 766 lít xăng, nhập thêm 14 901 lít xăng. Lúc này trạm có bao nhiêu lít xăng?",
+   [
+    "30 667 lít xăng",
+    "30 677 lít xăng",
+    "865 lít xăng",
+    "30 567 lít xăng"
+   ],
+   "15 766 + 14 901 = 30 667."
+  ],
+  [
+   "327 040 + 290 644 = ?",
+   [
+    "617 684",
+    "617 686",
+    "617 685",
+    "617 584"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 617 684."
+  ],
+  [
+   "498 136 − 445 961 = ?",
+   [
+    "52 175",
+    "51 175",
+    "62 175",
+    "944 097"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 52 175."
+  ],
+  [
+   "486 376 + 271 366 = ?",
+   [
+    "757 742",
+    "757 642",
+    "247 757",
+    "757 740"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 757 742."
+  ],
+  [
+   "Tính thuận tiện: 313 + 229 + 771 = ?",
+   [
+    "1 313",
+    "1 323",
+    "413",
+    "542"
+   ],
+   "Nhóm 229 + 771 = 1000 trước: 313 + 1000 = 1 313."
+  ],
+  [
+   "Tính thuận tiện: 844 + 103 + 897 = ?",
+   [
+    "1 844",
+    "1 854",
+    "1 944",
+    "944"
+   ],
+   "Nhóm 103 + 897 = 1000 trước: 844 + 1000 = 1 844."
+  ],
+  [
+   "814 595 − 30 018 = ?",
+   [
+    "784 577",
+    "784 587",
+    "794 577",
+    "844 613"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 784 577."
+  ],
+  [
+   "Một kho có 58 860 kg gạo, đã xuất đi 17 532 kg gạo. Còn lại bao nhiêu kg gạo?",
+   [
+    "41 328 kg gạo",
+    "76 392 kg gạo",
+    "42 328 kg gạo",
+    "41 428 kg gạo"
+   ],
+   "58 860 − 17 532 = 41 328."
+  ],
+  [
+   "Một kho có 14 834 kg gạo, nhập thêm 22 042 kg gạo. Lúc này kho có bao nhiêu kg gạo?",
+   [
+    "36 876 kg gạo",
+    "36 776 kg gạo",
+    "36 886 kg gạo",
+    "−7 208 kg gạo"
+   ],
+   "14 834 + 22 042 = 36 876."
+  ],
+  [
+   "Tìm x: x − 17 135 = 45 538",
+   [
+    "62 673",
+    "61 673",
+    "62 683",
+    "45 538"
+   ],
+   "x = 45 538 + 17 135 = 62 673."
+  ],
+  [
+   "Tính thuận tiện: 686 + 272 + 728 = ?",
+   [
+    "1 686",
+    "958",
+    "1 786",
+    "786"
+   ],
+   "Nhóm 272 + 728 = 1000 trước: 686 + 1000 = 1 686."
+  ],
+  [
+   "286 733 + 12 091 = ?",
+   [
+    "298 824",
+    "298 825",
+    "299 824",
+    "298 822"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 298 824."
+  ],
+  [
+   "27 338 + 2 624 = ?",
+   [
+    "29 962",
+    "26 992",
+    "29 961",
+    "29 972"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 29 962."
+  ],
+  [
+   "Một kho có 50 967 kg gạo, đã xuất đi 16 921 kg gạo. Còn lại bao nhiêu kg gạo?",
+   [
+    "34 046 kg gạo",
+    "34 036 kg gạo",
+    "34 146 kg gạo",
+    "35 046 kg gạo"
+   ],
+   "50 967 − 16 921 = 34 046."
+  ],
+  [
+   "Tìm x: x − 33 252 = 75 015",
+   [
+    "108 267",
+    "107 267",
+    "75 015",
+    "108 277"
+   ],
+   "x = 75 015 + 33 252 = 108 267."
+  ],
+  [
+   "Tính thuận tiện: 957 + 989 + 11 = ?",
+   [
+    "1 957",
+    "1 057",
+    "2 057",
+    "1 967"
+   ],
+   "Nhóm 989 + 11 = 1000 trước: 957 + 1000 = 1 957."
+  ],
+  [
+   "462 490 + 61 316 = ?",
+   [
+    "523 806",
+    "523 808",
+    "523 805",
+    "523 796"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 523 806."
+  ],
+  [
+   "Một trạm có 21 641 lít xăng, nhập thêm 7 841 lít xăng. Lúc này trạm có bao nhiêu lít xăng?",
+   [
+    "29 482 lít xăng",
+    "29 492 lít xăng",
+    "13 800 lít xăng",
+    "29 382 lít xăng"
+   ],
+   "21 641 + 7 841 = 29 482."
+  ],
+  [
+   "Tìm x: x + 49 123 = 138 788",
+   [
+    "89 665",
+    "89 675",
+    "89 565",
+    "49 123"
+   ],
+   "x = 138 788 − 49 123 = 89 665."
+  ],
+  [
+   "243 602 + 112 205 = ?",
+   [
+    "355 807",
+    "355 805",
+    "356 807",
+    "355 806"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 355 807."
+  ],
+  [
+   "Tìm x: x − 3 259 = 67 311",
+   [
+    "70 570",
+    "69 570",
+    "70 580",
+    "67 311"
+   ],
+   "x = 67 311 + 3 259 = 70 570."
+  ],
+  [
+   "Tìm x: x − 25 738 = 24 719",
+   [
+    "50 457",
+    "24 719",
+    "24 720",
+    "50 467"
+   ],
+   "x = 24 719 + 25 738 = 50 457."
+  ],
+  [
+   "Một trạm có 12 990 lít xăng, đã xuất đi 25 172 lít xăng. Còn lại bao nhiêu lít xăng?",
+   [
+    "−12 182 lít xăng",
+    "−12 192 lít xăng",
+    "38 162 lít xăng",
+    "−11 182 lít xăng"
+   ],
+   "12 990 − 25 172 = −12 182."
+  ],
+  [
+   "Một kho có 30 624 kg gạo, đã xuất đi 23 043 kg gạo. Còn lại bao nhiêu kg gạo?",
+   [
+    "7 581 kg gạo",
+    "7 571 kg gạo",
+    "53 667 kg gạo",
+    "8 581 kg gạo"
+   ],
+   "30 624 − 23 043 = 7 581."
+  ],
+  [
+   "856 426 − 354 890 = ?",
+   [
+    "501 536",
+    "500 536",
+    "511 536",
+    "501 546"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 501 536."
+  ]
+ ],
+ "c4": [
+  [
+   "3 giờ 49 phút = ... phút",
+   [
+    "229",
+    "670",
+    "79",
+    "180"
+   ],
+   "3 giờ = 180 phút, cộng thêm 49: 229 phút."
+  ],
+  [
+   "Một xe chở 8 tạ gạo và 31 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "831 kg",
+    "39 kg",
+    "111 kg",
+    "8031 kg"
+   ],
+   "8 tạ = 800 kg; 800 + 31 = 831 kg."
+  ],
+  [
+   "9 yến = ... kg",
+   [
+    "90",
+    "900",
+    "9",
+    "100"
+   ],
+   "1 yến = 10 kg nên 9 yến = 90 kg."
+  ],
+  [
+   "7 giờ 17 phút = ... phút",
+   [
+    "437",
+    "87",
+    "24",
+    "590"
+   ],
+   "7 giờ = 420 phút, cộng thêm 17: 437 phút."
+  ],
+  [
+   "3 m² = ... cm²",
+   [
+    "30 000",
+    "300 000",
+    "10 003",
+    "40 000"
+   ],
+   "1 m² = 10 000 cm² nên 3 m² = 30 000 cm²."
+  ],
+  [
+   "Một xe chở 8 tạ gạo và 28 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "828 kg",
+    "772 kg",
+    "108 kg",
+    "8028 kg"
+   ],
+   "8 tạ = 800 kg; 800 + 28 = 828 kg."
+  ],
+  [
+   "5 tấn 3 tạ = ... tạ",
+   [
+    "53",
+    "50",
+    "8",
+    "80"
+   ],
+   "5 tấn = 50 tạ, cộng thêm 3: 53 tạ."
+  ],
+  [
+   "Một xe chở 8 tạ gạo và 27 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "827 kg",
+    "8027 kg",
+    "773 kg",
+    "35 kg"
+   ],
+   "8 tạ = 800 kg; 800 + 27 = 827 kg."
+  ],
+  [
+   "9 tạ = ... yến",
+   [
+    "90",
+    "19",
+    "9",
+    "100"
+   ],
+   "1 tạ = 10 yến nên 9 tạ = 90 yến."
+  ],
+  [
+   "9 tấn = ... kg",
+   [
+    "9 000",
+    "900",
+    "1 009",
+    "90 000"
+   ],
+   "1 tấn = 1 000 kg nên 9 tấn = 9 000 kg."
+  ],
+  [
+   "2 tạ 43 kg = ... kg",
+   [
+    "243",
+    "630",
+    "200",
+    "45"
+   ],
+   "2 tạ = 200 kg, cộng thêm 43: 243 kg."
+  ],
+  [
+   "8 tạ 4 yến = ... yến",
+   [
+    "84",
+    "120",
+    "80",
+    "12"
+   ],
+   "8 tạ = 80 yến, cộng thêm 4: 84 yến."
+  ],
+  [
+   "5 tấn = ... kg",
+   [
+    "5 000",
+    "6 000",
+    "500",
+    "50 000"
+   ],
+   "1 tấn = 1 000 kg nên 5 tấn = 5 000 kg."
+  ],
+  [
+   "7 tạ 59 kg = ... kg",
+   [
+    "759",
+    "129",
+    "1 290",
+    "66"
+   ],
+   "7 tạ = 700 kg, cộng thêm 59: 759 kg."
+  ],
+  [
+   "5 tạ 8 yến = ... yến",
+   [
+    "58",
+    "50",
+    "13",
+    "130"
+   ],
+   "5 tạ = 50 yến, cộng thêm 8: 58 yến."
+  ],
+  [
+   "3 m² = ... dm²",
+   [
+    "300",
+    "103",
+    "3 000",
+    "400"
+   ],
+   "1 m² = 100 dm² nên 3 m² = 300 dm²."
+  ],
+  [
+   "1 tạ 22 kg = ... kg",
+   [
+    "122",
+    "23",
+    "32",
+    "320"
+   ],
+   "1 tạ = 100 kg, cộng thêm 22: 122 kg."
+  ],
+  [
+   "5 m² = ... cm²",
+   [
+    "50 000",
+    "60 000",
+    "10 005",
+    "5 000"
+   ],
+   "1 m² = 10 000 cm² nên 5 m² = 50 000 cm²."
+  ],
+  [
+   "Một xe chở 3 tạ gạo và 41 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "341 kg",
+    "3041 kg",
+    "71 kg",
+    "259 kg"
+   ],
+   "3 tạ = 300 kg; 300 + 41 = 341 kg."
+  ],
+  [
+   "6 giờ 8 phút = ... phút",
+   [
+    "368",
+    "440",
+    "68",
+    "360"
+   ],
+   "6 giờ = 360 phút, cộng thêm 8: 368 phút."
+  ],
+  [
+   "4 thế kỉ 66 năm = ... năm",
+   [
+    "466",
+    "1 060",
+    "70",
+    "106"
+   ],
+   "4 thế kỉ = 400 năm, cộng thêm 66: 466 năm."
+  ],
+  [
+   "4 yến 2 kg = ... kg",
+   [
+    "42",
+    "60",
+    "40",
+    "6"
+   ],
+   "4 yến = 40 kg, cộng thêm 2: 42 kg."
+  ],
+  [
+   "Một xe chở 4 tạ gạo và 56 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "456 kg",
+    "96 kg",
+    "60 kg",
+    "4056 kg"
+   ],
+   "4 tạ = 400 kg; 400 + 56 = 456 kg."
+  ],
+  [
+   "Một xe chở 6 tạ gạo và 32 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "632 kg",
+    "92 kg",
+    "568 kg",
+    "6032 kg"
+   ],
+   "6 tạ = 600 kg; 600 + 32 = 632 kg."
+  ],
+  [
+   "4 dm² = ... cm²",
+   [
+    "400",
+    "500",
+    "40",
+    "4 000"
+   ],
+   "1 dm² = 100 cm² nên 4 dm² = 400 cm²."
+  ],
+  [
+   "5 dm² 96 cm² = ... cm²",
+   [
+    "596",
+    "1 460",
+    "500",
+    "101"
+   ],
+   "5 dm² = 500 cm², cộng thêm 96: 596 cm²."
+  ],
+  [
+   "Một xe chở 6 tạ gạo và 26 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "626 kg",
+    "32 kg",
+    "6026 kg",
+    "86 kg"
+   ],
+   "6 tạ = 600 kg; 600 + 26 = 626 kg."
+  ],
+  [
+   "4 tạ 4 yến = ... yến",
+   [
+    "44",
+    "8",
+    "80",
+    "40"
+   ],
+   "4 tạ = 40 yến, cộng thêm 4: 44 yến."
+  ],
+  [
+   "Một xe chở 3 tạ gạo và 24 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "324 kg",
+    "54 kg",
+    "276 kg",
+    "27 kg"
+   ],
+   "3 tạ = 300 kg; 300 + 24 = 324 kg."
+  ],
+  [
+   "5 phút = ... giây",
+   [
+    "300",
+    "30",
+    "3 000",
+    "65"
+   ],
+   "1 phút = 60 giây nên 5 phút = 300 giây."
+  ],
+  [
+   "Một xe chở 2 tạ gạo và 10 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "210 kg",
+    "12 kg",
+    "30 kg",
+    "2010 kg"
+   ],
+   "2 tạ = 200 kg; 200 + 10 = 210 kg."
+  ],
+  [
+   "7 dm² = ... cm²",
+   [
+    "700",
+    "70",
+    "800",
+    "107"
+   ],
+   "1 dm² = 100 cm² nên 7 dm² = 700 cm²."
+  ],
+  [
+   "6 yến = ... kg",
+   [
+    "60",
+    "70",
+    "16",
+    "600"
+   ],
+   "1 yến = 10 kg nên 6 yến = 60 kg."
+  ],
+  [
+   "6 tạ 7 yến = ... yến",
+   [
+    "67",
+    "13",
+    "130",
+    "60"
+   ],
+   "6 tạ = 60 yến, cộng thêm 7: 67 yến."
+  ],
+  [
+   "Một xe chở 9 tạ gạo và 78 kg ngô. Xe chở tất cả bao nhiêu ki-lô-gam?",
+   [
+    "978 kg",
+    "168 kg",
+    "9078 kg",
+    "822 kg"
+   ],
+   "9 tạ = 900 kg; 900 + 78 = 978 kg."
+  ],
+  [
+   "5 tấn 6 tạ = ... tạ",
+   [
+    "56",
+    "50",
+    "11",
+    "110"
+   ],
+   "5 tấn = 50 tạ, cộng thêm 6: 56 tạ."
+  ],
+  [
+   "7 giờ = ... phút",
+   [
+    "420",
+    "480",
+    "67",
+    "42"
+   ],
+   "1 giờ = 60 phút nên 7 giờ = 420 phút."
+  ],
+  [
+   "8 dm² = ... cm²",
+   [
+    "800",
+    "8 000",
+    "80",
+    "900"
+   ],
+   "1 dm² = 100 cm² nên 8 dm² = 800 cm²."
+  ],
+  [
+   "4 tấn = ... kg",
+   [
+    "4 000",
+    "1 004",
+    "40 000",
+    "400"
+   ],
+   "1 tấn = 1 000 kg nên 4 tấn = 4 000 kg."
+  ],
+  [
+   "7 phút = ... giây",
+   [
+    "420",
+    "42",
+    "480",
+    "4 200"
+   ],
+   "1 phút = 60 giây nên 7 phút = 420 giây."
+  ]
+ ],
+ "c5": [
+  [
+   "15 792 : 47 = ?",
+   [
+    "336",
+    "337",
+    "346",
+    "335"
+   ],
+   "Thử lại: 336 × 47 = 15 792."
+  ],
+  [
+   "Tính thuận tiện: 13 × 45 + 13 × 55 = ?",
+   [
+    "1 300",
+    "113",
+    "1 313",
+    "585"
+   ],
+   "Đặt 13 làm thừa số chung: 13 × (45 + 55) = 13 × 100 = 1 300."
+  ],
+  [
+   "Tính thuận tiện: 37 × 36 + 37 × 64 = ?",
+   [
+    "3 700",
+    "1 332",
+    "137",
+    "3 737"
+   ],
+   "Đặt 37 làm thừa số chung: 37 × (36 + 64) = 37 × 100 = 3 700."
+  ],
+  [
+   "33 848 : 8 = ?",
+   [
+    "4 231",
+    "4 230",
+    "4 232",
+    "42 310"
+   ],
+   "Chia lần lượt từ trái sang phải: 33 848 : 8 = 4 231. Thử lại: 4 231 × 8 = 33 848."
+  ],
+  [
+   "442 × 87 = ?",
+   [
+    "38 454",
+    "38 896",
+    "38 012",
+    "38 464"
+   ],
+   "Nhân 442 với từng chữ số của 87 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 38 454."
+  ],
+  [
+   "33 560 : 8 = ?",
+   [
+    "4 195",
+    "4 194",
+    "41 950",
+    "4 205"
+   ],
+   "Chia lần lượt từ trái sang phải: 33 560 : 8 = 4 195. Thử lại: 4 195 × 8 = 33 560."
+  ],
+  [
+   "170 × 93 = ?",
+   [
+    "15 810",
+    "15 980",
+    "2 040",
+    "15 820"
+   ],
+   "Nhân 170 với từng chữ số của 93 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 15 810."
+  ],
+  [
+   "Tính thuận tiện: 35 × 55 + 35 × 45 = ?",
+   [
+    "3 500",
+    "350",
+    "135",
+    "3 535"
+   ],
+   "Đặt 35 làm thừa số chung: 35 × (55 + 45) = 35 × 100 = 3 500."
+  ],
+  [
+   "25 632 : 6 = ?",
+   [
+    "4 272",
+    "4 273",
+    "42 720",
+    "4 282"
+   ],
+   "Chia lần lượt từ trái sang phải: 25 632 : 6 = 4 272. Thử lại: 4 272 × 6 = 25 632."
+  ],
+  [
+   "Tính thuận tiện: 70 × 55 + 70 × 45 = ?",
+   [
+    "7 000",
+    "7 070",
+    "700",
+    "170"
+   ],
+   "Đặt 70 làm thừa số chung: 70 × (55 + 45) = 70 × 100 = 7 000."
+  ],
+  [
+   "Tính thuận tiện: 50 × 38 × 2 = ?",
+   [
+    "3 800",
+    "3 801",
+    "76",
+    "1 900"
+   ],
+   "Nhóm 50 × 2 = 100 trước: 38 × 100 = 3 800."
+  ],
+  [
+   "Tính thuận tiện: 36 × 15 + 36 × 85 = ?",
+   [
+    "3 600",
+    "540",
+    "360",
+    "136"
+   ],
+   "Đặt 36 làm thừa số chung: 36 × (15 + 85) = 36 × 100 = 3 600."
+  ],
+  [
+   "Tính thuận tiện: 25 × 42 × 4 = ?",
+   [
+    "4 200",
+    "168",
+    "1 050",
+    "42 000"
+   ],
+   "Nhóm 25 × 4 = 100 trước: 42 × 100 = 4 200."
+  ],
+  [
+   "28 014 : 29 = ?",
+   [
+    "966",
+    "9 660",
+    "967",
+    "976"
+   ],
+   "Thử lại: 966 × 29 = 28 014."
+  ],
+  [
+   "Tính thuận tiện: 59 × 40 + 59 × 60 = ?",
+   [
+    "5 900",
+    "2 360",
+    "159",
+    "590"
+   ],
+   "Đặt 59 làm thừa số chung: 59 × (40 + 60) = 59 × 100 = 5 900."
+  ],
+  [
+   "800 × 33 = ?",
+   [
+    "26 400",
+    "27 200",
+    "26 410",
+    "4 800"
+   ],
+   "Nhân 800 với từng chữ số của 33 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 26 400."
+  ],
+  [
+   "Mỗi giá có 95 quyển sách. 35 giá như thế có bao nhiêu quyển sách?",
+   [
+    "3 325 quyển sách",
+    "33 250 quyển sách",
+    "3 420 quyển sách",
+    "3 230 quyển sách"
+   ],
+   "95 × 35 = 3 325 quyển sách."
+  ],
+  [
+   "8 031 : 3 = ?",
+   [
+    "2 677",
+    "26 770",
+    "2 687",
+    "2 676"
+   ],
+   "Chia lần lượt từ trái sang phải: 8 031 : 3 = 2 677. Thử lại: 2 677 × 3 = 8 031."
+  ],
+  [
+   "Tính thuận tiện: 25 × 21 × 4 = ?",
+   [
+    "2 100",
+    "84",
+    "2 101",
+    "525"
+   ],
+   "Nhóm 25 × 4 = 100 trước: 21 × 100 = 2 100."
+  ],
+  [
+   "18 340 : 20 = ?",
+   [
+    "917",
+    "916",
+    "918",
+    "9 170"
+   ],
+   "Thử lại: 917 × 20 = 18 340."
+  ],
+  [
+   "24 128 : 29 = ?",
+   [
+    "832",
+    "842",
+    "831",
+    "833"
+   ],
+   "Thử lại: 832 × 29 = 24 128."
+  ],
+  [
+   "Tính thuận tiện: 38 × 23 + 38 × 77 = ?",
+   [
+    "3 800",
+    "3 838",
+    "380",
+    "874"
+   ],
+   "Đặt 38 làm thừa số chung: 38 × (23 + 77) = 38 × 100 = 3 800."
+  ],
+  [
+   "62 620 : 10 = ?",
+   [
+    "6 262",
+    "626",
+    "62 620",
+    "6 263"
+   ],
+   "Chia cho 10: bỏ bớt 1 chữ số 0 ở bên phải: 6 262."
+  ],
+  [
+   "557 × 62 = ?",
+   [
+    "34 534",
+    "34 544",
+    "33 977",
+    "4 456"
+   ],
+   "Nhân 557 với từng chữ số của 62 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 34 534."
+  ],
+  [
+   "10 260 : 9 = ?",
+   [
+    "1 140",
+    "1 150",
+    "1 139",
+    "1 141"
+   ],
+   "Chia lần lượt từ trái sang phải: 10 260 : 9 = 1 140. Thử lại: 1 140 × 9 = 10 260."
+  ],
+  [
+   "9 914 × 10 = ?",
+   [
+    "99 140",
+    "9 914",
+    "9 924",
+    "991 400"
+   ],
+   "Nhân với 10: viết thêm 1 chữ số 0 vào bên phải: 99 140."
+  ],
+  [
+   "270 × 61 = ?",
+   [
+    "16 470",
+    "16 200",
+    "16 480",
+    "1 890"
+   ],
+   "Nhân 270 với từng chữ số của 61 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 16 470."
+  ],
+  [
+   "15 384 : 3 = ?",
+   [
+    "5 128",
+    "5 138",
+    "5 127",
+    "51 280"
+   ],
+   "Chia lần lượt từ trái sang phải: 15 384 : 3 = 5 128. Thử lại: 5 128 × 3 = 15 384."
+  ],
+  [
+   "Tính thuận tiện: 90 × 31 + 90 × 69 = ?",
+   [
+    "9 000",
+    "2 790",
+    "900",
+    "190"
+   ],
+   "Đặt 90 làm thừa số chung: 90 × (31 + 69) = 90 × 100 = 9 000."
+  ],
+  [
+   "Tính thuận tiện: 25 × 57 × 4 = ?",
+   [
+    "5 700",
+    "57 000",
+    "228",
+    "5 701"
+   ],
+   "Nhóm 25 × 4 = 100 trước: 57 × 100 = 5 700."
+  ],
+  [
+   "15 582 : 98 = ?",
+   [
+    "159",
+    "1 590",
+    "169",
+    "160"
+   ],
+   "Thử lại: 159 × 98 = 15 582."
+  ],
+  [
+   "Tính thuận tiện: 50 × 60 × 2 = ?",
+   [
+    "6 000",
+    "60 000",
+    "3 000",
+    "6 001"
+   ],
+   "Nhóm 50 × 2 = 100 trước: 60 × 100 = 6 000."
+  ],
+  [
+   "4 392 : 18 = ?",
+   [
+    "244",
+    "243",
+    "2 440",
+    "245"
+   ],
+   "Thử lại: 244 × 18 = 4 392."
+  ],
+  [
+   "88 690 : 10 = ?",
+   [
+    "8 869",
+    "88 690",
+    "8 870",
+    "886"
+   ],
+   "Chia cho 10: bỏ bớt 1 chữ số 0 ở bên phải: 8 869."
+  ],
+  [
+   "Tính thuận tiện: 125 × 35 × 8 = ?",
+   [
+    "35 000",
+    "280",
+    "4 375",
+    "350 000"
+   ],
+   "Nhóm 125 × 8 = 1000 trước: 35 × 1000 = 35 000."
+  ],
+  [
+   "31 132 : 43 = ?",
+   [
+    "724",
+    "734",
+    "723",
+    "7 240"
+   ],
+   "Thử lại: 724 × 43 = 31 132."
+  ],
+  [
+   "Tính thuận tiện: 25 × 65 × 4 = ?",
+   [
+    "6 500",
+    "65 000",
+    "6 501",
+    "1 625"
+   ],
+   "Nhóm 25 × 4 = 100 trước: 65 × 100 = 6 500."
+  ],
+  [
+   "782 × 81 = ?",
+   [
+    "63 342",
+    "7 038",
+    "62 560",
+    "64 124"
+   ],
+   "Nhân 782 với từng chữ số của 81 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 63 342."
+  ],
+  [
+   "Mỗi hộp có 48 cây bút. 55 hộp như thế có bao nhiêu cây bút?",
+   [
+    "2 640 cây bút",
+    "2 592 cây bút",
+    "103 cây bút",
+    "26 400 cây bút"
+   ],
+   "48 × 55 = 2 640 cây bút."
+  ],
+  [
+   "Tính thuận tiện: 50 × 90 × 2 = ?",
+   [
+    "9 000",
+    "4 500",
+    "90 000",
+    "180"
+   ],
+   "Nhóm 50 × 2 = 100 trước: 90 × 100 = 9 000."
+  ]
+ ],
+ "c6": [
+  [
+   "Phúc và Hùng có tất cả 19 quyển truyện. Phúc có nhiều hơn Hùng 11 quyển. Phúc có bao nhiêu quyển?",
+   [
+    "15 quyển",
+    "26 quyển",
+    "16 quyển",
+    "4 quyển"
+   ],
+   "Số của Phúc = (19 + 11) : 2 = 15 quyển."
+  ],
+  [
+   "Linh và Tùng có tất cả 46 quyển truyện. Linh có nhiều hơn Tùng 6 quyển. Linh có bao nhiêu quyển?",
+   [
+    "26 quyển",
+    "32 quyển",
+    "20 quyển",
+    "27 quyển"
+   ],
+   "Số của Linh = (46 + 6) : 2 = 26 quyển."
+  ],
+  [
+   "3 ngày cửa hàng bán được lần lượt 36 kg, 38 kg, 34 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "36 kg",
+    "38 kg",
+    "34 kg",
+    "108 kg"
+   ],
+   "Tổng 108 kg chia 3 ngày: 36 kg."
+  ],
+  [
+   "Trung bình cộng của các số 42, 36, 36, 42, 24 là:",
+   [
+    "36",
+    "180",
+    "42",
+    "37"
+   ],
+   "Tổng 42 + 36 + 36 + 42 + 24 = 180; chia cho 5 số: 180 : 5 = 36."
+  ],
+  [
+   "Lan và Hoa có tất cả 63 quyển truyện. Lan có nhiều hơn Hoa 7 quyển. Lan có bao nhiêu quyển?",
+   [
+    "35 quyển",
+    "31.5 quyển",
+    "42 quyển",
+    "36 quyển"
+   ],
+   "Số của Lan = (63 + 7) : 2 = 35 quyển."
+  ],
+  [
+   "Tổng của hai số là 58, hiệu của chúng là 20. Số bé là:",
+   [
+    "19",
+    "39",
+    "29",
+    "20"
+   ],
+   "Số bé = (tổng − hiệu) : 2 = (58 − 20) : 2 = 19."
+  ],
+  [
+   "Tổng của hai số là 432, hiệu của chúng là 148. Số lớn là:",
+   [
+    "290",
+    "148",
+    "142",
+    "216"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (432 + 148) : 2 = 290."
+  ],
+  [
+   "Trung bình cộng của các số 23, 17 là:",
+   [
+    "20",
+    "40",
+    "23",
+    "21"
+   ],
+   "Tổng 23 + 17 = 40; chia cho 2 số: 40 : 2 = 20."
+  ],
+  [
+   "Tổng của hai số là 572, hiệu của chúng là 140. Số lớn là:",
+   [
+    "356",
+    "357",
+    "286",
+    "140"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (572 + 140) : 2 = 356."
+  ],
+  [
+   "4 ngày cửa hàng bán được lần lượt 48 kg, 42 kg, 39 kg, 43 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "43 kg",
+    "172 kg",
+    "45 kg",
+    "48 kg"
+   ],
+   "Tổng 172 kg chia 4 ngày: 43 kg."
+  ],
+  [
+   "Vy và Minh có tất cả 23 quyển truyện. Vy có nhiều hơn Minh 9 quyển. Vy có bao nhiêu quyển?",
+   [
+    "16 quyển",
+    "17 quyển",
+    "7 quyển",
+    "25 quyển"
+   ],
+   "Số của Vy = (23 + 9) : 2 = 16 quyển."
+  ],
+  [
+   "5 ngày cửa hàng bán được lần lượt 63 kg, 61 kg, 57 kg, 58 kg, 46 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "57 kg",
+    "63 kg",
+    "55 kg",
+    "285 kg"
+   ],
+   "Tổng 285 kg chia 5 ngày: 57 kg."
+  ],
+  [
+   "Tổng của hai số là 241, hiệu của chúng là 125. Số lớn là:",
+   [
+    "183",
+    "58",
+    "120.5",
+    "125"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (241 + 125) : 2 = 183."
+  ],
+  [
+   "Tổng của hai số là 359, hiệu của chúng là 43. Số lớn là:",
+   [
+    "201",
+    "43",
+    "202",
+    "158"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (359 + 43) : 2 = 201."
+  ],
+  [
+   "Trung bình cộng của các số 70, 71, 62, 73, 49 là:",
+   [
+    "65",
+    "325",
+    "66",
+    "73"
+   ],
+   "Tổng 70 + 71 + 62 + 73 + 49 = 325; chia cho 5 số: 325 : 5 = 65."
+  ],
+  [
+   "Linh và Lan có tất cả 48 quyển truyện. Linh có nhiều hơn Lan 28 quyển. Linh có bao nhiêu quyển?",
+   [
+    "38 quyển",
+    "10 quyển",
+    "24 quyển",
+    "66 quyển"
+   ],
+   "Số của Linh = (48 + 28) : 2 = 38 quyển."
+  ],
+  [
+   "Trung bình cộng của các số 62, 56, 58, 50, 54 là:",
+   [
+    "56",
+    "57",
+    "55",
+    "280"
+   ],
+   "Tổng 62 + 56 + 58 + 50 + 54 = 280; chia cho 5 số: 280 : 5 = 56."
+  ],
+  [
+   "Trung bình cộng của các số 44, 54 là:",
+   [
+    "49",
+    "50",
+    "54",
+    "98"
+   ],
+   "Tổng 44 + 54 = 98; chia cho 2 số: 98 : 2 = 49."
+  ],
+  [
+   "5 ngày cửa hàng bán được lần lượt 62 kg, 55 kg, 62 kg, 53 kg, 38 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "54 kg",
+    "270 kg",
+    "52 kg",
+    "62 kg"
+   ],
+   "Tổng 270 kg chia 5 ngày: 54 kg."
+  ],
+  [
+   "Trung bình cộng của các số 60, 61, 51, 68 là:",
+   [
+    "60",
+    "240",
+    "68",
+    "61"
+   ],
+   "Tổng 60 + 61 + 51 + 68 = 240; chia cho 4 số: 240 : 4 = 60."
+  ],
+  [
+   "4 ngày cửa hàng bán được lần lượt 15 kg, 20 kg, 23 kg, 26 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "21 kg",
+    "23 kg",
+    "19 kg",
+    "84 kg"
+   ],
+   "Tổng 84 kg chia 4 ngày: 21 kg."
+  ],
+  [
+   "Khôi và Ngọc có tất cả 20 quyển truyện. Khôi có nhiều hơn Ngọc 6 quyển. Khôi có bao nhiêu quyển?",
+   [
+    "13 quyển",
+    "7 quyển",
+    "19 quyển",
+    "10 quyển"
+   ],
+   "Số của Khôi = (20 + 6) : 2 = 13 quyển."
+  ],
+  [
+   "Tổng của hai số là 868, hiệu của chúng là 130. Số lớn là:",
+   [
+    "499",
+    "130",
+    "500",
+    "434"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (868 + 130) : 2 = 499."
+  ],
+  [
+   "Hoa và Dũng có tất cả 68 quyển truyện. Hoa có nhiều hơn Dũng 8 quyển. Hoa có bao nhiêu quyển?",
+   [
+    "38 quyển",
+    "34 quyển",
+    "39 quyển",
+    "30 quyển"
+   ],
+   "Số của Hoa = (68 + 8) : 2 = 38 quyển."
+  ],
+  [
+   "Tổng của hai số là 87, hiệu của chúng là 19. Số bé là:",
+   [
+    "34",
+    "43.5",
+    "53",
+    "19"
+   ],
+   "Số bé = (tổng − hiệu) : 2 = (87 − 19) : 2 = 34."
+  ],
+  [
+   "3 ngày cửa hàng bán được lần lượt 39 kg, 42 kg, 21 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "34 kg",
+    "102 kg",
+    "36 kg",
+    "32 kg"
+   ],
+   "Tổng 102 kg chia 3 ngày: 34 kg."
+  ],
+  [
+   "Minh và Tùng có tất cả 42 quyển truyện. Minh có nhiều hơn Tùng 38 quyển. Minh có bao nhiêu quyển?",
+   [
+    "40 quyển",
+    "2 quyển",
+    "21 quyển",
+    "41 quyển"
+   ],
+   "Số của Minh = (42 + 38) : 2 = 40 quyển."
+  ],
+  [
+   "Trung bình cộng của các số 47, 52, 48 là:",
+   [
+    "49",
+    "50",
+    "147",
+    "52"
+   ],
+   "Tổng 47 + 52 + 48 = 147; chia cho 3 số: 147 : 3 = 49."
+  ],
+  [
+   "Tổng của hai số là 95, hiệu của chúng là 7. Số bé là:",
+   [
+    "44",
+    "47.5",
+    "45",
+    "7"
+   ],
+   "Số bé = (tổng − hiệu) : 2 = (95 − 7) : 2 = 44."
+  ],
+  [
+   "Phúc và Tùng có tất cả 20 quyển truyện. Phúc có nhiều hơn Tùng 14 quyển. Phúc có bao nhiêu quyển?",
+   [
+    "17 quyển",
+    "31 quyển",
+    "3 quyển",
+    "18 quyển"
+   ],
+   "Số của Phúc = (20 + 14) : 2 = 17 quyển."
+  ],
+  [
+   "Tổng của hai số là 369, hiệu của chúng là 103. Số lớn là:",
+   [
+    "236",
+    "103",
+    "237",
+    "184.5"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (369 + 103) : 2 = 236."
+  ],
+  [
+   "Tổng của hai số là 719, hiệu của chúng là 77. Số lớn là:",
+   [
+    "398",
+    "321",
+    "77",
+    "359.5"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (719 + 77) : 2 = 398."
+  ],
+  [
+   "Trung bình cộng của các số 37, 33, 28, 26 là:",
+   [
+    "31",
+    "32",
+    "37",
+    "124"
+   ],
+   "Tổng 37 + 33 + 28 + 26 = 124; chia cho 4 số: 124 : 4 = 31."
+  ],
+  [
+   "Trung bình cộng của các số 25, 40, 40, 28, 37 là:",
+   [
+    "34",
+    "170",
+    "40",
+    "35"
+   ],
+   "Tổng 25 + 40 + 40 + 28 + 37 = 170; chia cho 5 số: 170 : 5 = 34."
+  ],
+  [
+   "Trung bình cộng của các số 81, 63 là:",
+   [
+    "72",
+    "144",
+    "81",
+    "71"
+   ],
+   "Tổng 81 + 63 = 144; chia cho 2 số: 144 : 2 = 72."
+  ],
+  [
+   "Trung bình cộng của các số 79, 74, 74, 78, 95 là:",
+   [
+    "80",
+    "79",
+    "400",
+    "81"
+   ],
+   "Tổng 79 + 74 + 74 + 78 + 95 = 400; chia cho 5 số: 400 : 5 = 80."
+  ],
+  [
+   "Trung bình cộng của các số 38, 39, 35, 33, 15 là:",
+   [
+    "32",
+    "33",
+    "31",
+    "39"
+   ],
+   "Tổng 38 + 39 + 35 + 33 + 15 = 160; chia cho 5 số: 160 : 5 = 32."
+  ],
+  [
+   "4 ngày cửa hàng bán được lần lượt 51 kg, 56 kg, 64 kg, 57 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "57 kg",
+    "55 kg",
+    "51 kg",
+    "59 kg"
+   ],
+   "Tổng 228 kg chia 4 ngày: 57 kg."
+  ],
+  [
+   "5 ngày cửa hàng bán được lần lượt 32 kg, 26 kg, 39 kg, 41 kg, 27 kg gạo. Trung bình mỗi ngày bán được:",
+   [
+    "33 kg",
+    "165 kg",
+    "35 kg",
+    "31 kg"
+   ],
+   "Tổng 165 kg chia 5 ngày: 33 kg."
+  ],
+  [
+   "Tùng và Ngọc có tất cả 23 quyển truyện. Tùng có nhiều hơn Ngọc 3 quyển. Tùng có bao nhiêu quyển?",
+   [
+    "13 quyển",
+    "16 quyển",
+    "11.5 quyển",
+    "10 quyển"
+   ],
+   "Số của Tùng = (23 + 3) : 2 = 13 quyển."
+  ]
+ ],
+ "c7": [
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 12 cm và 6 cm. Chu vi hình bình hành là:",
+   [
+    "36 cm",
+    "38 cm",
+    "48 cm",
+    "72 cm"
+   ],
+   "Chu vi = (12 + 6) × 2 = 36 cm."
+  ],
+  [
+   "Hình nào vừa là hình chữ nhật vừa là hình thoi?",
+   [
+    "Hình vuông",
+    "Hình tròn",
+    "Hình bình hành bất kì",
+    "Hình tam giác"
+   ],
+   "Hình vuông có 4 góc vuông và 4 cạnh bằng nhau."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 6 cm và 3 cm. Chu vi hình bình hành là:",
+   [
+    "18 cm",
+    "20 cm",
+    "9 cm",
+    "24 cm"
+   ],
+   "Chu vi = (6 + 3) × 2 = 18 cm."
+  ],
+  [
+   "Hình thoi có cạnh 25 cm. Chu vi hình thoi là:",
+   [
+    "100 cm",
+    "104 cm",
+    "625 cm",
+    "29 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 25 × 4 = 100 cm."
+  ],
+  [
+   "Hình thoi có cạnh 11 cm. Chu vi hình thoi là:",
+   [
+    "44 cm",
+    "15 cm",
+    "48 cm",
+    "22 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 11 × 4 = 44 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 20 cm và 5 cm. Chu vi hình bình hành là:",
+   [
+    "50 cm",
+    "80 cm",
+    "100 cm",
+    "52 cm"
+   ],
+   "Chu vi = (20 + 5) × 2 = 50 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 25 cm và 15 cm. Chu vi hình bình hành là:",
+   [
+    "80 cm",
+    "82 cm",
+    "100 cm",
+    "375 cm"
+   ],
+   "Chu vi = (25 + 15) × 2 = 80 cm."
+  ],
+  [
+   "Hình thoi có cạnh 20 cm. Chu vi hình thoi là:",
+   [
+    "80 cm",
+    "24 cm",
+    "400 cm",
+    "40 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 20 × 4 = 80 cm."
+  ],
+  [
+   "Hình thoi có:",
+   [
+    "Bốn cạnh bằng nhau, hai cặp cạnh đối diện song song",
+    "Bốn góc vuông bắt buộc",
+    "Chỉ hai cạnh bằng nhau",
+    "Không có cạnh song song"
+   ],
+   "Hình thoi có bốn cạnh bằng nhau."
+  ],
+  [
+   "Hình thoi có cạnh 3 cm. Chu vi hình thoi là:",
+   [
+    "12 cm",
+    "9 cm",
+    "16 cm",
+    "7 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 3 × 4 = 12 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 30 cm và 17 cm. Chu vi hình bình hành là:",
+   [
+    "94 cm",
+    "47 cm",
+    "96 cm",
+    "510 cm"
+   ],
+   "Chu vi = (30 + 17) × 2 = 94 cm."
+  ],
+  [
+   "Hình chữ nhật có phải là hình bình hành không?",
+   [
+    "Có, vì có hai cặp cạnh đối diện song song và bằng nhau",
+    "Chỉ khi là hình vuông",
+    "Không, vì có góc vuông",
+    "Không, vì cạnh không bằng nhau"
+   ],
+   "Hình chữ nhật là hình bình hành đặc biệt có 4 góc vuông."
+  ],
+  [
+   "Hai đường chéo của hình thoi:",
+   [
+    "Vuông góc với nhau và cắt nhau tại trung điểm mỗi đường",
+    "Luôn bằng nhau",
+    "Song song với nhau",
+    "Không cắt nhau"
+   ],
+   "Hai đường chéo hình thoi vuông góc và cắt nhau tại trung điểm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 26 cm và 24 cm. Chu vi hình bình hành là:",
+   [
+    "100 cm",
+    "102 cm",
+    "50 cm",
+    "624 cm"
+   ],
+   "Chu vi = (26 + 24) × 2 = 100 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 7 cm và 7 cm. Chu vi hình bình hành là:",
+   [
+    "28 cm",
+    "30 cm",
+    "49 cm",
+    "14 cm"
+   ],
+   "Chu vi = (7 + 7) × 2 = 28 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 17 cm và 5 cm. Chu vi hình bình hành là:",
+   [
+    "44 cm",
+    "85 cm",
+    "22 cm",
+    "68 cm"
+   ],
+   "Chu vi = (17 + 5) × 2 = 44 cm."
+  ],
+  [
+   "Hình bình hành có:",
+   [
+    "Hai cặp cạnh đối diện song song và bằng nhau",
+    "Bốn cạnh bằng nhau và bốn góc vuông",
+    "Chỉ có một cặp cạnh song song",
+    "Bốn góc vuông"
+   ],
+   "Hình bình hành có các cặp cạnh đối diện song song và bằng nhau."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 29 cm và 19 cm. Chu vi hình bình hành là:",
+   [
+    "96 cm",
+    "551 cm",
+    "116 cm",
+    "48 cm"
+   ],
+   "Chu vi = (29 + 19) × 2 = 96 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 10 cm và 5 cm. Chu vi hình bình hành là:",
+   [
+    "30 cm",
+    "15 cm",
+    "40 cm",
+    "32 cm"
+   ],
+   "Chu vi = (10 + 5) × 2 = 30 cm."
+  ],
+  [
+   "Hình thoi có cạnh 19 cm. Chu vi hình thoi là:",
+   [
+    "76 cm",
+    "361 cm",
+    "23 cm",
+    "80 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 19 × 4 = 76 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 18 cm và 13 cm. Chu vi hình bình hành là:",
+   [
+    "62 cm",
+    "64 cm",
+    "31 cm",
+    "234 cm"
+   ],
+   "Chu vi = (18 + 13) × 2 = 62 cm."
+  ],
+  [
+   "Hình thoi có cạnh 24 cm. Chu vi hình thoi là:",
+   [
+    "96 cm",
+    "28 cm",
+    "576 cm",
+    "100 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 24 × 4 = 96 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 15 cm và 3 cm. Chu vi hình bình hành là:",
+   [
+    "36 cm",
+    "18 cm",
+    "60 cm",
+    "38 cm"
+   ],
+   "Chu vi = (15 + 3) × 2 = 36 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 25 cm và 4 cm. Chu vi hình bình hành là:",
+   [
+    "58 cm",
+    "100 cm",
+    "60 cm",
+    "29 cm"
+   ],
+   "Chu vi = (25 + 4) × 2 = 58 cm."
+  ],
+  [
+   "Hình thoi có cạnh 14 cm. Chu vi hình thoi là:",
+   [
+    "56 cm",
+    "60 cm",
+    "18 cm",
+    "28 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 14 × 4 = 56 cm."
+  ],
+  [
+   "Hình thoi có cạnh 13 cm. Chu vi hình thoi là:",
+   [
+    "52 cm",
+    "26 cm",
+    "56 cm",
+    "169 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 13 × 4 = 52 cm."
+  ],
+  [
+   "Hình thoi có cạnh 21 cm. Chu vi hình thoi là:",
+   [
+    "84 cm",
+    "25 cm",
+    "88 cm",
+    "441 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 21 × 4 = 84 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 30 cm và 8 cm. Chu vi hình bình hành là:",
+   [
+    "76 cm",
+    "38 cm",
+    "78 cm",
+    "120 cm"
+   ],
+   "Chu vi = (30 + 8) × 2 = 76 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 27 cm và 13 cm. Chu vi hình bình hành là:",
+   [
+    "80 cm",
+    "351 cm",
+    "108 cm",
+    "40 cm"
+   ],
+   "Chu vi = (27 + 13) × 2 = 80 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 23 cm và 4 cm. Chu vi hình bình hành là:",
+   [
+    "54 cm",
+    "56 cm",
+    "92 cm",
+    "27 cm"
+   ],
+   "Chu vi = (23 + 4) × 2 = 54 cm."
+  ],
+  [
+   "Hình thoi có cạnh 23 cm. Chu vi hình thoi là:",
+   [
+    "92 cm",
+    "27 cm",
+    "46 cm",
+    "96 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 23 × 4 = 92 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 28 cm và 26 cm. Chu vi hình bình hành là:",
+   [
+    "108 cm",
+    "110 cm",
+    "54 cm",
+    "112 cm"
+   ],
+   "Chu vi = (28 + 26) × 2 = 108 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 5 cm và 4 cm. Chu vi hình bình hành là:",
+   [
+    "18 cm",
+    "20 cm",
+    "9 cm",
+    "0"
+   ],
+   "Chu vi = (5 + 4) × 2 = 18 cm."
+  ],
+  [
+   "Hình thoi có cạnh 5 cm. Chu vi hình thoi là:",
+   [
+    "20 cm",
+    "9 cm",
+    "24 cm",
+    "25 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 5 × 4 = 20 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 5 cm và 5 cm. Chu vi hình bình hành là:",
+   [
+    "20 cm",
+    "22 cm",
+    "10 cm",
+    "25 cm"
+   ],
+   "Chu vi = (5 + 5) × 2 = 20 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 15 cm và 9 cm. Chu vi hình bình hành là:",
+   [
+    "48 cm",
+    "24 cm",
+    "135 cm",
+    "50 cm"
+   ],
+   "Chu vi = (15 + 9) × 2 = 48 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 23 cm và 17 cm. Chu vi hình bình hành là:",
+   [
+    "80 cm",
+    "40 cm",
+    "391 cm",
+    "82 cm"
+   ],
+   "Chu vi = (23 + 17) × 2 = 80 cm."
+  ],
+  [
+   "Hình thoi có cạnh 15 cm. Chu vi hình thoi là:",
+   [
+    "60 cm",
+    "19 cm",
+    "64 cm",
+    "225 cm"
+   ],
+   "Hình thoi có 4 cạnh bằng nhau: 15 × 4 = 60 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 8 cm và 3 cm. Chu vi hình bình hành là:",
+   [
+    "22 cm",
+    "11 cm",
+    "24 cm",
+    "32 cm"
+   ],
+   "Chu vi = (8 + 3) × 2 = 22 cm."
+  ],
+  [
+   "Hình bình hành có hai cạnh kề nhau dài 27 cm và 25 cm. Chu vi hình bình hành là:",
+   [
+    "104 cm",
+    "106 cm",
+    "52 cm",
+    "108 cm"
+   ],
+   "Chu vi = (27 + 25) × 2 = 104 cm."
+  ]
+ ],
+ "c8": [
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 45; 4B: 19; 4C: 31; 4D: 33. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "26 cây",
+    "45 cây",
+    "64 cây",
+    "19 cây"
+   ],
+   "45 − 19 = 26 cây."
+  ],
+  [
+   "Dãy số liệu: 16, 31, 31, 27, 10, 15. Dãy có bao nhiêu số liệu?",
+   [
+    "6",
+    "15",
+    "7",
+    "8"
+   ],
+   "Đếm các số trong dãy: 6 số liệu."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 22; 4B: 28; 4C: 20; 4D: 34. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "104 cây",
+    "103 cây",
+    "114 cây",
+    "136 cây"
+   ],
+   "22 + 28 + 20 + 34 = 104 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 20; 4B: 13; 4C: 28; 4D: 41. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "28 cây",
+    "54 cây",
+    "41 cây",
+    "13 cây"
+   ],
+   "41 − 13 = 28 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 35; 4B: 22; 4C: 25; 4D: 21. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "103 cây",
+    "113 cây",
+    "104 cây",
+    "102 cây"
+   ],
+   "35 + 22 + 25 + 21 = 103 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 29; 4B: 30; 4C: 41; 4D: 24. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "124 cây",
+    "123 cây",
+    "164 cây",
+    "125 cây"
+   ],
+   "29 + 30 + 41 + 24 = 124 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 23; 4B: 22; 4C: 20; 4D: 27. Trung bình mỗi lớp trồng được bao nhiêu cây?",
+   [
+    "23 cây",
+    "24 cây",
+    "92 cây",
+    "22 cây"
+   ],
+   "Tổng 92 cây chia 4 lớp: 23 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 28; 4B: 13; 4C: 27; 4D: 27. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "15 cây",
+    "13 cây",
+    "16 cây",
+    "28 cây"
+   ],
+   "28 − 13 = 15 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 29; 4B: 13; 4C: 12; 4D: 42. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "30 cây",
+    "42 cây",
+    "12 cây",
+    "54 cây"
+   ],
+   "42 − 12 = 30 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 44; 4B: 42; 4C: 42; 4D: 41. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "169 cây",
+    "168 cây",
+    "179 cây",
+    "170 cây"
+   ],
+   "44 + 42 + 42 + 41 = 169 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 14; 4B: 15; 4C: 22; 4D: 33. Trung bình mỗi lớp trồng được bao nhiêu cây?",
+   [
+    "21 cây",
+    "22 cây",
+    "20 cây",
+    "84 cây"
+   ],
+   "Tổng 84 cây chia 4 lớp: 21 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 33; 4B: 33; 4C: 44; 4D: 10. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "34 cây",
+    "35 cây",
+    "44 cây",
+    "54 cây"
+   ],
+   "44 − 10 = 34 cây."
+  ],
+  [
+   "Dãy số liệu: 45, 39, 28, 36, 39, 17. Số lớn nhất trong dãy là:",
+   [
+    "45",
+    "17",
+    "39",
+    "28"
+   ],
+   "So sánh các số: lớn nhất là 45."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 32; 4B: 23; 4C: 27; 4D: 42. Lớp nào trồng nhiều cây nhất?",
+   [
+    "Lớp 4D",
+    "Lớp 4A",
+    "Lớp 4B",
+    "Lớp 4C"
+   ],
+   "Cột cao nhất ứng với 42 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 39; 4B: 21; 4C: 21; 4D: 12. Lớp nào trồng nhiều cây nhất?",
+   [
+    "Lớp 4A",
+    "Lớp 4C",
+    "Lớp 4B",
+    "Lớp 4D"
+   ],
+   "Cột cao nhất ứng với 39 cây."
+  ],
+  [
+   "Dãy số liệu: 28, 2, 33, 27, 40, 16. Dãy có bao nhiêu số liệu?",
+   [
+    "6",
+    "8",
+    "5",
+    "7"
+   ],
+   "Đếm các số trong dãy: 6 số liệu."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 19; 4B: 40; 4C: 17; 4D: 25. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "101 cây",
+    "102 cây",
+    "160 cây",
+    "111 cây"
+   ],
+   "19 + 40 + 17 + 25 = 101 cây."
+  ],
+  [
+   "Dãy số liệu: 50, 15, 36, 16, 13, 2. Dãy có bao nhiêu số liệu?",
+   [
+    "6",
+    "2",
+    "8",
+    "7"
+   ],
+   "Đếm các số trong dãy: 6 số liệu."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 36; 4B: 25; 4C: 43; 4D: 11. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "32 cây",
+    "54 cây",
+    "43 cây",
+    "33 cây"
+   ],
+   "43 − 11 = 32 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 41; 4B: 30; 4C: 28; 4D: 36. Lớp nào trồng nhiều cây nhất?",
+   [
+    "Lớp 4A",
+    "Lớp 4C",
+    "Lớp 4D",
+    "Lớp 4B"
+   ],
+   "Cột cao nhất ứng với 41 cây."
+  ],
+  [
+   "Dãy số liệu: 45, 36, 22, 9, 21, 3. Số thứ 6 của dãy là:",
+   [
+    "3",
+    "22",
+    "45",
+    "21"
+   ],
+   "Đếm từ trái sang, số thứ 6 là 3."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 32; 4B: 39; 4C: 26; 4D: 40. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "137 cây",
+    "147 cây",
+    "136 cây",
+    "138 cây"
+   ],
+   "32 + 39 + 26 + 40 = 137 cây."
+  ],
+  [
+   "Dãy số liệu: 8, 10, 40, 47, 26, 16. Số thứ 6 của dãy là:",
+   [
+    "16",
+    "10",
+    "8",
+    "47"
+   ],
+   "Đếm từ trái sang, số thứ 6 là 16."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 30; 4B: 28; 4C: 18; 4D: 23. Lớp nào trồng nhiều cây nhất?",
+   [
+    "Lớp 4A",
+    "Lớp 4D",
+    "Lớp 4B",
+    "Lớp 4C"
+   ],
+   "Cột cao nhất ứng với 30 cây."
+  ],
+  [
+   "Dãy số liệu: 47, 47, 17, 21, 4, 8. Số lớn nhất trong dãy là:",
+   [
+    "47",
+    "8",
+    "4",
+    "21"
+   ],
+   "So sánh các số: lớn nhất là 47."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 22; 4B: 35; 4C: 45; 4D: 19. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "26 cây",
+    "64 cây",
+    "27 cây",
+    "19 cây"
+   ],
+   "45 − 19 = 26 cây."
+  ],
+  [
+   "Dãy số liệu: 24, 10, 15, 32, 17, 13. Số lớn nhất trong dãy là:",
+   [
+    "32",
+    "24",
+    "33",
+    "17"
+   ],
+   "So sánh các số: lớn nhất là 32."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 17; 4B: 29; 4C: 35; 4D: 18. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "99 cây",
+    "100 cây",
+    "98 cây",
+    "140 cây"
+   ],
+   "17 + 29 + 35 + 18 = 99 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 19; 4B: 17; 4C: 22; 4D: 45. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "103 cây",
+    "102 cây",
+    "113 cây",
+    "104 cây"
+   ],
+   "19 + 17 + 22 + 45 = 103 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 34; 4B: 24; 4C: 11; 4D: 35. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "104 cây",
+    "103 cây",
+    "114 cây",
+    "105 cây"
+   ],
+   "34 + 24 + 11 + 35 = 104 cây."
+  ],
+  [
+   "Dãy số liệu: 4, 35, 4, 18, 46, 26. Số lớn nhất trong dãy là:",
+   [
+    "46",
+    "35",
+    "4",
+    "26"
+   ],
+   "So sánh các số: lớn nhất là 46."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 42; 4B: 38; 4C: 19; 4D: 12. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "111 cây",
+    "110 cây",
+    "168 cây",
+    "121 cây"
+   ],
+   "42 + 38 + 19 + 12 = 111 cây."
+  ],
+  [
+   "Dãy số liệu: 16, 27, 28, 16, 12, 40. Dãy có bao nhiêu số liệu?",
+   [
+    "6",
+    "7",
+    "5",
+    "40"
+   ],
+   "Đếm các số trong dãy: 6 số liệu."
+  ],
+  [
+   "Dãy số liệu: 34, 31, 30, 41, 23, 13. Số thứ 4 của dãy là:",
+   [
+    "41",
+    "34",
+    "13",
+    "4"
+   ],
+   "Đếm từ trái sang, số thứ 4 là 41."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 34; 4B: 40; 4C: 11; 4D: 44. Lớp trồng nhiều nhất hơn lớp trồng ít nhất bao nhiêu cây?",
+   [
+    "33 cây",
+    "11 cây",
+    "44 cây",
+    "34 cây"
+   ],
+   "44 − 11 = 33 cây."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 37; 4B: 30; 4C: 23; 4D: 26. Trung bình mỗi lớp trồng được bao nhiêu cây?",
+   [
+    "29 cây",
+    "116 cây",
+    "28 cây",
+    "37 cây"
+   ],
+   "Tổng 116 cây chia 4 lớp: 29 cây."
+  ],
+  [
+   "Dãy số liệu: 6, 26, 20, 19, 16, 49. Số lớn nhất trong dãy là:",
+   [
+    "49",
+    "19",
+    "6",
+    "16"
+   ],
+   "So sánh các số: lớn nhất là 49."
+  ],
+  [
+   "Dãy số liệu: 16, 10, 7, 4, 38, 36. Dãy có bao nhiêu số liệu?",
+   [
+    "6",
+    "8",
+    "36",
+    "5"
+   ],
+   "Đếm các số trong dãy: 6 số liệu."
+  ],
+  [
+   "Dãy số liệu: 49, 10, 18, 9, 25, 29. Số thứ 5 của dãy là:",
+   [
+    "25",
+    "29",
+    "9",
+    "5"
+   ],
+   "Đếm từ trái sang, số thứ 5 là 25."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 10; 4B: 17; 4C: 41; 4D: 26. Lớp nào trồng nhiều cây nhất?",
+   [
+    "Lớp 4C",
+    "Lớp 4A",
+    "Lớp 4B",
+    "Lớp 4D"
+   ],
+   "Cột cao nhất ứng với 41 cây."
+  ]
+ ],
+ "c9": [
+  [
+   "3/8 = ?/40. Số cần điền là:",
+   [
+    "15",
+    "8",
+    "16",
+    "37"
+   ],
+   "Mẫu 8 nhân 5 được 40 nên tử cũng nhân 5: 3 × 5 = 15."
+  ],
+  [
+   "Phân số 7/5 có tử số và mẫu số là:",
+   [
+    "Tử số 7, mẫu số 5",
+    "Tử số 12, mẫu số 5",
+    "Tử số 7, mẫu số 12",
+    "Tử số 5, mẫu số 7"
+   ],
+   "Tử số viết trên gạch ngang, mẫu số viết dưới gạch ngang."
+  ],
+  [
+   "Một cái bánh chia thành 9 phần bằng nhau, ăn 3 phần. Phân số chỉ phần bánh đã ăn là:",
+   [
+    "3/9",
+    "9/3",
+    "6/9",
+    "3/12"
+   ],
+   "Lấy 3 phần trong 9 phần bằng nhau: 3/9."
+  ],
+  [
+   "Một cái bánh chia thành 10 phần bằng nhau, ăn 9 phần. Phân số chỉ phần bánh đã ăn là:",
+   [
+    "9/10",
+    "10/9",
+    "1/10",
+    "9/19"
+   ],
+   "Lấy 9 phần trong 10 phần bằng nhau: 9/10."
+  ],
+  [
+   "Điền dấu: 22/12 ... 1",
+   [
+    ">",
+    "<",
+    "=",
+    "+"
+   ],
+   "Tử lớn hơn mẫu nên phân số > 1."
+  ],
+  [
+   "Điền dấu: 7/9 ... 8/9",
+   [
+    "<",
+    "=",
+    "+",
+    ">"
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 7 < 8."
+  ],
+  [
+   "Điền dấu: 1/4 ... 3/4",
+   [
+    "<",
+    "+",
+    ">",
+    "="
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 1 < 3."
+  ],
+  [
+   "Một cái bánh chia thành 6 phần bằng nhau, ăn 2 phần. Phân số chỉ phần bánh đã ăn là:",
+   [
+    "2/6",
+    "4/6",
+    "2/8",
+    "6/2"
+   ],
+   "Lấy 2 phần trong 6 phần bằng nhau: 2/6."
+  ],
+  [
+   "Phân số 10/9 có tử số và mẫu số là:",
+   [
+    "Tử số 10, mẫu số 9",
+    "Tử số 9, mẫu số 10",
+    "Tử số 19, mẫu số 9",
+    "Tử số 10, mẫu số 19"
+   ],
+   "Tử số viết trên gạch ngang, mẫu số viết dưới gạch ngang."
+  ],
+  [
+   "Phân số 10/8 có tử số và mẫu số là:",
+   [
+    "Tử số 10, mẫu số 8",
+    "Tử số 18, mẫu số 8",
+    "Tử số 8, mẫu số 10",
+    "Tử số 10, mẫu số 18"
+   ],
+   "Tử số viết trên gạch ngang, mẫu số viết dưới gạch ngang."
+  ],
+  [
+   "Rút gọn phân số 56/96 được phân số tối giản:",
+   [
+    "7/12",
+    "12/7",
+    "7/96",
+    "56/12"
+   ],
+   "Chia cả tử và mẫu cho 8: 7/12."
+  ],
+  [
+   "Một cái bánh chia thành 5 phần bằng nhau, ăn 1 phần. Phân số chỉ phần bánh đã ăn là:",
+   [
+    "1/5",
+    "1/6",
+    "5/1",
+    "4/5"
+   ],
+   "Lấy 1 phần trong 5 phần bằng nhau: 1/5."
+  ],
+  [
+   "Điền dấu: 2/11 ... 7/11",
+   [
+    "<",
+    ">",
+    "+",
+    "="
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 2 < 7."
+  ],
+  [
+   "Điền dấu: 3/10 ... 2/10",
+   [
+    ">",
+    "+",
+    "<",
+    "="
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 3 > 2."
+  ],
+  [
+   "Điền dấu: 5/11 ... 1",
+   [
+    "<",
+    "+",
+    "=",
+    ">"
+   ],
+   "Tử bé hơn mẫu nên phân số < 1."
+  ],
+  [
+   "Một cái bánh chia thành 7 phần bằng nhau, ăn 5 phần. Phân số chỉ phần bánh đã ăn là:",
+   [
+    "5/7",
+    "5/12",
+    "2/7",
+    "7/5"
+   ],
+   "Lấy 5 phần trong 7 phần bằng nhau: 5/7."
+  ],
+  [
+   "3/7 = ?/14. Số cần điền là:",
+   [
+    "6",
+    "5",
+    "7",
+    "3"
+   ],
+   "Mẫu 7 nhân 2 được 14 nên tử cũng nhân 2: 3 × 2 = 6."
+  ],
+  [
+   "Rút gọn phân số 54/99 được phân số tối giản:",
+   [
+    "6/11",
+    "7/11",
+    "6/99",
+    "11/6"
+   ],
+   "Chia cả tử và mẫu cho 9: 6/11."
+  ],
+  [
+   "Rút gọn phân số 81/90 được phân số tối giản:",
+   [
+    "9/10",
+    "9/90",
+    "10/9",
+    "81/10"
+   ],
+   "Chia cả tử và mẫu cho 9: 9/10."
+  ],
+  [
+   "5/6 = ?/24. Số cần điền là:",
+   [
+    "20",
+    "9",
+    "5",
+    "19"
+   ],
+   "Mẫu 6 nhân 4 được 24 nên tử cũng nhân 4: 5 × 4 = 20."
+  ],
+  [
+   "1/9 = ?/27. Số cần điền là:",
+   [
+    "3",
+    "4",
+    "26",
+    "1"
+   ],
+   "Mẫu 9 nhân 3 được 27 nên tử cũng nhân 3: 1 × 3 = 3."
+  ],
+  [
+   "Rút gọn phân số 15/21 được phân số tối giản:",
+   [
+    "5/7",
+    "5/21",
+    "7/5",
+    "6/7"
+   ],
+   "Chia cả tử và mẫu cho 3: 5/7."
+  ],
+  [
+   "Điền dấu: 4/3 ... 1",
+   [
+    ">",
+    "=",
+    "<",
+    "+"
+   ],
+   "Tử lớn hơn mẫu nên phân số > 1."
+  ],
+  [
+   "1/4 = ?/20. Số cần điền là:",
+   [
+    "5",
+    "6",
+    "19",
+    "1"
+   ],
+   "Mẫu 4 nhân 5 được 20 nên tử cũng nhân 5: 1 × 5 = 5."
+  ],
+  [
+   "Điền dấu: 2/5 ... 3/5",
+   [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 2 < 3."
+  ],
+  [
+   "2/5 = ?/15. Số cần điền là:",
+   [
+    "6",
+    "13",
+    "5",
+    "2"
+   ],
+   "Mẫu 5 nhân 3 được 15 nên tử cũng nhân 3: 2 × 3 = 6."
+  ],
+  [
+   "Phân số 5/2 có tử số và mẫu số là:",
+   [
+    "Tử số 5, mẫu số 2",
+    "Tử số 5, mẫu số 7",
+    "Tử số 2, mẫu số 5",
+    "Tử số 7, mẫu số 2"
+   ],
+   "Tử số viết trên gạch ngang, mẫu số viết dưới gạch ngang."
+  ],
+  [
+   "Điền dấu: 6/11 ... 8/11",
+   [
+    "<",
+    "=",
+    "+",
+    ">"
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 6 < 8."
+  ],
+  [
+   "Rút gọn phân số 24/33 được phân số tối giản:",
+   [
+    "8/11",
+    "24/11",
+    "8/33",
+    "11/8"
+   ],
+   "Chia cả tử và mẫu cho 3: 8/11."
+  ],
+  [
+   "Điền dấu: 8/5 ... 1",
+   [
+    ">",
+    "=",
+    "+",
+    "<"
+   ],
+   "Tử lớn hơn mẫu nên phân số > 1."
+  ],
+  [
+   "Điền dấu: 2/8 ... 1",
+   [
+    "<",
+    "+",
+    ">",
+    "="
+   ],
+   "Tử bé hơn mẫu nên phân số < 1."
+  ],
+  [
+   "Một cái bánh chia thành 7 phần bằng nhau, ăn 2 phần. Phân số chỉ phần bánh đã ăn là:",
+   [
+    "2/7",
+    "5/7",
+    "7/2",
+    "2/9"
+   ],
+   "Lấy 2 phần trong 7 phần bằng nhau: 2/7."
+  ],
+  [
+   "2/3 = ?/6. Số cần điền là:",
+   [
+    "4",
+    "2",
+    "5",
+    "12"
+   ],
+   "Mẫu 3 nhân 2 được 6 nên tử cũng nhân 2: 2 × 2 = 4."
+  ],
+  [
+   "Điền dấu: 10/12 ... 8/12",
+   [
+    ">",
+    "+",
+    "<",
+    "="
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 10 > 8."
+  ],
+  [
+   "Điền dấu: 18/11 ... 1",
+   [
+    ">",
+    "+",
+    "<",
+    "="
+   ],
+   "Tử lớn hơn mẫu nên phân số > 1."
+  ],
+  [
+   "Điền dấu: 11/12 ... 4/12",
+   [
+    ">",
+    "<",
+    "=",
+    "+"
+   ],
+   "Cùng mẫu số, phân số nào có tử lớn hơn thì lớn hơn: 11 > 4."
+  ],
+  [
+   "Phân số 1/12 có tử số và mẫu số là:",
+   [
+    "Tử số 1, mẫu số 12",
+    "Tử số 13, mẫu số 12",
+    "Tử số 1, mẫu số 13",
+    "Tử số 12, mẫu số 1"
+   ],
+   "Tử số viết trên gạch ngang, mẫu số viết dưới gạch ngang."
+  ],
+  [
+   "1/3 = ?/12. Số cần điền là:",
+   [
+    "4",
+    "5",
+    "11",
+    "1"
+   ],
+   "Mẫu 3 nhân 4 được 12 nên tử cũng nhân 4: 1 × 4 = 4."
+  ],
+  [
+   "Một cái bánh chia thành 10 phần bằng nhau, ăn 6 phần. Phân số chỉ phần bánh đã ăn là:",
+   [
+    "6/10",
+    "10/6",
+    "6/16",
+    "4/10"
+   ],
+   "Lấy 6 phần trong 10 phần bằng nhau: 6/10."
+  ],
+  [
+   "Rút gọn phân số 42/77 được phân số tối giản:",
+   [
+    "6/11",
+    "11/6",
+    "6/77",
+    "42/11"
+   ],
+   "Chia cả tử và mẫu cho 7: 6/11."
+  ]
+ ],
+ "c10": [
+  [
+   "4/6 × 6/3 = ?",
+   [
+    "4/3",
+    "25/18",
+    "12/36",
+    "10/9"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 24/18 = 4/3."
+  ],
+  [
+   "4/9 × 6/7 = ?",
+   [
+    "8/21",
+    "10/16",
+    "28/54",
+    "24/16"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 24/63 = 8/21."
+  ],
+  [
+   "4/4 − 3/4 = ?",
+   [
+    "1/4",
+    "2/4",
+    "7/4",
+    "1/8"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 1/4."
+  ],
+  [
+   "1/3 + 3/6 = ?",
+   [
+    "5/6",
+    "5/3",
+    "4/6",
+    "6/6"
+   ],
+   "Quy đồng: 1/3 = 2/6; 2/6 + 3/6 = 5/6."
+  ],
+  [
+   "3/3 × 6/7 = ?",
+   [
+    "6/7",
+    "18/10",
+    "21/18",
+    "9/10"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 18/21 = 6/7."
+  ],
+  [
+   "5/7 × 4/6 = ?",
+   [
+    "10/21",
+    "20/13",
+    "30/28",
+    "9/13"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 20/42 = 10/21."
+  ],
+  [
+   "6/2 × 6/2 = ?",
+   [
+    "9/1",
+    "37/4",
+    "12/12",
+    "36/4"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 36/4 = 9/1."
+  ],
+  [
+   "5/6 + 1/6 = ?",
+   [
+    "1/1",
+    "6/12",
+    "5/6",
+    "6/7"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 6/6 = 1/1 (rút gọn)."
+  ],
+  [
+   "2/8 − 1/8 = ?",
+   [
+    "1/8",
+    "1/9",
+    "2/8",
+    "3/8"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 1/8."
+  ],
+  [
+   "3/7 − 2/7 = ?",
+   [
+    "1/7",
+    "2/7",
+    "1/14",
+    "5/7"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 1/7."
+  ],
+  [
+   "3/7 + 6/7 = ?",
+   [
+    "9/7",
+    "18/7",
+    "9/14",
+    "10/7"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 9/7."
+  ],
+  [
+   "4/7 × 6/7 = ?",
+   [
+    "24/49",
+    "28/42",
+    "10/14",
+    "24/14"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 24/49."
+  ],
+  [
+   "2/4 + 3/12 = ?",
+   [
+    "3/4",
+    "5/12",
+    "5/16",
+    "10/12"
+   ],
+   "Quy đồng: 2/4 = 6/12; 6/12 + 3/12 = 9/12 = 3/4."
+  ],
+  [
+   "1/2 của 20 là:",
+   [
+    "10",
+    "20",
+    "11",
+    "0"
+   ],
+   "20 : 2 × 1 = 10."
+  ],
+  [
+   "10/13 − 1/13 = ?",
+   [
+    "9/13",
+    "9/14",
+    "10/13",
+    "9/26"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 9/13."
+  ],
+  [
+   "3/6 + 2/12 = ?",
+   [
+    "2/3",
+    "5/18",
+    "9/12",
+    "5/12"
+   ],
+   "Quy đồng: 3/6 = 6/12; 6/12 + 2/12 = 8/12 = 2/3."
+  ],
+  [
+   "4/6 − 1/6 = ?",
+   [
+    "1/2",
+    "4/6",
+    "3/7",
+    "3/12"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 3/6 = 1/2 (rút gọn)."
+  ],
+  [
+   "2/7 − 1/7 = ?",
+   [
+    "1/7",
+    "2/7",
+    "1/8",
+    "3/7"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 1/7."
+  ],
+  [
+   "4/5 của 45 là:",
+   [
+    "36",
+    "9",
+    "11",
+    "37"
+   ],
+   "45 : 5 × 4 = 36."
+  ],
+  [
+   "2/4 − 1/4 = ?",
+   [
+    "1/4",
+    "1/8",
+    "3/4",
+    "2/4"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 1/4."
+  ],
+  [
+   "6/14 + 7/14 = ?",
+   [
+    "13/14",
+    "13/28",
+    "14/14",
+    "42/14"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 13/14."
+  ],
+  [
+   "2/8 × 4/3 = ?",
+   [
+    "1/3",
+    "6/11",
+    "6/32",
+    "8/11"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 8/24 = 1/3."
+  ],
+  [
+   "2/9 : 2/8 = ?",
+   [
+    "8/9",
+    "4/72",
+    "10/11",
+    "9/8"
+   ],
+   "Chia cho một phân số là nhân với phân số đảo ngược: 2/9 × 8/2 = 16/18 = 8/9."
+  ],
+  [
+   "6/13 − 3/13 = ?",
+   [
+    "3/13",
+    "3/26",
+    "3/14",
+    "9/13"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 3/13."
+  ],
+  [
+   "5/4 : 1/3 = ?",
+   [
+    "15/4",
+    "16/4",
+    "8/5",
+    "5/12"
+   ],
+   "Chia cho một phân số là nhân với phân số đảo ngược: 5/4 × 3/1 = 15/4."
+  ],
+  [
+   "2/4 × 6/4 = ?",
+   [
+    "3/4",
+    "13/16",
+    "12/8",
+    "8/24"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 12/16 = 3/4."
+  ],
+  [
+   "5/7 + 3/7 = ?",
+   [
+    "8/7",
+    "15/7",
+    "9/7",
+    "8/14"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 8/7."
+  ],
+  [
+   "3/7 của 35 là:",
+   [
+    "15",
+    "12",
+    "5",
+    "16"
+   ],
+   "35 : 7 × 3 = 15."
+  ],
+  [
+   "1/5 + 12/15 = ?",
+   [
+    "1/1",
+    "15/5",
+    "16/15",
+    "13/20"
+   ],
+   "Quy đồng: 1/5 = 3/15; 3/15 + 12/15 = 15/15 = 1/1."
+  ],
+  [
+   "14/15 + 12/15 = ?",
+   [
+    "26/15",
+    "168/15",
+    "26/30",
+    "27/15"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 26/15."
+  ],
+  [
+   "3/6 : 2/6 = ?",
+   [
+    "3/2",
+    "6/36",
+    "19/12",
+    "9/8"
+   ],
+   "Chia cho một phân số là nhân với phân số đảo ngược: 3/6 × 6/2 = 18/12 = 3/2."
+  ],
+  [
+   "5/8 của 40 là:",
+   [
+    "25",
+    "8",
+    "5",
+    "15"
+   ],
+   "40 : 8 × 5 = 25."
+  ],
+  [
+   "4/3 × 5/5 = ?",
+   [
+    "4/3",
+    "21/15",
+    "9/8",
+    "20/15"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 20/15 = 4/3."
+  ],
+  [
+   "5/8 × 6/5 = ?",
+   [
+    "3/4",
+    "30/13",
+    "31/40",
+    "25/48"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 30/40 = 3/4."
+  ],
+  [
+   "1/6 + 3/6 = ?",
+   [
+    "2/3",
+    "5/6",
+    "3/6",
+    "4/7"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 4/6 = 2/3 (rút gọn)."
+  ],
+  [
+   "2/15 − 1/15 = ?",
+   [
+    "1/15",
+    "1/16",
+    "1/30",
+    "2/15"
+   ],
+   "Cùng mẫu số: trừ hai tử, giữ mẫu: 1/15."
+  ],
+  [
+   "7/15 + 7/15 = ?",
+   [
+    "14/15",
+    "49/15",
+    "14/30",
+    "15/15"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 14/15."
+  ],
+  [
+   "5/6 + 5/6 = ?",
+   [
+    "5/3",
+    "10/12",
+    "11/6",
+    "25/6"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 10/6 = 5/3 (rút gọn)."
+  ],
+  [
+   "4/9 × 4/6 = ?",
+   [
+    "8/27",
+    "16/15",
+    "24/36",
+    "17/54"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 16/54 = 8/27."
+  ],
+  [
+   "2/2 : 3/9 = ?",
+   [
+    "3/1",
+    "19/6",
+    "11/5",
+    "1/3"
+   ],
+   "Chia cho một phân số là nhân với phân số đảo ngược: 2/2 × 9/3 = 18/6 = 3/1."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "12 × 30 = ?",
+   [
+    "360",
+    "370",
+    "36",
+    "372"
+   ],
+   "Nhân 12 với từng chữ số của 30 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 360."
+  ],
+  [
+   "Tổng của hai số là 491, hiệu của chúng là 179. Số bé là:",
+   [
+    "156",
+    "179",
+    "245.5",
+    "157"
+   ],
+   "Số bé = (tổng − hiệu) : 2 = (491 − 179) : 2 = 156."
+  ],
+  [
+   "7 thế kỉ = ... năm",
+   [
+    "700",
+    "7 000",
+    "107",
+    "70"
+   ],
+   "1 thế kỉ = 100 năm nên 7 thế kỉ = 700 năm."
+  ],
+  [
+   "128 546 + 326 335 = ?",
+   [
+    "454 881",
+    "454 981",
+    "454 879",
+    "454 871"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 454 881."
+  ],
+  [
+   "159 970 − 52 924 = ?",
+   [
+    "107 046",
+    "117 046",
+    "107 056",
+    "212 894"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 107 046."
+  ],
+  [
+   "337 664 − 275 152 = ?",
+   [
+    "62 512",
+    "62 522",
+    "72 512",
+    "612 816"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 62 512."
+  ],
+  [
+   "8/15 + 8/15 = ?",
+   [
+    "16/15",
+    "64/15",
+    "16/30",
+    "17/15"
+   ],
+   "Cùng mẫu số: cộng hai tử, giữ mẫu: 16/15."
+  ],
+  [
+   "Trung bình cộng của các số 7, 10, 31 là:",
+   [
+    "16",
+    "17",
+    "31",
+    "15"
+   ],
+   "Tổng 7 + 10 + 31 = 48; chia cho 3 số: 48 : 3 = 16."
+  ],
+  [
+   "892 605 − 793 233 = ?",
+   [
+    "99 372",
+    "1 685 838",
+    "99 382",
+    "109 372"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 99 372."
+  ],
+  [
+   "728 × 84 = ?",
+   [
+    "61 152",
+    "61 880",
+    "8 736",
+    "60 424"
+   ],
+   "Nhân 728 với từng chữ số của 84 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 61 152."
+  ],
+  [
+   "2 tạ = ... yến",
+   [
+    "20",
+    "200",
+    "2",
+    "12"
+   ],
+   "1 tạ = 10 yến nên 2 tạ = 20 yến."
+  ],
+  [
+   "Góc có số đo 20° là:",
+   [
+    "Góc nhọn",
+    "Góc vuông",
+    "Góc bẹt",
+    "Góc tù"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "311 877 − 198 186 = ?",
+   [
+    "113 691",
+    "510 063",
+    "123 691",
+    "113 701"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 113 691."
+  ],
+  [
+   "Rút gọn phân số 12/30 được phân số tối giản:",
+   [
+    "2/5",
+    "3/5",
+    "12/5",
+    "2/30"
+   ],
+   "Chia cả tử và mẫu cho 6: 2/5."
+  ],
+  [
+   "4/6 × 3/5 = ?",
+   [
+    "2/5",
+    "7/11",
+    "12/11",
+    "13/30"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 12/30 = 2/5."
+  ],
+  [
+   "556 × 80 = ?",
+   [
+    "44 480",
+    "44 490",
+    "45 036",
+    "43 924"
+   ],
+   "Nhân 556 với từng chữ số của 80 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 44 480."
+  ],
+  [
+   "Rút gọn phân số 16/18 được phân số tối giản:",
+   [
+    "8/9",
+    "9/9",
+    "8/18",
+    "16/9"
+   ],
+   "Chia cả tử và mẫu cho 2: 8/9."
+  ],
+  [
+   "366 024 + 365 316 = ?",
+   [
+    "731 340",
+    "731 341",
+    "731 330",
+    "731 338"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 731 340."
+  ],
+  [
+   "2/4 × 1/8 = ?",
+   [
+    "1/16",
+    "16/4",
+    "3/12",
+    "2/12"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 2/32 = 1/16."
+  ],
+  [
+   "6/6 × 4/2 = ?",
+   [
+    "2/1",
+    "12/24",
+    "25/12",
+    "10/8"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 24/12 = 2/1."
+  ],
+  [
+   "713 189 − 136 777 = ?",
+   [
+    "576 412",
+    "586 412",
+    "849 966",
+    "575 412"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 576 412."
+  ],
+  [
+   "6/5 × 5/8 = ?",
+   [
+    "3/4",
+    "48/25",
+    "11/13",
+    "30/13"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 30/40 = 3/4."
+  ],
+  [
+   "Tổng của hai số là 365, hiệu của chúng là 249. Số lớn là:",
+   [
+    "307",
+    "58",
+    "249",
+    "308"
+   ],
+   "Số lớn = (tổng + hiệu) : 2 = (365 + 249) : 2 = 307."
+  ],
+  [
+   "Biểu đồ số cây mỗi lớp trồng được – 4A: 12; 4B: 22; 4C: 28; 4D: 16. Cả bốn lớp trồng được bao nhiêu cây?",
+   [
+    "78 cây",
+    "112 cây",
+    "77 cây",
+    "79 cây"
+   ],
+   "12 + 22 + 28 + 16 = 78 cây."
+  ],
+  [
+   "220 412 + 100 514 = ?",
+   [
+    "320 926",
+    "320 826",
+    "321 926",
+    "629 023"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 320 926."
+  ],
+  [
+   "7 591 : 5 = ?",
+   [
+    "1 518 (dư 1)",
+    "1 518 (dư 2)",
+    "1 519 (dư 1)",
+    "151 (dư 1)"
+   ],
+   "Chia lần lượt từ trái sang phải: 7 591 : 5 = 1 518 dư 1. Thử lại: 1 518 × 5 + 1 = 7 591."
+  ],
+  [
+   "419 919 + 86 336 = ?",
+   [
+    "506 255",
+    "506 245",
+    "507 255",
+    "506 257"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 506 255."
+  ],
+  [
+   "Góc có số đo 89° là:",
+   [
+    "Góc nhọn",
+    "Góc bẹt",
+    "Góc vuông",
+    "Góc tù"
+   ],
+   "Góc nhọn bé hơn 90°, góc vuông bằng 90°, góc tù lớn hơn 90° và bé hơn 180°, góc bẹt bằng 180°."
+  ],
+  [
+   "Trung bình cộng của các số 13, 14, 21 là:",
+   [
+    "16",
+    "17",
+    "15",
+    "21"
+   ],
+   "Tổng 13 + 14 + 21 = 48; chia cho 3 số: 48 : 3 = 16."
+  ],
+  [
+   "Trung bình cộng của các số 46, 49, 50, 42, 53 là:",
+   [
+    "48",
+    "53",
+    "240",
+    "49"
+   ],
+   "Tổng 46 + 49 + 50 + 42 + 53 = 240; chia cho 5 số: 240 : 5 = 48."
+  ],
+  [
+   "214 × 64 = ?",
+   [
+    "13 696",
+    "2 140",
+    "13 482",
+    "13 910"
+   ],
+   "Nhân 214 với từng chữ số của 64 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 13 696."
+  ],
+  [
+   "346 919 − 13 539 = ?",
+   [
+    "333 380",
+    "333 390",
+    "332 380",
+    "360 458"
+   ],
+   "Đặt tính thẳng hàng rồi trừ từ phải sang trái: 333 380."
+  ],
+  [
+   "1/4 × 3/5 = ?",
+   [
+    "3/20",
+    "4/9",
+    "4/20",
+    "3/9"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 3/20."
+  ],
+  [
+   "4/9 × 4/6 = ?",
+   [
+    "8/27",
+    "24/36",
+    "17/54",
+    "8/15"
+   ],
+   "Nhân tử với tử, mẫu với mẫu: 16/54 = 8/27."
+  ],
+  [
+   "Rút gọn phân số 36/99 được phân số tối giản:",
+   [
+    "4/11",
+    "36/11",
+    "5/11",
+    "4/99"
+   ],
+   "Chia cả tử và mẫu cho 9: 4/11."
+  ],
+  [
+   "156 430 + 245 800 = ?",
+   [
+    "402 230",
+    "402 231",
+    "402 232",
+    "402 220"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 402 230."
+  ],
+  [
+   "357 × 66 = ?",
+   [
+    "23 562",
+    "23 205",
+    "23 919",
+    "23 572"
+   ],
+   "Nhân 357 với từng chữ số của 66 rồi cộng hai tích riêng (tích thứ hai lùi sang trái một cột): 23 562."
+  ],
+  [
+   "150 661 + 123 148 = ?",
+   [
+    "273 809",
+    "274 809",
+    "263 809",
+    "273 810"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 273 809."
+  ],
+  [
+   "2 m² = ... cm²",
+   [
+    "20 000",
+    "2 000",
+    "200 000",
+    "30 000"
+   ],
+   "1 m² = 10 000 cm² nên 2 m² = 20 000 cm²."
+  ],
+  [
+   "395 477 + 316 937 = ?",
+   [
+    "712 414",
+    "713 414",
+    "712 314",
+    "712 514"
+   ],
+   "Đặt tính thẳng hàng rồi cộng từ phải sang trái: 712 414."
+  ]
+ ]
+}

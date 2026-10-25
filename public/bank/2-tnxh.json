@@ -1,0 +1,2226 @@
+{
+ "c1": [
+  [
+   "Gia đình em có mấy thế hệ nếu gồm ông bà, bố mẹ và em?",
+   [
+    "3 thế hệ",
+    "2 thế hệ",
+    "1 thế hệ",
+    "4 thế hệ"
+   ],
+   "Ông bà, bố mẹ, con cháu: 3 thế hệ."
+  ],
+  [
+   "Để phòng ngộ độc thức ăn, em cần:",
+   [
+    "Ăn chín uống sôi, không ăn đồ ôi thiu",
+    "Ăn đồ đã hỏng",
+    "Uống nước lã",
+    "Ăn quả chưa rửa"
+   ],
+   "Ăn uống sạch sẽ, an toàn."
+  ],
+  [
+   "Thuốc men trong nhà nên để ở đâu?",
+   [
+    "Nơi cao, xa tầm tay trẻ nhỏ",
+    "Trên bàn ăn",
+    "Dưới gầm giường",
+    "Trong tủ lạnh cùng đồ ăn"
+   ],
+   "Để thuốc xa tầm tay trẻ em để tránh uống nhầm."
+  ],
+  [
+   "Khi thấy dấu hiệu ngộ độc (nôn, đau bụng), em cần:",
+   [
+    "Báo ngay cho người lớn",
+    "Tự uống thuốc bất kì",
+    "Giấu không nói",
+    "Ăn thêm"
+   ],
+   "Báo người lớn để được giúp đỡ kịp thời."
+  ],
+  [
+   "Giữ nhà cửa sạch sẽ giúp:",
+   [
+    "Phòng tránh bệnh tật",
+    "Có nhiều muỗi",
+    "Nhà bẩn hơn",
+    "Không có tác dụng"
+   ],
+   "Nhà sạch giúp cả nhà khỏe mạnh."
+  ],
+  [
+   "Ngày 28/6 là ngày gì?",
+   [
+    "Ngày Gia đình Việt Nam",
+    "Ngày Nhà giáo",
+    "Ngày Quốc khánh",
+    "Tết Thiếu nhi"
+   ],
+   "28 tháng 6 là Ngày Gia đình Việt Nam."
+  ],
+  [
+   "Những người nào thuộc thế hệ thứ nhất trong gia đình ba thế hệ?",
+   [
+    "Ông bà",
+    "Bố mẹ",
+    "Anh chị em",
+    "Cô chú"
+   ],
+   "Thế hệ thứ nhất là ông bà, rồi đến bố mẹ, sau cùng là con cháu."
+  ],
+  [
+   "Gia đình chỉ có bố mẹ và con cái là gia đình mấy thế hệ?",
+   [
+    "2 thế hệ",
+    "1 thế hệ",
+    "3 thế hệ",
+    "4 thế hệ"
+   ],
+   "Bố mẹ và con: hai thế hệ."
+  ],
+  [
+   "Em nên làm gì khi ông bà ốm?",
+   [
+    "Hỏi thăm, lấy nước, giữ yên lặng cho ông bà nghỉ",
+    "Bật nhạc thật to",
+    "Chạy đi chơi",
+    "Đòi ông bà kể chuyện"
+   ],
+   "Quan tâm, chăm sóc người thân khi ốm."
+  ],
+  [
+   "Nghề nghiệp của người lớn trong gia đình giúp:",
+   [
+    "Có thu nhập, nuôi sống gia đình và có ích cho xã hội",
+    "Chỉ để vui chơi",
+    "Không có ích gì",
+    "Chỉ để đi xa nhà"
+   ],
+   "Nghề nghiệp đem lại thu nhập và giúp ích cho xã hội."
+  ],
+  [
+   "Người làm nghề chữa bệnh là:",
+   [
+    "Bác sĩ",
+    "Thợ may",
+    "Kĩ sư",
+    "Lái xe"
+   ],
+   "Bác sĩ khám chữa bệnh."
+  ],
+  [
+   "Người làm nghề may quần áo là:",
+   [
+    "Thợ may",
+    "Nông dân",
+    "Thợ xây",
+    "Bưu tá"
+   ],
+   "Thợ may may quần áo."
+  ],
+  [
+   "Thức ăn để lâu ngoài không khí, có mùi lạ thì:",
+   [
+    "Không nên ăn vì có thể bị ngộ độc",
+    "Vẫn ăn bình thường",
+    "Ăn nhiều hơn",
+    "Cho thêm đường rồi ăn"
+   ],
+   "Thức ăn ôi thiu gây ngộ độc."
+  ],
+  [
+   "Khi bị ngộ độc thức ăn, cơ thể thường có dấu hiệu:",
+   [
+    "Đau bụng, nôn, đi ngoài",
+    "Cao lên nhanh",
+    "Thấy khỏe hơn",
+    "Ngủ ngon hơn"
+   ],
+   "Đau bụng, nôn, tiêu chảy là dấu hiệu ngộ độc."
+  ],
+  [
+   "Hóa chất tẩy rửa trong nhà nên cất ở đâu?",
+   [
+    "Nơi riêng, xa đồ ăn và xa tầm tay trẻ em",
+    "Cạnh nồi cơm",
+    "Trong tủ lạnh",
+    "Trên bàn học"
+   ],
+   "Cất riêng để tránh uống nhầm."
+  ],
+  [
+   "Để giữ nhà cửa gọn gàng, em nên:",
+   [
+    "Cất đồ dùng đúng chỗ sau khi dùng",
+    "Vứt đồ khắp nơi",
+    "Để quần áo bẩn trên giường",
+    "Không dọn dẹp"
+   ],
+   "Dùng xong cất đúng chỗ."
+  ],
+  [
+   "Khi vứt rác ở nhà, em cần:",
+   [
+    "Bỏ rác vào thùng, phân loại nếu có thể",
+    "Vứt ra đường",
+    "Ném xuống ao",
+    "Để dưới gầm giường"
+   ],
+   "Bỏ rác đúng nơi, phân loại rác."
+  ],
+  [
+   "Thức ăn chín nên được:",
+   [
+    "Đậy kín để tránh ruồi, bụi",
+    "Để hở ngoài sân",
+    "Cho mèo nếm trước",
+    "Để cạnh thùng rác"
+   ],
+   "Đậy thức ăn giữ vệ sinh."
+  ],
+  [
+   "Khi đi chơi xa, em cần:",
+   [
+    "Xin phép bố mẹ, đi cùng người lớn",
+    "Tự đi một mình",
+    "Đi theo người lạ",
+    "Không cần báo ai"
+   ],
+   "Luôn xin phép và đi cùng người lớn."
+  ],
+  [
+   "Nếu người lạ cho quà và rủ đi chơi, em nên:",
+   [
+    "Từ chối, không đi theo và báo người lớn",
+    "Nhận quà và đi theo",
+    "Đi theo cho vui",
+    "Giữ bí mật"
+   ],
+   "Không đi theo người lạ."
+  ],
+  [
+   "Đồ dùng nào trong nhà chạy bằng điện?",
+   [
+    "Quạt điện",
+    "Cái chổi",
+    "Cái bát",
+    "Cái gối"
+   ],
+   "Quạt cần điện để chạy."
+  ],
+  [
+   "Khi cắm, rút phích điện em cần:",
+   [
+    "Tay khô ráo và nhờ người lớn giúp",
+    "Tay ướt cũng được",
+    "Dùng kéo cắm vào",
+    "Giật mạnh dây điện"
+   ],
+   "Tay ướt dễ bị điện giật."
+  ],
+  [
+   "Ngày Gia đình Việt Nam là ngày nào?",
+   [
+    "28 tháng 6",
+    "1 tháng 6",
+    "20 tháng 11",
+    "8 tháng 3"
+   ],
+   "Ngày 28/6 hằng năm."
+  ],
+  [
+   "Việc nào thể hiện sự hiếu thảo với ông bà, bố mẹ?",
+   [
+    "Vâng lời, giúp đỡ việc nhà",
+    "Cãi lại người lớn",
+    "Đòi mua đồ chơi đắt tiền",
+    "Bỏ ăn khi giận"
+   ],
+   "Hiếu thảo: vâng lời, giúp đỡ."
+  ],
+  [
+   "Khi khách đến nhà, em nên:",
+   [
+    "Chào hỏi lễ phép",
+    "Trốn vào phòng",
+    "Chạy nhảy ồn ào",
+    "Không nói gì"
+   ],
+   "Lễ phép chào khách."
+  ],
+  [
+   "Thuốc chỉ được uống khi:",
+   [
+    "Có người lớn hoặc bác sĩ cho uống",
+    "Thấy thuốc có màu đẹp",
+    "Thấy ngon như kẹo",
+    "Bạn bè mời"
+   ],
+   "Tự uống thuốc rất nguy hiểm."
+  ],
+  [
+   "Khi bố mẹ đi vắng, có người lạ gõ cửa, em nên:",
+   [
+    "Không mở cửa, gọi điện báo bố mẹ",
+    "Mở cửa ngay",
+    "Mời vào nhà",
+    "Đi theo người đó"
+   ],
+   "Không mở cửa cho người lạ."
+  ],
+  [
+   "Đồ dùng nào dễ gây bỏng trong nhà?",
+   [
+    "Ấm nước sôi, bàn là đang nóng",
+    "Gối ôm",
+    "Quyển truyện",
+    "Cái thước"
+   ],
+   "Tránh xa đồ nóng."
+  ],
+  [
+   "Em có thể giúp mẹ việc gì phù hợp?",
+   [
+    "Nhặt rau, lau bàn, gấp quần áo",
+    "Đun bếp ga một mình",
+    "Leo lên mái nhà",
+    "Sửa ổ điện"
+   ],
+   "Việc vừa sức, an toàn."
+  ],
+  [
+   "Nhà ở cần được giữ:",
+   [
+    "Sạch sẽ, thoáng mát",
+    "Bẩn và tối",
+    "Đầy rác",
+    "Ẩm mốc"
+   ],
+   "Nhà sạch giúp khỏe mạnh."
+  ],
+  [
+   "Ăn uống sạch sẽ giúp:",
+   [
+    "Phòng tránh ngộ độc, bệnh đường ruột",
+    "Bị đau bụng",
+    "Mệt mỏi",
+    "Không có tác dụng"
+   ],
+   "Vệ sinh an toàn thực phẩm."
+  ]
+ ],
+ "c2": [
+  [
+   "Ngày 20/11 là ngày gì?",
+   [
+    "Ngày Nhà giáo Việt Nam",
+    "Ngày Quốc tế Thiếu nhi",
+    "Ngày Phụ nữ Việt Nam",
+    "Tết Trung thu"
+   ],
+   "20 tháng 11 là Ngày Nhà giáo Việt Nam."
+  ],
+  [
+   "Khi tham gia hoạt động ở trường, em cần:",
+   [
+    "Giữ an toàn, đoàn kết với bạn",
+    "Xô đẩy bạn",
+    "Tự ý đi ra ngoài",
+    "Phá đồ dùng"
+   ],
+   "An toàn và đoàn kết."
+  ],
+  [
+   "Để giữ vệ sinh trường học, em không nên:",
+   [
+    "Vẽ bậy lên tường, bàn ghế",
+    "Nhặt rác",
+    "Lau bàn ghế",
+    "Tưới cây"
+   ],
+   "Vẽ bậy làm bẩn trường."
+  ],
+  [
+   "Ai là người giữ gìn an ninh cho trường?",
+   [
+    "Bác bảo vệ",
+    "Cô giáo dạy nhạc",
+    "Bạn lớp trưởng",
+    "Cô thủ thư"
+   ],
+   "Bác bảo vệ trông coi trường."
+  ],
+  [
+   "Khi thấy bạn bị ngã, em nên:",
+   [
+    "Đỡ bạn dậy và báo thầy cô",
+    "Cười chê bạn",
+    "Bỏ đi",
+    "Chụp ảnh"
+   ],
+   "Giúp đỡ bạn khi gặp khó khăn."
+  ],
+  [
+   "Hoạt động nào giúp em khỏe mạnh ở trường?",
+   [
+    "Tập thể dục giữa giờ",
+    "Ngồi im cả buổi",
+    "Leo lan can",
+    "Đùa nghịch ở cầu thang"
+   ],
+   "Thể dục giữa giờ giúp cơ thể khỏe."
+  ],
+  [
+   "Trường em có những khu vực nào?",
+   [
+    "Lớp học, sân chơi, thư viện, phòng y tế...",
+    "Chỉ có lớp học",
+    "Chợ và bệnh viện",
+    "Nhà ga và bến xe"
+   ],
+   "Trường có nhiều khu vực phục vụ học tập và vui chơi."
+  ],
+  [
+   "Người dọn dẹp, giữ vệ sinh trường học là:",
+   [
+    "Cô, bác lao công",
+    "Thầy hiệu trưởng",
+    "Bác sĩ",
+    "Bạn lớp trưởng"
+   ],
+   "Cô bác lao công giữ trường sạch."
+  ],
+  [
+   "Thầy (cô) hiệu trưởng có nhiệm vụ:",
+   [
+    "Quản lí, điều hành mọi hoạt động của trường",
+    "Bán hàng ở căng tin",
+    "Lái xe đưa đón",
+    "Nấu ăn cho học sinh"
+   ],
+   "Hiệu trưởng phụ trách cả trường."
+  ],
+  [
+   "Hoạt động nào là hoạt động ngoài giờ lên lớp?",
+   [
+    "Trồng cây, văn nghệ, thể thao",
+    "Làm bài kiểm tra",
+    "Học toán trong lớp",
+    "Viết chính tả"
+   ],
+   "Hoạt động tập thể ngoài giờ học."
+  ],
+  [
+   "Khi tham gia lao động ở trường, em cần:",
+   [
+    "Làm cẩn thận, an toàn, đoàn kết",
+    "Đùa nghịch với dụng cụ",
+    "Bỏ về sớm",
+    "Tranh giành việc dễ"
+   ],
+   "An toàn và hợp tác."
+  ],
+  [
+   "Cầu thang trường học em nên đi thế nào?",
+   [
+    "Đi bên phải, không xô đẩy",
+    "Chạy nhảy hai bậc một",
+    "Trượt trên tay vịn",
+    "Đứng chơi giữa cầu thang"
+   ],
+   "Đi cầu thang an toàn."
+  ],
+  [
+   "Đồ dùng chung của lớp như bàn ghế, bảng cần được:",
+   [
+    "Giữ gìn, không vẽ bậy",
+    "Viết tên mình lên",
+    "Đứng lên bàn ghế",
+    "Mang về nhà"
+   ],
+   "Bảo vệ của công."
+  ],
+  [
+   "Nhà vệ sinh của trường cần được giữ:",
+   [
+    "Sạch sẽ, dội nước sau khi dùng",
+    "Bẩn cũng được",
+    "Vứt giấy ra sàn",
+    "Vẽ lên tường"
+   ],
+   "Giữ nhà vệ sinh sạch sẽ."
+  ],
+  [
+   "Giờ ra chơi, trò chơi nào an toàn?",
+   [
+    "Nhảy dây, đá cầu",
+    "Đánh nhau",
+    "Trèo cây",
+    "Chơi với điện"
+   ],
+   "Nhảy dây, đá cầu là trò chơi an toàn."
+  ],
+  [
+   "Khi thấy bạn trèo lên lan can, em nên:",
+   [
+    "Khuyên bạn xuống và báo thầy cô",
+    "Trèo theo bạn",
+    "Cổ vũ bạn",
+    "Mặc kệ"
+   ],
+   "Ngăn hành vi nguy hiểm."
+  ],
+  [
+   "Ngày khai giảng năm học mới thường vào:",
+   [
+    "Tháng 9",
+    "Tháng 6",
+    "Tháng 1",
+    "Tháng 12"
+   ],
+   "Khai giảng thường ngày 5 tháng 9."
+  ],
+  [
+   "Để chuẩn bị cho ngày Nhà giáo 20/11, học sinh thường:",
+   [
+    "Học tốt, làm thiệp, văn nghệ tặng thầy cô",
+    "Nghỉ học",
+    "Đi chơi xa",
+    "Không làm gì"
+   ],
+   "Chăm ngoan, học giỏi là món quà ý nghĩa."
+  ],
+  [
+   "Ở thư viện, em cần:",
+   [
+    "Giữ trật tự, giữ gìn sách",
+    "Nói chuyện to",
+    "Xé sách",
+    "Ăn uống trong thư viện"
+   ],
+   "Thư viện là nơi yên tĩnh."
+  ],
+  [
+   "Phòng học cần được:",
+   [
+    "Thoáng mát, đủ ánh sáng, sạch sẽ",
+    "Tối và bí",
+    "Đầy rác",
+    "Ẩm ướt"
+   ],
+   "Phòng học đủ sáng, thoáng để bảo vệ sức khỏe."
+  ],
+  [
+   "Khi bị bạn bắt nạt ở trường, em nên:",
+   [
+    "Báo ngay với thầy cô, bố mẹ",
+    "Im lặng chịu đựng",
+    "Đánh lại thật mạnh",
+    "Nghỉ học"
+   ],
+   "Cần báo người lớn để được giúp đỡ."
+  ],
+  [
+   "Vào lớp, em cất cặp sách ở đâu?",
+   [
+    "Ngăn bàn hoặc nơi quy định",
+    "Giữa lối đi",
+    "Trên bảng",
+    "Ngoài cửa lớp"
+   ],
+   "Để đúng chỗ, tránh vướng lối đi."
+  ],
+  [
+   "Trước khi ăn ở trường bán trú, em cần:",
+   [
+    "Rửa tay sạch",
+    "Chơi đất cát",
+    "Chạy nhảy thật nhiều",
+    "Không cần làm gì"
+   ],
+   "Rửa tay trước khi ăn."
+  ],
+  [
+   "Khi nghe hiệu lệnh trống vào lớp, em cần:",
+   [
+    "Xếp hàng ngay ngắn vào lớp",
+    "Chơi tiếp",
+    "Chạy ra cổng",
+    "Trốn đi"
+   ],
+   "Thực hiện đúng nội quy."
+  ],
+  [
+   "Em nên làm gì khi thấy vòi nước ở trường bị chảy?",
+   [
+    "Khóa vòi lại hoặc báo thầy cô",
+    "Mặc kệ",
+    "Mở to thêm",
+    "Nghịch nước"
+   ],
+   "Tiết kiệm nước."
+  ],
+  [
+   "Tham gia trồng cây ở trường giúp:",
+   [
+    "Trường xanh, sạch, đẹp",
+    "Trường bẩn hơn",
+    "Mất thời gian vô ích",
+    "Không có tác dụng"
+   ],
+   "Cây xanh làm trường đẹp."
+  ],
+  [
+   "Khi chơi đá bóng ở sân trường, em cần:",
+   [
+    "Chơi đúng nơi, không xô đẩy bạn",
+    "Đá bóng vào lớp học",
+    "Đá vào cửa kính",
+    "Chơi ở cầu thang"
+   ],
+   "Vui chơi an toàn."
+  ],
+  [
+   "Hoạt động nào giúp các bạn đoàn kết?",
+   [
+    "Cùng làm việc nhóm, giúp đỡ nhau",
+    "Nói xấu bạn",
+    "Tranh giành đồ chơi",
+    "Chia bè phái"
+   ],
+   "Đoàn kết, giúp đỡ."
+  ],
+  [
+   "Khi thầy cô giảng bài, em cần:",
+   [
+    "Chú ý lắng nghe",
+    "Nói chuyện riêng",
+    "Ngủ gật",
+    "Chơi đồ chơi"
+   ],
+   "Tập trung nghe giảng."
+  ],
+  [
+   "Nội quy trường học giúp:",
+   [
+    "Mọi người học tập, sinh hoạt có nề nếp, an toàn",
+    "Không có tác dụng",
+    "Làm học sinh mệt",
+    "Chỉ dành cho thầy cô"
+   ],
+   "Thực hiện nội quy."
+  ]
+ ],
+ "c3": [
+  [
+   "Chợ là nơi:",
+   [
+    "Mua bán hàng hóa",
+    "Khám bệnh",
+    "Học tập",
+    "Gửi thư"
+   ],
+   "Chợ là nơi mua bán."
+  ],
+  [
+   "Khi mua hàng, em cần:",
+   [
+    "Xem kĩ hạn sử dụng, hàng còn tốt",
+    "Mua bất kì thứ gì",
+    "Không cần xem giá",
+    "Lấy hàng không trả tiền"
+   ],
+   "Kiểm tra hàng hóa trước khi mua."
+  ],
+  [
+   "Đi xe buýt, em cần:",
+   [
+    "Lên xuống khi xe dừng hẳn, ngồi ngay ngắn",
+    "Thò đầu ra cửa sổ",
+    "Đứng ở cửa xe",
+    "Nhảy xuống khi xe chạy"
+   ],
+   "Đi xe an toàn."
+  ],
+  [
+   "Biển báo hình tròn, viền đỏ thường là biển:",
+   [
+    "Biển cấm",
+    "Biển chỉ dẫn",
+    "Biển nguy hiểm",
+    "Biển hiệu cửa hàng"
+   ],
+   "Biển hình tròn viền đỏ là biển cấm."
+  ],
+  [
+   "Phương tiện nào đi trên đường sắt?",
+   [
+    "Tàu hỏa",
+    "Ô tô",
+    "Xe đạp",
+    "Máy bay"
+   ],
+   "Tàu hỏa chạy trên đường ray."
+  ],
+  [
+   "Phương tiện nào đi trên đường hàng không?",
+   [
+    "Máy bay",
+    "Thuyền",
+    "Tàu hỏa",
+    "Xe máy"
+   ],
+   "Máy bay bay trên trời."
+  ],
+  [
+   "Người bán hàng ở chợ làm công việc gì?",
+   [
+    "Bán hàng hóa cho mọi người",
+    "Chữa bệnh",
+    "Dạy học",
+    "Xây nhà"
+   ],
+   "Người bán hàng cung cấp hàng hóa."
+  ],
+  [
+   "Bưu điện là nơi:",
+   [
+    "Gửi thư, bưu phẩm",
+    "Khám bệnh",
+    "Mua rau",
+    "Học bài"
+   ],
+   "Bưu điện chuyển thư, bưu phẩm."
+  ],
+  [
+   "Đồn công an có nhiệm vụ:",
+   [
+    "Giữ gìn trật tự, an ninh",
+    "Bán quần áo",
+    "Dạy bơi",
+    "Trồng lúa"
+   ],
+   "Công an bảo vệ an ninh trật tự."
+  ],
+  [
+   "Trạm y tế xã (phường) là nơi:",
+   [
+    "Khám, chữa bệnh và tiêm phòng",
+    "Mua bán hàng hóa",
+    "Vui chơi giải trí",
+    "Gửi xe"
+   ],
+   "Trạm y tế chăm sóc sức khỏe nhân dân."
+  ],
+  [
+   "Khi mua hàng em nên chọn hàng hóa:",
+   [
+    "Có nguồn gốc rõ ràng, còn hạn sử dụng",
+    "Rẻ nhất mà không cần xem",
+    "Bị móp méo",
+    "Đã hết hạn"
+   ],
+   "Chọn hàng an toàn."
+  ],
+  [
+   "Đường thủy là đường đi trên:",
+   [
+    "Sông, biển",
+    "Mặt đất",
+    "Bầu trời",
+    "Đường ray"
+   ],
+   "Tàu thuyền đi trên sông, biển."
+  ],
+  [
+   "Phương tiện nào đi trên đường thủy?",
+   [
+    "Tàu thủy, thuyền",
+    "Ô tô",
+    "Tàu hỏa",
+    "Máy bay"
+   ],
+   "Tàu, thuyền đi trên nước."
+  ],
+  [
+   "Khi đi thuyền, em cần:",
+   [
+    "Mặc áo phao, ngồi yên",
+    "Đứng ở mép thuyền",
+    "Nhảy xuống nước",
+    "Chạy trên thuyền"
+   ],
+   "Áo phao giúp nổi khi gặp nạn."
+  ],
+  [
+   "Biển báo hình tam giác viền đỏ, nền vàng là biển:",
+   [
+    "Biển báo nguy hiểm",
+    "Biển cấm",
+    "Biển chỉ dẫn",
+    "Biển quảng cáo"
+   ],
+   "Tam giác viền đỏ cảnh báo nguy hiểm."
+  ],
+  [
+   "Biển báo hình vuông hoặc chữ nhật nền xanh là biển:",
+   [
+    "Biển chỉ dẫn",
+    "Biển cấm",
+    "Biển nguy hiểm",
+    "Biển tên trường"
+   ],
+   "Nền xanh, hình vuông/chữ nhật là biển chỉ dẫn."
+  ],
+  [
+   "Khi chờ tàu hỏa đi qua, em cần:",
+   [
+    "Đứng xa đường ray, chờ tàu qua hẳn",
+    "Chạy qua trước khi tàu tới",
+    "Ngồi trên đường ray",
+    "Đi dọc theo đường ray"
+   ],
+   "Đường ray rất nguy hiểm."
+  ],
+  [
+   "Ngồi trên ô tô, em cần:",
+   [
+    "Thắt dây an toàn",
+    "Thò tay ra ngoài",
+    "Đứng trên ghế",
+    "Mở cửa khi xe chạy"
+   ],
+   "Dây an toàn bảo vệ khi phanh gấp."
+  ],
+  [
+   "Hoạt động mua bán thường diễn ra ở:",
+   [
+    "Chợ, siêu thị, cửa hàng",
+    "Trường học",
+    "Bệnh viện",
+    "Đồn công an"
+   ],
+   "Chợ, siêu thị là nơi mua bán."
+  ],
+  [
+   "Em có thể giúp giữ gìn môi trường nơi mình sống bằng cách:",
+   [
+    "Không xả rác, trồng cây",
+    "Đốt rác bừa bãi",
+    "Bẻ cây",
+    "Đổ rác xuống sông"
+   ],
+   "Giữ vệ sinh, trồng cây xanh."
+  ],
+  [
+   "Nhà văn hóa thôn (khu phố) là nơi:",
+   [
+    "Họp, sinh hoạt văn hóa của người dân",
+    "Bán hàng",
+    "Chữa bệnh",
+    "Chăn nuôi"
+   ],
+   "Nơi sinh hoạt cộng đồng."
+  ],
+  [
+   "Số điện thoại gọi cứu hỏa ở Việt Nam là:",
+   [
+    "114",
+    "113",
+    "115",
+    "111"
+   ],
+   "113 công an, 114 cứu hỏa, 115 cấp cứu."
+  ],
+  [
+   "Số điện thoại gọi cấp cứu y tế là:",
+   [
+    "115",
+    "113",
+    "114",
+    "112"
+   ],
+   "115 là cấp cứu y tế."
+  ],
+  [
+   "Số điện thoại gọi công an là:",
+   [
+    "113",
+    "114",
+    "115",
+    "116"
+   ],
+   "113 là cảnh sát (công an)."
+  ],
+  [
+   "Khi đi xe đạp, em cần đi ở:",
+   [
+    "Làn đường bên phải, sát lề",
+    "Giữa đường",
+    "Bên trái đường",
+    "Trên vỉa hè đông người"
+   ],
+   "Đi đúng phần đường."
+  ],
+  [
+   "Đi xe đạp hàng ba, hàng tư trên đường là:",
+   [
+    "Sai luật, nguy hiểm",
+    "Đúng luật",
+    "Được khuyến khích",
+    "Rất an toàn"
+   ],
+   "Không đi dàn hàng ngang."
+  ],
+  [
+   "Người làm việc ở nhà máy, xí nghiệp gọi là:",
+   [
+    "Công nhân",
+    "Nông dân",
+    "Ngư dân",
+    "Bác sĩ"
+   ],
+   "Công nhân làm trong nhà máy."
+  ],
+  [
+   "Ngư dân làm nghề:",
+   [
+    "Đánh bắt cá",
+    "Trồng lúa",
+    "Dạy học",
+    "Lái máy bay"
+   ],
+   "Ngư dân đi biển đánh cá."
+  ],
+  [
+   "Đèn vàng ở ngã tư báo hiệu:",
+   [
+    "Chuẩn bị dừng, đi chậm lại",
+    "Được đi nhanh",
+    "Quay đầu",
+    "Bấm còi"
+   ],
+   "Đèn vàng: chậm lại, chuẩn bị dừng."
+  ],
+  [
+   "Khi xem biểu diễn ở nhà văn hóa, em cần:",
+   [
+    "Giữ trật tự, vỗ tay đúng lúc",
+    "La hét",
+    "Chạy lên sân khấu",
+    "Vứt rác"
+   ],
+   "Ứng xử văn minh nơi công cộng."
+  ]
+ ],
+ "c4": [
+  [
+   "Cây nào sống dưới nước?",
+   [
+    "Cây sen",
+    "Cây xoài",
+    "Cây xương rồng",
+    "Cây thông"
+   ],
+   "Sen sống dưới ao hồ."
+  ],
+  [
+   "Con vật nào sống trên cạn?",
+   [
+    "Con hổ",
+    "Con cá voi",
+    "Con mực",
+    "Con tôm"
+   ],
+   "Hổ sống trong rừng, trên cạn."
+  ],
+  [
+   "Con ếch có thể sống ở:",
+   [
+    "Cả dưới nước và trên cạn",
+    "Chỉ trên cây",
+    "Chỉ trong sa mạc",
+    "Chỉ trên trời"
+   ],
+   "Ếch sống được ở nước và trên cạn."
+  ],
+  [
+   "Môi trường sống của cá là:",
+   [
+    "Dưới nước",
+    "Trên cây",
+    "Trong hang đất",
+    "Sa mạc"
+   ],
+   "Cá sống dưới nước."
+  ],
+  [
+   "Để bảo vệ cây xanh, em nên:",
+   [
+    "Tưới nước, không bẻ cành",
+    "Bẻ cành chơi",
+    "Khắc tên lên thân cây",
+    "Nhổ cây non"
+   ],
+   "Chăm sóc, bảo vệ cây."
+  ],
+  [
+   "Xương rồng sống được ở sa mạc vì:",
+   [
+    "Có thân dự trữ nước, lá biến thành gai",
+    "Có lá to",
+    "Cần nhiều nước",
+    "Sống dưới nước"
+   ],
+   "Xương rồng giữ nước trong thân, ít mất nước."
+  ],
+  [
+   "Cây rau muống sống ở môi trường nào?",
+   [
+    "Dưới nước và trên cạn ẩm",
+    "Sa mạc",
+    "Trên núi tuyết",
+    "Trong tủ lạnh"
+   ],
+   "Rau muống sống ở ao, ruộng hoặc đất ẩm."
+  ],
+  [
+   "Cây bàng, cây xoài sống ở:",
+   [
+    "Trên cạn",
+    "Dưới nước",
+    "Trên không",
+    "Trong lòng đất"
+   ],
+   "Đây là cây sống trên cạn."
+  ],
+  [
+   "Con vật nào sống trong rừng?",
+   [
+    "Con hổ",
+    "Con cá vàng",
+    "Con gà nhà",
+    "Con mực"
+   ],
+   "Hổ là động vật hoang dã sống trong rừng."
+  ],
+  [
+   "Con vật nào được nuôi trong nhà?",
+   [
+    "Con gà",
+    "Con sư tử",
+    "Con cá mập",
+    "Con cá voi"
+   ],
+   "Gà là vật nuôi."
+  ],
+  [
+   "Con cua, con tôm sống ở:",
+   [
+    "Dưới nước",
+    "Trên cây",
+    "Sa mạc",
+    "Trên núi cao"
+   ],
+   "Tôm cua sống dưới nước."
+  ],
+  [
+   "Con giun đất sống ở:",
+   [
+    "Trong đất ẩm",
+    "Trên cây cao",
+    "Dưới biển sâu",
+    "Trên mái nhà"
+   ],
+   "Giun sống trong lòng đất ẩm."
+  ],
+  [
+   "Lạc đà sống ở nơi nào?",
+   [
+    "Sa mạc",
+    "Bắc Cực",
+    "Dưới nước",
+    "Rừng rậm nhiệt đới"
+   ],
+   "Lạc đà chịu được khô hạn ở sa mạc."
+  ],
+  [
+   "Gấu trắng sống ở nơi nào?",
+   [
+    "Vùng băng tuyết lạnh giá",
+    "Sa mạc nóng",
+    "Đồng lúa",
+    "Ao hồ nhiệt đới"
+   ],
+   "Gấu trắng sống ở Bắc Cực lạnh giá."
+  ],
+  [
+   "Việc nào giúp bảo vệ động vật hoang dã?",
+   [
+    "Không săn bắt, không phá rừng",
+    "Bắt chim về nuôi nhốt",
+    "Chặt cây rừng",
+    "Mua bán ngà voi"
+   ],
+   "Bảo vệ môi trường sống của chúng."
+  ],
+  [
+   "Vì sao phải bảo vệ thực vật và động vật?",
+   [
+    "Vì chúng có ích cho con người và môi trường",
+    "Vì chúng không có ích",
+    "Vì chúng nguy hiểm",
+    "Vì chúng quá nhiều"
+   ],
+   "Thực vật, động vật cho thức ăn, không khí, cân bằng tự nhiên."
+  ],
+  [
+   "Bộ phận nào của cây được dùng làm thức ăn ở cây cà rốt?",
+   [
+    "Rễ (củ)",
+    "Lá",
+    "Hoa",
+    "Thân"
+   ],
+   "Củ cà rốt là rễ phình to."
+  ],
+  [
+   "Ta ăn bộ phận nào của cây rau cải?",
+   [
+    "Lá",
+    "Rễ",
+    "Hạt",
+    "Hoa"
+   ],
+   "Rau cải ăn lá."
+  ],
+  [
+   "Cây nào có thể sống ở nơi khô hạn?",
+   [
+    "Cây xương rồng",
+    "Cây lúa nước",
+    "Cây sen",
+    "Cây bèo"
+   ],
+   "Xương rồng chịu hạn tốt."
+  ],
+  [
+   "Cá thở bằng gì?",
+   [
+    "Mang",
+    "Phổi",
+    "Da",
+    "Mũi"
+   ],
+   "Cá lấy ô-xi trong nước bằng mang."
+  ],
+  [
+   "Con vật nào có thể sống cả trên cạn và dưới nước?",
+   [
+    "Con rùa",
+    "Con mèo",
+    "Con cá chép",
+    "Con bò"
+   ],
+   "Rùa có thể sống trên cạn và dưới nước."
+  ],
+  [
+   "Cây xanh giúp gì cho môi trường?",
+   [
+    "Cho bóng mát, làm không khí trong lành",
+    "Làm không khí bẩn hơn",
+    "Gây ra tiếng ồn",
+    "Không có ích"
+   ],
+   "Cây xanh hấp thụ khí độc, thải ô-xi."
+  ],
+  [
+   "Khi đi chơi công viên, em nên:",
+   [
+    "Không hái hoa, bẻ cành",
+    "Hái hoa mang về",
+    "Trèo lên cây",
+    "Dẫm lên bồn cỏ"
+   ],
+   "Bảo vệ cây xanh nơi công cộng."
+  ],
+  [
+   "Ong mật có ích lợi gì?",
+   [
+    "Cho mật và giúp thụ phấn cho hoa",
+    "Phá hoại mùa màng",
+    "Gây ồn ào",
+    "Không có ích"
+   ],
+   "Ong cho mật và thụ phấn."
+  ],
+  [
+   "Con vật nào có hại cho mùa màng?",
+   [
+    "Con chuột",
+    "Con ong",
+    "Con giun đất",
+    "Con chim sâu"
+   ],
+   "Chuột phá hoại lúa, hoa màu."
+  ],
+  [
+   "Chim sâu có ích vì:",
+   [
+    "Ăn sâu bọ hại cây",
+    "Ăn lúa",
+    "Phá tổ chim khác",
+    "Làm ồn"
+   ],
+   "Chim sâu bắt sâu bảo vệ cây."
+  ],
+  [
+   "Cây lúa sống ở:",
+   [
+    "Ruộng nước",
+    "Sa mạc",
+    "Trên núi tuyết",
+    "Dưới biển"
+   ],
+   "Lúa nước sống ở ruộng."
+  ],
+  [
+   "Con vật nào sống ở dưới biển?",
+   [
+    "Cá voi",
+    "Con trâu",
+    "Con hổ",
+    "Con thỏ"
+   ],
+   "Cá voi sống ở đại dương."
+  ],
+  [
+   "Con vật nào sống trên cây?",
+   [
+    "Con sóc",
+    "Con cá",
+    "Con cua",
+    "Con bò"
+   ],
+   "Sóc sống và làm tổ trên cây."
+  ],
+  [
+   "Bèo tây (lục bình) sống:",
+   [
+    "Nổi trên mặt nước",
+    "Trên núi đá",
+    "Trong sa mạc",
+    "Trên mái nhà"
+   ],
+   "Lục bình nổi trên ao hồ."
+  ]
+ ],
+ "c5": [
+  [
+   "Cơ quan nào giúp em hít thở?",
+   [
+    "Phổi",
+    "Dạ dày",
+    "Tim",
+    "Não"
+   ],
+   "Phổi là cơ quan hô hấp."
+  ],
+  [
+   "Tim có nhiệm vụ:",
+   [
+    "Bơm máu đi khắp cơ thể",
+    "Tiêu hóa thức ăn",
+    "Suy nghĩ",
+    "Thở"
+   ],
+   "Tim bơm máu nuôi cơ thể."
+  ],
+  [
+   "Xương và cơ giúp cơ thể:",
+   [
+    "Cử động, vận động",
+    "Tiêu hóa",
+    "Nhìn",
+    "Nghe"
+   ],
+   "Cơ quan vận động gồm xương và cơ."
+  ],
+  [
+   "Thức ăn được tiêu hóa chủ yếu ở:",
+   [
+    "Dạ dày và ruột",
+    "Phổi",
+    "Tim",
+    "Não"
+   ],
+   "Dạ dày, ruột tiêu hóa thức ăn."
+  ],
+  [
+   "Thở bằng mũi tốt hơn thở bằng miệng vì:",
+   [
+    "Mũi có lông, chất nhầy cản bụi",
+    "Mũi to hơn",
+    "Miệng không thở được",
+    "Mũi đẹp hơn"
+   ],
+   "Mũi lọc bụi, làm ấm không khí."
+  ],
+  [
+   "Để xương phát triển tốt, em nên:",
+   [
+    "Ăn đủ chất, uống sữa, vận động",
+    "Mang vác nặng",
+    "Ngồi cong lưng",
+    "Ít vận động"
+   ],
+   "Dinh dưỡng và vận động hợp lí."
+  ],
+  [
+   "Bộ phận nào giúp em tiêu hóa thức ăn đầu tiên trong miệng?",
+   [
+    "Răng và lưỡi",
+    "Tim",
+    "Phổi",
+    "Tai"
+   ],
+   "Răng nhai, lưỡi đảo thức ăn."
+  ],
+  [
+   "Khi hít vào, không khí đi qua mũi rồi xuống:",
+   [
+    "Khí quản và phổi",
+    "Dạ dày",
+    "Ruột",
+    "Tim"
+   ],
+   "Đường hô hấp: mũi → khí quản → phổi."
+  ],
+  [
+   "Hít thở không khí trong lành giúp:",
+   [
+    "Cơ thể khỏe mạnh",
+    "Bị ho",
+    "Mệt mỏi",
+    "Đau bụng"
+   ],
+   "Không khí sạch tốt cho phổi."
+  ],
+  [
+   "Ở nơi nhiều khói bụi, em nên:",
+   [
+    "Đeo khẩu trang",
+    "Hít thở thật mạnh",
+    "Chạy nhảy nhiều",
+    "Mở miệng thở"
+   ],
+   "Khẩu trang cản khói bụi."
+  ],
+  [
+   "Xương nào bảo vệ não?",
+   [
+    "Xương sọ",
+    "Xương sườn",
+    "Xương chân",
+    "Xương tay"
+   ],
+   "Hộp sọ bảo vệ não."
+  ],
+  [
+   "Xương sườn bảo vệ:",
+   [
+    "Tim và phổi",
+    "Não",
+    "Dạ dày và ruột",
+    "Mắt"
+   ],
+   "Lồng ngực bảo vệ tim, phổi."
+  ],
+  [
+   "Để cơ thể phát triển cân đối, em cần:",
+   [
+    "Ăn đủ chất, vận động hợp lí, ngủ đủ",
+    "Ăn nhiều đồ ngọt",
+    "Thức khuya",
+    "Ngồi xem điện thoại cả ngày"
+   ],
+   "Chế độ sinh hoạt hợp lí."
+  ],
+  [
+   "Mang cặp sách quá nặng lâu ngày có thể làm:",
+   [
+    "Cong vẹo cột sống",
+    "Cao nhanh hơn",
+    "Mắt sáng hơn",
+    "Ăn ngon hơn"
+   ],
+   "Cặp nặng ảnh hưởng cột sống."
+  ],
+  [
+   "Tư thế ngồi học đúng là:",
+   [
+    "Lưng thẳng, mắt cách vở khoảng 25–30 cm",
+    "Gục đầu xuống bàn",
+    "Nằm bò ra bàn",
+    "Ngồi vắt chân lên ghế"
+   ],
+   "Ngồi thẳng lưng bảo vệ mắt và cột sống."
+  ],
+  [
+   "Sau khi ăn no, em không nên:",
+   [
+    "Chạy nhảy mạnh ngay",
+    "Nghỉ ngơi nhẹ nhàng",
+    "Uống nước vừa đủ",
+    "Ngồi đọc sách"
+   ],
+   "Chạy nhảy ngay sau ăn dễ đau bụng."
+  ],
+  [
+   "Nên ăn nhiều rau xanh và hoa quả vì:",
+   [
+    "Có nhiều vi-ta-min, chất xơ tốt cho tiêu hóa",
+    "Chúng có nhiều đường",
+    "Chúng làm béo",
+    "Chúng có vị đắng"
+   ],
+   "Rau quả giúp tiêu hóa tốt."
+  ],
+  [
+   "Uống đủ nước mỗi ngày giúp:",
+   [
+    "Cơ thể hoạt động tốt",
+    "Bị đau đầu",
+    "Làm mệt mỏi",
+    "Không có tác dụng"
+   ],
+   "Nước rất cần cho cơ thể."
+  ],
+  [
+   "Tim đập nhanh hơn khi:",
+   [
+    "Chạy nhảy, vận động mạnh",
+    "Ngủ say",
+    "Ngồi yên",
+    "Nằm nghỉ"
+   ],
+   "Vận động mạnh cơ thể cần nhiều máu hơn."
+  ],
+  [
+   "Để răng chắc khỏe, em nên:",
+   [
+    "Đánh răng ngày 2 lần, ít ăn đồ ngọt",
+    "Ăn nhiều kẹo trước khi ngủ",
+    "Dùng răng cắn vật cứng",
+    "Không đánh răng"
+   ],
+   "Vệ sinh răng miệng đúng cách."
+  ],
+  [
+   "Khi bị ho, sốt, em cần:",
+   [
+    "Báo bố mẹ để được khám và chăm sóc",
+    "Tự mua thuốc uống",
+    "Đi tắm mưa",
+    "Giấu không nói"
+   ],
+   "Báo người lớn để được chữa trị."
+  ],
+  [
+   "Cơ quan bài tiết nước tiểu gồm:",
+   [
+    "Thận, ống dẫn nước tiểu, bóng đái",
+    "Tim, mạch máu",
+    "Phổi, khí quản",
+    "Dạ dày, ruột"
+   ],
+   "Thận lọc máu tạo nước tiểu."
+  ],
+  [
+   "Không nên nhịn đi tiểu lâu vì:",
+   [
+    "Có thể gây hại cho cơ quan bài tiết",
+    "Sẽ cao hơn",
+    "Giúp khỏe hơn",
+    "Không ảnh hưởng gì"
+   ],
+   "Nhịn tiểu lâu có hại."
+  ],
+  [
+   "Tập thể dục buổi sáng giúp:",
+   [
+    "Cơ thể khỏe mạnh, tinh thần sảng khoái",
+    "Mệt mỏi cả ngày",
+    "Ốm yếu",
+    "Béo phì"
+   ],
+   "Thể dục giúp cơ thể dẻo dai."
+  ],
+  [
+   "Thức ăn đi qua miệng, thực quản rồi xuống:",
+   [
+    "Dạ dày",
+    "Phổi",
+    "Tim",
+    "Não"
+   ],
+   "Đường đi của thức ăn."
+  ],
+  [
+   "Ruột non có nhiệm vụ:",
+   [
+    "Hấp thụ chất dinh dưỡng vào máu",
+    "Bơm máu",
+    "Hít thở",
+    "Suy nghĩ"
+   ],
+   "Chất dinh dưỡng được hấp thụ ở ruột non."
+  ],
+  [
+   "Để phòng bệnh giun sán, em cần:",
+   [
+    "Ăn chín, uống sôi, rửa tay sạch",
+    "Ăn rau sống chưa rửa",
+    "Đi chân đất ở nơi bẩn",
+    "Uống nước lã"
+   ],
+   "Vệ sinh ăn uống."
+  ],
+  [
+   "Phổi có nhiệm vụ:",
+   [
+    "Trao đổi khí: lấy ô-xi, thải khí các-bô-níc",
+    "Tiêu hóa thức ăn",
+    "Lọc máu",
+    "Điều khiển cơ thể"
+   ],
+   "Phổi thuộc cơ quan hô hấp."
+  ],
+  [
+   "Bộ phận nào giúp ta cầm nắm đồ vật?",
+   [
+    "Bàn tay",
+    "Bàn chân",
+    "Đầu gối",
+    "Vai"
+   ],
+   "Bàn tay với các ngón linh hoạt."
+  ],
+  [
+   "Hoạt động nào tốt cho cơ và xương?",
+   [
+    "Bơi lội, chạy bộ, nhảy dây",
+    "Nằm cả ngày",
+    "Ăn nhiều kẹo",
+    "Thức khuya"
+   ],
+   "Vận động giúp cơ xương khỏe."
+  ]
+ ],
+ "c6": [
+  [
+   "Một năm ở miền Bắc nước ta có mấy mùa?",
+   [
+    "4 mùa",
+    "2 mùa",
+    "3 mùa",
+    "1 mùa"
+   ],
+   "Miền Bắc có xuân, hạ, thu, đông."
+  ],
+  [
+   "Miền Nam nước ta có mấy mùa rõ rệt?",
+   [
+    "2 mùa: mưa và khô",
+    "4 mùa",
+    "3 mùa",
+    "1 mùa"
+   ],
+   "Miền Nam có mùa mưa và mùa khô."
+  ],
+  [
+   "Khi có lũ lụt, em cần:",
+   [
+    "Đi đến nơi an toàn theo hướng dẫn người lớn",
+    "Ra sông chơi",
+    "Lội nước",
+    "Ở một mình"
+   ],
+   "Nghe theo người lớn, đến nơi cao an toàn."
+  ],
+  [
+   "Mặt Trời giúp ích gì cho chúng ta?",
+   [
+    "Chiếu sáng và sưởi ấm",
+    "Làm trời tối",
+    "Làm mưa",
+    "Tạo ra gió lạnh"
+   ],
+   "Mặt Trời cho ánh sáng và nhiệt."
+  ],
+  [
+   "Phương hướng nào đối diện hướng Đông?",
+   [
+    "Hướng Tây",
+    "Hướng Bắc",
+    "Hướng Nam",
+    "Hướng Đông Nam"
+   ],
+   "Đông – Tây đối diện nhau."
+  ],
+  [
+   "Mùa nào thường nóng nhất?",
+   [
+    "Mùa hè",
+    "Mùa đông",
+    "Mùa xuân",
+    "Mùa thu"
+   ],
+   "Mùa hè nắng nóng."
+  ],
+  [
+   "Mùa xuân thường có thời tiết:",
+   [
+    "Ấm áp, có mưa phùn",
+    "Rất nóng",
+    "Rất lạnh, có tuyết",
+    "Khô hạn"
+   ],
+   "Mùa xuân ở miền Bắc ấm áp, có mưa phùn."
+  ],
+  [
+   "Mùa thu thường có thời tiết:",
+   [
+    "Mát mẻ, dễ chịu",
+    "Rét đậm",
+    "Nắng nóng gay gắt",
+    "Mưa phùn kéo dài"
+   ],
+   "Mùa thu mát mẻ."
+  ],
+  [
+   "Mùa đông ở miền Bắc thường:",
+   [
+    "Lạnh, có gió mùa đông bắc",
+    "Nóng bức",
+    "Mát mẻ",
+    "Mưa to suốt ngày"
+   ],
+   "Gió mùa đông bắc gây lạnh."
+  ],
+  [
+   "Ở miền Nam, mùa mưa thường kéo dài từ khoảng:",
+   [
+    "Tháng 5 đến tháng 10",
+    "Tháng 11 đến tháng 4",
+    "Tháng 1 đến tháng 3",
+    "Quanh năm"
+   ],
+   "Mùa mưa miền Nam khoảng tháng 5–10."
+  ],
+  [
+   "Hiện tượng nào xảy ra khi có bão?",
+   [
+    "Gió rất mạnh, mưa to",
+    "Trời nắng đẹp",
+    "Có tuyết rơi",
+    "Trời lặng gió"
+   ],
+   "Bão kèm gió mạnh, mưa lớn."
+  ],
+  [
+   "Trước khi bão đến, gia đình em nên:",
+   [
+    "Chằng chống nhà cửa, dự trữ đồ ăn nước uống",
+    "Đi tắm biển",
+    "Mở hết cửa",
+    "Không làm gì"
+   ],
+   "Chuẩn bị để giảm thiệt hại."
+  ],
+  [
+   "Lũ lụt thường xảy ra khi:",
+   [
+    "Mưa lớn kéo dài",
+    "Trời nắng nhiều ngày",
+    "Có tuyết",
+    "Trời lặng gió"
+   ],
+   "Mưa lớn làm nước sông dâng cao."
+  ],
+  [
+   "Hạn hán là hiện tượng:",
+   [
+    "Lâu ngày không mưa, thiếu nước",
+    "Mưa quá nhiều",
+    "Có tuyết rơi",
+    "Có động đất"
+   ],
+   "Thiếu mưa kéo dài gây hạn hán."
+  ],
+  [
+   "Khi trời nắng nóng gay gắt, em nên:",
+   [
+    "Uống đủ nước, tránh ra nắng giữa trưa",
+    "Đá bóng giữa trưa",
+    "Không đội mũ",
+    "Ít uống nước"
+   ],
+   "Phòng say nắng, mất nước."
+  ],
+  [
+   "Để biết phương hướng, ta có thể dựa vào:",
+   [
+    "Mặt Trời mọc ở phía Đông",
+    "Mặt Trăng",
+    "Đám mây",
+    "Cái cây"
+   ],
+   "Mặt Trời mọc ở Đông, lặn ở Tây."
+  ],
+  [
+   "Đứng giang tay phải về hướng Mặt Trời mọc thì trước mặt em là hướng:",
+   [
+    "Bắc",
+    "Nam",
+    "Đông",
+    "Tây"
+   ],
+   "Tay phải chỉ Đông thì trước mặt là Bắc, sau lưng là Nam."
+  ],
+  [
+   "Buổi chiều, Mặt Trời ở phía nào?",
+   [
+    "Phía Tây",
+    "Phía Đông",
+    "Phía Bắc",
+    "Chính giữa trên đầu"
+   ],
+   "Mặt Trời lặn ở phía Tây."
+  ],
+  [
+   "Trái Đất có hình dạng gì?",
+   [
+    "Gần giống hình cầu",
+    "Hình vuông",
+    "Hình tam giác",
+    "Hình phẳng như tờ giấy"
+   ],
+   "Trái Đất có dạng hình cầu."
+  ],
+  [
+   "Bầu trời ban đêm, vật sáng nhất thường thấy là:",
+   [
+    "Mặt Trăng",
+    "Mặt Trời",
+    "Đám mây",
+    "Cầu vồng"
+   ],
+   "Mặt Trăng sáng nhất về đêm."
+  ],
+  [
+   "Cầu vồng thường xuất hiện khi nào?",
+   [
+    "Sau cơn mưa, khi có nắng",
+    "Ban đêm",
+    "Khi có tuyết",
+    "Khi trời đầy mây đen"
+   ],
+   "Ánh nắng chiếu qua hạt nước tạo cầu vồng."
+  ],
+  [
+   "Khi có sấm chớp, em không nên:",
+   [
+    "Dùng điện thoại ngoài trời, trú dưới gốc cây",
+    "Ở trong nhà",
+    "Tránh xa cửa sổ",
+    "Ngắt các thiết bị điện"
+   ],
+   "Tránh nơi dễ bị sét đánh."
+  ],
+  [
+   "Mùa hè thường có thời tiết:",
+   [
+    "Nóng, có mưa rào",
+    "Rét buốt",
+    "Mát lạnh, có tuyết",
+    "Mưa phùn kéo dài"
+   ],
+   "Mùa hè nóng, hay có mưa rào."
+  ],
+  [
+   "Gió mạnh, mưa to kéo dài có thể gây:",
+   [
+    "Lũ lụt, sạt lở đất",
+    "Hạn hán",
+    "Tuyết rơi",
+    "Nắng nóng"
+   ],
+   "Mưa lớn kéo dài gây lũ lụt, sạt lở."
+  ],
+  [
+   "Mặt Trăng chiếu sáng được là nhờ:",
+   [
+    "Phản chiếu ánh sáng Mặt Trời",
+    "Tự phát ra ánh sáng",
+    "Có đèn điện",
+    "Có lửa"
+   ],
+   "Mặt Trăng không tự phát sáng."
+  ],
+  [
+   "Ban ngày và ban đêm có là do:",
+   [
+    "Trái Đất tự quay quanh mình",
+    "Mặt Trời tắt",
+    "Mây che",
+    "Mặt Trăng che Mặt Trời"
+   ],
+   "Trái Đất quay nên có ngày đêm."
+  ],
+  [
+   "Khi đi nắng về, em không nên:",
+   [
+    "Tắm ngay hoặc uống nước đá ngay",
+    "Nghỉ ngơi cho ráo mồ hôi",
+    "Uống nước mát vừa phải",
+    "Ngồi chỗ thoáng"
+   ],
+   "Dễ bị cảm."
+  ],
+  [
+   "Tuyết rơi thường có ở nơi:",
+   [
+    "Rất lạnh",
+    "Rất nóng",
+    "Ven biển nhiệt đới",
+    "Sa mạc nóng"
+   ],
+   "Tuyết hình thành khi rất lạnh."
+  ],
+  [
+   "Gió bấc (gió mùa đông bắc) thổi vào mùa:",
+   [
+    "Đông",
+    "Hè",
+    "Xuân",
+    "Thu"
+   ],
+   "Gió mùa đông bắc gây rét."
+  ],
+  [
+   "Sương mù dày gây khó khăn cho:",
+   [
+    "Việc đi lại vì khó nhìn thấy",
+    "Việc ngủ",
+    "Việc ăn uống",
+    "Không có ảnh hưởng"
+   ],
+   "Sương mù làm tầm nhìn kém."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Cơ quan nào điều khiển mọi hoạt động của cơ thể?",
+   [
+    "Não",
+    "Tim",
+    "Phổi",
+    "Dạ dày"
+   ],
+   "Não điều khiển cơ thể."
+  ],
+  [
+   "Khi đi bộ qua đường em cần đi trên:",
+   [
+    "Vạch kẻ đường cho người đi bộ",
+    "Giữa đường",
+    "Dải phân cách",
+    "Đường ray"
+   ],
+   "Đi đúng vạch kẻ."
+  ],
+  [
+   "Con vật nào vừa sống dưới nước vừa trên cạn?",
+   [
+    "Con ếch",
+    "Con cá chép",
+    "Con mèo",
+    "Con chim sẻ"
+   ],
+   "Ếch là lưỡng cư."
+  ],
+  [
+   "Không nên làm gì khi trời có giông sét?",
+   [
+    "Đứng dưới cây cao",
+    "Ở trong nhà",
+    "Đóng cửa sổ",
+    "Rút điện"
+   ],
+   "Cây cao dễ bị sét đánh."
+  ],
+  [
+   "Ngày 1/6 là ngày gì?",
+   [
+    "Ngày Quốc tế Thiếu nhi",
+    "Ngày Nhà giáo",
+    "Tết Nguyên đán",
+    "Ngày Gia đình"
+   ],
+   "1 tháng 6 là Tết Thiếu nhi."
+  ],
+  [
+   "Ăn thức ăn ôi thiu có thể bị:",
+   [
+    "Ngộ độc",
+    "Cao lớn hơn",
+    "Thông minh hơn",
+    "Không sao"
+   ],
+   "Thức ăn ôi thiu gây ngộ độc."
+  ],
+  [
+   "Ông bà, bố mẹ và con cháu cùng sống chung là gia đình:",
+   [
+    "3 thế hệ",
+    "2 thế hệ",
+    "1 thế hệ",
+    "4 thế hệ"
+   ],
+   "Ba lớp người: ông bà, bố mẹ, con cháu."
+  ],
+  [
+   "Số điện thoại cứu hỏa là:",
+   [
+    "114",
+    "113",
+    "115",
+    "117"
+   ],
+   "114 cứu hỏa."
+  ],
+  [
+   "Cây sen sống ở môi trường nào?",
+   [
+    "Dưới nước",
+    "Sa mạc",
+    "Núi đá",
+    "Trên cạn khô"
+   ],
+   "Sen sống ở ao, hồ."
+  ],
+  [
+   "Cơ quan nào giúp bơm máu?",
+   [
+    "Tim",
+    "Phổi",
+    "Dạ dày",
+    "Thận"
+   ],
+   "Tim bơm máu."
+  ],
+  [
+   "Biển báo hình tròn viền đỏ là:",
+   [
+    "Biển cấm",
+    "Biển chỉ dẫn",
+    "Biển nguy hiểm",
+    "Biển tên đường"
+   ],
+   "Hình tròn viền đỏ là biển cấm."
+  ],
+  [
+   "Mặt Trời lặn ở hướng nào?",
+   [
+    "Tây",
+    "Đông",
+    "Nam",
+    "Bắc"
+   ],
+   "Mặt Trời mọc Đông, lặn Tây."
+  ],
+  [
+   "Phương tiện nào đi trên đường hàng không?",
+   [
+    "Máy bay",
+    "Tàu thủy",
+    "Tàu hỏa",
+    "Xe buýt"
+   ],
+   "Máy bay bay trên trời."
+  ],
+  [
+   "Khi ở trường, em bị đau bụng thì đến:",
+   [
+    "Phòng y tế",
+    "Thư viện",
+    "Căng tin",
+    "Sân bóng"
+   ],
+   "Phòng y tế chăm sóc học sinh."
+  ],
+  [
+   "Để phòng bệnh đường hô hấp, em nên:",
+   [
+    "Giữ ấm, đeo khẩu trang nơi khói bụi",
+    "Hít khói bụi",
+    "Tắm nước lạnh mùa đông",
+    "Ngủ chỗ gió lùa"
+   ],
+   "Bảo vệ cơ quan hô hấp."
+  ],
+  [
+   "Con vật nào có ích vì cho mật?",
+   [
+    "Con ong",
+    "Con muỗi",
+    "Con chuột",
+    "Con ruồi"
+   ],
+   "Ong cho mật."
+  ],
+  [
+   "Thức ăn đã hết hạn sử dụng thì:",
+   [
+    "Không nên ăn",
+    "Vẫn ăn được",
+    "Nên ăn nhanh",
+    "Cho người khác ăn"
+   ],
+   "Đồ hết hạn có thể gây ngộ độc."
+  ],
+  [
+   "Khi trời bão, em nên:",
+   [
+    "Ở trong nhà an toàn",
+    "Ra bờ biển xem sóng",
+    "Đi câu cá",
+    "Trèo lên cây"
+   ],
+   "Không ra ngoài khi có bão."
+  ],
+  [
+   "Người làm nghề chữa bệnh là:",
+   [
+    "Bác sĩ",
+    "Thợ may",
+    "Kĩ sư",
+    "Lái xe"
+   ],
+   "Bác sĩ khám chữa bệnh."
+  ],
+  [
+   "Nhà vệ sinh của trường cần được giữ:",
+   [
+    "Sạch sẽ, dội nước sau khi dùng",
+    "Bẩn cũng được",
+    "Vứt giấy ra sàn",
+    "Vẽ lên tường"
+   ],
+   "Giữ nhà vệ sinh sạch sẽ."
+  ],
+  [
+   "Khi mua hàng, em cần:",
+   [
+    "Xem kĩ hạn sử dụng, hàng còn tốt",
+    "Mua bất kì thứ gì",
+    "Không cần xem giá",
+    "Lấy hàng không trả tiền"
+   ],
+   "Kiểm tra hàng hóa trước khi mua."
+  ],
+  [
+   "Để bảo vệ cây xanh, em nên:",
+   [
+    "Tưới nước, không bẻ cành",
+    "Bẻ cành chơi",
+    "Khắc tên lên thân cây",
+    "Nhổ cây non"
+   ],
+   "Chăm sóc, bảo vệ cây."
+  ],
+  [
+   "Tim đập nhanh hơn khi:",
+   [
+    "Chạy nhảy, vận động mạnh",
+    "Ngủ say",
+    "Ngồi yên",
+    "Nằm nghỉ"
+   ],
+   "Vận động mạnh cơ thể cần nhiều máu hơn."
+  ],
+  [
+   "Mùa nào thường nóng nhất?",
+   [
+    "Mùa hè",
+    "Mùa đông",
+    "Mùa xuân",
+    "Mùa thu"
+   ],
+   "Mùa hè nắng nóng."
+  ],
+  [
+   "Khi đi chơi xa, em cần:",
+   [
+    "Xin phép bố mẹ, đi cùng người lớn",
+    "Tự đi một mình",
+    "Đi theo người lạ",
+    "Không cần báo ai"
+   ],
+   "Luôn xin phép và đi cùng người lớn."
+  ],
+  [
+   "Người dọn dẹp, giữ vệ sinh trường học là:",
+   [
+    "Cô, bác lao công",
+    "Thầy hiệu trưởng",
+    "Bác sĩ",
+    "Bạn lớp trưởng"
+   ],
+   "Cô bác lao công giữ trường sạch."
+  ],
+  [
+   "Biển báo hình vuông hoặc chữ nhật nền xanh là biển:",
+   [
+    "Biển chỉ dẫn",
+    "Biển cấm",
+    "Biển nguy hiểm",
+    "Biển tên trường"
+   ],
+   "Nền xanh, hình vuông/chữ nhật là biển chỉ dẫn."
+  ],
+  [
+   "Môi trường sống của cá là:",
+   [
+    "Dưới nước",
+    "Trên cây",
+    "Trong hang đất",
+    "Sa mạc"
+   ],
+   "Cá sống dưới nước."
+  ],
+  [
+   "Khi bị ho, sốt, em cần:",
+   [
+    "Báo bố mẹ để được khám và chăm sóc",
+    "Tự mua thuốc uống",
+    "Đi tắm mưa",
+    "Giấu không nói"
+   ],
+   "Báo người lớn để được chữa trị."
+  ],
+  [
+   "Bầu trời ban đêm, vật sáng nhất thường thấy là:",
+   [
+    "Mặt Trăng",
+    "Mặt Trời",
+    "Đám mây",
+    "Cầu vồng"
+   ],
+   "Mặt Trăng sáng nhất về đêm."
+  ],
+  [
+   "Khi vứt rác ở nhà, em cần:",
+   [
+    "Bỏ rác vào thùng, phân loại nếu có thể",
+    "Vứt ra đường",
+    "Ném xuống ao",
+    "Để dưới gầm giường"
+   ],
+   "Bỏ rác đúng nơi, phân loại rác."
+  ],
+  [
+   "Để chuẩn bị cho ngày Nhà giáo 20/11, học sinh thường:",
+   [
+    "Học tốt, làm thiệp, văn nghệ tặng thầy cô",
+    "Nghỉ học",
+    "Đi chơi xa",
+    "Không làm gì"
+   ],
+   "Chăm ngoan, học giỏi là món quà ý nghĩa."
+  ],
+  [
+   "Đồn công an có nhiệm vụ:",
+   [
+    "Giữ gìn trật tự, an ninh",
+    "Bán quần áo",
+    "Dạy bơi",
+    "Trồng lúa"
+   ],
+   "Công an bảo vệ an ninh trật tự."
+  ],
+  [
+   "Cây rau muống sống ở môi trường nào?",
+   [
+    "Dưới nước và trên cạn ẩm",
+    "Sa mạc",
+    "Trên núi tuyết",
+    "Trong tủ lạnh"
+   ],
+   "Rau muống sống ở ao, ruộng hoặc đất ẩm."
+  ],
+  [
+   "Uống đủ nước mỗi ngày giúp:",
+   [
+    "Cơ thể hoạt động tốt",
+    "Bị đau đầu",
+    "Làm mệt mỏi",
+    "Không có tác dụng"
+   ],
+   "Nước rất cần cho cơ thể."
+  ],
+  [
+   "Trái Đất có hình dạng gì?",
+   [
+    "Gần giống hình cầu",
+    "Hình vuông",
+    "Hình tam giác",
+    "Hình phẳng như tờ giấy"
+   ],
+   "Trái Đất có dạng hình cầu."
+  ],
+  [
+   "Khi thấy dấu hiệu ngộ độc (nôn, đau bụng), em cần:",
+   [
+    "Báo ngay cho người lớn",
+    "Tự uống thuốc bất kì",
+    "Giấu không nói",
+    "Ăn thêm"
+   ],
+   "Báo người lớn để được giúp đỡ kịp thời."
+  ],
+  [
+   "Đồ dùng chung của lớp như bàn ghế, bảng cần được:",
+   [
+    "Giữ gìn, không vẽ bậy",
+    "Viết tên mình lên",
+    "Đứng lên bàn ghế",
+    "Mang về nhà"
+   ],
+   "Bảo vệ của công."
+  ],
+  [
+   "Đường thủy là đường đi trên:",
+   [
+    "Sông, biển",
+    "Mặt đất",
+    "Bầu trời",
+    "Đường ray"
+   ],
+   "Tàu thuyền đi trên sông, biển."
+  ],
+  [
+   "Lạc đà sống ở nơi nào?",
+   [
+    "Sa mạc",
+    "Bắc Cực",
+    "Dưới nước",
+    "Rừng rậm nhiệt đới"
+   ],
+   "Lạc đà chịu được khô hạn ở sa mạc."
+  ]
+ ]
+}

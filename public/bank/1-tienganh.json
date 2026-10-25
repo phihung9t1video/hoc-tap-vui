@@ -1,0 +1,906 @@
+{
+ "c1": [
+  [
+   "'Hello' nghĩa là:",
+   [
+    "Xin chào",
+    "Tạm biệt",
+    "Cảm ơn",
+    "Xin lỗi"
+   ],
+   "Hello dùng để chào hỏi."
+  ],
+  [
+   "'Goodbye' nghĩa là:",
+   [
+    "Tạm biệt",
+    "Xin chào",
+    "Cảm ơn",
+    "Vâng"
+   ],
+   "Goodbye dùng khi chia tay."
+  ],
+  [
+   "Để hỏi tên bạn, em nói:",
+   [
+    "What's your name?",
+    "How old are you?",
+    "How are you?",
+    "Goodbye!"
+   ],
+   "What's your name? = Bạn tên là gì?"
+  ],
+  [
+   "'I'm Nam.' nghĩa là:",
+   [
+    "Tớ là Nam.",
+    "Tớ thích Nam.",
+    "Đây là Nam.",
+    "Tạm biệt Nam."
+   ],
+   "I'm = I am = Tớ là."
+  ],
+  [
+   "'Thank you' nghĩa là:",
+   [
+    "Cảm ơn",
+    "Xin chào",
+    "Xin lỗi",
+    "Không"
+   ],
+   "Thank you = Cảm ơn bạn."
+  ],
+  [
+   "Trả lời 'How are you?':",
+   [
+    "I'm fine, thank you.",
+    "I'm Nam.",
+    "Goodbye.",
+    "Yes, I am."
+   ],
+   "How are you? hỏi thăm sức khỏe: I'm fine, thank you."
+  ],
+  [
+   "'Nice to meet you' nghĩa là:",
+   [
+    "Rất vui được gặp bạn",
+    "Hẹn gặp lại",
+    "Chúc ngủ ngon",
+    "Chào buổi sáng"
+   ],
+   "Câu nói khi mới làm quen."
+  ],
+  [
+   "'Good morning' dùng vào lúc nào?",
+   [
+    "Buổi sáng",
+    "Buổi tối",
+    "Buổi trưa",
+    "Ban đêm"
+   ],
+   "Morning = buổi sáng."
+  ]
+ ],
+ "c2": [
+  [
+   "'pen' nghĩa là:",
+   [
+    "Cái bút",
+    "Quyển sách",
+    "Cái thước",
+    "Cái cặp"
+   ],
+   "pen = bút mực."
+  ],
+  [
+   "'book' nghĩa là:",
+   [
+    "Quyển sách",
+    "Cái bàn",
+    "Cái ghế",
+    "Cục tẩy"
+   ],
+   "book = quyển sách."
+  ],
+  [
+   "'ruler' nghĩa là:",
+   [
+    "Cái thước",
+    "Cái bút chì",
+    "Cái bảng",
+    "Cửa sổ"
+   ],
+   "ruler = thước kẻ."
+  ],
+  [
+   "'bag' nghĩa là:",
+   [
+    "Cái cặp, túi",
+    "Cái bàn",
+    "Cái mũ",
+    "Quả bóng"
+   ],
+   "bag = cặp sách, túi."
+  ],
+  [
+   "'Sit down, please' nghĩa là:",
+   [
+    "Mời ngồi xuống",
+    "Mời đứng lên",
+    "Mở sách ra",
+    "Đi ra ngoài"
+   ],
+   "sit down = ngồi xuống."
+  ],
+  [
+   "'Stand up' nghĩa là:",
+   [
+    "Đứng lên",
+    "Ngồi xuống",
+    "Im lặng",
+    "Giơ tay"
+   ],
+   "stand up = đứng lên."
+  ],
+  [
+   "Cục tẩy tiếng Anh là:",
+   [
+    "eraser",
+    "pencil",
+    "desk",
+    "chair"
+   ],
+   "eraser (hoặc rubber) = cục tẩy."
+  ],
+  [
+   "'Open your book' nghĩa là:",
+   [
+    "Mở sách ra",
+    "Gấp sách lại",
+    "Đọc sách",
+    "Cất sách đi"
+   ],
+   "open = mở."
+  ]
+ ],
+ "c3": [
+  [
+   "'red' là màu gì?",
+   [
+    "Màu đỏ",
+    "Màu xanh",
+    "Màu vàng",
+    "Màu trắng"
+   ],
+   "red = đỏ."
+  ],
+  [
+   "'yellow' là màu gì?",
+   [
+    "Màu vàng",
+    "Màu tím",
+    "Màu đen",
+    "Màu hồng"
+   ],
+   "yellow = vàng."
+  ],
+  [
+   "'blue' là màu gì?",
+   [
+    "Màu xanh da trời",
+    "Màu đỏ",
+    "Màu cam",
+    "Màu nâu"
+   ],
+   "blue = xanh lam, xanh da trời."
+  ],
+  [
+   "Màu xanh lá cây tiếng Anh là:",
+   [
+    "green",
+    "blue",
+    "grey",
+    "black"
+   ],
+   "green = xanh lá."
+  ],
+  [
+   "Số 3 tiếng Anh là:",
+   [
+    "three",
+    "two",
+    "tree",
+    "ten"
+   ],
+   "three = 3 (tree là cái cây)."
+  ],
+  [
+   "Số 8 tiếng Anh là:",
+   [
+    "eight",
+    "eleven",
+    "nine",
+    "six"
+   ],
+   "eight = 8."
+  ],
+  [
+   "'five' là số mấy?",
+   [
+    "5",
+    "4",
+    "9",
+    "15"
+   ],
+   "five = 5."
+  ],
+  [
+   "two + three = ?",
+   [
+    "five",
+    "six",
+    "four",
+    "seven"
+   ],
+   "2 + 3 = 5 = five."
+  ],
+  [
+   "'ten' là số mấy?",
+   [
+    "10",
+    "2",
+    "100",
+    "7"
+   ],
+   "ten = 10."
+  ]
+ ],
+ "c4": [
+  [
+   "'mother' nghĩa là:",
+   [
+    "Mẹ",
+    "Bố",
+    "Chị gái",
+    "Bà"
+   ],
+   "mother = mẹ."
+  ],
+  [
+   "'father' nghĩa là:",
+   [
+    "Bố",
+    "Mẹ",
+    "Anh trai",
+    "Ông"
+   ],
+   "father = bố."
+  ],
+  [
+   "'sister' nghĩa là:",
+   [
+    "Chị/em gái",
+    "Anh/em trai",
+    "Bạn",
+    "Cô giáo"
+   ],
+   "sister = chị gái hoặc em gái."
+  ],
+  [
+   "'brother' nghĩa là:",
+   [
+    "Anh/em trai",
+    "Chị/em gái",
+    "Bố",
+    "Chú"
+   ],
+   "brother = anh trai hoặc em trai."
+  ],
+  [
+   "'grandma' nghĩa là:",
+   [
+    "Bà",
+    "Ông",
+    "Mẹ",
+    "Cô"
+   ],
+   "grandma = bà."
+  ],
+  [
+   "'This is my dad.' nghĩa là:",
+   [
+    "Đây là bố tớ.",
+    "Đây là mẹ tớ.",
+    "Tớ là bố.",
+    "Bố tớ đâu?"
+   ],
+   "dad = bố."
+  ],
+  [
+   "'grandpa' nghĩa là:",
+   [
+    "Ông",
+    "Bà",
+    "Bố",
+    "Anh"
+   ],
+   "grandpa = ông."
+  ],
+  [
+   "'family' nghĩa là:",
+   [
+    "Gia đình",
+    "Trường học",
+    "Bạn bè",
+    "Ngôi nhà"
+   ],
+   "family = gia đình."
+  ]
+ ],
+ "c5": [
+  [
+   "'cat' là con gì?",
+   [
+    "Con mèo",
+    "Con chó",
+    "Con gà",
+    "Con cá"
+   ],
+   "cat = mèo."
+  ],
+  [
+   "'dog' là con gì?",
+   [
+    "Con chó",
+    "Con mèo",
+    "Con vịt",
+    "Con lợn"
+   ],
+   "dog = chó."
+  ],
+  [
+   "'fish' là con gì?",
+   [
+    "Con cá",
+    "Con chim",
+    "Con ếch",
+    "Con rắn"
+   ],
+   "fish = cá."
+  ],
+  [
+   "'bird' là con gì?",
+   [
+    "Con chim",
+    "Con ong",
+    "Con bò",
+    "Con dê"
+   ],
+   "bird = chim."
+  ],
+  [
+   "Con voi tiếng Anh là:",
+   [
+    "elephant",
+    "monkey",
+    "tiger",
+    "lion"
+   ],
+   "elephant = voi."
+  ],
+  [
+   "Con khỉ tiếng Anh là:",
+   [
+    "monkey",
+    "mouse",
+    "duck",
+    "horse"
+   ],
+   "monkey = khỉ."
+  ],
+  [
+   "'duck' là con gì?",
+   [
+    "Con vịt",
+    "Con gà",
+    "Con ngỗng",
+    "Con chim"
+   ],
+   "duck = vịt."
+  ],
+  [
+   "Con vật nào biết bay?",
+   [
+    "bird",
+    "fish",
+    "dog",
+    "cat"
+   ],
+   "Chim (bird) biết bay."
+  ]
+ ],
+ "c6": [
+  [
+   "'ball' nghĩa là:",
+   [
+    "Quả bóng",
+    "Con búp bê",
+    "Ô tô đồ chơi",
+    "Con diều"
+   ],
+   "ball = quả bóng."
+  ],
+  [
+   "'doll' nghĩa là:",
+   [
+    "Búp bê",
+    "Quả bóng",
+    "Gấu bông",
+    "Con thuyền"
+   ],
+   "doll = búp bê."
+  ],
+  [
+   "'car' nghĩa là:",
+   [
+    "Ô tô",
+    "Xe đạp",
+    "Máy bay",
+    "Tàu thủy"
+   ],
+   "car = ô tô."
+  ],
+  [
+   "'apple' nghĩa là:",
+   [
+    "Quả táo",
+    "Quả chuối",
+    "Quả cam",
+    "Quả nho"
+   ],
+   "apple = táo."
+  ],
+  [
+   "'banana' nghĩa là:",
+   [
+    "Quả chuối",
+    "Quả táo",
+    "Quả dưa",
+    "Quả xoài"
+   ],
+   "banana = chuối."
+  ],
+  [
+   "'milk' nghĩa là:",
+   [
+    "Sữa",
+    "Nước",
+    "Nước cam",
+    "Bánh mì"
+   ],
+   "milk = sữa."
+  ],
+  [
+   "'I like cake.' nghĩa là:",
+   [
+    "Tớ thích bánh ngọt.",
+    "Tớ có bánh.",
+    "Tớ ăn kem.",
+    "Tớ không thích bánh."
+   ],
+   "like = thích, cake = bánh ngọt."
+  ],
+  [
+   "Con gấu bông tiếng Anh là:",
+   [
+    "teddy bear",
+    "kite",
+    "robot",
+    "yo-yo"
+   ],
+   "teddy bear = gấu bông."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "'Hi! I'm Mai.' Mai đang làm gì?",
+   [
+    "Chào và giới thiệu tên",
+    "Chào tạm biệt",
+    "Hỏi tuổi",
+    "Cảm ơn"
+   ],
+   "Hi là chào, I'm Mai là giới thiệu tên."
+  ],
+  [
+   "Màu đen tiếng Anh là:",
+   [
+    "black",
+    "white",
+    "brown",
+    "pink"
+   ],
+   "black = đen."
+  ],
+  [
+   "'seven' là số mấy?",
+   [
+    "7",
+    "6",
+    "11",
+    "17"
+   ],
+   "seven = 7."
+  ],
+  [
+   "'pencil' nghĩa là:",
+   [
+    "Bút chì",
+    "Bút mực",
+    "Hộp bút",
+    "Giấy"
+   ],
+   "pencil = bút chì."
+  ],
+  [
+   "'orange' nghĩa là:",
+   [
+    "Quả cam / màu cam",
+    "Quả táo",
+    "Màu tím",
+    "Quả nho"
+   ],
+   "orange vừa là quả cam vừa là màu cam."
+  ],
+  [
+   "Câu nào dùng để chào tạm biệt?",
+   [
+    "Bye!",
+    "Hello!",
+    "Thank you!",
+    "Sorry!"
+   ],
+   "Bye = tạm biệt."
+  ],
+  [
+   "'kite' nghĩa là:",
+   [
+    "Con diều",
+    "Con mèo",
+    "Quả bóng",
+    "Cái xe"
+   ],
+   "kite = con diều."
+  ],
+  [
+   "'one, two, ..., four'. Số còn thiếu là:",
+   [
+    "three",
+    "five",
+    "tree",
+    "ten"
+   ],
+   "1, 2, 3, 4: three."
+  ],
+  [
+   "'Good morning' dùng vào lúc nào?",
+   [
+    "Buổi sáng",
+    "Buổi tối",
+    "Buổi trưa",
+    "Ban đêm"
+   ],
+   "Morning = buổi sáng."
+  ],
+  [
+   "'Sit down, please' nghĩa là:",
+   [
+    "Mời ngồi xuống",
+    "Mời đứng lên",
+    "Mở sách ra",
+    "Đi ra ngoài"
+   ],
+   "sit down = ngồi xuống."
+  ],
+  [
+   "two + three = ?",
+   [
+    "five",
+    "six",
+    "four",
+    "seven"
+   ],
+   "2 + 3 = 5 = five."
+  ],
+  [
+   "'sister' nghĩa là:",
+   [
+    "Chị/em gái",
+    "Anh/em trai",
+    "Bạn",
+    "Cô giáo"
+   ],
+   "sister = chị gái hoặc em gái."
+  ],
+  [
+   "'dog' là con gì?",
+   [
+    "Con chó",
+    "Con mèo",
+    "Con vịt",
+    "Con lợn"
+   ],
+   "dog = chó."
+  ],
+  [
+   "'milk' nghĩa là:",
+   [
+    "Sữa",
+    "Nước",
+    "Nước cam",
+    "Bánh mì"
+   ],
+   "milk = sữa."
+  ],
+  [
+   "Để hỏi tên bạn, em nói:",
+   [
+    "What's your name?",
+    "How old are you?",
+    "How are you?",
+    "Goodbye!"
+   ],
+   "What's your name? = Bạn tên là gì?"
+  ],
+  [
+   "'Open your book' nghĩa là:",
+   [
+    "Mở sách ra",
+    "Gấp sách lại",
+    "Đọc sách",
+    "Cất sách đi"
+   ],
+   "open = mở."
+  ],
+  [
+   "Màu xanh lá cây tiếng Anh là:",
+   [
+    "green",
+    "blue",
+    "grey",
+    "black"
+   ],
+   "green = xanh lá."
+  ],
+  [
+   "'grandpa' nghĩa là:",
+   [
+    "Ông",
+    "Bà",
+    "Bố",
+    "Anh"
+   ],
+   "grandpa = ông."
+  ],
+  [
+   "'cat' là con gì?",
+   [
+    "Con mèo",
+    "Con chó",
+    "Con gà",
+    "Con cá"
+   ],
+   "cat = mèo."
+  ],
+  [
+   "'car' nghĩa là:",
+   [
+    "Ô tô",
+    "Xe đạp",
+    "Máy bay",
+    "Tàu thủy"
+   ],
+   "car = ô tô."
+  ],
+  [
+   "'I'm Nam.' nghĩa là:",
+   [
+    "Tớ là Nam.",
+    "Tớ thích Nam.",
+    "Đây là Nam.",
+    "Tạm biệt Nam."
+   ],
+   "I'm = I am = Tớ là."
+  ],
+  [
+   "'ruler' nghĩa là:",
+   [
+    "Cái thước",
+    "Cái bút chì",
+    "Cái bảng",
+    "Cửa sổ"
+   ],
+   "ruler = thước kẻ."
+  ],
+  [
+   "'ten' là số mấy?",
+   [
+    "10",
+    "2",
+    "100",
+    "7"
+   ],
+   "ten = 10."
+  ],
+  [
+   "'This is my dad.' nghĩa là:",
+   [
+    "Đây là bố tớ.",
+    "Đây là mẹ tớ.",
+    "Tớ là bố.",
+    "Bố tớ đâu?"
+   ],
+   "dad = bố."
+  ],
+  [
+   "'bird' là con gì?",
+   [
+    "Con chim",
+    "Con ong",
+    "Con bò",
+    "Con dê"
+   ],
+   "bird = chim."
+  ],
+  [
+   "'I like cake.' nghĩa là:",
+   [
+    "Tớ thích bánh ngọt.",
+    "Tớ có bánh.",
+    "Tớ ăn kem.",
+    "Tớ không thích bánh."
+   ],
+   "like = thích, cake = bánh ngọt."
+  ],
+  [
+   "'Thank you' nghĩa là:",
+   [
+    "Cảm ơn",
+    "Xin chào",
+    "Xin lỗi",
+    "Không"
+   ],
+   "Thank you = Cảm ơn bạn."
+  ],
+  [
+   "'bag' nghĩa là:",
+   [
+    "Cái cặp, túi",
+    "Cái bàn",
+    "Cái mũ",
+    "Quả bóng"
+   ],
+   "bag = cặp sách, túi."
+  ],
+  [
+   "Số 3 tiếng Anh là:",
+   [
+    "three",
+    "two",
+    "tree",
+    "ten"
+   ],
+   "three = 3 (tree là cái cây)."
+  ],
+  [
+   "'mother' nghĩa là:",
+   [
+    "Mẹ",
+    "Bố",
+    "Chị gái",
+    "Bà"
+   ],
+   "mother = mẹ."
+  ],
+  [
+   "'duck' là con gì?",
+   [
+    "Con vịt",
+    "Con gà",
+    "Con ngỗng",
+    "Con chim"
+   ],
+   "duck = vịt."
+  ],
+  [
+   "'ball' nghĩa là:",
+   [
+    "Quả bóng",
+    "Con búp bê",
+    "Ô tô đồ chơi",
+    "Con diều"
+   ],
+   "ball = quả bóng."
+  ],
+  [
+   "'Goodbye' nghĩa là:",
+   [
+    "Tạm biệt",
+    "Xin chào",
+    "Cảm ơn",
+    "Vâng"
+   ],
+   "Goodbye dùng khi chia tay."
+  ],
+  [
+   "'pen' nghĩa là:",
+   [
+    "Cái bút",
+    "Quyển sách",
+    "Cái thước",
+    "Cái cặp"
+   ],
+   "pen = bút mực."
+  ],
+  [
+   "'yellow' là màu gì?",
+   [
+    "Màu vàng",
+    "Màu tím",
+    "Màu đen",
+    "Màu hồng"
+   ],
+   "yellow = vàng."
+  ],
+  [
+   "'grandma' nghĩa là:",
+   [
+    "Bà",
+    "Ông",
+    "Mẹ",
+    "Cô"
+   ],
+   "grandma = bà."
+  ],
+  [
+   "Con vật nào biết bay?",
+   [
+    "bird",
+    "fish",
+    "dog",
+    "cat"
+   ],
+   "Chim (bird) biết bay."
+  ],
+  [
+   "'doll' nghĩa là:",
+   [
+    "Búp bê",
+    "Quả bóng",
+    "Gấu bông",
+    "Con thuyền"
+   ],
+   "doll = búp bê."
+  ],
+  [
+   "'Nice to meet you' nghĩa là:",
+   [
+    "Rất vui được gặp bạn",
+    "Hẹn gặp lại",
+    "Chúc ngủ ngon",
+    "Chào buổi sáng"
+   ],
+   "Câu nói khi mới làm quen."
+  ],
+  [
+   "'Stand up' nghĩa là:",
+   [
+    "Đứng lên",
+    "Ngồi xuống",
+    "Im lặng",
+    "Giơ tay"
+   ],
+   "stand up = đứng lên."
+  ]
+ ]
+}

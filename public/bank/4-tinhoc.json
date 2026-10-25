@@ -1,0 +1,2216 @@
+{
+ "c1": [
+  [
+   "Phần cứng máy tính là:",
+   [
+    "Các bộ phận nhìn thấy, chạm vào được của máy tính",
+    "Các chương trình trong máy",
+    "Mật khẩu",
+    "Trang web"
+   ],
+   "Chuột, bàn phím, màn hình... là phần cứng."
+  ],
+  [
+   "Phần mềm máy tính là:",
+   [
+    "Các chương trình chạy trên máy tính",
+    "Bàn phím",
+    "Màn hình",
+    "Dây điện"
+   ],
+   "Ví dụ: phần mềm soạn thảo, trò chơi."
+  ],
+  [
+   "Thiết bị nào là thiết bị vào (nhập dữ liệu)?",
+   [
+    "Bàn phím",
+    "Màn hình",
+    "Loa",
+    "Máy in"
+   ],
+   "Bàn phím đưa thông tin vào máy."
+  ],
+  [
+   "Thiết bị nào là thiết bị ra (xuất thông tin)?",
+   [
+    "Màn hình",
+    "Chuột",
+    "Bàn phím",
+    "Micro"
+   ],
+   "Màn hình hiển thị kết quả."
+  ],
+  [
+   "Bộ phận được coi là 'bộ não' của máy tính là:",
+   [
+    "Bộ xử lí (CPU)",
+    "Màn hình",
+    "Chuột",
+    "Loa"
+   ],
+   "CPU xử lí thông tin."
+  ],
+  [
+   "Phần mềm nào dùng để soạn thảo văn bản?",
+   [
+    "Word (hoặc phần mềm soạn thảo tương tự)",
+    "Paint",
+    "Scratch",
+    "Trình duyệt web"
+   ],
+   "Word dùng để soạn thảo văn bản."
+  ],
+  [
+   "Phần mềm Paint dùng để:",
+   [
+    "Vẽ tranh",
+    "Soạn thảo văn bản",
+    "Tính toán bảng số",
+    "Lập trình"
+   ],
+   "Paint là phần mềm vẽ."
+  ],
+  [
+   "Máy tính chỉ hoạt động được khi:",
+   [
+    "Có cả phần cứng và phần mềm",
+    "Chỉ có phần cứng",
+    "Chỉ có phần mềm",
+    "Không cần gì"
+   ],
+   "Phần cứng và phần mềm phối hợp."
+  ],
+  [
+   "Máy in là thiết bị:",
+   [
+    "Ra (xuất thông tin ra giấy)",
+    "Vào",
+    "Lưu trữ trong máy",
+    "Xử lí"
+   ],
+   "Máy in đưa kết quả ra giấy."
+  ],
+  [
+   "Loa máy tính dùng để:",
+   [
+    "Phát âm thanh",
+    "Nhập chữ",
+    "Vẽ hình",
+    "Lưu dữ liệu"
+   ],
+   "Loa là thiết bị ra âm thanh."
+  ],
+  [
+   "Ổ đĩa cứng, USB dùng để:",
+   [
+    "Lưu trữ dữ liệu",
+    "Phát âm thanh",
+    "Nhập chữ",
+    "Hiển thị hình"
+   ],
+   "Thiết bị lưu trữ."
+  ],
+  [
+   "Khi máy tính bị treo, em nên:",
+   [
+    "Báo người lớn hoặc thầy cô",
+    "Đập vào màn hình",
+    "Rút dây điện liên tục",
+    "Đổ nước vào bàn phím"
+   ],
+   "Không tự ý làm hỏng máy."
+  ],
+  [
+   "Để bảo vệ máy tính, em không nên:",
+   [
+    "Ăn uống gần bàn phím",
+    "Tắt máy đúng cách",
+    "Giữ máy sạch sẽ",
+    "Để máy nơi khô ráo"
+   ],
+   "Nước, vụn bánh làm hỏng máy."
+  ],
+  [
+   "Tắt máy tính đúng cách là:",
+   [
+    "Chọn Start (Bắt đầu) → Shut down (Tắt máy)",
+    "Rút phích cắm điện ngay",
+    "Tắt màn hình là xong",
+    "Bấm giữ nút nguồn mỗi lần"
+   ],
+   "Tắt bằng lệnh Shut down."
+  ],
+  [
+   "Hệ điều hành (như Windows) thuộc loại:",
+   [
+    "Phần mềm",
+    "Phần cứng",
+    "Thiết bị ra",
+    "Thiết bị vào"
+   ],
+   "Hệ điều hành là phần mềm quan trọng nhất."
+  ],
+  [
+   "Chuột máy tính dùng để:",
+   [
+    "Điều khiển con trỏ, chọn lệnh",
+    "Phát âm thanh",
+    "In văn bản",
+    "Lưu trữ dữ liệu"
+   ],
+   "Chuột là thiết bị vào."
+  ],
+  [
+   "Webcam (máy ảnh của máy tính) là thiết bị:",
+   [
+    "Vào (đưa hình ảnh vào máy)",
+    "Ra",
+    "Lưu trữ",
+    "Xử lí chính"
+   ],
+   "Webcam thu hình đưa vào máy."
+  ],
+  [
+   "Micro là thiết bị:",
+   [
+    "Vào (thu âm thanh)",
+    "Ra (phát âm thanh)",
+    "Lưu trữ",
+    "Hiển thị"
+   ],
+   "Micro thu tiếng nói."
+  ],
+  [
+   "Phần mềm trò chơi cài trên máy tính là:",
+   [
+    "Phần mềm",
+    "Phần cứng",
+    "Thiết bị ra",
+    "Thiết bị lưu trữ"
+   ],
+   "Trò chơi là chương trình."
+  ],
+  [
+   "Khi ngồi máy tính, mắt nên cách màn hình khoảng:",
+   [
+    "50–80 cm",
+    "5 cm",
+    "2 m",
+    "Sát màn hình"
+   ],
+   "Giữ khoảng cách để bảo vệ mắt."
+  ],
+  [
+   "Ngồi máy tính lâu, sau khoảng 30–45 phút em nên:",
+   [
+    "Nghỉ ngơi, nhìn ra xa cho mắt thư giãn",
+    "Ngồi tiếp không nghỉ",
+    "Dụi mắt thật mạnh",
+    "Tăng độ sáng tối đa"
+   ],
+   "Bảo vệ mắt và sức khỏe."
+  ],
+  [
+   "Máy tính bảng, điện thoại thông minh cũng có:",
+   [
+    "Phần cứng và phần mềm",
+    "Chỉ phần cứng",
+    "Chỉ phần mềm",
+    "Không có phần mềm"
+   ],
+   "Mọi máy tính đều cần cả hai."
+  ],
+  [
+   "Màn hình cảm ứng vừa là thiết bị vào vừa là thiết bị:",
+   [
+    "Ra",
+    "Lưu trữ",
+    "Xử lí",
+    "Nguồn điện"
+   ],
+   "Vừa nhận chạm vừa hiển thị."
+  ],
+  [
+   "Phần mềm dùng để nghe nhạc, xem phim gọi là:",
+   [
+    "Phần mềm đa phương tiện",
+    "Phần cứng",
+    "Hệ điều hành",
+    "Trình diệt virus"
+   ],
+   "Ví dụ: Windows Media Player."
+  ],
+  [
+   "Bộ nhớ trong (RAM) có đặc điểm:",
+   [
+    "Mất dữ liệu khi tắt máy",
+    "Lưu mãi mãi",
+    "Là thiết bị ra",
+    "Là thiết bị vào"
+   ],
+   "RAM lưu tạm khi máy chạy."
+  ],
+  [
+   "Đâu KHÔNG phải là phần cứng?",
+   [
+    "Trò chơi trên máy tính",
+    "Chuột",
+    "Bàn phím",
+    "Loa"
+   ],
+   "Trò chơi là phần mềm."
+  ],
+  [
+   "Tai nghe là thiết bị:",
+   [
+    "Ra",
+    "Vào",
+    "Xử lí",
+    "Lưu trữ"
+   ],
+   "Phát âm thanh."
+  ],
+  [
+   "Khi cài đặt phần mềm mới, em nên:",
+   [
+    "Hỏi ý kiến bố mẹ, thầy cô",
+    "Tự cài mọi thứ từ mạng",
+    "Tắt phần mềm diệt virus",
+    "Tải từ trang lạ"
+   ],
+   "Cài phần mềm an toàn."
+  ],
+  [
+   "Máy quét (scanner) là thiết bị:",
+   [
+    "Vào (đưa hình ảnh giấy vào máy)",
+    "Ra",
+    "Lưu trữ",
+    "Âm thanh"
+   ],
+   "Scanner quét tài liệu vào máy."
+  ],
+  [
+   "Khởi động máy tính bằng cách:",
+   [
+    "Nhấn nút nguồn (Power)",
+    "Nhấn phím Enter",
+    "Rút điện",
+    "Gõ bàn phím liên tục"
+   ],
+   "Bấm nút nguồn để bật máy."
+  ]
+ ],
+ "c2": [
+  [
+   "Trình duyệt web dùng để:",
+   [
+    "Truy cập các trang web trên Internet",
+    "Vẽ tranh",
+    "Soạn thảo văn bản",
+    "Tắt máy"
+   ],
+   "Ví dụ: Chrome, Edge, Cốc Cốc."
+  ],
+  [
+   "Máy tìm kiếm phổ biến là:",
+   [
+    "Google",
+    "Paint",
+    "Word",
+    "Scratch"
+   ],
+   "Google giúp tìm thông tin."
+  ],
+  [
+   "Từ khóa tìm kiếm là:",
+   [
+    "Từ hoặc cụm từ gõ vào ô tìm kiếm",
+    "Mật khẩu email",
+    "Tên máy tính",
+    "Phím tắt"
+   ],
+   "Từ khóa giúp máy tìm kết quả phù hợp."
+  ],
+  [
+   "Muốn tìm thông tin về 'con voi', từ khóa phù hợp là:",
+   [
+    "con voi",
+    "con",
+    "tìm",
+    "a b c"
+   ],
+   "Từ khóa nên ngắn gọn, đúng nội dung."
+  ],
+  [
+   "Kết quả tìm kiếm thường hiển thị dưới dạng:",
+   [
+    "Danh sách các trang web liên quan",
+    "Một bức tranh duy nhất",
+    "Một bài hát",
+    "Không có gì"
+   ],
+   "Danh sách liên kết kèm mô tả ngắn."
+  ],
+  [
+   "Để mở một trang trong kết quả tìm kiếm, em:",
+   [
+    "Nháy chuột vào tiêu đề (liên kết)",
+    "Tắt máy",
+    "Gõ lại từ khóa",
+    "Đóng trình duyệt"
+   ],
+   "Nháy vào liên kết để mở trang."
+  ],
+  [
+   "Thông tin trên Internet:",
+   [
+    "Có cái đúng, có cái sai, cần kiểm tra",
+    "Luôn đúng 100%",
+    "Luôn sai",
+    "Không cần đọc"
+   ],
+   "Cần chọn nguồn tin cậy."
+  ],
+  [
+   "Trang web đáng tin cậy thường là trang của:",
+   [
+    "Cơ quan nhà nước, nhà trường, báo chí chính thống",
+    "Người lạ không rõ tên",
+    "Quảng cáo nhấp nháy",
+    "Trang yêu cầu mật khẩu lạ"
+   ],
+   "Chọn nguồn tin uy tín."
+  ],
+  [
+   "Khi gặp quảng cáo lạ, em nên:",
+   [
+    "Không nháy vào, báo người lớn",
+    "Nháy vào xem ngay",
+    "Nhập thông tin cá nhân",
+    "Tải về máy"
+   ],
+   "Quảng cáo lạ có thể chứa mã độc."
+  ],
+  [
+   "Địa chỉ trang web thường được gõ vào:",
+   [
+    "Thanh địa chỉ của trình duyệt",
+    "Màn hình nền",
+    "Thùng rác",
+    "Ô chữ trong Paint"
+   ],
+   "Thanh địa chỉ ở phía trên trình duyệt."
+  ],
+  [
+   "Muốn quay lại trang web vừa xem, nháy nút:",
+   [
+    "Back (mũi tên quay lại)",
+    "Close",
+    "Shut down",
+    "Refresh (tải lại)"
+   ],
+   "Nút Back trở về trang trước."
+  ],
+  [
+   "Nút tải lại trang web có tác dụng:",
+   [
+    "Tải lại nội dung trang hiện tại",
+    "Đóng trình duyệt",
+    "Xóa trang",
+    "In trang"
+   ],
+   "Refresh làm mới trang."
+  ],
+  [
+   "Internet giúp em:",
+   [
+    "Tìm kiếm thông tin, học tập, liên lạc",
+    "Chỉ để chơi trò chơi",
+    "Không có ích",
+    "Thay thế việc học ở trường hoàn toàn"
+   ],
+   "Internet có nhiều lợi ích nếu dùng đúng."
+  ],
+  [
+   "Không nên làm gì khi dùng Internet?",
+   [
+    "Cho người lạ biết địa chỉ nhà, số điện thoại",
+    "Tìm thông tin bài học",
+    "Xem video học tập",
+    "Hỏi ý kiến bố mẹ"
+   ],
+   "Giữ bí mật thông tin cá nhân."
+  ],
+  [
+   "Khi gặp nội dung xấu, đáng sợ trên mạng, em nên:",
+   [
+    "Tắt đi và báo ngay cho bố mẹ, thầy cô",
+    "Chia sẻ cho bạn bè",
+    "Xem tiếp",
+    "Giữ bí mật"
+   ],
+   "Báo người lớn để được giúp."
+  ],
+  [
+   "Muốn tìm kết quả chính xác hơn, em nên:",
+   [
+    "Dùng từ khóa cụ thể, rõ ràng",
+    "Gõ một chữ cái",
+    "Gõ thật dài không dấu cách",
+    "Gõ từ khóa sai chính tả"
+   ],
+   "Từ khóa cụ thể cho kết quả tốt hơn."
+  ],
+  [
+   "Khi dùng thông tin, hình ảnh tìm được trên mạng cho bài học, em nên:",
+   [
+    "Ghi rõ nguồn lấy thông tin",
+    "Nói là của mình làm",
+    "Sửa tên tác giả",
+    "Không cần ghi gì"
+   ],
+   "Tôn trọng tác giả, ghi nguồn."
+  ],
+  [
+   "Để tìm hình ảnh trên Google, em chọn mục:",
+   [
+    "Hình ảnh",
+    "Tin tức",
+    "Bản đồ",
+    "Sách"
+   ],
+   "Mục Hình ảnh hiển thị ảnh."
+  ],
+  [
+   "Trang web có địa chỉ đuôi '.edu.vn' thường thuộc:",
+   [
+    "Các cơ sở giáo dục",
+    "Cửa hàng bán lẻ",
+    "Trò chơi",
+    "Cá nhân bất kì"
+   ],
+   ".edu là giáo dục."
+  ],
+  [
+   "Trang web có địa chỉ đuôi '.gov.vn' thuộc:",
+   [
+    "Cơ quan nhà nước",
+    "Trường học",
+    "Doanh nghiệp tư nhân",
+    "Trò chơi"
+   ],
+   ".gov là chính phủ."
+  ],
+  [
+   "Khi muốn tìm thông tin bằng giọng nói, em có thể:",
+   [
+    "Bấm biểu tượng micro trên ô tìm kiếm",
+    "Hét vào màn hình",
+    "Gõ phím Esc",
+    "Tắt loa"
+   ],
+   "Tìm kiếm bằng giọng nói."
+  ],
+  [
+   "Thời gian dùng Internet hợp lí với học sinh lớp 4:",
+   [
+    "Có giới hạn, có sự đồng ý và hướng dẫn của bố mẹ",
+    "Cả ngày",
+    "Cả đêm",
+    "Không cần ai biết"
+   ],
+   "Dùng Internet điều độ, an toàn."
+  ],
+  [
+   "Wi-Fi là:",
+   [
+    "Kết nối mạng không dây",
+    "Một phần mềm vẽ",
+    "Một loại chuột",
+    "Một trò chơi"
+   ],
+   "Wi-Fi giúp kết nối Internet không cần dây."
+  ],
+  [
+   "Liên kết (link) trên trang web thường:",
+   [
+    "Có màu khác, khi đưa chuột vào biến thành bàn tay",
+    "Không bấm được",
+    "Luôn là hình ảnh",
+    "Là mật khẩu"
+   ],
+   "Nháy liên kết để chuyển trang."
+  ],
+  [
+   "Để mở thêm một trang web mới mà không đóng trang cũ, em mở:",
+   [
+    "Thẻ (tab) mới",
+    "Máy in",
+    "Thùng rác",
+    "Paint"
+   ],
+   "Ctrl + T mở tab mới."
+  ],
+  [
+   "Đánh dấu trang (bookmark) giúp:",
+   [
+    "Lưu địa chỉ trang để mở lại nhanh",
+    "Xóa trang",
+    "In trang",
+    "Đổi màu trang"
+   ],
+   "Bookmark lưu trang yêu thích."
+  ],
+  [
+   "Thông tin cũ, sai trên mạng có thể khiến em:",
+   [
+    "Hiểu sai kiến thức",
+    "Học tốt hơn",
+    "Không ảnh hưởng gì",
+    "Được điểm cao"
+   ],
+   "Cần kiểm tra lại thông tin."
+  ],
+  [
+   "Nên kiểm tra một thông tin bằng cách:",
+   [
+    "So sánh với nhiều nguồn tin cậy, hỏi thầy cô",
+    "Tin ngay trang đầu tiên",
+    "Hỏi người lạ trên mạng",
+    "Không cần kiểm tra"
+   ],
+   "Đối chiếu nhiều nguồn."
+  ],
+  [
+   "Tìm kiếm cụm từ chính xác, có thể đặt từ khóa trong:",
+   [
+    "Dấu ngoặc kép \" \"",
+    "Dấu ngoặc đơn ( )",
+    "Dấu sao *",
+    "Dấu thăng #"
+   ],
+   "\"con mèo\" tìm đúng cụm từ."
+  ],
+  [
+   "Đóng thẻ trình duyệt đang mở dùng tổ hợp:",
+   [
+    "Ctrl + W",
+    "Ctrl + T",
+    "Ctrl + S",
+    "Ctrl + P"
+   ],
+   "Ctrl + W đóng tab."
+  ]
+ ],
+ "c3": [
+  [
+   "Thư mục (folder) dùng để:",
+   [
+    "Chứa và sắp xếp các tệp",
+    "Phát nhạc",
+    "Vẽ tranh",
+    "Tắt máy"
+   ],
+   "Thư mục giống ngăn tủ chứa tài liệu."
+  ],
+  [
+   "Tệp (file) là:",
+   [
+    "Một đơn vị lưu trữ thông tin như bài văn, bức tranh",
+    "Một thiết bị phần cứng",
+    "Một loại chuột",
+    "Một trang web"
+   ],
+   "Mỗi bài làm lưu thành một tệp."
+  ],
+  [
+   "Tạo thư mục mới, em nháy chuột phải chọn:",
+   [
+    "New → Folder",
+    "Delete",
+    "Copy",
+    "Rename"
+   ],
+   "New → Folder tạo thư mục mới."
+  ],
+  [
+   "Đổi tên tệp hoặc thư mục dùng lệnh:",
+   [
+    "Rename",
+    "Delete",
+    "Copy",
+    "Paste"
+   ],
+   "Rename = đổi tên."
+  ],
+  [
+   "Xóa tệp dùng lệnh:",
+   [
+    "Delete",
+    "Rename",
+    "Open",
+    "New"
+   ],
+   "Delete = xóa."
+  ],
+  [
+   "Tệp bị xóa thường được đưa vào:",
+   [
+    "Thùng rác (Recycle Bin)",
+    "Màn hình nền",
+    "Máy in",
+    "Trình duyệt"
+   ],
+   "Có thể khôi phục từ Thùng rác."
+  ],
+  [
+   "Sao chép tệp dùng tổ hợp phím:",
+   [
+    "Ctrl + C",
+    "Ctrl + V",
+    "Ctrl + X",
+    "Ctrl + Z"
+   ],
+   "Ctrl + C = Copy."
+  ],
+  [
+   "Dán tệp đã sao chép dùng tổ hợp phím:",
+   [
+    "Ctrl + V",
+    "Ctrl + C",
+    "Ctrl + S",
+    "Ctrl + P"
+   ],
+   "Ctrl + V = Paste."
+  ],
+  [
+   "Lưu bài làm dùng tổ hợp phím:",
+   [
+    "Ctrl + S",
+    "Ctrl + C",
+    "Ctrl + V",
+    "Ctrl + A"
+   ],
+   "Ctrl + S = Save."
+  ],
+  [
+   "Tổ hợp phím Ctrl + Z dùng để:",
+   [
+    "Hoàn tác (quay lại thao tác trước)",
+    "Lưu tệp",
+    "In tệp",
+    "Đóng chương trình"
+   ],
+   "Ctrl + Z = Undo."
+  ],
+  [
+   "Đặt tên thư mục nên:",
+   [
+    "Ngắn gọn, dễ hiểu, gợi nội dung",
+    "Thật dài, khó nhớ",
+    "Toàn kí tự lạ",
+    "Để trống"
+   ],
+   "Tên rõ ràng giúp tìm nhanh."
+  ],
+  [
+   "Sắp xếp tệp vào các thư mục theo môn học giúp:",
+   [
+    "Dễ tìm kiếm, quản lí",
+    "Máy chạy chậm",
+    "Mất dữ liệu",
+    "Không có tác dụng"
+   ],
+   "Tổ chức khoa học."
+  ],
+  [
+   "Di chuyển (cắt) tệp dùng tổ hợp phím:",
+   [
+    "Ctrl + X",
+    "Ctrl + C",
+    "Ctrl + B",
+    "Ctrl + I"
+   ],
+   "Ctrl + X = Cut, rồi Ctrl + V để dán."
+  ],
+  [
+   "Muốn mở một thư mục, em:",
+   [
+    "Nháy đúp chuột vào thư mục",
+    "Nháy chuột phải chọn Delete",
+    "Kéo vào thùng rác",
+    "Tắt máy"
+   ],
+   "Nháy đúp để mở."
+  ],
+  [
+   "Phần mở rộng '.docx' cho biết tệp là:",
+   [
+    "Văn bản Word",
+    "Hình ảnh",
+    "Bài hát",
+    "Trò chơi"
+   ],
+   ".docx là tệp Word."
+  ],
+  [
+   "Phần mở rộng '.jpg' hoặc '.png' cho biết tệp là:",
+   [
+    "Hình ảnh",
+    "Văn bản",
+    "Âm nhạc",
+    "Bảng tính"
+   ],
+   "jpg, png là ảnh."
+  ],
+  [
+   "Phần mở rộng '.mp3' cho biết tệp là:",
+   [
+    "Âm thanh, bài hát",
+    "Hình ảnh",
+    "Văn bản",
+    "Trang trình chiếu"
+   ],
+   "mp3 là âm thanh."
+  ],
+  [
+   "Muốn khôi phục tệp vừa xóa, em mở:",
+   [
+    "Thùng rác (Recycle Bin) và chọn Restore",
+    "Trình duyệt",
+    "Paint",
+    "Máy in"
+   ],
+   "Restore khôi phục tệp."
+  ],
+  [
+   "Thư mục nằm trong thư mục khác gọi là:",
+   [
+    "Thư mục con",
+    "Thư mục mẹ cấp cao nhất",
+    "Tệp",
+    "Ổ đĩa"
+   ],
+   "Thư mục con nằm trong thư mục mẹ."
+  ],
+  [
+   "Sao lưu bài làm vào USB giúp:",
+   [
+    "Phòng khi máy tính bị hỏng mất dữ liệu",
+    "Làm hỏng tệp",
+    "Xóa tệp",
+    "Không có tác dụng"
+   ],
+   "Sao lưu để an toàn."
+  ],
+  [
+   "Muốn tìm nhanh một tệp, có thể dùng:",
+   [
+    "Ô tìm kiếm (Search) trong cửa sổ thư mục",
+    "Thùng rác",
+    "Paint",
+    "Loa"
+   ],
+   "Gõ tên tệp vào ô tìm kiếm."
+  ],
+  [
+   "Không nên xóa tệp khi:",
+   [
+    "Chưa chắc tệp đó có còn cần hay không",
+    "Đó là tệp rác của em",
+    "Đã có bản sao lưu và không dùng",
+    "Được thầy cô yêu cầu"
+   ],
+   "Cẩn thận trước khi xóa."
+  ],
+  [
+   "Màn hình nền (Desktop) là:",
+   [
+    "Màn hình chính xuất hiện sau khi khởi động máy",
+    "Thùng rác",
+    "Một tệp văn bản",
+    "Một trang web"
+   ],
+   "Desktop chứa các biểu tượng."
+  ],
+  [
+   "Biểu tượng (icon) trên màn hình nền dùng để:",
+   [
+    "Mở nhanh chương trình, thư mục",
+    "Trang trí",
+    "Tắt máy",
+    "Không có tác dụng"
+   ],
+   "Nháy đúp để mở."
+  ],
+  [
+   "Muốn chọn nhiều tệp liền nhau, em giữ phím:",
+   [
+    "Shift và nháy tệp đầu, tệp cuối",
+    "Alt",
+    "Tab",
+    "Esc"
+   ],
+   "Shift chọn dãy liền nhau."
+  ],
+  [
+   "Muốn chọn nhiều tệp rời rạc, em giữ phím:",
+   [
+    "Ctrl và nháy từng tệp",
+    "Shift",
+    "Alt",
+    "Enter"
+   ],
+   "Ctrl chọn từng tệp."
+  ],
+  [
+   "File Explorer dùng để:",
+   [
+    "Xem và quản lí tệp, thư mục",
+    "Vẽ tranh",
+    "Soạn văn bản",
+    "Lướt web"
+   ],
+   "Trình quản lí tệp."
+  ],
+  [
+   "Ổ đĩa C: trên máy tính thường chứa:",
+   [
+    "Hệ điều hành và phần mềm",
+    "Chỉ ảnh của em",
+    "Không có gì",
+    "Chỉ nhạc"
+   ],
+   "Ổ C là ổ hệ thống."
+  ],
+  [
+   "Tên tệp không được chứa kí tự:",
+   [
+    "\\ / : * ? \" < > |",
+    "chữ cái",
+    "số",
+    "dấu gạch dưới _"
+   ],
+   "Một số kí tự đặc biệt bị cấm."
+  ],
+  [
+   "Lưu bài vào đúng thư mục giúp:",
+   [
+    "Lần sau tìm lại dễ dàng",
+    "Máy chạy chậm",
+    "Mất bài",
+    "Không có tác dụng"
+   ],
+   "Lưu có tổ chức."
+  ]
+ ],
+ "c4": [
+  [
+   "Bản quyền phần mềm là:",
+   [
+    "Quyền của tác giả đối với phần mềm mình làm ra",
+    "Quyền dùng máy tính miễn phí",
+    "Tên của máy tính",
+    "Mật khẩu Wi-Fi"
+   ],
+   "Tác giả có quyền với sản phẩm của mình."
+  ],
+  [
+   "Sử dụng phần mềm bẻ khóa (không có bản quyền) là:",
+   [
+    "Vi phạm bản quyền",
+    "Hợp pháp",
+    "Được khuyến khích",
+    "Bắt buộc"
+   ],
+   "Không dùng phần mềm lậu."
+  ],
+  [
+   "Phần mềm miễn phí hợp pháp có thể:",
+   [
+    "Tải từ trang chính thức của nhà phát triển",
+    "Tải từ trang lạ có quảng cáo",
+    "Xin của người lạ",
+    "Không bao giờ có"
+   ],
+   "Nhiều phần mềm học tập miễn phí hợp pháp."
+  ],
+  [
+   "Khi dùng bài viết, tranh ảnh của người khác, em cần:",
+   [
+    "Xin phép hoặc ghi rõ nguồn, tác giả",
+    "Nói là của mình",
+    "Xóa tên tác giả",
+    "Bán lại"
+   ],
+   "Tôn trọng quyền tác giả."
+  ],
+  [
+   "Mật khẩu nên được:",
+   [
+    "Giữ bí mật, không chia sẻ cho người lạ",
+    "Dán lên màn hình",
+    "Đọc to cho cả lớp",
+    "Đặt là 123456"
+   ],
+   "Mật khẩu là thông tin riêng tư."
+  ],
+  [
+   "Mật khẩu mạnh thường:",
+   [
+    "Gồm chữ hoa, chữ thường, số, kí hiệu",
+    "Chỉ có tên mình",
+    "Chỉ là ngày sinh",
+    "Chỉ là 1111"
+   ],
+   "Khó đoán thì an toàn hơn."
+  ],
+  [
+   "Khi người lạ trên mạng muốn gặp mặt, em nên:",
+   [
+    "Từ chối và báo bố mẹ",
+    "Đồng ý đi gặp một mình",
+    "Cho địa chỉ nhà",
+    "Giữ bí mật"
+   ],
+   "An toàn trên mạng."
+  ],
+  [
+   "Nói lời xúc phạm bạn bè trên mạng là:",
+   [
+    "Hành vi không đúng, có thể gây tổn thương",
+    "Vui vẻ",
+    "Được phép",
+    "Bình thường"
+   ],
+   "Cư xử văn minh trên mạng."
+  ],
+  [
+   "Khi bị bắt nạt trên mạng, em nên:",
+   [
+    "Không trả lời, lưu lại bằng chứng, báo người lớn",
+    "Bắt nạt lại",
+    "Giữ bí mật",
+    "Xóa máy tính"
+   ],
+   "Cần người lớn hỗ trợ."
+  ],
+  [
+   "Đăng ảnh của bạn lên mạng khi chưa được đồng ý là:",
+   [
+    "Không tôn trọng quyền riêng tư của bạn",
+    "Rất tốt",
+    "Bắt buộc",
+    "Không sao cả"
+   ],
+   "Phải xin phép."
+  ],
+  [
+   "Virus máy tính có thể làm:",
+   [
+    "Hỏng dữ liệu, máy chạy chậm",
+    "Máy chạy nhanh hơn",
+    "Tăng dung lượng",
+    "Không có hại"
+   ],
+   "Virus là phần mềm độc hại."
+  ],
+  [
+   "Để phòng virus, em nên:",
+   [
+    "Không mở tệp, đường link lạ; dùng phần mềm diệt virus",
+    "Mở mọi tệp được gửi",
+    "Tải phần mềm từ trang lạ",
+    "Cắm USB lạ không kiểm tra"
+   ],
+   "Cẩn thận với tệp lạ."
+  ],
+  [
+   "Thông tin cá nhân không nên chia sẻ trên mạng:",
+   [
+    "Địa chỉ nhà, số điện thoại, trường học",
+    "Món ăn yêu thích",
+    "Màu sắc yêu thích",
+    "Tên bài hát yêu thích"
+   ],
+   "Thông tin nhạy cảm dễ bị kẻ xấu lợi dụng."
+  ],
+  [
+   "Khi dùng chung máy tính ở trường, xong việc em nên:",
+   [
+    "Đăng xuất tài khoản của mình",
+    "Để nguyên tài khoản đăng nhập",
+    "Đổi mật khẩu của bạn khác",
+    "Xóa bài của bạn"
+   ],
+   "Đăng xuất để bảo vệ tài khoản."
+  ],
+  [
+   "Tải trò chơi lậu về máy có thể:",
+   [
+    "Vi phạm bản quyền và nhiễm virus",
+    "Rất an toàn",
+    "Được thưởng",
+    "Làm máy mạnh hơn"
+   ],
+   "Phần mềm lậu nguy hiểm."
+  ],
+  [
+   "Lừa đảo trúng thưởng trên mạng thường:",
+   [
+    "Yêu cầu nhập thông tin, mật khẩu hoặc chuyển tiền",
+    "Không bao giờ hỏi gì",
+    "Là thật 100%",
+    "Do thầy cô gửi"
+   ],
+   "Cảnh giác với tin nhắn trúng thưởng."
+  ],
+  [
+   "Sao chép bài văn trên mạng rồi nộp là bài của mình là:",
+   [
+    "Gian lận, không trung thực",
+    "Sáng tạo",
+    "Được khen",
+    "Bình thường"
+   ],
+   "Phải tự làm bài."
+  ],
+  [
+   "Khi bình luận trên mạng, em nên:",
+   [
+    "Dùng lời lẽ lịch sự, tôn trọng",
+    "Dùng từ ngữ thô tục",
+    "Chê bai người khác",
+    "Viết hoa toàn bộ để quát"
+   ],
+   "Ứng xử văn minh."
+  ],
+  [
+   "Phần mềm diệt virus giúp:",
+   [
+    "Phát hiện và loại bỏ phần mềm độc hại",
+    "Vẽ tranh",
+    "Soạn thảo",
+    "Chơi nhạc"
+   ],
+   "Bảo vệ máy tính."
+  ],
+  [
+   "Tài khoản học tập của em nên:",
+   [
+    "Chỉ em và bố mẹ, thầy cô biết",
+    "Chia cho cả lớp",
+    "Đăng lên mạng",
+    "Đưa người lạ"
+   ],
+   "Bảo mật tài khoản."
+  ],
+  [
+   "Thông tin nào là thông tin cá nhân cần bảo vệ?",
+   [
+    "Họ tên, ngày sinh, địa chỉ nhà, ảnh cá nhân",
+    "Thời tiết hôm nay",
+    "Tên một bộ phim",
+    "Một bài thơ"
+   ],
+   "Thông tin nhận diện bản thân."
+  ],
+  [
+   "Khi máy tính hiện thông báo lạ đòi nhập mật khẩu, em nên:",
+   [
+    "Không nhập, báo người lớn",
+    "Nhập ngay mật khẩu",
+    "Nhập mật khẩu của bố mẹ",
+    "Tắt điện"
+   ],
+   "Có thể là lừa đảo."
+  ],
+  [
+   "Chơi trò chơi điện tử quá nhiều có hại:",
+   [
+    "Ảnh hưởng mắt, sức khỏe và việc học",
+    "Giúp học giỏi hơn",
+    "Làm mắt sáng hơn",
+    "Không có hại"
+   ],
+   "Chơi điều độ."
+  ],
+  [
+   "Tôn trọng bản quyền là:",
+   [
+    "Không sao chép, phát tán sản phẩm của người khác khi chưa được phép",
+    "Sao chép tự do",
+    "Sửa tên tác giả",
+    "Bán lại sản phẩm người khác"
+   ],
+   "Tôn trọng công sức tác giả."
+  ],
+  [
+   "Tài khoản bị người khác dùng trộm, em nên:",
+   [
+    "Báo người lớn và đổi mật khẩu",
+    "Giữ im lặng",
+    "Lấy trộm tài khoản người khác",
+    "Xóa máy"
+   ],
+   "Xử lí kịp thời."
+  ],
+  [
+   "Tin nhắn từ người lạ có đường link lạ:",
+   [
+    "Không nháy vào",
+    "Nháy ngay",
+    "Gửi tiếp cho bạn bè",
+    "Nhập thông tin"
+   ],
+   "Link lạ có thể chứa mã độc."
+  ],
+  [
+   "Bắt nạt trên mạng gồm:",
+   [
+    "Chế giễu, đe dọa, đăng ảnh xấu về người khác",
+    "Khen bạn",
+    "Chúc mừng sinh nhật",
+    "Hỏi bài"
+   ],
+   "Không bắt nạt người khác."
+  ],
+  [
+   "Kí hiệu © thường thấy trên sản phẩm cho biết:",
+   [
+    "Sản phẩm có bản quyền",
+    "Sản phẩm miễn phí hoàn toàn",
+    "Sản phẩm bị lỗi",
+    "Sản phẩm cũ"
+   ],
+   "© là kí hiệu bản quyền."
+  ],
+  [
+   "Khi muốn dùng một bài hát cho video ở lớp, em nên:",
+   [
+    "Chọn nhạc miễn phí bản quyền hoặc xin phép",
+    "Dùng bất kì bài nào rồi đăng lên mạng",
+    "Xóa tên ca sĩ",
+    "Nói là mình sáng tác"
+   ],
+   "Tôn trọng bản quyền âm nhạc."
+  ],
+  [
+   "Hành vi văn minh trên mạng là:",
+   [
+    "Lịch sự, trung thực, tôn trọng người khác",
+    "Nói tục",
+    "Lừa đảo",
+    "Tung tin sai"
+   ],
+   "Văn hóa ứng xử trên mạng."
+  ]
+ ],
+ "c5": [
+  [
+   "Để gõ chữ in hoa một kí tự, em giữ phím:",
+   [
+    "Shift",
+    "Ctrl",
+    "Alt",
+    "Tab"
+   ],
+   "Shift + chữ cái = chữ hoa."
+  ],
+  [
+   "Phím dùng để xuống dòng mới khi soạn thảo:",
+   [
+    "Enter",
+    "Space",
+    "Shift",
+    "Esc"
+   ],
+   "Enter xuống dòng."
+  ],
+  [
+   "Phím Backspace dùng để:",
+   [
+    "Xóa kí tự bên trái con trỏ",
+    "Xóa kí tự bên phải con trỏ",
+    "Xuống dòng",
+    "Viết hoa"
+   ],
+   "Backspace xóa lùi."
+  ],
+  [
+   "Phím Delete dùng để:",
+   [
+    "Xóa kí tự bên phải con trỏ",
+    "Xóa kí tự bên trái",
+    "Lưu văn bản",
+    "In văn bản"
+   ],
+   "Delete xóa phía sau con trỏ."
+  ],
+  [
+   "Muốn chữ đậm, em chọn chữ rồi nhấn:",
+   [
+    "Ctrl + B",
+    "Ctrl + I",
+    "Ctrl + U",
+    "Ctrl + S"
+   ],
+   "B = Bold (đậm)."
+  ],
+  [
+   "Muốn chữ nghiêng, nhấn:",
+   [
+    "Ctrl + I",
+    "Ctrl + B",
+    "Ctrl + U",
+    "Ctrl + P"
+   ],
+   "I = Italic (nghiêng)."
+  ],
+  [
+   "Muốn chữ gạch chân, nhấn:",
+   [
+    "Ctrl + U",
+    "Ctrl + B",
+    "Ctrl + I",
+    "Ctrl + Z"
+   ],
+   "U = Underline (gạch chân)."
+  ],
+  [
+   "Căn giữa đoạn văn dùng tổ hợp:",
+   [
+    "Ctrl + E",
+    "Ctrl + L",
+    "Ctrl + R",
+    "Ctrl + J"
+   ],
+   "E = cEnter (giữa)."
+  ],
+  [
+   "Để chọn (bôi đen) toàn bộ văn bản, nhấn:",
+   [
+    "Ctrl + A",
+    "Ctrl + C",
+    "Ctrl + E",
+    "Ctrl + X"
+   ],
+   "A = All."
+  ],
+  [
+   "Gõ tiếng Việt kiểu Telex, muốn gõ chữ 'ă' em gõ:",
+   [
+    "aw",
+    "aa",
+    "a8",
+    "ah"
+   ],
+   "Telex: aw → ă."
+  ],
+  [
+   "Gõ Telex, muốn gõ chữ 'â' em gõ:",
+   [
+    "aa",
+    "aw",
+    "ee",
+    "a6"
+   ],
+   "Telex: aa → â."
+  ],
+  [
+   "Gõ Telex, muốn gõ chữ 'đ' em gõ:",
+   [
+    "dd",
+    "dw",
+    "d9",
+    "dz"
+   ],
+   "Telex: dd → đ."
+  ],
+  [
+   "Gõ Telex, chữ 'ư' gõ là:",
+   [
+    "uw",
+    "uu",
+    "u7",
+    "w u"
+   ],
+   "Telex: uw (hoặc w) → ư."
+  ],
+  [
+   "Gõ Telex, dấu sắc dùng phím:",
+   [
+    "s",
+    "f",
+    "r",
+    "x"
+   ],
+   "s = sắc, f = huyền, r = hỏi, x = ngã, j = nặng."
+  ],
+  [
+   "Gõ Telex, dấu huyền dùng phím:",
+   [
+    "f",
+    "s",
+    "j",
+    "x"
+   ],
+   "f = huyền."
+  ],
+  [
+   "Gõ Telex, dấu nặng dùng phím:",
+   [
+    "j",
+    "r",
+    "x",
+    "s"
+   ],
+   "j = nặng."
+  ],
+  [
+   "Muốn chèn hình ảnh vào văn bản, chọn thẻ:",
+   [
+    "Insert → Pictures",
+    "Home → Bold",
+    "File → Close",
+    "View → Zoom"
+   ],
+   "Insert là thẻ chèn."
+  ],
+  [
+   "Phần mềm trình chiếu (PowerPoint) dùng để:",
+   [
+    "Tạo bài trình bày gồm nhiều trang chiếu",
+    "Vẽ tranh tự do",
+    "Lập trình",
+    "Duyệt web"
+   ],
+   "Tạo slide thuyết trình."
+  ],
+  [
+   "Mỗi trang trong bài trình chiếu gọi là:",
+   [
+    "Trang chiếu (slide)",
+    "Trang web",
+    "Thư mục",
+    "Tệp ảnh"
+   ],
+   "Slide = trang chiếu."
+  ],
+  [
+   "Muốn thêm trang chiếu mới, chọn:",
+   [
+    "Home → New Slide",
+    "File → Exit",
+    "Insert → Table",
+    "Delete"
+   ],
+   "New Slide thêm trang."
+  ],
+  [
+   "Để trình chiếu từ trang đầu, nhấn phím:",
+   [
+    "F5",
+    "F1",
+    "Esc",
+    "Tab"
+   ],
+   "F5 bắt đầu trình chiếu."
+  ],
+  [
+   "Hiệu ứng chuyển trang chiếu nằm trong thẻ:",
+   [
+    "Transitions",
+    "Insert",
+    "Review",
+    "File"
+   ],
+   "Transitions = chuyển trang."
+  ],
+  [
+   "Muốn thoát chế độ trình chiếu, nhấn:",
+   [
+    "Esc",
+    "Enter",
+    "Space",
+    "F5"
+   ],
+   "Esc để thoát."
+  ],
+  [
+   "Khi soạn văn bản, giữa hai từ cần có:",
+   [
+    "Một dấu cách",
+    "Hai dấu chấm",
+    "Không cần cách",
+    "Một dấu phẩy"
+   ],
+   "Dùng một dấu cách giữa các từ."
+  ],
+  [
+   "Dấu câu (chấm, phẩy) nên gõ:",
+   [
+    "Sát chữ đứng trước, sau dấu có một dấu cách",
+    "Cách xa chữ trước",
+    "Ở đầu dòng",
+    "Không bao giờ dùng"
+   ],
+   "Quy tắc gõ dấu câu."
+  ],
+  [
+   "Muốn đổi cỡ chữ, em dùng ô:",
+   [
+    "Font Size",
+    "Font Color",
+    "Bold",
+    "Undo"
+   ],
+   "Font Size = cỡ chữ."
+  ],
+  [
+   "Muốn đổi màu chữ, em dùng nút:",
+   [
+    "Font Color",
+    "Font Size",
+    "Underline",
+    "Align"
+   ],
+   "Font Color = màu chữ."
+  ],
+  [
+   "Lưu văn bản lần đầu cần:",
+   [
+    "Đặt tên tệp và chọn thư mục lưu",
+    "Không cần đặt tên",
+    "Tắt máy ngay",
+    "In ra trước"
+   ],
+   "Save As: đặt tên, chọn nơi lưu."
+  ],
+  [
+   "Muốn chèn bảng vào văn bản, chọn:",
+   [
+    "Insert → Table",
+    "Home → Bold",
+    "File → Print",
+    "Design → Color"
+   ],
+   "Table = bảng."
+  ],
+  [
+   "Muốn in văn bản, nhấn tổ hợp:",
+   [
+    "Ctrl + P",
+    "Ctrl + S",
+    "Ctrl + O",
+    "Ctrl + N"
+   ],
+   "P = Print."
+  ]
+ ],
+ "c6": [
+  [
+   "Scratch là phần mềm:",
+   [
+    "Lập trình trực quan bằng cách kéo thả khối lệnh",
+    "Soạn thảo văn bản",
+    "Duyệt web",
+    "Diệt virus"
+   ],
+   "Scratch dùng các khối lệnh nhiều màu."
+  ],
+  [
+   "Nhân vật trong Scratch gọi là:",
+   [
+    "Sprite (nhân vật)",
+    "Slide",
+    "Folder",
+    "Font"
+   ],
+   "Mỗi nhân vật là một sprite."
+  ],
+  [
+   "Phông nền sân khấu trong Scratch gọi là:",
+   [
+    "Backdrop (phông nền)",
+    "Sprite",
+    "Script",
+    "Costume"
+   ],
+   "Backdrop là nền sân khấu."
+  ],
+  [
+   "Nhân vật mặc định khi mở Scratch là:",
+   [
+    "Chú mèo",
+    "Chú chó",
+    "Con cá",
+    "Quả bóng"
+   ],
+   "Mèo Scratch là nhân vật mặc định."
+  ],
+  [
+   "Khối lệnh 'khi bấm vào lá cờ xanh' thuộc nhóm:",
+   [
+    "Sự kiện (Events)",
+    "Chuyển động",
+    "Âm thanh",
+    "Hiển thị"
+   ],
+   "Events màu vàng."
+  ],
+  [
+   "Khối lệnh 'di chuyển 10 bước' thuộc nhóm:",
+   [
+    "Chuyển động (Motion)",
+    "Âm thanh",
+    "Sự kiện",
+    "Điều khiển"
+   ],
+   "Motion màu xanh dương."
+  ],
+  [
+   "Khối lệnh 'nói Xin chào! trong 2 giây' thuộc nhóm:",
+   [
+    "Hiển thị (Looks)",
+    "Chuyển động",
+    "Cảm biến",
+    "Toán tử"
+   ],
+   "Looks màu tím."
+  ],
+  [
+   "Khối lệnh 'lặp lại 10 lần' thuộc nhóm:",
+   [
+    "Điều khiển (Control)",
+    "Hiển thị",
+    "Âm thanh",
+    "Sự kiện"
+   ],
+   "Control màu cam."
+  ],
+  [
+   "Lệnh 'lặp lại mãi mãi' (forever) làm:",
+   [
+    "Các lệnh bên trong chạy lặp liên tục không dừng",
+    "Chạy một lần",
+    "Dừng chương trình",
+    "Xóa nhân vật"
+   ],
+   "Forever lặp vô hạn."
+  ],
+  [
+   "Muốn chạy chương trình Scratch, thường bấm:",
+   [
+    "Lá cờ xanh",
+    "Nút đỏ",
+    "Thùng rác",
+    "Nút Save"
+   ],
+   "Cờ xanh bắt đầu."
+  ],
+  [
+   "Nút hình tròn (bát giác) màu đỏ trong Scratch dùng để:",
+   [
+    "Dừng chương trình",
+    "Bắt đầu chương trình",
+    "Thêm nhân vật",
+    "Lưu dự án"
+   ],
+   "Nút đỏ dừng."
+  ],
+  [
+   "Trên sân khấu Scratch, tọa độ x thay đổi khi nhân vật di chuyển theo chiều:",
+   [
+    "Ngang (trái – phải)",
+    "Dọc (lên – xuống)",
+    "Xoay tròn",
+    "Không đổi"
+   ],
+   "x là trục ngang."
+  ],
+  [
+   "Tọa độ y thay đổi khi nhân vật di chuyển theo chiều:",
+   [
+    "Dọc (lên – xuống)",
+    "Ngang",
+    "Xoay",
+    "Không đổi"
+   ],
+   "y là trục dọc."
+  ],
+  [
+   "Lệnh 'xoay 15 độ' làm nhân vật:",
+   [
+    "Quay đi một góc 15 độ",
+    "Di chuyển 15 bước",
+    "Nói 15 chữ",
+    "Biến mất"
+   ],
+   "Lệnh xoay thuộc nhóm Chuyển động."
+  ],
+  [
+   "Muốn nhân vật đổi trang phục (tạo chuyển động bước đi), dùng lệnh:",
+   [
+    "Trang phục tiếp theo (next costume)",
+    "Di chuyển 10 bước",
+    "Phát âm thanh",
+    "Dừng tất cả"
+   ],
+   "Đổi costume tạo hiệu ứng hoạt hình."
+  ],
+  [
+   "Chương trình là:",
+   [
+    "Dãy các lệnh để máy tính thực hiện",
+    "Một bức tranh",
+    "Một bài hát",
+    "Một tệp ảnh"
+   ],
+   "Lập trình là viết các lệnh."
+  ],
+  [
+   "Thứ tự các lệnh trong chương trình:",
+   [
+    "Rất quan trọng, máy thực hiện lần lượt từ trên xuống",
+    "Không quan trọng",
+    "Máy chọn ngẫu nhiên",
+    "Thực hiện từ dưới lên"
+   ],
+   "Lệnh chạy theo thứ tự."
+  ],
+  [
+   "Lệnh 'nếu ... thì' dùng để:",
+   [
+    "Thực hiện lệnh khi điều kiện đúng",
+    "Lặp lại mãi",
+    "Xóa chương trình",
+    "Đổi phông nền"
+   ],
+   "Câu lệnh điều kiện."
+  ],
+  [
+   "Muốn nhân vật kêu tiếng 'meo', dùng nhóm lệnh:",
+   [
+    "Âm thanh (Sound)",
+    "Chuyển động",
+    "Bút vẽ",
+    "Biến"
+   ],
+   "Sound màu hồng tím."
+  ],
+  [
+   "Lệnh 'đợi 1 giây' thuộc nhóm:",
+   [
+    "Điều khiển",
+    "Chuyển động",
+    "Hiển thị",
+    "Âm thanh"
+   ],
+   "Wait thuộc Control."
+  ],
+  [
+   "Lưu dự án Scratch về máy, chọn:",
+   [
+    "Tệp (File) → Lưu về máy tính",
+    "Chỉnh sửa → Xóa",
+    "Hướng dẫn",
+    "Thêm nhân vật"
+   ],
+   "File → Save to your computer."
+  ],
+  [
+   "Lỗi trong chương trình gọi là:",
+   [
+    "Lỗi (bug)",
+    "Sprite",
+    "Costume",
+    "Backdrop"
+   ],
+   "Tìm và sửa lỗi gọi là gỡ lỗi."
+  ],
+  [
+   "Để nhân vật đi qua lại không bị lộn ngược, dùng lệnh:",
+   [
+    "Đặt kiểu xoay trái – phải",
+    "Xoay 180 độ",
+    "Ẩn",
+    "Đổi phông nền"
+   ],
+   "Set rotation style left-right."
+  ],
+  [
+   "Lệnh 'nếu chạm vào cạnh thì bật lại' giúp nhân vật:",
+   [
+    "Không đi ra khỏi sân khấu",
+    "Biến mất",
+    "Phát nhạc",
+    "Đổi màu"
+   ],
+   "Bật lại khi chạm mép."
+  ],
+  [
+   "Muốn thêm nhân vật mới, bấm vào:",
+   [
+    "Biểu tượng chọn nhân vật (hình con mèo có dấu +)",
+    "Lá cờ xanh",
+    "Nút đỏ",
+    "Thùng rác"
+   ],
+   "Nút Choose a Sprite."
+  ],
+  [
+   "Lệnh 'lặp lại 4 lần: di chuyển 100 bước, xoay 90 độ' giúp nhân vật đi theo hình:",
+   [
+    "Hình vuông",
+    "Hình tròn",
+    "Hình tam giác",
+    "Đường thẳng"
+   ],
+   "4 cạnh bằng nhau, 4 góc 90°: hình vuông."
+  ],
+  [
+   "Khối lệnh 'khi nhấn phím dấu cách' thuộc nhóm:",
+   [
+    "Sự kiện",
+    "Chuyển động",
+    "Âm thanh",
+    "Toán tử"
+   ],
+   "Events."
+  ],
+  [
+   "Lệnh 'ẩn' (hide) làm nhân vật:",
+   [
+    "Biến mất khỏi sân khấu",
+    "Phóng to",
+    "Di chuyển",
+    "Kêu lên"
+   ],
+   "Hide thuộc nhóm Hiển thị."
+  ],
+  [
+   "Lệnh 'đi tới vị trí x: 0, y: 0' đưa nhân vật về:",
+   [
+    "Giữa sân khấu",
+    "Góc trên trái",
+    "Góc dưới phải",
+    "Ra ngoài sân khấu"
+   ],
+   "(0, 0) là tâm sân khấu."
+  ],
+  [
+   "Lệnh 'đổi kích thước thành 200%' làm nhân vật:",
+   [
+    "To gấp đôi",
+    "Nhỏ đi một nửa",
+    "Biến mất",
+    "Quay ngược"
+   ],
+   "200% là gấp đôi."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Bàn phím là thiết bị:",
+   [
+    "Vào",
+    "Ra",
+    "Lưu trữ",
+    "Xử lí"
+   ],
+   "Nhập dữ liệu."
+  ],
+  [
+   "Ctrl + S dùng để:",
+   [
+    "Lưu tệp",
+    "Sao chép",
+    "Dán",
+    "In"
+   ],
+   "Save."
+  ],
+  [
+   "Telex: gõ 'oo' được chữ:",
+   [
+    "ô",
+    "ơ",
+    "ó",
+    "õ"
+   ],
+   "oo → ô."
+  ],
+  [
+   "Scratch: lá cờ xanh dùng để:",
+   [
+    "Bắt đầu chương trình",
+    "Dừng",
+    "Lưu",
+    "Xóa"
+   ],
+   "Cờ xanh chạy chương trình."
+  ],
+  [
+   "Thông tin nào không nên chia sẻ trên mạng?",
+   [
+    "Mật khẩu",
+    "Sở thích đọc sách",
+    "Môn học yêu thích",
+    "Màu yêu thích"
+   ],
+   "Mật khẩu phải giữ bí mật."
+  ],
+  [
+   "Máy tìm kiếm phổ biến:",
+   [
+    "Google",
+    "Word",
+    "Paint",
+    "Excel"
+   ],
+   "Google tìm kiếm."
+  ],
+  [
+   "Xóa tệp nhầm có thể khôi phục từ:",
+   [
+    "Thùng rác",
+    "Màn hình nền",
+    "Trình duyệt",
+    "Paint"
+   ],
+   "Recycle Bin."
+  ],
+  [
+   "Phần mềm diệt virus là:",
+   [
+    "Phần mềm",
+    "Phần cứng",
+    "Thiết bị ra",
+    "Thiết bị vào"
+   ],
+   "Là chương trình."
+  ],
+  [
+   "Telex: dấu hỏi dùng phím:",
+   [
+    "r",
+    "x",
+    "s",
+    "f"
+   ],
+   "r = hỏi."
+  ],
+  [
+   "Ctrl + B làm chữ:",
+   [
+    "Đậm",
+    "Nghiêng",
+    "Gạch chân",
+    "To hơn"
+   ],
+   "Bold."
+  ],
+  [
+   "Lệnh lặp mãi mãi trong Scratch thuộc nhóm:",
+   [
+    "Điều khiển",
+    "Hiển thị",
+    "Âm thanh",
+    "Sự kiện"
+   ],
+   "Control."
+  ],
+  [
+   "Sử dụng phần mềm lậu là:",
+   [
+    "Vi phạm bản quyền",
+    "Hợp pháp",
+    "Được khen",
+    "Bắt buộc"
+   ],
+   "Tôn trọng bản quyền."
+  ],
+  [
+   "Ngồi máy tính lâu, sau khoảng 30–45 phút em nên:",
+   [
+    "Nghỉ ngơi, nhìn ra xa cho mắt thư giãn",
+    "Ngồi tiếp không nghỉ",
+    "Dụi mắt thật mạnh",
+    "Tăng độ sáng tối đa"
+   ],
+   "Bảo vệ mắt và sức khỏe."
+  ],
+  [
+   "Để mở một trang trong kết quả tìm kiếm, em:",
+   [
+    "Nháy chuột vào tiêu đề (liên kết)",
+    "Tắt máy",
+    "Gõ lại từ khóa",
+    "Đóng trình duyệt"
+   ],
+   "Nháy vào liên kết để mở trang."
+  ],
+  [
+   "Phần mở rộng '.docx' cho biết tệp là:",
+   [
+    "Văn bản Word",
+    "Hình ảnh",
+    "Bài hát",
+    "Trò chơi"
+   ],
+   ".docx là tệp Word."
+  ],
+  [
+   "Virus máy tính có thể làm:",
+   [
+    "Hỏng dữ liệu, máy chạy chậm",
+    "Máy chạy nhanh hơn",
+    "Tăng dung lượng",
+    "Không có hại"
+   ],
+   "Virus là phần mềm độc hại."
+  ],
+  [
+   "Muốn thoát chế độ trình chiếu, nhấn:",
+   [
+    "Esc",
+    "Enter",
+    "Space",
+    "F5"
+   ],
+   "Esc để thoát."
+  ],
+  [
+   "Lưu dự án Scratch về máy, chọn:",
+   [
+    "Tệp (File) → Lưu về máy tính",
+    "Chỉnh sửa → Xóa",
+    "Hướng dẫn",
+    "Thêm nhân vật"
+   ],
+   "File → Save to your computer."
+  ],
+  [
+   "Để bảo vệ máy tính, em không nên:",
+   [
+    "Ăn uống gần bàn phím",
+    "Tắt máy đúng cách",
+    "Giữ máy sạch sẽ",
+    "Để máy nơi khô ráo"
+   ],
+   "Nước, vụn bánh làm hỏng máy."
+  ],
+  [
+   "Kết quả tìm kiếm thường hiển thị dưới dạng:",
+   [
+    "Danh sách các trang web liên quan",
+    "Một bức tranh duy nhất",
+    "Một bài hát",
+    "Không có gì"
+   ],
+   "Danh sách liên kết kèm mô tả ngắn."
+  ],
+  [
+   "Sao lưu bài làm vào USB giúp:",
+   [
+    "Phòng khi máy tính bị hỏng mất dữ liệu",
+    "Làm hỏng tệp",
+    "Xóa tệp",
+    "Không có tác dụng"
+   ],
+   "Sao lưu để an toàn."
+  ],
+  [
+   "Mật khẩu mạnh thường:",
+   [
+    "Gồm chữ hoa, chữ thường, số, kí hiệu",
+    "Chỉ có tên mình",
+    "Chỉ là ngày sinh",
+    "Chỉ là 1111"
+   ],
+   "Khó đoán thì an toàn hơn."
+  ],
+  [
+   "Muốn thêm trang chiếu mới, chọn:",
+   [
+    "Home → New Slide",
+    "File → Exit",
+    "Insert → Table",
+    "Delete"
+   ],
+   "New Slide thêm trang."
+  ],
+  [
+   "Khối lệnh 'khi bấm vào lá cờ xanh' thuộc nhóm:",
+   [
+    "Sự kiện (Events)",
+    "Chuyển động",
+    "Âm thanh",
+    "Hiển thị"
+   ],
+   "Events màu vàng."
+  ],
+  [
+   "Thiết bị nào là thiết bị vào (nhập dữ liệu)?",
+   [
+    "Bàn phím",
+    "Màn hình",
+    "Loa",
+    "Máy in"
+   ],
+   "Bàn phím đưa thông tin vào máy."
+  ],
+  [
+   "Muốn tìm thông tin về 'con voi', từ khóa phù hợp là:",
+   [
+    "con voi",
+    "con",
+    "tìm",
+    "a b c"
+   ],
+   "Từ khóa nên ngắn gọn, đúng nội dung."
+  ],
+  [
+   "Di chuyển (cắt) tệp dùng tổ hợp phím:",
+   [
+    "Ctrl + X",
+    "Ctrl + C",
+    "Ctrl + B",
+    "Ctrl + I"
+   ],
+   "Ctrl + X = Cut, rồi Ctrl + V để dán."
+  ],
+  [
+   "Nói lời xúc phạm bạn bè trên mạng là:",
+   [
+    "Hành vi không đúng, có thể gây tổn thương",
+    "Vui vẻ",
+    "Được phép",
+    "Bình thường"
+   ],
+   "Cư xử văn minh trên mạng."
+  ],
+  [
+   "Để chọn (bôi đen) toàn bộ văn bản, nhấn:",
+   [
+    "Ctrl + A",
+    "Ctrl + C",
+    "Ctrl + E",
+    "Ctrl + X"
+   ],
+   "A = All."
+  ],
+  [
+   "Lệnh 'nếu chạm vào cạnh thì bật lại' giúp nhân vật:",
+   [
+    "Không đi ra khỏi sân khấu",
+    "Biến mất",
+    "Phát nhạc",
+    "Đổi màu"
+   ],
+   "Bật lại khi chạm mép."
+  ],
+  [
+   "Tắt máy tính đúng cách là:",
+   [
+    "Chọn Start (Bắt đầu) → Shut down (Tắt máy)",
+    "Rút phích cắm điện ngay",
+    "Tắt màn hình là xong",
+    "Bấm giữ nút nguồn mỗi lần"
+   ],
+   "Tắt bằng lệnh Shut down."
+  ],
+  [
+   "Khi gặp nội dung xấu, đáng sợ trên mạng, em nên:",
+   [
+    "Tắt đi và báo ngay cho bố mẹ, thầy cô",
+    "Chia sẻ cho bạn bè",
+    "Xem tiếp",
+    "Giữ bí mật"
+   ],
+   "Báo người lớn để được giúp."
+  ],
+  [
+   "Không nên xóa tệp khi:",
+   [
+    "Chưa chắc tệp đó có còn cần hay không",
+    "Đó là tệp rác của em",
+    "Đã có bản sao lưu và không dùng",
+    "Được thầy cô yêu cầu"
+   ],
+   "Cẩn thận trước khi xóa."
+  ],
+  [
+   "Sao chép bài văn trên mạng rồi nộp là bài của mình là:",
+   [
+    "Gian lận, không trung thực",
+    "Sáng tạo",
+    "Được khen",
+    "Bình thường"
+   ],
+   "Phải tự làm bài."
+  ],
+  [
+   "Gõ Telex, chữ 'ư' gõ là:",
+   [
+    "uw",
+    "uu",
+    "u7",
+    "w u"
+   ],
+   "Telex: uw (hoặc w) → ư."
+  ],
+  [
+   "Nhân vật trong Scratch gọi là:",
+   [
+    "Sprite (nhân vật)",
+    "Slide",
+    "Folder",
+    "Font"
+   ],
+   "Mỗi nhân vật là một sprite."
+  ],
+  [
+   "Máy tính bảng, điện thoại thông minh cũng có:",
+   [
+    "Phần cứng và phần mềm",
+    "Chỉ phần cứng",
+    "Chỉ phần mềm",
+    "Không có phần mềm"
+   ],
+   "Mọi máy tính đều cần cả hai."
+  ],
+  [
+   "Máy tìm kiếm phổ biến là:",
+   [
+    "Google",
+    "Paint",
+    "Word",
+    "Scratch"
+   ],
+   "Google giúp tìm thông tin."
+  ],
+  [
+   "Tổ hợp phím Ctrl + Z dùng để:",
+   [
+    "Hoàn tác (quay lại thao tác trước)",
+    "Lưu tệp",
+    "In tệp",
+    "Đóng chương trình"
+   ],
+   "Ctrl + Z = Undo."
+  ],
+  [
+   "Phần mềm miễn phí hợp pháp có thể:",
+   [
+    "Tải từ trang chính thức của nhà phát triển",
+    "Tải từ trang lạ có quảng cáo",
+    "Xin của người lạ",
+    "Không bao giờ có"
+   ],
+   "Nhiều phần mềm học tập miễn phí hợp pháp."
+  ]
+ ]
+}

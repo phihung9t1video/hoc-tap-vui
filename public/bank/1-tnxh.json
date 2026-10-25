@@ -1,0 +1,796 @@
+{
+ "c1": [
+  [
+   "Gia đình em gồm những ai?",
+   [
+    "Những người thân như ông bà, bố mẹ, anh chị em",
+    "Các bạn cùng lớp",
+    "Thầy cô giáo",
+    "Hàng xóm"
+   ],
+   "Gia đình là những người thân sống cùng nhau và yêu thương nhau."
+  ],
+  [
+   "Việc nào em có thể làm giúp bố mẹ?",
+   [
+    "Quét nhà, gấp quần áo",
+    "Nấu cơm bằng bếp ga một mình",
+    "Sửa điện",
+    "Lái xe"
+   ],
+   "Em làm việc nhà vừa sức, an toàn."
+  ],
+  [
+   "Đồ vật nào trong nhà có thể gây nguy hiểm khi chơi đùa?",
+   [
+    "Dao, kéo sắc nhọn",
+    "Gối",
+    "Quyển truyện",
+    "Con gấu bông"
+   ],
+   "Dao kéo sắc có thể gây đứt tay."
+  ],
+  [
+   "Khi thấy ổ điện, em nên làm gì?",
+   [
+    "Không chọc tay hay vật vào ổ điện",
+    "Cắm que vào chơi",
+    "Thổi vào ổ điện",
+    "Đổ nước vào"
+   ],
+   "Chọc vào ổ điện có thể bị điện giật."
+  ],
+  [
+   "Khi bố mẹ đi làm về mệt, em nên:",
+   [
+    "Hỏi han, lấy nước mời bố mẹ",
+    "Đòi quà ngay",
+    "Bật ti vi thật to",
+    "Chạy đi chơi"
+   ],
+   "Biết quan tâm, chăm sóc người thân."
+  ],
+  [
+   "Phòng nào trong nhà dùng để nấu ăn?",
+   [
+    "Nhà bếp",
+    "Phòng ngủ",
+    "Phòng tắm",
+    "Phòng khách"
+   ],
+   "Nấu ăn trong nhà bếp."
+  ]
+ ],
+ "c2": [
+  [
+   "Người dạy em học ở trường là ai?",
+   [
+    "Thầy, cô giáo",
+    "Bác bảo vệ",
+    "Cô lao công",
+    "Bác sĩ"
+   ],
+   "Thầy cô giáo dạy học."
+  ],
+  [
+   "Khi vào lớp muộn, em cần làm gì?",
+   [
+    "Xin phép thầy cô rồi mới vào lớp",
+    "Chạy thẳng vào chỗ",
+    "Đứng ngoài chơi",
+    "Đi về nhà"
+   ],
+   "Lễ phép xin phép trước khi vào lớp."
+  ],
+  [
+   "Em nên giữ lớp học như thế nào?",
+   [
+    "Sạch sẽ, gọn gàng",
+    "Vẽ lên tường",
+    "Vứt rác dưới gầm bàn",
+    "Bẻ cây trong sân"
+   ],
+   "Giữ gìn lớp sạch đẹp."
+  ],
+  [
+   "Khi ra chơi, trò chơi nào không an toàn?",
+   [
+    "Leo trèo lên cây, lan can",
+    "Nhảy dây",
+    "Đá cầu",
+    "Chơi ô ăn quan"
+   ],
+   "Leo trèo dễ bị ngã."
+  ],
+  [
+   "Phòng nào ở trường có nhiều sách cho em đọc?",
+   [
+    "Thư viện",
+    "Phòng y tế",
+    "Nhà vệ sinh",
+    "Nhà ăn"
+   ],
+   "Thư viện là nơi có sách."
+  ],
+  [
+   "Khi bị đau ở trường, em đến phòng nào?",
+   [
+    "Phòng y tế",
+    "Thư viện",
+    "Phòng máy tính",
+    "Sân trường"
+   ],
+   "Phòng y tế chăm sóc học sinh bị đau, ốm."
+  ]
+ ],
+ "c3": [
+  [
+   "Khi đi bộ trên đường, em đi ở đâu?",
+   [
+    "Trên vỉa hè",
+    "Giữa lòng đường",
+    "Trên dải phân cách",
+    "Ở đâu cũng được"
+   ],
+   "Đi bộ trên vỉa hè cho an toàn."
+  ],
+  [
+   "Đèn giao thông màu nào báo hiệu dừng lại?",
+   [
+    "Màu đỏ",
+    "Màu xanh",
+    "Màu vàng",
+    "Màu trắng"
+   ],
+   "Đèn đỏ: dừng lại."
+  ],
+  [
+   "Đèn giao thông màu xanh báo hiệu:",
+   [
+    "Được đi",
+    "Dừng lại",
+    "Đi chậm lại",
+    "Quay đầu"
+   ],
+   "Đèn xanh: được đi."
+  ],
+  [
+   "Ai làm việc ở bệnh viện chữa bệnh cho mọi người?",
+   [
+    "Bác sĩ",
+    "Nông dân",
+    "Thợ xây",
+    "Người bán hàng"
+   ],
+   "Bác sĩ khám chữa bệnh."
+  ],
+  [
+   "Người trồng lúa, trồng rau gọi là:",
+   [
+    "Nông dân",
+    "Công nhân",
+    "Giáo viên",
+    "Bộ đội"
+   ],
+   "Nông dân làm ruộng."
+  ],
+  [
+   "Khi ngồi trên xe máy, em cần:",
+   [
+    "Đội mũ bảo hiểm",
+    "Đứng lên yên xe",
+    "Bỏ hai tay ra",
+    "Ngồi quay ngược"
+   ],
+   "Đội mũ bảo hiểm để bảo vệ đầu."
+  ]
+ ],
+ "c4": [
+  [
+   "Bộ phận nào của cây hút nước và muối khoáng?",
+   [
+    "Rễ",
+    "Lá",
+    "Hoa",
+    "Quả"
+   ],
+   "Rễ nằm dưới đất, hút nước nuôi cây."
+  ],
+  [
+   "Con vật nào sống dưới nước?",
+   [
+    "Con cá",
+    "Con mèo",
+    "Con gà",
+    "Con chó"
+   ],
+   "Cá sống dưới nước, thở bằng mang."
+  ],
+  [
+   "Con vật nào có lông vũ và biết bay?",
+   [
+    "Con chim",
+    "Con lợn",
+    "Con cá",
+    "Con rắn"
+   ],
+   "Chim có lông vũ, cánh để bay."
+  ],
+  [
+   "Cây cần gì để sống?",
+   [
+    "Nước, ánh sáng, không khí, đất",
+    "Chỉ cần bóng tối",
+    "Chỉ cần kẹo",
+    "Không cần gì"
+   ],
+   "Cây cần nước, ánh sáng, không khí và chất dinh dưỡng."
+  ],
+  [
+   "Con vật nào cho chúng ta sữa?",
+   [
+    "Con bò",
+    "Con gà",
+    "Con mèo",
+    "Con vịt"
+   ],
+   "Bò sữa cho sữa."
+  ],
+  [
+   "Bộ phận nào của cây thường có màu xanh và quang hợp?",
+   [
+    "Lá",
+    "Rễ",
+    "Thân",
+    "Hạt"
+   ],
+   "Lá xanh dùng ánh sáng mặt trời để tạo chất nuôi cây."
+  ],
+  [
+   "Khi bị chó lạ chạy tới, em nên:",
+   [
+    "Đứng yên, không trêu chọc, gọi người lớn",
+    "Ném đá vào chó",
+    "Chạy thật nhanh và hét to",
+    "Đưa tay ra vuốt"
+   ],
+   "Không trêu chó lạ để tránh bị cắn."
+  ]
+ ],
+ "c5": [
+  [
+   "Mắt giúp em làm gì?",
+   [
+    "Nhìn",
+    "Nghe",
+    "Ngửi",
+    "Nếm"
+   ],
+   "Mắt để nhìn."
+  ],
+  [
+   "Tai giúp em làm gì?",
+   [
+    "Nghe",
+    "Nhìn",
+    "Ngửi",
+    "Sờ"
+   ],
+   "Tai để nghe."
+  ],
+  [
+   "Mũi giúp em làm gì?",
+   [
+    "Ngửi và thở",
+    "Nhìn",
+    "Nghe",
+    "Nếm"
+   ],
+   "Mũi để ngửi mùi và hít thở."
+  ],
+  [
+   "Em nên đánh răng vào lúc nào?",
+   [
+    "Sáng khi ngủ dậy và tối trước khi đi ngủ",
+    "Một tuần một lần",
+    "Chỉ khi đau răng",
+    "Không cần đánh"
+   ],
+   "Đánh răng sáng và tối giúp răng khỏe."
+  ],
+  [
+   "Trước khi ăn, em cần:",
+   [
+    "Rửa tay sạch bằng xà phòng",
+    "Chơi với đất cát",
+    "Vuốt ve chó mèo",
+    "Không cần làm gì"
+   ],
+   "Rửa tay để không bị đau bụng."
+  ],
+  [
+   "Để cơ thể khỏe mạnh, em nên:",
+   [
+    "Ăn đủ chất, ngủ đủ giấc, vận động",
+    "Ăn nhiều kẹo",
+    "Thức khuya xem ti vi",
+    "Ngồi một chỗ cả ngày"
+   ],
+   "Ăn uống, ngủ nghỉ, tập luyện hợp lí."
+  ],
+  [
+   "Khi đọc sách, em nên ngồi thế nào?",
+   [
+    "Ngồi thẳng lưng, mắt cách sách vừa phải",
+    "Nằm đọc trong tối",
+    "Cúi sát mặt vào sách",
+    "Vừa đi vừa đọc"
+   ],
+   "Ngồi đúng tư thế để bảo vệ mắt và lưng."
+  ]
+ ],
+ "c6": [
+  [
+   "Mặt Trời mọc ở hướng nào?",
+   [
+    "Hướng Đông",
+    "Hướng Tây",
+    "Hướng Bắc",
+    "Hướng Nam"
+   ],
+   "Mặt Trời mọc ở đằng Đông, lặn ở đằng Tây."
+  ],
+  [
+   "Ban đêm trên bầu trời em thường thấy:",
+   [
+    "Mặt Trăng và các vì sao",
+    "Mặt Trời chói chang",
+    "Cầu vồng",
+    "Mây trắng và nắng"
+   ],
+   "Ban đêm có trăng và sao."
+  ],
+  [
+   "Khi trời nắng to, em nên:",
+   [
+    "Đội mũ, che ô khi ra ngoài",
+    "Phơi nắng thật lâu",
+    "Không mặc áo",
+    "Nhìn thẳng vào Mặt Trời"
+   ],
+   "Che nắng để không bị say nắng."
+  ],
+  [
+   "Trời sắp mưa thường có dấu hiệu gì?",
+   [
+    "Mây đen kéo đến, gió thổi mạnh",
+    "Trời trong xanh không mây",
+    "Nắng rất gắt",
+    "Có cầu vồng"
+   ],
+   "Mây đen, gió mạnh là dấu hiệu sắp mưa."
+  ],
+  [
+   "Không nên nhìn thẳng vào Mặt Trời vì:",
+   [
+    "Có thể làm hại mắt",
+    "Mặt Trời sẽ tắt",
+    "Sẽ bị lạnh",
+    "Sẽ bị ướt"
+   ],
+   "Ánh sáng Mặt Trời rất mạnh, hại mắt."
+  ],
+  [
+   "Khi có sấm sét, em không nên:",
+   [
+    "Trú dưới gốc cây to ngoài trời",
+    "Ở trong nhà",
+    "Tránh xa cửa sổ",
+    "Rút phích cắm điện"
+   ],
+   "Cây cao dễ bị sét đánh."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Em cần làm gì khi đi qua đường?",
+   [
+    "Đi cùng người lớn, đi trên vạch kẻ cho người đi bộ",
+    "Chạy thật nhanh qua đường",
+    "Vừa đi vừa chơi",
+    "Đi lúc đèn đỏ cho người đi bộ"
+   ],
+   "Qua đường an toàn: đi cùng người lớn, đúng vạch, đúng đèn."
+  ],
+  [
+   "Lưỡi giúp em:",
+   [
+    "Nếm vị thức ăn",
+    "Nhìn",
+    "Nghe",
+    "Ngửi"
+   ],
+   "Lưỡi để nếm vị mặn, ngọt, chua, đắng."
+  ],
+  [
+   "Con vật nào được nuôi để trông nhà?",
+   [
+    "Con chó",
+    "Con cá vàng",
+    "Con gà",
+    "Con thỏ"
+   ],
+   "Chó thường được nuôi để trông nhà."
+  ],
+  [
+   "Để giữ vệ sinh trường lớp, em:",
+   [
+    "Bỏ rác vào thùng rác",
+    "Xả rác ra sân",
+    "Khạc nhổ bừa bãi",
+    "Bẻ cành cây"
+   ],
+   "Bỏ rác đúng nơi quy định."
+  ],
+  [
+   "Thân cây có nhiệm vụ gì?",
+   [
+    "Nâng đỡ cây, vận chuyển nước và chất dinh dưỡng",
+    "Hút nước từ đất",
+    "Tạo ra hạt",
+    "Không có nhiệm vụ gì"
+   ],
+   "Thân nâng đỡ lá, hoa và dẫn nước."
+  ],
+  [
+   "Vào mùa đông, em cần:",
+   [
+    "Mặc ấm",
+    "Mặc áo cộc",
+    "Tắm nước lạnh ngoài trời",
+    "Đi chân đất"
+   ],
+   "Mặc ấm để không bị cảm lạnh."
+  ],
+  [
+   "Khi bố mẹ đi làm về mệt, em nên:",
+   [
+    "Hỏi han, lấy nước mời bố mẹ",
+    "Đòi quà ngay",
+    "Bật ti vi thật to",
+    "Chạy đi chơi"
+   ],
+   "Biết quan tâm, chăm sóc người thân."
+  ],
+  [
+   "Người dạy em học ở trường là ai?",
+   [
+    "Thầy, cô giáo",
+    "Bác bảo vệ",
+    "Cô lao công",
+    "Bác sĩ"
+   ],
+   "Thầy cô giáo dạy học."
+  ],
+  [
+   "Khi đi bộ trên đường, em đi ở đâu?",
+   [
+    "Trên vỉa hè",
+    "Giữa lòng đường",
+    "Trên dải phân cách",
+    "Ở đâu cũng được"
+   ],
+   "Đi bộ trên vỉa hè cho an toàn."
+  ],
+  [
+   "Con vật nào sống dưới nước?",
+   [
+    "Con cá",
+    "Con mèo",
+    "Con gà",
+    "Con chó"
+   ],
+   "Cá sống dưới nước, thở bằng mang."
+  ],
+  [
+   "Khi đọc sách, em nên ngồi thế nào?",
+   [
+    "Ngồi thẳng lưng, mắt cách sách vừa phải",
+    "Nằm đọc trong tối",
+    "Cúi sát mặt vào sách",
+    "Vừa đi vừa đọc"
+   ],
+   "Ngồi đúng tư thế để bảo vệ mắt và lưng."
+  ],
+  [
+   "Khi có sấm sét, em không nên:",
+   [
+    "Trú dưới gốc cây to ngoài trời",
+    "Ở trong nhà",
+    "Tránh xa cửa sổ",
+    "Rút phích cắm điện"
+   ],
+   "Cây cao dễ bị sét đánh."
+  ],
+  [
+   "Phòng nào trong nhà dùng để nấu ăn?",
+   [
+    "Nhà bếp",
+    "Phòng ngủ",
+    "Phòng tắm",
+    "Phòng khách"
+   ],
+   "Nấu ăn trong nhà bếp."
+  ],
+  [
+   "Phòng nào ở trường có nhiều sách cho em đọc?",
+   [
+    "Thư viện",
+    "Phòng y tế",
+    "Nhà vệ sinh",
+    "Nhà ăn"
+   ],
+   "Thư viện là nơi có sách."
+  ],
+  [
+   "Đèn giao thông màu nào báo hiệu dừng lại?",
+   [
+    "Màu đỏ",
+    "Màu xanh",
+    "Màu vàng",
+    "Màu trắng"
+   ],
+   "Đèn đỏ: dừng lại."
+  ],
+  [
+   "Con vật nào có lông vũ và biết bay?",
+   [
+    "Con chim",
+    "Con lợn",
+    "Con cá",
+    "Con rắn"
+   ],
+   "Chim có lông vũ, cánh để bay."
+  ],
+  [
+   "Em nên đánh răng vào lúc nào?",
+   [
+    "Sáng khi ngủ dậy và tối trước khi đi ngủ",
+    "Một tuần một lần",
+    "Chỉ khi đau răng",
+    "Không cần đánh"
+   ],
+   "Đánh răng sáng và tối giúp răng khỏe."
+  ],
+  [
+   "Không nên nhìn thẳng vào Mặt Trời vì:",
+   [
+    "Có thể làm hại mắt",
+    "Mặt Trời sẽ tắt",
+    "Sẽ bị lạnh",
+    "Sẽ bị ướt"
+   ],
+   "Ánh sáng Mặt Trời rất mạnh, hại mắt."
+  ],
+  [
+   "Việc nào em có thể làm giúp bố mẹ?",
+   [
+    "Quét nhà, gấp quần áo",
+    "Nấu cơm bằng bếp ga một mình",
+    "Sửa điện",
+    "Lái xe"
+   ],
+   "Em làm việc nhà vừa sức, an toàn."
+  ],
+  [
+   "Khi bị đau ở trường, em đến phòng nào?",
+   [
+    "Phòng y tế",
+    "Thư viện",
+    "Phòng máy tính",
+    "Sân trường"
+   ],
+   "Phòng y tế chăm sóc học sinh bị đau, ốm."
+  ],
+  [
+   "Ai làm việc ở bệnh viện chữa bệnh cho mọi người?",
+   [
+    "Bác sĩ",
+    "Nông dân",
+    "Thợ xây",
+    "Người bán hàng"
+   ],
+   "Bác sĩ khám chữa bệnh."
+  ],
+  [
+   "Cây cần gì để sống?",
+   [
+    "Nước, ánh sáng, không khí, đất",
+    "Chỉ cần bóng tối",
+    "Chỉ cần kẹo",
+    "Không cần gì"
+   ],
+   "Cây cần nước, ánh sáng, không khí và chất dinh dưỡng."
+  ],
+  [
+   "Trước khi ăn, em cần:",
+   [
+    "Rửa tay sạch bằng xà phòng",
+    "Chơi với đất cát",
+    "Vuốt ve chó mèo",
+    "Không cần làm gì"
+   ],
+   "Rửa tay để không bị đau bụng."
+  ],
+  [
+   "Trời sắp mưa thường có dấu hiệu gì?",
+   [
+    "Mây đen kéo đến, gió thổi mạnh",
+    "Trời trong xanh không mây",
+    "Nắng rất gắt",
+    "Có cầu vồng"
+   ],
+   "Mây đen, gió mạnh là dấu hiệu sắp mưa."
+  ],
+  [
+   "Gia đình em gồm những ai?",
+   [
+    "Những người thân như ông bà, bố mẹ, anh chị em",
+    "Các bạn cùng lớp",
+    "Thầy cô giáo",
+    "Hàng xóm"
+   ],
+   "Gia đình là những người thân sống cùng nhau và yêu thương nhau."
+  ],
+  [
+   "Em nên giữ lớp học như thế nào?",
+   [
+    "Sạch sẽ, gọn gàng",
+    "Vẽ lên tường",
+    "Vứt rác dưới gầm bàn",
+    "Bẻ cây trong sân"
+   ],
+   "Giữ gìn lớp sạch đẹp."
+  ],
+  [
+   "Khi ngồi trên xe máy, em cần:",
+   [
+    "Đội mũ bảo hiểm",
+    "Đứng lên yên xe",
+    "Bỏ hai tay ra",
+    "Ngồi quay ngược"
+   ],
+   "Đội mũ bảo hiểm để bảo vệ đầu."
+  ],
+  [
+   "Bộ phận nào của cây hút nước và muối khoáng?",
+   [
+    "Rễ",
+    "Lá",
+    "Hoa",
+    "Quả"
+   ],
+   "Rễ nằm dưới đất, hút nước nuôi cây."
+  ],
+  [
+   "Để cơ thể khỏe mạnh, em nên:",
+   [
+    "Ăn đủ chất, ngủ đủ giấc, vận động",
+    "Ăn nhiều kẹo",
+    "Thức khuya xem ti vi",
+    "Ngồi một chỗ cả ngày"
+   ],
+   "Ăn uống, ngủ nghỉ, tập luyện hợp lí."
+  ],
+  [
+   "Mặt Trời mọc ở hướng nào?",
+   [
+    "Hướng Đông",
+    "Hướng Tây",
+    "Hướng Bắc",
+    "Hướng Nam"
+   ],
+   "Mặt Trời mọc ở đằng Đông, lặn ở đằng Tây."
+  ],
+  [
+   "Khi thấy ổ điện, em nên làm gì?",
+   [
+    "Không chọc tay hay vật vào ổ điện",
+    "Cắm que vào chơi",
+    "Thổi vào ổ điện",
+    "Đổ nước vào"
+   ],
+   "Chọc vào ổ điện có thể bị điện giật."
+  ],
+  [
+   "Khi vào lớp muộn, em cần làm gì?",
+   [
+    "Xin phép thầy cô rồi mới vào lớp",
+    "Chạy thẳng vào chỗ",
+    "Đứng ngoài chơi",
+    "Đi về nhà"
+   ],
+   "Lễ phép xin phép trước khi vào lớp."
+  ],
+  [
+   "Người trồng lúa, trồng rau gọi là:",
+   [
+    "Nông dân",
+    "Công nhân",
+    "Giáo viên",
+    "Bộ đội"
+   ],
+   "Nông dân làm ruộng."
+  ],
+  [
+   "Khi bị chó lạ chạy tới, em nên:",
+   [
+    "Đứng yên, không trêu chọc, gọi người lớn",
+    "Ném đá vào chó",
+    "Chạy thật nhanh và hét to",
+    "Đưa tay ra vuốt"
+   ],
+   "Không trêu chó lạ để tránh bị cắn."
+  ],
+  [
+   "Mắt giúp em làm gì?",
+   [
+    "Nhìn",
+    "Nghe",
+    "Ngửi",
+    "Nếm"
+   ],
+   "Mắt để nhìn."
+  ],
+  [
+   "Khi trời nắng to, em nên:",
+   [
+    "Đội mũ, che ô khi ra ngoài",
+    "Phơi nắng thật lâu",
+    "Không mặc áo",
+    "Nhìn thẳng vào Mặt Trời"
+   ],
+   "Che nắng để không bị say nắng."
+  ],
+  [
+   "Đồ vật nào trong nhà có thể gây nguy hiểm khi chơi đùa?",
+   [
+    "Dao, kéo sắc nhọn",
+    "Gối",
+    "Quyển truyện",
+    "Con gấu bông"
+   ],
+   "Dao kéo sắc có thể gây đứt tay."
+  ],
+  [
+   "Khi ra chơi, trò chơi nào không an toàn?",
+   [
+    "Leo trèo lên cây, lan can",
+    "Nhảy dây",
+    "Đá cầu",
+    "Chơi ô ăn quan"
+   ],
+   "Leo trèo dễ bị ngã."
+  ],
+  [
+   "Đèn giao thông màu xanh báo hiệu:",
+   [
+    "Được đi",
+    "Dừng lại",
+    "Đi chậm lại",
+    "Quay đầu"
+   ],
+   "Đèn xanh: được đi."
+  ],
+  [
+   "Con vật nào cho chúng ta sữa?",
+   [
+    "Con bò",
+    "Con gà",
+    "Con mèo",
+    "Con vịt"
+   ],
+   "Bò sữa cho sữa."
+  ]
+ ]
+}

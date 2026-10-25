@@ -369,6 +369,316 @@
     "Trình duyệt"
    ],
    "Phần mềm trình chiếu tạo các trang chiếu."
+  ],
+  [
+   "Thiết bị nào là thiết bị ra?",
+   [
+    "Máy in",
+    "Chuột",
+    "Bàn phím",
+    "Micro"
+   ],
+   "Thiết bị ra đưa kết quả ra ngoài: màn hình, máy in, loa."
+  ],
+  [
+   "Mạng xã hội có lợi ích:",
+   [
+    "Kết nối, chia sẻ, học hỏi",
+    "Thay thế việc học ở trường",
+    "Không cần ngủ",
+    "Luôn chỉ có thông tin đúng"
+   ],
+   "Mạng xã hội giúp kết nối nhưng cần dùng có chọn lọc."
+  ],
+  [
+   "Trong bảng tính, giao của một hàng và một cột gọi là:",
+   [
+    "Ô tính",
+    "Trang tính",
+    "Thanh công thức",
+    "Bảng chọn"
+   ],
+   "Ô tính là giao của hàng và cột, ví dụ ô B3."
+  ],
+  [
+   "Phần mềm trình chiếu dùng để:",
+   [
+    "Tạo bài trình bày gồm các trang chiếu",
+    "Tính toán bảng số liệu",
+    "Lập trình trò chơi",
+    "Diệt virus"
+   ],
+   "Phần mềm trình chiếu (PowerPoint, Impress...) tạo slide thuyết trình."
+  ],
+  [
+   "Tìm kiếm nhị phân chỉ áp dụng được khi dãy:",
+   [
+    "Đã được sắp xếp",
+    "Có phần tử trùng nhau",
+    "Chưa sắp xếp",
+    "Chỉ có 2 phần tử"
+   ],
+   "Tìm kiếm nhị phân yêu cầu dãy đã sắp xếp."
+  ],
+  [
+   "Thiết bị nào là thiết bị vào?",
+   [
+    "Bàn phím",
+    "Màn hình",
+    "Máy in",
+    "Loa"
+   ],
+   "Thiết bị vào dùng để nhập dữ liệu: bàn phím, chuột, máy quét."
+  ],
+  [
+   "Việc làm nào thể hiện ứng xử có văn hóa trên mạng xã hội?",
+   [
+    "Bình luận lịch sự, tôn trọng người khác",
+    "Dùng lời lẽ xúc phạm",
+    "Đăng ảnh người khác khi chưa xin phép",
+    "Lan truyền tin đồn"
+   ],
+   "Ứng xử văn minh, tôn trọng người khác."
+  ],
+  [
+   "Công thức trong bảng tính bắt đầu bằng dấu:",
+   [
+    "=",
+    "+",
+    "#",
+    "@"
+   ],
+   "Mọi công thức bắt đầu bằng dấu =."
+  ],
+  [
+   "Hiệu ứng chuyển trang dùng để:",
+   [
+    "Tạo cách xuất hiện khi chuyển sang trang chiếu tiếp theo",
+    "Xóa trang chiếu",
+    "Đổi phông chữ",
+    "Lưu tệp"
+   ],
+   "Hiệu ứng chuyển trang áp dụng khi chuyển slide."
+  ],
+  [
+   "Dãy 1, 3, 5, 7, 9, 11, 13. Tìm số 9 bằng tìm kiếm nhị phân, phần tử được so sánh đầu tiên là:",
+   [
+    "7",
+    "1",
+    "9",
+    "13"
+   ],
+   "Phần tử ở giữa dãy 7 phần tử là phần tử thứ 4: số 7."
+  ],
+  [
+   "Hệ điều hành là:",
+   [
+    "Phần mềm quản lí và điều khiển hoạt động của máy tính",
+    "Một thiết bị phần cứng",
+    "Một trò chơi",
+    "Một trang web"
+   ],
+   "Hệ điều hành (Windows, Android...) quản lí máy tính."
+  ],
+  [
+   "Trước khi chia sẻ một tin tức trên mạng, em nên:",
+   [
+    "Kiểm tra nguồn tin có đáng tin cậy không",
+    "Chia sẻ ngay cho nhanh",
+    "Thêm bớt nội dung",
+    "Chỉ đọc tiêu đề"
+   ],
+   "Kiểm tra nguồn để tránh lan truyền tin giả."
+  ],
+  [
+   "Hàm AVERAGE dùng để:",
+   [
+    "Tính trung bình cộng",
+    "Tìm giá trị lớn nhất",
+    "Đếm số ô",
+    "Tính tổng"
+   ],
+   "AVERAGE tính trung bình cộng."
+  ],
+  [
+   "Một bài trình chiếu tốt nên:",
+   [
+    "Ngắn gọn, rõ ràng, có hình minh họa phù hợp",
+    "Thật nhiều chữ trên mỗi trang",
+    "Dùng nhiều màu chói",
+    "Không có tiêu đề"
+   ],
+   "Trang chiếu cần ngắn gọn, dễ nhìn."
+  ],
+  [
+   "Thuật toán sắp xếp nổi bọt hoạt động bằng cách:",
+   [
+    "So sánh và đổi chỗ các cặp phần tử liền kề nếu sai thứ tự",
+    "Chia đôi dãy liên tục",
+    "Chọn ngẫu nhiên một phần tử",
+    "Xóa các phần tử lớn"
+   ],
+   "Nổi bọt hoán đổi các cặp kề nhau cho đến khi dãy có thứ tự."
+  ],
+  [
+   "Khi muốn tắt máy tính đúng cách, em nên:",
+   [
+    "Dùng lệnh Shut down của hệ điều hành",
+    "Rút dây điện ngay",
+    "Nhấn giữ nút nguồn mọi lúc",
+    "Đập vào màn hình"
+   ],
+   "Tắt máy bằng lệnh của hệ điều hành để không mất dữ liệu."
+  ],
+  [
+   "Khi bị bắt nạt trên mạng, em nên:",
+   [
+    "Không trả lời, lưu bằng chứng và báo người lớn tin cậy",
+    "Bắt nạt lại",
+    "Chia sẻ cho mọi người",
+    "Giữ bí mật một mình"
+   ],
+   "Hãy báo bố mẹ, thầy cô để được giúp đỡ."
+  ],
+  [
+   "Địa chỉ ô ở cột C, hàng 5 là:",
+   [
+    "C5",
+    "5C",
+    "CC5",
+    "C:5"
+   ],
+   "Địa chỉ ô viết tên cột trước, số hàng sau: C5."
+  ],
+  [
+   "Để trình chiếu từ trang đầu, thường nhấn phím:",
+   [
+    "F5",
+    "F1",
+    "Esc",
+    "Delete"
+   ],
+   "Trong nhiều phần mềm trình chiếu, F5 bắt đầu trình chiếu từ đầu."
+  ],
+  [
+   "Tìm kiếm tuần tự là:",
+   [
+    "Lần lượt so sánh từng phần tử từ đầu đến cuối",
+    "Chia đôi dãy để tìm",
+    "Sắp xếp dãy trước",
+    "Đoán ngẫu nhiên"
+   ],
+   "Tìm kiếm tuần tự duyệt lần lượt từng phần tử."
+  ],
+  [
+   "Tệp có phần mở rộng .docx thường là tệp:",
+   [
+    "Văn bản",
+    "Âm thanh",
+    "Hình ảnh",
+    "Video"
+   ],
+   ".docx là tệp văn bản của Microsoft Word."
+  ],
+  [
+   "Đâu là thông tin KHÔNG nên đăng lên mạng xã hội?",
+   [
+    "Địa chỉ nhà và số điện thoại",
+    "Bức tranh em vẽ",
+    "Bài thơ em thích",
+    "Kết quả cuộc thi của lớp"
+   ],
+   "Thông tin cá nhân dễ bị lợi dụng."
+  ],
+  [
+   "Các ô A1, A2, A3 có giá trị 4, 6, 8. =AVERAGE(A1:A3) cho kết quả:",
+   [
+    "6",
+    "18",
+    "8",
+    "4"
+   ],
+   "(4 + 6 + 8) : 3 = 6."
+  ],
+  [
+   "Trang đầu tiên của bài trình chiếu thường là:",
+   [
+    "Trang tiêu đề",
+    "Trang kết thúc",
+    "Trang trống",
+    "Trang bảng tính"
+   ],
+   "Trang tiêu đề giới thiệu chủ đề và người trình bày."
+  ],
+  [
+   "Thuật toán sắp xếp chọn: ở mỗi bước ta",
+   [
+    "Chọn phần tử nhỏ nhất trong phần chưa sắp xếp đưa lên đầu",
+    "Đổi chỗ hai phần tử ngẫu nhiên",
+    "Xóa phần tử nhỏ nhất",
+    "Chia đôi dãy"
+   ],
+   "Sắp xếp chọn tìm phần tử nhỏ nhất và đặt vào đúng vị trí."
+  ],
+  [
+   "Phần mềm nào là hệ điều hành?",
+   [
+    "Windows",
+    "Microsoft Word",
+    "Paint",
+    "Chrome"
+   ],
+   "Windows là hệ điều hành; các phần mềm khác là phần mềm ứng dụng."
+  ],
+  [
+   "Hàm tính tổng các ô từ A1 đến A5 là:",
+   [
+    "=SUM(A1:A5)",
+    "=AVERAGE(A1:A5)",
+    "=MAX(A1:A5)",
+    "=COUNT(A1:A5)"
+   ],
+   "SUM tính tổng."
+  ],
+  [
+   "Với dãy có 1 000 phần tử đã sắp xếp, cách tìm nhanh hơn thường là:",
+   [
+    "Tìm kiếm nhị phân",
+    "Tìm kiếm tuần tự",
+    "Hai cách luôn như nhau",
+    "Không tìm được"
+   ],
+   "Nhị phân loại bỏ một nửa dãy sau mỗi lần so sánh."
+  ],
+  [
+   "Các ô A1, A2, A3 có giá trị 4, 6, 8. =MAX(A1:A3) cho kết quả:",
+   [
+    "8",
+    "4",
+    "18",
+    "6"
+   ],
+   "MAX trả về giá trị lớn nhất: 8."
+  ],
+  [
+   "Hàm COUNT dùng để:",
+   [
+    "Đếm số ô chứa số",
+    "Tính tổng",
+    "Tìm giá trị nhỏ nhất",
+    "Tính trung bình"
+   ],
+   "COUNT đếm số ô có dữ liệu số."
+  ],
+  [
+   "Công thức =A1*B1 thực hiện phép:",
+   [
+    "Nhân giá trị hai ô",
+    "Cộng giá trị hai ô",
+    "Chia giá trị hai ô",
+    "Trừ giá trị hai ô"
+   ],
+   "Dấu * là phép nhân."
   ]
  ]
 }

@@ -1,0 +1,2816 @@
+{
+ "c1": [
+  [
+   "'classroom' nghĩa là:",
+   [
+    "Lớp học",
+    "Phòng ngủ",
+    "Nhà bếp",
+    "Sân chơi"
+   ],
+   "classroom = phòng học."
+  ],
+  [
+   "'teacher' nghĩa là:",
+   [
+    "Giáo viên",
+    "Học sinh",
+    "Bác sĩ",
+    "Bạn"
+   ],
+   "teacher = thầy/cô giáo."
+  ],
+  [
+   "'desk' nghĩa là:",
+   [
+    "Bàn học",
+    "Ghế",
+    "Cửa",
+    "Bảng"
+   ],
+   "desk = bàn học."
+  ],
+  [
+   "'board' nghĩa là:",
+   [
+    "Cái bảng",
+    "Cái bàn",
+    "Cái bút",
+    "Cái cặp"
+   ],
+   "board = bảng."
+  ],
+  [
+   "'Can I come in?' nghĩa là:",
+   [
+    "Em vào được không ạ?",
+    "Em ra ngoài được không?",
+    "Em ngồi được không?",
+    "Em về được không?"
+   ],
+   "come in = đi vào."
+  ],
+  [
+   "'school' nghĩa là:",
+   [
+    "Trường học",
+    "Ngôi nhà",
+    "Công viên",
+    "Bệnh viện"
+   ],
+   "school = trường."
+  ],
+  [
+   "'Close the door, please.' nghĩa là:",
+   [
+    "Làm ơn đóng cửa lại",
+    "Làm ơn mở cửa",
+    "Hãy ra ngoài",
+    "Hãy đứng lên"
+   ],
+   "close = đóng."
+  ],
+  [
+   "Học sinh tiếng Anh là:",
+   [
+    "pupil (student)",
+    "teacher",
+    "doctor",
+    "farmer"
+   ],
+   "pupil/student = học sinh."
+  ],
+  [
+   "'Raise your hand.' nghĩa là:",
+   [
+    "Giơ tay lên.",
+    "Vỗ tay.",
+    "Rửa tay.",
+    "Bỏ tay xuống."
+   ],
+   "raise = giơ lên."
+  ],
+  [
+   "'What's this?' – 'It's a ___.' (cái thước)",
+   [
+    "ruler",
+    "rabbit",
+    "robot",
+    "rubber"
+   ],
+   "ruler = cái thước."
+  ],
+  [
+   "'Is this your pen?' – 'Yes, it ___.'",
+   [
+    "is",
+    "are",
+    "isn't",
+    "am"
+   ],
+   "Trả lời khẳng định: Yes, it is."
+  ],
+  [
+   "'Be quiet, please.' nghĩa là:",
+   [
+    "Hãy giữ trật tự.",
+    "Hãy nói to lên.",
+    "Hãy đứng dậy.",
+    "Hãy hát lên."
+   ],
+   "quiet = yên lặng."
+  ],
+  [
+   "'Close your book, please.' nghĩa là:",
+   [
+    "Hãy gấp sách lại.",
+    "Hãy mở sách ra.",
+    "Hãy ngồi xuống.",
+    "Hãy viết vào vở."
+   ],
+   "close = đóng, gấp lại."
+  ],
+  [
+   "'pen' nghĩa là:",
+   [
+    "bút mực",
+    "cặp sách",
+    "giáo viên",
+    "bút sáp màu"
+   ],
+   "pen = bút mực."
+  ],
+  [
+   "'pencil' nghĩa là:",
+   [
+    "bút chì",
+    "cặp sách",
+    "cái ghế",
+    "bạn bè"
+   ],
+   "pencil = bút chì."
+  ],
+  [
+   "'May I go out?' nghĩa là:",
+   [
+    "Em ra ngoài được không ạ?",
+    "Em ngồi được không ạ?",
+    "Em hỏi được không ạ?",
+    "Em vào lớp được không ạ?"
+   ],
+   "go out = đi ra ngoài."
+  ],
+  [
+   "'library' nghĩa là:",
+   [
+    "thư viện",
+    "quyển vở",
+    "giáo viên",
+    "sân chơi"
+   ],
+   "library = thư viện."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: giáo viên)",
+   [
+    "teacher",
+    "teicher",
+    "teahcer",
+    "teachar"
+   ],
+   "Viết đúng là teacher."
+  ],
+  [
+   "\"Cửa ra vào\" trong tiếng Anh là:",
+   [
+    "door",
+    "school",
+    "bag",
+    "ruler"
+   ],
+   "cửa ra vào = door."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: quyển sách)",
+   [
+    "book",
+    "boook",
+    "bok",
+    "boko"
+   ],
+   "Viết đúng là book."
+  ],
+  [
+   "'Open your book, please.' nghĩa là:",
+   [
+    "Hãy mở sách ra.",
+    "Hãy cất sách đi.",
+    "Hãy gấp sách lại.",
+    "Hãy đọc to lên."
+   ],
+   "open = mở."
+  ],
+  [
+   "\"Bàn học\" trong tiếng Anh là:",
+   [
+    "desk",
+    "teacher",
+    "school",
+    "pen"
+   ],
+   "bàn học = desk."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: bút chì)",
+   [
+    "pencil",
+    "penil",
+    "pencal",
+    "pnecil"
+   ],
+   "Viết đúng là pencil."
+  ],
+  [
+   "'notebook' nghĩa là:",
+   [
+    "quyển vở",
+    "học sinh",
+    "bút mực",
+    "thư viện"
+   ],
+   "notebook = quyển vở."
+  ],
+  [
+   "\"Bút mực\" trong tiếng Anh là:",
+   [
+    "pen",
+    "classroom",
+    "notebook",
+    "bag"
+   ],
+   "bút mực = pen."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cục tẩy)",
+   [
+    "eraser",
+    "erasir",
+    "erasre",
+    "earser"
+   ],
+   "Viết đúng là eraser."
+  ],
+  [
+   "\"Giáo viên\" trong tiếng Anh là:",
+   [
+    "teacher",
+    "library",
+    "desk",
+    "classroom"
+   ],
+   "giáo viên = teacher."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cái ghế)",
+   [
+    "chair",
+    "cair",
+    "chhair",
+    "cahir"
+   ],
+   "Viết đúng là chair."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: quyển vở)",
+   [
+    "notebook",
+    "noteboko",
+    "nootebook",
+    "noteboook"
+   ],
+   "Viết đúng là notebook."
+  ],
+  [
+   "\"Cặp sách\" trong tiếng Anh là:",
+   [
+    "bag",
+    "notebook",
+    "pen",
+    "classroom"
+   ],
+   "cặp sách = bag."
+  ],
+  [
+   "'crayon' nghĩa là:",
+   [
+    "bút sáp màu",
+    "thước kẻ",
+    "cửa ra vào",
+    "bạn bè"
+   ],
+   "crayon = bút sáp màu."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: thước kẻ)",
+   [
+    "ruler",
+    "riler",
+    "ruer",
+    "ruleer"
+   ],
+   "Viết đúng là ruler."
+  ],
+  [
+   "\"Bút sáp màu\" trong tiếng Anh là:",
+   [
+    "crayon",
+    "friend",
+    "pupil",
+    "desk"
+   ],
+   "bút sáp màu = crayon."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: thư viện)",
+   [
+    "library",
+    "libray",
+    "lebrary",
+    "librury"
+   ],
+   "Viết đúng là library."
+  ],
+  [
+   "'eraser' nghĩa là:",
+   [
+    "cục tẩy",
+    "bút chì",
+    "cặp sách",
+    "bàn học"
+   ],
+   "eraser = cục tẩy."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: trường học)",
+   [
+    "school",
+    "schol",
+    "scool",
+    "schuol"
+   ],
+   "Viết đúng là school."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: bút sáp màu)",
+   [
+    "crayon",
+    "cruyon",
+    "caryon",
+    "crayyon"
+   ],
+   "Viết đúng là crayon."
+  ],
+  [
+   "\"Cái ghế\" trong tiếng Anh là:",
+   [
+    "chair",
+    "crayon",
+    "eraser",
+    "school"
+   ],
+   "cái ghế = chair."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cửa ra vào)",
+   [
+    "door",
+    "dor",
+    "dior",
+    "deor"
+   ],
+   "Viết đúng là door."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: bạn bè)",
+   [
+    "friend",
+    "frind",
+    "friiend",
+    "froend"
+   ],
+   "Viết đúng là friend."
+  ]
+ ],
+ "c2": [
+  [
+   "'house' nghĩa là:",
+   [
+    "Ngôi nhà",
+    "Con ngựa",
+    "Bông hoa",
+    "Cái hộp"
+   ],
+   "house = nhà."
+  ],
+  [
+   "'bedroom' nghĩa là:",
+   [
+    "Phòng ngủ",
+    "Phòng tắm",
+    "Nhà bếp",
+    "Phòng khách"
+   ],
+   "bed = giường, room = phòng."
+  ],
+  [
+   "'kitchen' nghĩa là:",
+   [
+    "Nhà bếp",
+    "Phòng ngủ",
+    "Khu vườn",
+    "Phòng khách"
+   ],
+   "kitchen = bếp."
+  ],
+  [
+   "'bed' nghĩa là:",
+   [
+    "Cái giường",
+    "Cái bàn",
+    "Cái ghế",
+    "Cái gối"
+   ],
+   "bed = giường."
+  ],
+  [
+   "'This is my mum.' nghĩa là:",
+   [
+    "Đây là mẹ tớ.",
+    "Đây là bà tớ.",
+    "Đây là chị tớ.",
+    "Mẹ tớ ở đâu?"
+   ],
+   "mum = mẹ."
+  ],
+  [
+   "'garden' nghĩa là:",
+   [
+    "Khu vườn",
+    "Nhà để xe",
+    "Cái cổng",
+    "Mái nhà"
+   ],
+   "garden = vườn."
+  ],
+  [
+   "Cái ghế tiếng Anh là:",
+   [
+    "chair",
+    "table",
+    "door",
+    "window"
+   ],
+   "chair = ghế."
+  ],
+  [
+   "'window' nghĩa là:",
+   [
+    "Cửa sổ",
+    "Cửa ra vào",
+    "Bức tường",
+    "Cái quạt"
+   ],
+   "window = cửa sổ."
+  ],
+  [
+   "'I love my family.' nghĩa là:",
+   [
+    "Tớ yêu gia đình tớ.",
+    "Tớ có gia đình.",
+    "Tớ giúp gia đình tớ.",
+    "Tớ nhớ gia đình tớ."
+   ],
+   "love = yêu."
+  ],
+  [
+   "'This is my house.' nghĩa là:",
+   [
+    "Đây là nhà của tớ.",
+    "Nhà tớ ở đâu?",
+    "Đây là phòng của tớ.",
+    "Đây là trường của tớ."
+   ],
+   "house = ngôi nhà."
+  ],
+  [
+   "'How many people are there in your family?' hỏi về:",
+   [
+    "Số người trong gia đình",
+    "Tuổi của mọi người",
+    "Nhà ở đâu",
+    "Tên của bố mẹ"
+   ],
+   "How many people = có bao nhiêu người."
+  ],
+  [
+   "'Who is he?' – 'He is my ___.' (bố)",
+   [
+    "father",
+    "mother",
+    "grandmother",
+    "sister"
+   ],
+   "father = bố; he dùng cho nam."
+  ],
+  [
+   "'living room' nghĩa là:",
+   [
+    "phòng khách",
+    "phòng tắm",
+    "ông",
+    "tủ lạnh"
+   ],
+   "living room = phòng khách."
+  ],
+  [
+   "'Who is she?' – 'She is my ___.' (bà)",
+   [
+    "grandmother",
+    "father",
+    "brother",
+    "grandfather"
+   ],
+   "grandmother = bà; she dùng cho nữ."
+  ],
+  [
+   "'lamp' nghĩa là:",
+   [
+    "cái đèn",
+    "khu vườn",
+    "mẹ",
+    "đồng hồ"
+   ],
+   "lamp = cái đèn."
+  ],
+  [
+   "'sister' nghĩa là:",
+   [
+    "chị/em gái",
+    "ghế sofa",
+    "đồng hồ",
+    "phòng khách"
+   ],
+   "sister = chị/em gái."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: mẹ)",
+   [
+    "mother",
+    "mether",
+    "motehr",
+    "mothar"
+   ],
+   "Viết đúng là mother."
+  ],
+  [
+   "\"Cái bàn\" trong tiếng Anh là:",
+   [
+    "table",
+    "family",
+    "bathroom",
+    "bedroom"
+   ],
+   "cái bàn = table."
+  ],
+  [
+   "\"Ngôi nhà\" trong tiếng Anh là:",
+   [
+    "house",
+    "bedroom",
+    "garden",
+    "bed"
+   ],
+   "ngôi nhà = house."
+  ],
+  [
+   "\"Bà\" trong tiếng Anh là:",
+   [
+    "grandmother",
+    "kitchen",
+    "bathroom",
+    "living room"
+   ],
+   "bà = grandmother."
+  ],
+  [
+   "\"Gia đình\" trong tiếng Anh là:",
+   [
+    "family",
+    "house",
+    "grandfather",
+    "bathroom"
+   ],
+   "gia đình = family."
+  ],
+  [
+   "\"Phòng tắm\" trong tiếng Anh là:",
+   [
+    "bathroom",
+    "brother",
+    "family",
+    "house"
+   ],
+   "phòng tắm = bathroom."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: anh/em trai)",
+   [
+    "brother",
+    "brotehr",
+    "bother",
+    "brohter"
+   ],
+   "Viết đúng là brother."
+  ],
+  [
+   "'Where is the cat?' – 'It's in the ___.' (bếp)",
+   [
+    "kitchen",
+    "garden",
+    "bathroom",
+    "bedroom"
+   ],
+   "kitchen = nhà bếp."
+  ],
+  [
+   "'baby' nghĩa là:",
+   [
+    "em bé",
+    "cái bàn",
+    "khu vườn",
+    "bố"
+   ],
+   "baby = em bé."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: bà)",
+   [
+    "grandmother",
+    "grandmothher",
+    "grandmothur",
+    "grandmmother"
+   ],
+   "Viết đúng là grandmother."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: ngôi nhà)",
+   [
+    "house",
+    "houes",
+    "hosue",
+    "hoouse"
+   ],
+   "Viết đúng là house."
+  ],
+  [
+   "\"Mẹ\" trong tiếng Anh là:",
+   [
+    "mother",
+    "house",
+    "grandfather",
+    "grandmother"
+   ],
+   "mẹ = mother."
+  ],
+  [
+   "\"Phòng khách\" trong tiếng Anh là:",
+   [
+    "living room",
+    "kitchen",
+    "garden",
+    "mother"
+   ],
+   "phòng khách = living room."
+  ],
+  [
+   "'fridge' nghĩa là:",
+   [
+    "tủ lạnh",
+    "gia đình",
+    "phòng tắm",
+    "chị/em gái"
+   ],
+   "fridge = tủ lạnh."
+  ],
+  [
+   "'grandfather' nghĩa là:",
+   [
+    "ông",
+    "nhà bếp",
+    "tủ lạnh",
+    "cái bàn"
+   ],
+   "grandfather = ông."
+  ],
+  [
+   "\"Đồng hồ\" trong tiếng Anh là:",
+   [
+    "clock",
+    "father",
+    "bed",
+    "kitchen"
+   ],
+   "đồng hồ = clock."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: nhà bếp)",
+   [
+    "kitchen",
+    "kitcen",
+    "kitchon",
+    "katchen"
+   ],
+   "Viết đúng là kitchen."
+  ],
+  [
+   "'father' nghĩa là:",
+   [
+    "bố",
+    "khu vườn",
+    "phòng ngủ",
+    "em bé"
+   ],
+   "father = bố."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: đồng hồ)",
+   [
+    "clock",
+    "cloock",
+    "cluck",
+    "clcok"
+   ],
+   "Viết đúng là clock."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: tủ lạnh)",
+   [
+    "fridge",
+    "frige",
+    "friidge",
+    "frodge"
+   ],
+   "Viết đúng là fridge."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cái bàn)",
+   [
+    "table",
+    "tuble",
+    "taable",
+    "tbale"
+   ],
+   "Viết đúng là table."
+  ],
+  [
+   "'mother' nghĩa là:",
+   [
+    "mẹ",
+    "nhà bếp",
+    "cái bàn",
+    "em bé"
+   ],
+   "mother = mẹ."
+  ],
+  [
+   "\"Cái giường\" trong tiếng Anh là:",
+   [
+    "bed",
+    "sofa",
+    "sister",
+    "grandfather"
+   ],
+   "cái giường = bed."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cái đèn)",
+   [
+    "lamp",
+    "lmp",
+    "lmap",
+    "lump"
+   ],
+   "Viết đúng là lamp."
+  ]
+ ],
+ "c3": [
+  [
+   "'circle' là hình gì?",
+   [
+    "Hình tròn",
+    "Hình vuông",
+    "Hình tam giác",
+    "Hình chữ nhật"
+   ],
+   "circle = hình tròn."
+  ],
+  [
+   "'square' là hình gì?",
+   [
+    "Hình vuông",
+    "Hình tròn",
+    "Ngôi sao",
+    "Trái tim"
+   ],
+   "square = hình vuông."
+  ],
+  [
+   "'triangle' là hình gì?",
+   [
+    "Hình tam giác",
+    "Hình vuông",
+    "Hình tròn",
+    "Hình thoi"
+   ],
+   "triangle = tam giác."
+  ],
+  [
+   "Số 12 tiếng Anh là:",
+   [
+    "twelve",
+    "twenty",
+    "eleven",
+    "two"
+   ],
+   "12 = twelve."
+  ],
+  [
+   "Số 20 tiếng Anh là:",
+   [
+    "twenty",
+    "twelve",
+    "two",
+    "thirty"
+   ],
+   "20 = twenty."
+  ],
+  [
+   "'fifteen' là số mấy?",
+   [
+    "15",
+    "50",
+    "5",
+    "16"
+   ],
+   "fifteen = 15."
+  ],
+  [
+   "Màu hồng tiếng Anh là:",
+   [
+    "pink",
+    "purple",
+    "brown",
+    "grey"
+   ],
+   "pink = hồng."
+  ],
+  [
+   "'How many cats?' – 'Three cats.' Có mấy con mèo?",
+   [
+    "3",
+    "2",
+    "4",
+    "13"
+   ],
+   "Three = 3."
+  ],
+  [
+   "Màu vàng trộn với màu xanh dương thành màu gì?",
+   [
+    "green",
+    "pink",
+    "purple",
+    "orange"
+   ],
+   "Vàng + xanh dương = xanh lá (green)."
+  ],
+  [
+   "'How many stars?' – 'Twelve.' Có bao nhiêu ngôi sao?",
+   [
+    "12",
+    "11",
+    "2",
+    "20"
+   ],
+   "twelve = 12."
+  ],
+  [
+   "Màu đỏ trộn với màu trắng thành màu gì?",
+   [
+    "pink",
+    "purple",
+    "brown",
+    "orange"
+   ],
+   "Đỏ + trắng = hồng (pink)."
+  ],
+  [
+   "ten + five = ?",
+   [
+    "fifteen",
+    "fifty",
+    "sixteen",
+    "fourteen"
+   ],
+   "10 + 5 = 15 = fifteen."
+  ],
+  [
+   "'circle' nghĩa là:",
+   [
+    "hình tròn",
+    "ngôi sao",
+    "màu hồng",
+    "màu trắng"
+   ],
+   "circle = hình tròn."
+  ],
+  [
+   "\"Số 20\" trong tiếng Anh là:",
+   [
+    "twenty",
+    "circle",
+    "star",
+    "eighteen"
+   ],
+   "số 20 = twenty."
+  ],
+  [
+   "'eighteen' nghĩa là:",
+   [
+    "số 18",
+    "hình tròn",
+    "ngôi sao",
+    "số 17"
+   ],
+   "eighteen = số 18."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: hình vuông)",
+   [
+    "square",
+    "squaru",
+    "squarre",
+    "squrae"
+   ],
+   "Viết đúng là square."
+  ],
+  [
+   "\"Trái tim\" trong tiếng Anh là:",
+   [
+    "heart",
+    "yellow",
+    "purple",
+    "twenty"
+   ],
+   "trái tim = heart."
+  ],
+  [
+   "'What colour is it?' – 'It's ___.' (màu xanh lá)",
+   [
+    "green",
+    "grey",
+    "blue",
+    "brown"
+   ],
+   "green = xanh lá."
+  ],
+  [
+   "twenty − two = ?",
+   [
+    "eighteen",
+    "eighty",
+    "nineteen",
+    "twelve"
+   ],
+   "20 − 2 = 18 = eighteen."
+  ],
+  [
+   "'purple' nghĩa là:",
+   [
+    "màu tím",
+    "màu trắng",
+    "số 16",
+    "số 11"
+   ],
+   "purple = màu tím."
+  ],
+  [
+   "\"Hình vuông\" trong tiếng Anh là:",
+   [
+    "square",
+    "nineteen",
+    "purple",
+    "heart"
+   ],
+   "hình vuông = square."
+  ],
+  [
+   "\"Màu đỏ\" trong tiếng Anh là:",
+   [
+    "red",
+    "square",
+    "twenty",
+    "blue"
+   ],
+   "màu đỏ = red."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: hình tròn)",
+   [
+    "circle",
+    "circe",
+    "circlo",
+    "circlle"
+   ],
+   "Viết đúng là circle."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: trái tim)",
+   [
+    "heart",
+    "heirt",
+    "heatr",
+    "haert"
+   ],
+   "Viết đúng là heart."
+  ],
+  [
+   "'yellow' nghĩa là:",
+   [
+    "màu vàng",
+    "số 17",
+    "số 19",
+    "màu đỏ"
+   ],
+   "yellow = màu vàng."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: số 18)",
+   [
+    "eighteen",
+    "eihgteen",
+    "eightteen",
+    "eigheten"
+   ],
+   "Viết đúng là eighteen."
+  ],
+  [
+   "\"Ngôi sao\" trong tiếng Anh là:",
+   [
+    "star",
+    "blue",
+    "fifteen",
+    "brown"
+   ],
+   "ngôi sao = star."
+  ],
+  [
+   "\"Số 15\" trong tiếng Anh là:",
+   [
+    "fifteen",
+    "thirteen",
+    "heart",
+    "black"
+   ],
+   "số 15 = fifteen."
+  ],
+  [
+   "\"Màu trắng\" trong tiếng Anh là:",
+   [
+    "white",
+    "fifteen",
+    "twelve",
+    "heart"
+   ],
+   "màu trắng = white."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: ngôi sao)",
+   [
+    "star",
+    "sar",
+    "staar",
+    "stra"
+   ],
+   "Viết đúng là star."
+  ],
+  [
+   "'green' nghĩa là:",
+   [
+    "màu xanh lá",
+    "hình vuông",
+    "số 17",
+    "hình tam giác"
+   ],
+   "green = màu xanh lá."
+  ],
+  [
+   "\"Hình chữ nhật\" trong tiếng Anh là:",
+   [
+    "rectangle",
+    "green",
+    "brown",
+    "red"
+   ],
+   "hình chữ nhật = rectangle."
+  ],
+  [
+   "'twenty' nghĩa là:",
+   [
+    "số 20",
+    "màu tím",
+    "số 17",
+    "số 12"
+   ],
+   "twenty = số 20."
+  ],
+  [
+   "\"Số 18\" trong tiếng Anh là:",
+   [
+    "eighteen",
+    "star",
+    "orange",
+    "fifteen"
+   ],
+   "số 18 = eighteen."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: số 19)",
+   [
+    "nineteen",
+    "ninetteen",
+    "ninuteen",
+    "ninteeen"
+   ],
+   "Viết đúng là nineteen."
+  ],
+  [
+   "\"Số 14\" trong tiếng Anh là:",
+   [
+    "fourteen",
+    "star",
+    "triangle",
+    "sixteen"
+   ],
+   "số 14 = fourteen."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: số 12)",
+   [
+    "twelve",
+    "twelva",
+    "tweelve",
+    "twlve"
+   ],
+   "Viết đúng là twelve."
+  ],
+  [
+   "\"Số 13\" trong tiếng Anh là:",
+   [
+    "thirteen",
+    "twelve",
+    "black",
+    "green"
+   ],
+   "số 13 = thirteen."
+  ],
+  [
+   "\"Hình tròn\" trong tiếng Anh là:",
+   [
+    "circle",
+    "square",
+    "sixteen",
+    "blue"
+   ],
+   "hình tròn = circle."
+  ],
+  [
+   "\"Số 16\" trong tiếng Anh là:",
+   [
+    "sixteen",
+    "blue",
+    "eleven",
+    "triangle"
+   ],
+   "số 16 = sixteen."
+  ]
+ ],
+ "c4": [
+  [
+   "'bread' nghĩa là:",
+   [
+    "Bánh mì",
+    "Cơm",
+    "Sữa",
+    "Trứng"
+   ],
+   "bread = bánh mì."
+  ],
+  [
+   "'rice' nghĩa là:",
+   [
+    "Cơm, gạo",
+    "Bánh mì",
+    "Mì",
+    "Rau"
+   ],
+   "rice = cơm/gạo."
+  ],
+  [
+   "'water' nghĩa là:",
+   [
+    "Nước",
+    "Sữa",
+    "Nước cam",
+    "Trà"
+   ],
+   "water = nước."
+  ],
+  [
+   "'egg' nghĩa là:",
+   [
+    "Quả trứng",
+    "Quả táo",
+    "Con gà",
+    "Bánh"
+   ],
+   "egg = trứng."
+  ],
+  [
+   "'I'm hungry.' nghĩa là:",
+   [
+    "Tớ đói.",
+    "Tớ khát.",
+    "Tớ no.",
+    "Tớ mệt."
+   ],
+   "hungry = đói."
+  ],
+  [
+   "'I'm thirsty.' nghĩa là:",
+   [
+    "Tớ khát.",
+    "Tớ đói.",
+    "Tớ buồn ngủ.",
+    "Tớ vui."
+   ],
+   "thirsty = khát."
+  ],
+  [
+   "Kem tiếng Anh là:",
+   [
+    "ice cream",
+    "cake",
+    "candy",
+    "juice"
+   ],
+   "ice cream = kem."
+  ],
+  [
+   "'Would you like some juice?' nghĩa là:",
+   [
+    "Bạn có muốn uống nước ép không?",
+    "Bạn thích ăn gì?",
+    "Bạn có đói không?",
+    "Bạn uống sữa chưa?"
+   ],
+   "juice = nước ép."
+  ],
+  [
+   "Thứ nào là đồ uống?",
+   [
+    "juice",
+    "rice",
+    "egg",
+    "bread"
+   ],
+   "juice (nước ép) là đồ uống."
+  ],
+  [
+   "'Do you like bananas?' – 'Yes, I ___.'",
+   [
+    "do",
+    "like",
+    "is",
+    "am"
+   ],
+   "Trả lời câu hỏi Do you...? bằng Yes, I do."
+  ],
+  [
+   "'Would you like some cake?' – '___, please.'",
+   [
+    "Yes",
+    "No",
+    "Bye",
+    "Hello"
+   ],
+   "Đồng ý thì nói Yes, please."
+  ],
+  [
+   "'juice' nghĩa là:",
+   [
+    "nước ép",
+    "kem",
+    "thịt gà",
+    "kẹo"
+   ],
+   "juice = nước ép."
+  ],
+  [
+   "'carrot' nghĩa là:",
+   [
+    "cà rốt",
+    "quả táo",
+    "mì, bún",
+    "súp, canh"
+   ],
+   "carrot = cà rốt."
+  ],
+  [
+   "'fish' nghĩa là:",
+   [
+    "cá",
+    "quả nho",
+    "súp, canh",
+    "nước ép"
+   ],
+   "fish = cá."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: mì, bún)",
+   [
+    "noodles",
+    "noedles",
+    "nooldes",
+    "noodlas"
+   ],
+   "Viết đúng là noodles."
+  ],
+  [
+   "\"Quả cam\" trong tiếng Anh là:",
+   [
+    "orange",
+    "bread",
+    "ice cream",
+    "tea"
+   ],
+   "quả cam = orange."
+  ],
+  [
+   "\"Nước\" trong tiếng Anh là:",
+   [
+    "water",
+    "tea",
+    "apple",
+    "banana"
+   ],
+   "nước = water."
+  ],
+  [
+   "\"Thịt\" trong tiếng Anh là:",
+   [
+    "meat",
+    "cake",
+    "ice cream",
+    "juice"
+   ],
+   "thịt = meat."
+  ],
+  [
+   "\"Bánh mì\" trong tiếng Anh là:",
+   [
+    "bread",
+    "water",
+    "chicken",
+    "ice cream"
+   ],
+   "bánh mì = bread."
+  ],
+  [
+   "\"Kem\" trong tiếng Anh là:",
+   [
+    "ice cream",
+    "egg",
+    "bread",
+    "water"
+   ],
+   "kem = ice cream."
+  ],
+  [
+   "'apple' nghĩa là:",
+   [
+    "quả táo",
+    "quả cam",
+    "quả trứng",
+    "quả chuối"
+   ],
+   "apple = quả táo."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cá)",
+   [
+    "fish",
+    "fihs",
+    "fiish",
+    "fsh"
+   ],
+   "Viết đúng là fish."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: quả táo)",
+   [
+    "apple",
+    "appel",
+    "appple",
+    "applle"
+   ],
+   "Viết đúng là apple."
+  ],
+  [
+   "'What do you want?' – 'I want some ___.' (sữa)",
+   [
+    "milk",
+    "mango",
+    "money",
+    "meat"
+   ],
+   "milk = sữa."
+  ],
+  [
+   "'milk' nghĩa là:",
+   [
+    "sữa",
+    "quả cam",
+    "quả táo",
+    "cơm, gạo"
+   ],
+   "milk = sữa."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: sữa)",
+   [
+    "milk",
+    "mulk",
+    "molk",
+    "millk"
+   ],
+   "Viết đúng là milk."
+  ],
+  [
+   "'candy' nghĩa là:",
+   [
+    "kẹo",
+    "quả cam",
+    "quả nho",
+    "nước"
+   ],
+   "candy = kẹo."
+  ],
+  [
+   "'soup' nghĩa là:",
+   [
+    "súp, canh",
+    "mì, bún",
+    "bánh ngọt",
+    "sữa"
+   ],
+   "soup = súp, canh."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: thịt)",
+   [
+    "meat",
+    "met",
+    "moat",
+    "miat"
+   ],
+   "Viết đúng là meat."
+  ],
+  [
+   "\"Mì, bún\" trong tiếng Anh là:",
+   [
+    "noodles",
+    "water",
+    "chicken",
+    "meat"
+   ],
+   "mì, bún = noodles."
+  ],
+  [
+   "\"Nước ép\" trong tiếng Anh là:",
+   [
+    "juice",
+    "cake",
+    "apple",
+    "noodles"
+   ],
+   "nước ép = juice."
+  ],
+  [
+   "'chicken' nghĩa là:",
+   [
+    "thịt gà",
+    "bánh ngọt",
+    "kẹo",
+    "quả cam"
+   ],
+   "chicken = thịt gà."
+  ],
+  [
+   "\"Súp, canh\" trong tiếng Anh là:",
+   [
+    "soup",
+    "rice",
+    "banana",
+    "cake"
+   ],
+   "súp, canh = soup."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: súp, canh)",
+   [
+    "soup",
+    "souup",
+    "suup",
+    "suop"
+   ],
+   "Viết đúng là soup."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: kẹo)",
+   [
+    "candy",
+    "cady",
+    "canndy",
+    "condy"
+   ],
+   "Viết đúng là candy."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: quả cam)",
+   [
+    "orange",
+    "orunge",
+    "oraange",
+    "ornage"
+   ],
+   "Viết đúng là orange."
+  ],
+  [
+   "'noodles' nghĩa là:",
+   [
+    "mì, bún",
+    "bánh ngọt",
+    "quả cam",
+    "sữa"
+   ],
+   "noodles = mì, bún."
+  ],
+  [
+   "\"Quả chuối\" trong tiếng Anh là:",
+   [
+    "banana",
+    "grapes",
+    "fish",
+    "chicken"
+   ],
+   "quả chuối = banana."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cà rốt)",
+   [
+    "carrot",
+    "carot",
+    "crarot",
+    "carrut"
+   ],
+   "Viết đúng là carrot."
+  ],
+  [
+   "\"Thịt gà\" trong tiếng Anh là:",
+   [
+    "chicken",
+    "milk",
+    "orange",
+    "rice"
+   ],
+   "thịt gà = chicken."
+  ]
+ ],
+ "c5": [
+  [
+   "'tiger' là con gì?",
+   [
+    "Con hổ",
+    "Con sư tử",
+    "Con báo",
+    "Con gấu"
+   ],
+   "tiger = hổ."
+  ],
+  [
+   "'lion' là con gì?",
+   [
+    "Con sư tử",
+    "Con hổ",
+    "Con khỉ",
+    "Con voi"
+   ],
+   "lion = sư tử."
+  ],
+  [
+   "'tree' nghĩa là:",
+   [
+    "Cái cây",
+    "Số ba",
+    "Bông hoa",
+    "Hòn đá"
+   ],
+   "tree = cây."
+  ],
+  [
+   "'flower' nghĩa là:",
+   [
+    "Bông hoa",
+    "Cái lá",
+    "Ngọn núi",
+    "Dòng sông"
+   ],
+   "flower = hoa."
+  ],
+  [
+   "'rabbit' là con gì?",
+   [
+    "Con thỏ",
+    "Con chuột",
+    "Con ếch",
+    "Con rùa"
+   ],
+   "rabbit = thỏ."
+  ],
+  [
+   "Con bò tiếng Anh là:",
+   [
+    "cow",
+    "pig",
+    "goat",
+    "sheep"
+   ],
+   "cow = bò."
+  ],
+  [
+   "'sun' nghĩa là:",
+   [
+    "Mặt trời",
+    "Mặt trăng",
+    "Ngôi sao",
+    "Đám mây"
+   ],
+   "sun = mặt trời."
+  ],
+  [
+   "'The giraffe is tall.' nghĩa là:",
+   [
+    "Con hươu cao cổ thì cao.",
+    "Con hươu cao cổ thì nhỏ.",
+    "Con voi thì to.",
+    "Con hươu chạy nhanh."
+   ],
+   "giraffe = hươu cao cổ, tall = cao."
+  ],
+  [
+   "'What animal is it?' – 'It's a ___.' (con khỉ)",
+   [
+    "monkey",
+    "monster",
+    "mouse",
+    "money"
+   ],
+   "monkey = con khỉ."
+  ],
+  [
+   "Con vật nào có cổ rất dài?",
+   [
+    "giraffe",
+    "frog",
+    "duck",
+    "elephant"
+   ],
+   "Hươu cao cổ (giraffe) có cổ dài."
+  ],
+  [
+   "'The rabbit can jump.' nghĩa là:",
+   [
+    "Con thỏ có thể nhảy.",
+    "Con thỏ có thể bơi.",
+    "Con thỏ đang ngủ.",
+    "Con thỏ không thể nhảy."
+   ],
+   "jump = nhảy."
+  ],
+  [
+   "Con vật nào biết bay?",
+   [
+    "bird",
+    "fish",
+    "cow",
+    "pig"
+   ],
+   "bird = chim, biết bay."
+  ],
+  [
+   "'tiger' nghĩa là:",
+   [
+    "con hổ",
+    "con vịt",
+    "bông hoa",
+    "con cá"
+   ],
+   "tiger = con hổ."
+  ],
+  [
+   "'moon' nghĩa là:",
+   [
+    "mặt trăng",
+    "con khỉ",
+    "con ếch",
+    "con voi"
+   ],
+   "moon = mặt trăng."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con chim)",
+   [
+    "bird",
+    "berd",
+    "birrd",
+    "burd"
+   ],
+   "Viết đúng là bird."
+  ],
+  [
+   "Con vật nào có cái vòi dài?",
+   [
+    "elephant",
+    "giraffe",
+    "monkey",
+    "tiger"
+   ],
+   "Voi (elephant) có vòi dài."
+  ],
+  [
+   "'duck' nghĩa là:",
+   [
+    "con vịt",
+    "con khỉ",
+    "bông hoa",
+    "ngọn núi"
+   ],
+   "duck = con vịt."
+  ],
+  [
+   "Con vật nào sống dưới nước?",
+   [
+    "fish",
+    "lion",
+    "rabbit",
+    "horse"
+   ],
+   "fish = cá."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con thỏ)",
+   [
+    "rabbit",
+    "ribbit",
+    "rabibt",
+    "rabbat"
+   ],
+   "Viết đúng là rabbit."
+  ],
+  [
+   "\"Dòng sông\" trong tiếng Anh là:",
+   [
+    "river",
+    "sun",
+    "lion",
+    "cat"
+   ],
+   "dòng sông = river."
+  ],
+  [
+   "'rabbit' nghĩa là:",
+   [
+    "con thỏ",
+    "con lợn",
+    "ngọn núi",
+    "con mèo"
+   ],
+   "rabbit = con thỏ."
+  ],
+  [
+   "\"Con thỏ\" trong tiếng Anh là:",
+   [
+    "rabbit",
+    "cat",
+    "flower",
+    "fish"
+   ],
+   "con thỏ = rabbit."
+  ],
+  [
+   "\"Con lợn\" trong tiếng Anh là:",
+   [
+    "pig",
+    "sky",
+    "river",
+    "cat"
+   ],
+   "con lợn = pig."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con voi)",
+   [
+    "elephant",
+    "eliphant",
+    "elaphant",
+    "elephat"
+   ],
+   "Viết đúng là elephant."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con hổ)",
+   [
+    "tiger",
+    "tuger",
+    "tigeer",
+    "tigr"
+   ],
+   "Viết đúng là tiger."
+  ],
+  [
+   "'bird' nghĩa là:",
+   [
+    "con chim",
+    "con chó",
+    "con vịt",
+    "mặt trăng"
+   ],
+   "bird = con chim."
+  ],
+  [
+   "\"Con voi\" trong tiếng Anh là:",
+   [
+    "elephant",
+    "tiger",
+    "lion",
+    "dog"
+   ],
+   "con voi = elephant."
+  ],
+  [
+   "'lion' nghĩa là:",
+   [
+    "con sư tử",
+    "con bò",
+    "con chim",
+    "con lợn"
+   ],
+   "lion = con sư tử."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con sư tử)",
+   [
+    "lion",
+    "lioon",
+    "lino",
+    "lin"
+   ],
+   "Viết đúng là lion."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con khỉ)",
+   [
+    "monkey",
+    "mokey",
+    "moonkey",
+    "moneky"
+   ],
+   "Viết đúng là monkey."
+  ],
+  [
+   "'horse' nghĩa là:",
+   [
+    "con ngựa",
+    "con chó",
+    "ngọn núi",
+    "con lợn"
+   ],
+   "horse = con ngựa."
+  ],
+  [
+   "'cat' nghĩa là:",
+   [
+    "con mèo",
+    "ngọn núi",
+    "con ngựa",
+    "bông hoa"
+   ],
+   "cat = con mèo."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con ếch)",
+   [
+    "frog",
+    "frgo",
+    "frag",
+    "froog"
+   ],
+   "Viết đúng là frog."
+  ],
+  [
+   "\"Con sư tử\" trong tiếng Anh là:",
+   [
+    "lion",
+    "moon",
+    "duck",
+    "monkey"
+   ],
+   "con sư tử = lion."
+  ],
+  [
+   "'sky' nghĩa là:",
+   [
+    "bầu trời",
+    "con thỏ",
+    "con mèo",
+    "con hổ"
+   ],
+   "sky = bầu trời."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: con vịt)",
+   [
+    "duck",
+    "dack",
+    "duuck",
+    "dock"
+   ],
+   "Viết đúng là duck."
+  ],
+  [
+   "'giraffe' nghĩa là:",
+   [
+    "con hươu cao cổ",
+    "con sư tử",
+    "ngọn núi",
+    "mặt trăng"
+   ],
+   "giraffe = con hươu cao cổ."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: cái cây)",
+   [
+    "tree",
+    "true",
+    "tere",
+    "treee"
+   ],
+   "Viết đúng là tree."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: mặt trăng)",
+   [
+    "moon",
+    "muon",
+    "mooon",
+    "moun"
+   ],
+   "Viết đúng là moon."
+  ],
+  [
+   "\"Bông hoa\" trong tiếng Anh là:",
+   [
+    "flower",
+    "pig",
+    "giraffe",
+    "river"
+   ],
+   "bông hoa = flower."
+  ]
+ ],
+ "c6": [
+  [
+   "'run' nghĩa là:",
+   [
+    "Chạy",
+    "Nhảy",
+    "Bơi",
+    "Đi bộ"
+   ],
+   "run = chạy."
+  ],
+  [
+   "'swim' nghĩa là:",
+   [
+    "Bơi",
+    "Bay",
+    "Hát",
+    "Múa"
+   ],
+   "swim = bơi."
+  ],
+  [
+   "'sing' nghĩa là:",
+   [
+    "Hát",
+    "Nhảy múa",
+    "Vẽ",
+    "Đọc"
+   ],
+   "sing = hát."
+  ],
+  [
+   "'It's sunny.' nghĩa là:",
+   [
+    "Trời nắng.",
+    "Trời mưa.",
+    "Trời lạnh.",
+    "Trời có gió."
+   ],
+   "sunny = nắng."
+  ],
+  [
+   "'It's rainy.' nghĩa là:",
+   [
+    "Trời mưa.",
+    "Trời nắng.",
+    "Trời có tuyết.",
+    "Trời nóng."
+   ],
+   "rainy = có mưa."
+  ],
+  [
+   "'I can jump.' nghĩa là:",
+   [
+    "Tớ có thể nhảy.",
+    "Tớ không thể nhảy.",
+    "Tớ thích chạy.",
+    "Tớ đang ngủ."
+   ],
+   "can = có thể, jump = nhảy."
+  ],
+  [
+   "'cold' nghĩa là:",
+   [
+    "Lạnh",
+    "Nóng",
+    "Ấm",
+    "Mát"
+   ],
+   "cold = lạnh."
+  ],
+  [
+   "'draw' nghĩa là:",
+   [
+    "Vẽ",
+    "Viết",
+    "Đọc",
+    "Nghe"
+   ],
+   "draw = vẽ."
+  ],
+  [
+   "Trời có tuyết thì thời tiết thế nào?",
+   [
+    "cold",
+    "sunny",
+    "warm",
+    "hot"
+   ],
+   "Có tuyết thì trời lạnh (cold)."
+  ],
+  [
+   "Khi trời mưa, em cần mang:",
+   [
+    "umbrella",
+    "ball",
+    "kite",
+    "sunglasses"
+   ],
+   "umbrella = cái ô."
+  ],
+  [
+   "'Let's play football!' nghĩa là:",
+   [
+    "Chúng mình cùng chơi bóng đá nào!",
+    "Tớ không thích bóng đá.",
+    "Bóng đá ở đâu?",
+    "Bạn có đá bóng không?"
+   ],
+   "Let's = chúng mình cùng..."
+  ],
+  [
+   "'What's the weather like?' – 'It's ___.' (trời mưa)",
+   [
+    "rainy",
+    "sunny",
+    "snowy",
+    "windy"
+   ],
+   "rainy = có mưa."
+  ],
+  [
+   "'play' nghĩa là:",
+   [
+    "chơi",
+    "trời nắng",
+    "bơi",
+    "nhiều mây"
+   ],
+   "play = chơi."
+  ],
+  [
+   "'walk' nghĩa là:",
+   [
+    "đi bộ",
+    "trời nắng",
+    "vẽ",
+    "ấm áp"
+   ],
+   "walk = đi bộ."
+  ],
+  [
+   "'Can you swim?' – 'Yes, I ___.'",
+   [
+    "can",
+    "am",
+    "do",
+    "can't"
+   ],
+   "Trả lời khẳng định: Yes, I can."
+  ],
+  [
+   "'hot' nghĩa là:",
+   [
+    "nóng",
+    "trời mưa",
+    "bơi",
+    "lạnh"
+   ],
+   "hot = nóng."
+  ],
+  [
+   "'dance' nghĩa là:",
+   [
+    "nhảy múa",
+    "có tuyết",
+    "lạnh",
+    "đi bộ"
+   ],
+   "dance = nhảy múa."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: hát)",
+   [
+    "sing",
+    "seng",
+    "sign",
+    "sang"
+   ],
+   "Viết đúng là sing."
+  ],
+  [
+   "\"Có gió\" trong tiếng Anh là:",
+   [
+    "windy",
+    "run",
+    "sunny",
+    "fly"
+   ],
+   "có gió = windy."
+  ],
+  [
+   "\"Chơi\" trong tiếng Anh là:",
+   [
+    "play",
+    "fly",
+    "rainy",
+    "cloudy"
+   ],
+   "chơi = play."
+  ],
+  [
+   "\"Đọc\" trong tiếng Anh là:",
+   [
+    "read",
+    "climb",
+    "sunny",
+    "walk"
+   ],
+   "đọc = read."
+  ],
+  [
+   "\"Chạy\" trong tiếng Anh là:",
+   [
+    "run",
+    "play",
+    "draw",
+    "sunny"
+   ],
+   "chạy = run."
+  ],
+  [
+   "\"Trời nắng\" trong tiếng Anh là:",
+   [
+    "sunny",
+    "sing",
+    "run",
+    "play"
+   ],
+   "trời nắng = sunny."
+  ],
+  [
+   "'rainy' nghĩa là:",
+   [
+    "trời mưa",
+    "có gió",
+    "hát",
+    "nhiều mây"
+   ],
+   "rainy = trời mưa."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: nhảy múa)",
+   [
+    "dance",
+    "danec",
+    "dnce",
+    "dacne"
+   ],
+   "Viết đúng là dance."
+  ],
+  [
+   "'fly' nghĩa là:",
+   [
+    "bay",
+    "nhiều mây",
+    "đọc",
+    "ấm áp"
+   ],
+   "fly = bay."
+  ],
+  [
+   "'I can't fly.' nghĩa là:",
+   [
+    "Tớ không thể bay.",
+    "Tớ thích bay.",
+    "Tớ đang bay.",
+    "Tớ có thể bay."
+   ],
+   "can't = không thể."
+  ],
+  [
+   "'write' nghĩa là:",
+   [
+    "viết",
+    "có gió",
+    "trời mưa",
+    "nhảy"
+   ],
+   "write = viết."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: viết)",
+   [
+    "write",
+    "writte",
+    "writu",
+    "wriite"
+   ],
+   "Viết đúng là write."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: đi bộ)",
+   [
+    "walk",
+    "wakl",
+    "wlak",
+    "waalk"
+   ],
+   "Viết đúng là walk."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: đọc)",
+   [
+    "read",
+    "red",
+    "road",
+    "riad"
+   ],
+   "Viết đúng là read."
+  ],
+  [
+   "\"Bơi\" trong tiếng Anh là:",
+   [
+    "swim",
+    "play",
+    "draw",
+    "read"
+   ],
+   "bơi = swim."
+  ],
+  [
+   "\"Đi bộ\" trong tiếng Anh là:",
+   [
+    "walk",
+    "climb",
+    "rainy",
+    "swim"
+   ],
+   "đi bộ = walk."
+  ],
+  [
+   "'warm' nghĩa là:",
+   [
+    "ấm áp",
+    "chạy",
+    "trời nắng",
+    "nhảy múa"
+   ],
+   "warm = ấm áp."
+  ],
+  [
+   "\"Lạnh\" trong tiếng Anh là:",
+   [
+    "cold",
+    "jump",
+    "cloudy",
+    "climb"
+   ],
+   "lạnh = cold."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: trời nắng)",
+   [
+    "sunny",
+    "suny",
+    "sinny",
+    "sanny"
+   ],
+   "Viết đúng là sunny."
+  ],
+  [
+   "'jump' nghĩa là:",
+   [
+    "nhảy",
+    "trời mưa",
+    "bay",
+    "viết"
+   ],
+   "jump = nhảy."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: lạnh)",
+   [
+    "cold",
+    "colld",
+    "culd",
+    "clod"
+   ],
+   "Viết đúng là cold."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: ấm áp)",
+   [
+    "warm",
+    "wam",
+    "waarm",
+    "worm"
+   ],
+   "Viết đúng là warm."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: nhiều mây)",
+   [
+    "cloudy",
+    "cluudy",
+    "clooudy",
+    "cluody"
+   ],
+   "Viết đúng là cloudy."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "'Good night' nói khi nào?",
+   [
+    "Khi đi ngủ buổi tối",
+    "Buổi sáng",
+    "Buổi trưa",
+    "Khi gặp nhau buổi sáng"
+   ],
+   "Good night = chúc ngủ ngon."
+  ],
+  [
+   "'eleven' là số mấy?",
+   [
+    "11",
+    "7",
+    "12",
+    "17"
+   ],
+   "eleven = 11."
+  ],
+  [
+   "'bathroom' nghĩa là:",
+   [
+    "Phòng tắm",
+    "Phòng ngủ",
+    "Nhà bếp",
+    "Phòng khách"
+   ],
+   "bath = tắm."
+  ],
+  [
+   "'I can't fly.' nghĩa là:",
+   [
+    "Tớ không thể bay.",
+    "Tớ có thể bay.",
+    "Tớ thích bay.",
+    "Tớ bay rồi."
+   ],
+   "can't = không thể."
+  ],
+  [
+   "'hot' nghĩa là:",
+   [
+    "Nóng",
+    "Lạnh",
+    "Mưa",
+    "Gió"
+   ],
+   "hot = nóng."
+  ],
+  [
+   "'chicken' nghĩa là:",
+   [
+    "Con gà / thịt gà",
+    "Con vịt",
+    "Con cá",
+    "Quả trứng"
+   ],
+   "chicken = gà."
+  ],
+  [
+   "'rectangle' là hình gì?",
+   [
+    "Hình chữ nhật",
+    "Hình vuông",
+    "Hình tròn",
+    "Hình tam giác"
+   ],
+   "rectangle = hình chữ nhật."
+  ],
+  [
+   "'Who is she?' – 'She is my ___.' (bà)",
+   [
+    "grandmother",
+    "brother",
+    "father",
+    "grandfather"
+   ],
+   "grandmother = bà; she dùng cho nữ."
+  ],
+  [
+   "'Is this your pen?' – 'Yes, it ___.'",
+   [
+    "is",
+    "are",
+    "isn't",
+    "am"
+   ],
+   "Trả lời khẳng định: Yes, it is."
+  ],
+  [
+   "'What do you want?' – 'I want some ___.' (sữa)",
+   [
+    "milk",
+    "money",
+    "meat",
+    "mango"
+   ],
+   "milk = sữa."
+  ],
+  [
+   "'I'm hungry.' nghĩa là:",
+   [
+    "Tớ đói bụng.",
+    "Tớ no rồi.",
+    "Tớ buồn ngủ.",
+    "Tớ khát nước."
+   ],
+   "hungry = đói."
+  ],
+  [
+   "'What's the weather like?' – 'It's ___.' (trời mưa)",
+   [
+    "rainy",
+    "sunny",
+    "snowy",
+    "windy"
+   ],
+   "rainy = có mưa."
+  ],
+  [
+   "Thứ nào là đồ uống?",
+   [
+    "juice",
+    "bread",
+    "egg",
+    "rice"
+   ],
+   "juice (nước ép) là đồ uống."
+  ],
+  [
+   "'The rabbit can jump.' nghĩa là:",
+   [
+    "Con thỏ có thể nhảy.",
+    "Con thỏ không thể nhảy.",
+    "Con thỏ đang ngủ.",
+    "Con thỏ có thể bơi."
+   ],
+   "jump = nhảy."
+  ],
+  [
+   "Con vật nào có cổ rất dài?",
+   [
+    "giraffe",
+    "elephant",
+    "duck",
+    "frog"
+   ],
+   "Hươu cao cổ (giraffe) có cổ dài."
+  ],
+  [
+   "'How many stars?' – 'Twelve.' Có bao nhiêu ngôi sao?",
+   [
+    "12",
+    "11",
+    "20",
+    "2"
+   ],
+   "twelve = 12."
+  ],
+  [
+   "Con vật nào sống dưới nước?",
+   [
+    "fish",
+    "lion",
+    "horse",
+    "rabbit"
+   ],
+   "fish = cá."
+  ],
+  [
+   "'What's this?' – 'It's a ___.' (cái thước)",
+   [
+    "ruler",
+    "robot",
+    "rabbit",
+    "rubber"
+   ],
+   "ruler = cái thước."
+  ],
+  [
+   "'orange' nghĩa là:",
+   [
+    "màu cam",
+    "hình chữ nhật",
+    "màu xanh dương",
+    "màu nâu"
+   ],
+   "orange = màu cam."
+  ],
+  [
+   "'I love my family.' nghĩa là:",
+   [
+    "Tớ yêu gia đình tớ.",
+    "Tớ có gia đình.",
+    "Tớ giúp gia đình tớ.",
+    "Tớ nhớ gia đình tớ."
+   ],
+   "love = yêu."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: chơi)",
+   [
+    "play",
+    "pley",
+    "plya",
+    "pllay"
+   ],
+   "Viết đúng là play."
+  ],
+  [
+   "\"Cửa sổ\" trong tiếng Anh là:",
+   [
+    "window",
+    "library",
+    "chair",
+    "bag"
+   ],
+   "cửa sổ = window."
+  ],
+  [
+   "'Raise your hand.' nghĩa là:",
+   [
+    "Giơ tay lên.",
+    "Bỏ tay xuống.",
+    "Rửa tay.",
+    "Vỗ tay."
+   ],
+   "raise = giơ lên."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: thịt)",
+   [
+    "meat",
+    "mat",
+    "meaat",
+    "meeat"
+   ],
+   "Viết đúng là meat."
+  ],
+  [
+   "'bag' nghĩa là:",
+   [
+    "cặp sách",
+    "học sinh",
+    "cục tẩy",
+    "cái bảng"
+   ],
+   "bag = cặp sách."
+  ],
+  [
+   "'Open your book, please.' nghĩa là:",
+   [
+    "Hãy mở sách ra.",
+    "Hãy đọc to lên.",
+    "Hãy cất sách đi.",
+    "Hãy gấp sách lại."
+   ],
+   "open = mở."
+  ],
+  [
+   "Con vật nào có cái vòi dài?",
+   [
+    "elephant",
+    "monkey",
+    "tiger",
+    "giraffe"
+   ],
+   "Voi (elephant) có vòi dài."
+  ],
+  [
+   "'Can you swim?' – 'Yes, I ___.'",
+   [
+    "can",
+    "can't",
+    "am",
+    "do"
+   ],
+   "Trả lời khẳng định: Yes, I can."
+  ],
+  [
+   "'This is my house.' nghĩa là:",
+   [
+    "Đây là nhà của tớ.",
+    "Đây là trường của tớ.",
+    "Nhà tớ ở đâu?",
+    "Đây là phòng của tớ."
+   ],
+   "house = ngôi nhà."
+  ],
+  [
+   "'Close your book, please.' nghĩa là:",
+   [
+    "Hãy gấp sách lại.",
+    "Hãy mở sách ra.",
+    "Hãy ngồi xuống.",
+    "Hãy viết vào vở."
+   ],
+   "close = đóng, gấp lại."
+  ],
+  [
+   "'baby' nghĩa là:",
+   [
+    "em bé",
+    "khu vườn",
+    "đồng hồ",
+    "ông"
+   ],
+   "baby = em bé."
+  ],
+  [
+   "Trời có tuyết thì thời tiết thế nào?",
+   [
+    "cold",
+    "sunny",
+    "hot",
+    "warm"
+   ],
+   "Có tuyết thì trời lạnh (cold)."
+  ],
+  [
+   "'Would you like some cake?' – '___, please.'",
+   [
+    "Yes",
+    "Hello",
+    "No",
+    "Bye"
+   ],
+   "Đồng ý thì nói Yes, please."
+  ],
+  [
+   "Màu vàng trộn với màu xanh dương thành màu gì?",
+   [
+    "green",
+    "purple",
+    "pink",
+    "orange"
+   ],
+   "Vàng + xanh dương = xanh lá (green)."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả? (nghĩa: màu cam)",
+   [
+    "orange",
+    "orannge",
+    "oringe",
+    "ornage"
+   ],
+   "Viết đúng là orange."
+  ],
+  [
+   "Màu đỏ trộn với màu trắng thành màu gì?",
+   [
+    "pink",
+    "brown",
+    "purple",
+    "orange"
+   ],
+   "Đỏ + trắng = hồng (pink)."
+  ],
+  [
+   "\"Nhà bếp\" trong tiếng Anh là:",
+   [
+    "kitchen",
+    "bed",
+    "sister",
+    "table"
+   ],
+   "nhà bếp = kitchen."
+  ],
+  [
+   "\"Kẹo\" trong tiếng Anh là:",
+   [
+    "candy",
+    "chicken",
+    "water",
+    "bread"
+   ],
+   "kẹo = candy."
+  ],
+  [
+   "'duck' nghĩa là:",
+   [
+    "con vịt",
+    "bông hoa",
+    "ngọn núi",
+    "mặt trăng"
+   ],
+   "duck = con vịt."
+  ],
+  [
+   "Khi trời mưa, em cần mang:",
+   [
+    "umbrella",
+    "ball",
+    "kite",
+    "sunglasses"
+   ],
+   "umbrella = cái ô."
+  ]
+ ]
+}

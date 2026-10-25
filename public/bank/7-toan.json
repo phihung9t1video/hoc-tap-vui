@@ -1789,6 +1789,286 @@
     "24"
    ],
    "y = 20 : 4 = 5."
+  ],
+  [
+   "(1/2)⁵ : (1/2)³ = ?",
+   [
+    "1/4",
+    "1/8",
+    "1/2",
+    "1/16"
+   ],
+   "Chia hai lũy thừa cùng cơ số: (1/2)⁵⁻³ = (1/2)² = 1/4."
+  ],
+  [
+   "√0,49 = ?",
+   [
+    "0,7",
+    "0,07",
+    "7",
+    "0,49"
+   ],
+   "0,7² = 0,49 nên √0,49 = 0,7."
+  ],
+  [
+   "Hai góc kề bù có tổng số đo bằng:",
+   [
+    "180°",
+    "90°",
+    "360°",
+    "100°"
+   ],
+   "Hai góc kề bù có tổng bằng 180°."
+  ],
+  [
+   "Mỗi góc của tam giác đều bằng:",
+   [
+    "60°",
+    "90°",
+    "45°",
+    "180°"
+   ],
+   "Tam giác đều có ba góc bằng nhau: 180° : 3 = 60°."
+  ],
+  [
+   "Để thu thập ý kiến của cả lớp về món ăn yêu thích, cách hợp lí là:",
+   [
+    "Lập phiếu hỏi cho từng bạn",
+    "Đoán theo sở thích của mình",
+    "Chỉ hỏi bạn ngồi cạnh",
+    "Xem thực đơn của nhà ăn"
+   ],
+   "Phiếu hỏi giúp thu thập dữ liệu đầy đủ, chính xác."
+  ],
+  [
+   "Chia 60 viên bi cho hai bạn theo tỉ lệ 2 : 3. Bạn được ít hơn nhận:",
+   [
+    "24 viên",
+    "36 viên",
+    "20 viên",
+    "30 viên"
+   ],
+   "60 : (2 + 3) = 12; bạn ít hơn nhận 12 · 2 = 24 (viên)."
+  ],
+  [
+   "(3x − 2) − (x + 5) = ?",
+   [
+    "2x − 7",
+    "2x + 3",
+    "4x − 7",
+    "2x − 3"
+   ],
+   "3x − 2 − x − 5 = 2x − 7."
+  ],
+  [
+   "Biến cố \"Tháng 2 có 32 ngày\" là:",
+   [
+    "Biến cố không thể",
+    "Biến cố chắc chắn",
+    "Biến cố ngẫu nhiên",
+    "Có xác suất 1/2"
+   ],
+   "Tháng 2 có nhiều nhất 29 ngày."
+  ],
+  [
+   "Điểm cách đều ba đỉnh của tam giác là giao điểm của ba đường:",
+   [
+    "Trung trực",
+    "Trung tuyến",
+    "Phân giác",
+    "Cao"
+   ],
+   "Giao điểm ba đường trung trực cách đều ba đỉnh."
+  ],
+  [
+   "Lăng trụ đứng tứ giác có đáy là hình chữ nhật 3 cm × 4 cm, chiều cao 5 cm. Thể tích là:",
+   [
+    "60 cm³",
+    "35 cm³",
+    "70 cm³",
+    "12 cm³"
+   ],
+   "S_đáy = 12 cm²; V = 12 · 5 = 60 (cm³)."
+  ],
+  [
+   "Kết quả của 0,25 + 3/4 là:",
+   [
+    "1",
+    "0,28",
+    "3/16",
+    "1,25"
+   ],
+   "0,25 = 1/4; 1/4 + 3/4 = 1."
+  ],
+  [
+   "Số nào là số thập phân vô hạn tuần hoàn?",
+   [
+    "0,(12)",
+    "0,25",
+    "√3",
+    "π"
+   ],
+   "0,(12) = 0,1212... lặp lại chu kì 12."
+  ],
+  [
+   "Hai đường thẳng song song bị cắt bởi một đường thẳng thứ ba thì hai góc so le trong:",
+   [
+    "Bằng nhau",
+    "Bù nhau",
+    "Phụ nhau",
+    "Có tổng bằng 90°"
+   ],
+   "Tính chất hai đường thẳng song song: các góc so le trong bằng nhau."
+  ],
+  [
+   "ΔABC = ΔDEF. Cạnh tương ứng với cạnh AB là:",
+   [
+    "DE",
+    "EF",
+    "DF",
+    "FE"
+   ],
+   "Các đỉnh tương ứng theo thứ tự: A ↔ D, B ↔ E, nên AB ↔ DE."
+  ],
+  [
+   "Trong biểu đồ hình quạt tròn, cả hình tròn biểu diễn:",
+   [
+    "100%",
+    "50%",
+    "360%",
+    "10%"
+   ],
+   "Cả hình tròn ứng với tổng thể, tức 100%."
+  ],
+  [
+   "Cho x/2 = y/3 và x + y = 20. Giá trị của x là:",
+   [
+    "8",
+    "12",
+    "4",
+    "10"
+   ],
+   "x/2 = y/3 = (x + y)/(2 + 3) = 20/5 = 4. Vậy x = 8."
+  ],
+  [
+   "Cho P(x) = 2x² − x + 3. Giá trị P(−1) là:",
+   [
+    "6",
+    "4",
+    "0",
+    "2"
+   ],
+   "2 · 1 − (−1) + 3 = 2 + 1 + 3 = 6."
+  ],
+  [
+   "Rút ngẫu nhiên 1 thẻ từ 10 thẻ đánh số 1 đến 10. Xác suất rút được thẻ ghi số chia hết cho 5 là:",
+   [
+    "1/5",
+    "1/2",
+    "1/10",
+    "5/10"
+   ],
+   "Các số chia hết cho 5: 5 và 10 → 2/10 = 1/5."
+  ],
+  [
+   "Trong tam giác vuông, cạnh lớn nhất là:",
+   [
+    "Cạnh huyền",
+    "Cạnh góc vuông ngắn",
+    "Cạnh góc vuông dài",
+    "Không xác định"
+   ],
+   "Cạnh huyền đối diện góc vuông (góc lớn nhất)."
+  ],
+  [
+   "Một hộp hình lập phương có thể tích 64 cm³. Cạnh hộp dài:",
+   [
+    "4 cm",
+    "8 cm",
+    "16 cm",
+    "6 cm"
+   ],
+   "4³ = 64."
+  ],
+  [
+   "Số lớn nhất trong các số −1/2; 0; 1/3; 1/4 là:",
+   [
+    "1/3",
+    "1/4",
+    "0",
+    "−1/2"
+   ],
+   "1/3 = 4/12 > 1/4 = 3/12 > 0 > −1/2."
+  ],
+  [
+   "√81 = ?",
+   [
+    "9",
+    "−9",
+    "81",
+    "40,5"
+   ],
+   "Căn bậc hai số học của 81 là 9 vì 9 ≥ 0 và 9² = 81."
+  ],
+  [
+   "Hai góc kề bù có hiệu là 40°. Góc lớn hơn bằng:",
+   [
+    "110°",
+    "70°",
+    "140°",
+    "100°"
+   ],
+   "Tổng 180°, hiệu 40°: góc lớn = (180° + 40°) : 2 = 110°."
+  ],
+  [
+   "Tam giác ABC có Â = 60°, B̂ = 70°. Góc C bằng:",
+   [
+    "50°",
+    "60°",
+    "70°",
+    "130°"
+   ],
+   "Ĉ = 180° − 60° − 70° = 50°."
+  ],
+  [
+   "Điểm kiểm tra của 5 bạn: 7, 8, 9, 8, 8. Điểm trung bình là:",
+   [
+    "8",
+    "7,5",
+    "8,5",
+    "40"
+   ],
+   "(7 + 8 + 9 + 8 + 8) : 5 = 40 : 5 = 8."
+  ],
+  [
+   "Tìm x, biết x/6 = 2/3.",
+   [
+    "4",
+    "9",
+    "3",
+    "12"
+   ],
+   "x = 6 · 2 : 3 = 4."
+  ],
+  [
+   "Đa thức nào có nghiệm x = −3?",
+   [
+    "x + 3",
+    "x − 3",
+    "3x − 1",
+    "x² + 9"
+   ],
+   "Thay x = −3: −3 + 3 = 0."
+  ],
+  [
+   "Lớp có 15 bạn nam và 20 bạn nữ. Chọn ngẫu nhiên 1 bạn, xác suất chọn được bạn nữ là:",
+   [
+    "4/7",
+    "3/7",
+    "20/15",
+    "1/2"
+   ],
+   "20 : 35 = 4/7."
   ]
  ],
  "thu-thach": [

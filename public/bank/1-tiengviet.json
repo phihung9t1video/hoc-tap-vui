@@ -1,0 +1,896 @@
+{
+ "c1": [
+  [
+   "Chữ nào là nguyên âm?",
+   [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "a là nguyên âm; b, c, d là phụ âm."
+  ],
+  [
+   "Tiếng 'bà' bắt đầu bằng âm nào?",
+   [
+    "b",
+    "a",
+    "à",
+    "đ"
+   ],
+   "Bà = b + a + dấu huyền. Âm đầu là b."
+  ],
+  [
+   "Tiếng 'mẹ' bắt đầu bằng âm nào?",
+   [
+    "m",
+    "e",
+    "n",
+    "ẹ"
+   ],
+   "Mẹ = m + e + dấu nặng."
+  ],
+  [
+   "Chữ cái đứng ngay sau chữ 'a' trong bảng chữ cái là:",
+   [
+    "ă",
+    "b",
+    "â",
+    "c"
+   ],
+   "Bảng chữ cái tiếng Việt: a, ă, â, b, c..."
+  ],
+  [
+   "Âm 'gh' đi với những chữ nào?",
+   [
+    "e, ê, i",
+    "a, o, u",
+    "ô, ơ, ư",
+    "Mọi chữ"
+   ],
+   "gh chỉ đứng trước e, ê, i (ghế, ghi, ghe)."
+  ],
+  [
+   "Âm 'ngh' đi với những chữ nào?",
+   [
+    "e, ê, i",
+    "a, o, ô",
+    "u, ư, ơ",
+    "Mọi chữ"
+   ],
+   "ngh đứng trước e, ê, i (nghe, nghỉ, nghề)."
+  ],
+  [
+   "Tiếng 'cá' gồm âm đầu, vần và thanh nào?",
+   [
+    "c + a + thanh sắc",
+    "k + a + thanh sắc",
+    "c + á",
+    "ca + thanh huyền"
+   ],
+   "Cá: âm đầu c, vần a, thanh sắc."
+  ],
+  [
+   "Từ nào viết đúng?",
+   [
+    "kẻ vở",
+    "cẻ vở",
+    "kẻ vỡ",
+    "qẻ vở"
+   ],
+   "k đứng trước e, ê, i nên viết 'kẻ'."
+  ]
+ ],
+ "c2": [
+  [
+   "Tiếng 'lá' mang dấu thanh gì?",
+   [
+    "Dấu sắc",
+    "Dấu huyền",
+    "Dấu hỏi",
+    "Dấu ngã"
+   ],
+   "Dấu sắc là nét xiên từ dưới lên: lá."
+  ],
+  [
+   "Tiếng 'gà' mang dấu thanh gì?",
+   [
+    "Dấu huyền",
+    "Dấu sắc",
+    "Dấu nặng",
+    "Không dấu"
+   ],
+   "Dấu huyền là nét xiên từ trên xuống: gà."
+  ],
+  [
+   "Tiếng nào mang dấu hỏi?",
+   [
+    "hổ",
+    "hồ",
+    "hộ",
+    "hố"
+   ],
+   "hổ có dấu hỏi (giống dấu chấm hỏi nhỏ)."
+  ],
+  [
+   "Tiếng nào mang dấu ngã?",
+   [
+    "vẽ",
+    "vẻ",
+    "vè",
+    "vé"
+   ],
+   "vẽ có dấu ngã (dấu lượn sóng)."
+  ],
+  [
+   "Tiếng nào mang dấu nặng?",
+   [
+    "mạ",
+    "má",
+    "mà",
+    "mả"
+   ],
+   "Dấu nặng là dấu chấm đặt dưới chữ: mạ."
+  ],
+  [
+   "Tiếng Việt có mấy thanh (kể cả thanh ngang)?",
+   [
+    "6 thanh",
+    "5 thanh",
+    "4 thanh",
+    "7 thanh"
+   ],
+   "Ngang, huyền, sắc, hỏi, ngã, nặng: 6 thanh."
+  ],
+  [
+   "Dấu thanh được đặt ở đâu trong một tiếng?",
+   [
+    "Trên hoặc dưới chữ ghi nguyên âm",
+    "Trên âm đầu",
+    "Sau chữ cái cuối cùng",
+    "Trước âm đầu"
+   ],
+   "Dấu thanh đặt trên nguyên âm (dấu nặng đặt dưới): má, mạ, hóa."
+  ],
+  [
+   "Tiếng nào KHÔNG có dấu thanh (thanh ngang)?",
+   [
+    "ca",
+    "cá",
+    "cà",
+    "cạ"
+   ],
+   "ca không có dấu là thanh ngang."
+  ]
+ ],
+ "c3": [
+  [
+   "Tiếng 'mèo' có vần gì?",
+   [
+    "eo",
+    "me",
+    "o",
+    "èo"
+   ],
+   "Mèo = m + eo + dấu huyền. Vần là eo."
+  ],
+  [
+   "Tiếng 'trăng' có vần gì?",
+   [
+    "ăng",
+    "tr",
+    "an",
+    "ng"
+   ],
+   "Trăng = tr + ăng. Vần là ăng."
+  ],
+  [
+   "Tiếng nào có vần 'an'?",
+   [
+    "bàn",
+    "bên",
+    "bồn",
+    "bún"
+   ],
+   "bàn = b + an + dấu huyền."
+  ],
+  [
+   "Tiếng nào có vần 'ươn'?",
+   [
+    "vườn",
+    "vương",
+    "viên",
+    "vòng"
+   ],
+   "vườn = v + ươn + dấu huyền."
+  ],
+  [
+   "Hai tiếng nào cùng vần?",
+   [
+    "hoa – xoa",
+    "hoa – họa sĩ – hè",
+    "mẹ – mèo",
+    "cá – cờ"
+   ],
+   "hoa và xoa đều có vần oa."
+  ],
+  [
+   "Tiếng 'ông' có âm đầu không?",
+   [
+    "Không có âm đầu",
+    "Có âm đầu ô",
+    "Có âm đầu ng",
+    "Có âm đầu o"
+   ],
+   "Ông chỉ có vần ông, không có âm đầu."
+  ],
+  [
+   "Điền vần: con ch... (con vật kêu gâu gâu)",
+   [
+    "ó",
+    "o",
+    "ồ",
+    "ỏ"
+   ],
+   "Con chó kêu gâu gâu: ch + o + dấu sắc."
+  ],
+  [
+   "Vần 'uôi' có trong tiếng nào?",
+   [
+    "chuối",
+    "chơi",
+    "chồi",
+    "chui"
+   ],
+   "chuối = ch + uôi + dấu sắc."
+  ]
+ ],
+ "c4": [
+  [
+   "Chọn từ viết đúng:",
+   [
+    "con nghé",
+    "con ngé",
+    "con nghẽ",
+    "con ghé"
+   ],
+   "ngh đứng trước e: nghé."
+  ],
+  [
+   "Chọn từ viết đúng:",
+   [
+    "cái ghế",
+    "cái gế",
+    "cái ghé",
+    "cái ngế"
+   ],
+   "gh đứng trước ê: ghế."
+  ],
+  [
+   "Chọn từ viết đúng:",
+   [
+    "quả cam",
+    "qủa cam",
+    "cuả cam",
+    "quả kam"
+   ],
+   "Viết quả, dấu hỏi đặt trên chữ a."
+  ],
+  [
+   "Điền 'c' hay 'k': ...ì cọ",
+   [
+    "k",
+    "c",
+    "q",
+    "kh"
+   ],
+   "k đứng trước i: kì cọ."
+  ],
+  [
+   "Điền 'ng' hay 'ngh': ...ỉ hè",
+   [
+    "ngh",
+    "ng",
+    "gh",
+    "g"
+   ],
+   "ngh đứng trước i: nghỉ hè."
+  ],
+  [
+   "Điền 'g' hay 'gh': ...à trống",
+   [
+    "g",
+    "gh",
+    "ngh",
+    "k"
+   ],
+   "Trước a dùng g: gà trống."
+  ],
+  [
+   "Chữ đầu câu phải viết thế nào?",
+   [
+    "Viết hoa",
+    "Viết thường",
+    "Viết nghiêng",
+    "Viết to"
+   ],
+   "Chữ cái đầu câu và tên riêng phải viết hoa."
+  ],
+  [
+   "Tên riêng nào viết đúng?",
+   [
+    "Hà Nội",
+    "hà nội",
+    "Hà nội",
+    "hà Nội"
+   ],
+   "Tên riêng viết hoa chữ cái đầu mỗi tiếng: Hà Nội."
+  ]
+ ],
+ "c5": [
+  [
+   "Từ nào chỉ con vật?",
+   [
+    "con mèo",
+    "cái bàn",
+    "quả bóng",
+    "bông hoa"
+   ],
+   "Mèo là con vật."
+  ],
+  [
+   "Từ nào chỉ đồ dùng học tập?",
+   [
+    "bút chì",
+    "con gà",
+    "quả na",
+    "cái nồi"
+   ],
+   "Bút chì dùng để viết, vẽ khi học."
+  ],
+  [
+   "Từ nào chỉ hoạt động?",
+   [
+    "chạy",
+    "đẹp",
+    "cái ghế",
+    "xanh"
+   ],
+   "Chạy là việc làm, hoạt động."
+  ],
+  [
+   "Ghép tiếng để thành từ: 'cô' + '...' = người dạy học",
+   [
+    "giáo",
+    "bé",
+    "gái",
+    "tiên"
+   ],
+   "Cô giáo là người dạy học."
+  ],
+  [
+   "Câu nào viết đúng?",
+   [
+    "Em yêu mẹ.",
+    "em yêu mẹ",
+    "Em yêu mẹ",
+    "em Yêu mẹ."
+   ],
+   "Câu đúng: viết hoa chữ đầu và có dấu chấm cuối câu."
+  ],
+  [
+   "Sắp xếp thành câu: 'đi học / Bé / vui vẻ'",
+   [
+    "Bé đi học vui vẻ.",
+    "Vui vẻ bé đi học",
+    "Đi học bé vui vẻ.",
+    "Bé vui vẻ đi học"
+   ],
+   "Câu đúng có ai (Bé) + làm gì (đi học) + thế nào, kết thúc bằng dấu chấm."
+  ],
+  [
+   "Từ nào chỉ màu sắc?",
+   [
+    "đỏ",
+    "to",
+    "cao",
+    "nhanh"
+   ],
+   "Đỏ là một màu."
+  ],
+  [
+   "Từ nào chỉ người trong gia đình?",
+   [
+    "ông bà",
+    "bạn bè",
+    "thầy cô",
+    "bác sĩ"
+   ],
+   "Ông bà là người trong gia đình."
+  ]
+ ],
+ "c6": [
+  [
+   "Đọc: 'Mẹ đi chợ mua cá.' Mẹ mua gì?",
+   [
+    "Cá",
+    "Gà",
+    "Rau",
+    "Thịt"
+   ],
+   "Câu nói mẹ mua cá."
+  ],
+  [
+   "Đọc: 'Nhà Lan có con mèo mướp. Mèo bắt chuột rất giỏi.' Mèo giỏi việc gì?",
+   [
+    "Bắt chuột",
+    "Bắt cá",
+    "Trông nhà",
+    "Gáy sáng"
+   ],
+   "Đoạn văn nói mèo bắt chuột rất giỏi."
+  ],
+  [
+   "Đọc: 'Sáng nào bé cũng dậy sớm tập thể dục.' Bé làm gì vào buổi sáng?",
+   [
+    "Tập thể dục",
+    "Đi ngủ",
+    "Xem ti vi",
+    "Ăn kem"
+   ],
+   "Bé dậy sớm tập thể dục."
+  ],
+  [
+   "Đọc: 'Bà cho Hà quả na. Hà mời em cùng ăn.' Hà là người thế nào?",
+   [
+    "Biết nhường nhịn, chia sẻ",
+    "Ích kỉ",
+    "Lười biếng",
+    "Hay khóc"
+   ],
+   "Hà mời em ăn cùng: biết chia sẻ."
+  ],
+  [
+   "Đọc: 'Mùa hè, cây phượng nở hoa đỏ rực.' Hoa phượng màu gì?",
+   [
+    "Đỏ",
+    "Vàng",
+    "Trắng",
+    "Tím"
+   ],
+   "Câu văn nói hoa phượng đỏ rực."
+  ],
+  [
+   "Đọc: 'Gà mẹ dẫn đàn con đi kiếm mồi.' Ai dẫn đàn con?",
+   [
+    "Gà mẹ",
+    "Gà bố",
+    "Vịt mẹ",
+    "Mèo mẹ"
+   ],
+   "Gà mẹ dẫn đàn con đi kiếm mồi."
+  ],
+  [
+   "Đọc: 'Bố tưới cây. Bé nhổ cỏ.' Bé làm gì?",
+   [
+    "Nhổ cỏ",
+    "Tưới cây",
+    "Quét nhà",
+    "Nấu cơm"
+   ],
+   "Câu thứ hai: Bé nhổ cỏ."
+  ],
+  [
+   "Đọc: 'Trời mưa to. Bé mặc áo mưa đi học.' Vì sao bé mặc áo mưa?",
+   [
+    "Vì trời mưa to",
+    "Vì trời nắng",
+    "Vì trời lạnh",
+    "Vì thích màu áo"
+   ],
+   "Trời mưa to nên bé mặc áo mưa."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Tiếng 'nghỉ' có âm đầu là:",
+   [
+    "ngh",
+    "ng",
+    "n",
+    "gh"
+   ],
+   "nghỉ = ngh + i + dấu hỏi."
+  ],
+  [
+   "Tiếng 'thuyền' có vần gì?",
+   [
+    "uyên",
+    "uyền",
+    "thu",
+    "yên"
+   ],
+   "thuyền = th + uyên + dấu huyền."
+  ],
+  [
+   "Từ nào viết sai chính tả?",
+   [
+    "con ghà",
+    "cái ghế",
+    "con gà",
+    "ghi nhớ"
+   ],
+   "Trước a phải dùng g: con gà."
+  ],
+  [
+   "Từ nào chỉ hoạt động?",
+   [
+    "hát",
+    "hoa",
+    "hồng",
+    "cao"
+   ],
+   "Hát là một hoạt động."
+  ],
+  [
+   "Cuối câu kể em thường đặt dấu gì?",
+   [
+    "Dấu chấm",
+    "Dấu phẩy",
+    "Dấu hỏi",
+    "Không đặt dấu"
+   ],
+   "Câu kể kết thúc bằng dấu chấm."
+  ],
+  [
+   "Tiếng nào có dấu ngã?",
+   [
+    "sữa",
+    "sửa",
+    "sứa",
+    "sừa"
+   ],
+   "sữa có dấu ngã."
+  ],
+  [
+   "Tên bạn nào viết đúng?",
+   [
+    "Nguyễn An",
+    "nguyễn an",
+    "Nguyễn an",
+    "nguyễn An"
+   ],
+   "Tên người viết hoa chữ đầu mỗi tiếng."
+  ],
+  [
+   "Từ nào chỉ đặc điểm?",
+   [
+    "xinh",
+    "múa",
+    "bàn",
+    "đọc"
+   ],
+   "Xinh tả đặc điểm (vẻ ngoài)."
+  ],
+  [
+   "Tiếng 'cá' gồm âm đầu, vần và thanh nào?",
+   [
+    "c + a + thanh sắc",
+    "k + a + thanh sắc",
+    "c + á",
+    "ca + thanh huyền"
+   ],
+   "Cá: âm đầu c, vần a, thanh sắc."
+  ],
+  [
+   "Tiếng nào KHÔNG có dấu thanh (thanh ngang)?",
+   [
+    "ca",
+    "cá",
+    "cà",
+    "cạ"
+   ],
+   "ca không có dấu là thanh ngang."
+  ],
+  [
+   "Tiếng 'trăng' có vần gì?",
+   [
+    "ăng",
+    "tr",
+    "an",
+    "ng"
+   ],
+   "Trăng = tr + ăng. Vần là ăng."
+  ],
+  [
+   "Điền 'ng' hay 'ngh': ...ỉ hè",
+   [
+    "ngh",
+    "ng",
+    "gh",
+    "g"
+   ],
+   "ngh đứng trước i: nghỉ hè."
+  ],
+  [
+   "Từ nào chỉ màu sắc?",
+   [
+    "đỏ",
+    "to",
+    "cao",
+    "nhanh"
+   ],
+   "Đỏ là một màu."
+  ],
+  [
+   "Đọc: 'Mẹ đi chợ mua cá.' Mẹ mua gì?",
+   [
+    "Cá",
+    "Gà",
+    "Rau",
+    "Thịt"
+   ],
+   "Câu nói mẹ mua cá."
+  ],
+  [
+   "Chữ cái đứng ngay sau chữ 'a' trong bảng chữ cái là:",
+   [
+    "ă",
+    "b",
+    "â",
+    "c"
+   ],
+   "Bảng chữ cái tiếng Việt: a, ă, â, b, c..."
+  ],
+  [
+   "Tiếng nào mang dấu nặng?",
+   [
+    "mạ",
+    "má",
+    "mà",
+    "mả"
+   ],
+   "Dấu nặng là dấu chấm đặt dưới chữ: mạ."
+  ],
+  [
+   "Hai tiếng nào cùng vần?",
+   [
+    "hoa – xoa",
+    "hoa – họa sĩ – hè",
+    "mẹ – mèo",
+    "cá – cờ"
+   ],
+   "hoa và xoa đều có vần oa."
+  ],
+  [
+   "Chọn từ viết đúng:",
+   [
+    "con nghé",
+    "con ngé",
+    "con nghẽ",
+    "con ghé"
+   ],
+   "ngh đứng trước e: nghé."
+  ],
+  [
+   "Sắp xếp thành câu: 'đi học / Bé / vui vẻ'",
+   [
+    "Bé đi học vui vẻ.",
+    "Vui vẻ bé đi học",
+    "Đi học bé vui vẻ.",
+    "Bé vui vẻ đi học"
+   ],
+   "Câu đúng có ai (Bé) + làm gì (đi học) + thế nào, kết thúc bằng dấu chấm."
+  ],
+  [
+   "Đọc: 'Sáng nào bé cũng dậy sớm tập thể dục.' Bé làm gì vào buổi sáng?",
+   [
+    "Tập thể dục",
+    "Đi ngủ",
+    "Xem ti vi",
+    "Ăn kem"
+   ],
+   "Bé dậy sớm tập thể dục."
+  ],
+  [
+   "Âm 'gh' đi với những chữ nào?",
+   [
+    "e, ê, i",
+    "a, o, u",
+    "ô, ơ, ư",
+    "Mọi chữ"
+   ],
+   "gh chỉ đứng trước e, ê, i (ghế, ghi, ghe)."
+  ],
+  [
+   "Tiếng nào mang dấu hỏi?",
+   [
+    "hổ",
+    "hồ",
+    "hộ",
+    "hố"
+   ],
+   "hổ có dấu hỏi (giống dấu chấm hỏi nhỏ)."
+  ],
+  [
+   "Tiếng nào có vần 'an'?",
+   [
+    "bàn",
+    "bên",
+    "bồn",
+    "bún"
+   ],
+   "bàn = b + an + dấu huyền."
+  ],
+  [
+   "Điền 'g' hay 'gh': ...à trống",
+   [
+    "g",
+    "gh",
+    "ngh",
+    "k"
+   ],
+   "Trước a dùng g: gà trống."
+  ],
+  [
+   "Câu nào viết đúng?",
+   [
+    "Em yêu mẹ.",
+    "em yêu mẹ",
+    "Em yêu mẹ",
+    "em Yêu mẹ."
+   ],
+   "Câu đúng: viết hoa chữ đầu và có dấu chấm cuối câu."
+  ],
+  [
+   "Đọc: 'Gà mẹ dẫn đàn con đi kiếm mồi.' Ai dẫn đàn con?",
+   [
+    "Gà mẹ",
+    "Gà bố",
+    "Vịt mẹ",
+    "Mèo mẹ"
+   ],
+   "Gà mẹ dẫn đàn con đi kiếm mồi."
+  ],
+  [
+   "Tiếng 'mẹ' bắt đầu bằng âm nào?",
+   [
+    "m",
+    "e",
+    "n",
+    "ẹ"
+   ],
+   "Mẹ = m + e + dấu nặng."
+  ],
+  [
+   "Tiếng nào mang dấu ngã?",
+   [
+    "vẽ",
+    "vẻ",
+    "vè",
+    "vé"
+   ],
+   "vẽ có dấu ngã (dấu lượn sóng)."
+  ],
+  [
+   "Điền vần: con ch... (con vật kêu gâu gâu)",
+   [
+    "ó",
+    "o",
+    "ồ",
+    "ỏ"
+   ],
+   "Con chó kêu gâu gâu: ch + o + dấu sắc."
+  ],
+  [
+   "Điền 'c' hay 'k': ...ì cọ",
+   [
+    "k",
+    "c",
+    "q",
+    "kh"
+   ],
+   "k đứng trước i: kì cọ."
+  ],
+  [
+   "Từ nào chỉ hoạt động?",
+   [
+    "chạy",
+    "đẹp",
+    "cái ghế",
+    "xanh"
+   ],
+   "Chạy là việc làm, hoạt động."
+  ],
+  [
+   "Đọc: 'Trời mưa to. Bé mặc áo mưa đi học.' Vì sao bé mặc áo mưa?",
+   [
+    "Vì trời mưa to",
+    "Vì trời nắng",
+    "Vì trời lạnh",
+    "Vì thích màu áo"
+   ],
+   "Trời mưa to nên bé mặc áo mưa."
+  ],
+  [
+   "Từ nào viết đúng?",
+   [
+    "kẻ vở",
+    "cẻ vở",
+    "kẻ vỡ",
+    "qẻ vở"
+   ],
+   "k đứng trước e, ê, i nên viết 'kẻ'."
+  ],
+  [
+   "Tiếng Việt có mấy thanh (kể cả thanh ngang)?",
+   [
+    "6 thanh",
+    "5 thanh",
+    "4 thanh",
+    "7 thanh"
+   ],
+   "Ngang, huyền, sắc, hỏi, ngã, nặng: 6 thanh."
+  ],
+  [
+   "Tiếng nào có vần 'ươn'?",
+   [
+    "vườn",
+    "vương",
+    "viên",
+    "vòng"
+   ],
+   "vườn = v + ươn + dấu huyền."
+  ],
+  [
+   "Chữ đầu câu phải viết thế nào?",
+   [
+    "Viết hoa",
+    "Viết thường",
+    "Viết nghiêng",
+    "Viết to"
+   ],
+   "Chữ cái đầu câu và tên riêng phải viết hoa."
+  ],
+  [
+   "Ghép tiếng để thành từ: 'cô' + '...' = người dạy học",
+   [
+    "giáo",
+    "bé",
+    "gái",
+    "tiên"
+   ],
+   "Cô giáo là người dạy học."
+  ],
+  [
+   "Đọc: 'Bố tưới cây. Bé nhổ cỏ.' Bé làm gì?",
+   [
+    "Nhổ cỏ",
+    "Tưới cây",
+    "Quét nhà",
+    "Nấu cơm"
+   ],
+   "Câu thứ hai: Bé nhổ cỏ."
+  ],
+  [
+   "Tiếng 'bà' bắt đầu bằng âm nào?",
+   [
+    "b",
+    "a",
+    "à",
+    "đ"
+   ],
+   "Bà = b + a + dấu huyền. Âm đầu là b."
+  ],
+  [
+   "Tiếng 'gà' mang dấu thanh gì?",
+   [
+    "Dấu huyền",
+    "Dấu sắc",
+    "Dấu nặng",
+    "Không dấu"
+   ],
+   "Dấu huyền là nét xiên từ trên xuống: gà."
+  ]
+ ]
+}
