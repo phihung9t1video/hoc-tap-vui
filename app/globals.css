@@ -275,10 +275,6 @@ h2 { font-size: 24px; }
 @keyframes zzz { 0% { opacity: 0; transform: translateY(6px); } 40% { opacity: 1; } 100% { opacity: 0; transform: translateY(-14px); } }
 
 /* Cửa hàng trong khu phố */
-.shop-front { border: 2px solid var(--line); border-radius: 18px; overflow: hidden; background: #fff; }
-.shop-awning { height: 26px; background: repeating-linear-gradient(90deg, var(--shop) 0 26px, #fff 26px 52px); border-bottom: 2px solid var(--line); }
-.shop-shelf { background: linear-gradient(#fff 0 calc(100% - 10px), #d6b98c calc(100% - 10px)); border-radius: 16px; padding: 8px; }
-.items.shop-shelf { background: repeating-linear-gradient(#fffaf2 0 150px, #d6b98c 150px 160px); }
 
 /* Câu hỏi thử thách nâng cao */
 .bonus-flash { text-align: center; font-weight: 900; font-size: 20px; color: #fff; padding: 10px 14px; border-radius: 16px; background: linear-gradient(90deg, #a855f7, #f59e0b, #ec4899, #a855f7); background-size: 300% 100%; animation: bonus-bg 2.4s linear infinite, bonus-blink 0.9s ease-in-out infinite; box-shadow: 0 0 0 3px #fde68a, 0 0 22px #f59e0b; text-shadow: 0 2px 0 rgba(0,0,0,0.25); }
