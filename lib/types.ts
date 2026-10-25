@@ -83,6 +83,8 @@ export interface Profile {
   home?: HomeState;
   /** Mảnh đất và ngôi nhà trong khu phố. house dạng "kiểu:màu", ví dụ "bietthu:hong" */
   town?: { code?: string; plot?: number; house?: string };
+  /** Tuần đã xét thưởng xếp hạng tuần (ngày thứ Hai của tuần đó) */
+  weekPrize?: string;
 }
 
 export interface Settings {

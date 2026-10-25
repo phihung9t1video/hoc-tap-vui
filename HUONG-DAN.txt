@@ -121,3 +121,14 @@ Cách chơi:
      nhân vật đi bộ tới rồi vào trong chọn đồ.
   5. Vào nhà bày đồ (✏️ Sắp xếp). Chạm ghế/sofa để ngồi, giường để nằm ngủ.
   6. Xu chỉ có được khi học -> con chăm học thì nhà to đẹp hơn.
+
+9. CÂU THỬ THÁCH VÀ BẢNG XẾP HẠNG TUẦN
+---------------------------------------------------------------------
+- Khoảng 2 bài thì có 1 bài xuất hiện CÂU HỎI THỬ THÁCH (khung nhấp nháy
+  ⚡). Đây là câu nâng cao, trả lời đúng được 1 món đồ hiếm (Sử thi /
+  Huyền thoại); sai không bị trừ điểm.
+- Bảng chăm chỉ ở Khu phố có mục "Tuần này": điểm tuần = số xu kiếm được
+  khi học từ thứ Hai. Sang tuần mới, 3 bạn đứng đầu tuần trước được thưởng:
+  Hạng 1: 500 xu + đồ Sử thi/Huyền thoại · Hạng 2: 300 xu + đồ hiếm
+  · Hạng 3: 150 xu. Quà tự nhận khi con vào Khu phố (cần có mạng).
+

@@ -5,6 +5,9 @@ import { migrateHome } from "@/lib/home";
 import { HOUSE_COLORS, HOUSE_TIERS, SHOP_MAP, TIER_MAP, TOWN, decodeHouse, encodeHouse, ringsFor, townLayout, upgradeCost } from "@/lib/town";
 import { cachedTown, claimPlot, fetchTown, joinTown, saveHouse, totalEarned, townOnline, type TownState } from "@/lib/townCloud";
 import type { Profile } from "@/lib/types";
+import { ITEM_MAP } from "@/lib/items";
+import { HOME_MAP } from "@/lib/home";
+import { WEEK_PRIZES, daysLeft, grantWeekPrize, pointsOf, prevWeekKey, weekKey, weekStats, type WeekStats } from "@/lib/weekly";
 import { HomeScreen } from "./HomeScreen";
 import { HouseThumb } from "./houses";
 import { ShopScreen } from "./ShopScreen";
@@ -35,6 +38,10 @@ export function TownScreen({
   const [backAt, setBackAt] = useState<number | undefined>();
   const [msg, setMsg] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
+  /** Đã tải xong dữ liệu khu phố mới nhất (để xét thưởng tuần cho chính xác) */
+  const [fresh, setFresh] = useState(!townOnline);
+  const [board, setBoard] = useState<"week" | "all">("week");
+  const [prize, setPrize] = useState<{ rank: number; itemId?: string } | null>(null);
   const [color, setColor] = useState(decodeHouse(me.town?.house)?.color ?? "kem");
 
   const flash = (t: string) => {
@@ -55,7 +62,10 @@ export function TownScreen({
   const refresh = useCallback(async () => {
     if (!code) return;
     const s = await fetchTown(code);
-    if (s) setCloud(s);
+    if (s) {
+      setCloud(s);
+      setFresh(true);
+    }
   }, [code]);
 
   // Vào khu phố: cập nhật tên, trang phục; tải lại khu phố định kì
@@ -83,10 +93,10 @@ export function TownScreen({
   const { plots, players } = useMemo(() => {
     const names = new Map<string, string>();
     const plots = new Map<number, MapPlot>();
-    const players = new Map<string, MapPlayer & { coins: number }>();
+    const players = new Map<string, MapPlayer & { coins: number; wk?: WeekStats }>();
     for (const p of cloud?.players ?? []) {
       names.set(p.id, p.name);
-      players.set(p.id, { id: p.id, name: p.name, look: p.look, coins: p.coins });
+      players.set(p.id, { id: p.id, name: p.name, look: p.look, coins: p.coins, wk: p.look?._wk });
     }
     for (const pl of cloud?.plots ?? []) {
       plots.set(pl.plot, { owner: pl.owner, ownerName: names.get(pl.owner) ?? "?", house: decodeHouse(pl.house) });
@@ -96,11 +106,30 @@ export function TownScreen({
     // Hồ sơ trên máy này luôn là bản mới nhất của chính nó
     for (const p of profiles) {
       const t = townOf(p, code);
-      players.set(p.id, { id: p.id, name: p.name, look: p.look, coins: totalEarned(p), plot: t?.plot });
+      players.set(p.id, { id: p.id, name: p.name, look: p.look, coins: totalEarned(p), plot: t?.plot, wk: weekStats(p) });
       if (t?.plot !== undefined) plots.set(t.plot, { owner: p.id, ownerName: p.name, house: decodeHouse(t.house) });
     }
     return { plots, players: [...players.values()] };
   }, [cloud, profiles, code]);
+
+  // Sang tuần mới: ba bạn chăm nhất tuần trước nhận thưởng (mỗi hồ sơ tự nhận một lần)
+  const lastWeek = prevWeekKey();
+  useEffect(() => {
+    if (!fresh || me.weekPrize === lastWeek) return;
+    const ranked = players
+      .map((p) => ({ id: p.id, pts: pointsOf(p.wk, lastWeek) }))
+      .filter((x) => x.pts > 0)
+      .sort((a, b) => b.pts - a.pts);
+    const rank = ranked.findIndex((x) => x.id === me.id);
+    if (rank < 0 || rank > 2) {
+      onChange((p) => ({ ...p, weekPrize: lastWeek }));
+      return;
+    }
+    const { profile: won, itemId } = grantWeekPrize(me, lastWeek, rank);
+    onChange((p) => (p.weekPrize === lastWeek ? p : { ...p, coins: won.coins - me.coins + p.coins, owned: [...new Set([...p.owned, ...won.owned])], weekPrize: lastWeek }));
+    setPrize({ rank, itemId });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [fresh, me.id, lastWeek]);
 
   // Khu phố tự nở thêm một vòng dãy phố khi gần hết đất
   const layout = townLayout(ringsFor(plots.size, Math.max(-1, ...plots.keys())));
@@ -192,7 +221,16 @@ export function TownScreen({
     flash("🎨 Đã sơn lại nhà!");
   }
 
-  const ranking = [...players].sort((a, b) => b.coins - a.coins).slice(0, 5);
+  const thisWeek = weekKey();
+  const ranking =
+    board === "week"
+      ? players
+          .map((p) => ({ ...p, coins: pointsOf(p.wk, thisWeek) }))
+          .filter((p) => p.coins > 0 || p.id === me.id)
+          .sort((a, b) => b.coins - a.coins)
+          .slice(0, 10)
+      : [...players].sort((a, b) => b.coins - a.coins).slice(0, 10);
+  const prizeItem = prize?.itemId ? (ITEM_MAP[prize.itemId] ?? HOME_MAP[prize.itemId]) : undefined;
 
   return (
     <div className="stack">
@@ -312,17 +350,47 @@ export function TownScreen({
         </div>
       )}
 
+      {prize && (
+        <div className="card center stack pop" style={{ alignItems: "center", background: "linear-gradient(135deg, #fff7cc, #fde68a)" }}>
+          <div style={{ fontSize: 48 }}>{["🥇", "🥈", "🥉"][prize.rank]}</div>
+          <strong style={{ fontSize: 20 }}>Tuần trước {me.name} đứng hạng {prize.rank + 1} bảng chăm chỉ!</strong>
+          <span>
+            Phần thưởng: +{WEEK_PRIZES[prize.rank].coins} ⭐{prizeItem ? ` và ${prizeItem.name}` : ""}
+          </span>
+          <button className="btn btn-gold" onClick={() => setPrize(null)}>
+            Tuyệt vời! 🎉
+          </button>
+        </div>
+      )}
+
       <div className="card stack">
-        <strong>🏆 Bảng chăm chỉ (tổng xu đã kiếm)</strong>
+        <div className="row between wrap">
+          <strong>🏆 Bảng chăm chỉ</strong>
+          <div className="row" style={{ gap: 6 }}>
+            <button className={`tab ${board === "week" ? "on" : ""}`} onClick={() => setBoard("week")}>
+              🗓️ Tuần này
+            </button>
+            <button className={`tab ${board === "all" ? "on" : ""}`} onClick={() => setBoard("all")}>
+              ⭐ Từ trước tới nay
+            </button>
+          </div>
+        </div>
+        {board === "week" && (
+          <div className="muted" style={{ fontSize: 14 }}>
+            Điểm tuần = số xu kiếm được khi học từ thứ Hai. Còn {daysLeft()} ngày nữa tổng kết: 🥇 {WEEK_PRIZES[0].label} · 🥈 {WEEK_PRIZES[1].label} · 🥉{" "}
+            {WEEK_PRIZES[2].label}.
+          </div>
+        )}
         {ranking.map((p, i) => (
-          <div key={p.id} className="row between">
+          <div key={p.id} className="row between" style={p.id === me.id ? { background: "#fff7cc", borderRadius: 10, padding: "2px 6px" } : undefined}>
             <span>
-              {["🥇", "🥈", "🥉", "4.", "5."][i]} {p.name}
+              {["🥇", "🥈", "🥉"][i] ?? `${i + 1}.`} {p.name}
               {p.id === me.id ? " (con)" : ""}
             </span>
             <strong>⭐ {p.coins}</strong>
           </div>
         ))}
+        {board === "week" && ranking.every((p) => p.coins === 0) && <div className="muted">Tuần này chưa ai học. Con làm bài để đứng đầu bảng nhé!</div>}
       </div>
     </div>
   );

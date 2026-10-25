@@ -1,6 +1,7 @@
 import { cloudEnabled } from "./cloud";
 import type { HomeState } from "./home";
 import type { Look, Profile } from "./types";
+import { weekStats, type WeekStats } from "./weekly";
 
 /**
  * Khu phố chung trên Supabase. Mọi lời gọi đều kèm mã khu phố;
@@ -14,7 +15,8 @@ export const townOnline = cloudEnabled;
 export interface TownPlayer {
   id: string;
   name: string;
-  look: Look;
+  /** Điểm tuần đi kèm trang phục (_wk) để không phải đổi cấu trúc bảng trên máy chủ */
+  look: Look & { _wk?: WeekStats };
   coins: number;
 }
 export interface TownPlot {
@@ -73,7 +75,7 @@ export const totalEarned = (p: Profile) => p.history.reduce((s, h) => s + h.coin
 export async function joinTown(code: string, p: Profile) {
   if (!townOnline) return;
   try {
-    await rpc("town_join", { p_town: code, p_id: p.id, p_name: p.name, p_look: p.look, p_coins: totalEarned(p) });
+    await rpc("town_join", { p_town: code, p_id: p.id, p_name: p.name, p_look: { ...p.look, _wk: weekStats(p) }, p_coins: totalEarned(p) });
   } catch {
     // mất mạng: lần sau thử lại
   }

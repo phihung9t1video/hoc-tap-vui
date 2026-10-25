@@ -44,7 +44,7 @@ function pickChestItem(owned: Set<string>): string | undefined {
 }
 
 /** Quà câu thử thách: ưu tiên đồ Sử thi, Huyền thoại */
-function pickBonusItem(owned: Set<string>): string | undefined {
+export function pickBonusItem(owned: Set<string>): string | undefined {
   const pool = [...ITEMS, ...HOME_ITEMS].filter((i) => !i.starter && !("achievement" in i && i.achievement) && !owned.has(i.id) && i.rarity !== "thuong");
   const top = pool.filter((i) => i.rarity === "suthi" || i.rarity === "huyenthoai");
   const from = top.length ? top : pool;

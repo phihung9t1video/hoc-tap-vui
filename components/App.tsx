@@ -18,6 +18,8 @@ import { AvatarEditor } from "./AvatarEditor";
 import { ChooseLesson } from "./ChooseLesson";
 import { CreateProfile } from "./CreateProfile";
 import { TownScreen } from "./TownScreen";
+import { TOWN } from "@/lib/town";
+import { joinTown } from "@/lib/townCloud";
 import { Lobby } from "./Lobby";
 import { ParentSettings } from "./ParentSettings";
 import { Profiles } from "./Profiles";
@@ -150,6 +152,8 @@ export function App() {
     if (!answers.length) return setScreen({ name: "choose", subject });
     const { profile: next, outcome } = applyQuiz(p, data!.settings, subject, chapterId, answers);
     patchProfile(() => next);
+    // Gửi điểm tuần mới lên khu phố cho bảng xếp hạng
+    void joinTown(TOWN, next);
     setScreen({ name: "result", subject, chapterId, outcome });
   }
 
