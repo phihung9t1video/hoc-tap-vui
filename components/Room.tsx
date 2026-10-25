@@ -57,6 +57,16 @@ function FloorTile({ x, y, t }: { x: number; y: number; t: Theme }) {
   );
 }
 
+// ---------- Ngồi, nằm ----------
+
+type Pose = { uid: string; kind: "sit" | "lie" } | null;
+
+function seatKind(id: string): "sit" | "lie" | null {
+  if (id.startsWith("h_giuong")) return "lie";
+  if (id.startsWith("h_sofa") || id.startsWith("h_ghe") || id === "h_ngai_vang") return "sit";
+  return null;
+}
+
 // ---------- Tìm đường trên lưới ô ----------
 
 function findPath(from: [number, number], to: [number, number], blocked: Set<string>): [number, number][] {
@@ -123,6 +133,9 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
   // Vị trí nhân vật, thú cưng (toạ độ ô, số thực để đi mượt)
   const start = useRef<[number, number]>(entry && !blocked.has(entry.join(",")) ? entry : firstFree(blocked));
   const pendingDoor = useRef<DoorTarget | null>(null);
+  // Ngồi ghế, sofa hoặc nằm giường
+  const [pose, setPose] = useState<Pose>(null);
+  const pendingPose = useRef<Pose>(null);
   const [me, setMe] = useState({ x: start.current[0], y: start.current[1], back: false, hop: 0 });
   const [pet, setPet] = useState({ x: Math.min(start.current[0] + 1, ROOM_N - 1), y: start.current[1] });
   const path = useRef<[number, number][]>([]);
@@ -172,6 +185,10 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
       }
       if (m.hop > 0) m.hop = Math.max(0, m.hop - dt * 1.6);
       setMe(m);
+      if (!path.current.length && pendingPose.current) {
+        setPose(pendingPose.current);
+        pendingPose.current = null;
+      }
       if (!path.current.length && pendingDoor.current) {
         const to = pendingDoor.current;
         pendingDoor.current = null;
@@ -197,10 +214,17 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
     raf.current = requestAnimationFrame(step);
   }
 
-  function walkTo(x: number, y: number, door?: DoorTarget) {
+  function walkTo(x: number, y: number, door?: DoorTarget, seat?: Pose) {
     const from: [number, number] = [Math.round(meRef.current.x), Math.round(meRef.current.y)];
     path.current = findPath(from, [x, y], blocked);
     pendingDoor.current = door ?? null;
+    pendingPose.current = seat ?? null;
+    setPose(null);
+    if (seat && !path.current.length) {
+      pendingPose.current = null;
+      setPose(seat);
+      return;
+    }
     if (door && !path.current.length) {
       pendingDoor.current = null;
       onDoor?.(door);
@@ -227,7 +251,10 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
         onClick={(e) => {
           e.stopPropagation();
           if (mode === "arrange") onItem?.(f.uid);
-          else walkTo(f.x, f.y);
+          else {
+            const kind = seatKind(f.id);
+            walkTo(f.x, f.y, undefined, kind ? { uid: f.uid, kind } : null);
+          }
         }}
         style={{ cursor: "pointer" }}
         className={selectedUid === f.uid ? "home-selected" : undefined}
@@ -240,10 +267,49 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
   }
 
   const S = 0.33;
+  const seatOn = pose ? room.floor.find((f) => f.uid === pose.uid) : undefined;
+  const seatItem = seatOn ? HOME_MAP[seatOn.id] : undefined;
+  if (pose && seatOn && seatItem) {
+    const { w, d } = footprint(seatItem, seatOn.rot);
+    const furnitureKey = seatOn.x + w / 2 + seatOn.y + d / 2;
+    if (pose.kind === "sit") {
+      const z = seatItem.id === "h_ngai_vang" ? 32 : seatItem.id.startsWith("h_ghe_luoi") ? 14 : seatItem.id.startsWith("h_ghe") ? 24 : 22;
+      const [sx, sy] = seatOn.rot ? pt(P, seatOn.x + 0.6, seatOn.y + d / 2, z) : pt(P, seatOn.x + w / 2, seatOn.y + 0.6, z);
+      objects.push({
+        key: furnitureKey + 0.01,
+        node: (
+          <g key="me" transform={`translate(${(sx - 100 * S).toFixed(1)} ${(sy - 224 * S).toFixed(1)})`} pointerEvents="none">
+            <g clipPath={`url(#${uid}sit)`}>
+              <Avatar look={look} size={200 * S} layer="char" />
+            </g>
+          </g>
+        ),
+      });
+    } else {
+      const [sx, sy] = seatOn.rot ? pt(P, seatOn.x + 0.5, seatOn.y + 1.1, 24) : pt(P, seatOn.x + 1.1, seatOn.y + 0.5, 24);
+      const blanket = seatOn.rot
+        ? { x: seatOn.x + 0.06, y: seatOn.y + 0.95, w: 0.88, d: 1.0 }
+        : { x: seatOn.x + 0.95, y: seatOn.y + 0.06, w: 1.0, d: 0.88 };
+      objects.push({
+        key: furnitureKey + 0.01,
+        node: (
+          <g key="me" pointerEvents="none">
+            <g transform={`translate(${sx.toFixed(1)} ${sy.toFixed(1)}) rotate(${seatOn.rot ? 63.4 : -63.4}) translate(${-100 * S} ${-154 * S})`}>
+              <Avatar look={look} size={200 * S} layer="char" />
+            </g>
+            <FloorQuad p={P} x={blanket.x} y={blanket.y} w={blanket.w} d={blanket.d} z={27} fill="#93c5fd" />
+            <text x={sx + (seatOn.rot ? 18 : -18)} y={sy - 34} fontSize={16} className="zzz">
+              💤
+            </text>
+          </g>
+        ),
+      });
+    }
+  }
   const [cx, cy] = pt(P, me.x + 0.5, me.y + 0.5);
   const bob = path.current.length ? Math.abs(Math.sin(performance.now() / 90)) * 3 : 0;
   const jump = Math.sin(me.hop * Math.PI) * 26;
-  objects.push({
+  if (!pose || !seatOn) objects.push({
     key: me.x + me.y + 1.01,
     node: (
       <g key="me" transform={`translate(${(cx - 100 * S).toFixed(1)} ${(cy - 270 * S - bob - jump).toFixed(1)})`} onClick={(e) => { e.stopPropagation(); hop(); }} style={{ cursor: "pointer" }}>
@@ -298,6 +364,9 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
   return (
     <svg viewBox={`0 0 ${VIEW_W} ${VIEW_H}`} width="100%" style={{ display: "block", touchAction: "manipulation" }} role="img" aria-label="Ngôi nhà">
       <defs>
+        <clipPath id={`${uid}sit`}>
+          <rect x={0} y={0} width={200 * 0.33} height={224 * 0.33} />
+        </clipPath>
         <WallPattern id={`${uid}wl`} t={wp} side="L" />
         <WallPattern id={`${uid}wr`} t={wp} side="R" />
       </defs>

@@ -1002,7 +1002,7 @@ export interface RoomState {
   wall: PlacedWall[];
 }
 
-export type RoomId = "khach" | "ngu" | "bep" | "vesinh";
+export type RoomId = "khach" | "ngu" | "bep" | "vesinh" | "hoc" | "choi";
 /** "pho" là khu phố (ra khỏi nhà) */
 export type DoorTarget = RoomId | "pho";
 
@@ -1017,18 +1017,22 @@ export const ROOMS: Record<RoomId, { name: string; icon: string; doors: Door[] }
     name: "Phòng khách",
     icon: "🛋️",
     doors: [
-      { to: "pho", side: "L", i: 4 },
       { to: "ngu", side: "L", i: 1 },
+      { to: "hoc", side: "L", i: 3 },
+      { to: "pho", side: "L", i: 5 },
       { to: "bep", side: "R", i: 1 },
-      { to: "vesinh", side: "R", i: 4 },
+      { to: "choi", side: "R", i: 3 },
+      { to: "vesinh", side: "R", i: 5 },
     ],
   },
   ngu: { name: "Phòng ngủ", icon: "🛏️", doors: [{ to: "khach", side: "R", i: 4 }] },
   bep: { name: "Nhà bếp", icon: "🍳", doors: [{ to: "khach", side: "L", i: 4 }] },
   vesinh: { name: "Nhà vệ sinh", icon: "🛁", doors: [{ to: "khach", side: "L", i: 4 }] },
+  hoc: { name: "Phòng học", icon: "📚", doors: [{ to: "khach", side: "R", i: 4 }] },
+  choi: { name: "Phòng chơi", icon: "🧸", doors: [{ to: "khach", side: "L", i: 4 }] },
 };
 
-export const ROOM_ORDER: RoomId[] = ["khach", "ngu", "bep", "vesinh"];
+export const ROOM_ORDER: RoomId[] = ["khach", "ngu", "bep", "vesinh", "hoc", "choi"];
 
 export interface HomeState {
   rooms: Record<RoomId, RoomState>;
@@ -1040,7 +1044,7 @@ export function defaultHome(): HomeState {
   return {
     rooms: {
       khach: room("hw_kem", "hf_go", [
-        { uid: "k1", id: "h_sofa_kem", x: 2, y: 0, rot: 0 },
+        { uid: "k1", id: "h_sofa_kem", x: 2, y: 2, rot: 0 },
         { uid: "c1", id: "h_cay_bui", x: 5, y: 2, rot: 0 },
       ]),
       ngu: room("hw_xanh", "hf_go_sang", [{ uid: "g1", id: "h_giuong_go", x: 0, y: 0, rot: 1 }]),
@@ -1052,6 +1056,8 @@ export function defaultHome(): HomeState {
         { uid: "v1", id: "h_bon_cau", x: 2, y: 0, rot: 0 },
         { uid: "v2", id: "h_lavabo", x: 4, y: 0, rot: 0 },
       ]),
+      hoc: room("hw_la", "hf_go_sang"),
+      choi: room("hw_vang", "hf_co"),
     },
   };
 }

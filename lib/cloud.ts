@@ -25,7 +25,8 @@ interface Row {
 async function call(path: string, init: RequestInit = {}) {
   return fetch(`${URL}/rest/v1/${path}`, {
     ...init,
-    headers: { apikey: ANON!, Authorization: `Bearer ${ANON}`, "Content-Type": "application/json", ...init.headers },
+    // Khóa publishable chỉ gửi qua header apikey (không phải JWT nên không đặt vào Authorization)
+    headers: { apikey: ANON!, "Content-Type": "application/json", ...init.headers },
     signal: AbortSignal.timeout(10000),
   });
 }

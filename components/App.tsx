@@ -17,7 +17,7 @@ import { Avatar } from "./Avatar";
 import { AvatarEditor } from "./AvatarEditor";
 import { ChooseLesson } from "./ChooseLesson";
 import { CreateProfile } from "./CreateProfile";
-import { HomeScreen } from "./HomeScreen";
+import { TownScreen } from "./TownScreen";
 import { Lobby } from "./Lobby";
 import { ParentSettings } from "./ParentSettings";
 import { Profiles } from "./Profiles";
@@ -244,7 +244,16 @@ export function App() {
       </div>
     );
   } else if (screen.name === "home") {
-    content = <HomeScreen profiles={data.profiles} me={profile} onChange={patchProfile} onBack={() => setScreen({ name: "lobby" })} />;
+    content = (
+      <TownScreen
+        me={profile}
+        profiles={data.profiles}
+        settings={data.settings}
+        onSettings={saveSettings}
+        onChange={patchProfile}
+        onBack={() => setScreen({ name: "lobby" })}
+      />
+    );
   } else if (screen.name === "achievements") {
     content = <Achievements profile={profile} onBack={() => setScreen({ name: "lobby" })} />;
   } else if (screen.name === "choose") {

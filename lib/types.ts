@@ -78,6 +78,8 @@ export interface Profile {
   createdAt: number;
   /** Ngôi nhà của con (đồ đã đặt, giấy dán tường, sàn) */
   home?: HomeState;
+  /** Mảnh đất và ngôi nhà trong khu phố. house dạng "kiểu:màu", ví dụ "bietthu:hong" */
+  town?: { code?: string; plot?: number; house?: string };
 }
 
 export interface Settings {
@@ -89,6 +91,8 @@ export interface Settings {
   setupDone?: boolean;
   /** Máy của bố mẹ: nhận bản thử nghiệm trước khi duyệt cho các con */
   betaChannel?: boolean;
+  /** Mã khu phố chung của máy này */
+  townCode?: string;
 }
 
 export interface AppData {

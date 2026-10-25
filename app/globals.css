@@ -267,3 +267,9 @@ h2 { font-size: 24px; }
 .home-selected { filter: drop-shadow(0 0 3px #f59e0b) drop-shadow(0 0 6px #fbbf24); }
 .guide { margin-top: 8px; background: #fff; border: 2px dashed #f59e0b; border-radius: 14px; padding: 10px 12px; }
 .guide-title { font-weight: 800; color: #b45309; margin-bottom: 4px; }
+
+/* Bản đồ khu phố */
+.map-tools { position: absolute; right: 8px; top: 8px; display: flex; flex-direction: column; gap: 6px; }
+.map-tools .btn { padding: 4px 10px; font-size: 18px; border-radius: 12px; }
+.zzz { animation: zzz 2s ease-in-out infinite; }
+@keyframes zzz { 0% { opacity: 0; transform: translateY(6px); } 40% { opacity: 1; } 100% { opacity: 0; transform: translateY(-14px); } }

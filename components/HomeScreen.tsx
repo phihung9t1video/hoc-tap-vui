@@ -16,30 +16,42 @@ import {
   migrateHome,
   type DoorTarget,
   type HomeItem,
+  type HomeState,
   type RoomId,
   type RoomState,
 } from "@/lib/home";
 import type { Profile } from "@/lib/types";
 import { newId } from "@/lib/util";
 import { HomeThumb, Room } from "./Room";
-import { Street } from "./Street";
 
 type Mode = "play" | "arrange" | "shop";
-type Where = { kind: "street" } | { kind: "room"; ownerId: string; room: RoomId; entry?: [number, number] };
+type Where = { room: RoomId; entry?: [number, number] };
 
+/** Bên trong một ngôi nhà: nhà mình (sắp xếp được) hoặc nhà bạn (chỉ tham quan) */
 export function HomeScreen({
-  profiles,
   me,
+  ownerName,
+  ownerHome,
+  editable,
+  unlocked,
   onChange,
+  onExit,
   onBack,
 }: {
-  profiles: Profile[];
   me: Profile;
+  ownerName: string;
+  /** Nội thất nhà bạn (khi đi thăm); nhà mình lấy từ hồ sơ */
+  ownerHome?: HomeState | null;
+  editable: boolean;
+  /** Các phòng đã mở theo cấp nhà */
+  unlocked: RoomId[];
   /** Cập nhật hồ sơ của con đang chơi, dựa trên dữ liệu mới nhất */
   onChange: (fn: (p: Profile) => Profile) => void;
+  /** Ra phố */
+  onExit: () => void;
   onBack: () => void;
 }) {
-  const [where, setWhere] = useState<Where>({ kind: "room", ownerId: me.id, room: "khach" });
+  const [where, setWhere] = useState<Where>({ room: "khach", entry: [0, 4] });
   const [mode, setMode] = useState<Mode>("play");
   const [selected, setSelected] = useState<string | undefined>();
   const [holding, setHolding] = useState<string | undefined>();
@@ -57,38 +69,11 @@ export function HomeScreen({
     setTrial(null);
   };
 
-  if (where.kind === "street") {
-    return (
-      <div className="stack">
-        <div className="topbar">
-          <button className="btn" onClick={onBack}>
-            ← Sảnh
-          </button>
-          <span className="pill pill-coin">⭐ {me.coins}</span>
-        </div>
-        <h1>🏘️ Khu phố nhà mình</h1>
-        <div className="room-card">
-          <Street
-            profiles={profiles}
-            meId={me.id}
-            onEnter={(id) => {
-              resetTools();
-              setMode("play");
-              setWhere({ kind: "room", ownerId: id, room: "khach", entry: [0, 4] });
-            }}
-          />
-        </div>
-        <div className="muted center">Chạm vào một ngôi nhà để vào chơi. Nhà có viền vàng là nhà của {me.name}.</div>
-      </div>
-    );
-  }
-
-  const owner = profiles.find((p) => p.id === where.ownerId) ?? me;
-  const mine = owner.id === me.id;
-  const home = migrateHome(owner.home);
-  const roomId = where.room;
+  const mine = editable;
+  const home = migrateHome(editable ? me.home : ownerHome);
+  const roomId = unlocked.includes(where.room) ? where.room : "khach";
   const room = home.rooms[roomId];
-  const doors = ROOMS[roomId].doors;
+  const doors = ROOMS[roomId].doors.filter((d) => d.to === "pho" || unlocked.includes(d.to));
   const owned = new Set(me.owned);
 
   const setRoom = (fn: (r: RoomState) => RoomState) =>
@@ -107,10 +92,10 @@ export function HomeScreen({
 
   function go(to: DoorTarget) {
     resetTools();
-    if (to === "pho") return setWhere({ kind: "street" });
+    if (to === "pho") return onExit();
     // Xuất hiện ở ô trước cửa dẫn ngược về phòng vừa rời
     const back = ROOMS[to].doors.find((d) => d.to === roomId) ?? ROOMS[to].doors[0];
-    setWhere({ kind: "room", ownerId: owner.id, room: to, entry: doorTile(back) });
+    setWhere({ room: to, entry: doorTile(back) });
   }
 
   function onTile(x: number, y: number) {
@@ -193,21 +178,21 @@ export function HomeScreen({
         {ROOMS[roomId].icon} {ROOMS[roomId].name}
       </h1>
       <div className="muted" style={{ marginTop: -8 }}>
-        <button className="btn btn-ghost" style={{ padding: "0 4px" }} onClick={() => setWhere({ kind: "street" })}>
+        <button className="btn btn-ghost" style={{ padding: "0 4px" }} onClick={onExit}>
           🏘️ Khu phố
         </button>
-        › Nhà {owner.name} › {ROOMS[roomId].name}
+        › Nhà {ownerName} › {ROOMS[roomId].name}
       </div>
 
       {/* Chuyển phòng nhanh */}
       <div className="tabs">
-        {ROOM_ORDER.map((r) => (
+        {ROOM_ORDER.filter((r) => unlocked.includes(r)).map((r) => (
           <button
             key={r}
             className={`tab ${r === roomId ? "on" : ""}`}
             onClick={() => {
               resetTools();
-              setWhere({ kind: "room", ownerId: owner.id, room: r, entry: doorTile(ROOMS[r].doors.find((d) => d.to !== "pho") ?? ROOMS[r].doors[0]) });
+              setWhere({ room: r, entry: doorTile(ROOMS[r].doors.find((d) => d.to !== "pho") ?? ROOMS[r].doors[0]) });
             }}
           >
             {ROOMS[r].icon} {ROOMS[r].name}
@@ -235,13 +220,13 @@ export function HomeScreen({
           ))}
         </div>
       ) : (
-        <div className="banner">👋 Con đang đi thăm nhà {owner.name}. Chỉ chủ nhà mới sắp xếp được đồ nhé!</div>
+        <div className="banner">👋 Con đang đi thăm nhà {ownerName}. Chỉ chủ nhà mới sắp xếp được đồ nhé!</div>
       )}
 
       {mode !== "shop" && (
         <div className="room-card">
           <Room
-            key={`${owner.id}-${roomId}`}
+            key={`${ownerName}-${roomId}`}
             room={room}
             doors={doors}
             entry={where.entry}

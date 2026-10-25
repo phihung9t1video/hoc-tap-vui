@@ -59,8 +59,8 @@ export function Lobby({
 
       <div className="menu">
         <button className="btn" style={{ gridColumn: "1 / -1", background: "linear-gradient(135deg, #fde68a, #fdba74)" }} onClick={onHome}>
-          <span className="ico">🏠</span>
-          Nhà của {profile.name}
+          <span className="ico">🏘️</span>
+          {profile.town?.house ? `Khu phố · Nhà của ${profile.name}` : "Khu phố · Mua đất xây nhà"}
         </button>
         {subjectsForGrade(profile.grade).map((s: Subject) => (
           <button key={s} className="btn" style={{ background: SUBJECTS[s].color, color: "#fff" }} onClick={() => onPlay(s)}>

@@ -108,6 +108,27 @@ export function ParentSettings({
 
       {!firstRun && (
         <div className="card stack">
+          <strong>🏘️ Mã khu phố</strong>
+          {settings.townCode ? (
+            <>
+              <div className="pill" style={{ fontSize: 18, alignSelf: "flex-start" }}>
+                🔑 {settings.townCode}
+              </div>
+              <span className="muted" style={{ fontSize: 14 }}>
+                Nhập đúng mã này trên các máy khác để các con ở chung một khu phố, thấy và thăm nhà nhau.
+              </span>
+              <button className="btn" onClick={() => onSave({ ...settings, townCode: undefined })}>
+                Đổi sang khu phố khác
+              </button>
+            </>
+          ) : (
+            <span className="muted">Chưa có. Vào Khu phố từ sảnh để tạo mã hoặc nhập mã có sẵn.</span>
+          )}
+        </div>
+      )}
+
+      {!firstRun && (
+        <div className="card stack">
           <strong>☁️ Kho câu hỏi chung</strong>
           <span className="muted">{cloudEnabled ? "Đang bật: câu hỏi đã soạn được lưu lên kho chung, máy khác dùng lại được." : "Chưa bật: câu hỏi chỉ lưu trên máy này."}</span>
         </div>
