@@ -3,14 +3,12 @@
 import { useEffect, useMemo, useRef, useState, type PointerEvent as RPointerEvent, type ReactNode, type WheelEvent } from "react";
 import { OL } from "@/lib/draw";
 import { FloorQuad, TH, TW, poly, pt, type Proj } from "@/lib/iso";
-import { BLOCK, BLOCKS, MAP_N, PARK, PLOTS, ROAD, SPAWN, blockStart } from "@/lib/town";
+import { BLOCK, ROAD, type TownLayout } from "@/lib/town";
 import type { Look } from "@/lib/types";
 import { Avatar } from "./Avatar";
-import { HouseArt } from "./houses";
+import { HouseArt, ShopArt } from "./houses";
 
-const P: Proj = { ox: (MAP_N * TW) / 2 + 40, oy: 170 };
-const WORLD_W = MAP_N * TW + 80;
-const WORLD_H = P.oy + MAP_N * TH + 60;
+const projFor = (L: TownLayout): Proj => ({ ox: (L.mapN * TW) / 2 + 40, oy: 170 });
 const VW = 400;
 const VH = 520;
 const AV = 0.3;
@@ -36,7 +34,9 @@ interface View {
 // ---------- Đi theo đường ----------
 
 /** Ô đi được: lòng đường và công viên (không đi xuyên qua đất, nhà) */
-const isWalk = (x: number, y: number) => {
+const isWalk = (L: TownLayout, x: number, y: number) => {
+  const MAP_N = L.mapN;
+  const PARK = L.park;
   if (x < 0 || y < 0 || x >= MAP_N || y >= MAP_N) return false;
   const onRoad = x % (BLOCK + ROAD) < ROAD || y % (BLOCK + ROAD) < ROAD;
   const inPark = x >= PARK.x && x < PARK.x + PARK.size && y >= PARK.y && y < PARK.y + PARK.size;
@@ -44,10 +44,11 @@ const isWalk = (x: number, y: number) => {
 };
 
 /** Ô đường gần nhất (tìm loang từ ô đã chọn) */
-function nearestWalk(x: number, y: number): [number, number] {
+function nearestWalk(L: TownLayout, x: number, y: number): [number, number] {
+  const MAP_N = L.mapN;
   const sx = Math.min(MAP_N - 1, Math.max(0, Math.floor(x)));
   const sy = Math.min(MAP_N - 1, Math.max(0, Math.floor(y)));
-  if (isWalk(sx, sy)) return [sx, sy];
+  if (isWalk(L, sx, sy)) return [sx, sy];
   const seen = new Set([sx * MAP_N + sy]);
   const q: [number, number][] = [[sx, sy]];
   while (q.length) {
@@ -56,16 +57,17 @@ function nearestWalk(x: number, y: number): [number, number] {
       const nx = cx + dx;
       const ny = cy + dy;
       if (nx < 0 || ny < 0 || nx >= MAP_N || ny >= MAP_N || seen.has(nx * MAP_N + ny)) continue;
-      if (isWalk(nx, ny)) return [nx, ny];
+      if (isWalk(L, nx, ny)) return [nx, ny];
       seen.add(nx * MAP_N + ny);
       q.push([nx, ny]);
     }
   }
-  return [Math.floor(SPAWN[0]), Math.floor(SPAWN[1])];
+  return [Math.floor(L.spawn[0]), Math.floor(L.spawn[1])];
 }
 
 /** Đường đi trên lưới ô đường, trả về các điểm rẽ (tâm ô) */
-function roadPath(from: [number, number], to: [number, number]): [number, number][] {
+function roadPath(L: TownLayout, from: [number, number], to: [number, number]): [number, number][] {
+  const MAP_N = L.mapN;
   const key = (x: number, y: number) => x * MAP_N + y;
   const prev = new Map<number, number>([[key(...from), -1]]);
   const q: [number, number][] = [from];
@@ -75,7 +77,7 @@ function roadPath(from: [number, number], to: [number, number]): [number, number
     for (const [dx, dy] of [[1, 0], [-1, 0], [0, 1], [0, -1]]) {
       const nx = cx + dx;
       const ny = cy + dy;
-      if (!isWalk(nx, ny) || prev.has(key(nx, ny))) continue;
+      if (!isWalk(L, nx, ny) || prev.has(key(nx, ny))) continue;
       prev.set(key(nx, ny), key(cx, cy));
       q.push([nx, ny]);
     }
@@ -96,18 +98,18 @@ function roadPath(from: [number, number], to: [number, number]): [number, number
 }
 
 /** Ô đường ngay trước mảnh đất (phía có lối vào) */
-const plotDoor = (plotId: number): [number, number] => {
-  const pl = PLOTS[plotId];
+const plotDoor = (L: TownLayout, plotId: number): [number, number] => {
+  const pl = L.plots[plotId];
   const bottomRow = (pl.y - ROAD) % (BLOCK + ROAD) === 4;
-  return nearestWalk(pl.x + 1, bottomRow ? pl.y + 3 : pl.y - 1);
+  return nearestWalk(L, pl.x + 1, bottomRow ? pl.y + 3 : pl.y - 1);
 };
 
-const front = (plotId: number): [number, number] => {
-  const pl = PLOTS[plotId];
+const front = (L: TownLayout, plotId: number): [number, number] => {
+  const pl = L.plots[plotId];
   return [pl.x + 1, pl.y + 2.75];
 };
 
-function Tree({ x, y }: { x: number; y: number }) {
+function Tree({ p: P, x, y }: { p: Proj; x: number; y: number }) {
   const [sx, sy] = pt(P, x, y);
   return (
     <g transform={`translate(${sx.toFixed(1)} ${sy.toFixed(1)})`} stroke={OL} strokeWidth={1.5}>
@@ -120,7 +122,7 @@ function Tree({ x, y }: { x: number; y: number }) {
   );
 }
 
-function Sign({ x, y, text, color }: { x: number; y: number; text: string; color: string }) {
+function Sign({ p: P, x, y, text, color }: { p: Proj; x: number; y: number; text: string; color: string }) {
   const [sx, sy] = pt(P, x, y);
   const w = Math.max(44, text.length * 6.4 + 12);
   return (
@@ -135,25 +137,41 @@ function Sign({ x, y, text, color }: { x: number; y: number; text: string; color
 }
 
 export function TownMap({
+  layout: L,
   plots,
   players,
   meId,
   myLook,
   myPlot,
+  startPlot,
   onPlot,
+  onShop,
 }: {
+  layout: TownLayout;
   plots: Map<number, MapPlot>;
   players: MapPlayer[];
   meId: string;
   myLook: Look;
   myPlot?: number;
+  /** Đứng trước mảnh đất này khi mở bản đồ (ví dụ vừa ra khỏi shop) */
+  startPlot?: number;
   onPlot: (id: number) => void;
+  /** Đã đi tới cửa shop: mở shop */
+  onShop: (shopId: string) => void;
 }) {
-  const start: [number, number] = myPlot !== undefined ? ((d) => [d[0] + 0.5, d[1] + 0.5] as [number, number])(plotDoor(myPlot)) : SPAWN;
+  const P = projFor(L);
+  const MAP_N = L.mapN;
+  const WORLD_W = MAP_N * TW + 80;
+  const WORLD_H = P.oy + MAP_N * TH + 60;
+  const PARK = L.park;
+  const SPAWN = L.spawn;
+  const startAt = startPlot ?? myPlot;
+  const start: [number, number] = startAt !== undefined && L.plots[startAt] ? ((d) => [d[0] + 0.5, d[1] + 0.5] as [number, number])(plotDoor(L, startAt)) : SPAWN;
   const [me, setMe] = useState({ x: start[0], y: start[1], back: false, moving: false });
   const meRef = useRef(me);
   meRef.current = me;
   const route = useRef<[number, number][]>([]);
+  const arrive = useRef<(() => void) | null>(null);
   const raf = useRef<number | null>(null);
 
   const svgRef = useRef<SVGSVGElement>(null);
@@ -183,6 +201,9 @@ export function TownMap({
       if (!tg) {
         setMe({ ...m, moving: false });
         raf.current = null;
+        const done = arrive.current;
+        arrive.current = null;
+        if (done) setTimeout(done, 150);
         return;
       }
       const dx = tg[0] - m.x;
@@ -205,10 +226,11 @@ export function TownMap({
     raf.current = requestAnimationFrame(step);
   }
 
-  function goTo(tx: number, ty: number) {
-    const from = nearestWalk(meRef.current.x, meRef.current.y);
-    const to = nearestWalk(tx, ty);
-    const path = roadPath(from, to);
+  function goTo(tx: number, ty: number, then?: () => void) {
+    arrive.current = then ?? null;
+    const from = nearestWalk(L, meRef.current.x, meRef.current.y);
+    const to = nearestWalk(L, tx, ty);
+    const path = roadPath(L, from, to);
     // Đang đứng lệch khỏi tâm ô: bước về tâm ô trước
     route.current = [[from[0] + 0.5, from[1] + 0.5], ...path];
     if (!raf.current) walkLoop();
@@ -271,10 +293,16 @@ export function TownMap({
     ptrs.current.delete(e.pointerId);
     const g = gesture.current;
     if (was !== 1 || g.moved || !at) return;
+    const shopEl = (g.target as Element | null)?.closest?.("[data-shop]");
+    if (shopEl) {
+      const id = Number(shopEl.getAttribute("data-plot"));
+      const shopId = shopEl.getAttribute("data-shop")!;
+      return goTo(...plotDoor(L, id), () => onShop(shopId));
+    }
     const el = (g.target as Element | null)?.closest?.("[data-plot]");
     if (el) {
       const id = Number(el.getAttribute("data-plot"));
-      goTo(...plotDoor(id));
+      goTo(...plotDoor(L, id));
       return onPlot(id);
     }
     // Chạm vào đường, bãi cỏ: đi tới đó
@@ -315,7 +343,7 @@ export function TownMap({
   const ground = useMemo(() => {
     const items: ReactNode[] = [];
     items.push(<FloorQuad key="grass" p={P} x={0} y={0} w={MAP_N} d={MAP_N} fill="#86efac" />);
-    for (let i = 0; i <= BLOCKS; i++) {
+    for (let i = 0; i <= L.blocks; i++) {
       const r = i * (BLOCK + ROAD);
       items.push(<FloorQuad key={`rv${i}`} p={P} x={r} y={0} w={ROAD} d={MAP_N} fill="#64748b" stroke="none" />);
       items.push(<FloorQuad key={`rh${i}`} p={P} x={0} y={r} w={MAP_N} d={ROAD} fill="#64748b" stroke="none" />);
@@ -324,11 +352,11 @@ export function TownMap({
         items.push(<FloorQuad key={`dh${i}-${k}`} p={P} x={k} y={r + 0.97} w={0.7} d={0.06} fill="#f8fafc" stroke="none" />);
       }
     }
-    for (let by = 0; by < BLOCKS; by++)
-      for (let bx = 0; bx < BLOCKS; bx++)
-        items.push(<FloorQuad key={`b${bx}${by}`} p={P} x={blockStart(bx) - 0.08} y={blockStart(by) - 0.08} w={BLOCK + 0.16} d={BLOCK + 0.16} fill="#e5e7eb" stroke="#94a3b8" />);
-    for (let by = 0; by < BLOCKS; by++)
-      for (let bx = 0; bx < BLOCKS; bx++) items.push(<FloorQuad key={`g${bx}${by}`} p={P} x={blockStart(bx) + 0.1} y={blockStart(by) + 0.1} w={BLOCK - 0.2} d={BLOCK - 0.2} fill="#86efac" stroke="none" />);
+    for (let by = 0; by < L.blocks; by++)
+      for (let bx = 0; bx < L.blocks; bx++)
+        items.push(<FloorQuad key={`b${bx}-${by}`} p={P} x={L.blockStart(bx) - 0.08} y={L.blockStart(by) - 0.08} w={BLOCK + 0.16} d={BLOCK + 0.16} fill="#e5e7eb" stroke="#94a3b8" />);
+    for (let by = 0; by < L.blocks; by++)
+      for (let bx = 0; bx < L.blocks; bx++) items.push(<FloorQuad key={`g${bx}-${by}`} p={P} x={L.blockStart(bx) + 0.1} y={L.blockStart(by) + 0.1} w={BLOCK - 0.2} d={BLOCK - 0.2} fill="#86efac" stroke="none" />);
     // Công viên ở giữa: lối đi chữ thập, hồ nước, đài phun nước
     items.push(<FloorQuad key="pk1" p={P} x={PARK.x + 3} y={PARK.y + 0.1} w={1} d={PARK.size - 0.2} fill="#fde68a" stroke="none" />);
     items.push(<FloorQuad key="pk2" p={P} x={PARK.x + 0.1} y={PARK.y + 3} w={PARK.size - 0.2} d={1} fill="#fde68a" stroke="none" />);
@@ -344,13 +372,27 @@ export function TownMap({
     const [lx, ly] = pt(P, PARK.x + 1.5, PARK.y + 5.5);
     items.push(<ellipse key="pond" cx={lx} cy={ly} rx={50} ry={22} fill="#60a5fa" stroke={OL} strokeWidth={1.5} />);
     return items;
-  }, []);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [L]);
 
   // ---------- Đất và nhà ----------
   const plotNodes = useMemo(() => {
     const flat: ReactNode[] = [];
     const tall: { key: number; node: ReactNode }[] = [];
-    for (const pl of PLOTS) {
+    for (const pl of L.plots) {
+      const shop = L.shopAt.get(pl.id);
+      if (shop) {
+        flat.push(<FloorQuad key={`p${pl.id}`} p={P} x={pl.x} y={pl.y} w={3} d={3} fill="#e2e8f0" stroke="#94a3b8" />);
+        tall.push({
+          key: pl.x + pl.y + 3,
+          node: (
+            <g key={`shop${pl.id}`} data-plot={pl.id} data-shop={shop.id} style={{ cursor: "pointer" }}>
+              <ShopArt p={P} x={pl.x} y={pl.y} name={shop.name} icon={shop.icon} color={shop.color} />
+            </g>
+          ),
+        });
+        continue;
+      }
       const info = plots.get(pl.id);
       const mine = info?.owner === meId;
       const fill = !info ? (pl.prime ? "#fef9c3" : "#ecfccb") : info.house ? "#bbf7d0" : "#d6b98c";
@@ -366,7 +408,7 @@ export function TownMap({
           node: (
             <g key={`h${pl.id}`} data-plot={pl.id} style={{ cursor: "pointer" }}>
               <HouseArt p={P} x={pl.x} y={pl.y} tier={info.house.tier} color={info.house.color} />
-              <Sign x={pl.x + 2.95} y={pl.y + 2.95} text={`Nhà ${info.ownerName}`} color={mine ? "#fff7cc" : "#ffffff"} />
+              <Sign p={P} x={pl.x + 2.95} y={pl.y + 2.95} text={`Nhà ${info.ownerName}`} color={mine ? "#fff7cc" : "#ffffff"} />
             </g>
           ),
         });
@@ -376,6 +418,7 @@ export function TownMap({
           node: (
             <g key={`s${pl.id}`} data-plot={pl.id} style={{ cursor: "pointer" }}>
               <Sign
+                p={P}
                 x={pl.x + 1.5}
                 y={pl.y + 1.5}
                 text={info ? `Đất của ${info.ownerName}` : `Bán đất ${pl.price}⭐`}
@@ -387,23 +430,24 @@ export function TownMap({
       }
     }
     // Cây xanh trong các dãy phố và quanh công viên
-    for (let by = 0; by < BLOCKS; by++)
-      for (let bx = 0; bx < BLOCKS; bx++) {
-        const x0 = blockStart(bx);
-        const y0 = blockStart(by);
+    for (let by = 0; by < L.blocks; by++)
+      for (let bx = 0; bx < L.blocks; bx++) {
+        const x0 = L.blockStart(bx);
+        const y0 = L.blockStart(by);
         const spots: [number, number][] =
-          bx === 2 && by === 2
+          bx === L.center && by === L.center
             ? [[0.8, 0.8], [6.2, 0.8], [0.8, 6.2], [6.2, 6.2], [5.6, 1.8], [1.8, 1.8]]
             : [[3.5, 1.4], [3.5, 5.6]];
-        for (const [ox, oy] of spots) tall.push({ key: x0 + ox + y0 + oy, node: <Tree key={`t${bx}${by}${ox}${oy}`} x={x0 + ox} y={y0 + oy} /> });
+        for (const [ox, oy] of spots) tall.push({ key: x0 + ox + y0 + oy, node: <Tree key={`t${bx}-${by}-${ox}-${oy}`} p={P} x={x0 + ox} y={y0 + oy} /> });
       }
     return { flat, tall };
-  }, [plots, meId]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [plots, meId, L]);
 
   // ---------- Nhân vật ----------
   const others = players.filter((p) => p.id !== meId);
   const people: { key: number; node: ReactNode }[] = others.map((p, i) => {
-    const [x, y] = p.plot !== undefined ? front(p.plot) : [SPAWN[0] + 0.8 + (i % 4) * 0.7, SPAWN[1] - 1.2 - Math.floor(i / 4) * 0.7];
+    const [x, y] = p.plot !== undefined && L.plots[p.plot] ? front(L, p.plot) : [SPAWN[0] + 0.8 + (i % 4) * 0.7, SPAWN[1] - 1.2 - Math.floor(i / 4) * 0.7];
     const [sx, sy] = pt(P, x, y);
     return {
       key: x + y + 0.01,

@@ -1,9 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { RARITY } from "@/lib/draw";
 import {
-  HOME_CATS,
   HOME_ITEMS,
   HOME_MAP,
   ROOMS,
@@ -24,7 +22,7 @@ import type { Profile } from "@/lib/types";
 import { newId } from "@/lib/util";
 import { HomeThumb, Room } from "./Room";
 
-type Mode = "play" | "arrange" | "shop";
+type Mode = "play" | "arrange";
 type Where = { room: RoomId; entry?: [number, number] };
 
 /** Bên trong một ngôi nhà: nhà mình (sắp xếp được) hoặc nhà bạn (chỉ tham quan) */
@@ -55,8 +53,6 @@ export function HomeScreen({
   const [mode, setMode] = useState<Mode>("play");
   const [selected, setSelected] = useState<string | undefined>();
   const [holding, setHolding] = useState<string | undefined>();
-  const [cat, setCat] = useState(HOME_CATS[0].id);
-  const [trial, setTrial] = useState<HomeItem | null>(null);
   const [msg, setMsg] = useState<string | null>(null);
 
   const flash = (t: string) => {
@@ -66,7 +62,6 @@ export function HomeScreen({
   const resetTools = () => {
     setSelected(undefined);
     setHolding(undefined);
-    setTrial(null);
   };
 
   const mine = editable;
@@ -151,20 +146,6 @@ export function HomeScreen({
     setRoom((r) => (it.kind === "wallpaper" ? { ...r, wallpaper: it.id } : { ...r, flooring: it.id }));
   }
 
-  function buy(it: HomeItem) {
-    onChange((p) => (p.coins >= it.price && !p.owned.includes(it.id) ? { ...p, coins: p.coins - it.price, owned: [...p.owned, it.id] } : p));
-    setTrial(null);
-    if (it.kind === "wallpaper" || it.kind === "flooring") {
-      applyTheme(it);
-      flash(`Đã đổi ${ROOMS[roomId].name.toLowerCase()} sang ${it.name}!`);
-    } else {
-      setMode("arrange");
-      setSelected(undefined);
-      setHolding(it.id);
-    }
-  }
-
-  const shopItems = HOME_ITEMS.filter((i) => i.cat === cat).sort((a, b) => Number(!a.starter) - Number(!b.starter) || a.price - b.price);
 
   return (
     <div className="stack">
@@ -205,7 +186,6 @@ export function HomeScreen({
           {([
             ["play", "🚶 Đi dạo"],
             ["arrange", "✏️ Sắp xếp"],
-            ["shop", "🛒 Cửa hàng nội thất"],
           ] as [Mode, string][]).map(([m, label]) => (
             <button
               key={m}
@@ -223,7 +203,7 @@ export function HomeScreen({
         <div className="banner">👋 Con đang đi thăm nhà {ownerName}. Chỉ chủ nhà mới sắp xếp được đồ nhé!</div>
       )}
 
-      {mode !== "shop" && (
+      {(
         <div className="room-card">
           <Room
             key={`${ownerName}-${roomId}`}
@@ -287,7 +267,7 @@ export function HomeScreen({
           {!held && !sel && (
             <>
               <strong>📦 Kho đồ ({inventory.length})</strong>
-              {inventory.length === 0 && <div className="muted">Kho trống. Vào 🛒 Cửa hàng nội thất để mua thêm đồ nhé!</div>}
+              {inventory.length === 0 && <div className="muted">Kho trống. Ra 🏘️ Khu phố, vào các cửa hàng để mua thêm đồ nhé!</div>}
               <div className="items">
                 {inventory.map((it) => (
                   <button key={it.id} className={`item r-${it.rarity}`} onClick={() => setHolding(it.id)}>
@@ -312,70 +292,6 @@ export function HomeScreen({
                 Chạm vào đồ trong phòng để chuyển chỗ, xoay hoặc cất vào kho. Đồ trong kho đặt được ở bất kì phòng nào.
               </div>
             </>
-          )}
-        </div>
-      )}
-
-      {mine && mode === "shop" && (
-        <div className="stack">
-          <div className="muted">Đồ mua xong sẽ đặt vào {ROOMS[roomId].name.toLowerCase()}.</div>
-          <div className="tabs">
-            {HOME_CATS.map((c) => (
-              <button
-                key={c.id}
-                className={`tab ${cat === c.id ? "on" : ""}`}
-                onClick={() => {
-                  setCat(c.id);
-                  setTrial(null);
-                }}
-              >
-                {c.icon} {c.label}
-              </button>
-            ))}
-          </div>
-          <div className="items">
-            {shopItems.map((it) => {
-              const has = owned.has(it.id);
-              return (
-                <button key={it.id} className={`item r-${it.rarity} ${trial?.id === it.id ? "on" : ""}`} onClick={() => setTrial(it)}>
-                  <HomeThumb item={it} size={76} />
-                  <span>{it.name}</span>
-                  {has ? <span className="tag">✅</span> : <span className="price">⭐ {it.price}</span>}
-                </button>
-              );
-            })}
-          </div>
-          {trial && (
-            <div className={`card shop-panel pop r-${trial.rarity}`}>
-              <div className="row between wrap">
-                <div className="row">
-                  <HomeThumb item={trial} size={64} />
-                  <div>
-                    <strong style={{ fontSize: 19 }}>{trial.name}</strong>{" "}
-                    <span className="rarity" style={{ background: RARITY[trial.rarity].color }}>
-                      {RARITY[trial.rarity].label}
-                    </span>
-                    <div className="muted" style={{ fontSize: 14 }}>
-                      {owned.has(trial.id)
-                        ? "Con đã có món này."
-                        : me.coins >= trial.price
-                          ? `Giá ${trial.price} xu`
-                          : `Giá ${trial.price} xu – cần thêm ${trial.price - me.coins} xu`}
-                    </div>
-                  </div>
-                </div>
-                <div className="row">
-                  <button className="btn" onClick={() => setTrial(null)}>
-                    Thôi
-                  </button>
-                  {!owned.has(trial.id) && (
-                    <button className="btn btn-gold" disabled={me.coins < trial.price} onClick={() => buy(trial)}>
-                      Mua ⭐ {trial.price}
-                    </button>
-                  )}
-                </div>
-              </div>
-            </div>
           )}
         </div>
       )}

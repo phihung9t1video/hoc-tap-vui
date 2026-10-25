@@ -101,13 +101,11 @@ Các bản phát hành: https://github.com/phihung9t1video/hoc-tap-vui/releases
 Khóa Gemini:     https://aistudio.google.com/apikey
 
 
-8. KHU PHỐ CHUNG (GAME XÂY NHÀ)
+8. KHU PHỐ CHUNG (GAME XÂY NHÀ, ĐI MUA SẮM)
 ---------------------------------------------------------------------
-- Ở sảnh bấm "Khu phố". Lần đầu: TẠO KHU PHỐ MỚI (app tạo mã dạng
-  KP-XXXX-XXXX) hoặc NHẬP MÃ khu phố đã có.
-- Máy nào nhập CÙNG MÃ thì ở chung khu phố: thấy nhà của nhau, vào thăm
-  được (chỉ xem, không sửa được nhà người khác).
-- Xem lại / đổi mã: màn hình chọn người chơi -> "Cài đặt (bố mẹ)" -> Mã khu phố.
+- Cả app chỉ có MỘT khu phố chung, không cần mã. Mọi máy có mạng đều thấy
+  nhà của nhau và vào thăm được (chỉ xem, không sửa được nhà người khác).
+- Gần hết đất, khu phố tự mở rộng thêm một vòng dãy phố bao quanh.
 
 Cách chơi:
   1. Nhân vật mới xuất hiện trên đường, chưa có nhà.
@@ -117,8 +115,9 @@ Cách chơi:
        Nhà cấp 4 300 xu (2 phòng) · Nhà ống 800 (4 phòng) · Nhà vườn 1 600
        (5 phòng) · Biệt thự 3 200 (6 phòng, bể bơi) · Lâu đài 6 000.
      Nâng cấp sau chỉ trả phần chênh lệch. Sơn lại nhà miễn phí.
-  4. Vào nhà bày đồ. Chạm vào ghế/sofa để ngồi, giường để nằm ngủ.
-  5. Xu chỉ có được khi học -> con chăm học thì nhà to đẹp hơn.
-     "Bảng chăm chỉ" xếp hạng theo tổng xu đã kiếm.
-
-Dữ liệu khu phố lưu trên Supabase (dự án hoc-tap-vui, miễn phí).
+  4. MUA SẮM: quanh công viên có 10 cửa hàng, mỗi cửa hàng một loại hàng
+     (Thời trang, Tiệm làm đẹp, Phụ kiện, Thú cưng, Nội thất, Nhà sách,
+     Đồ chơi, Trang trí, Bếp & Phòng tắm, Sơn & Sàn). Chạm vào cửa hàng,
+     nhân vật đi bộ tới rồi vào trong chọn đồ.
+  5. Vào nhà bày đồ (✏️ Sắp xếp). Chạm ghế/sofa để ngồi, giường để nằm ngủ.
+  6. Xu chỉ có được khi học -> con chăm học thì nhà to đẹp hơn.

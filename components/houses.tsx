@@ -177,3 +177,47 @@ export function HouseThumb({ tier, color, size = 90 }: { tier: string; color: st
     </svg>
   );
 }
+
+/** Cửa hàng trong khu phố: tủ kính, mái hiên sọc, biển hiệu trên nóc */
+export function ShopArt({ p, x, y, name, icon, color }: { p: Proj; x: number; y: number; name: string; icon: string; color: string }) {
+  const [bx, by, w, d, h] = [x + 0.3, y + 0.35, 2.4, 2.3, 50];
+  const awning = (side: "L" | "R") => {
+    const n = 6;
+    return Array.from({ length: n }, (_, i) => {
+      const a = i / n;
+      const b = (i + 1) / n;
+      const pts: Pt[] =
+        side === "L"
+          ? [pt(p, bx + w * a, by + d, 38), pt(p, bx + w * b, by + d, 38), pt(p, bx + w * b, by + d + 0.45, 28), pt(p, bx + w * a, by + d + 0.45, 28)]
+          : [pt(p, bx + w, by + d * a, 38), pt(p, bx + w, by + d * b, 38), pt(p, bx + w + 0.45, by + d * b, 28), pt(p, bx + w + 0.45, by + d * a, 28)];
+      return <polygon key={`${side}${i}`} points={poly(pts)} fill={i % 2 ? "#ffffff" : color} stroke={OL} strokeWidth={1.2} />;
+    });
+  };
+  const [sx, sy] = pt(p, bx + w / 2, by + d / 2, h);
+  const label = `${icon} ${name}`;
+  const sw = Math.max(70, label.length * 7.5 + 16);
+  return (
+    <g>
+      <Shadow p={p} x={bx} y={by} w={w} d={d} />
+      <Box p={p} x={bx} y={by} w={w} d={d} h={h} color="#fff7ed" top={shade(color, 1.35)} />
+      {/* Tủ kính hai mặt trước */}
+      <polygon points={poly(faceL(p, by + d, bx + 0.15, bx + 0.85, 4, 30))} fill="#bae6fd" stroke={OL} strokeWidth={1.5} />
+      <polygon points={poly(faceL(p, by + d, bx + 1.55, bx + w - 0.15, 4, 30))} fill="#bae6fd" stroke={OL} strokeWidth={1.5} />
+      <polygon points={poly(faceL(p, by + d, bx + 0.95, bx + 1.45, 0, 30))} fill={shade(color, 0.8)} stroke={OL} strokeWidth={1.5} />
+      <polygon points={poly(faceR(p, bx + w, by + 0.15, by + d - 0.15, 4, 30))} fill="#bae6fd" stroke={OL} strokeWidth={1.5} />
+      {/* Hàng hoá bày sau kính */}
+      {[0.35, 0.6, 1.75, 2.0].map((u) => {
+        const [gx, gy] = pt(p, bx + u, by + d, 12);
+        return <circle key={u} cx={gx} cy={gy} r={4} fill={shade(color, 1.2)} stroke={OL} strokeWidth={1} />;
+      })}
+      {awning("L")}
+      {awning("R")}
+      {/* Biển hiệu */}
+      <rect x={sx - 2} y={sy - 26} width={4} height={18} fill="#475569" />
+      <rect x={sx - sw / 2} y={sy - 46} width={sw} height={24} rx={8} fill={color} stroke={OL} strokeWidth={2} />
+      <text x={sx} y={sy - 29} textAnchor="middle" fontSize={12.5} fontWeight={900} fill="#fff" stroke={shade(color, 0.6)} strokeWidth={2.5} paintOrder="stroke">
+        {label}
+      </text>
+    </g>
+  );
+}

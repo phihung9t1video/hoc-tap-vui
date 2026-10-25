@@ -70,7 +70,7 @@ export function Lobby({
         ))}
         <button className="btn btn-gold" onClick={onWardrobe}>
           <span className="ico">👕</span>
-          Tủ đồ & Cửa hàng
+          Tủ đồ
         </button>
         <button className="btn" style={{ background: "#ffe1d6" }} onClick={onAchievements}>
           <span className="ico">🏆</span>

@@ -17,6 +17,7 @@ export function AvatarEditor({
   owned,
   coins,
   shop,
+  slots,
   onChange,
   onBuy,
 }: {
@@ -25,10 +26,13 @@ export function AvatarEditor({
   coins: number;
   /** true: cho phép mua đồ; false: màn tạo nhân vật, chỉ dùng đồ có sẵn */
   shop: boolean;
+  /** Chỉ hiện các mục này (mỗi shop trong khu phố bán một loại) */
+  slots?: Slot[];
   onChange: (look: Look) => void;
   onBuy?: (item: Item) => void;
 }) {
-  const [slot, setSlot] = useState<Slot>(SLOTS[0].slot);
+  const tabs = slots ? SLOTS.filter((s) => slots.includes(s.slot)) : SLOTS;
+  const [slot, setSlot] = useState<Slot>(tabs[0].slot);
   const [trial, setTrial] = useState<Item | null>(null);
   const tab = SLOTS.find((s) => s.slot === slot)!;
   const preview = trial ? { ...look, [trial.slot]: trial.id } : look;
@@ -62,7 +66,7 @@ export function AvatarEditor({
       </div>
 
       <div className="tabs" role="tablist">
-        {SLOTS.map((s) => (
+        {tabs.map((s) => (
           <button
             key={s.slot}
             role="tab"
@@ -116,7 +120,7 @@ export function AvatarEditor({
                 {trial.achievement
                   ? `Phần thưởng thành tích: ${ACHIEVEMENT_MAP[trial.achievement]?.desc}`
                   : !shop
-                    ? "Làm bài kiếm xu rồi vào Cửa hàng mua nhé!"
+                    ? "Làm bài kiếm xu rồi ra 🏘️ Khu phố vào shop mua nhé!"
                     : coins >= trial.price
                       ? `Giá ${trial.price} xu`
                       : `Giá ${trial.price} xu – con cần thêm ${trial.price - coins} xu nữa`}

@@ -273,3 +273,9 @@ h2 { font-size: 24px; }
 .map-tools .btn { padding: 4px 10px; font-size: 18px; border-radius: 12px; }
 .zzz { animation: zzz 2s ease-in-out infinite; }
 @keyframes zzz { 0% { opacity: 0; transform: translateY(6px); } 40% { opacity: 1; } 100% { opacity: 0; transform: translateY(-14px); } }
+
+/* Cửa hàng trong khu phố */
+.shop-front { border: 2px solid var(--line); border-radius: 18px; overflow: hidden; background: #fff; }
+.shop-awning { height: 26px; background: repeating-linear-gradient(90deg, var(--shop) 0 26px, #fff 26px 52px); border-bottom: 2px solid var(--line); }
+.shop-shelf { background: linear-gradient(#fff 0 calc(100% - 10px), #d6b98c calc(100% - 10px)); border-radius: 16px; padding: 8px; }
+.items.shop-shelf { background: repeating-linear-gradient(#fffaf2 0 150px, #d6b98c 150px 160px); }

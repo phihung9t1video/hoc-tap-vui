@@ -2,38 +2,37 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { migrateHome } from "@/lib/home";
-import { HOUSE_COLORS, HOUSE_TIERS, PLOTS, TIER_MAP, decodeHouse, encodeHouse, newTownCode, normalizeTownCode, upgradeCost } from "@/lib/town";
+import { HOUSE_COLORS, HOUSE_TIERS, SHOP_MAP, TIER_MAP, TOWN, decodeHouse, encodeHouse, ringsFor, townLayout, upgradeCost } from "@/lib/town";
 import { cachedTown, claimPlot, fetchTown, joinTown, saveHouse, totalEarned, townOnline, type TownState } from "@/lib/townCloud";
-import type { Profile, Settings } from "@/lib/types";
+import type { Profile } from "@/lib/types";
 import { HomeScreen } from "./HomeScreen";
 import { HouseThumb } from "./houses";
+import { ShopScreen } from "./ShopScreen";
 import { TownMap, type MapPlayer, type MapPlot } from "./TownMap";
 
-type View = { kind: "map" } | { kind: "inside"; ownerId: string };
+type View = { kind: "map" } | { kind: "inside"; ownerId: string } | { kind: "shop"; shopId: string };
 
-/** Đất, nhà của một hồ sơ trong khu phố đang mở (bỏ qua nếu thuộc khu phố khác) */
-const townOf = (p: Profile, code?: string) => (p.town && code && (!p.town.code || p.town.code === code) ? p.town : undefined);
+/** Đất, nhà của một hồ sơ trong khu phố chung */
+const townOf = (p: Profile, code: string) => (p.town?.code === code ? p.town : undefined);
 
 export function TownScreen({
   me,
   profiles,
-  settings,
-  onSettings,
   onChange,
   onBack,
 }: {
   me: Profile;
   /** Các hồ sơ trên máy này (để chơi chung khi không có mạng) */
   profiles: Profile[];
-  settings: Settings;
-  onSettings: (s: Settings) => void;
   onChange: (fn: (p: Profile) => Profile) => void;
   onBack: () => void;
 }) {
-  const code = settings.townCode;
-  const [cloud, setCloud] = useState<TownState | null>(() => (code ? cachedTown(code) : null));
+  const code = TOWN;
+  const [cloud, setCloud] = useState<TownState | null>(() => cachedTown(code));
   const [view, setView] = useState<View>({ kind: "map" });
   const [sel, setSel] = useState<number | null>(null);
+  /** Ra khỏi shop, nhà: đứng lại trước cửa chỗ đó */
+  const [backAt, setBackAt] = useState<number | undefined>();
   const [msg, setMsg] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
   const [color, setColor] = useState(decodeHouse(me.town?.house)?.color ?? "kem");
@@ -42,6 +41,16 @@ export function TownScreen({
     setMsg(t);
     setTimeout(() => setMsg((m) => (m === t ? null : m)), 3000);
   };
+
+  // Bản 1.2.0 cho tạo nhiều khu phố riêng: nay gộp làm một, hoàn lại xu đã mua đất, xây nhà ở khu phố cũ
+  useEffect(() => {
+    if (!me.town || me.town.code === TOWN) return;
+    const refundOf = (t: NonNullable<Profile["town"]>) => (t.plot !== undefined ? 500 : 0) + (TIER_MAP[decodeHouse(t.house)?.tier ?? ""]?.price ?? 0);
+    const refund = refundOf(me.town);
+    onChange((p) => (p.town && p.town.code !== TOWN ? { ...p, coins: p.coins + refundOf(p.town), town: undefined } : p));
+    if (refund) flash(`Các khu phố đã gộp thành một khu phố chung. Con được hoàn lại ⭐ ${refund} để mua đất, xây nhà mới nhé!`);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [me.id]);
 
   const refresh = useCallback(async () => {
     if (!code) return;
@@ -93,12 +102,25 @@ export function TownScreen({
     return { plots, players: [...players.values()] };
   }, [cloud, profiles, code]);
 
-  // ---------- Chưa có mã khu phố ----------
-  if (!code) return <TownSetup onDone={(c) => onSettings({ ...settings, townCode: c })} onBack={onBack} />;
+  // Khu phố tự nở thêm một vòng dãy phố khi gần hết đất
+  const layout = townLayout(ringsFor(plots.size, Math.max(-1, ...plots.keys())));
 
   const myTown = townOf(me, code);
   const myPlot = myTown?.plot;
   const myHouse = decodeHouse(myTown?.house);
+
+  // ---------- Bên trong một cửa hàng ----------
+  if (view.kind === "shop") {
+    return (
+      <ShopScreen
+        shop={SHOP_MAP[view.shopId]}
+        me={me}
+        onChange={onChange}
+        onExit={() => setView({ kind: "map" })}
+        onBack={onBack}
+      />
+    );
+  }
 
   // ---------- Bên trong một ngôi nhà ----------
   if (view.kind === "inside") {
@@ -127,7 +149,7 @@ export function TownScreen({
 
   // ---------- Hành động trên mảnh đất ----------
   const selInfo = sel !== null ? plots.get(sel) : undefined;
-  const selPlot = sel !== null ? PLOTS[sel] : undefined;
+  const selPlot = sel !== null ? layout.plots[sel] : undefined;
 
   async function buy() {
     if (sel === null || !selPlot) return;
@@ -182,8 +204,8 @@ export function TownScreen({
       </div>
       <div className="row between wrap">
         <h1>🏘️ Khu phố</h1>
-        <span className="pill" title="Gửi mã này cho người thân để chơi cùng khu phố">
-          🔑 {code}
+        <span className="pill">
+          🏡 {plots.size}/{layout.plots.length - layout.shopAt.size} mảnh đất đã có chủ
         </span>
       </div>
       {!townOnline && <div className="banner">Đang chơi trên máy này (chưa kết nối khu phố chung).</div>}
@@ -192,7 +214,16 @@ export function TownScreen({
       )}
 
       <div className="room-card">
-        <TownMap plots={plots} players={players} meId={me.id} myLook={me.look} myPlot={myPlot} onPlot={setSel} />
+        <TownMap
+          key={layout.rings}
+          layout={layout}
+          startPlot={backAt}
+          onShop={(shopId) => {
+            setBackAt([...layout.shopAt.entries()].find(([, s]) => s.id === shopId)?.[0]);
+            setSel(null);
+            setView({ kind: "shop", shopId });
+          }}
+          plots={plots} players={players} meId={me.id} myLook={me.look} myPlot={myPlot} onPlot={setSel} />
       </div>
 
       {msg && <div className="banner pop">{msg}</div>}
@@ -225,7 +256,7 @@ export function TownScreen({
                 {selInfo.house ? ` · ${TIER_MAP[selInfo.house.tier].name}` : " · chưa xây nhà"}
               </span>
               {selInfo.house && (
-                <button className="btn btn-blue" onClick={() => setView({ kind: "inside", ownerId: selInfo.owner })}>
+                <button className="btn btn-blue" onClick={() => { setBackAt(sel); setView({ kind: "inside", ownerId: selInfo.owner }); }}>
                   👋 Vào thăm nhà {selInfo.ownerName}
                 </button>
               )}
@@ -235,7 +266,7 @@ export function TownScreen({
           {selInfo && selInfo.owner === me.id && (
             <>
               {myHouse && (
-                <button className="btn btn-primary" onClick={() => setView({ kind: "inside", ownerId: me.id })}>
+                <button className="btn btn-primary" onClick={() => { setBackAt(sel); setView({ kind: "inside", ownerId: me.id }); }}>
                   🚪 Vào nhà
                 </button>
               )}
@@ -292,43 +323,6 @@ export function TownScreen({
             <strong>⭐ {p.coins}</strong>
           </div>
         ))}
-      </div>
-    </div>
-  );
-}
-
-function TownSetup({ onDone, onBack }: { onDone: (code: string) => void; onBack: () => void }) {
-  const [text, setText] = useState("");
-  const [created] = useState(newTownCode);
-  return (
-    <div className="stack">
-      <div className="topbar">
-        <button className="btn" onClick={onBack}>
-          ← Sảnh
-        </button>
-      </div>
-      <h1>🏘️ Khu phố</h1>
-      <p className="muted" style={{ margin: 0 }}>
-        Mỗi khu phố có một <strong>mã riêng</strong>. Những ai dùng cùng mã sẽ thấy nhà của nhau và đến thăm nhau được. Bố mẹ tạo mã một lần rồi gửi cho các máy khác.
-      </p>
-      <div className="card stack">
-        <strong>Tạo khu phố mới</strong>
-        <div className="pill" style={{ fontSize: 20, alignSelf: "flex-start" }}>
-          🔑 {created}
-        </div>
-        <span className="muted" style={{ fontSize: 14 }}>
-          Ghi lại mã này và nhập vào các máy khác để vào cùng khu phố.
-        </span>
-        <button className="btn btn-primary" onClick={() => onDone(created)}>
-          Tạo khu phố với mã này
-        </button>
-      </div>
-      <div className="card stack">
-        <strong>Vào khu phố đã có</strong>
-        <input className="input" value={text} placeholder="Nhập mã, ví dụ KP-ABCD-1234" onChange={(e) => setText(e.target.value)} />
-        <button className="btn btn-blue" disabled={normalizeTownCode(text).length < 6} onClick={() => onDone(normalizeTownCode(text))}>
-          Vào khu phố
-        </button>
       </div>
     </div>
   );

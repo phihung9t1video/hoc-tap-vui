@@ -228,12 +228,13 @@ export function App() {
           </button>
           <span className="pill pill-coin">⭐ {profile.coins}</span>
         </div>
-        <h1>Tủ đồ & Cửa hàng</h1>
+        <h1>👕 Tủ đồ</h1>
+        <div className="banner">🛍️ Muốn mua đồ mới? Ra <strong>🏘️ Khu phố</strong>, đi tới các cửa hàng quanh công viên nhé!</div>
         <AvatarEditor
           look={profile.look}
           owned={new Set(profile.owned)}
           coins={profile.coins}
-          shop
+          shop={false}
           onChange={(look) => patchProfile((p) => ({ ...p, look }))}
           onBuy={(item) =>
             patchProfile((p) =>
@@ -248,8 +249,6 @@ export function App() {
       <TownScreen
         me={profile}
         profiles={data.profiles}
-        settings={data.settings}
-        onSettings={saveSettings}
         onChange={patchProfile}
         onBack={() => setScreen({ name: "lobby" })}
       />
