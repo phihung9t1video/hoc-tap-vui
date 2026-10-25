@@ -1,0 +1,336 @@
+{
+ "7-khtn": {
+  "c1": [
+   [
+    "Khối lượng của một nguyên tử hầu như tập trung hoàn toàn ở bộ phận nào?",
+    [
+     "Hạt nhân nguyên tử",
+     "Lớp vỏ nguyên tử",
+     "Các hạt electron",
+     "Khoảng không gian trống bên ngoài"
+    ],
+    "Hạt nhân chứa proton và neutron có khối lượng lớn, còn electron rất nhẹ nên khối lượng nguyên tử tập trung ở hạt nhân."
+   ],
+   [
+    "Hạt nào sau đây không mang điện tích trong cấu tạo nguyên tử?",
+    [
+     "Neutron",
+     "Proton",
+     "Electron",
+     "Ion"
+    ],
+    "Neutron là hạt không mang điện, nằm trong hạt nhân nguyên tử."
+   ],
+   [
+    "Vỏ nguyên tử được cấu tạo từ các hạt nào?",
+    [
+     "Hạt electron",
+     "Hạt proton và neutron",
+     "Hạt proton và electron",
+     "Hạt neutron và electron"
+    ],
+    "Lớp vỏ nguyên tử chỉ gồm các hạt electron chuyển động xung quanh hạt nhân."
+   ],
+   [
+    "Trong nguyên tử, hạt mang điện tích âm là:",
+    [
+     "Electron",
+     "Proton",
+     "Neutron",
+     "Hạt nhân"
+    ],
+    "Electron là hạt mang điện tích âm (mỗi electron mang 1 điện tích âm)."
+   ],
+   [
+    "Kí hiệu hóa học của nguyên tố đồng là:",
+    [
+     "Cu",
+     "C",
+     "Ca",
+     "Cl"
+    ],
+    "Kí hiệu hóa học của nguyên tố đồng (Copper) là Cu."
+   ],
+   [
+    "Kí hiệu hóa học của nguyên tố sắt là:",
+    [
+     "Fe",
+     "F",
+     "S",
+     "P"
+    ],
+    "Kí hiệu hóa học của nguyên tố sắt (Iron) là Fe."
+   ],
+   [
+    "Nguyên tố hóa học là tập hợp các nguyên tử có cùng số hạt nào trong hạt nhân?",
+    [
+     "Proton",
+     "Neutron",
+     "Electron",
+     "Cả proton và neutron"
+    ],
+    "Số lượng hạt proton là đặc trưng để phân loại các nguyên tố hóa học."
+   ],
+   [
+    "Tên gọi của nguyên tố hóa học có kí hiệu C là gì?",
+    [
+     "Carbon",
+     "Canxi",
+     "Clo",
+     "Copper"
+    ],
+    "Kí hiệu C ứng với nguyên tố carbon."
+   ],
+   [
+    "Một nguyên tử có 11 proton và 12 neutron. Số hạt electron trong nguyên tử này là:",
+    [
+     "11",
+     "12",
+     "23",
+     "1"
+    ],
+    "Trong nguyên tử trung hòa về điện, số proton luôn bằng số electron, tức là bằng 11."
+   ],
+   [
+    "Tổng số hạt trong hạt nhân của nguyên tử natri có 11 proton và 12 neutron là:",
+    [
+     "23",
+     "11",
+     "12",
+     "22"
+    ],
+    "Tổng số hạt trong hạt nhân là tổng số proton và neutron, tức là 11 + 12 = 23 hạt."
+   ],
+   [
+    "Cho biết khối lượng nguyên tử magnesium là 24 amu. Hạt nhân magnesium có 12 proton. Số neutron trong nguyên tử magnesium là:",
+    [
+     "12",
+     "24",
+     "36",
+     "0"
+    ],
+    "Khối lượng nguyên tử xấp xỉ tổng số proton và neutron. Số neutron bằng 24 - 12 = 12."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về cấu tạo của hầu hết các nguyên tử?",
+    [
+     "Hạt nhân gồm proton và neutron, bao quanh là lớp vỏ electron",
+     "Hạt nhân chỉ chứa các hạt electron chuyển động",
+     "Lớp vỏ chứa cả proton và electron",
+     "Nguyên tử đặc khít không có khoảng trống"
+    ],
+    "Nguyên tử cấu tạo gồm hạt nhân (proton, neutron) ở tâm và lớp vỏ electron bên ngoài."
+   ],
+   [
+    "Vì sao nguyên tử trung hòa về điện mặc dù chứa các hạt mang điện?",
+    [
+     "Vì số hạt proton trong hạt nhân bằng số hạt electron ở vỏ",
+     "Vì số hạt proton bằng số hạt neutron",
+     "Vì các hạt neutron trung hòa điện tích của hạt nhân",
+     "Vì khối lượng của electron rất nhỏ"
+    ],
+    "Số proton mang điện dương bằng số electron mang điện âm nên nguyên tử trung hòa về điện."
+   ],
+   [
+    "Trong bảng tuần hoàn, các nguyên tố có cùng số lớp electron trong nguyên tử được xếp vào cùng một:",
+    [
+     "Hàng (chu kì)",
+     "Cột (nhóm)",
+     "Ô nguyên tố",
+     "Khối kim loại"
+    ],
+    "Các nguyên tử có cùng số lớp electron được xếp vào cùng một hàng, gọi là chu kì."
+   ],
+   [
+    "Một nguyên tử X có tổng số hạt là 28, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 8. Số proton của X là:",
+    [
+     "9",
+     "10",
+     "14",
+     "19"
+    ],
+    "Gọi p, n, e là số hạt. Ta có 2p + n = 28 và 2p - n = 8. Suy ra 4p = 36 nên p = 9."
+   ],
+   [
+    "Đặc điểm nào sau đây dùng để phân biệt nguyên tố này với nguyên tố khác?",
+    [
+     "Số lượng hạt proton",
+     "Số lượng hạt neutron",
+     "Tổng số hạt trong nguyên tử",
+     "Khối lượng nguyên tử"
+    ],
+    "Số proton là con số duy nhất cố định cho mỗi nguyên tố hóa học, quyết định tính chất nguyên tố."
+   ],
+   [
+    "Một nguyên tử có 13 electron ở lớp vỏ. Khối lượng của lớp vỏ này so với khối lượng hạt nhân như thế nào?",
+    [
+     "Rất nhỏ, không đáng kể",
+     "Lớn hơn rất nhiều",
+     "Gần như bằng nhau",
+     "Đúng bằng một nửa"
+    ],
+    "Khối lượng electron rất nhỏ bé so với proton và neutron nên khối lượng lớp vỏ không đáng kể."
+   ],
+   [
+    "Nếu nguyên tử oxygen có 8 proton và 8 neutron, khối lượng của nguyên tử oxygen tính theo amu xấp xỉ bằng:",
+    [
+     "16",
+     "8",
+     "0",
+     "24"
+    ],
+    "Khối lượng nguyên tử tập trung ở hạt nhân, xấp xỉ tổng số proton và neutron (8 + 8 = 16 amu)."
+   ],
+   [
+    "Trong nguyên tử, các electron di chuyển xung quanh hạt nhân và được sắp xếp thành các:",
+    [
+     "lớp electron",
+     "vùng electron",
+     "khối electron",
+     "chuỗi electron"
+    ],
+    "Các electron ở vỏ nguyên tử di chuyển rất nhanh xung quanh hạt nhân và được sắp xếp thành từng lớp electron."
+   ],
+   [
+    "Thành phần nào dưới đây nằm ở tâm của nguyên tử và mang điện tích dương?",
+    [
+     "Hạt nhân",
+     "Vỏ nguyên tử",
+     "Lớp electron",
+     "Hạt neutron"
+    ],
+    "Hạt nhân nằm ở tâm nguyên tử, chứa các proton mang điện tích dương và các neutron không mang điện."
+   ],
+   [
+    "Đơn vị khối lượng nguyên tử được viết tắt là gì?",
+    [
+     "amu",
+     "g",
+     "kg",
+     "ml"
+    ],
+    "Khối lượng nguyên tử được đo bằng đơn vị khối lượng nguyên tử, viết tắt là amu."
+   ],
+   [
+    "Hiện nay có khoảng bao nhiêu nguyên tố hóa học đã được các nhà khoa học tìm ra?",
+    [
+     "118 nguyên tố",
+     "92 nguyên tố",
+     "150 nguyên tố",
+     "200 nguyên tố"
+    ],
+    "Tính đến nay, con người đã phát hiện ra 118 nguyên tố hóa học."
+   ],
+   [
+    "Kí hiệu hóa học của nguyên tố hydrogen là gì?",
+    [
+     "H",
+     "He",
+     "Hg",
+     "Ho"
+    ],
+    "Kí hiệu hóa học của nguyên tố hydrogen gồm một chữ cái in hoa là H."
+   ],
+   [
+    "Tên gọi của nguyên tố hóa học có kí hiệu K là gì?",
+    [
+     "Potassium",
+     "Phosphorus",
+     "Sodium",
+     "Calcium"
+    ],
+    "Nguyên tố potassium có kí hiệu hóa học là K."
+   ],
+   [
+    "So sánh khối lượng của hạt proton và hạt neutron trong hạt nhân nguyên tử:",
+    [
+     "Khối lượng proton xấp xỉ bằng khối lượng neutron",
+     "Khối lượng proton lớn hơn khối lượng neutron rất nhiều",
+     "Khối lượng proton nhỏ hơn khối lượng neutron rất nhiều",
+     "Khối lượng proton bằng đúng khối lượng electron"
+    ],
+    "Mỗi hạt proton và neutron đều có khối lượng xấp xỉ bằng 1 amu."
+   ],
+   [
+    "Nguyên tử của cùng một nguyên tố hóa học có thể khác nhau về yếu tố nào sau đây?",
+    [
+     "Số neutron trong hạt nhân",
+     "Số proton trong hạt nhân",
+     "Số electron ở vỏ nguyên tử",
+     "Số điện tích hạt nhân"
+    ],
+    "Các nguyên tử của cùng một nguyên tố hóa học luôn có cùng số proton nhưng có thể khác nhau về số neutron."
+   ],
+   [
+    "Phát biểu nào sau đây đúng về kí hiệu hóa học của nguyên tố?",
+    [
+     "Mỗi nguyên tố được biểu diễn bằng một hay hai chữ cái, chữ cái đầu viết in hoa",
+     "Mỗi nguyên tố luôn luôn được biểu diễn bằng hai chữ cái in hoa",
+     "Kí hiệu hóa học biểu diễn tên nguyên tố bằng tiếng Việt",
+     "Mỗi nguyên tố được biểu diễn bằng ba chữ cái viết thường"
+    ],
+    "Kí hiệu hóa học gồm một hoặc hai chữ cái, trong đó chữ cái đầu viết in hoa, chữ cái thứ hai (nếu có) viết thường."
+   ],
+   [
+    "Cho các kí hiệu hóa học: Ca, CL, Na, O, N. Kí hiệu nào viết sai quy tắc?",
+    [
+     "CL",
+     "Ca",
+     "Na",
+     "O"
+    ],
+    "Kí hiệu hóa học của chlorine là Cl, chữ cái thứ hai phải viết thường nên cách viết CL là sai."
+   ],
+   [
+    "Một nguyên tử có 15 electron. Số proton trong hạt nhân nguyên tử đó là bao nhiêu?",
+    [
+     "15",
+     "30",
+     "0",
+     "31"
+    ],
+    "Trong nguyên tử trung hòa về điện, số proton trong hạt nhân bằng số electron ở vỏ nguyên tử, nên bằng 15."
+   ],
+   [
+    "Khối lượng của nguyên tử helium gồm 2 proton, 2 neutron và 2 electron xấp xỉ bằng:",
+    [
+     "4 amu",
+     "2 amu",
+     "6 amu",
+     "8 amu"
+    ],
+    "Khối lượng nguyên tử xấp xỉ bằng tổng khối lượng các proton và neutron: 2 + 2 = 4 amu (vì khối lượng electron rất nhỏ)."
+   ],
+   [
+    "Mô hình nguyên tử của Rutherford – Bohr mô tả electron chuyển động như thế nào?",
+    [
+     "Chuyển động xung quanh hạt nhân theo những quỹ đạo xác định giống như các hành tinh quay quanh Mặt Trời",
+     "Chuyển động hỗn độn không theo quỹ đạo nào trong toàn bộ thể tích nguyên tử",
+     "Đứng yên cố định ở các vị trí xung quanh hạt nhân nguyên tử",
+     "Chuyển động theo đường thẳng từ trong hạt nhân ra ngoài"
+    ],
+    "Mô hình Rutherford – Bohr coi các electron chuyển động xung quanh hạt nhân theo các quỹ đạo xác định như các hành tinh quay quanh Mặt Trời."
+   ],
+   [
+    "Nguyên tử nitrogen có 7 proton. Số electron ở lớp trong cùng (lớp gần hạt nhân nhất) của nitrogen là bao nhiêu?",
+    [
+     "2",
+     "5",
+     "7",
+     "8"
+    ],
+    "Lớp electron thứ nhất (lớp trong cùng) chứa tối đa 2 electron. Vì vậy nguyên tử nitrogen có 2 electron ở lớp trong cùng và 5 electron ở lớp ngoài."
+   ],
+   [
+    "Số hiệu nguyên tử của nguyên tố aluminium là 13. Số electron ở lớp ngoài cùng của nguyên tử aluminium là bao nhiêu?",
+    [
+     "3",
+     "2",
+     "8",
+     "5"
+    ],
+    "Nguyên tử aluminium có 13 electron, phân bố vào các lớp: lớp thứ nhất có 2 electron, lớp thứ hai có 8 electron, lớp thứ ba (lớp ngoài cùng) có 3 electron."
+   ]
+  ]
+ }
+}

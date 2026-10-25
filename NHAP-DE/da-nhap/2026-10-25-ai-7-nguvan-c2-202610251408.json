@@ -1,0 +1,346 @@
+{
+ "7-nguvan": {
+  "c2": [
+   [
+    "Thể thơ bốn chữ là thể thơ mỗi dòng có mấy chữ?",
+    [
+     "Bốn chữ",
+     "Năm chữ",
+     "Sáu chữ",
+     "Bảy chữ"
+    ],
+    "Thể thơ bốn chữ quy định mỗi dòng thơ có bốn chữ, thường nhịp nhàng, thích hợp kể chuyện hoặc biểu cảm."
+   ],
+   [
+    "Thể thơ năm chữ còn có tên gọi dân gian quen thuộc nào khác?",
+    [
+     "Thơ năm tiếng hoặc thơ ngũ ngôn",
+     "Thơ lục bát",
+     "Thơ song thất lục bát",
+     "Thơ tự do"
+    ],
+    "Thơ năm chữ mỗi dòng có năm tiếng, trong văn học trung đại và hiện đại còn gọi là thơ ngũ ngôn."
+   ],
+   [
+    "Cách ngắt nhịp phổ biến nhất trong các bài thơ bốn chữ là gì?",
+    [
+     "Nhịp 2/2",
+     "Nhịp 1/3",
+     "Nhịp 3/1",
+     "Nhịp 4/0"
+    ],
+    "Thơ bốn chữ thường được ngắt nhịp đôi 2/2 để tạo âm điệu cân đối, nhịp nhàng."
+   ],
+   [
+    "Các cách ngắt nhịp thường gặp trong thơ năm chữ là gì?",
+    [
+     "Nhịp 3/2 hoặc 2/3",
+     "Nhịp 1/4 hoặc 4/1",
+     "Nhịp 2/2/1",
+     "Nhịp 5/0"
+    ],
+    "Thơ năm chữ linh hoạt hơn với các nhịp 3/2 hoặc 2/3 tùy thuộc vào nội dung từng dòng thơ."
+   ],
+   [
+    "Gieo vần chân trong thơ bốn chữ và năm chữ được hiểu là gì?",
+    [
+     "Gieo vần ở cuối các dòng thơ",
+     "Gieo vần ở đầu các dòng thơ",
+     "Gieo vần ở giữa các dòng thơ",
+     "Không cần gieo vần"
+    ],
+    "Vần chân là loại vần được gieo ở cuối các dòng thơ để tạo âm hưởng kết nối các câu thơ lại với nhau."
+   ],
+   [
+    "Hình thức gieo vần nào giúp bài thơ bốn chữ, năm chữ tạo cảm giác gắn kết chặt chẽ nhất giữa các dòng thơ?",
+    [
+     "Vần liền và vần cách",
+     "Chỉ dùng toàn vần lưng",
+     "Không gieo vần",
+     "Gieo vần hỗn hợp tự do"
+    ],
+    "Vần liền và vần cách là hai hình thức gieo vần phổ biến nhất giúp thơ bốn chữ, năm chữ có nhạc điệu."
+   ],
+   [
+    "Dòng thơ nào sau đây viết theo thể thơ bốn chữ?",
+    [
+     "“Hạt mưa rơi xuống / Cỏ cây mừng vui”",
+     "“Quê hương là con diều biếc”",
+     "“Mặt trời của bắp thì nằm trên đồi”",
+     "“Sông Đuống trôi đi / Một dòng lấp lánh”"
+    ],
+    "Dòng thơ trên gồm các cụm bốn chữ, mỗi dòng bốn từ ngữ rõ ràng thuộc thể bốn chữ."
+   ],
+   [
+    "Dòng thơ nào sau đây viết theo thể thơ năm chữ?",
+    [
+     "“Mùa xuân là Tết trồng cây”",
+     "“Trâu ơi ta bảo trâu này”",
+     "“Mẹ là đất nước”",
+     "“Đứng bên ni đồng ngó bên tê đồng”"
+    ],
+    "Dòng thơ này có đúng năm tiếng “Mùa xuân là Tết trồng cây”, chuẩn xác theo thể năm chữ."
+   ],
+   [
+    "Đặc điểm về nội dung của thơ bốn chữ và năm chữ thường là gì?",
+    [
+     "Thể hiện cảm xúc trực tiếp, ngắn gọn về thiên nhiên, cuộc sống",
+     "Kể lại một cốt truyện dài hàng ngàn câu như truyện thơ Nôm",
+     "Nghị luận xã hội khô khan, sắc bén",
+     "Phê phán chính trị sâu cay"
+    ],
+    "Thơ bốn chữ và năm chữ thường ngắn gọn, phù hợp để diễn tả cảm xúc hồn nhiên, bức tranh thiên nhiên hoặc kỷ niệm tuổi thơ."
+   ],
+   [
+    "Yếu tố nào sau đây KHÔNG phải là đặc trưng hình thức của thơ bốn chữ, năm chữ?",
+    [
+     "Số lượng chữ ở mỗi dòng phải không giới hạn",
+     "Số chữ trong mỗi dòng được quy định chặt chẽ",
+     "Thường có vần điệu nhịp nhàng",
+     "Có thể ngắt nhịp linh hoạt"
+    ],
+    "Thơ bốn chữ và năm chữ giới hạn nghiêm ngặt số chữ trong mỗi dòng (4 chữ hoặc 5 chữ)."
+   ],
+   [
+    "Đọc đoạn thơ: “Gió thổi / Mây bay / Cây lay / Chim hót”. Đoạn thơ trên thuộc thể thơ gì và có đặc điểm gì nổi bật?",
+    [
+     "Thể bốn chữ, ngắt nhịp 2/2, gieo vần liền ở cuối dòng",
+     "Thể năm chữ, ngắt nhịp 3/2, không gieo vần",
+     "Thể tự do, không có nhịp điệu",
+     "Thể lục bát, gieo vần chân"
+    ],
+    "Mỗi dòng có bốn chữ, ngắt nhịp 2/2 và các tiếng “bay”, “lay”, “hót” (hoặc vần tương đồng) tạo vần liền nhịp nhàng."
+   ],
+   [
+    "Trong bài thơ năm chữ, việc ngắt nhịp linh hoạt giữa 3/2 và 2/3 có tác dụng chính là gì?",
+    [
+     "Làm nổi bật nhịp điệu và cảm xúc riêng của từng câu thơ",
+     "Làm cho bài thơ trở nên khó đọc hơn",
+     "Làm mất đi tính nhạc của thể thơ",
+     "Kéo dài độ dài của bài thơ"
+    ],
+    "Sự linh hoạt trong cách ngắt nhịp giúp diễn tả chính xác nhịp điệu cảm xúc và hình ảnh thơ sinh động."
+   ],
+   [
+    "Khi phân tích một bài thơ bốn chữ, học sinh cần chú ý điều gì đầu tiên để nhận diện thể thơ?",
+    [
+     "Đếm số chữ trong mỗi dòng thơ",
+     "Tìm hiểu hoàn cảnh sáng tác của nhà thơ",
+     "Xác định chủ đề chính của văn bản",
+     "Phân tích ý nghĩa các biện pháp tu từ"
+    ],
+    "Bước đầu tiên và cơ bản nhất để nhận diện thể thơ là đếm số chữ có trong mỗi dòng thơ."
+   ],
+   [
+    "Nhận định nào sau đây đúng khi nói về vần trong thơ bốn chữ, năm chữ?",
+    [
+     "Vần giúp tạo nên âm hưởng, nhạc điệu cho bài thơ",
+     "Vần chỉ có ở thể thơ lục bát, thơ bốn chữ không cần vần",
+     "Vần làm cho bài thơ giống như văn bản nghị luận",
+     "Vần bắt buộc phải đặt ở đầu dòng thơ"
+    ],
+    "Vần là yếu tố quan trọng tạo nên nhạc điệu, tính nghệ thuật và giúp bài thơ dễ thuộc, dễ nhớ."
+   ],
+   [
+    "Nếu một học sinh viết đoạn thơ bốn chữ với các dòng đều đặn 4 tiếng, nhưng không có vần, đoạn thơ đó:",
+    [
+     "Vẫn thuộc thể thơ bốn chữ nhưng hạn chế về nhạc điệu",
+     "Không được coi là thơ bốn chữ",
+     "Trở thành thể thơ lục bát",
+     "Trở thành văn xuôi hoàn toàn"
+    ],
+    "Thơ bốn chữ quy định số chữ là chính, việc có vần hay không có vần (thơ không vần) vẫn thuộc thể thơ đó nhưng nhạc điệu sẽ kém hơn."
+   ],
+   [
+    "Trong bài thơ năm chữ, nếu tác giả gieo vần “vàng” ở dòng thứ nhất, dòng thứ hai nên gieo vần nào để tạo vần liền hợp lý?",
+    [
+     "“sang” hoặc “mang”",
+     "“trắng” hoặc “xanh”",
+     "“đỏ” hoặc “tím”",
+     "“mây” hoặc “gió”"
+    ],
+    "Vần liền đòi hỏi các tiếng cuối dòng vang lên âm vần gần giống nhau, “vàng” hợp với “sang”, “mang”."
+   ],
+   [
+    "Khi đọc diễn cảm một bài thơ bốn chữ viết về đề tài thiên nhiên vui tươi, em cần chú ý điều gì?",
+    [
+     "Đọc với giọng vui tươi, nhịp độ nhanh, nhấn mạnh các từ ngữ chỉ hình ảnh",
+     "Đọc với giọng buồn bã, ủ rũ, kéo dài",
+     "Đọc như đọc một bản báo cáo khoa học",
+     "Đọc thầm không thành tiếng"
+    ],
+    "Giọng đọc cần phù hợp với cảm xúc vui tươi của nội dung bài thơ để truyền tải trọn vẹn ý nghĩa."
+   ],
+   [
+    "Em hãy xác định thể thơ và nhịp của đoạn: “Mặt trời mọc rồi / Xóa tan đêm tối / Chim ca rộn rã / Chào ngày mới sang”.",
+    [
+     "Thể bốn chữ, nhịp 2/2",
+     "Thể năm chữ, nhịp 3/2",
+     "Thể lục bát, nhịp chẵn lẻ",
+     "Thể tự do, không nhịp"
+    ],
+    "Mỗi dòng có đúng bốn chữ, chia làm hai vế 2 chữ ngắt nhịp 2/2 đều đặn."
+   ],
+   [
+    "Phát biểu nào sau đây chính xác nhất về điểm giống nhau giữa thơ bốn chữ và thơ năm chữ?",
+    [
+     "Đều là các thể thơ ngắn, có quy định số chữ chặt chẽ trong mỗi dòng",
+     "Đều bắt buộc phải có sáu dòng trong mỗi khổ",
+     "Đều có quy định về luật bằng trắc nghiêm ngặt như thơ Đường luật",
+     "Đều chỉ dùng để viết về đề tài chiến tranh"
+    ],
+    "Cả hai đều thuộc nhóm thơ ngắn, quy định số chữ mỗi dòng cố định (4 hoặc 5 chữ) và có tính nhạc cao."
+   ],
+   [
+    "Nếu em muốn sáng tác một khổ thơ bốn chữ thể hiện tình bạn, cách làm nào phù hợp nhất với đặc trưng thể loại?",
+    [
+     "Viết 4 dòng, mỗi dòng đúng 4 chữ, có gieo vần cuối dòng",
+     "Viết tùy ý số chữ mỗi dòng miễn là dài",
+     "Viết 2 dòng, mỗi dòng 14 chữ",
+     "Viết thành một đoạn văn xuôi miêu tả"
+    ],
+    "Đặc trưng thơ bốn chữ yêu cầu mỗi dòng đúng bốn chữ và nên có gieo vần để tạo nhạc điệu."
+   ],
+   [
+    "Thơ bốn chữ là thể thơ mỗi dòng có đặc điểm gì về số lượng tiếng?",
+    [
+     "Đúng bốn tiếng trong mỗi dòng thơ",
+     "Có bốn tiếng ở dòng đầu và tăng dần ở các dòng sau",
+     "Luôn có bốn tiếng kết hợp với dòng sáu tiếng",
+     "Số lượng tiếng thay đổi tùy theo cảm xúc của tác giả"
+    ],
+    "Thơ bốn chữ là thể thơ mà mỗi dòng thơ quy định có đúng bốn tiếng (chữ)."
+   ],
+   [
+    "Thể thơ năm chữ còn được gọi với tên dân gian quen thuộc nào trong văn học Việt Nam?",
+    [
+     "Thể thơ ngũ ngôn",
+     "Thể thơ song thất",
+     "Thể thơ lục bát",
+     "Thể thơ tự do"
+    ],
+    "Thể thơ năm chữ còn có tên gọi khác là thơ ngũ ngôn vì mỗi dòng có năm chữ."
+   ],
+   [
+    "Cách ngắt nhịp phổ biến nhất trong các bài thơ bốn chữ thường là nhịp nào?",
+    [
+     "Nhịp hai hai",
+     "Nhịp một ba",
+     "Nhịp ba một",
+     "Nhịp đều bốn tiếng liền mạch"
+    ],
+    "Trong thơ bốn chữ, nhịp ngắt phổ biến nhất là nhịp hai hai để tạo sự cân đối, nhịp nhàng."
+   ],
+   [
+    "Hình thức gieo vần nào giúp bài thơ bốn chữ, năm chữ tạo cảm giác nhịp nhàng, gắn kết chặt chẽ nhất giữa các dòng?",
+    [
+     "Gieo vần liền và vần cách",
+     "Không cần gieo vần",
+     "Chỉ gieo vần lưng ở giữa dòng",
+     "Gieo vần chân ở dòng đầu và cuối bài"
+    ],
+    "Gieo vần liền và vần cách là hai hình thức phổ biến giúp thơ bốn chữ, năm chữ có nhạc điệu và sự liên kết chặt chẽ."
+   ],
+   [
+    "Trong bài thơ năm chữ, việc ngắt nhịp linh hoạt giữa ba hai và hai ba có tác dụng chính là gì?",
+    [
+     "Nhấn mạnh cảm xúc và làm nhịp điệu bài thơ thêm sinh động, không bị nhàm chán",
+     "Giúp người đọc đọc nhanh hơn để kết thúc bài thơ sớm",
+     "Làm cho số lượng chữ trong dòng thay đổi theo ý muốn",
+     "Giúp tác giả không cần phải gieo vần ở cuối dòng nữa"
+    ],
+    "Ngắt nhịp linh hoạt giúp linh hoạt hóa ngữ điệu, làm nổi bật hình ảnh và cảm xúc của từng câu thơ."
+   ],
+   [
+    "Nếu một học sinh viết đoạn thơ bốn chữ với các dòng đều đặn bốn tiếng, nhưng không có vần, đoạn thơ đó:",
+    [
+     "Vẫn thuộc thể thơ bốn chữ nhưng sẽ hạn chế về tính nhạc",
+     "Không được coi là thơ vì bắt buộc phải có vần",
+     "Trở thành văn xuôi ngay lập tức",
+     "Thuộc về thể thơ tự do bảy chữ"
+    ],
+    "Thơ bốn chữ trước hết quy định về số tiếng, việc có vần hay không vẫn giữ nguyên thể loại nhưng thiếu đi tính nhạc."
+   ],
+   [
+    "Hình thức gieo vần mà vần được gieo ở giữa dòng thơ được gọi là gì?",
+    [
+     "Vần lưng",
+     "Vần chân",
+     "Vần liền",
+     "Vần cách"
+    ],
+    "Vần lưng (yêu vận) là vần được gieo ở giữa dòng thơ, khác với vần chân được gieo ở cuối dòng."
+   ],
+   [
+    "Trong bài thơ năm chữ, hai dòng thơ liên tiếp có tiếng cuối cùng hiệp vần với nhau được gọi là hình thức gieo vần gì?",
+    [
+     "Vần liền",
+     "Vần cách",
+     "Vần lưng",
+     "Vần hỗn hợp"
+    ],
+    "Vần liền là hình thức gieo vần ngay ở các dòng thơ nối tiếp nhau."
+   ],
+   [
+    "Dấu hiệu nhận biết rõ nhất về mặt cấu trúc để phân biệt bài thơ bốn chữ và bài thơ năm chữ là gì?",
+    [
+     "Số tiếng (chữ) trong từng dòng thơ",
+     "Số lượng khổ thơ trong toàn bài",
+     "Cảm xúc biểu đạt của tác giả",
+     "Các biện pháp tu từ được sử dụng"
+    ],
+    "Thơ bốn chữ có mỗi dòng 4 tiếng, thơ năm chữ có mỗi dòng 5 tiếng; đây là dấu hiệu hình thức rõ nhất để phân biệt."
+   ],
+   [
+    "Tác phẩm “Gặp lá cây cơm nguội” (trong bài “Gặp lá cơm nguội” / “Gặp lá cây cơm nguội” thuộc chủ đề Bài học thế giới) của Thanh Thảo được viết theo thể thơ nào?",
+    [
+     "Thể thơ năm chữ",
+     "Thể thơ bốn chữ",
+     "Thể thơ bảy chữ",
+     "Thể thơ tám chữ"
+    ],
+    "Bài thơ “Gặp lá cơm nguội” của Thanh Thảo trong chương trình Ngữ văn 7 viết theo thể thơ năm chữ."
+   ],
+   [
+    "Đọc hai dòng thơ: “Mùa xuân trầm lặng / Lặng lẽ dâng đời”. Tiếng nào gieo vần với tiếng nào?",
+    [
+     "Tiếng “lặng” ở dòng 1 gieo vần với tiếng “lặng” ở dòng 2",
+     "Tiếng “xuân” ở dòng 1 gieo vần với tiếng “đời” ở dòng 2",
+     "Tiếng “mùa” ở dòng 1 gieo vần với tiếng “lẽ” ở dòng 2",
+     "Hai dòng thơ trên không sử dụng vần"
+    ],
+    "Hai tiếng “lặng” ở cuối dòng 1 và đầu dòng 2 tạo sự lặp vần (hoặc điệp âm/lặp từ) tăng tính nhạc."
+   ],
+   [
+    "Đọc đoạn thơ: “Anh ngồi trầm ngâm / Bên bếp lửa hồng / Ngoài trời giá lạnh / Giọt sương đọng trong”. Đoạn thơ gieo vần cách ở những tiếng nào?",
+    [
+     "Tiếng “hồng” (dòng 2) và tiếng “trong” (dòng 4)",
+     "Tiếng “ngâm” (dòng 1) và tiếng “hồng” (dòng 2)",
+     "Tiếng “lạnh” (dòng 3) và tiếng “trong” (dòng 4)",
+     "Tiếng “ngâm” (dòng 1) và tiếng “lạnh” (dòng 3)"
+    ],
+    "Vần cách là vần gieo thưa cách một dòng; tiếng “hồng” ở dòng 2 hiệp vần với tiếng “trong” ở dòng 4."
+   ],
+   [
+    "Hình ảnh người lính trong bài thơ “Đồng dao mùa xuân” của Nguyễn Khoa Điềm được tái hiện với vẻ đẹp nào nổi bật?",
+    [
+     "Hiền lành, tươi trẻ và mãi sống cùng tuổi thanh xuân nơi chiến trường",
+     "Lam lũ, vất vả và tràn đầy nỗi buồn xa nhà",
+     "Oai hùng, dữ tợn khiến kẻ thù khiếp sợ",
+     "Trầm lặng, xa cách và không hề muốn tiếp xúc với mọi người"
+    ],
+    "Hình ảnh người lính trong bài thơ luôn trẻ trung, hiền lành và hóa thân vào thiên nhiên đất nước."
+   ],
+   [
+    "Tác dụng chính của việc ngắt nhịp 1/3 hoặc 3/1 đột ngột trong bài thơ bốn chữ là gì?",
+    [
+     "Tạo sự nhấn mạnh, chú ý vào hình ảnh hoặc cảm xúc đặc biệt",
+     "Làm cho bài thơ đọc nhanh hơn để kịp giai điệu",
+     "Giúp bài thơ kéo dài số lượng tiếng trong câu",
+     "Bắt buộc người đọc phải ngắt nghỉ đúng quy tắc ngữ pháp"
+    ],
+    "Nhịp biến đổi bất ngờ (1/3 hoặc 3/1) giúp gây ấn tượng mạnh, nhấn mạnh đối tượng hoặc tâm trạng người nói."
+   ]
+  ]
+ }
+}

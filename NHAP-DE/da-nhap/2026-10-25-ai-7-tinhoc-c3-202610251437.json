@@ -1,0 +1,316 @@
+{
+ "7-tinhoc": {
+  "c3": [
+   [
+    "Phần mềm bảng tính điện tử giúp người dùng thực hiện công việc chính nào dưới đây?",
+    [
+     "Tổ chức, xử lý dữ liệu dạng bảng và tính toán tự động",
+     "Soạn thảo văn bản và chèn hình ảnh minh họa",
+     "Tạo các bài trình chiếu với hiệu ứng chuyển động",
+     "Lập trình trò chơi giải trí trên máy tính"
+    ],
+    "Phần mềm bảng tính điện tử được thiết kế chuyên dụng để lưu trữ, tổ chức dữ liệu dưới dạng bảng và thực hiện các tính toán từ đơn giản đến phức tạp."
+   ],
+   [
+    "Thành phần cơ bản nào sau đây cấu tạo nên một trang tính trong phần mềm bảng tính?",
+    [
+     "Các hàng và các cột",
+     "Các trang văn bản và đoạn văn",
+     "Các slide và khung chứa văn bản",
+     "Các đoạn mã lệnh và hàm hệ thống"
+    ],
+    "Trang tính được cấu tạo từ các cột (được kí hiệu bằng chữ cái) và các hàng (được kí hiệu bằng số), giao nhau tạo thành các ô tính."
+   ],
+   [
+    "Để phân biệt giữa địa chỉ cột và địa chỉ hàng trong một ô tính, cách viết nào sau đây là đúng quy tắc?",
+    [
+     "Tên cột viết trước, tên hàng viết sau, ví dụ B5",
+     "Tên hàng viết trước, tên cột viết sau, ví dụ 5B",
+     "Chỉ dùng số để đặt tên cho cả hàng và cột",
+     "Chỉ dùng chữ cái để đặt tên cho cả hàng và cột"
+    ],
+    "Địa chỉ ô tính được xác định bằng tên cột kết hợp với tên hàng, trong đó tên cột luôn được viết ở phía trước."
+   ],
+   [
+    "Khối dữ liệu (Range) trong bảng tính được kí hiệu bằng cách nào sau đây?",
+    [
+     "Ô góc trên bên trái và ô góc dưới bên phải, ngăn cách bởi dấu hai chấm",
+     "Ô đầu tiên và ô cuối cùng, ngăn cách bởi dấu phẩy",
+     "Tất cả các ô trong khối được liệt kê đầy đủ ngăn cách bởi dấu chấm phẩy",
+     "Tên của hàng đầu tiên và tên của hàng cuối cùng trong bảng"
+    ],
+    "Một khối ô được biểu diễn bằng cách viết địa chỉ ô góc trên bên trái và ô góc dưới bên phải, ở giữa có dấu hai chấm."
+   ],
+   [
+    "Khi nhập dữ liệu là một dãy số điện thoại hoặc mã bưu chính vào ô tính, nếu bắt đầu bằng số 0, bạn cần làm gì để hiển thị chính xác số 0 đó?",
+    [
+     "Nhập dấu nháy đơn trước dãy số",
+     "Thêm dấu cộng ở phía trước số 0",
+     "Nhập bình thường vì phần mềm luôn giữ số 0",
+     "Sử dụng hàm tính toán để thêm số 0"
+    ],
+    "Theo mặc định, bảng tính sẽ xóa số 0 ở đầu các dữ liệu số. Để hiển thị như văn bản, ta cần thêm dấu nháy đơn ở đầu."
+   ],
+   [
+    "Phát biểu nào sau đây là ĐÚNG khi nói về dữ liệu kí tự trong bảng tính?",
+    [
+     "Dữ liệu kí tự mặc định được căn lề trái trong ô tính",
+     "Dữ liệu kí tự mặc định được căn lề phải trong ô tính",
+     "Dữ liệu kí tự luôn được sử dụng trực tiếp trong các phép toán",
+     "Dữ liệu kí tự chỉ bao gồm các chữ cái từ A đến Z"
+    ],
+    "Mặc định trong bảng tính, dữ liệu kí tự sẽ được căn lề trái, còn dữ liệu số sẽ được căn lề phải."
+   ],
+   [
+    "Khi gõ công thức sai tên hàm, phần mềm bảng tính thường hiển thị thông báo lỗi nào trong ô tính?",
+    [
+     "#NAME?",
+     "#VALUE!",
+     "#DIV/0!",
+     "###"
+    ],
+    "Lỗi #NAME? xuất hiện khi bảng tính không nhận diện được tên hàm hoặc tên văn bản trong công thức do người dùng gõ sai chính tả."
+   ],
+   [
+    "Ý nghĩa của thông báo lỗi #DIV/0! trong một ô tính là gì?",
+    [
+     "Công thức có phép chia cho số 0 hoặc chia cho ô trống",
+     "Độ rộng của cột không đủ để hiển thị hết kết quả số",
+     "Hàm tính toán sử dụng sai kiểu dữ liệu tham số",
+     "Địa chỉ ô tính được sử dụng trong công thức không tồn tại"
+    ],
+    "Lỗi #DIV/0! xảy ra khi phép tính yêu cầu chia một số cho số 0 hoặc chia cho một ô chưa có dữ liệu."
+   ],
+   [
+    "Khi độ rộng của cột quá nhỏ không đủ để hiển thị các chữ số kết quả, bảng tính sẽ hiển thị kí tự gì?",
+    [
+     "Các dấu thăng (#####)",
+     "Dấu hỏi chấm (?????)))))",
+     "Thông báo lỗi #N/A",
+     "Thông báo lỗi #REF!"
+    ],
+    "Khi ô có dạng số quá dài mà cột lại quá hẹp, bảng tính sẽ hiển thị dãy dấu thăng để báo hiệu cần nới rộng cột."
+   ],
+   [
+    "Hàm nào sau đây dùng để tìm giá trị NHỎ NHẤT trong một khối ô dữ liệu số?",
+    [
+     "MIN",
+     "MAX",
+     "SUM",
+     "AVERAGE"
+    ],
+    "Hàm MIN có chức năng tìm và trả về giá trị nhỏ nhất trong danh sách các số hoặc khối ô được chọn."
+   ],
+   [
+    "Để đếm số lượng các ô chứa dữ liệu là số trong một khối từ B1 đến B10, bạn sử dụng hàm nào?",
+    [
+     "COUNT",
+     "COUNTA",
+     "SUM",
+     "AVERAGE"
+    ],
+    "Hàm COUNT dùng để đếm số lượng các ô có chứa dữ liệu kiểu số trong vùng được chỉ định."
+   ],
+   [
+    "Hàm COUNTA khác với hàm COUNT ở điểm cơ bản nào?",
+    [
+     "COUNTA đếm tất cả các ô không trống, còn COUNT chỉ đếm ô chứa số",
+     "COUNTA chỉ đếm các ô chứa kí tự chữ, còn COUNT đếm ô chứa số",
+     "COUNTA dùng để tính tổng, còn COUNT dùng để đếm số lượng",
+     "COUNTA chỉ làm việc với một ô duy nhất, còn COUNT làm việc với khối"
+    ],
+    "Hàm COUNTA đếm tất cả các ô không để trống (cả số và chữ), trong khi hàm COUNT chỉ đếm các ô có dữ liệu là số."
+   ],
+   [
+    "Cho các ô A1, A2, A3 lần lượt chứa các số 2, 4, 6. Biểu thức nào sau đây cho kết quả bằng 12?",
+    [
+     "=SUM(A1:A3)",
+     "=AVERAGE(A1:A3)",
+     "=MAX(A1:A3)*2",
+     "=MIN(A1:A3)+5"
+    ],
+    "Hàm =SUM(A1:A3) tính tổng 2 + 4 + 6 = 12. Các phương án khác cho kết quả lần lượt là 4, 12 nhân mấy đó, và 2+5=7."
+   ],
+   [
+    "Ô C1 chứa công thức =A1+B1. Khi thực hiện sao chép công thức từ ô C1 sang ô C2, công thức tại ô C2 sẽ tự động trở thành:",
+    [
+     "=A2+B2",
+     "=A1+B1",
+     "=C1+C2",
+     "=A2+B1"
+    ],
+    "Khi sao chép công thức sử dụng địa chỉ tương đối, các địa chỉ hàng sẽ tự động điều chỉnh theo vị trí dòng mới (từ hàng 1 sang hàng 2)."
+   ],
+   [
+    "Khi bạn nhập vào ô tính dòng chữ “Ket qua hoc tap”, phần mềm sẽ hiểu đây là loại dữ liệu gì và được căn lề như thế nào?",
+    [
+     "Dữ liệu kí tự, căn lề trái",
+     "Dữ liệu số, căn lề phải",
+     "Công thức tính toán, căn lề giữa",
+     "Dữ liệu lô-gic, căn lề trái"
+    ],
+    "Dòng chữ trên là dữ liệu kí tự (chuỗi văn bản) nên sẽ được phần mềm bảng tính tự động căn về phía lề trái của ô."
+   ],
+   [
+    "Để sắp xếp dữ liệu trong bảng tính theo thứ tự bảng chữ cái từ Z đến A ở cột tên, bạn cần chọn kiểu sắp xếp nào?",
+    [
+     "Giảm dần (Descending)",
+     "Tăng dần (Ascending)",
+     "Từ trên xuống dưới theo vị trí cũ",
+     "Sắp xếp ngẫu nhiên"
+    ],
+    "Thứ tự từ Z đến A tương ứng với chiều giảm dần của bảng chữ cái, ngược lại với từ A đến Z là tăng dần."
+   ],
+   [
+    "Chức năng lọc dữ liệu (Filter) trên bảng tính mang lại lợi ích gì cho người sử dụng?",
+    [
+     "Hiển thị các dòng thỏa mãn điều kiện cho trước và ẩn đi các dòng khác",
+     "Xóa vĩnh viễn các dữ liệu không cần thiết ra khỏi bảng tính",
+     "Tự động tính tổng tất cả các cột có chứa dữ liệu số",
+     "Đổi tên các hàng và cột theo ý muốn của người dùng"
+    ],
+    "Chức năng lọc giúp tạm thời ẩn đi những dòng không phù hợp với tiêu chí tìm kiếm, giúp dễ dàng quan sát các thông tin quan trọng."
+   ],
+   [
+    "Trong bảng điểm của lớp, để tìm ra điểm số cao thứ hai, thay vì tìm điểm MAX lớn nhất, bạn có thể kết hợp sắp xếp dữ liệu theo thứ tự nào?",
+    [
+     "Sắp xếp cột điểm giảm dần và quan sát dòng thứ hai",
+     "Sắp xếp cột điểm tăng dần và quan sát dòng thứ hai",
+     "Sắp xếp cột tên học sinh theo thứ tự từ Z đến A",
+     "Sắp xếp cột STT theo thứ tự tăng dần từ 1 đến hết"
+    ],
+    "Khi sắp xếp điểm số giảm dần (từ cao xuống thấp), học sinh có điểm cao nhất ở dòng đầu tiên và điểm cao thứ hai sẽ nằm ở dòng ngay bên dưới."
+   ],
+   [
+    "Để chèn thêm một cột mới vào bên trái cột B hiện tại trong trang tính, thao tác chuẩn xác nhất là gì?",
+    [
+     "Nháy chuột phải vào tên cột B và chọn Insert",
+     "Nháy chuột vào tên cột B rồi nhấn phím Delete",
+     "Chọn toàn bộ cột B và nhấn phím Backspace",
+     "Nháy đúp chuột vào tiêu đề cột B và nhập tên mới"
+    ],
+    "Để chèn cột, ta nháy chuột phải vào tiêu đề cột muốn chèn thêm vào bên trái và chọn Insert."
+   ],
+   [
+    "Khi bạn muốn thay đổi độ rộng của một cột để hiển thị toàn bộ nội dung bị che khuất, thao tác nhanh bằng chuột là gì?",
+    [
+     "Đưa con trỏ chuột vào đường viền ngăn cách giữa hai tiêu đề cột rồi kéo sang phải",
+     "Nháy đúp chuột vào giữa ô tính bất kì trong cột đó",
+     "Kéo thả chuột chọn toàn bộ các ô trong cột rồi nhấn phím mũi tên",
+     "Nháy chuột phải vào một ô và chọn Format Cells rồi chỉnh kích thước"
+    ],
+    "Đưa con trỏ chuột vào vách ngăn giữa hai tiêu đề cột cho đến khi xuất hiện mũi tên hai chiều rồi kéo dãn là cách đổi độ rộng cột nhanh nhất."
+   ],
+   [
+    "Phát biểu nào sau đây là KHÔNG ĐÚNG khi nói về việc sao chép nội dung ô tính?",
+    [
+     "Khi sao chép ô chứa dữ liệu số, định dạng màu sắc của ô nguồn sẽ bị mất hoàn toàn ở ô đích",
+     "Khi sao chép công thức, các địa chỉ ô trong công thức sẽ tự động điều chỉnh cho phù hợp với vị trí mới",
+     "Có thể sử dụng tổ hợp phím Ctrl C để sao chép và Ctrl V để dán dữ liệu",
+     "Ô đích sẽ nhận toàn bộ nội dung và định dạng giống hệt ô nguồn sau khi dán"
+    ],
+    "Khi sao chép ô tính, cả định dạng, màu sắc và nội dung đều được sao chép sang ô đích chứ không bị mất đi."
+   ],
+   [
+    "Để xóa hẳn một hàng chứa dữ liệu rác ra khỏi trang tính và đẩy các hàng bên dưới dịch chuyển lên trên, bạn làm thế nào?",
+    [
+     "Nháy chuột phải vào tên hàng cần xóa và chọn Delete",
+     "Chọn các ô trong hàng đó rồi nhấn phím Space",
+     "Nháy chuột vào tên hàng rồi chọn tính năng Clear Contents",
+     "Nhấn phím Backspace khi đang chọn hàng đó"
+    ],
+    "Chọn Delete sau khi nháy chuột phải vào tên hàng sẽ xóa bỏ hoàn toàn hàng đó và dịch chuyển các hàng bên dưới lên."
+   ],
+   [
+    "Kết quả của biểu thức =SUM(A1:A3, 10) với các ô A1, A2, A3 lần lượt chứa các số 2, 3, 5 là bao nhiêu?",
+    [
+     "20",
+     "10",
+     "15",
+     "Không thực hiện được do lẫn lộn giữa ô và số"
+    ],
+    "Hàm SUM tính tổng các giá trị trong khối A1:A3 (2+3+5 = 10) cộng thêm số 10 ở ngoài cho kết quả tổng bằng 20."
+   ],
+   [
+    "Cho các ô A1, A2, A3 lần lượt chứa các số 10, 20, 30. Biểu thức =AVERAGE(A1:A3) + MAX(A1:A3) sẽ cho kết quả là:",
+    [
+     "50",
+     "20",
+     "30",
+     "60"
+    ],
+    "Trung bình cộng là (10+20+30)/3 = 20. Giá trị lớn nhất là 30. Tổng kết quả là 20 + 30 = 50."
+   ],
+   [
+    "Khi nhập công thức =5 + 5 * 2 vào ô tính, phần mềm bảng tính sẽ trả về kết quả bằng bao nhiêu?",
+    [
+     "15",
+     "20",
+     "25",
+     "10"
+    ],
+    "Phần mềm thực hiện phép nhân trước (5*2 = 10), sau đó thực hiện phép cộng (5 + 10 = 15)."
+   ],
+   [
+    "Bạn đã thiết lập định dạng màu chữ đỏ và kiểu chữ đậm cho ô A1. Khi bạn sao chép ô A1 và dán sang ô B1, ô B1 sẽ hiển thị như thế nào?",
+    [
+     "Chữ màu đỏ và in đậm giống hệt ô A1",
+     "Chữ màu đen và bình thường",
+     "Chữ in nghiêng và có màu xanh",
+     "Chỉ có nội dung được chuyển sang còn định dạng bị mất"
+    ],
+    "Thao tác sao chép và dán thông thường sẽ mang theo cả định dạng (màu sắc, kiểu chữ) từ ô nguồn sang ô đích."
+   ],
+   [
+    "Ô A1 chứa giá trị 12 và ô B1 chứa giá trị 4. Bạn gõ công thức =A1^B1 vào ô C1, kết quả ở ô C1 là gì?",
+    [
+     "20736",
+     "48",
+     "3",
+     "16"
+    ],
+    "Kí hiệu mũ ^ dùng để tính lũy thừa. Ở đây tính 12 lũy thừa 4 bằng 20736."
+   ],
+   [
+    "Phát biểu nào sau đây mô tả chính xác nhất tác dụng của chức năng lọc dữ liệu (Filter)?",
+    [
+     "Tạm thời ẩn đi các dòng không thỏa mãn điều kiện và chỉ hiển thị các dòng thỏa mãn",
+     "Xóa vĩnh viễn các dòng dữ liệu không cần thiết khỏi bảng tính",
+     "Sắp xếp lại vị trí các hàng theo thứ tự từ nhỏ đến lớn",
+     "Tự động tính toán tổng số lượng của các mặt hàng được chọn"
+    ],
+    "Lọc dữ liệu giúp ẩn đi các dòng không đạt tiêu chuẩn và giữ lại hiển thị các dòng thỏa mãn điều kiện của người dùng."
+   ],
+   [
+    "Khi cần tính điểm trung bình môn cả năm dựa trên điểm các hệ số (hệ số 1, hệ số 2, hệ số 3), công thức nào sau đây viết đúng cú pháp và logic toán học?",
+    [
+     "=(A1 + B1*2 + C1*3) / 6",
+     "=SUM(A1:C1) / 3",
+     "=AVERAGE(A1, B1, C1) * 3",
+     "=A1 + B1 * 2 + C1 * 3 / 6"
+    ],
+    "Tính điểm trung bình theo trọng số cần nhân từng cột điểm với hệ số tương ứng, chia tổng cho tổng hệ số (6), và dùng ngoặc nhóm tử số."
+   ],
+   [
+    "Cho bảng điểm có cột A là Họ tên, cột B là Điểm toán, cột C là Điểm văn. Để sắp xếp danh sách học sinh theo điểm toán từ cao xuống thấp, bước đầu tiên bạn cần làm là gì?",
+    [
+     "Chọn toàn bộ bảng dữ liệu cần sắp xếp",
+     "Nháy chuột vào một ô bất kì ngoài bảng",
+     "Chỉ chọn riêng cột Họ tên ở cột A",
+     "Nhấn phím Delete để xóa sạch điểm cũ"
+    ],
+    "Trước khi sắp xếp, ta cần bôi đen chọn toàn bộ vùng dữ liệu liên quan để các cột đi kèm không bị lệch dòng."
+   ],
+   [
+    "Bạn muốn in một trang tính quá dài ra giấy sao cho tiêu đề các cột tự động lặp lại ở đầu mỗi trang in. Bạn cần tìm tính năng này ở thẻ lệnh nào?",
+    [
+     "Thẻ Page Layout",
+     "Thẻ Home",
+     "Thẻ Insert",
+     "Thẻ Formulas"
+    ],
+    "Các thiết lập liên quan đến trang in, lề, hướng giấy và tiêu đề trang in (Print Titles) đều nằm ở thẻ Page Layout."
+   ]
+  ]
+ }
+}

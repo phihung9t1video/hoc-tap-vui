@@ -1,0 +1,346 @@
+{
+ "7-tinhoc": {
+  "c5": [
+   [
+    "Mục đích chính của các thuật toán sắp xếp dữ liệu là gì?",
+    [
+     "Giúp việc tìm kiếm dữ liệu sau đó trở nên nhanh chóng và dễ dàng hơn",
+     "Làm tăng số lượng dữ liệu lưu trữ trong máy tính",
+     "Xóa bớt các dữ liệu bị trùng lặp trong danh sách",
+     "Tự động sửa lỗi chính tả cho dữ liệu dạng văn bản"
+    ],
+    "Sắp xếp dữ liệu theo một thứ tự nhất định giúp việc tra cứu và tìm kiếm thông tin sau đó được thực hiện nhanh hơn."
+   ],
+   [
+    "Trong thuật toán tìm kiếm tuần tự, việc tìm kiếm sẽ dừng lại khi nào?",
+    [
+     "Khi tìm thấy giá trị cần tìm hoặc đã duyệt hết toàn bộ danh sách",
+     "Chỉ khi đã duyệt hết toàn bộ danh sách",
+     "Khi tìm thấy giá trị nằm ở chính giữa danh sách",
+     "Khi gặp một giá trị lớn hơn giá trị cần tìm"
+    ],
+    "Tìm kiếm tuần tự xét từng phần tử từ đầu đến cuối, nên sẽ dừng khi thấy kết quả hoặc khi không còn phần tử nào để xét."
+   ],
+   [
+    "Thuật toán tìm kiếm nhị phân chia đôi danh sách cần tìm kiếm ở đâu?",
+    [
+     "Tại vị trí phần tử ở giữa khoảng đang xét",
+     "Tại vị trí phần tử đầu tiên của danh sách",
+     "Tại vị trí phần tử cuối cùng của danh sách",
+     "Tại một vị trí ngẫu nhiên bất kỳ"
+    ],
+    "Tìm kiếm nhị phân luôn so sánh giá trị cần tìm với phần tử ở giữa khoảng tìm kiếm hiện tại."
+   ],
+   [
+    "Ý tưởng cơ bản của thuật toán sắp xếp nổi bọt là gì?",
+    [
+     "So sánh và đổi chỗ hai phần tử liền kề nếu chúng sai thứ tự",
+     "Tìm phần tử nhỏ nhất rồi đổi chỗ về đầu dãy",
+     "Chia đôi dãy số thành hai phần bằng nhau rồi sắp xếp",
+     "So sánh phần tử đầu tiên với phần tử cuối cùng của dãy"
+    ],
+    "Thuật toán sắp xếp nổi bọt duyệt qua dãy và liên tục đổi chỗ hai phần tử kề nhau nếu chúng chưa đúng thứ tự."
+   ],
+   [
+    "Ý tưởng cơ bản của thuật toán sắp xếp chọn là gì?",
+    [
+     "Chọn phần tử nhỏ nhất trong phần chưa sắp xếp và đưa về vị trí đúng của nó",
+     "So sánh các cặp phần tử đứng cạnh nhau để đổi chỗ",
+     "Chia dãy thành các phần nhỏ và thực hiện tìm kiếm nhị phân",
+     "Ghép hai phần tử bất kỳ lại với nhau để so sánh"
+    ],
+    "Sắp xếp chọn hoạt động bằng cách tìm giá trị nhỏ nhất (hoặc lớn nhất) trong đoạn chưa sắp xếp rồi đổi chỗ nó về đúng vị trí."
+   ],
+   [
+    "Phát biểu nào sau đây mô tả đúng về thuật toán tìm kiếm tuần tự?",
+    [
+     "Có thể áp dụng cho danh sách chưa được sắp xếp",
+     "Bắt buộc danh sách phải được sắp xếp tăng dần trước",
+     "Luôn tìm thấy kết quả ngay ở bước đầu tiên",
+     "Chỉ áp dụng được với danh sách chứa các con số"
+    ],
+    "Tìm kiếm tuần tự kiểm tra lần lượt từng phần tử nên không yêu cầu danh sách phải sắp xếp trước."
+   ],
+   [
+    "Điều kiện bắt buộc để thực hiện được thuật toán tìm kiếm nhị phân là gì?",
+    [
+     "Danh sách dữ liệu đã được sắp xếp theo thứ tự",
+     "Danh sách dữ liệu phải có số lượng phần tử là số chẵn",
+     "Danh sách dữ liệu không được chứa các số âm",
+     "Danh sách dữ liệu phải chứa ít nhất 100 phần tử"
+    ],
+    "Tìm kiếm nhị phân dựa vào thứ tự của dữ liệu để loại bỏ một nửa khoảng tìm kiếm, do đó danh sách bắt buộc phải được sắp xếp."
+   ],
+   [
+    "Trong thuật toán sắp xếp nổi bọt tăng dần, sau lượt duyệt đầu tiên, phần tử nào sẽ chắc chắn nằm đúng vị trí cuối cùng?",
+    [
+     "Phần tử có giá trị lớn nhất",
+     "Phần tử có giá trị nhỏ nhất",
+     "Phần tử nằm ở chính giữa",
+     "Phần tử xuất hiện nhiều nhất"
+    ],
+    "Mỗi vòng duyệt của sắp xếp nổi bọt sẽ “đẩy” phần tử lớn nhất còn lại về đúng vị trí ở cuối dãy."
+   ],
+   [
+    "Khi tìm kiếm tên bạn “Hoa” trong danh sách điểm danh lớp gồm 40 học sinh chưa sắp xếp, thuật toán nào phù hợp để sử dụng?",
+    [
+     "Tìm kiếm tuần tự",
+     "Tìm kiếm nhị phân",
+     "Sắp xếp nổi bọt",
+     "Sắp xếp chọn"
+    ],
+    "Danh sách chưa được sắp xếp thứ tự bảng chữ cái nên ta bắt buộc phải dùng thuật toán tìm kiếm tuần tự."
+   ],
+   [
+    "Vì sao tìm kiếm nhị phân lại hiệu quả hơn tìm kiếm tuần tự trên một danh sách lớn đã sắp xếp?",
+    [
+     "Vì sau mỗi lần so sánh, số lượng phần tử cần tìm giảm đi một nửa",
+     "Vì nó kiểm tra tất cả các phần tử cùng một lúc",
+     "Vì nó không cần so sánh giá trị của các phần tử",
+     "Vì nó chỉ tìm kiếm ở đầu và cuối danh sách"
+    ],
+    "Tìm kiếm nhị phân thu hẹp khoảng tìm kiếm đi một nửa sau mỗi bước, giúp giảm đáng kể số lần so sánh."
+   ],
+   [
+    "Cho dãy số: 12, 8, 5, 20, 15. Nếu dùng tìm kiếm tuần tự để tìm số 20, cần thực hiện bao nhiêu lần so sánh?",
+    [
+     "4 lần",
+     "3 lần",
+     "5 lần",
+     "2 lần"
+    ],
+    "Thuật toán kiểm tra lần lượt 12 (lần 1), 8 (lần 2), 5 (lần 3), 20 (lần 4, thấy kết quả và dừng)."
+   ],
+   [
+    "Cho dãy số đã sắp xếp: 2, 5, 8, 12, 16, 21, 25. Sử dụng tìm kiếm nhị phân để tìm số 16, phần tử ở giữa được chọn ở bước đầu tiên có giá trị là bao nhiêu?",
+    [
+     "12",
+     "8",
+     "16",
+     "2"
+    ],
+    "Dãy có 7 phần tử, phần tử ở chính giữa là phần tử thứ 4, có giá trị là 12."
+   ],
+   [
+    "Thực hiện thuật toán sắp xếp chọn tăng dần cho dãy: 9, 3, 7, 2. Ở bước đầu tiên, hai số nào sẽ được đổi chỗ cho nhau?",
+    [
+     "9 và 2",
+     "9 và 3",
+     "3 và 2",
+     "7 và 2"
+    ],
+    "Số nhỏ nhất trong toàn bộ dãy là 2. Ta đổi chỗ số 2 với phần tử đầu tiên là 9."
+   ],
+   [
+    "Thực hiện lượt duyệt đầu tiên của thuật toán sắp xếp nổi bọt tăng dần cho dãy: 5, 1, 4, 2. Dãy thu được sau lượt duyệt đầu tiên là gì?",
+    [
+     "1, 4, 2, 5",
+     "1, 5, 4, 2",
+     "1, 2, 4, 5",
+     "5, 4, 2, 1"
+    ],
+    "Lần lượt đổi chỗ (5,1)->1,5,4,2; (5,4)->1,4,5,2; (5,2)->1,4,2,5. Kết thúc lượt 1 thu được 1, 4, 2, 5."
+   ],
+   [
+    "Bạn An muốn tìm từ từ khóa “Tin học” trong một cuốn từ điển Tiếng Việt. An nên áp dụng thuật toán nào để tìm nhanh nhất?",
+    [
+     "Tìm kiếm nhị phân",
+     "Tìm kiếm tuần tự",
+     "Sắp xếp nổi bọt",
+     "Sắp xếp chọn"
+    ],
+    "Cuốn từ điển đã được sắp xếp theo thứ tự bảng chữ cái, nên dùng phương pháp tìm kiếm nhị phân (giở khoảng giữa) sẽ nhanh nhất."
+   ],
+   [
+    "Cho danh sách điểm số: 8, 6, 9, 7. Để sắp xếp danh sách này giảm dần bằng thuật toán chọn, ở bước 1 phần tử nào sẽ được đưa về đầu dãy?",
+    [
+     "9",
+     "8",
+     "6",
+     "7"
+    ],
+    "Khi sắp xếp giảm dần, thuật toán chọn sẽ tìm phần tử lớn nhất (là 9) để đổi chỗ về vị trí đầu tiên."
+   ],
+   [
+    "Trong trường hợp xấu nhất, thuật toán tìm kiếm tuần tự phải thực hiện bao nhiêu lần so sánh trên danh sách có N phần tử?",
+    [
+     "N lần",
+     "N/2 lần",
+     "1 lần",
+     "2 lần"
+    ],
+    "Trường hợp xấu nhất xảy ra khi phần tử cần tìm nằm ở cuối danh sách hoặc không có trong danh sách, lúc đó phải so sánh đủ N lần."
+   ],
+   [
+    "Một thư viện sắp xếp sách trên kệ theo tên tác giả từ A đến Z. Khi cần tìm một cuốn sách, thủ thư mở ngay kệ ở giữa để kiểm tra. Thủ thư đang mô phỏng thuật toán nào?",
+    [
+     "Tìm kiếm nhị phân",
+     "Tìm kiếm tuần tự",
+     "Sắp xếp nổi bọt",
+     "Sắp xếp chọn"
+    ],
+    "Hành động mở ngay vị trí ở giữa của danh sách đã sắp xếp là đặc trưng của thuật toán tìm kiếm nhị phân."
+   ],
+   [
+    "Giáo viên muốn chọn ra 3 học sinh có điểm cao nhất từ danh sách lớp chưa sắp xếp. Bước đầu tiên hiệu quả nhất là gì?",
+    [
+     "Sắp xếp lại danh sách điểm theo thứ tự giảm dần",
+     "Áp dụng ngay thuật toán tìm kiếm nhị phân",
+     "Xóa bớt các học sinh có điểm dưới trung bình",
+     "Chia danh sách lớp thành hai phần bằng nhau"
+    ],
+    "Sắp xếp danh sách giảm dần giúp dễ dàng lấy ra các học sinh đứng đầu có điểm số cao nhất."
+   ],
+   [
+    "So sánh hai thuật toán sắp xếp nổi bọt và sắp xếp chọn, nhận định nào sau đây là đúng?",
+    [
+     "Cả hai thuật toán đều kết thúc khi toàn bộ dữ liệu được sắp xếp đúng thứ tự",
+     "Cả hai thuật toán đều không thể áp dụng cho dữ liệu dạng chữ cái",
+     "Thuật toán nổi bọt chỉ áp dụng cho dãy số, thuật toán chọn áp dụng cho văn bản",
+     "Thuật toán chọn không bao giờ thay đổi vị trí của các phần tử"
+    ],
+    "Cả hai thuật toán đều là các thuật toán sắp xếp cơ bản nhằm đưa toàn bộ dãy dữ liệu (số hoặc chữ) về đúng thứ tự."
+   ],
+   [
+    "Hoạt động nào sau đây trong đời sống mang ý nghĩa giống với thuật toán tìm kiếm tuần tự?",
+    [
+     "Đọc từng trang sách từ đầu đến cuối để tìm một từ khóa",
+     "Mở sách giáo khoa ở trang chính giữa để tra mục lục",
+     "Xếp các cuốn vở theo chiều cao từ thấp đến cao",
+     "Chia đôi lớp học thành hai nhóm để điểm danh nhanh"
+    ],
+    "Tìm kiếm tuần tự duyệt qua từng phần tử một cách tuần tự từ đầu đến cuối giống như đọc từng trang sách."
+   ],
+   [
+    "Khi tìm kiếm một từ trong cuốn từ điển dày, nếu ta dùng cách lật từng trang một từ trang đầu tiên thì đó là minh họa cho:",
+    [
+     "Thuật toán tìm kiếm tuần tự",
+     "Thuật toán tìm kiếm nhị phân",
+     "Thuật toán sắp xếp nổi bọt",
+     "Thuật toán sắp xếp chọn"
+    ],
+    "Lật từng trang một từ đầu chính là cách làm của tìm kiếm tuần tự."
+   ],
+   [
+    "Đặc điểm nào sau đây là của thuật toán tìm kiếm tuần tự?",
+    [
+     "Không yêu cầu danh sách phải được sắp xếp từ trước",
+     "Bắt buộc danh sách dữ liệu phải được sắp xếp tăng dần",
+     "Luôn luôn chia đôi danh sách ở mỗi bước lặp",
+     "Chỉ áp dụng được khi danh sách có số lượng phần tử là số chẵn"
+    ],
+    "Tìm kiếm tuần tự xét từng phần tử nên không cần danh sách phải sắp xếp."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về thuật toán tìm kiếm nhị phân?",
+    [
+     "Mỗi bước lặp loại bỏ được một nửa số phần tử chưa xét",
+     "Chỉ dùng được khi danh sách chưa được sắp xếp",
+     "Phải kiểm tra từng phần tử từ trái qua phải",
+     "Luôn có số lần so sánh nhiều hơn tìm kiếm tuần tự"
+    ],
+    "Tìm kiếm nhị phân hoạt động bằng cách chia đôi danh sách và loại bỏ nửa không chứa giá trị cần tìm."
+   ],
+   [
+    "Thuật toán sắp xếp nào dựa trên ý tưởng so sánh các cặp phần tử đứng cạnh nhau và đổi chỗ nếu chúng sai thứ tự?",
+    [
+     "Sắp xếp nổi bọt",
+     "Sắp xếp chọn",
+     "Tìm kiếm nhị phân",
+     "Tìm kiếm tuần tự"
+    ],
+    "Sắp xếp nổi bọt so sánh các cặp phần tử liền kề và đổi chỗ để đưa phần tử lớn về cuối."
+   ],
+   [
+    "Trong thuật toán sắp xếp chọn tăng dần, công việc chính ở mỗi bước là gì?",
+    [
+     "Tìm phần tử nhỏ nhất trong phần chưa sắp xếp để đưa về đầu đoạn",
+     "So sánh hai phần tử cạnh nhau rồi đổi chỗ cho nhau",
+     "Chia đôi danh sách thành hai phần bằng nhau",
+     "Tìm kiếm sự xuất hiện của một giá trị cho trước"
+    ],
+    "Sắp xếp chọn tìm phần tử nhỏ nhất ở phần chưa sắp xếp để đưa vào đúng vị trí."
+   ],
+   [
+    "Cho danh sách gồm các số: 4, 2, 7, 1, 9. Nếu áp dụng thuật toán tìm kiếm tuần tự để tìm số 7, ta cần thực hiện mấy lần so sánh?",
+    [
+     "3 lần",
+     "2 lần",
+     "4 lần",
+     "5 lần"
+    ],
+    "Số 7 ở vị trí thứ 3, ta phải so sánh với các số 4, 2, rồi đến 7 mới thấy."
+   ],
+   [
+    "Cho dãy số đã sắp xếp tăng dần: 3, 6, 9, 12, 15, 18, 21. Khi dùng tìm kiếm nhị phân tìm số 15, phần tử ở giữa được so sánh đầu tiên là gì?",
+    [
+     "12",
+     "9",
+     "15",
+     "6"
+    ],
+    "Dãy có 7 phần tử, phần tử chính giữa ở vị trí thứ 4 là số 12."
+   ],
+   [
+    "Bạn Minh có một danh sách tên 20 bạn trong lớp đã được sắp xếp theo thứ tự bảng chữ cái. Bạn Minh muốn tìm tên bạn “Lan”. Cách nhanh nhất là:",
+    [
+     "Dùng thuật toán tìm kiếm nhị phân",
+     "Dùng thuật toán tìm kiếm tuần tự từ đầu đến cuối",
+     "Dùng thuật toán sắp xếp nổi bọt",
+     "Dọc ngược từ cuối danh sách lên đầu danh sách"
+    ],
+    "Danh sách đã sắp xếp nên tìm kiếm nhị phân là nhanh và hiệu quả nhất."
+   ],
+   [
+    "Cho dãy số: 8, 3, 5, 1. Để sắp xếp tăng dần bằng thuật toán chọn, ở bước đầu tiên ta sẽ đổi chỗ số 1 cho số nào?",
+    [
+     "Số 8",
+     "Số 3",
+     "Số 5",
+     "Không đổi chỗ"
+    ],
+    "Phần tử nhỏ nhất là 1 ở cuối dãy sẽ được đổi chỗ với phần tử đầu tiên là 8."
+   ],
+   [
+    "Khi nào thì thuật toán tìm kiếm tuần tự ưu thế hơn thuật toán tìm kiếm nhị phân?",
+    [
+     "Khi danh sách dữ liệu nhỏ và chưa được sắp xếp",
+     "Khi danh sách có hàng triệu phần tử đã sắp xếp",
+     "Khi cần tìm kiếm trên một thư viện sách đã xếp theo tên",
+     "Khi máy tính yêu cầu bắt buộc phải chia đôi dữ liệu"
+    ],
+    "Dữ liệu nhỏ hoặc chưa sắp xếp thì tìm kiếm tuần tự đơn giản và không mất công sắp xếp trước."
+   ],
+   [
+    "Một bạn học sinh viết thuật toán tìm kiếm nhị phân nhưng áp dụng cho một dãy số chưa được sắp xếp. Hiện tượng gì sẽ xảy ra?",
+    [
+     "Kết quả tìm kiếm có thể bị sai hoặc không tìm thấy",
+     "Chương trình chạy nhanh gấp đôi bình thường",
+     "Thuật toán tự động sắp xếp lại dãy rồi tìm đúng",
+     "Máy tính sẽ bị hỏng phần mềm lập trình"
+    ],
+    "Tìm kiếm nhị phân đòi hỏi dãy đã sắp xếp, nếu chưa sắp xếp thì việc chia đôi sẽ làm mất tính logic."
+   ],
+   [
+    "Trong thuật toán sắp xếp nổi bọt tăng dần, sau mỗi lượt duyệt, điều gì chắc chắn xảy ra?",
+    [
+     "Phần tử lớn nhất trong đoạn chưa sắp xếp sẽ trôi về cuối đoạn đó",
+     "Toàn bộ danh sách đã được sắp xếp hoàn toàn ngay lập tức",
+     "Phần tử nhỏ nhất được đưa lên vị trí đầu tiên của danh sách",
+     "Danh sách bị chia đôi thành hai phần bằng nhau"
+    ],
+    "Đặc tính của nổi bọt là đưa phần tử lớn nhất về cuối sau mỗi lượt."
+   ],
+   [
+    "Bạn An muốn tìm kiếm điểm của mình trong bảng điểm của cả khối gồm 300 học sinh (chưa sắp xếp). Bạn An nên dùng phương pháp nào?",
+    [
+     "Tìm kiếm tuần tự",
+     "Tìm kiếm nhị phân",
+     "Sắp xếp nổi bọt",
+     "Sắp xếp chọn"
+    ],
+    "Bảng điểm chưa sắp xếp nên chỉ có thể dùng tìm kiếm tuần tự để rà soát."
+   ]
+  ]
+ }
+}

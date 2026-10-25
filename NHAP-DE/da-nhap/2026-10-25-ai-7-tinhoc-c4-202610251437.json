@@ -1,0 +1,356 @@
+{
+ "7-tinhoc": {
+  "c4": [
+   [
+    "Phát biểu nào sau đây là đúng nhất khi nói về chức năng chính của phần mềm trình chiếu",
+    [
+     "Hỗ trợ tạo và hiển thị các trang nội dung điện tử trên màn hình hoặc máy chiếu",
+     "Chỉ dùng để soạn thảo văn bản và in ra giấy giống như phần mềm Microsoft Word",
+     "Chuyên dùng để tính toán số liệu và vẽ biểu đồ thống kê phức tạp",
+     "Giúp kết nối internet và lướt web tìm kiếm thông tin nhanh chóng"
+    ],
+    "Phần mềm trình chiếu là công cụ giúp tạo ra các trang chiếu chứa văn bản, hình ảnh, âm thanh để trình bày trong các buổi báo cáo, hội thảo."
+   ],
+   [
+    "Khi khởi động phần mềm Microsoft PowerPoint, màn hình làm việc chính hiển thị giao diện gọi là gì",
+    [
+     "Trang chiếu đầu tiên thuộc tệp trình chiếu mới mặc định",
+     "Bảng tính điện tử gồm các hàng và cột giao nhau",
+     "Trang văn bản trắng để bắt đầu gõ chữ",
+     "Thư mục chứa các tệp hình ảnh và âm thanh"
+    ],
+    "Khi mở PowerPoint, chương trình sẽ tự động tạo một tệp trình chiếu mới với một trang chiếu (slide) đầu tiên."
+   ],
+   [
+    "Trong phần mềm trình chiếu, thao tác nào sau đây dùng để thêm một trang chiếu mới vào bài trình chiếu",
+    [
+     "Nháy chuột chọn lệnh New Slide trong dải lệnh Home",
+     "Chọn lệnh Save As để lưu bài trình chiếu thành tệp mới",
+     "Nhấn tổ hợp phím Ctrl + P để mở cửa sổ in ấn",
+     "Chọn lệnh Open để mở một tệp có sẵn trên máy tính"
+    ],
+    "Lệnh New Slide trong dải lệnh Home là thao tác chuẩn để thêm trang chiếu mới."
+   ],
+   [
+    "Thành phần nào trên trang chiếu đóng vai trò chứa văn bản để người dùng nhập nội dung vào",
+    [
+     "Các hộp văn bản có sẵn hoặc được chèn thêm",
+     "Đường viền bao quanh màn hình máy tính",
+     "Thanh cuộn dọc nằm ở cạnh phải màn hình",
+     "Biểu tượng thu nhỏ của các trang chiếu ở cột bên trái"
+    ],
+    "Hộp văn bản (Text Box) là nơi người dùng gõ và định dạng văn bản trên trang chiếu."
+   ],
+   [
+    "Để chèn một hình ảnh từ tệp lưu trên máy tính vào trang chiếu, em cần chọn lệnh nào trong dải lệnh Insert",
+    [
+     "Lệnh Pictures",
+     "Lệnh Table",
+     "Lệnh Shape",
+     "Lệnh Chart"
+    ],
+    "Lệnh Pictures trong dải lệnh Insert cho phép chọn và chèn hình ảnh từ máy tính vào trang chiếu."
+   ],
+   [
+    "Hành động nào sau đây là KHÔNG NÊN làm khi thiết kế nội dung chữ trên một trang chiếu",
+    [
+     "Sử dụng quá nhiều cỡ chữ và màu sắc sặc sỡ trên cùng một trang",
+     "Chọn phông chữ đơn giản, không chân như Arial hoặc Calibri",
+     "Giữ cỡ chữ đủ lớn để người ngồi xa vẫn đọc được rõ ràng",
+     "Trình bày nội dung dạng ngắn gọn bằng các ý chính (bullet)"
+    ],
+    "Dùng quá nhiều kiểu chữ và màu sắc làm trang chiếu rối mắt, khó đọc."
+   ],
+   [
+    "Khi muốn thay đổi màu nền của một trang chiếu cụ thể trong bài trình chiếu, em thường sử dụng tính năng nào",
+    [
+     "Nháy chuột phải chọn Format Background",
+     "Chọn lệnh New Slide trong dải lệnh Home",
+     "Nhấn tổ hợp phím Ctrl + N để tạo tệp mới",
+     "Chọn lệnh Print để in trang chiếu ra giấy"
+    ],
+    "Tính năng Format Background cho phép tuỳ chỉnh màu nền, ảnh nền cho trang chiếu."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi phân biệt giữa hiệu ứng động trang chiếu và hiệu ứng chuyển trang",
+    [
+     "Hiệu ứng động áp dụng cho từng đối tượng trên trang, còn hiệu ứng chuyển trang áp dụng cho toàn bộ trang khi đổi slide",
+     "Hiệu ứng chuyển trang chỉ dùng cho hình ảnh, còn hiệu ứng động chỉ dùng cho văn bản",
+     "Cả hai loại hiệu ứng này thực chất chỉ là một và có cách sử dụng hoàn toàn giống nhau",
+     "Hiệu ứng động chỉ xuất hiện khi in bài trình chiếu ra giấy"
+    ],
+    "Hiệu ứng động (Animation) dành cho đối tượng, hiệu ứng chuyển trang (Transition) dành cho việc xuất hiện trang chiếu."
+   ],
+   [
+    "Để xem lại toàn bộ bài trình chiếu từ trang đầu tiên cho đến trang cuối cùng để kiểm tra, em nhấn phím nào trên bàn phím",
+    [
+     "Phím F5",
+     "Phím F1",
+     "Phím F12",
+     "Phím Esc"
+    ],
+    "Nhấn phím F5 giúp bắt đầu trình chiếu từ trang đầu tiên."
+   ],
+   [
+    "Khi đang ở chế độ trình chiếu toàn màn hình, muốn dừng lại và thoát ra màn hình thiết kế, em nhấn phím nào",
+    [
+     "Phím Esc",
+     "Phím Enter",
+     "Phím Space",
+     "Phím Tab"
+    ],
+    "Phím Esc (Escape) dùng để thoát khỏi chế độ trình chiếu."
+   ],
+   [
+    "Em muốn tạo một bài trình chiếu giới thiệu về danh lam thắng cảnh quê hương. Thao tác sắp xếp thứ tự các trang chiếu nào sau đây là hợp lý nhất",
+    [
+     "Trang giới thiệu chung, các trang chi tiết danh lam, trang cảm ơn và kết luận",
+     "Trang cảm ơn đặt ở đầu tiên, tiếp theo là trang chi tiết, cuối cùng là trang mở đầu",
+     "Trang chi tiết đặt ở đầu, trang mở đầu đặt ở giữa và trang kết luận đặt ngẫu nhiên",
+     "Trang kết luận đặt trước, trang mở đầu đặt sau cùng và không có trang giới thiệu"
+    ],
+    "Bố cục bài trình chiếu cần có mở đầu, nội dung chi tiết và phần kết luận cảm ơn."
+   ],
+   [
+    "Bạn Nam muốn chèn một đoạn video ngắn về tiếng sóng biển vào trang chiếu để minh họa. Nam nên sử dụng lệnh nào trong dải lệnh Insert",
+    [
+     "Lệnh Video",
+     "Lệnh Audio",
+     "Lệnh Shape",
+     "Lệnh Table"
+    ],
+    "Lệnh Video trong dải lệnh Insert dùng để chèn tệp video vào trang chiếu."
+   ],
+   [
+    "Khi thiết kế một bài trình chiếu có sử dụng hình ảnh minh họa, cách làm nào giúp bài thuyết phục và chuyên nghiệp hơn",
+    [
+     "Chọn hình ảnh có nội dung liên quan trực tiếp đến bài và có chất lượng rõ nét",
+     "Chèn thật nhiều hình ảnh động chớp nháy liên tục che lấp cả chữ",
+     "Sử dụng các hình ảnh có kích thước quá lớn làm tràn ra ngoài trang chiếu",
+     "Sao chép mọi hình ảnh tìm thấy trên mạng mà không cần quan tâm đến chủ đề"
+    ],
+    "Hình ảnh cần liên quan và rõ nét để hỗ trợ tốt cho nội dung trình bày."
+   ],
+   [
+    "Bạn Linh muốn áp dụng một kiểu hiệu ứng chuyển trang giống nhau cho tất cả các trang chiếu trong bài. Linh nên chọn nút lệnh nào sau đây",
+    [
+     "Nút Apply to All trong nhóm Timing của dải lệnh Transitions",
+     "Nút lệnh New Slide trong dải lệnh Home",
+     "Nút lệnh Format Painter trong dải lệnh Home",
+     "Nút lệnh Delete trong nhóm Slides"
+    ],
+    "Lệnh Apply to All giúp áp dụng hiệu ứng chuyển trang hiện tại cho toàn bộ các slide trong tệp."
+   ],
+   [
+    "Trong phần mềm trình chiếu, cấu trúc phân cấp thông tin thường được thể hiện rõ nhất qua yếu tố nào",
+    [
+     "Mức độthụt lề và kích thước của các dòng văn bản liệt kê",
+     "Màu sắc ngẫu nhiên của từng chữ cái trên trang chiếu",
+     "Số lượng hình ảnh được chèn vào góc phải trang chiếu",
+     "Tốc độ chuyển động của hiệu ứng âm thanh"
+    ],
+    "Sử dụng thụt lề và cỡ chữ giúp phân biệt ý chính và ý phụ rõ ràng."
+   ],
+   [
+    "Bạn Minh thiết kế một trang chiếu có nền màu đen và chữ viết màu trắng. Đánh giá nào sau đây là chính xác về thiết kế này",
+    [
+     "Tương phản tốt, giúp người xem dễ đọc chữ từ xa",
+     "Khó đọc vì màu chữ chìm nghỉm vào màu nền tối",
+     "Không thể áp dụng được trên phần mềm PowerPoint",
+     "Làm cho bài trình chiếu trông giống như một văn bản Word"
+    ],
+    "Nền tối chữ sáng tạo độ tương phản cao, rất dễ đọc khi trình chiếu trong phòng tối."
+   ],
+   [
+    "Khi chuẩn bị một bài thuyết trình trước lớp, việc sử dụng các slide chứa quá nhiều chữ dày đặc sẽ dẫn đến kết quả gì",
+    [
+     "Người nghe cảm thấy nhàm chán và khó nắm bắt được ý chính của bài",
+     "Giúp người nghe đọc kịp từng chữ và hiểu sâu hơn về vấn đề",
+     "Được giáo viên đánh giá cao vì sự chi tiết và cẩn thận",
+     "Làm cho thời gian thuyết trình diễn ra nhanh chóng hơn"
+    ],
+    "Slide nhiều chữ khiến người xem tập trung đọc thay vì nghe người thuyết trình."
+   ],
+   [
+    "Tình huống nào sau đây nên sử dụng bảng (Table) trên trang chiếu để biểu diễn thông tin",
+    [
+     "Khi cần so sánh số liệu liệu thống kê giữa các năm của các lớp",
+     "Khi cần kể lại một câu chuyện cổ tích bằng văn bản dài",
+     "Khi muốn tạo hiệu ứng chuyển động cho một bức tranh phong cảnh",
+     "Khi cần chèn một đoạn nhạc không lời vào bài trình chiếu"
+    ],
+    "Bảng là công cụ tối ưu để trình bày và so sánh dữ liệu dạng hàng, cột."
+   ],
+   [
+    "Bạn An muốn các đối tượng gồm tiêu đề và hình ảnh lần lượt xuất hiện theo ý mình khi trình bày. An nên sử dụng tính năng nào",
+    [
+     "Thêm hiệu ứng động Animation cho từng đối tượng theo thứ tự",
+     "Chọn hiệu ứng chuyển trang Transition cho toàn bộ slide",
+     "Thay đổi màu sắc của phông nền trang chiếu bằng Format Background",
+     "Xóa bớt các hộp văn bản không cần thiết trên trang chiếu"
+    ],
+    "Hiệu ứng động (Animation) cho phép tuỳ chỉnh thứ tự xuất hiện của từng đối tượng."
+   ],
+   [
+    "Khi hoàn thành bài trình chiếu, để lưu tệp lại trên máy tính nhằm tránh mất dữ liệu, em thực hiện thao tác nào",
+    [
+     "Chọn File sau đó chọn Save hoặc Save As và đặt tên tệp",
+     "Nhấn phím F5 để bắt đầu trình chiếu bài tập",
+     "Chọn Insert sau đó chọn Pictures để lưu ảnh",
+     "Nhấn phím Esc để thoát khỏi màn hình làm việc"
+    ],
+    "Thao tác lưu tệp bắt đầu bằng việc chọn File rồi chọn Save hoặc Save As."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về định dạng văn bản trên trang chiếu?",
+    [
+     "Nên chọn cỡ chữ vừa phải, đủ lớn để người ngồi ở xa vẫn đọc được rõ ràng.",
+     "Nên dùng từ 4 đến 5 kiểu chữ khác nhau trên cùng một trang để sinh động.",
+     "Nên dùng màu chữ và màu nền có độ tương phản thấp để tạo cảm giác êm dịu.",
+     "Nên viết toàn bộ nội dung bằng chữ in hoa để bài thuyết trình thêm trang trọng."
+    ],
+    "Cỡ chữ đủ lớn giúp người xem dễ đọc, tránh dùng quá nhiều kiểu chữ hoặc màu tương phản kém."
+   ],
+   [
+    "Để chèn đoạn văn bản nghệ thuật giúp tiêu đề trang chiếu nổi bật hơn, em dùng công cụ nào?",
+    [
+     "WordArt",
+     "Clip Art",
+     "SmartArt",
+     "Text Box"
+    ],
+    "WordArt là công cụ chuyên dụng để tạo các kiểu chữ nghệ thuật làm tiêu đề."
+   ],
+   [
+    "Khi muốn tạo một sơ đồ tổ chức hoặc chuỗi các bước công việc dạng khối hình trên trang chiếu, em dùng lệnh gì?",
+    [
+     "SmartArt",
+     "Table",
+     "Chart",
+     "Shape"
+    ],
+    "SmartArt cung cấp các mẫu sơ đồ trực quan giúp biểu diễn thông tin dạng cấu trúc rất hiệu quả."
+   ],
+   [
+    "Thao tác nào sau đây giúp em thay đổi bố cục (Layout) của một trang chiếu đã có sẵn?",
+    [
+     "Nháy chuột phải vào trang chiếu ở cột bên trái và chọn Layout",
+     "Nhấn phím Delete trên bàn phím để xóa trang chiếu cũ đi",
+     "Nhấn tổ hợp phím Ctrl và phím N để tạo tệp trình chiếu mới",
+     "Nháy đúp chuột vào khung chứa tiêu đề của trang chiếu"
+    ],
+    "Nháy chuột phải vào trang chiếu ở danh sách bên trái và chọn Layout là cách nhanh nhất để đổi bố cục."
+   ],
+   [
+    "Khi muốn tạo một biểu đồ hình cột để so sánh số liệu các môn thể thao, em chọn lệnh nào trong dải lệnh Insert?",
+    [
+     "Chart",
+     "Table",
+     "Picture",
+     "Audio"
+    ],
+    "Lệnh Chart trong dải lệnh Insert dùng để chèn các loại biểu đồ thống kê số liệu."
+   ],
+   [
+    "Phát biểu nào sau đây là KHÔNG ĐÚNG khi chèn hình ảnh minh họa vào bài trình chiếu?",
+    [
+     "Nên chọn hình ảnh có độ phân giải cực thấp để tệp bài thuyết trình có dung lượng nặng nhất có thể.",
+     "Nên chọn hình ảnh có nội dung liên quan trực tiếp đến phần trình bày.",
+     "Nên sắp xếp vị trí hình ảnh cân đối với các khối văn bản xung quanh.",
+     "Nên điều chỉnh kích thước hình ảnh vừa phải, không che lấp nội dung chính."
+    ],
+    "Hình ảnh dung lượng nhẹ hoặc vừa phải là tốt, không nên chọn ảnh quá nặng hoặc kém chất lượng."
+   ],
+   [
+    "Trong phần mềm trình chiếu, để nhân đôi một trang chiếu có sẵn thành một trang chiếu y hệt, em dùng thao tác nào?",
+    [
+     "Nháy chuột phải vào trang chiếu cần sao chép và chọn Duplicate Slide",
+     "Nhấn phím F5 để khởi động chế độ trình chiếu toàn màn hình",
+     "Nháy vào dải lệnh Insert rồi chọn lệnh New Slide",
+     "Nhấn phím Backspace để xóa bỏ trang chiếu hiện tại"
+    ],
+    "Lệnh Duplicate Slide giúp nhanh chóng tạo ra một bản sao chính xác của trang chiếu."
+   ],
+   [
+    "Khi đang thiết kế bài trình chiếu, để lưu lại các thay đổi vào tệp hiện tại bằng bàn phím, em dùng tổ hợp nào?",
+    [
+     "Ctrl và S",
+     "Ctrl và N",
+     "Ctrl và O",
+     "Ctrl và P"
+    ],
+    "Tổ hợp phím Ctrl và S là phím tắt phổ biến để lưu tệp nhanh chóng."
+   ],
+   [
+    "Hành động nào sau đây thể hiện sự thiếu khoa học khi thiết kế một trang chiếu nội dung?",
+    [
+     "Sử dụng quá nhiều màu sắc sặc sỡ, lòe loẹt không theo chủ đề nào.",
+     "Sử dụng gạch đầu dòng ngắn gọn để tóm tắt các ý chính.",
+     "Chọn phông chữ đơn giản, dễ đọc như Arial hoặc Times New Roman.",
+     "Canh lề văn bản gọn gàng và tạo khoảng trắng hợp lý trên trang."
+    ],
+    "Dùng quá nhiều màu sắc lòe loẹt gây rối mắt và làm giảm tính chuyên nghiệp của bài thuyết trình."
+   ],
+   [
+    "Bạn Hà muốn chèn một tệp âm thanh bài hát quê hương vào trang chiếu để phát nền xuyên suốt. Hà cần tìm nhóm lệnh nào?",
+    [
+     "Audio trong dải lệnh Insert",
+     "Video trong dải lệnh Insert",
+     "Table trong dải lệnh Insert",
+     "Shape trong dải lệnh Insert"
+    ],
+    "Nhóm lệnh Audio trong dải lệnh Insert cho phép chèn các tệp âm thanh vào trang chiếu."
+   ],
+   [
+    "Khi một trang chiếu có quá nhiều chữ, việc chia nhỏ nội dung đó thành hai trang chiếu liên tiếp sẽ đem lại kết quả gì?",
+    [
+     "Giúp người xem dễ theo dõi, không bị mỏi mắt và tiếp thu kiến thức tốt hơn.",
+     "Làm cho bài trình chiếu trở nên nhàm chán và mất nhiều thời gian hơn.",
+     "Làm cho dung lượng của tệp trình chiếu bị tăng lên gấp nhiều lần.",
+     "Làm mất đi hiệu ứng chuyển trang giữa các slide với nhau."
+    ],
+    "Chia nhỏ thông tin giúp người xem dễ đọc và tập trung hơn vào từng ý chính."
+   ],
+   [
+    "Khi trình bày bài thuyết trình trước lớp, việc bạn vừa quay lưng đọc trân trân từng chữ trên màn hình vừa nói sẽ gây ra điều gì?",
+    [
+     "Làm giảm sự tương tác với người nghe và làm bài thuyết trình kém sinh động.",
+     "Giúp các bạn bên dưới ghi chép lại đầy đủ và chính xác từng câu chữ.",
+     "Thể hiện phong cách thuyết trình chuyên nghiệp và chuẩn mực nhất.",
+     "Giúp người thuyết trình tự tin hơn vì không phải nhớ nội dung bài."
+    ],
+    "Đọc trực tiếp từ màn hình và quay lưng về phía người nghe là một lỗi giao tiếp phổ biến cần tránh."
+   ],
+   [
+    "Em hãy chọn phương án sắp xếp hợp lý các bước để tạo một bài trình chiếu cơ bản.",
+    [
+     "Xác định chủ đề, chuẩn bị nội dung, chọn mẫu giao diện, nhập văn bản và chèn hình ảnh, kiểm tra và trình chiếu.",
+     "Khởi động máy tính, mở phần mềm trình chiếu, nhấn phím F5 ngay lập tức, tắt máy.",
+     "Chèn video, chèn âm thanh, thêm hiệu ứng chuyển trang, xóa tất cả các trang chiếu.",
+     "In bài ra giấy, gấp thành sách, phát cho các bạn trong lớp đọc."
+    ],
+    "Quy trình chuẩn là xác định chủ đề, soạn nội dung, thiết kế giao diện, hoàn thiện và kiểm tra."
+   ],
+   [
+    "Bạn Mai muốn tạo điểm nhấn cho buổi thuyết trình bằng cách làm cho hình ảnh chiếc máy bay bay từ góc trái sang góc phải trang chiếu. Mai nên dùng tính năng gì?",
+    [
+     "Hiệu ứng động cho đối tượng (Animation)",
+     "Hiệu ứng chuyển trang (Transition)",
+     "Chức năng đổi màu nền (Background Style)",
+     "Chức năng chèn bảng biểu (Table)"
+    ],
+    "Animation là hiệu ứng áp dụng cho từng đối tượng riêng lẻ trên trang chiếu như hình ảnh, chữ viết."
+   ],
+   [
+    "Tình huống nào sau đây là ứng dụng thực tế hiệu quả nhất của phần mềm trình chiếu trong học tập?",
+    [
+     "Em làm bài thuyết trình kèm hình ảnh và sơ đồ để báo cáo kết quả dự án lịch sử trước lớp.",
+     "Em dùng phần mềm trình chiếu để viết một bức thư dài gửi cho người bạn thân.",
+     "Em dùng phần mềm trình chiếu để tính toán bảng điểm tổng kết cuối năm học.",
+     "Em dùng phần mềm trình chiếu để vẽ một bức tranh phong cảnh nghệ thuật."
+    ],
+    "Phần mềm trình chiếu rất phù hợp cho việc báo cáo, thuyết trình dự án học tập."
+   ]
+  ]
+ }
+}

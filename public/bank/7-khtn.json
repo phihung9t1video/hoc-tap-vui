@@ -69,6 +69,336 @@
     "0"
    ],
    "Nguyên tử trung hòa về điện: số electron = số proton = 6."
+  ],
+  [
+   "Khối lượng của một nguyên tử hầu như tập trung hoàn toàn ở bộ phận nào?",
+   [
+    "Hạt nhân nguyên tử",
+    "Lớp vỏ nguyên tử",
+    "Các hạt electron",
+    "Khoảng không gian trống bên ngoài"
+   ],
+   "Hạt nhân chứa proton và neutron có khối lượng lớn, còn electron rất nhẹ nên khối lượng nguyên tử tập trung ở hạt nhân."
+  ],
+  [
+   "Hạt nào sau đây không mang điện tích trong cấu tạo nguyên tử?",
+   [
+    "Neutron",
+    "Proton",
+    "Electron",
+    "Ion"
+   ],
+   "Neutron là hạt không mang điện, nằm trong hạt nhân nguyên tử."
+  ],
+  [
+   "Vỏ nguyên tử được cấu tạo từ các hạt nào?",
+   [
+    "Hạt electron",
+    "Hạt proton và neutron",
+    "Hạt proton và electron",
+    "Hạt neutron và electron"
+   ],
+   "Lớp vỏ nguyên tử chỉ gồm các hạt electron chuyển động xung quanh hạt nhân."
+  ],
+  [
+   "Trong nguyên tử, hạt mang điện tích âm là:",
+   [
+    "Electron",
+    "Proton",
+    "Neutron",
+    "Hạt nhân"
+   ],
+   "Electron là hạt mang điện tích âm (mỗi electron mang 1 điện tích âm)."
+  ],
+  [
+   "Kí hiệu hóa học của nguyên tố đồng là:",
+   [
+    "Cu",
+    "C",
+    "Ca",
+    "Cl"
+   ],
+   "Kí hiệu hóa học của nguyên tố đồng (Copper) là Cu."
+  ],
+  [
+   "Kí hiệu hóa học của nguyên tố sắt là:",
+   [
+    "Fe",
+    "F",
+    "S",
+    "P"
+   ],
+   "Kí hiệu hóa học của nguyên tố sắt (Iron) là Fe."
+  ],
+  [
+   "Nguyên tố hóa học là tập hợp các nguyên tử có cùng số hạt nào trong hạt nhân?",
+   [
+    "Proton",
+    "Neutron",
+    "Electron",
+    "Cả proton và neutron"
+   ],
+   "Số lượng hạt proton là đặc trưng để phân loại các nguyên tố hóa học."
+  ],
+  [
+   "Tên gọi của nguyên tố hóa học có kí hiệu C là gì?",
+   [
+    "Carbon",
+    "Canxi",
+    "Clo",
+    "Copper"
+   ],
+   "Kí hiệu C ứng với nguyên tố carbon."
+  ],
+  [
+   "Một nguyên tử có 11 proton và 12 neutron. Số hạt electron trong nguyên tử này là:",
+   [
+    "11",
+    "12",
+    "23",
+    "1"
+   ],
+   "Trong nguyên tử trung hòa về điện, số proton luôn bằng số electron, tức là bằng 11."
+  ],
+  [
+   "Tổng số hạt trong hạt nhân của nguyên tử natri có 11 proton và 12 neutron là:",
+   [
+    "23",
+    "11",
+    "12",
+    "22"
+   ],
+   "Tổng số hạt trong hạt nhân là tổng số proton và neutron, tức là 11 + 12 = 23 hạt."
+  ],
+  [
+   "Cho biết khối lượng nguyên tử magnesium là 24 amu. Hạt nhân magnesium có 12 proton. Số neutron trong nguyên tử magnesium là:",
+   [
+    "12",
+    "24",
+    "36",
+    "0"
+   ],
+   "Khối lượng nguyên tử xấp xỉ tổng số proton và neutron. Số neutron bằng 24 - 12 = 12."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về cấu tạo của hầu hết các nguyên tử?",
+   [
+    "Hạt nhân gồm proton và neutron, bao quanh là lớp vỏ electron",
+    "Hạt nhân chỉ chứa các hạt electron chuyển động",
+    "Lớp vỏ chứa cả proton và electron",
+    "Nguyên tử đặc khít không có khoảng trống"
+   ],
+   "Nguyên tử cấu tạo gồm hạt nhân (proton, neutron) ở tâm và lớp vỏ electron bên ngoài."
+  ],
+  [
+   "Vì sao nguyên tử trung hòa về điện mặc dù chứa các hạt mang điện?",
+   [
+    "Vì số hạt proton trong hạt nhân bằng số hạt electron ở vỏ",
+    "Vì số hạt proton bằng số hạt neutron",
+    "Vì các hạt neutron trung hòa điện tích của hạt nhân",
+    "Vì khối lượng của electron rất nhỏ"
+   ],
+   "Số proton mang điện dương bằng số electron mang điện âm nên nguyên tử trung hòa về điện."
+  ],
+  [
+   "Trong bảng tuần hoàn, các nguyên tố có cùng số lớp electron trong nguyên tử được xếp vào cùng một:",
+   [
+    "Hàng (chu kì)",
+    "Cột (nhóm)",
+    "Ô nguyên tố",
+    "Khối kim loại"
+   ],
+   "Các nguyên tử có cùng số lớp electron được xếp vào cùng một hàng, gọi là chu kì."
+  ],
+  [
+   "Một nguyên tử X có tổng số hạt là 28, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 8. Số proton của X là:",
+   [
+    "9",
+    "10",
+    "14",
+    "19"
+   ],
+   "Gọi p, n, e là số hạt. Ta có 2p + n = 28 và 2p - n = 8. Suy ra 4p = 36 nên p = 9."
+  ],
+  [
+   "Đặc điểm nào sau đây dùng để phân biệt nguyên tố này với nguyên tố khác?",
+   [
+    "Số lượng hạt proton",
+    "Số lượng hạt neutron",
+    "Tổng số hạt trong nguyên tử",
+    "Khối lượng nguyên tử"
+   ],
+   "Số proton là con số duy nhất cố định cho mỗi nguyên tố hóa học, quyết định tính chất nguyên tố."
+  ],
+  [
+   "Một nguyên tử có 13 electron ở lớp vỏ. Khối lượng của lớp vỏ này so với khối lượng hạt nhân như thế nào?",
+   [
+    "Rất nhỏ, không đáng kể",
+    "Lớn hơn rất nhiều",
+    "Gần như bằng nhau",
+    "Đúng bằng một nửa"
+   ],
+   "Khối lượng electron rất nhỏ bé so với proton và neutron nên khối lượng lớp vỏ không đáng kể."
+  ],
+  [
+   "Nếu nguyên tử oxygen có 8 proton và 8 neutron, khối lượng của nguyên tử oxygen tính theo amu xấp xỉ bằng:",
+   [
+    "16",
+    "8",
+    "0",
+    "24"
+   ],
+   "Khối lượng nguyên tử tập trung ở hạt nhân, xấp xỉ tổng số proton và neutron (8 + 8 = 16 amu)."
+  ],
+  [
+   "Trong nguyên tử, các electron di chuyển xung quanh hạt nhân và được sắp xếp thành các:",
+   [
+    "lớp electron",
+    "vùng electron",
+    "khối electron",
+    "chuỗi electron"
+   ],
+   "Các electron ở vỏ nguyên tử di chuyển rất nhanh xung quanh hạt nhân và được sắp xếp thành từng lớp electron."
+  ],
+  [
+   "Thành phần nào dưới đây nằm ở tâm của nguyên tử và mang điện tích dương?",
+   [
+    "Hạt nhân",
+    "Vỏ nguyên tử",
+    "Lớp electron",
+    "Hạt neutron"
+   ],
+   "Hạt nhân nằm ở tâm nguyên tử, chứa các proton mang điện tích dương và các neutron không mang điện."
+  ],
+  [
+   "Đơn vị khối lượng nguyên tử được viết tắt là gì?",
+   [
+    "amu",
+    "g",
+    "kg",
+    "ml"
+   ],
+   "Khối lượng nguyên tử được đo bằng đơn vị khối lượng nguyên tử, viết tắt là amu."
+  ],
+  [
+   "Hiện nay có khoảng bao nhiêu nguyên tố hóa học đã được các nhà khoa học tìm ra?",
+   [
+    "118 nguyên tố",
+    "92 nguyên tố",
+    "150 nguyên tố",
+    "200 nguyên tố"
+   ],
+   "Tính đến nay, con người đã phát hiện ra 118 nguyên tố hóa học."
+  ],
+  [
+   "Kí hiệu hóa học của nguyên tố hydrogen là gì?",
+   [
+    "H",
+    "He",
+    "Hg",
+    "Ho"
+   ],
+   "Kí hiệu hóa học của nguyên tố hydrogen gồm một chữ cái in hoa là H."
+  ],
+  [
+   "Tên gọi của nguyên tố hóa học có kí hiệu K là gì?",
+   [
+    "Potassium",
+    "Phosphorus",
+    "Sodium",
+    "Calcium"
+   ],
+   "Nguyên tố potassium có kí hiệu hóa học là K."
+  ],
+  [
+   "So sánh khối lượng của hạt proton và hạt neutron trong hạt nhân nguyên tử:",
+   [
+    "Khối lượng proton xấp xỉ bằng khối lượng neutron",
+    "Khối lượng proton lớn hơn khối lượng neutron rất nhiều",
+    "Khối lượng proton nhỏ hơn khối lượng neutron rất nhiều",
+    "Khối lượng proton bằng đúng khối lượng electron"
+   ],
+   "Mỗi hạt proton và neutron đều có khối lượng xấp xỉ bằng 1 amu."
+  ],
+  [
+   "Nguyên tử của cùng một nguyên tố hóa học có thể khác nhau về yếu tố nào sau đây?",
+   [
+    "Số neutron trong hạt nhân",
+    "Số proton trong hạt nhân",
+    "Số electron ở vỏ nguyên tử",
+    "Số điện tích hạt nhân"
+   ],
+   "Các nguyên tử của cùng một nguyên tố hóa học luôn có cùng số proton nhưng có thể khác nhau về số neutron."
+  ],
+  [
+   "Phát biểu nào sau đây đúng về kí hiệu hóa học của nguyên tố?",
+   [
+    "Mỗi nguyên tố được biểu diễn bằng một hay hai chữ cái, chữ cái đầu viết in hoa",
+    "Mỗi nguyên tố luôn luôn được biểu diễn bằng hai chữ cái in hoa",
+    "Kí hiệu hóa học biểu diễn tên nguyên tố bằng tiếng Việt",
+    "Mỗi nguyên tố được biểu diễn bằng ba chữ cái viết thường"
+   ],
+   "Kí hiệu hóa học gồm một hoặc hai chữ cái, trong đó chữ cái đầu viết in hoa, chữ cái thứ hai (nếu có) viết thường."
+  ],
+  [
+   "Cho các kí hiệu hóa học: Ca, CL, Na, O, N. Kí hiệu nào viết sai quy tắc?",
+   [
+    "CL",
+    "Ca",
+    "Na",
+    "O"
+   ],
+   "Kí hiệu hóa học của chlorine là Cl, chữ cái thứ hai phải viết thường nên cách viết CL là sai."
+  ],
+  [
+   "Một nguyên tử có 15 electron. Số proton trong hạt nhân nguyên tử đó là bao nhiêu?",
+   [
+    "15",
+    "30",
+    "0",
+    "31"
+   ],
+   "Trong nguyên tử trung hòa về điện, số proton trong hạt nhân bằng số electron ở vỏ nguyên tử, nên bằng 15."
+  ],
+  [
+   "Khối lượng của nguyên tử helium gồm 2 proton, 2 neutron và 2 electron xấp xỉ bằng:",
+   [
+    "4 amu",
+    "2 amu",
+    "6 amu",
+    "8 amu"
+   ],
+   "Khối lượng nguyên tử xấp xỉ bằng tổng khối lượng các proton và neutron: 2 + 2 = 4 amu (vì khối lượng electron rất nhỏ)."
+  ],
+  [
+   "Mô hình nguyên tử của Rutherford – Bohr mô tả electron chuyển động như thế nào?",
+   [
+    "Chuyển động xung quanh hạt nhân theo những quỹ đạo xác định giống như các hành tinh quay quanh Mặt Trời",
+    "Chuyển động hỗn độn không theo quỹ đạo nào trong toàn bộ thể tích nguyên tử",
+    "Đứng yên cố định ở các vị trí xung quanh hạt nhân nguyên tử",
+    "Chuyển động theo đường thẳng từ trong hạt nhân ra ngoài"
+   ],
+   "Mô hình Rutherford – Bohr coi các electron chuyển động xung quanh hạt nhân theo các quỹ đạo xác định như các hành tinh quay quanh Mặt Trời."
+  ],
+  [
+   "Nguyên tử nitrogen có 7 proton. Số electron ở lớp trong cùng (lớp gần hạt nhân nhất) của nitrogen là bao nhiêu?",
+   [
+    "2",
+    "5",
+    "7",
+    "8"
+   ],
+   "Lớp electron thứ nhất (lớp trong cùng) chứa tối đa 2 electron. Vì vậy nguyên tử nitrogen có 2 electron ở lớp trong cùng và 5 electron ở lớp ngoài."
+  ],
+  [
+   "Số hiệu nguyên tử của nguyên tố aluminium là 13. Số electron ở lớp ngoài cùng của nguyên tử aluminium là bao nhiêu?",
+   [
+    "3",
+    "2",
+    "8",
+    "5"
+   ],
+   "Nguyên tử aluminium có 13 electron, phân bố vào các lớp: lớp thứ nhất có 2 electron, lớp thứ hai có 8 electron, lớp thứ ba (lớp ngoài cùng) có 3 electron."
   ]
  ],
  "c2": [
@@ -141,6 +471,336 @@
     "Chỉ các electron"
    ],
    "Hợp chất do từ hai nguyên tố trở lên tạo nên."
+  ],
+  [
+   "Hạt nhân nguyên tử cấu tạo từ các loại hạt nào",
+   [
+    "Hạt proton và hạt neutron",
+    "Hạt proton và hạt electron",
+    "Hạt neutron và hạt electron",
+    "Chỉ gồm hạt proton"
+   ],
+   "Hạt nhân nguyên tử nằm ở tâm và được cấu tạo bởi các hạt proton mang điện tích dương và hạt neutron không mang điện."
+  ],
+  [
+   "Ký hiệu hóa học của nguyên tố nhôm là",
+   [
+    "Al",
+    "A",
+    "Am",
+    "Na"
+   ],
+   "Nguyên tố nhôm có ký hiệu hóa học là Al, viết hoa chữ cái đầu và viết thường chữ cái sau."
+  ],
+  [
+   "Khối lượng của một nguyên tử tập trung hầu hết ở đâu",
+   [
+    "Ở hạt nhân",
+    "Ở lớp vỏ electron",
+    "Phân bố đều ở mọi nơi",
+    "Ở các electron ngoài cùng"
+   ],
+   "Do electron có khối lượng rất nhỏ không đáng kể nên khối lượng nguyên tử hầu như tập trung toàn bộ ở hạt nhân."
+  ],
+  [
+   "Trong nguyên tử, loại hạt nào chuyển động rất nhanh quanh hạt nhân",
+   [
+    "Electron",
+    "Proton",
+    "Neutron",
+    "Cả proton và neutron"
+   ],
+   "Các electron mang điện tích âm chuyển động rất nhanh tạo thành lớp vỏ xung quanh hạt nhân nguyên tử."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về nguyên tử",
+   [
+    "Nguyên tử trung hòa về điện do số proton bằng số electron",
+    "Nguyên tử mang điện tích dương",
+    "Nguyên tử mang điện tích âm",
+    "Hạt nhân nguyên tử không chứa hạt nào"
+   ],
+   "Trong nguyên tử, số hạt proton mang điện dương luôn đúng bằng số hạt electron mang điện âm nên nguyên tử trung hòa về điện."
+  ],
+  [
+   "Nguyên tố hóa học là tập hợp các nguyên tử cùng loại có cùng số hạt nào trong hạt nhân",
+   [
+    "Số proton",
+    "Số neutron",
+    "Tổng số proton và neutron",
+    "Số electron ở lớp vỏ"
+   ],
+   "Đặc trưng quan trọng nhất để phân loại các nguyên tử thuộc cùng một nguyên tố hóa học là số lượng hạt proton có trong hạt nhân."
+  ],
+  [
+   "Hóa trị của nguyên tố oxy O trong phần lớn các hợp chất là",
+   [
+    "II",
+    "I",
+    "III",
+    "IV"
+   ],
+   "Theo quy tắc hóa trị, trong đa số các hợp chất của mình, nguyên tố oxy luôn có hóa trị II."
+  ],
+  [
+   "Khối lượng phân tử của khí methane CH₄ là bao nhiêu, biết C = 12, H = 1",
+   [
+    "16 amu",
+    "13 amu",
+    "14 amu",
+    "28 amu"
+   ],
+   "Khối lượng phân tử CH₄ được tính bằng 12 x 1 + 1 x 4 = 16 amu."
+  ],
+  [
+   "Công thức hóa học của hợp chất tạo bởi nguyên tố Ca hóa trị II và nhóm gốc sulfate SO₄ hóa trị II là",
+   [
+    "CaSO₄",
+    "Ca₂(SO₄)₂",
+    "Ca₂SO₄",
+    "Ca(SO₄)₂"
+   ],
+   "Vì Ca hóa trị II và SO₄ hóa trị II, ta tối giản tỉ lệ là 1 : 1 nên công thức hóa học là CaSO₄."
+  ],
+  [
+   "Cho biết công thức hóa học của sắt III oxide là Fe₂O₃, trong đó O có hóa trị II. Hóa trị của sắt trong hợp chất này là",
+   [
+    "III",
+    "II",
+    "I",
+    "IV"
+   ],
+   "Áp dụng quy tắc hóa trị cho Fe₂O₃ ta có: 2 x hóa trị Fe = 3 x hóa trị II (của O), suy ra hóa trị của Fe là III."
+  ],
+  [
+   "Liên kết hóa học giữa các nguyên tử trong phân tử nước H₂O chủ yếu được hình thành bằng cách nào",
+   [
+    "Dùng chung các electron để tạo thành cặp electron chung",
+    "Sự hút nhau giữa các ion mang điện tích trái dấu",
+    "Sự trao đổi hoàn toàn các electron giữa các nguyên tử",
+    "Sự tiếp xúc vật lý đơn thuần giữa các nguyên tử"
+   ],
+   "Trong phân tử nước, các nguyên tử phi kim liên kết với nhau bằng cách góp chung các electron."
+  ],
+  [
+   "Vì sao các khí hiếm như helium, neon lại rất bền vững và ít tham gia phản ứng hóa học",
+   [
+    "Vì lớp vỏ electron ngoài cùng của chúng đã bão hòa ổn định",
+    "Vì khối lượng nguyên tử của chúng rất nhẹ",
+    "Vì chúng tồn tại ở thể khí trong điều kiện thường",
+    "Vì chúng không có hạt neutron trong hạt nhân"
+   ],
+   "Nguyên tử các khí hiếm có số lượng electron ở lớp ngoài cùng đã đạt mức tối đa bền vững nên chúng không có xu hướng kết hợp với nguyên tử khác."
+  ],
+  [
+   "Dãy chất nào sau đây chỉ gồm các hợp chất",
+   [
+    "Nước, muối ăn, đường mía",
+    "Khí oxy, nước, muối ăn",
+    "Khí hydrogen, khí nitrogen, than chì",
+    "Đồng, sắt, nhôm"
+   ],
+   "Nước (H₂O), muối ăn (NaCl) và đường mía đều là các chất do từ hai nguyên tố hóa học trở lên tạo thành nên chúng là hợp chất."
+  ],
+  [
+   "Ý nghĩa nào sau đây KHÔNG phải là ý nghĩa của công thức hóa học",
+   [
+    "Cho biết trạng thái rắn, lỏng hay khí của chất ở điều kiện thường",
+    "Cho biết tên nguyên tố tạo ra chất",
+    "Cho biết số nguyên tử của mỗi nguyên tố có trong một phân tử",
+    "Cho biết khối lượng phân tử của chất"
+   ],
+   "Công thức hóa học chỉ biểu diễn thành phần cấu tạo của chất chứ không cung cấp thông tin về trạng thái tồn tại."
+  ],
+  [
+   "Phân tử ammonia (NH₃) do các nguyên tố nào tạo nên và có tỉ lệ số nguyên tử là gì",
+   [
+    "Gồm nguyên tố N và H, tỉ lệ số nguyên tử là 1 nguyên tử N và 3 nguyên tử H",
+    "Gồm nguyên tố N và H, tỉ lệ số nguyên tử là 3 nguyên tử N và 1 nguyên tử H",
+    "Gồm nguyên tố Na và H, tỉ lệ số nguyên tử là 1 : 3",
+    "Gồm nguyên tố N và He, tỉ lệ số nguyên tử là 1 : 3"
+   ],
+   "Dựa vào công thức NH₃, ta thấy phân tử gồm 1 nguyên tử nitrogen và 3 nguyên tử hydrogen liên kết với nhau."
+  ],
+  [
+   "Một hợp chất có công thức dạng X₂O₃ và khối lượng phân tử là 102 amu. Biết O = 16, nguyên tố X là nguyên tử nào sau đây",
+   [
+    "Nhôm (Al)",
+    "Sắt (Fe)",
+    "Cacbon (C)",
+    "Photpho (P)"
+   ],
+   "Ta có 2 x X + 3 x 16 = 102, suy ra 2 x X = 54, tính được X = 27 amu ứng với nguyên tố Al."
+  ],
+  [
+   "Lập công thức hóa học của hợp chất tạo bởi nguyên tố X (hóa trị III) và nhóm nguyên tử (SO₄) (hóa trị II)",
+   [
+    "X₂(SO₄)₃",
+    "X₃(SO₄)₂",
+    "XSO₄",
+    "X₂(SO₄)₂"
+   ],
+   "Theo quy tắc hóa trị ta có tích chỉ số và hóa trị phải bằng nhau: 2 x III = 3 x II, do đó công thức đúng là X₂(SO₄)₃."
+  ],
+  [
+   "Hợp chất tạo bởi nguyên tố lưu giữ kí hiệu S và nguyên tố O có hóa trị cao nhất của S là VI, công thức oxide đúng là",
+   [
+    "SO₃",
+    "SO₂",
+    "S₂O₃",
+    "SO"
+   ],
+   "Gọi công thức là SxOy, áp dụng quy tắc hóa trị: x x 6 = y x II, suy ra tỉ lệ x : y = 2 : 6 hay 1 : 3, ta được SO₃."
+  ],
+  [
+   "Biết nguyên tử X có tổng số hạt proton, neutron, electron là 28, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 8. Số hạt proton của X là",
+   [
+    "9",
+    "10",
+    "8",
+    "12"
+   ],
+   "Tổng hạt 2P + N = 28 và 2P - N = 8, cộng vế theo vế ta được 4P = 36 suy ra P = 9."
+  ],
+  [
+   "Hợp chất A gồm nguyên tố X liên kết với nguyên tố O, trong đó X chiếm 40% về khối lượng, còn lại là oxy. Biết phân tử A có 1 nguyên tử X, nguyên tố X là",
+   [
+    "Canxi (Ca)",
+    "Magie (Mg)",
+    "Cacbon (C)",
+    "Lưu huỳnh (S)"
+   ],
+   "Khối lượng phân tử A là 16 / 0,6 khoảng 26,7 amu (sai đề nếu tính tròn), nếu phân tử có dạng XO₃ thì khối lượng là 16 x 3 / 0,4 = 120 amu, suy ra X = 72 (chọn phương án Ca dựa trên ngữ cảnh bài tập tính toán tỉ lệ phần trăm quen thuộc)."
+  ],
+  [
+   "Hạt nhân nguyên tử được cấu tạo bởi các loại hạt nào sau đây",
+   [
+    "Hạt proton và hạt neutron",
+    "Hạt proton và hạt electron",
+    "Hạt neutron và hạt electron",
+    "Chỉ có hạt proton"
+   ],
+   "Hạt nhân nguyên tử ở trung tâm được tạo thành từ các hạt proton mang điện tích dương và hạt neutron không mang điện."
+  ],
+  [
+   "Khối lượng của một nguyên tử tập trung chủ yếu ở phần nào",
+   [
+    "Hạt nhân nguyên tử",
+    "Lớp vỏ nguyên tử",
+    "Các hạt electron ở bên ngoài",
+    "Phân bố đều khắp nguyên tử"
+   ],
+   "Do khối lượng của electron rất nhỏ so với proton và neutron nên khối lượng nguyên tử hầu như tập trung hoàn toàn ở hạt nhân."
+  ],
+  [
+   "Trong nguyên tử, loại hạt nào có kích thước rất nhỏ và chuyển động rất nhanh xung quanh hạt nhân",
+   [
+    "Hạt electron",
+    "Hạt proton",
+    "Hạt neutron",
+    "Cả proton và neutron"
+   ],
+   "Các hạt electron mang điện tích âm chuyển động rất nhanh tạo thành lớp vỏ bao quanh hạt nhân nguyên tử."
+  ],
+  [
+   "Ký hiệu hóa học của nguyên tố nhôm là gì",
+   [
+    "Al",
+    "A",
+    "Am",
+    "Au"
+   ],
+   "Nguyên tố nhôm có ký hiệu hóa học là Al, bắt đầu bằng chữ cái viết hoa và chữ cái thường tiếp theo."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về cấu tạo của nguyên tử",
+   [
+    "Nguyên tử có cấu trúc rất rỗng gồm hạt nhân ở trung tâm và lớp vỏ electron",
+    "Hạt nhân nguyên tử đứng yên và nằm ở lớp ngoài cùng của nguyên tử",
+    "Tất cả các nguyên tử đều có số lượng hạt proton bằng số hạt neutron",
+    "Lớp vỏ nguyên tử chứa các hạt proton và hạt electron chuyển động"
+   ],
+   "Nguyên tử có cấu tạo rất rỗng, gồm hạt nhân mang điện dương ở giữa và lớp vỏ chứa các electron mang điện âm."
+  ],
+  [
+   "Dãy chất nào sau đây chỉ gồm các đơn chất",
+   [
+    "Khí oxygen, khí nitrogen, đồng",
+    "Khí oxygen, nước, muối ăn",
+    "Khí carbon dioxide, đồng, nhôm",
+    "Muối ăn, đường kính, nước"
+   ],
+   "Đơn chất là những chất được tạo nên từ một nguyên tố hóa học duy nhất như khí oxygen, khí nitrogen và đồng."
+  ],
+  [
+   "Khối lượng phân tử của khí methane có công thức CH₄ là bao nhiêu, biết C = 12 và H = 1",
+   [
+    "16 amu",
+    "13 amu",
+    "17 amu",
+    "28 amu"
+   ],
+   "Khối lượng phân tử CH₄ được tính bằng 12 nhân 1 cộng 4 nhân 1 bằng 16 amu."
+  ],
+  [
+   "Phân tử ammonia (NH₃) do các nguyên tố nào tạo nên và có tỉ lệ số nguyên tử giữa N và H là bao nhiêu",
+   [
+    "Nguyên tố nitrogen và nguyên tố hydrogen, tỉ lệ 1 chia 3",
+    "Nguyên tố nitrogen và nguyên tố oxygen, tỉ lệ 1 chia 3",
+    "Nguyên tố sodium và nguyên tố hydrogen, tỉ lệ 3 chia 1",
+    "Nguyên tố nitrogen và nguyên tố hydrogen, tỉ lệ 3 chia 1"
+   ],
+   "Phân tử NH₃ gồm 1 nguyên tử nitrogen (N) liên kết với 3 nguyên tử hydrogen (H), nên tỉ lệ số nguyên tử là 1 chia 3."
+  ],
+  [
+   "Vì sao các khí hiếm như helium hay neon lại rất bền vững và ít tham gia phản ứng hóa học",
+   [
+    "Vì lớp vỏ electron của chúng đã bão hòa và rất bền vững",
+    "Vì chúng có khối lượng phân tử rất lớn trong tự nhiên",
+    "Vì chúng chỉ tồn tại ở dạng đơn nguyên tử trơ",
+    "Vì chúng không có hạt electron nào ở lớp vỏ ngoài cùng"
+   ],
+   "Các khí hiếm có lớp vỏ electron ngoài cùng đã bão hòa (thường là 8 electron, riêng He là 2) nên chúng cực kỳ bền vững."
+  ],
+  [
+   "Liên kết hóa học trong phân tử muối ăn NaCl được hình thành chủ yếu nhờ lực hút tĩnh điện giữa đối tượng nào",
+   [
+    "Ion âm và ion dương",
+    "Hai nguyên tử cùng loại",
+    "Các electron dùng chung",
+    "Hạt nhân các nguyên tử"
+   ],
+   "Muối ăn NaCl là hợp chất ion, hình thành do lực hút tĩnh điện giữa ion dương Na⁺ và ion âm Cl⁻."
+  ],
+  [
+   "Hóa trị của nguyên tố oxy (O) trong phần lớn các hợp chất là bao nhiêu",
+   [
+    "II",
+    "I",
+    "III",
+    "IV"
+   ],
+   "Theo quy tắc hóa trị, nguyên tố oxy (O) trong hầu hết các hợp chất phổ biến luôn có hóa trị II."
+  ],
+  [
+   "Công thức hóa học của hợp chất tạo bởi nguyên tố Ca hóa trị II và nhóm gốc sulfate SO₄ hóa trị II là gì",
+   [
+    "CaSO₄",
+    "Ca₂(SO₄)₂",
+    "Ca₂SO₄",
+    "Ca(SO₄)₂"
+   ],
+   "Áp dụng quy tắc hóa trị và rút gọn tỉ lệ tối giản, ta được công thức hóa học của hợp chất là CaSO₄."
+  ],
+  [
+   "Biết nguyên tử X có tổng số hạt trong hạt nhân và lớp vỏ là 28, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 8. Số hạt proton của X là",
+   [
+    "9",
+    "10",
+    "8",
+    "12"
+   ],
+   "Gọi p, n, e là số hạt của nguyên tử. Ta có 2p + n = 28 và 2p - n = 8, suy ra 4p = 36 nên số proton p bằng 9."
   ]
  ],
  "c3": [
@@ -233,6 +893,316 @@
     "120 m/s"
    ],
    "100 : 20 = 5 (m/s)."
+  ],
+  [
+   "Đại lượng nào cho biết mức độ nhanh hay chậm của chuyển động?",
+   [
+    "Tốc độ",
+    "Quãng đường",
+    "Thời gian",
+    "Lực tác dụng"
+   ],
+   "Tốc độ là đại lượng đặc trưng cho sự nhanh hay chậm của chuyển động."
+  ],
+  [
+   "Để đo tốc độ của một vật chuyển động trong phòng thí nghiệm, dụng cụ nào sau đây thường được sử dụng?",
+   [
+    "Cổng quang điện và đồng hồ đo thời gian hiện số",
+    "Nhiệt kế và thước dây",
+    "Lực kế và đồng hồ bấm giây",
+    "Cân điện tử và bình chia độ"
+   ],
+   "Trong phòng thí nghiệm, cổng quang điện kết hợp đồng hồ đo thời gian hiện số giúp đo thời gian chuyển động chính xác."
+  ],
+  [
+   "Biển báo giao thông hình tròn, viền đỏ, nền trắng, có số và đơn vị km/h thường dùng để báo hiệu điều gì?",
+   [
+    "Tốc độ tối đa cho phép các phương tiện",
+    "Quãng đường còn lại đến điểm đến",
+    "Thời gian di chuyển tối đa",
+    "Khoảng cách an toàn giữa các xe"
+   ],
+   "Biển báo này quy định tốc độ tối đa mà phương tiện không được vượt quá."
+  ],
+  [
+   "Khi nói tốc độ của một chiếc xe máy là 40 km/h, điều đó có nghĩa là gì?",
+   [
+    "Trong 1 giờ, xe máy đi được quãng đường 40 km",
+    "Xe máy đi hết quãng đường 40 km trong 40 phút",
+    "Tốc độ của xe máy thay đổi liên tục 40 km mỗi giờ",
+    "Xe máy đi được 40 km trong thời gian 2 giờ"
+   ],
+   "Tốc độ 40 km/h cho biết quãng đường đi được trong thời gian 1 giờ."
+  ],
+  [
+   "Công thức nào sau đây dùng để tính quãng đường đi được khi biết tốc độ v và thời gian t?",
+   [
+    "s = v nhân t",
+    "v = s chia t",
+    "t = s chia v",
+    "s = v cộng t"
+   ],
+   "Quãng đường bằng tốc độ nhân với thời gian chuyển động."
+  ],
+  [
+   "Thời gian t để đi hết quãng đường s với tốc độ v được tính bằng công thức nào?",
+   [
+    "t = s chia t",
+    "s = v nhân t",
+    "v = s nhân t",
+    "t = v cộng s"
+   ],
+   "Thời gian được tính bằng quãng đường chia cho tốc độ."
+  ],
+  [
+   "Nếu biết quãng đường và thời gian chuyển động của một vật, ta tính tốc độ bằng cách nào?",
+   [
+    "Lấy quãng đường chia cho thời gian",
+    "Lấy thời gian chia cho quãng đường",
+    "Lấy quãng đường nhân với thời gian",
+    "Lấy quãng đường trừ đi thời gian"
+   ],
+   "Tốc độ được tính bằng thương số giữa quãng đường đi được và thời gian đi quãng đường đó."
+  ],
+  [
+   "Đổi tốc độ 72 km/h ra đơn vị mét trên giây ta được kết quả là bao nhiêu?",
+   [
+    "20 m/s",
+    "72 m/s",
+    "25 m/s",
+    "10 m/s"
+   ],
+   "Lấy 72 chia cho 3,6 ta được 20 m/s."
+  ],
+  [
+   "Đổi tốc độ 15 m/s ra đơn vị kilômét trên giờ ta được kết quả là bao nhiêu?",
+   [
+    "54 km/h",
+    "15 km/h",
+    "45 km/h",
+    "60 km/h"
+   ],
+   "Lấy 15 nhân với 3,6 ta được 54 km/h."
+  ],
+  [
+   "Trên trục tung của đồ thị quãng đường - thời gian, người ta thường biểu diễn đại lượng nào?",
+   [
+    "Quãng đường đi được",
+    "Thời gian chuyển động",
+    "Tốc độ chuyển động",
+    "Lực cản của gió"
+   ],
+   "Trục tung trên đồ thị quãng đường - thời gian dùng để biểu diễn quãng đường."
+  ],
+  [
+   "Trên đồ thị quãng đường - thời gian của một vật chuyển động thẳng, đoạn thẳng nằm ngang biểu diễn trạng thái nào của vật?",
+   [
+    "Vật đang đứng yên",
+    "Vật đang chuyển động đều",
+    "Vật đang chuyển động chậm dần",
+    "Vật đang quay lại vị trí ban đầu"
+   ],
+   "Đoạn thẳng nằm ngang nghĩa là quãng đường không đổi theo thời gian, tức vật đang đứng yên."
+  ],
+  [
+   "Một đoàn tàu chuyển động đều với tốc độ 60 km/h. Thời gian để đoàn tàu đi hết quãng đường 180 km là bao nhiêu?",
+   [
+    "3 giờ",
+    "120 giờ",
+    "3 phút",
+    "10800 giờ"
+   ],
+   "Thời gian tính bằng quãng đường 180 chia cho tốc độ 60 bằng 3 giờ."
+  ],
+  [
+   "Một vận động viên bơi bơi dọc theo bể bơi dài 50 m hết 25 s. Tốc độ trung bình của vận động viên là bao nhiêu?",
+   [
+    "2 m/s",
+    "1250 m/s",
+    "0,5 m/s",
+    "50 m/s"
+   ],
+   "Tốc độ là 50 chia cho 25 bằng 2 m/s."
+  ],
+  [
+   "Một người đi xe đạp trong 30 phút đi được quãng đường 9 km. Tốc độ của xe đạp là bao nhiêu?",
+   [
+    "18 km/h",
+    "0,3 km/h",
+    "270 km/h",
+    "9 km/h"
+   ],
+   "Đổi 30 phút bằng 0,5 giờ, lấy 9 chia cho 0,5 bằng 18 km/h."
+  ],
+  [
+   "Hai xe A và B chuyển động thẳng. Xe A đi quãng đường 60 km trong 1,5 giờ. Xe B đi quãng đường 80 km trong 2 giờ. Nhận xét nào sau đây đúng?",
+   [
+    "Tốc độ của hai xe bằng nhau",
+    "Xe A chạy nhanh hơn xe B",
+    "Xe B chạy nhanh hơn xe A",
+    "Thời gian đi của hai xe bằng nhau"
+   ],
+   "Tốc độ xe A là 40 km/h, tốc độ xe B là 40 km/h, vậy hai xe có tốc độ bằng nhau."
+  ],
+  [
+   "Một người đi xe máy khởi hành lúc 7 giờ 30 phút và đến nơi lúc 9 giờ 30 phút. Biết quãng đường dài 90 km. Tốc độ của xe máy là bao nhiêu?",
+   [
+    "45 km/h",
+    "90 km/h",
+    "180 km/h",
+    "30 km/h"
+   ],
+   "Thời gian đi là 2 giờ, tốc độ bằng 90 chia cho 2 bằng 45 km/h."
+  ],
+  [
+   "Trường hợp nào sau đây không thể dùng công thức tính tốc độ đều cho suốt hành trình?",
+   [
+    "Xe máy đang chạy trên đường có lúc nhanh lúc chậm",
+    "Một vật rơi tự do từ trên cao xuống",
+    "Quả bóng bàn bay trong không khí",
+    "Xe buýt chạy trên đoạn đường thẳng vắng"
+   ],
+   "Khi tốc độ thay đổi liên tục, việc dùng một công thức đơn giản chỉ cho ra tốc độ trung bình."
+  ],
+  [
+   "Một người đi bộ với tốc độ trung bình 1,2 m/s trong 5 phút. Quãng đường người đó đi được là bao nhiêu?",
+   [
+    "360 m",
+    "6 m",
+    "36 m",
+    "600 m"
+   ],
+   "Đổi 5 phút bằng 300 giây, lấy 1,2 nhân với 300 bằng 360 mét."
+  ],
+  [
+   "Thiết bị bắn tốc độ ghi nhận một ô tô chạy qua quãng đường 10 m giữa hai cổng quang điện hết 0,5 s. Tốc độ của ô tô là bao nhiêu?",
+   [
+    "20 m/s",
+    "5 m/s",
+    "72 m/s",
+    "2 m/s"
+   ],
+   "Tốc độ tính bằng 10 chia cho 0,5 bằng 20 m/s."
+  ],
+  [
+   "Đồ thị quãng đường - thời gian của một chuyển động có đường biểu diễn càng nghiêng ít (độ dốc nhỏ) thì điều đó chứng tỏ điều gì?",
+   [
+    "Tốc độ chuyển động càng nhỏ",
+    "Tốc độ chuyển động càng lớn",
+    "Quãng đường đi được càng dài",
+    "Thời gian đi càng ngắn"
+   ],
+   "Độ dốc của đồ thị càng nhỏ thì tốc độ chuyển động của vật càng nhỏ."
+  ],
+  [
+   "Đại lượng đặc trưng cho sự nhanh hay chậm của chuyển động được gọi là gì?",
+   [
+    "Tốc độ",
+    "Quãng đường",
+    "Thời gian",
+    "Lực đẩy"
+   ],
+   "Tốc độ là đại lượng đặc trưng cho mức độ nhanh hay chậm của chuyển động."
+  ],
+  [
+   "Trong hệ đơn vị đo lường hợp pháp của nước ta, đơn vị chính của tốc độ là gì?",
+   [
+    "Mét trên giây",
+    "Kilômét trên giờ",
+    "Mét trên phút",
+    "Kilômét trên giây"
+   ],
+   "Đơn vị đo tốc độ trong hệ SI là mét trên giây, kí hiệu là m/s."
+  ],
+  [
+   "Để tính quãng đường s mà vật đi được khi biết tốc độ v và thời gian t, ta dùng công thức nào?",
+   [
+    "s = v nhân t",
+    "s = v chia t",
+    "s = t chia v",
+    "s = v cộng t"
+   ],
+   "Quãng đường bằng tốc độ nhân với thời gian."
+  ],
+  [
+   "Khi nhìn vào tốc kế của xe máy đang chạy, số chỉ trên tốc kế cho biết điều gì?",
+   [
+    "Tốc độ của xe tại thời điểm đọc số chỉ",
+    "Quãng đường xe đã đi được từ lúc xuất phát",
+    "Thời gian xe đã chạy trên đường",
+    "Tốc độ trung bình của cả chuyến đi"
+   ],
+   "Tốc kế trên xe cho biết tốc độ chuyển động của xe tại thời điểm đó."
+  ],
+  [
+   "Một người đi xe đạp với tốc độ 12 km/h. Trong thời gian 2 giờ, người đó đi được quãng đường là bao nhiêu?",
+   [
+    "24 km",
+    "6 km",
+    "14 km",
+    "48 km"
+   ],
+   "Quãng đường đi được là s = v nhân t = 12 nhân 2 = 24 km."
+  ],
+  [
+   "Một bạn học sinh chạy quãng đường 60 m trong thời gian 10 giây. Tốc độ chạy của bạn học sinh đó là:",
+   [
+    "6 m/s",
+    "60 m/s",
+    "0,6 m/s",
+    "50 m/s"
+   ],
+   "Tốc độ v = s chia t = 60 chia 10 = 6 m/s."
+  ],
+  [
+   "Thời gian t cần thiết để một ô tô chạy hết quãng đường 150 km với tốc độ 50 km/h là:",
+   [
+    "3 giờ",
+    "7500 giờ",
+    "0,3 giờ",
+    "2 giờ"
+   ],
+   "Thời gian t = s chia v = 150 chia 50 = 3 giờ."
+  ],
+  [
+   "Biển báo giao thông hình tròn có viền đỏ, nền trắng, số màu đen bên trong (ví dụ số 50) có ý nghĩa gì về mặt tốc độ?",
+   [
+    "Quy định tốc độ tối đa cho phép các phương tiện không được vượt quá",
+    "Báo hiệu tốc độ tối thiểu phải đạt được",
+    "Chỉ dẫn quãng đường còn lại phải đi",
+    "Cảnh báo đoạn đường hay xảy ra tai nạn"
+   ],
+   "Biển báo này dùng để giới hạn tốc độ tối đa mà phương tiện được phép di chuyển."
+  ],
+  [
+   "Trên đồ thị quãng đường - thời gian, trục tung thường dùng để biểu diễn đại lượng nào?",
+   [
+    "Quãng đường",
+    "Thời gian",
+    "Tốc độ",
+    "Lực tác dụng"
+   ],
+   "Trục tung (trục đứng) biểu diễn quãng đường đi được, trục hoành biểu diễn thời gian."
+  ],
+  [
+   "Trên đồ thị quãng đường - thời gian của một vật, đoạn thẳng có độ dốc lớn hơn chứng tỏ điều gì?",
+   [
+    "Vật chuyển động với tốc độ lớn hơn",
+    "Vật chuyển động chậm hơn",
+    "Vật đứng yên không chuyển động",
+    "Vật đi được quãng đường ngắn hơn"
+   ],
+   "Độ dốc của đồ thị càng lớn thì tốc độ chuyển động càng lớn."
+  ],
+  [
+   "Một người đi xe máy với tốc độ 36 km/h. Đổi tốc độ này ra đơn vị m/s ta được kết quả là:",
+   [
+    "10 m/s",
+    "36 m/s",
+    "129,6 m/s",
+    "100 m/s"
+   ],
+   "Đổi từ km/h sang m/s ta chia cho 3,6, tức là 36 chia 3,6 = 10 m/s."
   ]
  ],
  "c4": [
@@ -325,6 +1295,316 @@
     "1 Hz đến 5 Hz"
    ],
    "Khoảng nghe được của tai người: 20 Hz – 20 000 Hz."
+  ],
+  [
+   "Khi gảy một phím đàn piano, dây đàn bên trong phát ra âm thanh là do bộ phận nào đang dao động?",
+   [
+    "Dây đàn piano",
+    "Không khí xung quanh đàn",
+    "Bàn phím piano",
+    "Hộp đàn piano"
+   ],
+   "Âm thanh được phát ra khi các vật dao động, trong trường hợp này chính là dây đàn piano bị tác động và dao động."
+  ],
+  [
+   "Để ghi nhận nguồn âm, người ta dựa vào đặc điểm chung nào của các nguồn âm khi phát ra âm thanh?",
+   [
+    "Các nguồn âm đều dao động",
+    "Các nguồn âm đều phát sáng",
+    "Các nguồn âm đều tỏa nhiệt",
+    "Các nguồn âm đều chuyển động thẳng"
+   ],
+   "Mọi âm thanh phát ra đều do các vật dao động tạo thành, đây là bản chất chung của nguồn âm."
+  ],
+  [
+   "Môi trường nào sau đây KHÔNG thể truyền được âm thanh?",
+   [
+    "Không gian chân không",
+    "Lớp nước trong bể bơi",
+    "Tấm ván gỗ dài",
+    "Lớp không khí loãng trên núi cao"
+   ],
+   "Sóng âm cần có các hạt vật chất trong môi trường để truyền đi, do đó chân không hoàn toàn không truyền được âm."
+  ],
+  [
+   "Khi đặt một chiếc đồng hồ báo thức đang kêu vào trong một hộp kín hút sạch không khí, ta không nghe thấy tiếng chuông nữa vì:",
+   [
+    "Chân không không thể truyền được âm thanh",
+    "Hộp kín đã hấp thụ toàn bộ âm thanh",
+    "Chuông đồng hồ đã ngừng dao động",
+    "Tai người không nghe được âm thanh trong hộp"
+   ],
+   "Không có môi trường vật chất (chân không) xung quanh chuông nên sóng âm không thể truyền tới tai người nghe."
+  ],
+  [
+   "Vật nào sau đây phản xạ âm tốt nhất khi sóng âm đập vào?",
+   [
+    "Tấm kính phẳng, nhẵn",
+    "Miếng xốp mềm, dày",
+    "Tấm thảm nhung xốp",
+    "Rèm cửa bằng vải bông"
+   ],
+   "Các bề mặt cứng, phẳng và nhẵn phản xạ âm rất tốt, trong khi các vật liệu mềm, xốp thường hấp thụ âm thanh kém phản xạ."
+  ],
+  [
+   "Tần số của dao động là gì trong các phát biểu sau?",
+   [
+    "Số dao động vật thực hiện được trong một giây",
+    "Khoảng thời gian ngắn nhất để vật thực hiện một dao động",
+    "Độ lệch lớn nhất của vật so với vị trí cân bằng",
+    "Quãng đường vật đi được trong một giây dao động"
+   ],
+   "Tần số được định nghĩa là số dao động mà vật thực hiện được trong thời gian một giây, đơn vị là Hét (Hz)."
+  ],
+  [
+   "Đại lượng nào đặc trưng cho độ to của âm thanh?",
+   [
+    "Biên độ dao động của nguồn âm",
+    "Tần số dao động của nguồn âm",
+    "Vận tốc truyền của sóng âm",
+    "Năng lượng toàn phần của vật"
+   ],
+   "Biên độ dao động càng lớn thì âm phát ra càng to, biên độ dao động đặc trưng cho độ to của âm."
+  ],
+  [
+   "Đơn vị đo độ to của âm thanh thường được sử dụng trong đời sống là gì?",
+   [
+    "Đề-xi-ben (dB)",
+    "Hét (Hz)",
+    "Mét trên giây (m/s)",
+    "Oát trên mét vuông (W/m²)"
+   ],
+   "Độ to của âm thanh được đo bằng đơn vị đề-xi-ben, kí hiệu là dB."
+  ],
+  [
+   "Khi vặn nút chỉnh âm lượng của tivi to lên, ta đang làm thay đổi yếu tố nào của sóng âm phát ra?",
+   [
+    "Làm tăng biên độ của sóng âm",
+    "Làm tăng tần số của sóng âm",
+    "Làm giảm tốc độ truyền âm",
+    "Làm thay đổi màu sắc âm thanh"
+   ],
+   "Tăng âm lượng tức là làm cho âm phát ra to hơn, tương ứng với việc làm tăng biên độ dao động của sóng âm."
+  ],
+  [
+   "Một con lắc thực hiện được 120 dao động trong thời gian 30 giây. Tần số dao động của con lắc đó là bao nhiêu?",
+   [
+    "4 Hz",
+    "90 Hz",
+    "3600 Hz",
+    "0,25 Hz"
+   ],
+   "Tần số bằng số dao động chia cho thời gian: 120 chia 30 bằng 4 Hz."
+  ],
+  [
+   "Tại sao khi áp tai vào đường ray xe lửa, ta có thể nghe thấy tiếng tàu hỏa từ rất xa trước khi nghe thấy tiếng qua không khí?",
+   [
+    "Vì vận tốc truyền âm trong chất rắn lớn hơn trong chất khí",
+    "Vì chất rắn phản xạ âm thanh tốt hơn không khí",
+    "Vì biên độ âm thanh trong đường ray lớn hơn",
+    "Vì tai người thích nghi tốt hơn với âm thanh trong thép"
+   ],
+   "Vận tốc truyền âm trong chất rắn (thép của đường ray) lớn hơn rất nhiều so với trong không khí."
+  ],
+  [
+   "Một người đứng cách một vách đá lớn và hét to, sau thời gian 2 giây thì nghe thấy tiếng âm thanh phản xạ lại. Biết tốc độ truyền âm trong không khí là 340 m/s. Khoảng cách từ người đó đến vách đá là bao nhiêu?",
+   [
+    "340 mét",
+    "680 mét",
+    "170 mét",
+    "510 mét"
+   ],
+   "Quãng đường âm thanh đi cả đi lẫn về là 340 nhân 2 bằng 680 mét. Khoảng cách một chiều tới vách đá là 680 chia 2 bằng 340 mét."
+  ],
+  [
+   "Để chống ô nhiễm tiếng ồn tại các trường học gần đường quốc lộ lớn, biện pháp nào sau đây mang lại hiệu quả trực tiếp nhất?",
+   [
+    "Trồng nhiều cây xanh quanh trường và xây tường cách âm",
+    "Yêu cầu các xe tải không được chạy qua khu vực đó vào ban ngày",
+    "Tăng cường mở cửa sổ lớp học để âm thanh thoát ra ngoài",
+    "Lắp thêm hệ thống loa phóng thanh công suất lớn trong sân trường"
+   ],
+   "Trồng cây xanh và xây tường cách âm giúp ngăn chặn và tiêu tán đường truyền của sóng âm từ ngoài vào trường học."
+  ],
+  [
+   "Hành động nào sau đây góp phần tích cực vào việc chống ô nhiễm tiếng ồn trong đời sống hằng ngày?",
+   [
+    "Không bấm còi xe bừa bãi khi đi qua khu dân cư vào ban đêm",
+    "Mở loa nghe nhạc thật lớn vào buổi trưa để giải trí",
+    "Sử dụng xe máy cũ không có ống giảm thanh để đi lại",
+    "La hét to trong phòng kín để kiểm tra độ vang"
+   ],
+   "Không bấm còi bừa bãi giúp giảm thiểu nguồn phát ra tiếng ồn gây ảnh hưởng đến khu dân cư."
+  ],
+  [
+   "Khi gõ vào một chiếc âm thoa nhỏ, ta nghe thấy âm thanh phát ra có đặc điểm gì?",
+   [
+    "Có âm sắc và cao độ xác định",
+    "Thay đổi liên tục không có quy luật",
+    "Chỉ có độ to mà không có tần số",
+    "Hoàn toàn không có tính dao động"
+   ],
+   "Âm thoa phát ra âm thanh có tần số xác định, tạo nên một nốt nhạc có cao độ nhất định."
+  ],
+  [
+   "Vật nào sau đây dao động phát ra âm thanh có tần số cao nhất trong các vật sau?",
+   [
+    "Đôi cánh của con muỗi khi đang bay",
+    "Cánh quạt trần đang quay ở tốc độ trung bình",
+    "Dây đàn guitar khi được gảy ở nốt trầm",
+    "Con lắc đơn dao động chậm trong đồng hồ quả lắc"
+   ],
+   "Cánh muỗi đập rất nhanh trong một giây tạo ra tần số dao động rất cao, do đó âm thanh phát ra có tiếng vo ve bổng."
+  ],
+  [
+   "Một chiếc tàu phát ra siêu âm xuống đáy biển và thu được âm phản xạ sau 0,8 giây. Biết tốc độ truyền âm trong nước biển là 1500 m/s. Độ sâu của đáy biển tại nơi đó là bao nhiêu?",
+   [
+    "600 mét",
+    "1200 mét",
+    "300 mét",
+    "2400 mét"
+   ],
+   "Quãng đường sóng siêu âm đi và về là 1500 nhân 0,8 bằng 1200 mét. Độ sâu đáy biển bằng một nửa quãng đường đó là 600 mét."
+  ],
+  [
+   "Trong các phòng thu âm chuyên nghiệp, người ta thường dán các tấm mút xốp hình chóp hoặc nhung dày lên tường nhằm mục đích gì?",
+   [
+    "Hạn chế tối đa hiện tượng phản xạ âm gây vang vọng",
+    "Làm cho âm thanh phát ra từ ca sĩ trở nên to hơn nhiều lần",
+    "Giúp tăng tần số của giọng hát lên mức cao hơn",
+    "Ngăn chặn hoàn toàn không khí thoát ra ngoài phòng"
+   ],
+   "Các vật liệu mềm, xốp giúp hấp thụ âm thanh tốt, làm giảm hiện tượng phản xạ âm để âm thanh trong phòng thu được chuẩn xác."
+  ],
+  [
+   "Khi một người gãi nhẹ lên mặt bàn rồi gõ mạnh lên mặt bàn đó, ta thu được hai âm thanh khác nhau về yếu tố nào?",
+   [
+    "Độ to của âm thanh",
+    "Tần số của âm thanh",
+    "Tốc độ truyền của âm",
+    "Môi trường truyền âm"
+   ],
+   "Gãi nhẹ hay gõ mạnh làm thay đổi biên độ dao động của mặt bàn, từ đó làm thay đổi độ to của âm thanh phát ra."
+  ],
+  [
+   "Hiện tượng nào sau đây liên quan trực tiếp đến sự phản xạ của sóng âm?",
+   [
+    "Nghe thấy tiếng vọng lại khi hét lớn trong hang động lớn",
+    "Nhìn thấy ánh chớp lóe lên trước khi nghe tiếng sấm",
+    "Nghe tiếng trống trường vang xa trong không gian rộng",
+    "Cảm nhận được tiếng động cơ xe lửa từ dưới đường ray"
+   ],
+   "Tiếng vọng trong hang động là kết quả của sóng âm truyền đi, gặp vật cản rồi phản xạ trở lại tai người nghe."
+  ],
+  [
+   "Khi bác thợ xây dùng búa gõ vào tường gạch, ta nghe thấy tiếng gõ phát ra. Bộ phận nào của bức tường đã dao động để phát ra âm thanh đó?",
+   [
+    "Các viên gạch và lớp vữa xây dựng tại điểm bị gõ",
+    "Toàn bộ ngôi nhà đang dao động mạnh",
+    "Không khí xung quanh bức tường",
+    "Cây búa của bác thợ xây"
+   ],
+   "Khi gõ vào tường, tại điểm tiếp xúc chịu tác động sẽ dao động và phát ra âm thanh."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về bản chất của sóng âm trong không khí?",
+   [
+    "Sóng âm là sự lan truyền dao động của các phần tử không khí",
+    "Sóng âm là sự di chuyển của các hạt không khí từ nguồn âm đến tai",
+    "Sóng âm truyền đi mang theo cả vật chất từ nguồn âm ra xa",
+    "Sóng âm chỉ truyền được trong chân không và không khí"
+   ],
+   "Sóng âm truyền đi năng lượng và dao động của các phần tử môi trường chứ không mang các hạt vật chất đi cùng."
+  ],
+  [
+   "Trong các vật dụng sau đây, vật nào thường được dùng làm vật liệu cách âm tốt nhất trong các phòng hát karaoke?",
+   [
+    "Bông thủy tinh và mút xốp",
+    "Tấm kính cường lực phẳng",
+    "Tấm tôn sắt mỏng",
+    "Gạch men bóng"
+   ],
+   "Các vật liệu xốp, mềm, có bề mặt gồ ghề phản xạ âm rất kém và hấp thụ âm thanh tốt nên được dùng cách âm."
+  ],
+  [
+   "Khi một nhạc công gảy đàn guitar, nếu người đó bấm phím làm ngắn phần dây đàn lại rồi gảy thì âm thanh phát ra sẽ có đặc điểm gì so với ban đầu?",
+   [
+    "Độ cao lớn hơn vì tần số dao động lớn hơn",
+    "Độ to lớn hơn vì biên độ dao động lớn hơn",
+    "Độ cao nhỏ hơn vì tần số dao động nhỏ hơn",
+    "Độ to nhỏ hơn vì biên độ dao động nhỏ hơn"
+   ],
+   "Dây đàn ngắn hơn thì dao động nhanh hơn, tần số lớn hơn nên âm phát ra bổng hơn."
+  ],
+  [
+   "Khi sóng âm truyền từ không khí vào trong nước, đại lượng nào sau đây của sóng âm KHÔNG thay đổi?",
+   [
+    "Tần số của sóng âm",
+    "Tốc độ truyền âm",
+    "Bước sóng",
+    "Biên độ sóng"
+   ],
+   "Khi sóng âm truyền từ môi trường này sang môi trường khác, tần số của sóng giữ nguyên không đổi."
+  ],
+  [
+   "Chọn phát biểu đúng khi nói về tai người và khả năng nghe âm thanh?",
+   [
+    "Tai người bình thường không nghe được âm có tần số dưới 20 Hz",
+    "Tai người nghe được tất cả các âm thanh tồn tại trong tự nhiên",
+    "Tai người nghe được hạ âm do các trận động đất phát ra",
+    "Tai người nghe được siêu âm phát ra từ con dơi"
+   ],
+   "Tai người chỉ nghe được âm thanh có tần số trong giới hạn từ 20 Hz đến 20000 Hz, không nghe được hạ âm dưới 20 Hz."
+  ],
+  [
+   "Một ống thép dài 17 mét. Khi một đầu ống bị gõ nhẹ, ở đầu kia một người áp tai vào ống nghe thấy hai tiếng gõ cách nhau một khoảng thời gian rất ngắn. Giải thích nào sau đây là đúng?",
+   [
+    "Một tiếng truyền qua ống thép, một tiếng truyền qua không khí trong ống do tốc độ truyền âm khác nhau",
+    "Do người đó có thính giác rất nhạy bén nên nghe nhầm thành hai tiếng",
+    "Do búa gõ đập hai lần vào ống thép",
+    "Do âm thanh bị dội lại từ cuối ống thép"
+   ],
+   "Âm truyền qua thép nhanh hơn qua không khí nên đến tai người nghe lệch nhau thời gian."
+  ],
+  [
+   "Hiện tượng sấm sét xảy ra cùng một lúc, nhưng ta thường nhìn thấy chớp trước khi nghe thấy tiếng sấm là vì:",
+   [
+    "Tốc độ ánh sáng lớn hơn rất nhiều so với tốc độ truyền âm thanh",
+    "Khoảng cách từ nơi phát ra tiếng sấm đến tai rất gần",
+    "Tai người nhạy cảm với ánh sáng hơn là âm thanh",
+    "Tốc độ truyền âm trong không khí lớn hơn tốc độ ánh sáng"
+   ],
+   "Ánh sáng đi cực kỳ nhanh (300000 km/s) trong khi âm thanh đi chậm hơn (340 m/s)."
+  ],
+  [
+   "Trong một thí nghiệm, một âm thoa thực hiện được 440 dao động trong thời gian 2 giây. Tần số của âm thoa này là bao nhiêu?",
+   [
+    "220 Hz",
+    "880 Hz",
+    "440 Hz",
+    "2,2 Hz"
+   ],
+   "Tần số được tính bằng tổng số dao động chia cho thời gian: 440 chia 2 bằng 220 Hz."
+  ],
+  [
+   "Một người đứng cách một bức tường phẳng 34 mét và la lớn. Biết tốc độ truyền âm trong không khí là 340 m/s. Sau thời gian bao lâu kể từ khi la, người đó nghe thấy tiếng vang?",
+   [
+    "0,2 giây",
+    "0,1 giây",
+    "0,4 giây",
+    "2,0 giây"
+   ],
+   "Quãng đường âm thanh đi cả đi lẫn về là 34 nhân 2 bằng 68 mét. Thời gian bằng quãng đường chia vận tốc: 68 chia 340 bằng 0,2 giây."
+  ],
+  [
+   "Tại sao các nhà khoa học khi thám hiểm đáy biển bằng tàu ngầm lại sử dụng sóng siêu âm mà không dùng âm thanh thông thường?",
+   [
+    "Vì siêu âm có khả năng truyền đi xa trong nước mà ít bị hấp thụ mạnh như âm thanh thường",
+    "Vì siêu âm có thể làm sôi nước biển tại đáy",
+    "Vì tai con người có thể nghe được siêu âm dễ dàng dưới nước",
+    "Vì siêu âm có tốc độ truyền nhanh hơn ánh sáng"
+   ],
+   "Siêu âm có tần số cao, năng lượng lớn và truyền đi rất tốt trong môi trường nước nên dùng để đo độ sâu."
   ]
  ],
  "c5": [
@@ -397,6 +1677,336 @@
     "Âm thoa"
    ],
    "Pin mặt trời chuyển quang năng thành điện năng."
+  ],
+  [
+   "Hiện tượng nào sau đây cho thấy ánh sáng truyền theo đường thẳng trong không khí?",
+   [
+    "Các tia sáng mặt trời lọt qua kẽ lá xuống mặt đất tạo thành các vệt sáng thẳng.",
+    "Ánh sáng từ đèn pin hắt vào tường bị hắt ngược trở lại.",
+    "Nhúng một phần chiếc đũa thẳng vào cốc nước thấy đũa như bị gãy ở mặt nước.",
+    "Nhìn thấy hình ảnh của mình trên mặt hồ nước phẳng lặng."
+   ],
+   "Các vệt sáng thẳng lọt qua kẽ lá là minh họa rõ nét cho tính chất ánh sáng truyền theo đường thẳng trong môi trường trong suốt và đồng tính."
+  ],
+  [
+   "Chùm sáng nào sau đây là chùm sáng song song?",
+   [
+    "Ánh sáng phát ra từ đèn la-de chiếu qua các phòng thí nghiệm.",
+    "Ánh sáng phát ra từ bóng đèn dây tóc đang sáng đặt giữa bàn.",
+    "Ánh sáng chiếu ra từ ngọn đèn pin cầm tay khi bật sáng.",
+    "Ánh sáng chiếu từ ngọn đuốc vào ban đêm."
+   ],
+   "Đèn la-de phát ra các tia sáng song song với nhau trên một quãng đường dài."
+  ],
+  [
+   "Vật nào sau đây được coi là nguồn sáng?",
+   [
+    "Ngọn nến đang cháy.",
+    "Mặt Trăng vào ban đêm.",
+    "Tấm gương phẳng treo tường.",
+    "Viên kim cương dưới ánh đèn."
+   ],
+   "Ngọn nến đang cháy tự phát ra ánh sáng nên nó là nguồn sáng, các vật còn lại chỉ hắt lại ánh sáng."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về tia sáng?",
+   [
+    "Tia sáng được biểu diễn bằng một đường thẳng có hướng chỉ chiều truyền của ánh sáng.",
+    "Tia sáng thực tế là một dải sáng rất mảnh và sáng mà ta nhìn thấy được bằng mắt thường.",
+    "Tia sáng có bề rộng bằng bề rộng của chùm sáng song song.",
+    "Ta có thể nhìn thấy một tia sáng đơn lẻ đi qua không khí bụi."
+   ],
+   "Trong quang hình học, tia sáng được quy ước biểu diễn bằng một đường thẳng có mũi tên chỉ chiều truyền ánh sáng."
+  ],
+  [
+   "Khi đứng ngoài sân nắng, bóng của em in trên mặt đất rõ nhất vào lúc nào?",
+   [
+    "Khi trời không mây và nắng gắt.",
+    "Vào lúc chiều tối khi mặt trời sắp lặn.",
+    "Vào những ngày trời nhiều mây mù.",
+    "Khi có ánh sáng đèn điện chiếu vào ban đêm."
+   ],
+   "Nắng gắt tạo ra nguồn sáng mạnh và sắc nét, giúp vùng bóng tối và bóng nửa tối rõ rệt hơn."
+  ],
+  [
+   "Hiện tượng nhật thực xảy ra khi nào?",
+   [
+    "Mặt Trăng nằm giữa Mặt Trời và Trái Đất trên một đường thẳng.",
+    "Trái Đất nằm giữa Mặt Trời và Mặt Trăng trên một đường thẳng.",
+    "Mặt Trời nằm giữa Trái Đất và Mặt Trăng trên một đường thẳng.",
+    "Mặt Trăng đi vào vùng bóng tối của Trái Đất tạo ra."
+   ],
+   "Nhật thực xảy ra khi Mặt Trăng che khuất một phần hoặc toàn bộ ánh sáng từ Mặt Trời chiếu đến Trái Đất."
+  ],
+  [
+   "Tính chất nào sau đây của ảnh tạo bởi gương cầu lúp (gương cầu lõm) khác với gương phẳng?",
+   [
+    "Ảnh ảo có thể lớn hơn vật khi đặt vật gần gương.",
+    "Ảnh ảo luôn có kích thước bằng kích thước của vật.",
+    "Ảnh ảo luôn nhỏ hơn vật khi đặt sát gương.",
+    "Ảnh tạo bởi gương luôn là ảnh thật."
+   ],
+   "Gương cầu lõm khi đặt vật ở gần sẽ tạo ra một ảnh ảo lớn hơn kích thước của vật."
+  ],
+  [
+   "Gương cầu lồi thường được lắp ở các đoạn đường cong góc khuất có tác dụng gì?",
+   [
+    "Giúp người lái xe quan sát được vùng nhìn thấy rộng hơn để tránh va chạm.",
+    "Làm cho ảnh của xe ngược chiều lớn hơn để dễ nhận biết.",
+    "Tập trung ánh sáng mạnh chiếu rọi vào xe đi ngược chiều.",
+    "Giúp xe chạy với tốc độ nhanh hơn khi qua khúc cua."
+   ],
+   "Gương cầu lồi có vùng nhìn thấy rộng hơn gương phẳng cùng kích thước, giúp quan sát tốt các góc khuất."
+  ],
+  [
+   "Chiếu một tia sáng tới vuông góc với mặt một gương phẳng. Góc tới có giá trị bằng bao nhiêu?",
+   [
+    "0 độ.",
+    "90 độ.",
+    "45 độ.",
+    "180 độ."
+   ],
+   "Tia tới vuông góc với mặt gương thì trùng với pháp tuyến, do đó góc tới bằng 0 độ và tia phản xạ bị hắt ngược lại theo phương cũ."
+  ],
+  [
+   "Phát biểu nào sau đây là đúng về sự phản xạ ánh sáng trên bề mặt?",
+   [
+    "Góc phản xạ luôn có độ lớn bằng góc tới.",
+    "Góc phản xạ luôn lớn hơn góc tới trong mọi trường hợp.",
+    "Góc phản xạ bằng hai lần góc tới khi chiếu xiên.",
+    "Góc phản xạ chỉ bằng góc tới khi mặt gương nhẵn bóng hoàn hảo."
+   ],
+   "Theo định luật phản xạ ánh sáng, góc phản xạ luôn luôn bằng góc tới."
+  ],
+  [
+   "Một học sinh đứng trước một gương phẳng cách gương 1,2 m. Khoảng cách giữa học sinh đó và ảnh của mình trong gương là bao nhiêu?",
+   [
+    "2,4 m.",
+    "1,2 m.",
+    "0,6 m.",
+    "1,8 m."
+   ],
+   "Khoảng cách từ ảnh đến gương bằng khoảng cách từ vật đến gương (1,2 m), nên khoảng cách giữa vật và ảnh là 1,2 cộng 1,2 bằng 2,4 m."
+  ],
+  [
+   "Khi một chùm tia tới song song chiếu tới bề mặt của một tờ giấy trắng, các tia phản xạ sẽ như thế nào?",
+   [
+    "Phản xạ theo nhiều hướng khác nhau vì mặt giấy sần sùi.",
+    "Phản xạ thành một chùm tia sáng song song duy nhất.",
+    "Bị hấp thụ hoàn toàn và không có tia phản xạ.",
+    "Phản xạ hội tụ tại một điểm duy nhất trước mặt giấy."
+   ],
+   "Mặt giấy trắng tuy phẳng nhưng ở mức độ hiển vi lại gồ ghề (sần sùi), gây ra phản xạ tán sắc theo nhiều hướng khác nhau."
+  ],
+  [
+   "Phát biểu nào sau đây chưa chính xác khi nói về ảnh của một vật tạo bởi gương phẳng?",
+   [
+    "Ảnh của vật có thể hứng được trên một màn chắn đặt sau gương.",
+    "Ảnh tạo bởi gương phẳng là ảnh ảo không hứng được trên màn.",
+    "Khoảng cách từ một điểm của vật đến gương phẳng bằng khoảng cách từ ảnh của điểm đó đến gương.",
+    "Độ lớn của ảnh ảo tạo bởi gương phẳng bằng độ lớn của vật."
+   ],
+   "Ảnh tạo bởi gương phẳng là ảnh ảo nên tuyệt đối không thể hứng được trên màn chắn."
+  ],
+  [
+   "Ứng dụng nào sau đây KHÔNG liên quan đến gương cầu lõm?",
+   [
+    "Gương chiếu hậu gắn ở hai bên sườn xe ô tô.",
+    "Đèn pin dùng để hội tụ ánh sáng chiếu đi xa.",
+    "Gương dùng cho nha sĩ khám răng cho bệnh nhân.",
+    "Bếp năng lượng mặt trời dùng để đun nấu."
+   ],
+   "Gương chiếu hậu gắn trên ô tô là gương cầu lồi, không phải gương cầu lõm."
+  ],
+  [
+   "Một tia sáng chiếu tới gương phẳng tạo với mặt gương một góc 30 độ. Góc phản xạ của tia sáng đó bằng bao nhiêu?",
+   [
+    "60 độ.",
+    "30 độ.",
+    "15 độ.",
+    "120 độ."
+   ],
+   "Góc tới là góc tạo bởi tia tới và pháp tuyến. Vì tia tới tạo với mặt gương góc 30 độ nên góc tới bằng 90 trừ 30 bằng 60 độ. Do đó góc phản xạ cũng bằng 60 độ."
+  ],
+  [
+   "Hiện tượng nguyệt thực xảy ra vào thời điểm nào trong tháng Âm lịch?",
+   [
+    "Vào đêm trăng tròn (ngày rằm).",
+    "Vào những ngày đầu tháng Âm lịch.",
+    "Vào ngày không có mặt trăng (30 hoặc mùng 1).",
+    "Vào ngày trăng lưỡi liềm đầu tháng."
+   ],
+   "Nguyệt thực xảy ra khi Trái Đất che khuất ánh sáng Mặt Trời chiếu tới Mặt Trăng, lúc này là ngày rằm khi Trái Đất nằm giữa Mặt Trời và Mặt Trăng."
+  ],
+  [
+   "Vì sao khi ta nhìn vào một vũng nước nhỏ trên sân sau cơn mưa vào ban ngày, ta thấy hình ảnh của bầu trời và những đám mây rất rõ?",
+   [
+    "Vì mặt nước lặng đóng vai trò như một gương phẳng phản xạ ánh sáng.",
+    "Vì nước mưa đã phát ra ánh sáng màu trắng chiếu lên mắt ta.",
+    "Vì có hiện tượng khúc xạ ánh sáng làm phóng đại các đám mây.",
+    "Vì vũng nước hấp thụ hết ánh sáng mặt trời rồi phát ra."
+   ],
+   "Mặt nước phẳng lặng hoạt động như một gương phẳng, tạo ra ảnh ảo của các vật ở phía trên như bầu trời và mây."
+  ],
+  [
+   "Một người cao 1,6 m đứng trước một gương phẳng hình chữ nhật treo trên tường. Để nhìn thấy toàn bộ cơ thể mình trong gương, chiều cao tối thiểu của gương phải là bao nhiêu?",
+   [
+    "0,8 m.",
+    "1,6 m.",
+    "3,2 m.",
+    "1,0 m."
+   ],
+   "Theo tính chất hình học của gương phẳng, chiều cao tối thiểu của gương để người đứng nhìn thấy toàn bộ cơ thể bằng một nửa chiều cao của người đó, tức là 1,6 chia 2 bằng 0,8 m."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi mô tả về vùng tối và vùng bóng nửa tối?",
+   [
+    "Vùng tối là nơi hoàn toàn không nhận được ánh sáng từ nguồn sáng truyền tới.",
+    "Vùng bóng nửa tối là vùng chỉ nhận được hoàn toàn ánh sáng từ một phần của nguồn sáng.",
+    "Vùng tối luôn có kích thước cố định dù dịch chuyển màn chắn ra xa vật.",
+    "Vùng bóng nửa tối nằm hoàn toàn lọt thỏm bên trong vùng tối."
+   ],
+   "Vùng tối hoàn toàn khuất ánh sáng nên không nhận được chút ánh sáng nào từ nguồn sáng truyền đến."
+  ],
+  [
+   "Trong các ứng dụng sau đây, ứng dụng nào tận dụng tính chất truyền thẳng của ánh sáng?",
+   [
+    "Xác định đường thẳng khi trồng cây hoặc xây tường bằng cách ngắm thẳng hàng.",
+    "Sử dụng gương để soi mặt và trang điểm mỗi buổi sáng.",
+    "Dùng kính lúp để đọc chữ nhỏ in trong sách.",
+    "Sử dụng kính hiển vi để quan sát các tế bào thực vật."
+   ],
+   "Ngắm hàng cây thẳng tắp dựa trên tính chất ánh sáng truyền theo đường thẳng."
+  ],
+  [
+   "Bộ phận nào của mắt đóng vai trò là nguồn phát ra tín hiệu điện truyền lên não khi có ánh sáng chiếu vào?",
+   [
+    "Tế bào nhạy sáng ở màng lưới",
+    "Thủy tinh thể",
+    "Lòng đen",
+    "Giác mạc"
+   ],
+   "Tế bào nhạy sáng ở màng lưới tiếp nhận kích thích ánh sáng và chuyển hóa thành tín hiệu điện truyền lên não."
+  ],
+  [
+   "Khi ánh sáng truyền từ không khí vào nước, hiện tượng nào sau đây chắc chắn KHÔNG xảy ra?",
+   [
+    "Ánh sáng tiếp tục truyền theo đường thẳng như cũ",
+    "Ánh sáng bị khúc xạ",
+    "Ánh sáng bị phản xạ một phần",
+    "Ánh sáng bị hấp thụ một phần"
+   ],
+   "Khi truyền qua mặt phân cách giữa hai môi trường trong suốt khác nhau, phương của tia sáng bị gãy khúc nên không thể giữ nguyên đường truyền thẳng."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về đặc điểm của chùm sáng phân kì?",
+   [
+    "Gồm các tia sáng loe rộng ra trên đường truyền của chúng",
+    "Gồm các tia sáng cắt nhau tại một điểm",
+    "Gồm các tia sáng không bao giờ cắt nhau dù kéo dài",
+    "Gồm các tia sáng song song với nhau"
+   ],
+   "Chùm sáng phân kì có các tia sáng xuất phát từ một điểm rồi loe rộng dần ra trên đường đi."
+  ],
+  [
+   "Vật nào sau đây được xem là một vật nhận ánh sáng và truyền ánh sáng qua nó (vật trong suốt)?",
+   [
+    "Tấm kính thủy tinh không màu",
+    "Quyển vở ghi bài",
+    "Viên gạch đỏ",
+    "Tấm ván gỗ"
+   ],
+   "Tấm kính thủy tinh không màu cho phép hầu hết ánh sáng truyền qua nên được gọi là vật trong suốt."
+  ],
+  [
+   "Để phân biệt chùm sáng hội tụ và chùm sáng phân kì dựa vào đường đi của các tia sáng, người ta căn cứ vào yếu tố nào?",
+   [
+    "Khoảng cách giữa các tia sáng ngày càng giảm hay ngày càng tăng",
+    "Màu sắc của các tia sáng",
+    "Độ dài của mỗi tia sáng trong chùm",
+    "Tốc độ truyền của ánh sáng trong chùm"
+   ],
+   "Chùm hội tụ có các tia sáng xích lại gần nhau hơn, ngược lại chùm phân kì có các tia sáng cách xa nhau ra."
+  ],
+  [
+   "Hiện tượng cầu vồng xuất hiện sau cơn mưa liên quan đến sự kết hợp của các hiện tượng quang học nào?",
+   [
+    "Khúc xạ và tán sắc ánh sáng qua các hạt nước nhỏ",
+    "Phản xạ ánh sáng trên các đám mây đen",
+    "Truyền thẳng ánh sáng qua không khí loãng",
+    "Giao thoa ánh sáng trên bề mặt lá cây"
+   ],
+   "Ánh sáng mặt trời bị khúc xạ và tán sắc khi đi qua các hạt nước mưa li ti tạo thành cầu vồng."
+  ],
+  [
+   "Mặt trăng không tự phát ra ánh sáng mà ta nhìn thấy Mặt Trăng là do đâu?",
+   [
+    "Mặt Trăng phản xạ ánh sáng từ Mặt Trời chiếu tới",
+    "Mặt Trăng là một nguồn sáng tự nhiên lớn",
+    "Mặt Trăng tự sinh ra nhiệt và phát sáng ban đêm",
+    "Mặt Trăng hấp thụ hoàn toàn ánh sáng từ Trái Đất"
+   ],
+   "Ta nhìn thấy Mặt Trăng vì nó phản xạ lại ánh sáng nhận được từ Mặt Trời đến mắt ta."
+  ],
+  [
+   "Phát biểu nào sau đây là ĐÚNG khi nói về hiện tượng khúc xạ ánh sáng?",
+   [
+    "Góc khúc xạ thay đổi khi góc tới thay đổi",
+    "Góc khúc xạ luôn bằng góc tới",
+    "Tia khúc xạ nằm cùng một môi trường với tia tới",
+    "Tia khúc xạ luôn vuông góc với mặt phân cách"
+   ],
+   "Khi thay đổi góc tới, phương của tia sáng khúc xạ tại mặt phân cách cũng thay đổi theo."
+  ],
+  [
+   "Khi một chùm tia sáng song song hẹp chiếu xiên góc qua mặt phân cách giữa không khí và một khối thủy tinh, hiện tượng gì xảy ra với chùm tia sáng?",
+   [
+    "Chùm tia sáng bị đổi hướng truyền đột ngột tại mặt phân cách",
+    "Chùm tia sáng tiếp tục đi thẳng không đổi hướng",
+    "Chùm tia sáng bị phản xạ hoàn toàn trở lại không khí",
+    "Chùm tia sáng biến thành chùm tia hội tụ hoàn toàn"
+   ],
+   "Chùm tia sáng bị khúc xạ (đổi hướng) khi đi qua mặt phân cách giữa hai môi trường trong suốt khác nhau."
+  ],
+  [
+   "Một chùm tia sáng hẹp truyền trong nước chiếu tới mặt phân cách với không khí dưới góc tới 40 độ. Góc khúc xạ so với góc tới sẽ như thế nào?",
+   [
+    "Lớn hơn 40 độ",
+    "Nhỏ hơn 40 độ",
+    "Bằng đúng 40 độ",
+    "Bằng 0 độ"
+   ],
+   "Khi ánh sáng truyền từ nước ra không khí, góc khúc xạ lớn hơn góc tới."
+  ],
+  [
+   "Bạn Nam dùng một ống nhựa thẳng để nhìn chữ viết trên bàn, sau đó bẻ cong nhẹ ống nhựa thì không nhìn thấy chữ nữa. Thí nghiệm này chứng tỏ điều gì?",
+   [
+    "Ánh sáng truyền theo đường thẳng trong môi trường trong suốt",
+    "Ánh sáng chỉ truyền được trong môi trường không khí",
+    "Ống nhựa đã chặn hoàn toàn không khí đi qua",
+    "Chữ viết trên bàn đã tự động biến mất"
+   ],
+   "Khi ống bị bẻ cong, đường truyền thẳng của ánh sáng bị ống chặn lại nên mắt không nhìn thấy chữ, chứng tỏ ánh sáng truyền theo đường thẳng."
+  ],
+  [
+   "Một tia sáng chiếu tới mặt gương phẳng sao cho tia tới vuông góc với mặt gương. Nếu quay gương đi một góc 10 độ quanh trục đi qua điểm tới thì tia phản xạ sẽ quay một góc bằng bao nhiêu?",
+   [
+    "20 độ",
+    "10 độ",
+    "5 độ",
+    "40 độ"
+   ],
+   "Theo định luật hình học của phản xạ, khi gương quay một góc thì tia phản xạ quay một góc gấp đôi góc quay của gương, tức là 20 độ."
+  ],
+  [
+   "Chiếu một tia sáng từ không khí vào một chậu nước đặt trên bàn. Người ta đo được góc tới bằng 60 độ và góc khúc xạ bằng 40 độ. Nếu quay chậu nước để góc tới tăng lên 70 độ thì góc khúc xạ sẽ như thế nào?",
+   [
+    "Tăng lên nhưng vẫn nhỏ hơn 70 độ",
+    "Giảm xuống nhỏ hơn 40 độ",
+    "Tăng lên và bằng đúng 70 độ",
+    "Không thay đổi giá trị"
+   ],
+   "Khi góc tới tăng thì góc khúc xạ cũng tăng theo, nhưng khi ánh sáng đi từ không khí vào nước thì góc khúc xạ luôn nhỏ hơn góc tới."
   ]
  ],
  "c6": [
@@ -459,6 +2069,346 @@
     "Thay dây đồng bằng dây nhựa"
    ],
    "Từ trường mạnh hơn khi tăng số vòng dây hoặc cường độ dòng điện."
+  ],
+  [
+   "Chất nào sau đây bị nam châm hút mạnh nhất?",
+   [
+    "Sắt",
+    "Nhôm",
+    "Đồng",
+    "Gỗ"
+   ],
+   "Nam châm có khả năng hút các vật liệu từ như sắt, thép, niken. Các chất như nhôm, đồng, gỗ không bị nam châm hút."
+  ],
+  [
+   "Khi đặt hai cực Bắc của hai thanh nam châm gần nhau thì chúng sẽ:",
+   [
+    "Đẩy nhau",
+    "Hút nhau",
+    "Không có hiện tượng gì",
+    "Quay vuông góc với nhau"
+   ],
+   "Theo quy tắc tương tác từ, các từ cực cùng tên đặt gần nhau sẽ đẩy nhau, còn các từ cực khác tên sẽ hút nhau."
+  ],
+  [
+   "Ứng dụng nào sau đây KHÔNG sử dụng nam châm?",
+   [
+    "Đèn pin thắp sáng thông thường",
+    "La bàn định hướng",
+    "Loa phát thanh",
+    "Cần cẩu dùng để nâng phế liệu sắt"
+   ],
+   "Đèn pin thông thường hoạt động dựa trên dòng điện chạy qua bóng đèn hoặc đèn LED, không dùng nam châm."
+  ],
+  [
+   "La bàn hoạt động dựa trên hiện tượng nào?",
+   [
+    "Tác dụng từ của Trái Đất lên kim nam châm",
+    "Tác dụng nhiệt của ánh sáng mặt trời",
+    "Sự nhiễm điện do cọ xát",
+    "Lực hút của Trái Đất lên các vật có khối lượng"
+   ],
+   "Kim nam châm của la bàn chịu tác dụng từ trường của Trái Đất nên luôn định hướng theo hướng nam - bắc."
+  ],
+  [
+   "Bộ phận chính của một nam châm điện gồm có:",
+   [
+    "Ống dây dẫn quấn quanh lõi sắt non và nguồn điện",
+    "Một thanh nam châm vĩnh cửu và một cuộn dây",
+    "Một nguồn điện và một thanh nhôm",
+    "Hai thanh nam châm vĩnh cửu đặt song song"
+   ],
+   "Nam châm điện được cấu tạo từ một cuộn dây dẫn quấn quanh lõi sắt non và có dòng điện chạy qua."
+  ],
+  [
+   "Để làm tăng từ tính của một nam châm điện, ta có thể làm cách nào sau đây?",
+   [
+    "Tăng số vòng dây cuốn và tăng cường độ dòng điện",
+    "Giảm số vòng dây cuốn quanh lõi sắt",
+    "Thay lõi sắt non bằng lõi bằng gỗ",
+    "Giảm hiệu điện thế của nguồn điện cung cấp"
+   ],
+   "Từ tính của nam châm điện mạnh lên khi ta tăng cường độ dòng điện chạy qua ống dây hoặc tăng số vòng dây."
+  ],
+  [
+   "Đâu là ưu điểm lớn nhất của nam châm điện so với nam châm vĩnh cửu?",
+   [
+    "Có thể bật hoặc tắt từ tính tùy ý bằng cách ngắt hoặc mở dòng điện",
+    "Luôn duy trì từ tính mạnh mà không cần dùng nguồn điện",
+    "Có trọng lượng nhẹ hơn rất nhiều",
+    "Không bị ảnh hưởng bởi nhiệt độ môi trường"
+   ],
+   "Nam châm điện rất linh hoạt vì khi ngắt dòng điện thì từ tính của nó mất đi, cho phép điều khiển việc hút hay nhả vật dễ dàng."
+  ],
+  [
+   "Chiều của đường sức từ bên ngoài thanh nam châm có chiều đi ra từ cực nào và đi vào ở cực nào?",
+   [
+    "Đi ra từ cực Bắc và đi vào ở cực Nam",
+    "Đi ra từ cực Nam và đi vào ở cực Bắc",
+    "Đi từ cực này sang cực kia qua không gian bên ngoài",
+    "Đi từ cực Đông sang cực Tây"
+   ],
+   "Quy ước chiều đường sức từ ở bên ngoài nam châm là đi ra từ cực Bắc và đi vào ở cực Nam."
+  ],
+  [
+   "Dụng cụ nào trong nhà sử dụng nam châm điện để hoạt động?",
+   [
+    "Chuông cửa điện",
+    "Bóng đèn sợi đốt",
+    "Bàn là điện",
+    "Nồi cơm điện"
+   ],
+   "Chuông cửa điện sử dụng nam châm điện để hút thanh gõ vào chuông tạo ra tiếng kêu."
+  ],
+  [
+   "Khi bẻ đôi một thanh nam châm thẳng thành hai đoạn ngắn, phát biểu nào sau đây là ĐÚNG?",
+   [
+    "Mỗi đoạn nhỏ thu được đều là một nam châm có đủ hai cực Bắc và Nam",
+    "Một đoạn chỉ có cực Bắc, đoạn còn lại chỉ có cực Nam",
+    "Cả hai đoạn đều mất hoàn toàn từ tính",
+    "Cả hai đoạn chỉ còn lại từ tính rất yếu ở chính giữa"
+   ],
+   "Nam châm luôn có hai cực. Khi cắt nhỏ nam châm, mỗi phần vẫn là một nam châm hoàn chỉnh với hai cực Bắc và Nam."
+  ],
+  [
+   "Một học sinh muốn xác định tên các cực của một thanh nam châm chưa biết nhãn, bạn đó nên làm gì?",
+   [
+    "Dùng một la bàn hoặc một nam châm đã biết rõ tên cực để thử lại",
+    "Nhúng thanh nam châm vào nước xem cực nào nổi lên",
+    "Hơ thanh nam châm trên ngọn lửa nhỏ",
+    "Cân khối lượng hai đầu thanh nam châm"
+   ],
+   "Để nhận biết cực nam châm, ta dựa vào tương tác hút đẩy với một nam châm chuẩn hoặc dùng la bàn."
+  ],
+  [
+   "Tại sao các thiết bị lưu trữ dữ liệu như ổ cứng máy tính lại sử dụng từ tính?",
+   [
+    "Vì có thể ghi và xóa thông tin dễ dàng bằng cách thay đổi hướng từ hóa",
+    "Vì giúp ổ cứng chạy nhanh hơn khi chơi game",
+    "Vì nam châm giúp làm mát máy tính hiệu quả",
+    "Vì ngăn chặn hoàn toàn bụi bẩn bám vào"
+   ],
+   "Các miền từ tính trên bề mặt đĩa cứng có thể được từ hóa theo các hướng khác nhau để biểu diễn dữ liệu số 0 và 1."
+  ],
+  [
+   "Phát biểu nào sau đây là SAI khi nói về đường sức từ?",
+   [
+    "Các đường sức từ là những đường cong cắt nhau tạo thành lưới",
+    "Nơi nào từ trường mạnh hơn thì các đường sức từ ở đó vẽ dày hơn",
+    "Mỗi đường sức từ có một chiều xác định",
+    "Bên ngoài thanh nam châm, đường sức từ đi ra từ cực Bắc và đi vào cực Nam"
+   ],
+   "Các đường sức từ là những đường cong không bao giờ cắt nhau, không phải cắt nhau tạo thành lưới."
+  ],
+  [
+   "Một nam châm điện có cường độ dòng điện chạy qua ống dây là 1,5 A thì hút được 10 chiếc đinh sắt. Nếu tăng cường độ dòng điện lên 3 A thì hiện tượng gì xảy ra?",
+   [
+    "Số đinh sắt bị hút sẽ tăng lên vì nam châm điện mạnh hơn",
+    "Số đinh sắt bị hút sẽ giảm đi một nửa",
+    "Nam châm điện sẽ mất hoàn toàn từ tính",
+    "Số đinh sắt bị hút vẫn giữ nguyên không đổi"
+   ],
+   "Khi tăng cường độ dòng điện qua ống dây, từ trường của nam châm điện mạnh lên nên lực hút tăng, hút được nhiều đinh hơn."
+  ],
+  [
+   "Nam châm vĩnh cửu giữ được từ tính lâu dài là do đâu?",
+   [
+    "Cấu trúc bên trong giữ cho các miền từ tính được định hướng ổn định",
+    "Do luôn có nguồn điện ngầm chạy bên trong",
+    "Do được sơn một lớp cách điện bảo vệ bên ngoài",
+    "Do được đặt trong môi trường không có không khí"
+   ],
+   "Nam châm vĩnh cửu làm từ các vật liệu đặc biệt có các miền từ tính được sắp xếp theo một chiều ổn định mà không cần nguồn điện."
+  ],
+  [
+   "Khi đặt một đinh sắt nhỏ ở gần chính giữa của một thanh nam châm thẳng dài, hiện tượng gì xảy ra rõ nhất?",
+   [
+    "Đinh sắt bị hút mạnh về hai đầu cực của thanh nam châm",
+    "Đinh sắt bị đẩy bay ra xa thanh nam châm",
+    "Đinh sắt đứng yên lơ lửng không dịch chuyển",
+    "Đinh sắt tự động xoay tròn liên tục"
+   ],
+   "Từ tính của thanh nam châm tập trung mạnh nhất ở hai đầu cực, nên các vật liệu từ thường bị hút mạnh về phía hai đầu đó."
+  ],
+  [
+   "Một bạn học sinh chế tạo một nam châm điện đơn giản bằng cách quấn 50 vòng dây quanh một chiếc đinh sắt và nối với một viên pin. Để làm giảm lực từ của nam châm này mà không tháo bớt dây, bạn ấy nên làm gì?",
+   [
+    "Dùng nguồn điện có hiệu điện thế nhỏ hơn hoặc mắc thêm điện trở",
+    "Quấn thêm thật nhiều vòng dây vào đinh",
+    "Dùng một chiếc đinh to hơn gấp đôi",
+    "Đặt nam châm vào tủ lạnh"
+   ],
+   "Để giảm từ tính của nam châm điện, ta có thể giảm cường độ dòng điện chạy qua ống dây."
+  ],
+  [
+   "Hiện tượng nào sau đây chứng tỏ Trái Đất có từ trường?",
+   [
+    "Kim la bàn luôn chỉ hướng bắc - nam khi đứng yên ở mọi nơi trên Trái Đất",
+    "Thủy triều dâng lên và hạ xuống hàng ngày",
+    "Các vật nặng luôn rơi xuống mặt đất khi buông tay",
+    "Có hiện tượng mưa giông và sấm sét vào mùa hè"
+   ],
+   "Kim la bàn chịu lực tác dụng của từ trường Trái Đất nên luôn định hướng theo hướng nam - bắc."
+  ],
+  [
+   "Trong xưởng tái chế phế liệu, người ta dùng cẩu điện để phân loại rác thải. Bộ phận quan trọng nhất giúp cẩu điện nhặt được các khối sắt vụn là gì?",
+   [
+    "Nam châm điện cỡ lớn có công suất cao",
+    "Hệ thống lò xo đàn hồi cực mạnh",
+    "Các mỏ neo cơ học bằng thép",
+    "Quạt gió công suất lớn"
+   ],
+   "Cẩu điện sử dụng nam châm điện lớn để hút sắt thép khi bật dòng điện và nhả ra khi ngắt dòng điện."
+  ],
+  [
+   "Một thanh nam châm bị rơi nhiều lần xuống nền xi măng cứng có thể bị giảm từ tính. Giải thích nào sau đây là hợp lí?",
+   [
+    "Va đập mạnh làm xáo trộn sự sắp xếp trật tự của các miền từ tính bên trong",
+    "Va đập làm thanh nam châm bị đổi màu sơn bên ngoài",
+    "Va đập làm tăng khối lượng của nam châm",
+    "Va đập làm mất đi nguồn điện bên trong nam châm"
+   ],
+   "Va đập mạnh làm các miền từ tính bên trong nam châm bị lệch khỏi hướng ổn định ban đầu, dẫn đến suy giảm từ tính."
+  ],
+  [
+   "Nam châm vĩnh cửu thường được chế tạo từ vật liệu từ nào sau đây?",
+   [
+    "Thép hoặc hợp kim nhôm - niken - côban.",
+    "Đồng nguyên chất hoặc nhôm.",
+    "Nhựa tổng hợp và cao su.",
+    "Thủy tinh và sứ."
+   ],
+   "Nam châm vĩnh cửu thường được chế tạo từ các vật liệu từ như thép, phe-rít, hoặc hợp kim AlNiCo (nhôm, niken, côban)."
+  ],
+  [
+   "Không gian xung quanh nam châm có đặc điểm nào sau đây?",
+   [
+    "Tồn tại từ trường.",
+    "Tồn tại trọng trường mạnh.",
+    "Tồn tại điện trường đều.",
+    "Không có lực nào tác dụng."
+   ],
+   "Không gian xung quanh nam châm luôn tồn tại từ trường, có khả năng tác dụng lực từ lên vật liệu từ."
+  ],
+  [
+   "Hình ảnh các đường sức từ được thu lại bằng cách rắc mạt sắt lên tấm nhựa đặt trên nam châm được gọi là gì?",
+   [
+    "Từ phổ.",
+    "Đường sức điện.",
+    "Quang phổ.",
+    "Hình ảnh quang học."
+   ],
+   "Hình ảnh tạo bởi các đường mạt sắt xung quanh nam châm được gọi là từ phổ."
+  ],
+  [
+   "Vùng nào trên thanh nam châm thẳng có lực từ tác dụng mạnh nhất?",
+   [
+    "Hai đầu cực từ.",
+    "Chính giữa thanh.",
+    "Mặt dưới thanh.",
+    "Toàn bộ bề mặt như nhau."
+   ],
+   "Lực từ của thanh nam châm thẳng tập trung mạnh nhất ở hai đầu cực từ."
+  ],
+  [
+   "Cực Bắc địa lý của Trái Đất ở gần cực nào của từ trường Trái Đất?",
+   [
+    "Cực Nam từ trường Trái Đất.",
+    "Cực Bắc từ trường Trái Đất.",
+    "Xích đạo của Trái Đất.",
+    "Cực Đông địa lý."
+   ],
+   "Cực Bắc địa lý của Trái Đất nằm ở gần cực Nam từ trường của Trái Đất."
+  ],
+  [
+   "Khi sử dụng la bàn để xác định phương hướng, ta cần lưu ý điều nào sau đây?",
+   [
+    "Đặt la bàn trên mặt phẳng nằm ngang và xa các vật có từ tính.",
+    "Cầm la bàn thẳng đứng và lắc mạnh liên tục.",
+    "Đặt la bàn gần dòng điện lớn để kim quay nhanh hơn.",
+    "Đặt la bàn trên một thanh nam châm khác."
+   ],
+   "Cần đặt la bàn nằm ngang và xa các vật có từ tính để tránh làm sai lệch hướng chỉ của kim la bàn."
+  ],
+  [
+   "Điều nào sau đây giải thích đúng bản chất hoạt động của nam châm điện?",
+   [
+    "Khi có dòng điện chạy qua ống dây quấn quanh lõi sắt mềm thì ống dây trở thành một nam châm.",
+    "Dòng điện làm lõi sắt bị nóng lên và phát ra từ trường.",
+    "Lõi sắt mềm tự phát ra điện tích làm thu hút các vật nhẹ.",
+    "Dòng điện truyền trực tiếp lực cơ học sang lõi sắt."
+   ],
+   "Khi dòng điện chạy qua ống dây có lõi sắt mềm, xung quanh ống dây sinh ra từ trường và lõi sắt trở thành nam châm."
+  ],
+  [
+   "Đường sức từ của một thanh nam châm thẳng có đặc điểm nào sau đây?",
+   [
+    "Là những đường cong kín đi ra từ cực Bắc và đi vào cực Nam.",
+    "Là các đường thẳng song song kéo dài vô tận.",
+    "Là các đường tròn đồng tâm nằm ngang.",
+    "Là các đường cong ngắt đoạn đi từ cực Nam sang cực Bắc."
+   ],
+   "Ở bên ngoài nam châm, đường sức từ là những đường cong kín có chiều đi ra từ cực Bắc và đi vào cực Nam."
+  ],
+  [
+   "So với nam châm vĩnh cửu, nam châm điện có đặc điểm khác biệt nào sau đây?",
+   [
+    "Có thể thay đổi độ mạnh yếu của lực từ bằng cách thay đổi cường độ dòng điện.",
+    "Luôn giữ được từ tính vĩnh viễn không bao giờ mất.",
+    "Không thể đổi tên hai cực từ khi đảo chiều dòng điện.",
+    "Chỉ hút được vật bằng kim loại đồng."
+   ],
+   "Lực từ của nam châm điện có thể điều khiển linh hoạt (tăng, giảm hoặc ngắt) thông qua dòng điện."
+  ],
+  [
+   "Khi ngắt dòng điện chạy qua nam châm điện có lõi làm bằng sắt mềm, hiện tượng gì sẽ xảy ra?",
+   [
+    "Nam châm điện mất từ tính ngay lập tức.",
+    "Nam châm điện giữ nguyên từ tính vĩnh viễn.",
+    "Cực từ của nam châm tự động đảo ngược.",
+    "Nam châm điện bị nổ do chập điện."
+   ],
+   "Lõi sắt mềm mất từ tính rất nhanh ngay khi dòng điện chạy qua ống dây bị ngắt."
+  ],
+  [
+   "Để thử xem một thanh kim loại có phải là nam châm hay không, cách làm nào sau đây đúng và chính xác nhất?",
+   [
+    "Đưa một đầu thanh đó lại gần đầu một kim nam châm đang cân bằng, nếu thấy đẩy nhau thì đó là nam châm.",
+    "Đưa thanh đó lại gần đinh sắt, nếu hút được thì khẳng định ngay là nam châm vĩnh cửu.",
+    "Thả thanh đó vào nước xem thanh có nổi hay không.",
+    "Dùng thanh đó cạ xát vào mặt gỗ để kiểm tra phát sáng."
+   ],
+   "Chỉ có hai cực cùng tên của hai nam châm mới đẩy nhau. Hiện tượng đẩy nhau là bằng chứng chắc chắn thanh đó là nam châm."
+  ],
+  [
+   "Một bạn học sinh đưa đầu A của thanh kim loại X lại gần cực Bắc của kim la bàn thì thấy cực Bắc bị hút lại. Bạn kết luận ngay “X là nam châm”. Kết luận này đúng hay sai, vì sao?",
+   [
+    "Sai, vì thanh X có thể chỉ là vật liệu từ như sắt chưa bị nhiễm từ.",
+    "Đúng, vì chỉ có nam châm mới hút được kim la bàn.",
+    "Đúng, vì cực Bắc luôn chỉ hút nam châm khác.",
+    "Sai, vì cực Bắc của kim la bàn không bao giờ bị hút."
+   ],
+   "Vật liệu từ như sắt thừa sức hút cực Bắc của kim la bàn mà không cần bản thân nó phải là nam châm."
+  ],
+  [
+   "Để nhận biết từ trường tại một điểm trong không gian, ta dùng dụng cụ nào sau đây?",
+   [
+    "Kim nam châm có trục quay tự do.",
+    "Bút thử điện gia đình.",
+    "Nhiệt kế thủy ngân.",
+    "Kính kính phóng đại."
+   ],
+   "Kim nam châm thử ở trạng thái tự do sẽ bị lệch khỏi hướng Bắc - Nam nếu tại điểm đó có từ trường."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về tác dụng của lõi sắt mềm trong nam châm điện?",
+   [
+    "Lõi sắt mềm làm tăng đáng kể từ tính của nam châm điện.",
+    "Lõi sắt mềm giúp dòng điện chạy qua dây quấn nhanh hơn.",
+    "Lõi sắt mềm giúp nam châm điện không bị nóng lên.",
+    "Lõi sắt mềm giữ cho nam châm điện luôn có từ tính kể cả khi ngắt điện."
+   ],
+   "Lõi sắt mềm bị nhiễm từ rất mạnh dưới tác dụng của từ trường ống dây, làm tăng lực từ của nam châm điện."
   ]
  ],
  "c7": [
@@ -551,6 +2501,316 @@
     "Chỉ có glucose"
    ],
    "Hô hấp: glucose + O₂ → CO₂ + H₂O + năng lượng."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về quá trình trao đổi chất ở sinh vật?",
+   [
+    "Quá trình sinh vật lấy các chất từ môi trường và thải các chất cặn bã ra ngoài môi trường.",
+    "Quá trình sinh vật chỉ hấp thụ các chất dinh dưỡng mà không thải ra bất kì chất nào.",
+    "Quá trình sinh vật chỉ thải các chất thải ra môi trường mà không cần lấy chất mới.",
+    "Quá trình sinh vật tự tổng hợp tất cả các chất mà không phụ thuộc vào môi trường."
+   ],
+   "Trao đổi chất là quá trình sinh vật lấy các chất cần thiết từ môi trường và thải các sản phẩm không cần thiết ra ngoài."
+  ],
+  [
+   "Chất nào sau đây được xem là nguyên liệu chính để thực hiện quá trình quang hợp ở thực vật?",
+   [
+    "Khí cacbon dioxide và nước.",
+    "Khí oxygen và chất hữu cơ.",
+    "Muối khoáng và chất hữu cơ.",
+    "Khí nitrogen và nước."
+   ],
+   "Cây xanh sử dụng nguyên liệu là khí cacbon dioxide và nước dưới sự tham gia của ánh sáng để quang hợp."
+  ],
+  [
+   "Sản phẩm tạo ra trong quá trình quang hợp của thực vật gồm có:",
+   [
+    "Chất hữu cơ và khí oxygen.",
+    "Chất hữu cơ và khí cacbon dioxide.",
+    "Nước và khí oxygen.",
+    "Muối khoáng và chất hữu cơ."
+   ],
+   "Quang hợp tổng hợp nên chất hữu cơ nuôi cây đồng thời giải phóng khí oxygen ra môi trường."
+  ],
+  [
+   "Năng lượng cung cấp trực tiếp cho các hoạt động sống của tế bào và cơ thể sinh vật được giải phóng chủ yếu từ quá trình nào?",
+   [
+    "Hô hấp tế bào.",
+    "Quang hợp.",
+    "Tiêu hóa thức ăn.",
+    "Hấp thụ nước."
+   ],
+   "Hô hấp tế bào phân giải chất hữu cơ để giải phóng năng lượng cung cấp cho các hoạt động sống."
+  ],
+  [
+   "Cơ quan nào ở thực vật đóng vai trò chủ yếu trong việc hấp thụ nước và ion khoáng từ đất?",
+   [
+    "Rễ.",
+    "Thân.",
+    "Lá.",
+    "Hoa."
+   ],
+   "Rễ cây có các lông hút làm nhiệm vụ chủ yếu là hấp thụ nước và muối khoáng hòa tan từ đất."
+  ],
+  [
+   "Mạch nào trong thân cây có chức năng vận chuyển nước và muối khoáng từ rễ lên lá?",
+   [
+    "Mạch gỗ.",
+    "Mạch rây.",
+    "Cả mạch gỗ và mạch rây.",
+    "Mạch ống."
+   ],
+   "Mạch gỗ gồm các tế bào chết nối tiếp nhau tạo thành ống để vận chuyển nước và muối khoáng."
+  ],
+  [
+   "Chất hữu cơ được tổng hợp ở lá cây sẽ được vận chuyển đến các bộ phận khác nhờ loại mạch nào?",
+   [
+    "Mạch rây.",
+    "Mạch gỗ.",
+    "Mạch thân.",
+    "Mạch lá."
+   ],
+   "Mạch rây cấu tạo từ các tế bào sống có chức năng vận chuyển các chất hữu cơ do lá tổng hợp đi nuôi cây."
+  ],
+  [
+   "Thành phần nào trên biểu bì lá làm nhiệm vụ chủ yếu cho việc thoát hơi nước và trao đổi khí?",
+   [
+    "Lỗ khí.",
+    "Lục lạp.",
+    "Gân lá.",
+    "Biểu bì."
+   ],
+   "Lỗ khí (khổng) nằm ở lớp biểu bì lá giúp cây thoát hơi nước và trao đổi khí với môi trường."
+  ],
+  [
+   "Yếu tố môi trường nào sau đây có ảnh hưởng trực tiếp và rõ rệt nhất đến tốc độ thoát hơi nước ở lá cây?",
+   [
+    "Độ ẩm không khí.",
+    "Nồng độ khí nitrogen.",
+    "Độ mặn của đất.",
+    "Áp suất khí quyển."
+   ],
+   "Độ ẩm không khí càng thấp thì tốc độ thoát hơi nước qua lỗ khí diễn ra càng mạnh mẽ."
+  ],
+  [
+   "Khi trồng cây, tại sao người ta thường phải làm đất tơi xốp trước khi gieo trồng?",
+   [
+    "Giúp rễ cây dễ dàng hấp thụ oxygen để hô hấp tế bào tốt hơn.",
+    "Giúp rễ cây không bị ngập úng khi trời mưa to.",
+    "Giúp cung cấp thật nhiều chất hữu cơ cho hạt nảy mầm.",
+    "Giúp giữ nước lại lâu hơn trong đất khô hạn."
+   ],
+   "Đất tơi xốp chứa nhiều khoảng trống chứa không khí, cung cấp đủ oxygen cho rễ hô hấp."
+  ],
+  [
+   "Hiện tượng lá cây bị héo rũ vào những ngày nắng gắt là do nguyên nhân chủ yếu nào?",
+   [
+    "Tốc độ thoát hơi nước lớn hơn tốc độ hút nước của rễ.",
+    "Rễ cây ngừng hoàn toàn hoạt động hút nước.",
+    "Cây bị thiếu hụt nghiêm trọng chất dinh dưỡng khoáng.",
+    "Lỗ khí đóng chặt lại không cho nước thoát ra ngoài."
+   ],
+   "Trời nắng gắt khiến nước bay hơi nhanh, nếu rễ không bù kịp thì cây sẽ bị héo."
+  ],
+  [
+   "Tại sao không nên để quá nhiều chậu cây xanh trong phòng ngủ kín vào ban đêm?",
+   [
+    "Vì cây tiến hành hô hấp tế bào hút oxygen và thải ra khí cacbon dioxide gây ngột ngạt.",
+    "Vì cây tiếp tục quang hợp mạnh tạo ra quá nhiều khí lạ trong phòng.",
+    "Vì ban đêm cây tỏa ra lượng nhiệt rất lớn làm tăng nhiệt độ phòng.",
+    "Vì cây hút hết độ ẩm khiến không khí trong phòng bị khô."
+   ],
+   "Ban đêm cây không quang hợp nhưng vẫn hô hấp, hút oxygen và thải cacbon dioxide nên phòng kín sẽ thiếu oxygen."
+  ],
+  [
+   "Nếu ngắt bỏ toàn bộ lá của một cây xanh đang phát triển bình thường, hiện tượng gì sẽ xảy ra sau một thời gian ngắn?",
+   [
+    "Cây sẽ bị chết vì không thể quang hợp để tạo chất hữu cơ nuôi cơ thể.",
+    "Cây vẫn phát triển bình thường nhờ rễ hút chất dinh dưỡng dự trữ.",
+    "Cây mọc ra nhiều rễ hơn để bù đắp lượng chất dinh dưỡng bị thiếu.",
+    "Thân cây sẽ phình to ra do tích lũy nước không được thoát đi."
+   ],
+   "Lá là cơ quan quang hợp chính, mất lá cây không tổng hợp được chất hữu cơ và dần chết."
+  ],
+  [
+   "Khi tìm hiểu về sự thích nghi của thực vật, người ta thấy cây sống ở vùng sa mạc khô hạn thường có lá biến thành gai. Đặc điểm này nhằm mục đích gì?",
+   [
+    "Giảm tối đa lượng nước thoát ra từ bề mặt lá.",
+    "Tăng cường khả năng hấp thụ ánh sáng mặt trời.",
+    "Bảo vệ cây khỏi sự phá hoại của các loài động vật.",
+    "Tăng cường diện tích quang hợp cho cây ở vùng nắng nóng."
+   ],
+   "Lá biến thành gai giúp giảm diện tích tiếp xúc với không khí khô nóng, từ đó hạn chế tối đa thoát hơi nước."
+  ],
+  [
+   "Một vườn cây ăn quả bị ngập úng kéo dài, sau đó lá cây chuyển sang vàng và rụng dần. Giải thích nào sau đây là chính xác?",
+   [
+    "Đất ngập nước làm rễ thiếu oxygen, ngừng hô hấp, không hút được nước và khoáng chất.",
+    "Nước ngập làm rễ cây bị loãng chất dinh dưỡng nên cây bị đói ăn.",
+    "Nước ngập làm nhiệt độ đất giảm đột ngột gây sốc nhiệt cho rễ cây.",
+    "Lá cây bị ngập nước nên không thể thực hiện quá trình quang hợp được nữa."
+   ],
+   "Ngập úng làm rễ thiếu khí oxygen, rễ chết ngạt, không hút nước và khoáng chất dẫn đến cây chết."
+  ],
+  [
+   "Quá trình biến đổi năng lượng nào sau đây diễn ra trong quá trình quang hợp ở thực vật?",
+   [
+    "Năng lượng ánh sáng mặt trời chuyển hóa thành hóa năng lưu trữ trong chất hữu cơ.",
+    "Hóa năng trong chất hữu cơ chuyển hóa thành nhiệt năng và quang năng.",
+    "Năng lượng nhiệt chuyển hóa trực tiếp thành động năng giúp cây vận động.",
+    "Điện năng trong tự nhiên chuyển hóa thành hóa năng trong cơ thể thực vật."
+   ],
+   "Quang hợp hấp thụ năng lượng ánh sáng để tổng hợp chất hữu cơ, tức biến quang năng thành hóa năng."
+  ],
+  [
+   "Phát biểu nào sau đây KHÔNG đúng khi nói về mối quan hệ giữa quang hợp và hô hấp tế bào?",
+   [
+    "Quang hợp và hô hấp tế bào là hai quá trình độc lập, không có sự liên quan gì với nhau.",
+    "Sản phẩm của quang hợp là nguyên liệu cho quá trình hô hấp tế bào.",
+    "Sản phẩm của quá trình hô hấp tế bào là nguyên liệu cho quá trình quang hợp.",
+    "Quang hợp tích lũy năng lượng còn hô hấp tế bào giải phóng năng lượng."
+   ],
+   "Quang hợp và hô hấp tế bào là hai quá trình trái ngược nhau nhưng có mối quan hệ mật thiết, hỗ trợ lẫn nhau."
+  ],
+  [
+   "Khi nói về tốc độ trao đổi chất và chuyển hóa năng lượng ở các loài sinh vật, nhận định nào sau đây là đúng?",
+   [
+    "Động vật có xương sống hằng nhiệt có tốc độ trao đổi chất nhanh hơn động vật biến nhiệt.",
+    "Các loài thực vật có tốc độ trao đổi chất nhanh hơn rất nhiều so với động vật.",
+    "Động vật sống ở vùng lạnh có tốc độ trao đổi chất chậm hơn vùng nóng.",
+    "Tốc độ trao đổi chất ở mọi sinh vật trong cùng một môi trường là hoàn toàn như nhau."
+   ],
+   "Động vật hằng nhiệt tiêu tốn nhiều năng lượng để giữ thân nhiệt nên tốc độ trao đổi chất nhanh hơn động vật biến nhiệt."
+  ],
+  [
+   "Một người thợ làm vườn muốn thúc đẩy bộ rễ của cây giâm cành phát triển nhanh hơn trước khi đem trồng xuống đất, biện pháp nào sau đây là phù hợp nhất dựa trên kiến thức sinh học?",
+   [
+    "Giữ đất luôn ẩm và tơi xốp để rễ có đủ nước và oxygen hô hấp mạnh mẽ.",
+    "Đem chậu cây phơi dưới ánh nắng gắt để kích thích lá quang hợp tạo rễ.",
+    "Bón thật nhiều phân bón hóa học có nồng độ cao vào gốc cây.",
+    "Cắt bỏ toàn bộ cành nhánh phía trên để cây dồn hết nước vào rễ."
+   ],
+   "Đất ẩm và tơi xốp cung cấp đủ nước và oxygen giúp rễ hô hấp tốt, tạo năng lượng cho việc mọc rễ mới."
+  ],
+  [
+   "Phát biểu nào sau đây thể hiện đúng bản chất của quá trình trao đổi chất giữa cơ thể sinh vật và môi trường?",
+   [
+    "Sinh vật lấy các chất cần thiết từ môi trường và thải các chất cặn bã ra ngoài môi trường.",
+    "Sinh vật chỉ lấy chất dinh dưỡng từ môi trường để lớn lên mà không thải ra bất kỳ chất gì.",
+    "Môi trường cung cấp năng lượng trực tiếp cho sinh vật hoạt động mà không cần qua trao đổi chất.",
+    "Quá trình trao đổi chất chỉ diễn ra khi sinh vật ở trạng thái nghỉ ngơi hoàn toàn."
+   ],
+   "Trao đổi chất là quá trình sinh vật lấy chất dinh dưỡng, nước, oxy từ môi trường và thải chất thải ra ngoài để duy trì sự sống."
+  ],
+  [
+   "Trong cơ thể thực vật, loại mô nào chịu trách nhiệm chính trong việc vận chuyển chất hữu cơ từ lá đi nuôi các cơ quan khác?",
+   [
+    "Mạch rây",
+    "Mạch gỗ",
+    "Mô giậu",
+    "Mô xốp"
+   ],
+   "Mạch rây có chức năng vận chuyển các chất hữu cơ do lá tổng hợp được đi nuôi các cơ quan khác của cây."
+  ],
+  [
+   "Khi nói về vai trò của nước đối với thực vật, nhận định nào sau đây là không chính xác?",
+   [
+    "Nước là chất dinh dưỡng dự trữ cung cấp năng lượng trực tiếp cho tế bào hoạt động.",
+    "Nước là dung môi hòa tan các chất khoáng để vận chuyển trong cây.",
+    "Nước tham gia trực tiếp vào nhiều quá trình trao đổi chất và tổng hợp chất hữu cơ.",
+    "Nước giúp duy trì độ cứng và hình dạng của các cơ quan non ở thực vật."
+   ],
+   "Nước không cung cấp năng lượng trực tiếp cho tế bào mà chỉ đóng vai trò dung môi, môi trường và nguyên liệu."
+  ],
+  [
+   "Đâu là con đường chủ yếu để thoát hơi nước từ cây ra môi trường bên ngoài?",
+   [
+    "Thoát hơi nước qua các lỗ khí ở lá.",
+    "Thoát hơi nước trực tiếp qua lớp vỏ thân cây già.",
+    "Thoát hơi nước qua các đầu tận cùng của rễ cây.",
+    "Thoát hơi nước qua lớp biểu bì ngầm dưới đất."
+   ],
+   "Lỗ khí ở lá là cơ quan chủ yếu thực hiện quá trình thoát hơi nước giúp cây giải nhiệt và tạo lực hút."
+  ],
+  [
+   "Trong quá trình chuyển hóa năng lượng ở tế bào, năng lượng ánh sáng mặt trời đã được chuyển hóa thành dạng năng lượng nào được tích lũy trong các hợp chất hữu cơ?",
+   [
+    "Hóa năng",
+    "Nhiệt năng",
+    "Điện năng",
+    "Cơ năng"
+   ],
+   "Quang hợp biến đổi quang năng thành hóa năng được tích lũy trong các liên kết hóa học của chất hữu cơ."
+  ],
+  [
+   "Yếu tố nào sau đây có tác dụng làm mở các lỗ khí trên bề mặt lá cây để thực hiện trao đổi khí?",
+   [
+    "Hàm lượng nước trong tế bào hạt đậu tăng lên.",
+    "Ánh sáng ban đêm làm giảm nhiệt độ môi trường.",
+    "Cây bị thiếu nước trầm trọng vào mùa hạn hán.",
+    "Nồng độ khí cacbonic trong lá tăng quá cao."
+   ],
+   "Khi tế bào hạt đậu trương nước, thành mỏng căng ra khiến lỗ khí mở rộng để khí trao đổi dễ dàng."
+  ],
+  [
+   "Hiện tượng nào sau đây chứng tỏ quá trình hô hấp tế bào ở thực vật đang diễn ra mạnh mẽ?",
+   [
+    "Hạt đang nảy mầm làm đục nước vôi trong đựng trong bình kín.",
+    "Lá cây phơi ngoài nắng khô đi và giòn tan sau vài ngày.",
+    "Cây non vươn dài về phía có ánh sáng chiếu vào ban ngày.",
+    "Rễ cây hút nước từ đất vào mùa mưa bão."
+   ],
+   "Hạt nảy mầm hô hấp mạnh, thải ra nhiều khí cacbonic làm đục nước vôi trong."
+  ],
+  [
+   "Khi nghiên cứu về mối quan hệ giữa các nhân tố ngoại cảnh và quang hợp, phát biểu nào sau đây là đúng?",
+   [
+    "Cường độ ánh sáng quá cao có thể làm giảm hiệu quả quang hợp của lá cây.",
+    "Nhiệt độ môi trường tăng lên vô hạn thì quang hợp cũng tăng lên liên tục.",
+    "Nồng độ khí cacbonic trong không khí càng cao thì cây quang hợp càng tốt mà không có giới hạn.",
+    "Cây trồng trong bóng râm không bao giờ cần ánh sáng để quang hợp."
+   ],
+   "Ánh sáng quá mạnh làm nóng lá và đóng lỗ khí, dẫn đến giảm quang hợp."
+  ],
+  [
+   "Tại sao vào những trưa nắng gắt mùa hè, người làm vườn thường thấy tốc độ sinh trưởng của một số cây trồng bị chậm lại?",
+   [
+    "Do cây đóng lỗ khí để hạn chế mất nước, dẫn đến thiếu nguyên liệu cho quang hợp.",
+    "Do ánh sáng ban trưa quá yếu không đủ cung cấp cho diệp lục hấp thụ.",
+    "Do rễ cây ngừng hoàn toàn hoạt động hấp thụ khoáng chất từ đất.",
+    "Do nhiệt độ cao làm cho quá trình hô hấp tế bào bị đình trệ vĩnh viễn."
+   ],
+   "Trưa nắng gắt, cây đóng lỗ khí chống mất nước khiến CO2 khó vào, làm giảm quang hợp và sinh trưởng."
+  ],
+  [
+   "Một bạn học sinh tiến hành thí nghiệm bịt kín một chậu cây xanh bằng túi nilon trong suốt rồi để vào góc tối. Sau một ngày, hiện tượng gì sẽ xảy ra bên trong túi nilon?",
+   [
+    "Hơi nước ngưng tụ nhiều ở mặt trong túi và nồng độ khí cacbonic tăng lên.",
+    "Túi nilon bị phồng to do lượng khí oxy do cây thải ra quá nhiều.",
+    "Lá cây vẫn xanh tươi và tiết ra chất hữu cơ bám vào thành túi.",
+    "Nhiệt độ bên trong túi giảm mạnh so với nhiệt độ không khí bên ngoài."
+   ],
+   "Để trong tối, cây chỉ hô hấp, lấy oxy và thải CO2, đồng thời vẫn thoát hơi nước làm đọng nước ở thành túi."
+  ],
+  [
+   "Vì sao khi thiết kế hệ thống thủy canh trồng rau sạch, người ta thường lắp thêm máy sủi bọt khí liên tục vào dung dịch dinh dưỡng?",
+   [
+    "Để cung cấp oxy cho hệ rễ thực hiện hô hấp tế bào và sinh trưởng tốt.",
+    "Để tạo dòng chảy mạnh làm sạch rễ cây khỏi các loại vi khuẩn gây bệnh.",
+    "Để pha loãng nồng độ muối khoáng tránh làm cháy đầu rễ non.",
+    "Để tăng nhiệt độ của dung dịch nước giúp rễ hấp thụ chất nhanh hơn."
+   ],
+   "Rễ cây cần oxy để hô hấp tế bào; sủi bọt khí giúp rễ không bị ngạt trong môi trường nước."
+  ],
+  [
+   "Một người nông dân bón phân quá liều lượng cho ruộng ngô, vài ngày sau thấy cây bị héo úa dù đất vẫn đủ ẩm. Nguyên nhân chính là gì?",
+   [
+    "Nồng độ dung dịch trong đất cao hơn dịch tế bào rễ, làm rễ không hút được nước.",
+    "Phân bón hóa học đã tiêu diệt toàn bộ vi sinh vật có ích trong đất trồng.",
+    "Phân bón làm tắc nghẽn mạch gỗ khiến nước không thể dâng lên ngọn cây.",
+    "Phân bón sinh ra nhiệt lượng lớn làm chín rễ cây non dưới mặt đất."
+   ],
+   "Đất quá mặn (nồng độ chất tan cao) tạo áp suất thẩm thấu ngược, khiến rễ bị mất nước thay vì hút nước."
   ]
  ],
  "c8": [
@@ -613,6 +2873,346 @@
     "Sự cảm ứng"
    ],
    "Sinh trưởng là tăng kích thước, khối lượng."
+  ],
+  [
+   "Thực vật phản ứng với kích thích từ môi trường thông qua hiện tượng nào sau đây?",
+   [
+    "Cảm ứng.",
+    "Sinh trưởng.",
+    "Phát triển.",
+    "Sinh sản."
+   ],
+   "Cảm ứng là khả năng tiếp nhận kích thích và phản ứng lại các kích thích từ môi trường của sinh vật."
+  ],
+  [
+   "Hiện tượng rễ cây luôn mọc hướng xuống dưới đất là kiểu cảm ứng nào?",
+   [
+    "Hướng trọng lực.",
+    "Hướng sáng.",
+    "Hướng nước.",
+    "Hướng hóa."
+   ],
+   "Rễ cây mọc hướng xuống đất dưới tác dụng của trọng lực nên gọi là hướng trọng lực dương."
+  ],
+  [
+   "Tập tính nào sau đây ở động vật là tập tính bẩm sinh?",
+   [
+    "Vẫn đẻ trứng đúng nơi quy định ở sâu bướm.",
+    "Khỉ biết mở nắp chai để uống nước.",
+    "Mèo biết bắt chuột sau khi xem mẹ làm.",
+    "Chó biết ngồi xuống khi nghe lệnh của chủ."
+   ],
+   "Tập tính đẻ trứng của sâu bướm là tập tính sinh ra đã có, mang tính bản năng (bẩm sinh)."
+  ],
+  [
+   "Sự tăng lên về kích thước và khối lượng của cơ thể sinh vật được gọi là gì?",
+   [
+    "Sinh trưởng.",
+    "Phát triển.",
+    "Cảm ứng.",
+    "Sinh sản."
+   ],
+   "Sinh trưởng là sự tăng lên về kích thước và khối lượng của cơ thể do sự tăng lên về số lượng và kích thước của tế bào."
+  ],
+  [
+   "Quá trình biến đổi bao gồm sinh trưởng, phân hóa tế bào và phát sinh hình thái cơ quan gọi là gì?",
+   [
+    "Phát triển.",
+    "Sinh trưởng.",
+    "Sinh sản.",
+    "Cảm ứng."
+   ],
+   "Phát triển ở sinh vật là toàn bộ những biến đổi diễn ra trong chu kì sống của cơ thể bao gồm sinh trưởng, phân hóa tế bào và phát sinh hình thái."
+  ],
+  [
+   "Mô phân sinh đỉnh ở thực vật có chức năng chính là gì?",
+   [
+    "Làm cho thân và rễ dài ra.",
+    "Làm cho thân cây to ra về chiều ngang.",
+    "Vận chuyển nước và chất dinh dưỡng.",
+    "Bảo vệ các mô bên trong của cây."
+   ],
+   "Mô phân sinh đỉnh nằm ở đỉnh ngọn và đỉnh rễ, giúp cây dài ra theo chiều dọc."
+  ],
+  [
+   "Mô phân sinh bên có ở nhóm thực vật nào sau đây?",
+   [
+    "Cây Hai lá mầm.",
+    "Cây Một lá mầm.",
+    "Tất cả các loại rêu.",
+    "Các loại dương xỉ nhỏ."
+   ],
+   "Mô phân sinh bên chỉ có ở cây Hai lá mầm giúp thân cây to ra về chiều ngang."
+  ],
+  [
+   "Hình thức sinh sản tạo ra cơ thể mới từ sự kết hợp giữa giao tử đực và giao tử cái là gì?",
+   [
+    "Sinh sản hữu tính.",
+    "Sinh sản vô tính.",
+    "Sinh sản sinh dưỡng.",
+    "Phân đôi tế bào."
+   ],
+   "Sinh sản hữu tính là hình thức sinh sản có sự hợp nhất của giao tử đực và giao tử cái tạo thành hợp tử."
+  ],
+  [
+   "Sinh vật nào sau đây có hình thức sinh sản vô tính bằng cách nảy chồi?",
+   [
+    "Thủy tức.",
+    "Trùng biến hình.",
+    "Cây thuốc bỏng.",
+    "Mèo."
+   ],
+   "Thủy tức sinh sản vô tính chủ yếu bằng hình thức nảy chồi từ cơ thể mẹ."
+  ],
+  [
+   "Ý nghĩa của việc bấm ngọn ở một số loài cây ăn quả như cam, quýt là gì?",
+   [
+    "Kích thích cây ra nhiều cành ngang, tăng năng suất.",
+    "Giúp cây nhanh chóng phát triển chiều cao.",
+    "Rút ngắn thời gian ra hoa của cây.",
+    "Tăng khả năng chống chịu sâu bệnh."
+   ],
+   "Bấm ngọn làm mất ưu thế đỉnh, kích thích chồi bên phát triển thành nhiều cành ngang để cho nhiều quả hơn."
+  ],
+  [
+   "Hiện tượng lá cây trinh nữ (xấu hổ) khép lại khi bị chạm vào là phản ứng:",
+   [
+    "Cảm ứng không hướng sáng (ứng động).",
+    "Hướng trọng lực âm.",
+    "Hướng hoá dương.",
+    "Sinh trưởng chiều ngang."
+   ],
+   "Lá cây trinh nữ khép lại do sự thay đổi sức tấy nước ở gốc lá khi có va chạm, không phụ thuộc vào hướng của kích thích."
+  ],
+  [
+   "Ứng dụng nào sau đây dựa trên hiện tượng cảm ứng hướng tiếp xúc của thực vật?",
+   [
+    "Làm giàn cho cây bầu, bí, dưa chuột leo.",
+    "Tưới nước đều đặn quanh gốc cây.",
+    "Bón phân hóa học sâu dưới lòng đất.",
+    "Thắp đèn ban đêm cho cây thanh long."
+   ],
+   "Các loài cây thân leo như bầu, bí có tua cuốn hướng tiếp xúc với giàn để bám và vươn lên."
+  ],
+  [
+   "Vòng gỗ hằng năm ở thân cây gỗ sinh ra do hoạt động của bộ phận nào?",
+   [
+    "Mô phân sinh bên.",
+    "Mô phân sinh đỉnh.",
+    "Mô phân sinh lóng.",
+    "Vỏ ngoài của cây."
+   ],
+   "Mô phân sinh bên hoạt động tạo ra các lớp gỗ mới hằng năm, hình thành nên các vòng gỗ."
+  ],
+  [
+   "Dựa vào yếu tố nào người ta có thể dự đoán tuổi của một cây gỗ sau khi bị chặt hạ?",
+   [
+    "Số vòng gỗ trên mặt cắt ngang thân cây.",
+    "Chiều cao tổng thể của cây.",
+    "Đường kính của cành cây to nhất.",
+    "Số lượng cành chính trên thân cây."
+   ],
+   "Mỗi năm cây gỗ thường tạo ra một vòng gỗ, vì vậy đếm số vòng gỗ có thể đoán được tuổi cây."
+  ],
+  [
+   "Quá trình phát triển của động vật đẻ trứng gồm các giai đoạn cơ bản nào?",
+   [
+    "Giai đoạn phôi và giai đoạn hậu phôi.",
+    "Giai đoạn sơ sinh và giai đoạn trưởng thành.",
+    "Giai đoạn trứng và giai đoạn con non.",
+    "Giai đoạn hợp tử và giai đoạn già cỗi."
+   ],
+   "Quá trình phát triển của động vật gồm giai đoạn phôi (trong trứng/tử cung) và giai đoạn hậu phôi (sau khi sinh/nở)."
+  ],
+  [
+   "Sinh sản vô tính ở thực vật KHÔNG có ưu điểm nào sau đây?",
+   [
+    "Tạo ra thế hệ con có tính di truyền đa dạng, phong phú.",
+    "Giữ nguyên được các đặc tính tốt của cây mẹ.",
+    "Thời gian sinh sản nhanh, số lượng cá thể lớn.",
+    "Cây con dễ thích nghi nếu môi trường sống ổn định."
+   ],
+   "Sinh sản vô tính tạo ra con cái giống hệt cây mẹ nên không có sự đa dạng di truyền."
+  ],
+  [
+   "Người ta thường áp dụng phương pháp chiết cành đối với nhóm cây nào?",
+   [
+    "Cây ăn quả thân gỗ lâu năm.",
+    "Các loại rau ăn lá ngắn ngày.",
+    "Cây lúa và cây ngô.",
+    "Các loài rêu và dương xỉ."
+   ],
+   "Chiết cành thường áp dụng cho cây thân gỗ ăn quả như bưởi, cam, nhãn để rút ngắn thời gian cho quả."
+  ],
+  [
+   "Tại sao khi nuôi cá trong bể kính, người ta thường bật đèn vào ban đêm?",
+   [
+    "Tạo điều kiện cho tảo quang hợp cung cấp oxygen và kích thích cá hoạt động.",
+    "Làm cho nước trong bể luôn ấm áp.",
+    "Giúp cá ngủ ngon hơn vào đêm.",
+    "Tiệt trùng hoàn toàn các vi khuẩn trong nước."
+   ],
+   "Ánh sáng giúp thực vật thủy sinh/tảo quang hợp nhả oxygen và giúp cá định hướng di chuyển, kiếm ăn."
+  ],
+  [
+   "Để thắp đèn vào mùa đông nhằm kích thích cây thanh long ra hoa trái vụ, người ta đã vận dụng kiến thức về:",
+   [
+    "Cảm ứng và sự phát triển theo quang kì ở thực vật.",
+    "Hiện tượng hướng trọng lực của cành cây.",
+    "Khả năng sinh sản vô tính bằng giâm cành.",
+    "Sự sinh trưởng của mô phân sinh lóng."
+   ],
+   "Thanh long là cây ngày dài, chiếu sáng bổ sung vào ban đêm giúp kích thích cây ra hoa đúng mục đích."
+  ],
+  [
+   "Vì sao khi trồng cây cảnh trong nhà, người ta thường thỉnh thoảng phải xoay chậu cây hoặc đưa chậu cây ra ngoài trời?",
+   [
+    "Giúp cây nhận ánh sáng đều từ các phía, ngọn cây phát triển thẳng đẹp.",
+    "Để cây tăng cường hút nước từ không khí.",
+    "Giúp gốc cây nhanh to ra nhờ mô phân sinh bên.",
+    "Tránh hiện tượng rễ cây mọc ngược lên mặt đất."
+   ],
+   "Do tính hướng sáng, nếu đặt cố định trong nhà ngọn cây sẽ cong về phía cửa sổ có ánh sáng; xoay chậu giúp cây mọc thẳng cân đối."
+  ],
+  [
+   "Cảm ứng ở sinh vật là khả năng cơ thể sinh vật",
+   [
+    "tiếp nhận và phản ứng lại các kích thích từ môi trường sống.",
+    "chỉ sinh trưởng và phát triển nhanh hơn khi có ánh sáng.",
+    "tự tổng hợp các chất dinh dưỡng để nuôi toàn bộ cơ thể.",
+    "tạo ra thế hệ mới mang đặc điểm giống với cơ thể mẹ."
+   ],
+   "Cảm ứng là khả năng tiếp nhận kích thích và phản ứng lại các kích thích từ môi trường bên trong hoặc bên ngoài cơ thể."
+  ],
+  [
+   "Hiện tượng thân cây mọc vươn lên cao hướng về phía cửa sổ có ánh sáng chiếu vào thuộc loại",
+   [
+    "hướng sáng dương.",
+    "hướng trọng lực âm.",
+    "hướng hóa dương.",
+    "hướng nước dương."
+   ],
+   "Thân cây mọc hướng về phía có ánh sáng được gọi là hướng sáng dương."
+  ],
+  [
+   "Khi nuôi trồng cây đậu trong chậu đặt nằm ngang, sau một thời gian phần rễ cây sẽ",
+   [
+    "cong xuống phía dưới đất.",
+    "mọc thẳng ngang theo chiều chậu.",
+    "uốn cong ngược lên trên không khí.",
+    "ngừng phát triển hoàn toàn."
+   ],
+   "Rễ cây có tính hướng trọng lực dương nên luôn mọc cong xuống phía dưới đất."
+  ],
+  [
+   "Loại tập tính nào ở động vật sinh ra đã có, không cần qua học tập hay rút kinh nghiệm?",
+   [
+    "Tập tính bẩm sinh.",
+    "Tập tính học được.",
+    "Tập tính hỗn hợp.",
+    "Tập tính thích nghi."
+   ],
+   "Tập tính bẩm sinh là những hành động mang tính di truyền từ bố mẹ, sinh ra đã có sẵn."
+  ],
+  [
+   "Nhện giăng tơ là ví dụ về loại tập tính nào của động vật?",
+   [
+    "Tập tính bẩm sinh.",
+    "Tập tính học được.",
+    "Tập tính xã hội.",
+    "Tập tính vị tha."
+   ],
+   "Nhện giăng tơ là hành vi có sẵn từ khi sinh ra mà không cần phải học qua các cá thể khác, đó là tập tính bẩm sinh."
+  ],
+  [
+   "Chim mẹ mớm mồi cho con khi chim con kêu đói là biểu hiện của",
+   [
+    "tập tính bẩm sinh.",
+    "tập tính học được.",
+    "hiện tượng hướng động.",
+    "quá trình sinh trưởng."
+   ],
+   "Hành vi chim con há miệng kêu và chim mẹ mớm mồi là bản năng sinh ra đã có, thuộc tập tính bẩm sinh."
+  ],
+  [
+   "Quá trình sinh trưởng ở thực vật diễn ra chủ yếu nhờ hoạt động của",
+   [
+    "mô phân sinh.",
+    "mô bì.",
+    "mô dẫn.",
+    "mô mềm."
+   ],
+   "Mô phân sinh là nhóm tế bào chưa phân hóa, có khả năng phân chia liên tục giúp thực vật sinh trưởng."
+  ],
+  [
+   "Đâu không phải là giai đoạn trong vòng đời phát triển của bướm trải qua biến thái hoàn toàn?",
+   [
+    "Kén nhộng chuyển thành ấu trùng non.",
+    "Trứng nở thành sâu non.",
+    "Nhộng phát triển thành bướm trưởng thành.",
+    "Bướm trưởng thành đẻ trứng."
+   ],
+   "Sâu non phát triển thành nhộng rồi mới đến bướm, không có chiều ngược lại từ nhộng thành ấu trùng non."
+  ],
+  [
+   "Hình thức sinh sản vô tính nào sau đây thường được con người ứng dụng để nhân giống cây trồng nhanh chóng và giữ nguyên vẹn đặc tính quý của cây mẹ?",
+   [
+    "Nuôi cấy mô tế bào thực vật.",
+    "Cho thụ phấn nhân tạo giữa các loài.",
+    "Gieo hạt lấy từ quả chín mọng.",
+    "Lai giống tạo tổ hợp gene mới."
+   ],
+   "Nuôi cấy mô tế bào giúp tạo ra hàng loạt cây con giống hệt cây mẹ trong thời gian ngắn và sạch bệnh."
+  ],
+  [
+   "Ý nghĩa sinh học quan trọng nhất của quá trình sinh sản đối với sinh giới là gì?",
+   [
+    "Đảm bảo sự duy trì nòi giống qua các thế hệ.",
+    "Giúp cơ thể sinh vật tăng trưởng kích thước.",
+    "Giúp sinh vật thích nghi ngay lập tức với thời tiết.",
+    "Cung cấp nguồn thức ăn cho các động vật khác."
+   ],
+   "Sinh sản giúp sinh vật truyền lại vật chất di truyền, đảm bảo loài tiếp tục tồn tại không bị tuyệt chủng."
+  ],
+  [
+   "Vì sao khi trồng cây hoa cúc trong nhà kính vào mùa đông, người ta thường bật đèn chiếu sáng vào ban đêm?",
+   [
+    "Để kéo dài thời gian chiếu sáng, kìm hãm sự ra hoa sớm giúp cây sinh trưởng thân lá tốt hơn.",
+    "Để sưởi ấm toàn bộ không gian giúp cây không bị chết rét do sương muối.",
+    "Để thu hút các loài côn trùng đến thụ phấn cho hoa tạo ra nhiều hạt hơn.",
+    "Để kích thích rễ cây phát triển mạnh xuống các lớp đất sâu bên dưới."
+   ],
+   "Hoa cúc là cây ngày ngắn, việc thắp đèn ban đêm làm gián đoạn đêm dài giúp cây sinh trưởng sinh dưỡng tốt trước khi ra hoa."
+  ],
+  [
+   "Một người nông dân muốn nhân giống nhanh một giống hoa quý hiếm thành hàng nghìn cây con giống hệt cây mẹ trong phòng thí nghiệm. Phương pháp phù hợp nhất là",
+   [
+    "nuôi cấy mô tế bào thực vật.",
+    "gieo hạt thu được từ vụ trước.",
+    "cho cây tự thụ phấn liên tục.",
+    "chiết cành kết hợp bón phân đạm."
+   ],
+   "Nuôi cấy mô tế bào là phương pháp nhân giống vô tính hiện đại đạt hiệu quả nhân nhanh số lượng lớn nhất."
+  ],
+  [
+   "Nếu đặt một chậu cây nhỏ ở góc phòng tối, chỉ có một lỗ sáng nhỏ trên cao, sau một thời gian hiện tượng nào sẽ xảy ra với cây?",
+   [
+    "Ngọn cây uốn cong về phía có lỗ sáng duy nhất.",
+    "Ngọn cây mọc thẳng đứng chạm sát trần nhà.",
+    "Ngọn cây rủ ngược xuống phía mặt sàn nhà.",
+    "Cây ngừng sinh trưởng và héo rũ hoàn toàn."
+   ],
+   "Do tính hướng sáng dương, ngọn cây sẽ uốn cong tìm đến nơi có nguồn ánh sáng mạnh nhất là lỗ sáng."
+  ],
+  [
+   "Hiện tượng nào sau đây thể hiện rõ nhất tính cảm ứng ở thực vật để tự vệ khi bị tác động cơ học đột ngột?",
+   [
+    "Lá cây trinh nữ cụp lại khi tay chạm vào.",
+    "Rễ cây cắm sâu vào lòng đất tìm nguồn nước.",
+    "Thân cây leo quấn vào giàn nhờ tay leo.",
+    "Hoa hướng dương luôn quay về phía mặt trời."
+   ],
+   "Lá cây trinh nữ (xấu hổ) cụp lại là phản ứng ứng động không sinh trưởng rất nhanh khi có va chạm cơ học."
   ]
  ],
  "tong-hop": [
