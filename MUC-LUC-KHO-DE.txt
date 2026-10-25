@@ -1,0 +1,562 @@
+﻿MỤC LỤC KHO ĐỀ – mã lớp-môn và mã chương để điền vào câu lệnh cho Gemini
+=====================================================================
+
+1-toan   (Toán lớp 1)
+   c1        Các số từ 0 đến 10
+   c2        Hình phẳng và khối hình quen thuộc
+   c3        Phép cộng, phép trừ trong phạm vi 10
+   c4        Các số đến 100
+   c5        Độ dài và đo độ dài
+   c6        Cộng, trừ (không nhớ) trong phạm vi 100
+   c7        Thời gian: xem giờ, các ngày trong tuần
+   tong-hop  Ôn tập tổng hợp cả năm
+
+1-tiengviet   (Tiếng Việt lớp 1)
+   c1        Âm và chữ cái
+   c2        Dấu thanh
+   c3        Vần
+   c4        Chính tả
+   c5        Từ và câu
+   c6        Đọc hiểu đoạn ngắn
+   tong-hop  Ôn tập tổng hợp cả năm
+
+1-tienganh   (Tiếng Anh lớp 1)
+   c1        Chào hỏi và giới thiệu
+   c2        Đồ dùng học tập và lớp học
+   c3        Màu sắc và số đếm 1–10
+   c4        Gia đình
+   c5        Con vật
+   c6        Đồ chơi và đồ ăn
+   tong-hop  Ôn tập tổng hợp cả năm
+
+1-tnxh   (Tự nhiên và Xã hội lớp 1)
+   c1        Gia đình
+   c2        Trường học
+   c3        Cộng đồng địa phương
+   c4        Thực vật và động vật
+   c5        Con người và sức khỏe
+   c6        Trái Đất và bầu trời
+   tong-hop  Ôn tập tổng hợp cả năm
+
+2-toan   (Toán lớp 2)
+   c1        Ôn tập và bổ sung
+   c2        Cộng, trừ có nhớ trong phạm vi 20
+   c3        Đơn vị ki-lô-gam, lít
+   c4        Cộng, trừ có nhớ trong phạm vi 100
+   c5        Hình phẳng: đường thẳng, đường cong, hình tứ giác
+   c6        Ngày – giờ, giờ – phút, ngày – tháng
+   c7        Phép nhân, phép chia
+   c8        Các số trong phạm vi 1000
+   c9        Độ dài: đề-xi-mét, mét, ki-lô-mét
+   c10       Cộng, trừ trong phạm vi 1000
+   c11       Làm quen với thống kê, xác suất; tiền Việt Nam
+   tong-hop  Ôn tập tổng hợp cả năm
+
+2-tiengviet   (Tiếng Việt lớp 2)
+   c1        Từ chỉ sự vật, hoạt động, đặc điểm
+   c2        Câu giới thiệu, câu nêu hoạt động, câu nêu đặc điểm
+   c3        Dấu câu
+   c4        Từ ngữ theo chủ đề
+   c5        Từ có nghĩa giống nhau, trái nghĩa
+   c6        Chính tả
+   c7        Đọc hiểu
+   tong-hop  Ôn tập tổng hợp cả năm
+
+2-tienganh   (Tiếng Anh lớp 2)
+   c1        Trường học và lớp học
+   c2        Gia đình và ngôi nhà
+   c3        Màu sắc, hình dạng, số đếm 1–20
+   c4        Đồ ăn, đồ uống
+   c5        Con vật và thiên nhiên
+   c6        Hoạt động và thời tiết
+   tong-hop  Ôn tập tổng hợp cả năm
+
+2-tnxh   (Tự nhiên và Xã hội lớp 2)
+   c1        Gia đình
+   c2        Trường học
+   c3        Cộng đồng địa phương
+   c4        Thực vật và động vật
+   c5        Con người và sức khỏe
+   c6        Trái Đất và bầu trời
+   tong-hop  Ôn tập tổng hợp cả năm
+
+3-toan   (Toán lớp 3)
+   c1        Ôn tập và bổ sung
+   c2        Bảng nhân, bảng chia
+   c3        Làm quen với hình phẳng, hình khối
+   c4        Phép nhân, phép chia trong phạm vi 100
+   c5        Đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ
+   c6        Phép nhân, phép chia trong phạm vi 1000
+   c8        Các số đến 10 000
+   c9        Chu vi, diện tích một số hình phẳng
+   c10       Cộng, trừ trong phạm vi 10 000
+   c11       Các số đến 100 000
+   c12       Cộng, trừ trong phạm vi 100 000
+   c13       Xem đồng hồ. Tháng – năm. Tiền Việt Nam
+   c14       Nhân, chia trong phạm vi 100 000
+   c15       Làm quen với thống kê, xác suất
+   tong-hop  Ôn tập tổng hợp cả năm
+
+3-tiengviet   (Tiếng Việt lớp 3)
+   c1        Từ chỉ sự vật, hoạt động, đặc điểm
+   c2        Biện pháp so sánh
+   c3        Các kiểu câu
+   c4        Dấu câu
+   c5        Từ có nghĩa giống nhau, trái nghĩa
+   c6        Chính tả
+   c7        Đọc hiểu
+   tong-hop  Ôn tập tổng hợp cả năm
+
+3-tienganh   (Tiếng Anh lớp 3)
+   u1        Unit 1: Hello
+   u2        Unit 2: Our names
+   u3        Unit 3: Our friends
+   u4        Unit 4: Our bodies
+   u5        Unit 5: My hobbies
+   u6        Unit 6: Our school
+   u7        Unit 7: Classroom instructions
+   u8        Unit 8: My school things
+   u9        Unit 9: Colours
+   u10       Unit 10: Break time activities
+   u11       Unit 11: My family
+   u12       Unit 12: Jobs
+   u13       Unit 13: My house
+   u14       Unit 14: My bedroom
+   u15       Unit 15: At the dining table
+   u16       Unit 16: My pets
+   u17       Unit 17: Our toys
+   u18       Unit 18: Playing and doing
+   u19       Unit 19: Outdoor activities
+   u20       Unit 20: At the zoo
+   tong-hop  Ôn tập tổng hợp cả năm
+
+3-tnxh   (Tự nhiên và Xã hội lớp 3)
+   c1        Gia đình
+   c2        Trường học
+   c3        Cộng đồng địa phương
+   c4        Thực vật và động vật
+   c5        Con người và sức khỏe
+   c6        Trái Đất và bầu trời
+   tong-hop  Ôn tập tổng hợp cả năm
+
+3-tinhoc   (Tin học lớp 3)
+   c1        Máy tính và em
+   c2        Thông tin và xử lí thông tin
+   c3        Mạng máy tính và Internet
+   c4        Tổ chức lưu trữ và tìm kiếm
+   c5        Đạo đức, pháp luật khi dùng máy tính
+   c6        Ứng dụng tin học
+   c7        Giải quyết vấn đề với máy tính
+   tong-hop  Ôn tập tổng hợp cả năm
+
+4-toan   (Toán lớp 4)
+   c1        Số có nhiều chữ số
+   c2        Góc và đường thẳng
+   c3        Phép cộng, phép trừ
+   c4        Đơn vị đo đại lượng
+   c5        Phép nhân, phép chia
+   c6        Số trung bình cộng; tổng và hiệu
+   c7        Hình bình hành, hình thoi
+   c8        Biểu đồ cột, dãy số liệu
+   c9        Phân số
+   c10       Các phép tính với phân số
+   tong-hop  Ôn tập tổng hợp cả năm
+
+4-tiengviet   (Tiếng Việt lớp 4)
+   c1        Danh từ
+   c2        Động từ, tính từ
+   c3        Câu và thành phần câu
+   c4        Biện pháp nhân hóa
+   c5        Dấu câu
+   c6        Thành ngữ, tục ngữ, mở rộng vốn từ
+   c7        Đọc hiểu
+   tong-hop  Ôn tập tổng hợp cả năm
+
+4-tienganh   (Tiếng Anh lớp 4)
+   c1        Unit 1: My friends
+   c2        Unit 2: Time and daily routines
+   c3        Unit 3: My week
+   c4        Unit 4: My birthday party
+   c5        Unit 5: Things we can do
+   c6        Unit 6: Our school facilities
+   c7        Unit 7: Our timetables
+   c8        Unit 8: My favourite subjects
+   c9        Unit 9: Our sports day
+   c10       Unit 10: Our summer holidays
+   c11       Unit 11: My home
+   c12       Unit 12: Jobs
+   c13       Unit 13: Appearance
+   c14       Unit 14: Daily activities
+   c15       Unit 15: My family's weekends
+   c16       Unit 16: Weather
+   c17       Unit 17: In the city
+   c18       Unit 18: At the shopping centre
+   c19       Unit 19: The animal world
+   c20       Unit 20: At summer camp
+   tong-hop  Ôn tập tổng hợp cả năm
+
+4-khoahoc   (Khoa học lớp 4)
+   c1        Nước
+   c2        Không khí
+   c3        Năng lượng: ánh sáng, âm thanh, nhiệt
+   c4        Thực vật và động vật
+   c5        Nấm
+   c6        Con người và sức khỏe
+   c7        Sinh vật và môi trường
+   tong-hop  Ôn tập tổng hợp cả năm
+
+4-lsdl   (Lịch sử và Địa lí lớp 4)
+   c1        Địa phương em
+   c2        Trung du và miền núi Bắc Bộ
+   c3        Đồng bằng Bắc Bộ
+   c4        Duyên hải miền Trung
+   c5        Tây Nguyên
+   c6        Nam Bộ
+   tong-hop  Ôn tập tổng hợp cả năm
+
+4-tinhoc   (Tin học lớp 4)
+   c1        Phần cứng và phần mềm
+   c2        Tìm kiếm thông tin trên Internet
+   c3        Tổ chức và lưu trữ
+   c4        Bản quyền và đạo đức
+   c5        Soạn thảo văn bản và trình chiếu
+   c6        Lập trình trực quan (Scratch)
+   tong-hop  Ôn tập tổng hợp cả năm
+
+5-toan   (Toán lớp 5)
+   c1        Ôn tập và bổ sung về phân số
+   c2        Số thập phân
+   c3        Các phép tính với số thập phân
+   c4        Tỉ số phần trăm
+   c5        Hình tam giác, hình thang, hình tròn
+   c6        Thể tích; hình hộp chữ nhật, hình lập phương
+   c7        Số đo thời gian; toán chuyển động đều
+   c8        Một số yếu tố thống kê và xác suất
+   tong-hop  Ôn tập tổng hợp cả năm
+
+5-tiengviet   (Tiếng Việt lớp 5)
+   c1        Từ đồng nghĩa, trái nghĩa
+   c2        Từ đồng âm, từ nhiều nghĩa
+   c3        Đại từ, kết từ
+   c4        Câu ghép
+   c5        Liên kết câu
+   c6        Biện pháp tu từ, dấu câu
+   c7        Đọc hiểu
+   tong-hop  Ôn tập tổng hợp cả năm
+
+5-tienganh   (Tiếng Anh lớp 5)
+   c1        Unit 1: All about me!
+   c2        Unit 2: Our homes
+   c3        Unit 3: My foreign friends
+   c4        Unit 4: Our free-time activities
+   c5        Unit 5: My future job
+   c6        Unit 6: Our school rooms
+   c7        Unit 7: Our favourite school activities
+   c8        Unit 8: In our classroom
+   c9        Unit 9: Our outdoor activities
+   c10       Unit 10: Our school trip
+   c11       Unit 11: Family time
+   c12       Unit 12: Our Tet holiday
+   c13       Unit 13: Our special days
+   c14       Unit 14: Staying healthy
+   c15       Unit 15: Our health
+   c16       Unit 16: Seasons and the weather
+   c17       Unit 17: Stories for children
+   c18       Unit 18: Means of transport
+   c19       Unit 19: Places of interest
+   c20       Unit 20: Our summer holidays
+   tong-hop  Ôn tập tổng hợp cả năm
+
+5-khoahoc   (Khoa học lớp 5)
+   c1        Chất
+   c2        Năng lượng
+   c3        Thực vật và động vật
+   c4        Vi khuẩn
+   c5        Con người và sức khỏe
+   c6        Sinh vật và môi trường
+   tong-hop  Ôn tập tổng hợp cả năm
+
+5-lsdl   (Lịch sử và Địa lí lớp 5)
+   c1        Đất nước và con người Việt Nam
+   c2        Những quốc gia đầu tiên trên lãnh thổ Việt Nam
+   c3        Xây dựng và bảo vệ đất nước (thời phong kiến)
+   c4        Xây dựng và bảo vệ đất nước (thời hiện đại)
+   c5        Các nước láng giềng
+   c6        Tìm hiểu thế giới
+   tong-hop  Ôn tập tổng hợp cả năm
+
+5-tinhoc   (Tin học lớp 5)
+   c1        Máy tính trong đời sống
+   c2        Tìm kiếm và chọn lọc thông tin
+   c3        Tổ chức lưu trữ, ứng xử trên mạng
+   c4        Soạn thảo văn bản
+   c5        Lập trình trực quan (Scratch)
+   tong-hop  Ôn tập tổng hợp cả năm
+
+6-toan   (Toán lớp 6)
+   c1        Tập hợp các số tự nhiên
+   c2        Tính chia hết trong tập hợp số tự nhiên
+   c3        Số nguyên
+   c4        Một số hình phẳng trong thực tiễn
+   c5        Tính đối xứng của hình phẳng
+   c6        Phân số
+   c7        Số thập phân
+   c8        Những hình hình học cơ bản
+   c9        Dữ liệu và xác suất thực nghiệm
+   tong-hop  Ôn tập tổng hợp cả năm
+
+6-nguvan   (Ngữ văn lớp 6)
+   c1        Truyện truyền thuyết, cổ tích
+   c2        Thơ lục bát và thơ có yếu tố tự sự, miêu tả
+   c3        Kí: hồi kí, du kí
+   c4        Văn bản nghị luận, văn bản thông tin
+   c5        Từ và cấu tạo từ
+   c6        Biện pháp tu từ
+   c7        Cụm từ và dấu câu
+   tong-hop  Ôn tập tổng hợp cả năm
+
+6-tienganh   (Tiếng Anh lớp 6)
+   c1        Unit 1: My new school
+   c2        Unit 2: My house
+   c3        Unit 3: My friends
+   c4        Unit 4: My neighbourhood
+   c5        Unit 5: Natural wonders of Viet Nam
+   c6        Unit 6: Our Tet holiday
+   c7        Unit 7: Television
+   c8        Unit 8: Sports and games
+   c9        Unit 9: Cities of the world
+   c10       Unit 10: Our houses in the future
+   c11       Unit 11: Our greener world
+   c12       Unit 12: Robots
+   tong-hop  Ôn tập tổng hợp cả năm
+
+6-khtn   (Khoa học tự nhiên lớp 6)
+   c1        Mở đầu và các phép đo
+   c2        Các thể của chất
+   c3        Vật liệu, nhiên liệu, nguyên liệu, lương thực – thực phẩm
+   c4        Hỗn hợp và tách chất
+   c5        Tế bào và cơ thể
+   c6        Đa dạng thế giới sống
+   c7        Lực
+   c8        Năng lượng
+   c9        Trái Đất và bầu trời
+   tong-hop  Ôn tập tổng hợp cả năm
+
+6-lsdl   (Lịch sử và Địa lí lớp 6)
+   c1        Lịch sử: xã hội nguyên thủy và cổ đại
+   c2        Lịch sử: Đông Nam Á cổ đại
+   c3        Lịch sử: Việt Nam từ nguồn gốc đến thế kỉ X
+   c4        Địa lí: bản đồ và Trái Đất
+   c5        Địa lí: cấu tạo Trái Đất, vỏ Trái Đất
+   c6        Địa lí: khí hậu và nước trên Trái Đất
+   c7        Địa lí: đất, sinh vật và con người
+   tong-hop  Ôn tập tổng hợp cả năm
+
+6-tinhoc   (Tin học lớp 6)
+   c1        Máy tính và cộng đồng
+   c2        Mạng máy tính và Internet
+   c3        Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin
+   c4        Đạo đức, pháp luật và văn hóa số
+   c5        Ứng dụng tin học
+   c6        Giải quyết vấn đề với máy tính
+   tong-hop  Ôn tập tổng hợp cả năm
+
+7-toan   (Toán lớp 7)
+   c1        Số hữu tỉ
+   c2        Số thực
+   c3        Góc và đường thẳng song song
+   c4        Tam giác bằng nhau
+   c5        Thu thập và biểu diễn dữ liệu
+   c6        Tỉ lệ thức và đại lượng tỉ lệ
+   c7        Biểu thức đại số và đa thức một biến
+   c8        Biến cố và xác suất
+   c9        Quan hệ giữa các yếu tố trong tam giác
+   c10       Một số hình khối trong thực tiễn
+   tong-hop  Ôn tập tổng hợp cả năm
+
+7-nguvan   (Ngữ văn lớp 7)
+   c1        Truyện ngắn, tiểu thuyết
+   c2        Thơ bốn chữ, năm chữ
+   c3        Truyện ngụ ngôn, tục ngữ
+   c4        Văn bản nghị luận, văn bản thông tin
+   c5        Tùy bút, tản văn
+   c6        Từ loại và thành phần câu
+   c7        Biện pháp tu từ và nghĩa của từ
+   tong-hop  Ôn tập tổng hợp cả năm
+
+7-tienganh   (Tiếng Anh lớp 7)
+   u1        Unit 1: Hobbies
+   u2        Unit 2: Healthy living
+   u3        Unit 3: Community service
+   u4        Unit 4: Music and arts
+   u5        Unit 5: Food and drink
+   u6        Unit 6: A visit to a school
+   u7        Unit 7: Traffic
+   u8        Unit 8: Films
+   u9        Unit 9: Festivals around the world
+   u10       Unit 10: Energy sources
+   u11       Unit 11: Travelling in the future
+   u12       Unit 12: English-speaking countries
+   tong-hop  Ôn tập tổng hợp cả năm
+
+7-khtn   (Khoa học tự nhiên lớp 7)
+   c1        Nguyên tử, nguyên tố hóa học
+   c2        Phân tử và liên kết hóa học
+   c3        Tốc độ
+   c4        Âm thanh
+   c5        Ánh sáng
+   c6        Từ
+   c7        Trao đổi chất và chuyển hóa năng lượng
+   c8        Cảm ứng, sinh trưởng và sinh sản ở sinh vật
+   tong-hop  Ôn tập tổng hợp cả năm
+
+7-lsdl   (Lịch sử và Địa lí lớp 7)
+   c1        Lịch sử: châu Âu và thế giới thời trung đại
+   c2        Lịch sử: Đông Nam Á thế kỉ X–XVI
+   c3        Lịch sử: Việt Nam thế kỉ X–XV
+   c4        Địa lí: châu Âu
+   c5        Địa lí: châu Á
+   c6        Địa lí: châu Phi, châu Mỹ, châu Đại Dương, châu Nam Cực
+   tong-hop  Ôn tập tổng hợp cả năm
+
+7-tinhoc   (Tin học lớp 7)
+   c1        Máy tính và cộng đồng
+   c2        Mạng xã hội và giao tiếp trên mạng
+   c3        Bảng tính điện tử
+   c4        Phần mềm trình chiếu
+   c5        Giải quyết vấn đề: tìm kiếm và sắp xếp
+   tong-hop  Ôn tập tổng hợp cả năm
+
+8-toan   (Toán lớp 8)
+   c1        Đa thức
+   c2        Hằng đẳng thức đáng nhớ và ứng dụng
+   c3        Tứ giác
+   c4        Định lí Thalès
+   c5        Dữ liệu và biểu đồ
+   c6        Phân thức đại số
+   c7        Phương trình bậc nhất và hàm số bậc nhất
+   c8        Tam giác đồng dạng
+   c9        Một số hình khối trong thực tiễn
+   c10       Mở đầu về xác suất
+   tong-hop  Ôn tập tổng hợp cả năm
+
+8-nguvan   (Ngữ văn lớp 8)
+   c1        Truyện lịch sử, tiểu thuyết
+   c2        Thơ Đường luật
+   c3        Hài kịch, truyện cười
+   c4        Văn bản nghị luận, văn bản thông tin
+   c5        Từ ngữ
+   c6        Câu và đoạn văn
+   c7        Nghĩa của câu và các từ loại khác
+   tong-hop  Ôn tập tổng hợp cả năm
+
+8-tienganh   (Tiếng Anh lớp 8)
+   c1        Unit 1: Leisure time
+   c2        Unit 2: Life in the countryside
+   c3        Unit 3: Teenagers
+   c4        Unit 4: Ethnic groups of Viet Nam
+   c5        Unit 5: Our customs and traditions
+   c6        Unit 6: Lifestyles
+   c7        Unit 7: Environmental protection
+   c8        Unit 8: Shopping
+   c9        Unit 9: Natural disasters
+   c10       Unit 10: Communication in the future
+   c11       Unit 11: Science and technology
+   c12       Unit 12: Life on other planets
+   tong-hop  Ôn tập tổng hợp cả năm
+
+8-khtn   (Khoa học tự nhiên lớp 8)
+   c1        Phản ứng hóa học
+   c2        Acid, base, pH, oxide, muối
+   c3        Khối lượng riêng và áp suất
+   c4        Tác dụng làm quay của lực
+   c5        Điện
+   c6        Nhiệt
+   c7        Sinh học cơ thể người
+   c8        Sinh vật và môi trường
+   tong-hop  Ôn tập tổng hợp cả năm
+
+8-lsdl   (Lịch sử và Địa lí lớp 8)
+   c1        Lịch sử: thế giới thế kỉ XVI–XIX
+   c2        Lịch sử: Việt Nam thế kỉ XVI–XVIII
+   c3        Lịch sử: thế giới đầu thế kỉ XX
+   c4        Lịch sử: Việt Nam thế kỉ XIX – đầu thế kỉ XX
+   c5        Địa lí: tự nhiên Việt Nam
+   c6        Địa lí: biển đảo Việt Nam
+   tong-hop  Ôn tập tổng hợp cả năm
+
+8-tinhoc   (Tin học lớp 8)
+   c1        Lịch sử máy tính và thế giới số
+   c2        Đạo đức, pháp luật và văn hóa số
+   c3        Bảng tính nâng cao
+   c4        Soạn thảo và trình chiếu nâng cao
+   c5        Lập trình trực quan
+   tong-hop  Ôn tập tổng hợp cả năm
+
+9-toan   (Toán lớp 9)
+   c1        Phương trình và hệ hai phương trình bậc nhất hai ẩn
+   c2        Phương trình và bất phương trình bậc nhất một ẩn
+   c3        Căn bậc hai và căn bậc ba
+   c4        Hệ thức lượng trong tam giác vuông
+   c5        Đường tròn
+   c6        Đường tròn ngoại tiếp, nội tiếp; đa giác đều
+   c7        Hàm số y = ax² và phương trình bậc hai một ẩn
+   c8        Tần số và tần số tương đối
+   c9        Xác suất của biến cố trong mô hình xác suất đơn giản
+   c10       Hình trụ, hình nón, hình cầu
+   tong-hop  Ôn tập tổng hợp cả năm
+
+9-nguvan   (Ngữ văn lớp 9)
+   c1        Truyện truyền kì, truyện trinh thám
+   c2        Truyện thơ Nôm
+   c3        Thơ song thất lục bát, thơ tám chữ
+   c4        Văn bản nghị luận và thông tin
+   c5        Bi kịch
+   c6        Từ ngữ và biện pháp tu từ
+   c7        Câu
+   tong-hop  Ôn tập tổng hợp cả năm
+
+9-tienganh   (Tiếng Anh lớp 9)
+   c1        Unit 1: Local community
+   c2        Unit 2: City life
+   c3        Unit 3: Healthy living for teens
+   c4        Unit 4: Remembering the past
+   c5        Unit 5: Our experiences
+   c6        Unit 6: Vietnamese lifestyle: then and now
+   c7        Unit 7: Natural wonders of the world
+   c8        Unit 8: Tourism
+   c9        Unit 9: World Englishes
+   c10       Unit 10: Planet Earth
+   c11       Unit 11: Electronic devices
+   c12       Unit 12: Career choices
+   tong-hop  Ôn tập tổng hợp cả năm
+
+9-khtn   (Khoa học tự nhiên lớp 9)
+   c1        Năng lượng cơ học
+   c2        Ánh sáng
+   c3        Điện
+   c4        Điện từ và năng lượng với cuộc sống
+   c5        Kim loại
+   c6        Hợp chất hữu cơ, hydrocarbon và nhiên liệu
+   c7        Ethylic alcohol, acetic acid, lipid, carbohydrate, protein, polymer
+   c8        Di truyền
+   c9        Tiến hóa
+   tong-hop  Ôn tập tổng hợp cả năm
+
+9-lsdl   (Lịch sử và Địa lí lớp 9)
+   c1        Lịch sử: thế giới 1918–1945
+   c2        Lịch sử: Việt Nam 1918–1945
+   c3        Lịch sử: thế giới 1945 – nay
+   c4        Lịch sử: Việt Nam 1945 – nay
+   c5        Địa lí: dân cư và các ngành kinh tế Việt Nam
+   c6        Địa lí: các vùng kinh tế
+   tong-hop  Ôn tập tổng hợp cả năm
+
+9-tinhoc   (Tin học lớp 9)
+   c1        Thế giới kĩ thuật số
+   c2        Tìm kiếm và đánh giá thông tin
+   c3        Đạo đức, pháp luật và văn hóa số
+   c4        Bảng tính nâng cao
+   c5        Phần mềm mô phỏng và video
+   c6        Giải quyết vấn đề với sự trợ giúp của máy tính
+   tong-hop  Ôn tập tổng hợp cả năm

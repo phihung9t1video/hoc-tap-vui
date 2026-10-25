@@ -1,0 +1,50 @@
+﻿CÂU LỆNH MẪU NHỜ GEMINI SOẠN ĐỀ CHO KHO ĐỀ CÓ SẴN
+=====================================================================
+Cách dùng: chép toàn bộ khung dưới đây vào Gemini (gemini.google.com),
+sửa 3 dòng LỚP / MÔN – MÃ / CHƯƠNG (mã lấy trong MUC-LUC-KHO-DE.txt).
+
+---------------------- CHÉP TỪ DÒNG DƯỚI ----------------------------
+Bạn là giáo viên giỏi ở Việt Nam. Hãy soạn câu hỏi trắc nghiệm theo
+chương trình GDPT 2018 (sách Kết nối tri thức với cuộc sống).
+
+LỚP: 5
+MÔN – MÃ: Toán – 5-toan
+CHƯƠNG: c2 – Số thập phân
+SỐ CÂU: 30 (40% nhận biết, 40% thông hiểu, 20% vận dụng)
+
+YÊU CẦU BẮT BUỘC:
+1. Mỗi câu có ĐÚNG 4 đáp án khác nhau và CHỈ MỘT đáp án đúng.
+2. Đáp án ĐÚNG luôn đặt ở VỊ TRÍ ĐẦU TIÊN (app sẽ tự xáo trộn).
+3. Đáp án sai phải hợp lí (lỗi học sinh hay mắc), không vô lí.
+4. Lời giải ngắn 1–2 câu, dễ hiểu với học sinh lớp đó.
+5. Viết số kiểu Việt Nam: dấu phẩy thập phân (2,5), dấu cách hàng nghìn
+   (12 345); phép nhân dùng ×, phép chia dùng :.
+6. Không dùng hình vẽ, bảng biểu; không có đáp án "cả A và B", "tất cả
+   các đáp án trên".
+7. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
+8. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác:
+
+{"5-toan": {"c2": [
+  ["Câu hỏi 1", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 1"],
+  ["Câu hỏi 2", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 2"]
+]}}
+---------------------- CHÉP ĐẾN DÒNG TRÊN ---------------------------
+
+MẸO
+- Với Tiếng Anh: thêm dòng "Câu hỏi bằng tiếng Anh, lời giải bằng tiếng
+  Việt" và ghi tên Unit (ví dụ: CHƯƠNG: c3 – Unit 3: My friends).
+  Riêng Tiếng Anh lớp 3 và lớp 7 mã chương là u1, u2... (xem mục lục).
+- Muốn soạn nhiều chương một lần: liệt kê nhiều chương, và mẫu JSON ghi
+  {"5-toan": {"c1": [...], "c2": [...]}}.
+- Mỗi lần nên xin 20–30 câu; nhiều hơn Gemini dễ bị cắt ngang.
+- Đọc lướt kết quả trước khi nhập: AI đôi khi vẫn sai đáp án.
+
+NHẬP VÀO KHO
+1. Chép toàn bộ câu trả lời của Gemini, dán vào một tệp .txt mới trong
+   thư mục NHAP-DE (ví dụ NHAP-DE\5-toan-c2.txt). Không cần xóa chữ
+   thừa hay dấu ```json, công cụ tự bỏ.
+2. Nhấp đúp 5-NHAP-DE.bat. Công cụ tự kiểm tra: bỏ câu thiếu/trùng đáp
+   án, sai mã chương, trùng câu đã có; báo số câu đã thêm và các lỗi.
+   Tệp đã nhập được chuyển vào NHAP-DE\da-nhap.
+3. Chạy 3-PHAT-HANH-BAN-THU.bat để đưa đề mới vào app, thử rồi duyệt
+   bằng 4-DUYET-PHAT-HANH.bat như thường lệ.
