@@ -1001,6 +1001,206 @@
     "x = 8 hoặc x = 4"
    ],
    "x − (−6) = 2 hoặc x − (−6) = −2."
+  ],
+  [
+   "Số nào sau đây biểu diễn số hữu tỉ -3/4?",
+   [
+    "-6/8",
+    "3/(-4)",
+    "6/8",
+    "-4/3"
+   ],
+   "Ta có -3/4 = (-3 × 2)/(4 × 2) = -6/8."
+  ],
+  [
+   "Trong các số sau, số nào không phải là số hữu tỉ?",
+   [
+    "√3",
+    "0",
+    "-2,5",
+    "7/9"
+   ],
+   "√3 là số thập phân vô hạn không tuần hoàn nên là số vô tỉ, không phải số hữu tỉ."
+  ],
+  [
+   "Kết quả của phép tính (-2/3) × 9/4 là:",
+   [
+    "-3/2",
+    "3/2",
+    "-18/12",
+    "-8/27"
+   ],
+   "Rút gọn tử và mẫu: (-2 × 9)/(3 × 4) = (-1 × 3)/(1 × 2) = -3/2."
+  ],
+  [
+   "Điểm A trên trục số biểu diễn số hữu tỉ nào nếu A nằm bên trái gốc O và cách O một khoảng bằng 1,5 đơn vị?",
+   [
+    "-1,5",
+    "1,5",
+    "-3",
+    "0,5"
+   ],
+   "Nằm bên trái gốc O trên trục số nên mang giá trị âm, do đó điểm A biểu diễn số -1,5."
+  ],
+  [
+   "Khẳng định nào sau đây là sai?",
+   [
+    "|-2,5| = -2,5",
+    "|-2,5| = 2,5",
+    "|0| = 0",
+    "|2,5| = 2,5"
+   ],
+   "Giá trị tuyệt đối của một số luôn là số không âm, nên |-2,5| = 2,5 mới là khẳng định đúng."
+  ],
+  [
+   "Cho a = 2³ × 2², kết quả dưới dạng một lũy thừa là:",
+   [
+    "2⁵",
+    "2⁶",
+    "4⁵",
+    "4⁶"
+   ],
+   "Giữ nguyên cơ số và cộng các số mũ: 2³⁺² = 2⁵."
+  ],
+  [
+   "Cho b = (3²)⁴, kết quả dưới dạng một lũy thừa là:",
+   [
+    "3⁸",
+    "3⁶",
+    "9⁴",
+    "3²"
+   ],
+   "Giữ nguyên cơ số và nhân các số mũ: 3^(2 × 4) = 3⁸."
+  ],
+  [
+   "Số thập phân vô hạn tuần hoàn 0,(3) được viết dưới dạng phân số tối giản là:",
+   [
+    "1/3",
+    "3/10",
+    "3/9",
+    "1/30"
+   ],
+   "Ta có 0,(3) = 3/9 = 1/3."
+  ],
+  [
+   "Hai góc kề bù ∠AOB và ∠BOC có tổng số đo bằng:",
+   [
+    "180°",
+    "90°",
+    "360°",
+    "120°"
+   ],
+   "Theo định nghĩa, hai góc kề bù luôn có tổng số đo bằng 180°."
+  ],
+  [
+   "Cho tia Ot là tia phân giác của góc ∠xOy. Biết ∠xOy = 80°, số đo góc ∠xOt là:",
+   [
+    "40°",
+    "80°",
+    "160°",
+    "20°"
+   ],
+   "Tia phân giác chia góc thành hai góc bằng nhau nên ∠xOt = 80° : 2 = 40°."
+  ],
+  [
+   "Thực hiện phép tính 2/3 - (-1/6), ta được kết quả là:",
+   [
+    "5/6",
+    "1/6",
+    "1/3",
+    "-5/6"
+   ],
+   "Chuyển thành phép cộng: 2/3 + 1/6 = 4/6 + 1/6 = 5/6."
+  ],
+  [
+   "Thực hiện phép tính (-3/5) : 9/10, ta được kết quả là:",
+   [
+    "-2/3",
+    "2/3",
+    "-27/50",
+    "-3/2"
+   ],
+   "Nhân với phân số đảo ngược: (-3/5) × 10/9 = (-3 × 10)/(5 × 9) = -2/3."
+  ],
+  [
+   "Tìm x, biết: |x| - 1,2 = 2,8",
+   [
+    "x = 4  hoặc  x = -4",
+    "x = 4",
+    "x = 1,6",
+    "x = -1,6"
+   ],
+   "Ta có |x| = 2,8 + 1,2 = 4, suy ra x = 4 hoặc x = -4."
+  ],
+  [
+   "Giá trị của biểu thức M = √(25) - √(16) là:",
+   [
+    "1",
+    "9",
+    "7",
+    "-1"
+   ],
+   "Ta có √(25) = 5 và √(16) = 4, do đó M = 5 - 4 = 1."
+  ],
+  [
+   "Một hình hộp chữ nhật có chiều dài 5 cm, chiều rộng 4 cm, chiều cao 3 cm. Thể tích của hình hộp chữ nhật đó là:",
+   [
+    "60 cm³",
+    "94 cm³",
+    "20 cm³",
+    "12 cm³"
+   ],
+   "Thể tích hình hộp chữ nhật là V = 5 × 4 × 3 = 60  cm³."
+  ],
+  [
+   "Diện tích xung quanh của một hình lập phương có cạnh bằng 3 cm là:",
+   [
+    "36 cm²",
+    "54 cm²",
+    "27 cm³",
+    "9 cm²"
+   ],
+   "Diện tích xung quanh hình lập phương bằng diện tích một mặt nhân với 4: 4 × 3² = 36  cm²."
+  ],
+  [
+   "Từ tỉ lệ thức a/b = c/d (với a, b, c, d ≠ 0), ta suy ra đẳng thức nào sau đây?",
+   [
+    "a × d = b × c",
+    "a × c = b × d",
+    "a × b = c × d",
+    "a + d = b + c"
+   ],
+   "Theo tính chất cơ bản của tỉ lệ thức, tích ngoại tỉ bằng tích trung tỉ: a × d = b × c."
+  ],
+  [
+   "Tìm x trong tỉ lệ thức x/6 = 5/2:",
+   [
+    "15",
+    "12",
+    "7,5",
+    "5"
+   ],
+   "Ta có x = (6 × 5)/2 = 15."
+  ],
+  [
+   "Tính bằng cách hợp lý: A = 5/11 × 2,7 + 5/11 × 8,3",
+   [
+    "5",
+    "5,5",
+    "11",
+    "27"
+   ],
+   "Áp dụng tính chất phân phối: 5/11 × (2,7 + 8,3) = 5/11 × 11 = 5."
+  ],
+  [
+   "Một căn phòng hình hộp chữ nhật có chiều dài 6 m, chiều rộng 4 m và chiều cao 3 m. Người ta muốn sơn bốn bức tường bên trong căn phòng (không sơn cửa). Biết tổng diện tích các cửa là 8 m². Diện tích cần sơn là:",
+   [
+    "52 m²",
+    "60 m²",
+    "24 m²",
+    "44 m²"
+   ],
+   "Diện tích xung quanh phòng là (6 + 4) × 2 × 3 = 60  m². Diện tích cần sơn là 60 - 8 = 52  m²."
   ]
  ],
  "c3": [

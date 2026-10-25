@@ -1,0 +1,62 @@
+﻿CÂU LỆNH MẪU – TIẾNG ANH LỚP 4  (mã 4-tienganh)
+=====================================================================
+CÁCH DÙNG
+1. Chọn một chương trong danh sách bên dưới, sửa DÒNG CHƯƠNG trong câu
+   lệnh (chép nguyên mã và tên chương, ví dụ "c1 – Unit 1: My friends").
+2. Chép toàn bộ phần giữa hai dòng "-----" đưa vào Gemini.
+3. Gemini trả lời xong: chép toàn bộ câu trả lời, dán vào một tệp .txt
+   mới trong thư mục NHAP-DE (đặt tên tùy ý, ví dụ 4-tienganh-c1.txt).
+4. Gom đủ vài tệp thì nhấp đúp 5-NHAP-DE.bat để nhập vào kho.
+
+CÁC CHƯƠNG (mã – tên)
+   c1        Unit 1: My friends
+   c2        Unit 2: Time and daily routines
+   c3        Unit 3: My week
+   c4        Unit 4: My birthday party
+   c5        Unit 5: Things we can do
+   c6        Unit 6: Our school facilities
+   c7        Unit 7: Our timetables
+   c8        Unit 8: My favourite subjects
+   c9        Unit 9: Our sports day
+   c10       Unit 10: Our summer holidays
+   c11       Unit 11: My home
+   c12       Unit 12: Jobs
+   c13       Unit 13: Appearance
+   c14       Unit 14: Daily activities
+   c15       Unit 15: My family's weekends
+   c16       Unit 16: Weather
+   c17       Unit 17: In the city
+   c18       Unit 18: At the shopping centre
+   c19       Unit 19: The animal world
+   c20       Unit 20: At summer camp
+   tong-hop  Ôn tập tổng hợp cả năm
+
+---------------------- CHÉP TỪ DÒNG DƯỚI ----------------------------
+Bạn là giáo viên giỏi ở Việt Nam. Hãy soạn câu hỏi trắc nghiệm theo
+chương trình GDPT 2018 (sách Kết nối tri thức với cuộc sống / Global Success).
+
+LỚP: 4
+MÔN – MÃ: Tiếng Anh – 4-tienganh
+CHƯƠNG: c1 – Unit 1: My friends
+SỐ CÂU: 25 (40% nhận biết, 40% thông hiểu, 20% vận dụng)
+
+YÊU CẦU BẮT BUỘC:
+1. Mỗi câu có ĐÚNG 4 đáp án khác nhau và CHỈ MỘT đáp án đúng.
+2. Đáp án ĐÚNG luôn đặt ở VỊ TRÍ ĐẦU TIÊN (app sẽ tự xáo trộn).
+3. Đáp án sai phải hợp lí (lỗi học sinh hay mắc), không vô lí.
+4. Lời giải ngắn 1–2 câu, dễ hiểu với học sinh lớp 4.
+   - Câu hỏi và đáp án bằng tiếng Anh, lời giải bằng tiếng Việt (giải thích nghĩa, ngữ pháp).
+   - Gồm cả từ vựng, ngữ pháp, mẫu câu, chọn từ khác loại, phát âm – trọng âm (nếu hợp lớp).
+5. Không dùng hình vẽ, bảng biểu; không có đáp án "cả A và B", "tất cả
+   các đáp án trên".
+6. KHÔNG dùng LaTeX, không dùng dấu $ hay dấu \. Viết công thức bằng chữ
+   thường: phân số 3/5, mũ x², căn √9, góc ∠xOy, độ 60°.
+7. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
+8. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác. Giữ
+   nguyên "4-tienganh"; thay MÃ_CHƯƠNG bằng mã ở dòng CHƯƠNG (ví dụ c1):
+
+{"4-tienganh": {"MÃ_CHƯƠNG": [
+  ["Câu hỏi 1", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 1"],
+  ["Câu hỏi 2", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 2"]
+]}}
+---------------------- CHÉP ĐẾN DÒNG TRÊN ---------------------------

@@ -1,0 +1,22 @@
+{"7-toan": {"c2": [
+  ["Số nào sau đây biểu diễn số hữu tỉ $-\\frac{3}{4}$?", ["-\\frac{6}{8}", "\\frac{3}{-4}", "\\frac{6}{8}", "-\\frac{4}{3}"], "Ta có $-\\frac{3}{4} = \\frac{-3 \\times 2}{4 \\times 2} = -\\frac{6}{8}$."],
+  ["Trong các số sau, số nào không phải là số hữu tỉ?", ["\\sqrt{3}", "0", "-2,5", "\\frac{7}{9}"], "$\\sqrt{3}$ là số thập phân vô hạn không tuần hoàn nên là số vô tỉ, không phải số hữu tỉ."],
+  ["Kết quả của phép tính $\\left(-\\frac{2}{3}\\right) \\times \\frac{9}{4}$ là:", ["-\\frac{3}{2}", "\\frac{3}{2}", "-\\frac{18}{12}", "-\\frac{8}{27}"], "Rút gọn tử và mẫu: $\\frac{-2 \\times 9}{3 \\times 4} = \\frac{-1 \\times 3}{1 \\times 2} = -\\frac{3}{2}$."],
+  ["Điểm A trên trục số biểu diễn số hữu tỉ nào nếu A nằm bên trái gốc O và cách O một khoảng bằng 1,5 đơn vị?", ["-1,5", "1,5", "-3", "0,5"], "Nằm bên trái gốc O trên trục số nên mang giá trị âm, do đó điểm A biểu diễn số -1,5."],
+  ["Khẳng định nào sau đây là sai?", ["|-2,5| = -2,5", "|-2,5| = 2,5", "|0| = 0", "|2,5| = 2,5"], "Giá trị tuyệt đối của một số luôn là số không âm, nên $|-2,5| = 2,5$ mới là khẳng định đúng."],
+  ["Cho $a = 2^3 \\times 2^2$, kết quả dưới dạng một lũy thừa là:", ["2^5", "2^6", "4^5", "4^6"], "Giữ nguyên cơ số và cộng các số mũ: $2^{3+2} = 2^5$."],
+  ["Cho $b = (3^2)^4$, kết quả dưới dạng một lũy thừa là:", ["3^8", "3^6", "9^4", "3^2"], "Giữ nguyên cơ số và nhân các số mũ: $3^{2 \\times 4} = 3^8$."],
+  ["Số thập phân vô hạn tuần hoàn $0,(3)$ được viết dưới dạng phân số tối giản là:", ["\\frac{1}{3}", "\\frac{3}{10}", "\\frac{3}{9}", "\\frac{1}{30}"], "Ta có $0,(3) = \\frac{3}{9} = \\frac{1}{3}$."],
+  ["Hai góc kề bù $\\widehat{AOB}$ và $\\widehat{BOC}$ có tổng số đo bằng:", ["180^\\circ", "90^\\circ", "360^\\circ", "120^\\circ"], "Theo định nghĩa, hai góc kề bù luôn có tổng số đo bằng $180^\\circ$."],
+  ["Cho tia $Ot$ là tia phân giác của góc $\\widehat{xOy}$. Biết $\\widehat{xOy} = 80^\\circ$, số đo góc $\\widehat{xOt}$ là:", ["40^\\circ", "80^\\circ", "160^\\circ", "20^\\circ"], "Tia phân giác chia góc thành hai góc bằng nhau nên $\\widehat{xOt} = 80^\\circ : 2 = 40^\\circ$."],
+  ["Thực hiện phép tính $\\frac{2}{3} - \\left(-\\frac{1}{6}\\right)$, ta được kết quả là:", ["\\frac{5}{6}", "\\frac{1}{6}", "\\frac{1}{3}", "-\\frac{5}{6}"], "Chuyển thành phép cộng: $\\frac{2}{3} + \\frac{1}{6} = \\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}$."],
+  ["Thực hiện phép tính $\\left(-\\frac{3}{5}\\right) : \\frac{9}{10}$, ta được kết quả là:", ["-\\frac{2}{3}", "\\frac{2}{3}", "-\\frac{27}{50}", "-\\frac{3}{2}"], "Nhân với phân số đảo ngược: $\\left(-\\frac{3}{5}\\right) \\times \\frac{10}{9} = \\frac{-3 \\times 10}{5 \\times 9} = -\\frac{2}{3}$."],
+  ["Tìm $x$, biết: $|x| - 1,2 = 2,8$", ["x = 4 \\text{ hoặc } x = -4", "x = 4", "x = 1,6", "x = -1,6"], "Ta có $|x| = 2,8 + 1,2 = 4$, suy ra $x = 4$ hoặc $x = -4$."],
+  ["Giá trị của biểu thức $M = \\sqrt{25} - \\sqrt{16}$ là:", ["1", "9", "7", "-1"], "Ta có $\\sqrt{25} = 5$ và $\\sqrt{16} = 4$, do đó $M = 5 - 4 = 1$."],
+  ["Một hình hộp chữ nhật có chiều dài 5 cm, chiều rộng 4 cm, chiều cao 3 cm. Thể tích của hình hộp chữ nhật đó là:", ["60 cm^3", "94 cm^3", "20 cm^3", "12 cm^3"], "Thể tích hình hộp chữ nhật là $V = 5 \\times 4 \\times 3 = 60 \\text{ cm}^3$."],
+  ["Diện tích xung quanh của một hình lập phương có cạnh bằng 3 cm là:", ["36 cm^2", "54 cm^2", "27 cm^3", "9 cm^2"], "Diện tích xung quanh hình lập phương bằng diện tích một mặt nhân với 4: $4 \\times 3^2 = 36 \\text{ cm}^2$."],
+  ["Từ tỉ lệ thức $\\frac{a}{b} = \\frac{c}{d}$ (với $a, b, c, d \\ne 0$), ta suy ra đẳng thức nào sau đây?", ["a \\times d = b \\times c", "a \\times c = b \\times d", "a \\times b = c \\times d", "a + d = b + c"], "Theo tính chất cơ bản của tỉ lệ thức, tích ngoại tỉ bằng tích trung tỉ: $a \\times d = b \\times c$."],
+  ["Tìm x trong tỉ lệ thức $\\frac{x}{6} = \\frac{5}{2}$:", ["15", "12", "7,5", "5"], "Ta có $x = \\frac{6 \\times 5}{2} = 15$."],
+  ["Tính bằng cách hợp lý: $A = \\frac{5}{11} \\times 2,7 + \\frac{5}{11} \\times 8,3$", ["5", "5,5", "11", "27"], "Áp dụng tính chất phân phối: $\\frac{5}{11} \\times (2,7 + 8,3) = \\frac{5}{11} \\times 11 = 5$."],
+  ["Một căn phòng hình hộp chữ nhật có chiều dài 6 m, chiều rộng 4 m và chiều cao 3 m. Người ta muốn sơn bốn bức tường bên trong căn phòng (không sơn cửa). Biết tổng diện tích các cửa là 8 m². Diện tích cần sơn là:", ["52 m^2", "60 m^2", "24 m^2", "44 m^2"], "Diện tích xung quanh phòng là $(6 + 4) \\times 2 \\times 3 = 60 \\text{ m}^2$. Diện tích cần sơn là $60 - 8 = 52 \\text{ m}^2$."]
+]}}

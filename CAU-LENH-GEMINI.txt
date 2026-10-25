@@ -1,4 +1,6 @@
 ﻿CÂU LỆNH MẪU NHỜ GEMINI SOẠN ĐỀ CHO KHO ĐỀ CÓ SẴN
+(Tiện hơn: mở thư mục MAU-CAU-LENH, mỗi lớp – môn có sẵn một tệp câu lệnh
+ đã điền lớp, môn và danh sách chương; chỉ cần sửa dòng CHƯƠNG.)
 =====================================================================
 Cách dùng: chép toàn bộ khung dưới đây vào Gemini (gemini.google.com),
 sửa 3 dòng LỚP / MÔN – MÃ / CHƯƠNG (mã lấy trong MUC-LUC-KHO-DE.txt).

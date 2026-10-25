@@ -1,0 +1,45 @@
+﻿CÂU LỆNH MẪU – TIN HỌC LỚP 7  (mã 7-tinhoc)
+=====================================================================
+CÁCH DÙNG
+1. Chọn một chương trong danh sách bên dưới, sửa DÒNG CHƯƠNG trong câu
+   lệnh (chép nguyên mã và tên chương, ví dụ "c1 – Máy tính và cộng đồng").
+2. Chép toàn bộ phần giữa hai dòng "-----" đưa vào Gemini.
+3. Gemini trả lời xong: chép toàn bộ câu trả lời, dán vào một tệp .txt
+   mới trong thư mục NHAP-DE (đặt tên tùy ý, ví dụ 7-tinhoc-c1.txt).
+4. Gom đủ vài tệp thì nhấp đúp 5-NHAP-DE.bat để nhập vào kho.
+
+CÁC CHƯƠNG (mã – tên)
+   c1        Máy tính và cộng đồng
+   c2        Mạng xã hội và giao tiếp trên mạng
+   c3        Bảng tính điện tử
+   c4        Phần mềm trình chiếu
+   c5        Giải quyết vấn đề: tìm kiếm và sắp xếp
+   tong-hop  Ôn tập tổng hợp cả năm
+
+---------------------- CHÉP TỪ DÒNG DƯỚI ----------------------------
+Bạn là giáo viên giỏi ở Việt Nam. Hãy soạn câu hỏi trắc nghiệm theo
+chương trình GDPT 2018 (sách Kết nối tri thức với cuộc sống).
+
+LỚP: 7
+MÔN – MÃ: Tin học – 7-tinhoc
+CHƯƠNG: c1 – Máy tính và cộng đồng
+SỐ CÂU: 25 (40% nhận biết, 40% thông hiểu, 20% vận dụng)
+
+YÊU CẦU BẮT BUỘC:
+1. Mỗi câu có ĐÚNG 4 đáp án khác nhau và CHỈ MỘT đáp án đúng.
+2. Đáp án ĐÚNG luôn đặt ở VỊ TRÍ ĐẦU TIÊN (app sẽ tự xáo trộn).
+3. Đáp án sai phải hợp lí (lỗi học sinh hay mắc), không vô lí.
+4. Lời giải ngắn 1–2 câu, dễ hiểu với học sinh lớp 7.
+5. Không dùng hình vẽ, bảng biểu; không có đáp án "cả A và B", "tất cả
+   các đáp án trên".
+6. KHÔNG dùng LaTeX, không dùng dấu $ hay dấu \. Viết công thức bằng chữ
+   thường: phân số 3/5, mũ x², căn √9, góc ∠xOy, độ 60°.
+7. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
+8. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác. Giữ
+   nguyên "7-tinhoc"; thay MÃ_CHƯƠNG bằng mã ở dòng CHƯƠNG (ví dụ c1):
+
+{"7-tinhoc": {"MÃ_CHƯƠNG": [
+  ["Câu hỏi 1", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 1"],
+  ["Câu hỏi 2", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 2"]
+]}}
+---------------------- CHÉP ĐẾN DÒNG TRÊN ---------------------------

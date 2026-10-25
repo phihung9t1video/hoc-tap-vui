@@ -1,0 +1,54 @@
+﻿CÂU LỆNH MẪU – TIẾNG ANH LỚP 7  (mã 7-tienganh)
+=====================================================================
+CÁCH DÙNG
+1. Chọn một chương trong danh sách bên dưới, sửa DÒNG CHƯƠNG trong câu
+   lệnh (chép nguyên mã và tên chương, ví dụ "u1 – Unit 1: Hobbies").
+2. Chép toàn bộ phần giữa hai dòng "-----" đưa vào Gemini.
+3. Gemini trả lời xong: chép toàn bộ câu trả lời, dán vào một tệp .txt
+   mới trong thư mục NHAP-DE (đặt tên tùy ý, ví dụ 7-tienganh-u1.txt).
+4. Gom đủ vài tệp thì nhấp đúp 5-NHAP-DE.bat để nhập vào kho.
+
+CÁC CHƯƠNG (mã – tên)
+   u1        Unit 1: Hobbies
+   u2        Unit 2: Healthy living
+   u3        Unit 3: Community service
+   u4        Unit 4: Music and arts
+   u5        Unit 5: Food and drink
+   u6        Unit 6: A visit to a school
+   u7        Unit 7: Traffic
+   u8        Unit 8: Films
+   u9        Unit 9: Festivals around the world
+   u10       Unit 10: Energy sources
+   u11       Unit 11: Travelling in the future
+   u12       Unit 12: English-speaking countries
+   tong-hop  Ôn tập tổng hợp cả năm
+
+---------------------- CHÉP TỪ DÒNG DƯỚI ----------------------------
+Bạn là giáo viên giỏi ở Việt Nam. Hãy soạn câu hỏi trắc nghiệm theo
+chương trình GDPT 2018 (sách Kết nối tri thức với cuộc sống / Global Success).
+
+LỚP: 7
+MÔN – MÃ: Tiếng Anh – 7-tienganh
+CHƯƠNG: u1 – Unit 1: Hobbies
+SỐ CÂU: 25 (40% nhận biết, 40% thông hiểu, 20% vận dụng)
+
+YÊU CẦU BẮT BUỘC:
+1. Mỗi câu có ĐÚNG 4 đáp án khác nhau và CHỈ MỘT đáp án đúng.
+2. Đáp án ĐÚNG luôn đặt ở VỊ TRÍ ĐẦU TIÊN (app sẽ tự xáo trộn).
+3. Đáp án sai phải hợp lí (lỗi học sinh hay mắc), không vô lí.
+4. Lời giải ngắn 1–2 câu, dễ hiểu với học sinh lớp 7.
+   - Câu hỏi và đáp án bằng tiếng Anh, lời giải bằng tiếng Việt (giải thích nghĩa, ngữ pháp).
+   - Gồm cả từ vựng, ngữ pháp, mẫu câu, chọn từ khác loại, phát âm – trọng âm (nếu hợp lớp).
+5. Không dùng hình vẽ, bảng biểu; không có đáp án "cả A và B", "tất cả
+   các đáp án trên".
+6. KHÔNG dùng LaTeX, không dùng dấu $ hay dấu \. Viết công thức bằng chữ
+   thường: phân số 3/5, mũ x², căn √9, góc ∠xOy, độ 60°.
+7. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
+8. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác. Giữ
+   nguyên "7-tienganh"; thay MÃ_CHƯƠNG bằng mã ở dòng CHƯƠNG (ví dụ u1):
+
+{"7-tienganh": {"MÃ_CHƯƠNG": [
+  ["Câu hỏi 1", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 1"],
+  ["Câu hỏi 2", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 2"]
+]}}
+---------------------- CHÉP ĐẾN DÒNG TRÊN ---------------------------

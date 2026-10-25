@@ -1,0 +1,54 @@
+﻿CÂU LỆNH MẪU – TIẾNG ANH LỚP 9  (mã 9-tienganh)
+=====================================================================
+CÁCH DÙNG
+1. Chọn một chương trong danh sách bên dưới, sửa DÒNG CHƯƠNG trong câu
+   lệnh (chép nguyên mã và tên chương, ví dụ "c1 – Unit 1: Local community").
+2. Chép toàn bộ phần giữa hai dòng "-----" đưa vào Gemini.
+3. Gemini trả lời xong: chép toàn bộ câu trả lời, dán vào một tệp .txt
+   mới trong thư mục NHAP-DE (đặt tên tùy ý, ví dụ 9-tienganh-c1.txt).
+4. Gom đủ vài tệp thì nhấp đúp 5-NHAP-DE.bat để nhập vào kho.
+
+CÁC CHƯƠNG (mã – tên)
+   c1        Unit 1: Local community
+   c2        Unit 2: City life
+   c3        Unit 3: Healthy living for teens
+   c4        Unit 4: Remembering the past
+   c5        Unit 5: Our experiences
+   c6        Unit 6: Vietnamese lifestyle: then and now
+   c7        Unit 7: Natural wonders of the world
+   c8        Unit 8: Tourism
+   c9        Unit 9: World Englishes
+   c10       Unit 10: Planet Earth
+   c11       Unit 11: Electronic devices
+   c12       Unit 12: Career choices
+   tong-hop  Ôn tập tổng hợp cả năm
+
+---------------------- CHÉP TỪ DÒNG DƯỚI ----------------------------
+Bạn là giáo viên giỏi ở Việt Nam. Hãy soạn câu hỏi trắc nghiệm theo
+chương trình GDPT 2018 (sách Kết nối tri thức với cuộc sống / Global Success).
+
+LỚP: 9
+MÔN – MÃ: Tiếng Anh – 9-tienganh
+CHƯƠNG: c1 – Unit 1: Local community
+SỐ CÂU: 25 (40% nhận biết, 40% thông hiểu, 20% vận dụng)
+
+YÊU CẦU BẮT BUỘC:
+1. Mỗi câu có ĐÚNG 4 đáp án khác nhau và CHỈ MỘT đáp án đúng.
+2. Đáp án ĐÚNG luôn đặt ở VỊ TRÍ ĐẦU TIÊN (app sẽ tự xáo trộn).
+3. Đáp án sai phải hợp lí (lỗi học sinh hay mắc), không vô lí.
+4. Lời giải ngắn 1–2 câu, dễ hiểu với học sinh lớp 9.
+   - Câu hỏi và đáp án bằng tiếng Anh, lời giải bằng tiếng Việt (giải thích nghĩa, ngữ pháp).
+   - Gồm cả từ vựng, ngữ pháp, mẫu câu, chọn từ khác loại, phát âm – trọng âm (nếu hợp lớp).
+5. Không dùng hình vẽ, bảng biểu; không có đáp án "cả A và B", "tất cả
+   các đáp án trên".
+6. KHÔNG dùng LaTeX, không dùng dấu $ hay dấu \. Viết công thức bằng chữ
+   thường: phân số 3/5, mũ x², căn √9, góc ∠xOy, độ 60°.
+7. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
+8. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác. Giữ
+   nguyên "9-tienganh"; thay MÃ_CHƯƠNG bằng mã ở dòng CHƯƠNG (ví dụ c1):
+
+{"9-tienganh": {"MÃ_CHƯƠNG": [
+  ["Câu hỏi 1", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 1"],
+  ["Câu hỏi 2", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 2"]
+]}}
+---------------------- CHÉP ĐẾN DÒNG TRÊN ---------------------------
