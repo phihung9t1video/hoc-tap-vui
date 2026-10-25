@@ -37,6 +37,7 @@ YÊU CẦU BẮT BUỘC:
    các đáp án trên".
 6. KHÔNG dùng LaTeX, không dùng dấu $ hay dấu \. Viết công thức bằng chữ
    thường: phân số 3/5, mũ x², căn √9, góc ∠xOy, độ 60°.
+   Khi trích lời nói trong câu, dùng ngoặc kép cong “ ” (không dùng dấu ").
 7. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
 8. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác. Giữ
    nguyên "3-tiengviet"; thay MÃ_CHƯƠNG bằng mã ở dòng CHƯƠNG (ví dụ c1):
