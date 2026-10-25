@@ -56,13 +56,44 @@ function latexToText(raw) {
   return t;
 }
 
+/**
+ * Sửa dấu ngoặc kép nằm GIỮA câu (Gemini hay viết: "Choose: "What's your name?" - "___"").
+ * Một dấu " chỉ được coi là đóng chuỗi khi theo sau là ] } : hoặc dấu phẩy rồi tới " [ ] }.
+ * Các dấu " còn lại trong chuỗi được đổi thành ngoặc kép cong “ ”.
+ */
+function repairQuotes(t) {
+  let out = "", inStr = false, open = true;
+  for (let i = 0; i < t.length; i++) {
+    const c = t[i];
+    if (c === "\\" && inStr) { out += c + (t[i + 1] ?? ""); i++; continue; }
+    if (c !== '"') { out += c; continue; }
+    if (!inStr) { inStr = true; out += c; continue; }
+    const rest = t.slice(i + 1);
+    const closes = /^\s*[\]}:]/.test(rest) || /^\s*,\s*["[\]}]/.test(rest);
+    if (closes) { inStr = false; out += c; }
+    else { out += open ? "“" : "”"; open = !open; }
+  }
+  return out;
+}
+
+/** Dấu ** của Gemini: **chữ đậm** → chữ; ** đứng riêng (chỗ trống) → ___ */
+const fixStars = (t) => t.replace(/\*\*([^*"\n]+?)\*\*/g, "$1").replace(/\*{2,}/g, "___");
+
+function parseLoose(t) {
+  try {
+    return JSON.parse(t);
+  } catch {
+    return JSON.parse(repairQuotes(t));
+  }
+}
+
 /** Lấy phần JSON trong câu trả lời của Gemini (bỏ ```json, chữ thừa trước/sau, dấu phẩy thừa, LaTeX) */
 function extractJson(text) {
   let t = latexToText(text.replace(/^﻿/, "").replace(/```(?:json)?/gi, ""));
   const a = t.indexOf("{"), b = t.lastIndexOf("}");
   if (a < 0 || b < a) throw new Error("không tìm thấy dữ liệu JSON (phải bắt đầu bằng { và kết thúc bằng })");
   t = t.slice(a, b + 1).replace(/[“”]/g, '"').replace(/,\s*([\]}])/g, "$1");
-  return JSON.parse(t);
+  return parseLoose(fixStars(t));
 }
 
 let added = 0, skipped = 0, dup = 0;
