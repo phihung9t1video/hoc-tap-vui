@@ -1,0 +1,356 @@
+{
+ "3-tinhoc": {
+  "c4": [
+   [
+    "Thư mục trong máy tính dùng để làm gì?",
+    [
+     "Lưu trữ và quản lý các tệp, thư mục con",
+     "Hiển thị hình ảnh trên màn hình",
+     "Soạn thảo văn bản và tính toán",
+     "Kết nối máy tính với mạng Internet"
+    ],
+    "Thư mục giống như một chiếc ngăn kéo giúp lưu trữ và quản lý các tệp tin cũng như các thư mục con."
+   ],
+   [
+    "Trong máy tính, tệp tin (file) có thể là gì?",
+    [
+     "Một bài hát, một bức ảnh hoặc một đoạn văn bản",
+     "Một chiếc bàn phím hoặc chuột máy tính",
+     "Một thư mục chứa nhiều ngăn kéo",
+     "Màn hình hiển thị hình ảnh"
+    ],
+    "Tệp tin trong máy tính có thể là hình ảnh, âm thanh, video hoặc văn bản do em tạo ra."
+   ],
+   [
+    "Tên thư mục thường được đặt như thế nào để dễ tìm kiếm?",
+    [
+     "Gợi nhớ đến nội dung lưu trữ bên trong",
+     "Đặt tên thật dài và khó nhớ",
+     "Đặt tên bằng các ký tự ngẫu nhiên",
+     "Luôn đặt tên giống hệt tên tệp tin"
+    ],
+    "Đặt tên thư mục gợi nhớ đến nội dung bên trong sẽ giúp em nhận biết và tìm kiếm nhanh chóng."
+   ],
+   [
+    "Thư mục nằm bên trong một thư mục khác được gọi là gì?",
+    [
+     "Thư mục con",
+     "Thư mục mẹ",
+     "Tệp dữ liệu",
+     "Thư mục chính"
+    ],
+    "Thư mục nằm trong một thư mục khác được gọi là thư mục con."
+   ],
+   [
+    "Khi mở một thư mục trên máy tính, em có thể nhìn thấy những gì?",
+    [
+     "Các tệp và các thư mục con",
+     "Chỉ nhìn thấy bàn phím máy tính",
+     "Các thiết bị phần cứng của máy tính",
+     "Chỉ nhìn thấy một bức ảnh duy nhất"
+    ],
+    "Bên trong một thư mục có thể chứa các tệp tin và các thư mục con khác."
+   ],
+   [
+    "Cách tổ chức thông tin nào sau đây giúp em tìm kiếm tệp nhanh nhất?",
+    [
+     "Phân loại tệp vào các thư mục theo chủ đề",
+     "Lưu tất cả các tệp ra màn hình nền",
+     "Để các tệp nằm rải rác không phân loại",
+     "Xóa bớt các tệp quan trọng"
+    ],
+    "Phân loại tệp theo chủ đề vào từng thư mục giúp việc tìm kiếm diễn ra nhanh chóng và thuận tiện."
+   ],
+   [
+    "Biểu tượng của thư mục trong hệ điều hành Windows thường có màu gì?",
+    [
+     "Màu vàng",
+     "Màu xanh lá cây",
+     "Màu đỏ tươi",
+     "Màu đen"
+    ],
+    "Trong máy tính, biểu tượng thư mục thường có hình kẹp giấy màu vàng."
+   ],
+   [
+    "Sự khác nhau cơ bản giữa tệp và thư mục là gì?",
+    [
+     "Thư mục có thể chứa tệp, còn tệp không thể chứa thư mục",
+     "Tệp có thể chứa thư mục, còn thư mục thì không",
+     "Tệp luôn có dung lượng lớn hơn thư mục",
+     "Thư mục chỉ dùng để nghe nhạc còn tệp dùng để vẽ"
+    ],
+    "Thư mục đóng vai trò như chiếc hộp chứa các tệp, còn tệp chứa thông tin cụ thể và không thể chứa thư mục."
+   ],
+   [
+    "Để tìm một tệp bài hát “Chú ếch con”, em nên tìm trong thư mục nào là hợp lý nhất?",
+    [
+     "Thư mục “Nhạc thiếu nhi”",
+     "Thư mục “Bài tập Toán”",
+     "Thư mục “Tranh vẽ”",
+     "Thư mục “Phim hoạt hình”"
+    ],
+    "Bài hát “Chú ếch con” thuộc thể loại âm thanh nên lưu trong thư mục “Nhạc thiếu nhi” là hợp lý nhất."
+   ],
+   [
+    "Sắp xếp thông tin trong máy tính một cách hợp lý sẽ mang lại lợi ích gì?",
+    [
+     "Giúp tiết kiệm thời gian khi cần tìm kiếm",
+     "Giúp máy tính chạy nhanh gấp mười lần",
+     "Giúp màn hình máy tính sáng hơn",
+     "Giúp máy tính không bao giờ bị hỏng"
+    ],
+    "Tổ chức và sắp xếp thông tin hợp lý giúp em tìm kiếm lại thông tin đó một cách dễ dàng và nhanh chóng."
+   ],
+   [
+    "Nếu muốn quản lý bài tập các môn học lớp 3, em nên tạo các thư mục con nào trong thư mục “Bài tập lớp 3”?",
+    [
+     "Thư mục “Toán”, “Tiếng Việt”, “Tin học”",
+     "Thư mục “Đồ chơi”, “Bánh kẹo”, “Quần áo”",
+     "Thư mục “Ca nhạc”, “Phim ảnh”, “Trò chơi”",
+     "Thư mục “Sáng”, “Trưa”, “Tối”"
+    ],
+    "Phân loại theo tên môn học như “Toán”, “Tiếng Việt”, “Tin học” giúp em dễ dàng lưu trữ bài tập từng môn."
+   ],
+   [
+    "Tại sao em không nên đặt tên thư mục là các chuỗi ký tự vô nghĩa như “ghjkl123”?",
+    [
+     "Vì khó nhớ và không biết bên trong chứa nội dung gì",
+     "Vì máy tính sẽ bị khóa ngay lập tức",
+     "Vì thư mục sẽ tự động bị xóa sau một ngày",
+     "Vì máy tính không cho phép đặt tên có số"
+    ],
+    "Đặt tên vô nghĩa khiến em không nhận biết được nội dung bên trong, gây khó khăn khi tìm kiếm."
+   ],
+   [
+    "Khi tìm kiếm một góc học tập gọn gàng ở ngoài đời thực, điều này tương ứng với việc gì trên máy tính?",
+    [
+     "Sắp xếp tệp và thư mục ngăn nắp",
+     "Lau chùi màn hình máy tính thật sạch",
+     "Bật máy tính liên tục không tắt",
+     "Cắm thêm nhiều thiết bị vào máy tính"
+    ],
+    "Việc giữ góc học tập gọn gàng tương tự như việc tổ chức, sắp xếp tệp và thư mục ngăn nắp trên máy tính."
+   ],
+   [
+    "Thư mục “ANH_KY_NIEM” chứa hai thư mục con là “LOP_1” và “LOP_2”. Tệp bức ảnh “Khai_giang.jpg” của năm lớp 1 nên được lưu vào đâu?",
+    [
+     "Thư mục “LOP_1”",
+     "Thư mục “LOP_2”",
+     "Ngoài màn hình nền",
+     "Thư mục chứa phần mềm máy tính"
+    ],
+    "Bức ảnh khai giảng năm lớp 1 nên lưu vào thư mục con “LOP_1” để quản lý đúng thời gian."
+   ],
+   [
+    "Hành động nào sau đây giúp em dễ dàng quản lý các bức tranh tự vẽ trên máy tính?",
+    [
+     "Tạo thư mục “Tranh_ve” và lưu tất cả ảnh vẽ vào đó",
+     "Đổi tên tất cả các bức tranh thành tên giống nhau",
+     "Lưu mỗi bức tranh vào một thư mục khác nhau không theo quy luật",
+     "Xóa các bức tranh ngay sau khi vẽ xong"
+    ],
+    "Gom tất cả tranh vẽ vào thư mục “Tranh_ve” giúp quản lý tập trung và tìm lại dễ dàng."
+   ],
+   [
+    "Bạn An lưu tệp “Bai_tap_Toan.docx” vào thư mục “Tieng_Viet”. Việc này dẫn đến hậu quả gì?",
+    [
+     "An sẽ mất nhiều thời gian tìm kiếm vì lưu sai vị trí",
+     "Tệp bài tập Toán sẽ biến thành bài tập Tiếng Việt",
+     "Máy tính sẽ báo lỗi và hỏng hệ điều hành",
+     "Tệp sẽ tự động di chuyển sang thư mục Toán"
+    ],
+    "Lưu sai vị trí không làm hỏng máy tính nhưng sẽ làm em mất nhiều thời gian tìm lại sau này."
+   ],
+   [
+    "Một cây thư mục có thư mục gốc “GIAI_TRI”, bên trong có “PHIM” và “NHAC”. Trong “NHAC” có tệp “Cat_bui.mp3”. Tệp “Cat_bui.mp3” nằm ở đâu?",
+    [
+     "Nằm trong thư mục “NHAC”",
+     "Nằm trong thư mục “PHIM”",
+     "Nằm trực tiếp ở thư mục gốc “GIAI_TRI”",
+     "Nằm ngoài máy tính"
+    ],
+    "Tệp “Cat_bui.mp3” chứa trong thư mục “NHAC”, thuộc cây thư mục “GIAI_TRI”."
+   ],
+   [
+    "Bạn Bình muốn tìm bài vẽ “Ngoi_nha.png” nhưng quên mất lưu ở đâu. Bình nên làm gì?",
+    [
+     "Mở lần lượt các thư mục liên quan đến tranh vẽ hoặc dùng công cụ tìm kiếm",
+     "Vẽ lại một bức tranh mới từ đầu",
+     "Tắt máy tính và không tìm nữa",
+     "Xóa tất cả các thư mục trong máy tính"
+    ],
+    "Bình nên kiểm tra các thư mục về tranh vẽ hoặc dùng ô tìm kiếm của máy tính để tìm lại tệp."
+   ],
+   [
+    "Bạn Hoa muốn tạo cấu trúc lưu trữ cho môn Tin học gồm bài tập và sản phẩm vẽ. Cấu trúc nào sau đây là hợp lý nhất?",
+    [
+     "Thư mục “TIN_HOC” chứa hai thư mục con “BAI_TAP” và “TRANH_VE”",
+     "Thư mục “BAI_TAP” chứa thư mục “TIN_HOC” và thư mục “TOAN”",
+     "Thư mục “TRANH_VE” chứa thư mục “TIN_HOC” và tệp văn bản",
+     "Tạo duy nhất một tệp tên là “TIN_HOC”"
+    ],
+    "Tạo thư mục chính “TIN_HOC” và hai thư mục con “BAI_TAP”, “TRANH_VE” là cách tổ chức khoa học nhất."
+   ],
+   [
+    "Nối ý ở cột thao tác với kết quả tương ứng: Tạo thư mục mới giúp em làm gì?",
+    [
+     "Tạo ra một không gian mới để phân loại và chứa tệp",
+     "Mở một chương trình giải trí trên máy tính",
+     "Xóa toàn bộ dữ liệu trên ổ cứng",
+     "Tăng tốc độ kết nối Internet"
+    ],
+    "Tạo thư mục mới giúp tạo ra nơi lưu trữ riêng để phân loại các tệp dữ liệu gọn gàng."
+   ],
+   [
+    "Để phân biệt các tệp thông tin lưu trên máy tính, người ta thường dựa vào yếu tố nào?",
+    [
+     "Tên tệp và phần mở rộng",
+     "Màu sắc của biểu tượng tệp",
+     "Kích thước lớn hay nhỏ của tệp",
+     "Thời gian tạo tệp trong ngày"
+    ],
+    "Tên tệp giúp nhận biết nội dung còn phần mở rộng giúp máy tính biết loại tệp đó."
+   ],
+   [
+    "Khi em nhìn thấy biểu tượng một chiếc cặp màu vàng trên màn hình máy tính, đó thường là gì?",
+    [
+     "Thư mục chứa thông tin",
+     "Một bức tranh vẽ",
+     "Một bài hát",
+     "Phần mềm trò chơi"
+    ],
+    "Biểu tượng hình chiếc cặp màu vàng là hình ảnh quen thuộc của thư mục trong máy tính."
+   ],
+   [
+    "Em hiểu thế nào là thư mục gốc trong máy tính?",
+    [
+     "Thư mục lớn nhất chứa các thư mục khác bên trong ổ đĩa",
+     "Thư mục nhỏ nhất nằm ở trong cùng",
+     "Thư mục chỉ dùng để lưu các bài hát thiếu nhi",
+     "Thư mục chuyên chứa các tệp bị xóa"
+    ],
+    "Thư mục gốc là thư mục cấp cao nhất nằm ngay trong ổ đĩa, chứa các thư mục con khác."
+   ],
+   [
+    "Hành động nào sau đây giúp em tạo ra một chỗ chứa mới để phân loại tệp?",
+    [
+     "Nháy chuột phải chọn New rồi chọn Folder",
+     "Nháy đúp chuột trái vào một tệp bất kỳ",
+     "Nhấn phím Delete trên bàn phím",
+     "Kéo thả tệp ra màn hình nền"
+    ],
+    "Để tạo thư mục mới, em nháy chuột phải chọn New và chọn Folder."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về tệp tin (file)?",
+    [
+     "Tệp tin là nơi lưu trữ dữ liệu như văn bản, hình ảnh, âm thanh",
+     "Tệp tin luôn luôn có màu vàng giống chiếc cặp",
+     "Tệp tin không thể chứa bất kỳ thông tin nào bên trong",
+     "Tệp tin chỉ dùng để chứa các thư mục con khác"
+    ],
+    "Tệp tin là đơn vị lưu trữ dữ liệu trên máy tính, chứa nội dung cụ thể như văn bản hay hình ảnh."
+   ],
+   [
+    "Trong các tên sau đây, tên nào được coi là đặt đúng quy tắc và gợi nhớ rõ ràng cho tệp bài soạn môn Tiếng Việt?",
+    [
+     "Chinh_ta_bai_1.docx",
+     "asdfghjk.txt",
+     "111111.mp4",
+     "abc.png"
+    ],
+    "Tên tệp nên rõ nghĩa, viết không dấu hoặc có dấu gạch dưới như Chinh_ta_bai_1.docx để dễ tìm."
+   ],
+   [
+    "Bạn Minh muốn đổi tên một thư mục từ “Hinh_anh” thành “Tranh_ve”. Minh cần làm gì?",
+    [
+     "Nháy chuột phải vào thư mục chọn Rename rồi gõ tên mới",
+     "Nháy đúp chuột trái vào thư mục rồi xóa máy tính đi",
+     "Kéo thư mục đó vào thùng rác rồi tạo lại từ đầu",
+     "Nhấn phím Enter nhiều lần liên tục"
+    ],
+    "Thao tác Rename trong menu chuột phải giúp em đổi tên thư mục nhanh chóng."
+   ],
+   [
+    "Khi em di chuyển một tệp từ thư mục này sang thư mục khác, điều gì xảy ra với tệp đó?",
+    [
+     "Tệp mất đi ở chỗ cũ và xuất hiện ở chỗ mới",
+     "Tệp bị biến mất hoàn toàn khỏi máy tính",
+     "Tệp tự động nhân đôi thành hai bản giống hệt nhau",
+     "Tệp sẽ bị đổi tên thành một dãy số ngẫu nhiên"
+    ],
+    "Di chuyển tệp (Cut và Paste) nghĩa là chuyển tệp sang vị trí mới, không giữ lại ở vị trí cũ."
+   ],
+   [
+    "Vì sao việc phân loại và sắp xếp các tệp tài liệu vào đúng thư mục lại quan trọng?",
+    [
+     "Giúp tìm kiếm thông tin nhanh chóng và không bị nhầm lẫn",
+     "Làm cho màn hình máy tính có nhiều màu sắc đẹp hơn",
+     "Giúp máy tính chạy nhanh gấp đôi bình thường",
+     "Làm tăng dung lượng cho ổ đĩa cứng của máy tính"
+    ],
+    "Sắp xếp gọn gàng giúp chúng ta tìm kiếm tài liệu nhanh chóng khi cần."
+   ],
+   [
+    "Khi em muốn xem bên trong một thư mục có những gì, em thao tác thế nào?",
+    [
+     "Nháy đúp chuột trái vào biểu tượng thư mục",
+     "Nháy chuột phải rồi chọn Delete",
+     "Chỉ cần di chuyển chuột lướt qua biểu tượng",
+     "Nhấn giữ phím Space trên bàn phím"
+    ],
+    "Nháy đúp chuột trái vào thư mục là cách để mở và xem các thành phần bên trong nó."
+   ],
+   [
+    "Bạn Nam tạo một thư mục tên “Giai_tri” và đặt các tệp trò chơi, tệp nhạc vào đó. Thư mục “Giai_tri” đóng vai trò gì?",
+    [
+     "Là thư mục chứa các tệp dữ liệu về giải trí",
+     "Là một tệp văn bản dùng để viết chữ",
+     "Là phần mềm diệt virus cho máy tính",
+     "Là hình nền trang trí màn hình"
+    ],
+    "Thư mục “Giai_tri” được dùng làm nơi chứa chung các tệp liên quan đến giải trí."
+   ],
+   [
+    "Nếu máy tính có quá nhiều tệp tin để rời rạc trên màn hình nền, cách xử lý hợp lý nhất là gì?",
+    [
+     "Tạo các thư mục theo chủ đề rồi di chuyển tệp vào đó",
+     "Xóa toàn bộ các tệp đi để máy nhẹ hơn",
+     "Tắt máy tính và khởi động lại nhiều lần",
+     "Đổi tên tất cả các tệp thành chữ A"
+    ],
+    "Gom các tệp rời rạc vào thư mục theo chủ đề giúp màn hình gọn gàng và dễ quản lý."
+   ],
+   [
+    "Em vừa vẽ xong bức tranh phong cảnh và muốn lưu lại để lần sau vẽ tiếp. Em sẽ làm gì?",
+    [
+     "Lưu tệp vào thư mục “Tranh_ve” và đặt tên gợi nhớ",
+     "Vứt tệp vào thùng rác ngay lập tức",
+     "Gửi tệp vào thư mục chứa hệ thống máy tính",
+     "Đổi tên tệp thành các ký tự đặc biệt rồi tắt máy"
+    ],
+    "Lưu vào thư mục “Tranh_ve” với tên rõ ràng giúp em dễ dàng tìm lại bức tranh."
+   ],
+   [
+    "Thầy giáo yêu cầu nộp bài tập Toán nhưng em lại lưu nhầm vào thư mục bài tập Mỹ thuật. Em nên làm gì để sửa sai?",
+    [
+     "Di chuyển tệp bài tập Toán sang đúng thư mục Toán",
+     "Kệ nó vì máy tính tự động sửa giúp em",
+     "Xóa luôn bài tập Toán không làm nữa",
+     "Tạo một máy tính mới để làm lại từ đầu"
+    ],
+    "Em chỉ cần dùng thao tác chuyển tệp về đúng thư mục môn Toán."
+   ],
+   [
+    "Khi sắp xếp phòng học ở nhà, em xếp bút vào hộp đựng bút, sách vở lên giá sách. Hành động này tương tự tính năng nào trên máy tính?",
+    [
+     "Tổ chức lưu trữ dữ liệu vào các thư mục",
+     "Tắt mở các phần mềm trò chơi",
+     "Gõ các văn bản bằng bàn phím",
+     "In tài liệu ra giấy bằng máy in"
+    ],
+    "Sắp xếp đồ vật theo chỗ tương ứng giống như việc lưu trữ tệp vào thư mục trên máy tính."
+   ]
+  ]
+ }
+}

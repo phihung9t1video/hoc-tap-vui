@@ -1,0 +1,326 @@
+{
+ "3-tinhoc": {
+  "c1": [
+   [
+    "Đâu là thiết bị dùng để đưa thông tin từ máy tính ra ngoài cho em xem hoặc nghe?",
+    [
+     "Loa",
+     "Bàn phím",
+     "Chuột",
+     "Thân máy"
+    ],
+    "Loa là thiết bị ra giúp em nghe được âm thanh từ máy tính."
+   ],
+   [
+    "Khi em muốn gõ một chữ cái in hoa, em thường kết hợp phím Shift với phím chữ nào?",
+    [
+     "Phím bất kỳ cần viết hoa",
+     "Phím Space",
+     "Phím Enter",
+     "Phím Backspace"
+    ],
+    "Để gõ chữ in hoa, em giữ phím Shift và nhấn phím chữ cái đó."
+   ],
+   [
+    "Bộ phận nào của máy tính có nhiệm vụ chứa các linh kiện quan trọng điều khiển mọi hoạt động của máy?",
+    [
+     "Thân máy",
+     "Màn hình",
+     "Bàn phím",
+     "Chuột"
+    ],
+    "Thân máy là hộp chứa bộ xử lý trung tâm và các linh kiện chính."
+   ],
+   [
+    "Thao tác nào sau đây giúp em mở một tệp hoặc phần mềm khi biểu tượng của nó đã hiển thị trên màn hình?",
+    [
+     "Nháy đúp chuột",
+     "Nháy chuột",
+     "Di chuyển chuột",
+     "Nhấn phím Enter"
+    ],
+    "Nháy đúp chuột (nhấn nhanh hai lần nút trái) dùng để mở chương trình hoặc tệp."
+   ],
+   [
+    "Em nên đặt tay như thế nào trên bàn phím máy tính để gõ đúng cách?",
+    [
+     "Đặt các ngón tay lên hàng phím cơ sở",
+     "Dùng một ngón tay trỏ để gõ tất cả các phím",
+     "Đặt tay tự do không theo quy tắc",
+     "Chỉ dùng tay trái để gõ phím chữ"
+    ],
+    "Đặt tay lên hàng phím cơ sở giúp em gõ phím nhanh và chính xác hơn."
+   ],
+   [
+    "Khi em đang gõ văn bản, nếu muốn xóa ký tự nằm ngay bên trái con trỏ soạn thảo, em dùng phím nào?",
+    [
+     "Backspace",
+     "Delete",
+     "Enter",
+     "Spacebar"
+    ],
+    "Phím Backspace dùng để xóa ký tự đứng ngay trước (bên trái) con trỏ."
+   ],
+   [
+    "Để di chuyển một biểu tượng trên màn hình nền đến vị trí khác, em dùng thao tác nào với chuột?",
+    [
+     "Kéo thả chuột",
+     "Nháy đúp chuột",
+     "Nháy chuột phải",
+     "Cuộn lăn chuột"
+    ],
+    "Kéo thả chuột là giữ nút trái chuột và di chuyển đến vị trí mới rồi thả ra."
+   ],
+   [
+    "Phím dài nhất trên bàn phím máy tính có tên là gì?",
+    [
+     "Phím Cách",
+     "Phím Enter",
+     "Phím Shift",
+     "Phím Caps Lock"
+    ],
+    "Phím Cách (Spacebar) là phím dài nằm ở hàng dưới cùng của bàn phím."
+   ],
+   [
+    "Thông tin hiển thị trên màn hình máy tính thuộc loại thông tin nào?",
+    [
+     "Hình ảnh và chữ",
+     "Chỉ có âm thanh",
+     "Chỉ có chữ viết",
+     "Chỉ có hình vẽ động"
+    ],
+    "Màn hình hiển thị kết quả dưới dạng hình ảnh và chữ viết cho người dùng quan sát."
+   ],
+   [
+    "Khi sử dụng máy tính trong thời gian dài, em nên làm gì để bảo vệ mắt?",
+    [
+     "Nhìn ra xa hoặc nghỉ ngơi sau mỗi 20 phút",
+     "Tắt đèn phòng cho màn hình sáng rõ hơn",
+     "Ngồi sát màn hình để nhìn cho rõ chữ",
+     "Làm việc liên tục không nghỉ ngơi"
+    ],
+    "Nghỉ ngơi và nhìn ra xa giúp mắt không bị mỏi khi dùng máy tính lâu."
+   ],
+   [
+    "Để tắt máy tính đúng cách, em thực hiện thao tác nào trước tiên?",
+    [
+     "Nháy nút Start rồi chọn Shut down",
+     "Rút dây nguồn của thân máy",
+     "Nhấn nút công tắc trên màn hình",
+     "Gập màn hình máy tính lại ngay"
+    ],
+    "Em luôn cần chọn lệnh Shut down trong hệ điều hành trước khi cắt nguồn điện."
+   ],
+   [
+    "Em dùng thiết bị nào để ghi âm giọng nói của mình vào máy tính?",
+    [
+     "Micro",
+     "Loa",
+     "Màn hình",
+     "Bàn phím"
+    ],
+    "Micro là thiết bị thu âm thanh từ bên ngoài vào trong máy tính."
+   ],
+   [
+    "Khi em cần xuống dòng để bắt đầu đoạn văn bản mới, em nhấn phím nào?",
+    [
+     "Enter",
+     "Space",
+     "Tab",
+     "Esc"
+    ],
+    "Phím Enter giúp em xuống dòng hoặc kết thúc một lệnh."
+   ],
+   [
+    "Đâu là tư thế ngồi đúng khi sử dụng máy tính?",
+    [
+     "Lưng thẳng, mắt cách màn hình từ 50 đến 70 cm",
+     "Ngồi ngả người ra phía sau, cúi sát màn hình",
+     "Nằm bò lên bàn để nhìn gần hơn",
+     "Ngồi lệch một bên để dễ thao tác chuột"
+    ],
+    "Ngồi thẳng lưng và giữ khoảng cách hợp lý giúp bảo vệ cột sống và mắt."
+   ],
+   [
+    "Phím Caps Lock trên bàn phím có chức năng chính là gì?",
+    [
+     "Bật chế độ gõ chữ in hoa liên tục",
+     "Xóa ký tự vừa gõ",
+     "Xuống dòng văn bản",
+     "Tạo khoảng cách giữa các từ"
+    ],
+    "Khi đèn Caps Lock sáng, mọi chữ cái em gõ sẽ tự động in hoa."
+   ],
+   [
+    "Nếu máy tính đang bật mà em rút ngay nguồn điện để tắt máy, điều gì có thể xảy ra?",
+    [
+     "Có thể làm hỏng thiết bị và mất dữ liệu",
+     "Máy tính sẽ chạy nhanh hơn lần sau",
+     "Không có hiện tượng gì xảy ra",
+     "Màn hình tự động chuyển sang chế độ tiết kiệm điện"
+    ],
+    "Tắt máy đột ngột bằng cách ngắt nguồn điện rất dễ gây lỗi hệ thống và hỏng hóc."
+   ],
+   [
+    "Em có thể tìm thấy biểu tượng của các chương trình và tệp ở đâu khi mới mở máy tính?",
+    [
+     "Trên màn hình nền",
+     "Bên trong thân máy",
+     "Trên bề mặt bàn phím",
+     "Phía sau màn hình"
+    ],
+    "Màn hình nền (Desktop) là nơi chứa các biểu tượng để em dễ dàng truy cập."
+   ],
+   [
+    "Khi giáo viên yêu cầu quan sát kết quả hiển thị của bài tập vẽ trên máy tính, em nhìn vào bộ phận nào?",
+    [
+     "Màn hình",
+     "Bàn phím",
+     "Chuột",
+     "Ổ đĩa"
+    ],
+    "Màn hình hiển thị kết quả hình ảnh để em quan sát."
+   ],
+   [
+    "Thao tác nhấn và thả nhanh nút trái chuột một lần gọi là gì?",
+    [
+     "Nháy chuột",
+     "Nháy đúp chuột",
+     "Kéo thả chuột",
+     "Nháy chuột phải"
+    ],
+    "Nháy chuột là nhấn và thả nhanh nút trái chuột một lần."
+   ],
+   [
+    "Em đang soạn thảo một câu dài nhưng quên cách tạo khoảng cách giữa các từ, em sẽ dùng phím nào?",
+    [
+     "Phím dài nhất trên bàn phím",
+     "Phím Enter",
+     "Phím Shift",
+     "Phím Delete"
+    ],
+    "Phím dài nhất là phím Cách, dùng để tạo khoảng trắng giữa các từ trong câu."
+   ],
+   [
+    "Thiết bị nào sau đây dùng để đưa thông tin từ thế giới bên ngoài vào máy tính?",
+    [
+     "Bàn phím",
+     "Màn hình",
+     "Loa",
+     "Máy in"
+    ],
+    "Bàn phím là thiết bị đưa thông tin vào, còn màn hình, loa và máy in là thiết bị đưa thông tin ra."
+   ],
+   [
+    "Em dùng thiết bị nào dưới đây để nghe âm thanh phát ra từ máy tính?",
+    [
+     "Loa",
+     "Chuột",
+     "Bàn phím",
+     "Máy quét"
+    ],
+    "Loa là thiết bị giúp em nghe được các âm thanh từ máy tính phát ra."
+   ],
+   [
+    "Phím nào sau đây nằm ở hàng phím cơ sở và dùng để cách giữa các từ?",
+    [
+     "Phím cách",
+     "Phím Enter",
+     "Phím Backspace",
+     "Phím Shift"
+    ],
+    "Phím cách (Spacebar) là phím dài nhất ở hàng dưới cùng, dùng để tạo khoảng trắng giữa các từ."
+   ],
+   [
+    "Để mở một trò chơi trên màn hình nền, em thực hiện thao tác nào với chuột?",
+    [
+     "Nháy đúp chuột",
+     "Nháy chuột",
+     "Nhấn giữ nút phải chuột",
+     "Di chuyển chuột"
+    ],
+    "Nháy đúp chuột (nhấn nhanh hai lần nút trái chuột) là thao tác dùng để mở tệp hoặc phần mềm."
+   ],
+   [
+    "Khi em gõ văn bản, phím nào giúp em xuống dòng để bắt đầu đoạn mới?",
+    [
+     "Phím Enter",
+     "Phím Space",
+     "Phím Tab",
+     "Phím Esc"
+    ],
+    "Phím Enter dùng để kết thúc đoạn văn bản hiện tại và xuống dòng để tạo đoạn mới."
+   ],
+   [
+    "Em muốn xóa một chữ cái vừa gõ nhầm nằm ngay bên phải con trỏ soạn thảo, em dùng phím nào?",
+    [
+     "Phím Delete",
+     "Phím Backspace",
+     "Phím Shift",
+     "Phím Enter"
+    ],
+    "Phím Delete dùng để xóa kí tự nằm ngay bên phải con trỏ soạn thảo, khác với Backspace dùng để xóa bên trái."
+   ],
+   [
+    "Phím nào sau đây khi bật đèn sáng sẽ giúp em gõ toàn chữ in hoa mà không cần giữ phím Shift?",
+    [
+     "Phím Caps Lock",
+     "Phím Num Lock",
+     "Phím Scroll Lock",
+     "Phím Space"
+    ],
+    "Khi đèn Caps Lock sáng, các chữ cái em gõ sẽ tự động in hoa."
+   ],
+   [
+    "Bạn An muốn chụp lại bức ảnh của gia đình để đưa vào máy tính, bạn nên dùng thiết bị nào?",
+    [
+     "Máy ảnh số hoặc máy quét",
+     "Loa",
+     "Máy in",
+     "Màn hình"
+    ],
+    "Máy ảnh số hoặc máy quét là thiết bị giúp đưa hình ảnh từ giấy hoặc bên ngoài vào trong máy tính."
+   ],
+   [
+    "Em thấy biểu tượng “This PC” trên màn hình nền máy tính. Biểu tượng này dùng để làm gì?",
+    [
+     "Giúp em xem các ổ đĩa và tệp tin trong máy tính",
+     "Giúp em gõ chữ nhanh hơn",
+     "Giúp em kết nối Internet ngay lập tức",
+     "Giúp em điều chỉnh âm lượng loa"
+    ],
+    "Biểu tượng This PC hoặc My Computer giúp quản lý và xem các thông tin, ổ đĩa lưu trữ bên trong máy tính."
+   ],
+   [
+    "Trên bàn phím, ngón tay cái của cả hai tay thường được đặt ở phím nào khi gõ đúng cách?",
+    [
+     "Phím cách",
+     "Phím Enter",
+     "Phím Shift",
+     "Phím F"
+    ],
+    "Cả hai ngón cái của học sinh đều được đặt nhẹ nhàng lên phím cách (Spacebar)."
+   ],
+   [
+    "Nếu em đang sử dụng máy tính mà thấy màn hình tối đen, quạt trong thân máy không kêu, em nên kiểm tra điều gì đầu tiên?",
+    [
+     "Kiểm tra dây nguồn điện đã cắm chắc chắn chưa",
+     "Kiểm tra xem đã mở loa chưa",
+     "Kiểm tra bàn phím đã kết nối chưa",
+     "Kiểm tra chuột đã cắm chưa"
+    ],
+    "Khi máy tính không có điện vào, việc đầu tiên cần kiểm tra là nguồn điện và dây cắm."
+   ],
+   [
+    "Bạn Bình muốn vẽ một bức tranh thật đẹp trên máy tính rồi in ra giấy để treo tường. Bạn Bình cần dùng những thiết bị nào?",
+    [
+     "Chuột, bàn phím, màn hình và máy in",
+     "Chỉ cần máy in và loa",
+     "Chỉ cần bàn phím và máy quét",
+     "Chỉ cần chuột và loa"
+    ],
+    "Để vẽ và in tranh, em cần máy tính (có chuột, bàn phím, màn hình) để thao tác và máy in để in ra giấy."
+   ]
+  ]
+ }
+}

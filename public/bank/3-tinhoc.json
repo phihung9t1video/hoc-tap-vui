@@ -79,6 +79,326 @@
     "Ngón áp út"
    ],
    "Ngón trỏ nhấn nút trái, ngón giữa nhấn nút phải."
+  ],
+  [
+   "Đâu là thiết bị dùng để đưa thông tin từ máy tính ra ngoài cho em xem hoặc nghe?",
+   [
+    "Loa",
+    "Bàn phím",
+    "Chuột",
+    "Thân máy"
+   ],
+   "Loa là thiết bị ra giúp em nghe được âm thanh từ máy tính."
+  ],
+  [
+   "Khi em muốn gõ một chữ cái in hoa, em thường kết hợp phím Shift với phím chữ nào?",
+   [
+    "Phím bất kỳ cần viết hoa",
+    "Phím Space",
+    "Phím Enter",
+    "Phím Backspace"
+   ],
+   "Để gõ chữ in hoa, em giữ phím Shift và nhấn phím chữ cái đó."
+  ],
+  [
+   "Bộ phận nào của máy tính có nhiệm vụ chứa các linh kiện quan trọng điều khiển mọi hoạt động của máy?",
+   [
+    "Thân máy",
+    "Màn hình",
+    "Bàn phím",
+    "Chuột"
+   ],
+   "Thân máy là hộp chứa bộ xử lý trung tâm và các linh kiện chính."
+  ],
+  [
+   "Thao tác nào sau đây giúp em mở một tệp hoặc phần mềm khi biểu tượng của nó đã hiển thị trên màn hình?",
+   [
+    "Nháy đúp chuột",
+    "Nháy chuột",
+    "Di chuyển chuột",
+    "Nhấn phím Enter"
+   ],
+   "Nháy đúp chuột (nhấn nhanh hai lần nút trái) dùng để mở chương trình hoặc tệp."
+  ],
+  [
+   "Em nên đặt tay như thế nào trên bàn phím máy tính để gõ đúng cách?",
+   [
+    "Đặt các ngón tay lên hàng phím cơ sở",
+    "Dùng một ngón tay trỏ để gõ tất cả các phím",
+    "Đặt tay tự do không theo quy tắc",
+    "Chỉ dùng tay trái để gõ phím chữ"
+   ],
+   "Đặt tay lên hàng phím cơ sở giúp em gõ phím nhanh và chính xác hơn."
+  ],
+  [
+   "Khi em đang gõ văn bản, nếu muốn xóa ký tự nằm ngay bên trái con trỏ soạn thảo, em dùng phím nào?",
+   [
+    "Backspace",
+    "Delete",
+    "Enter",
+    "Spacebar"
+   ],
+   "Phím Backspace dùng để xóa ký tự đứng ngay trước (bên trái) con trỏ."
+  ],
+  [
+   "Để di chuyển một biểu tượng trên màn hình nền đến vị trí khác, em dùng thao tác nào với chuột?",
+   [
+    "Kéo thả chuột",
+    "Nháy đúp chuột",
+    "Nháy chuột phải",
+    "Cuộn lăn chuột"
+   ],
+   "Kéo thả chuột là giữ nút trái chuột và di chuyển đến vị trí mới rồi thả ra."
+  ],
+  [
+   "Phím dài nhất trên bàn phím máy tính có tên là gì?",
+   [
+    "Phím Cách",
+    "Phím Enter",
+    "Phím Shift",
+    "Phím Caps Lock"
+   ],
+   "Phím Cách (Spacebar) là phím dài nằm ở hàng dưới cùng của bàn phím."
+  ],
+  [
+   "Thông tin hiển thị trên màn hình máy tính thuộc loại thông tin nào?",
+   [
+    "Hình ảnh và chữ",
+    "Chỉ có âm thanh",
+    "Chỉ có chữ viết",
+    "Chỉ có hình vẽ động"
+   ],
+   "Màn hình hiển thị kết quả dưới dạng hình ảnh và chữ viết cho người dùng quan sát."
+  ],
+  [
+   "Khi sử dụng máy tính trong thời gian dài, em nên làm gì để bảo vệ mắt?",
+   [
+    "Nhìn ra xa hoặc nghỉ ngơi sau mỗi 20 phút",
+    "Tắt đèn phòng cho màn hình sáng rõ hơn",
+    "Ngồi sát màn hình để nhìn cho rõ chữ",
+    "Làm việc liên tục không nghỉ ngơi"
+   ],
+   "Nghỉ ngơi và nhìn ra xa giúp mắt không bị mỏi khi dùng máy tính lâu."
+  ],
+  [
+   "Để tắt máy tính đúng cách, em thực hiện thao tác nào trước tiên?",
+   [
+    "Nháy nút Start rồi chọn Shut down",
+    "Rút dây nguồn của thân máy",
+    "Nhấn nút công tắc trên màn hình",
+    "Gập màn hình máy tính lại ngay"
+   ],
+   "Em luôn cần chọn lệnh Shut down trong hệ điều hành trước khi cắt nguồn điện."
+  ],
+  [
+   "Em dùng thiết bị nào để ghi âm giọng nói của mình vào máy tính?",
+   [
+    "Micro",
+    "Loa",
+    "Màn hình",
+    "Bàn phím"
+   ],
+   "Micro là thiết bị thu âm thanh từ bên ngoài vào trong máy tính."
+  ],
+  [
+   "Khi em cần xuống dòng để bắt đầu đoạn văn bản mới, em nhấn phím nào?",
+   [
+    "Enter",
+    "Space",
+    "Tab",
+    "Esc"
+   ],
+   "Phím Enter giúp em xuống dòng hoặc kết thúc một lệnh."
+  ],
+  [
+   "Đâu là tư thế ngồi đúng khi sử dụng máy tính?",
+   [
+    "Lưng thẳng, mắt cách màn hình từ 50 đến 70 cm",
+    "Ngồi ngả người ra phía sau, cúi sát màn hình",
+    "Nằm bò lên bàn để nhìn gần hơn",
+    "Ngồi lệch một bên để dễ thao tác chuột"
+   ],
+   "Ngồi thẳng lưng và giữ khoảng cách hợp lý giúp bảo vệ cột sống và mắt."
+  ],
+  [
+   "Phím Caps Lock trên bàn phím có chức năng chính là gì?",
+   [
+    "Bật chế độ gõ chữ in hoa liên tục",
+    "Xóa ký tự vừa gõ",
+    "Xuống dòng văn bản",
+    "Tạo khoảng cách giữa các từ"
+   ],
+   "Khi đèn Caps Lock sáng, mọi chữ cái em gõ sẽ tự động in hoa."
+  ],
+  [
+   "Nếu máy tính đang bật mà em rút ngay nguồn điện để tắt máy, điều gì có thể xảy ra?",
+   [
+    "Có thể làm hỏng thiết bị và mất dữ liệu",
+    "Máy tính sẽ chạy nhanh hơn lần sau",
+    "Không có hiện tượng gì xảy ra",
+    "Màn hình tự động chuyển sang chế độ tiết kiệm điện"
+   ],
+   "Tắt máy đột ngột bằng cách ngắt nguồn điện rất dễ gây lỗi hệ thống và hỏng hóc."
+  ],
+  [
+   "Em có thể tìm thấy biểu tượng của các chương trình và tệp ở đâu khi mới mở máy tính?",
+   [
+    "Trên màn hình nền",
+    "Bên trong thân máy",
+    "Trên bề mặt bàn phím",
+    "Phía sau màn hình"
+   ],
+   "Màn hình nền (Desktop) là nơi chứa các biểu tượng để em dễ dàng truy cập."
+  ],
+  [
+   "Khi giáo viên yêu cầu quan sát kết quả hiển thị của bài tập vẽ trên máy tính, em nhìn vào bộ phận nào?",
+   [
+    "Màn hình",
+    "Bàn phím",
+    "Chuột",
+    "Ổ đĩa"
+   ],
+   "Màn hình hiển thị kết quả hình ảnh để em quan sát."
+  ],
+  [
+   "Thao tác nhấn và thả nhanh nút trái chuột một lần gọi là gì?",
+   [
+    "Nháy chuột",
+    "Nháy đúp chuột",
+    "Kéo thả chuột",
+    "Nháy chuột phải"
+   ],
+   "Nháy chuột là nhấn và thả nhanh nút trái chuột một lần."
+  ],
+  [
+   "Em đang soạn thảo một câu dài nhưng quên cách tạo khoảng cách giữa các từ, em sẽ dùng phím nào?",
+   [
+    "Phím dài nhất trên bàn phím",
+    "Phím Enter",
+    "Phím Shift",
+    "Phím Delete"
+   ],
+   "Phím dài nhất là phím Cách, dùng để tạo khoảng trắng giữa các từ trong câu."
+  ],
+  [
+   "Thiết bị nào sau đây dùng để đưa thông tin từ thế giới bên ngoài vào máy tính?",
+   [
+    "Bàn phím",
+    "Màn hình",
+    "Loa",
+    "Máy in"
+   ],
+   "Bàn phím là thiết bị đưa thông tin vào, còn màn hình, loa và máy in là thiết bị đưa thông tin ra."
+  ],
+  [
+   "Em dùng thiết bị nào dưới đây để nghe âm thanh phát ra từ máy tính?",
+   [
+    "Loa",
+    "Chuột",
+    "Bàn phím",
+    "Máy quét"
+   ],
+   "Loa là thiết bị giúp em nghe được các âm thanh từ máy tính phát ra."
+  ],
+  [
+   "Phím nào sau đây nằm ở hàng phím cơ sở và dùng để cách giữa các từ?",
+   [
+    "Phím cách",
+    "Phím Enter",
+    "Phím Backspace",
+    "Phím Shift"
+   ],
+   "Phím cách (Spacebar) là phím dài nhất ở hàng dưới cùng, dùng để tạo khoảng trắng giữa các từ."
+  ],
+  [
+   "Để mở một trò chơi trên màn hình nền, em thực hiện thao tác nào với chuột?",
+   [
+    "Nháy đúp chuột",
+    "Nháy chuột",
+    "Nhấn giữ nút phải chuột",
+    "Di chuyển chuột"
+   ],
+   "Nháy đúp chuột (nhấn nhanh hai lần nút trái chuột) là thao tác dùng để mở tệp hoặc phần mềm."
+  ],
+  [
+   "Khi em gõ văn bản, phím nào giúp em xuống dòng để bắt đầu đoạn mới?",
+   [
+    "Phím Enter",
+    "Phím Space",
+    "Phím Tab",
+    "Phím Esc"
+   ],
+   "Phím Enter dùng để kết thúc đoạn văn bản hiện tại và xuống dòng để tạo đoạn mới."
+  ],
+  [
+   "Em muốn xóa một chữ cái vừa gõ nhầm nằm ngay bên phải con trỏ soạn thảo, em dùng phím nào?",
+   [
+    "Phím Delete",
+    "Phím Backspace",
+    "Phím Shift",
+    "Phím Enter"
+   ],
+   "Phím Delete dùng để xóa kí tự nằm ngay bên phải con trỏ soạn thảo, khác với Backspace dùng để xóa bên trái."
+  ],
+  [
+   "Phím nào sau đây khi bật đèn sáng sẽ giúp em gõ toàn chữ in hoa mà không cần giữ phím Shift?",
+   [
+    "Phím Caps Lock",
+    "Phím Num Lock",
+    "Phím Scroll Lock",
+    "Phím Space"
+   ],
+   "Khi đèn Caps Lock sáng, các chữ cái em gõ sẽ tự động in hoa."
+  ],
+  [
+   "Bạn An muốn chụp lại bức ảnh của gia đình để đưa vào máy tính, bạn nên dùng thiết bị nào?",
+   [
+    "Máy ảnh số hoặc máy quét",
+    "Loa",
+    "Máy in",
+    "Màn hình"
+   ],
+   "Máy ảnh số hoặc máy quét là thiết bị giúp đưa hình ảnh từ giấy hoặc bên ngoài vào trong máy tính."
+  ],
+  [
+   "Em thấy biểu tượng “This PC” trên màn hình nền máy tính. Biểu tượng này dùng để làm gì?",
+   [
+    "Giúp em xem các ổ đĩa và tệp tin trong máy tính",
+    "Giúp em gõ chữ nhanh hơn",
+    "Giúp em kết nối Internet ngay lập tức",
+    "Giúp em điều chỉnh âm lượng loa"
+   ],
+   "Biểu tượng This PC hoặc My Computer giúp quản lý và xem các thông tin, ổ đĩa lưu trữ bên trong máy tính."
+  ],
+  [
+   "Trên bàn phím, ngón tay cái của cả hai tay thường được đặt ở phím nào khi gõ đúng cách?",
+   [
+    "Phím cách",
+    "Phím Enter",
+    "Phím Shift",
+    "Phím F"
+   ],
+   "Cả hai ngón cái của học sinh đều được đặt nhẹ nhàng lên phím cách (Spacebar)."
+  ],
+  [
+   "Nếu em đang sử dụng máy tính mà thấy màn hình tối đen, quạt trong thân máy không kêu, em nên kiểm tra điều gì đầu tiên?",
+   [
+    "Kiểm tra dây nguồn điện đã cắm chắc chắn chưa",
+    "Kiểm tra xem đã mở loa chưa",
+    "Kiểm tra bàn phím đã kết nối chưa",
+    "Kiểm tra chuột đã cắm chưa"
+   ],
+   "Khi máy tính không có điện vào, việc đầu tiên cần kiểm tra là nguồn điện và dây cắm."
+  ],
+  [
+   "Bạn Bình muốn vẽ một bức tranh thật đẹp trên máy tính rồi in ra giấy để treo tường. Bạn Bình cần dùng những thiết bị nào?",
+   [
+    "Chuột, bàn phím, màn hình và máy in",
+    "Chỉ cần máy in và loa",
+    "Chỉ cần bàn phím và máy quét",
+    "Chỉ cần chuột và loa"
+   ],
+   "Để vẽ và in tranh, em cần máy tính (có chuột, bàn phím, màn hình) để thao tác và máy in để in ra giấy."
   ]
  ],
  "c2": [
@@ -131,6 +451,356 @@
     "Tự đi học"
    ],
    "Máy tính hỗ trợ xử lí thông tin."
+  ],
+  [
+   "Khi em nhìn thấy bảng chỉ dẫn “Cấm hút thuốc” đặt ở bệnh viện, bộ phận nào trên cơ thể giúp em tiếp nhận thông tin đó?",
+   [
+    "Mắt",
+    "Tai",
+    "Mũi",
+    "Tay"
+   ],
+   "Mắt giúp em nhìn thấy các hình ảnh và chữ viết trên bảng chỉ dẫn."
+  ],
+  [
+   "Hành động nào sau đây thể hiện việc con người dùng tai để thu nhận thông tin?",
+   [
+    "Nghe tiếng chuông báo thức reo vào buổi sáng",
+    "Ngửi thấy mùi thơm của hoa hồng trong vườn",
+    "Sờ vào cốc nước ấm để biết nước nóng hay lạnh",
+    "Nhìn thấy biển báo hướng dẫn lối thoát hiểm"
+   ],
+   "Tai là cơ quan thính giác giúp chúng ta nghe được các âm thanh xung quanh."
+  ],
+  [
+   "Thông tin nào dưới đây thuộc dạng âm thanh?",
+   [
+    "Tiếng chim hót ríu rít trên cành cây",
+    "Bức tranh phong cảnh vẽ cánh đồng lúa",
+    "Quyển sách Tiếng Việt lớp 3",
+    "Tờ lịch treo tường ghi ngày tháng"
+   ],
+   "Tiếng chim hót là âm thanh mà tai chúng ta nghe được."
+  ],
+  [
+   "Dạng thông tin nào xuất hiện khi em đọc một câu chuyện cổ tích trong sách?",
+   [
+    "Dạng văn bản",
+    "Dạng âm thanh",
+    "Dạng hình ảnh",
+    "Dạng số liệu"
+   ],
+   "Chữ viết trong sách là thông tin dạng văn bản."
+  ],
+  [
+   "Khi cô giáo gọi tên em đứng lên trả lời câu hỏi, quá trình xử lí thông tin của em diễn ra theo thứ tự nào?",
+   [
+    "Thu nhận thông tin qua tai, não suy nghĩ, phát ra lời nói",
+    "Não suy nghĩ trước, rồi mới nghe thấy tiếng cô gọi",
+    "Phát ra lời nói ngay lập tức rồi mới nghe",
+    "Thu nhận thông tin qua mắt, não suy nghĩ, viết ra giấy"
+   ],
+   "Đầu tiên tai nghe tiếng gọi, não phân tích và đưa ra câu trả lời bằng lời nói."
+  ],
+  [
+   "Em ngửi thấy mùi khét phát ra từ bếp, não bộ sẽ giúp em đưa ra phán đoán nào hợp lí nhất?",
+   [
+    "Có thể thức ăn đang bị cháy",
+    "Có tiếng nhạc đang phát rất hay",
+    "Trời sắp có mưa giông lớn",
+    "Có bạn đang gọt bút chì"
+   ],
+   "Mùi khét là dấu hiệu cho thấy có vật gì đó bị cháy ở gần."
+  ],
+  [
+   "Bộ phận nào trên cơ thể đóng vai trò là “trung tâm” xử lí thông tin thu nhận được từ các giác quan?",
+   [
+    "Bộ não",
+    "Bàn tay",
+    "Đôi tai",
+    "Cái mũi"
+   ],
+   "Bộ não tiếp nhận thông tin từ các giác quan, xử lí và đưa ra quyết định."
+  ],
+  [
+   "Thông tin dạng hình ảnh mang lại cho em điều gì?",
+   [
+    "Giúp em quan sát và nhận biết sự vật, sự việc qua hình vẽ, tranh ảnh",
+    "Giúp em nghe được các giai điệu âm nhạc",
+    "Giúp em đọc hiểu các bài văn, bài thơ",
+    "Giúp em tính toán các con số nhanh chóng"
+   ],
+   "Thông tin dạng hình ảnh được tiếp nhận chủ yếu bằng mắt qua tranh ảnh, màu sắc."
+  ],
+  [
+   "Việc làm nào sau đây KHÔNG phải là quá trình xử lí thông tin?",
+   [
+    "Nhắm mắt lại và đi ngủ suốt buổi tối",
+    "Nghe dự báo thời tiết rồi mang theo ô khi đi học",
+    "Đọc bản đồ để tìm đường đi đến nhà bạn",
+    "Nhìn thấy đèn đỏ và dừng xe lại trước vạch"
+   ],
+   "Nhắm mắt đi ngủ là trạng thái nghỉ ngơi, không phải là hoạt động thu nhận và xử lí thông tin."
+  ],
+  [
+   "Khi bạn đọc một bản tin dự báo thời tiết trên ti vi có hình ông mặt trời và chữ “Nắng nóng 35 độ”, thông tin em nhận được gồm những dạng nào?",
+   [
+    "Hình ảnh, văn bản và số liệu",
+    "Chỉ có dạng âm thanh",
+    "Chỉ có dạng hình ảnh",
+    "Chỉ có dạng văn bản"
+   ],
+   "Bản tin có hình ông mặt trời (hình ảnh), chữ viết (văn bản) và số 35 (số liệu)."
+  ],
+  [
+   "Em đang làm bài toán, đọc đề bài rồi tính ra kết quả viết vào vở. Đâu là thông tin vào (đầu vào)?",
+   [
+    "Đề bài toán",
+    "Kết quả tính toán",
+    "Quyển vở của em",
+    "Cái bút chì"
+   ],
+   "Đề bài là thông tin đầu vào để em đọc và xử lí."
+  ],
+  [
+   "Bạn An nhìn thấy bầu trời nhiều mây đen, sấm chớp và nghe thấy tiếng ù ù. An liền thu quần áo đang phơi ngoài sân vào nhà. Hành động thu quần áo của An dựa trên việc xử lí thông tin nào?",
+   [
+    "Trời sắp có mưa giông",
+    "Trời chuẩn bị có nắng gắt",
+    "Trời sắp có gió mùa đông bắc",
+    "Trời chuẩn bị có sương mù"
+   ],
+   "Mây đen, sấm chớp và tiếng động là dấu hiệu báo trời sắp mưa."
+  ],
+  [
+   "Khi em dùng tay sờ vào một cục đá lấy từ tủ lạnh ra, em nhận được thông tin gì?",
+   [
+    "Biết được cục đá rất lạnh",
+    "Biết được cục đá có màu trắng",
+    "Biết được cục đá có mùi thơm",
+    "Biết được cục đá phát ra tiếng động"
+   ],
+   "Tay chạm vào đá giúp nhận biết nhiệt độ lạnh thông qua xúc giác."
+  ],
+  [
+   "Trong các tình huống sau, tình huống nào con người thu nhận thông tin dạng số liệu?",
+   [
+    "Nhìn nhiệt kế thấy nhiệt độ là 38 độ C",
+    "Nghe tiếng kèn trống vang lên",
+    "Đọc truyện tranh doremon",
+    "Nhìn thấy bông hoa hồng đỏ thắm"
+   ],
+   "Con số 38 chỉ nhiệt độ là thông tin dạng số liệu."
+  ],
+  [
+   "Vì sao khi tham gia giao thông, chúng ta cần quan sát kĩ các biển báo và tín hiệu đèn?",
+   [
+    "Để xử lí thông tin kịp thời, di chuyển an toàn và đúng luật",
+    "Để đi nhanh hơn tất cả mọi người trên đường",
+    "Để đếm xem trên đường có bao nhiêu cái cột điện",
+    "Để nghe xem âm thanh xung quanh có to không"
+   ],
+   "Quan sát giúp chúng ta có thông tin để xử lí và tuân thủ luật giao thông."
+  ],
+  [
+   "Em chuẩn bị đi học, nhìn đồng hồ thấy kim chỉ 6 giờ 30 phút, em tự nhủ “Mình sắp muộn học rồi”. Thông tin số liệu 6.30 giúp em xử lí điều gì?",
+   [
+    "Biết được thời gian hiện tại để đi học cho đúng giờ",
+    "Biết được nhiệt độ trong phòng",
+    "Biết được khoảng cách từ nhà đến trường",
+    "Biết được số lượng bài tập về nhà"
+   ],
+   "Con số trên đồng hồ cho biết thời gian để em căn chỉnh lịch trình cá nhân."
+  ],
+  [
+   "Khi em giải một câu đố mẹo, bộ phận nào hoạt động tích cực nhất để tìm ra đáp án?",
+   [
+    "Bộ não",
+    "Đôi chân",
+    "Cái miệng",
+    "Bàn tay"
+   ],
+   "Bộ não suy nghĩ, phân tích dữ liệu của câu đố để đưa ra đáp án chính xác."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện việc xử lí thông tin chưa chính xác hoặc bất cẩn?",
+   [
+    "Nghe tiếng chuông hết giờ ra chơi nhưng vẫn cố chơi tiếp không vào lớp",
+    "Nhìn thấy đèn đỏ thì dừng xe lại trước vạch",
+    "Nghe dự báo trời mưa nên mang theo áo mưa",
+    "Đọc thực đơn trước khi gọi món ăn trong quán"
+   ],
+   "Nghe tiếng chuông báo hết giờ nhưng cố tình phớt lờ là xử lí thông tin sai lệch nội quy."
+  ],
+  [
+   "Nam nghe cô giáo đọc bảng điểm thi môn Tin học. Nam nhớ lại điểm số của mình và các bạn. Quá trình Nam nghe và nhớ lại được gọi là gì?",
+   [
+    "Thu nhận và ghi nhớ thông tin",
+    "Phát ra âm thanh",
+    "Tạo ra hình ảnh mới",
+    "Tính toán số liệu toán học"
+   ],
+   "Nghe và nhớ lại là quá trình tiếp nhận thông tin từ âm thanh rồi lưu giữ trong trí nhớ."
+  ],
+  [
+   "Khi em nhìn vào cuốn sách giáo khoa Tin học lớp 3, thông tin em thu nhận được chủ yếu thuộc dạng nào?",
+   [
+    "Dạng văn bản và hình ảnh",
+    "Dạng âm thanh",
+    "Dạng số liệu thuần túy",
+    "Dạng mùi vị"
+   ],
+   "Sách giáo khoa chứa các chữ viết (văn bản) và các hình vẽ minh họa (hình ảnh)."
+  ],
+  [
+   "Hành động nào dưới đây của học sinh thể hiện việc tiếp nhận thông tin dạng âm thanh?",
+   [
+    "Lắng nghe cô giáo giảng bài trên lớp",
+    "Đọc một trang truyện tranh",
+    "Quan sát bức tranh phong cảnh",
+    "Ngửi mùi thơm của hoa trong vườn"
+   ],
+   "Nghe cô giáo giảng bài là thu nhận thông tin qua tai dưới dạng âm thanh."
+  ],
+  [
+   "Khi em mở bản nhạc trên máy tính và nghe thấy tiếng hát, máy tính đã giúp em xử lí thông tin dạng gì?",
+   [
+    "Dạng âm thanh",
+    "Dạng văn bản",
+    "Dạng chữ viết",
+    "Dạng hình vẽ"
+   ],
+   "Tiếng hát phát ra từ loa máy tính là thông tin dạng âm thanh."
+  ],
+  [
+   "Em nhìn thấy biển báo có hình chiếc giày và vạch chéo màu đỏ ở khu vực trơn trượt. Biển báo đó cung cấp thông tin gì?",
+   [
+    "Cảnh báo khu vực nguy hiểm dễ trơn trượt",
+    "Chỉ dẫn nơi bán giày dép",
+    "Cho phép chạy nhảy thoải mái",
+    "Báo hiệu có cửa hàng sửa giày"
+   ],
+   "Biển báo cấm hoặc cảnh báo thường dùng hình ảnh trực quan để nhắc nhở người qua lại."
+  ],
+  [
+   "Quá trình xử lí thông tin của con người diễn ra theo thứ tự nào là đúng nhất?",
+   [
+    "Thu nhận thông tin, Xử lí và ra quyết định, Hành động",
+    "Hành động, Thu nhận thông tin, Xử lí",
+    "Xử lí thông tin, Thu nhận, Kết quả",
+    "Thu nhận thông tin, Hành động, Xử lí"
+   ],
+   "Bộ não luôn phải tiếp nhận thông tin trước, sau đó mới phân tích và đưa ra hành động phản ứng."
+  ],
+  [
+   "Khi em đi qua một vườn hoa và ngửi thấy mùi hương dễ chịu, bộ phận nào trên cơ thể giúp em nhận biết điều đó?",
+   [
+    "Mũi",
+    "Tai",
+    "Mắt",
+    "Tay"
+   ],
+   "Mũi là cơ quan khứu giác giúp chúng ta ngửi và nhận biết các mùi hương."
+  ],
+  [
+   "Trong các ví dụ sau, đâu là thông tin dạng số liệu giúp em biết thời gian?",
+   [
+    "Đồng hồ treo tường chỉ 7 giờ",
+    "Bản tin dự báo thời tiết có hình mưa",
+    "Tiếng còi xe cứu thương ngoài đường",
+    "Mùi thơm của món ăn mẹ nấu"
+   ],
+   "Số 7 giờ trên đồng hồ là thông tin dạng số liệu về thời gian."
+  ],
+  [
+   "Bạn Minh nhìn thấy trời đổ mưa bất ngờ liền chạy đi cất sách vở. Đâu là thông tin đầu vào (thông tin thu nhận) trong tình huống này?",
+   [
+    "Nhìn thấy trời mưa",
+    "Chạy đi cất sách vở",
+    "Suy nghĩ về cơn mưa",
+    "Đóng cửa sổ phòng học"
+   ],
+   "Việc nhìn thấy trời mưa là thông tin ban đầu mà mắt Minh thu nhận được."
+  ],
+  [
+   "Khi em làm bài tập toán và viết đáp số vào vở, bộ phận nào của em đang làm nhiệm vụ điều khiển tay viết?",
+   [
+    "Não bộ",
+    "Tai",
+    "Mắt",
+    "Mũi"
+   ],
+   "Não bộ là trung tâm chỉ huy mọi hoạt động suy nghĩ và điều khiển các bộ phận khác."
+  ],
+  [
+   "Hành động nào dưới đây cho thấy con người đang xử lí thông tin để giải quyết vấn đề?",
+   [
+    "Giải một bài toán đố khó sau khi đọc đề",
+    "Nhìn chằm chằm vào màn hình ti vi tắt",
+    "Ngồi im lặng không nghe ai nói gì",
+    "Đeo tai nghe nhưng không mở nhạc"
+   ],
+   "Việc đọc đề và suy nghĩ giải toán là quá trình xử lí thông tin tích cực."
+  ],
+  [
+   "Thông tin nào dưới đây giúp em biết được nhiệt độ ngoài trời khi xem bản tin thời tiết?",
+   [
+    "Con số 32 độ",
+    "Tiếng gió thổi ù ù",
+    "Hình ảnh đám mây đen",
+    "Màu sắc của bầu trời"
+   ],
+   "Con số kèm theo đơn vị độ là thông tin dạng số liệu biểu thị nhiệt độ."
+  ],
+  [
+   "Khi em sờ tay vào cốc nước ấm, em cảm nhận được điều gì?",
+   [
+    "Nhiệt độ của nước",
+    "Màu sắc của cốc",
+    "Âm thanh của nước",
+    "Mùi vị của nước"
+   ],
+   "Xúc giác ở tay giúp em nhận biết độ nóng hoặc lạnh của vật thể."
+  ],
+  [
+   "Việc làm nào sau đây KHÔNG phải là thu nhận thông tin?",
+   [
+    "Nhắm nghiền mắt khi đi ngủ trong phòng tối",
+    "Đọc một bức thư bạn gửi",
+    "Nghe tiếng chuông báo thức reo",
+    "Nếm thử vị ngọt của viên kẹo"
+   ],
+   "Nhắm mắt trong phòng tối không giúp thu nhận thêm các thị giác mới từ bên ngoài."
+  ],
+  [
+   "Khi tham gia trò chơi “Đố chữ”, việc em suy nghĩ để tìm ra từ khóa chính là quá trình gì?",
+   [
+    "Xử lí thông tin",
+    "Thu nhận thông tin",
+    "Phát ra âm thanh",
+    "Truyền dẫn dữ liệu"
+   ],
+   "Suy nghĩ để tìm đáp án chính là hoạt động xử lí thông tin của não bộ."
+  ],
+  [
+   "Thông tin dạng hình ảnh mang lại lợi ích gì cho em khi học tập?",
+   [
+    "Giúp bài học sinh động và dễ hiểu hơn",
+    "Giúp nghe rõ tiếng cô giáo hơn",
+    "Giúp ngửi thấy mùi thơm dễ chịu",
+    "Giúp cảm nhận được độ mềm của sách"
+   ],
+   "Hình ảnh minh họa trực quan giúp học sinh tiếp thu bài nhanh và nhớ lâu hơn."
+  ],
+  [
+   "Bạn Lan nghe mẹ dặn “Con nhớ tắt quạt trước khi ra ngoài”. Thông tin Lan nhận được gồm những dạng nào?",
+   [
+    "Dạng âm thanh và dạng ngôn ngữ nói",
+    "Dạng hình ảnh và dạng số liệu",
+    "Dạng mùi vị và dạng chữ viết",
+    "Dạng màu sắc và dạng nhiệt độ"
+   ],
+   "Mẹ nói cho Lan nghe là âm thanh và lời nói mang ý nghĩa ngôn ngữ."
   ]
  ],
  "c3": [
@@ -183,6 +853,356 @@
     "Không bao giờ nghỉ"
    ],
    "Dùng có giới hạn, nghỉ giải lao để bảo vệ sức khỏe."
+  ],
+  [
+   "Thiết bị nào sau đây giúp máy tính kết nối được với Internet không dây?",
+   [
+    "Bộ định tuyến Wi-Fi",
+    "Bàn phím",
+    "Chuột máy tính",
+    "Màn hình"
+   ],
+   "Bộ định tuyến Wi-Fi phát sóng không dây giúp các thiết bị kết nối mạng, còn bàn phím, chuột và màn hình là các thiết bị cơ bản."
+  ],
+  [
+   "Đâu là biểu hiện của việc sử dụng Internet đúng cách?",
+   [
+    "Chỉ xem các chương trình và trò chơi phù hợp với lứa tuổi",
+    "Tự ý kết bạn và gặp mặt người lạ trên mạng",
+    "Chơi game liên tục suốt cả ngày không nghỉ ngơi",
+    "Chia sẻ địa chỉ nhà của mình cho mọi người trên mạng"
+   ],
+   "Học sinh lớp 3 chỉ nên xem nội dung phù hợp với lứa tuổi và không nên chia sẻ thông tin cá nhân hay gặp người lạ."
+  ],
+  [
+   "Khi em đang xem một video giải trí vui nhộn trên máy tính của bố mẹ, việc đó thể hiện lợi ích nào của Internet?",
+   [
+    "Giúp em giải trí sau giờ học",
+    "Giúp em mua sắm quần áo",
+    "Giúp em khám phá không gian vũ trụ",
+    "Giúp em gửi thư điện tử cho cô giáo"
+   ],
+   "Xem video giải trí là một cách sử dụng Internet để thư giãn sau những giờ học căng thẳng."
+  ],
+  [
+   "Em muốn tìm kiếm hình ảnh con mèo để làm bài tập vẽ, em nên sử dụng công cụ nào trên Internet?",
+   [
+    "Máy tìm kiếm",
+    "Phần mềm vẽ Paint",
+    "Trò chơi điện tử",
+    "Phần mềm soạn thảo văn bản"
+   ],
+   "Máy tìm kiếm trên Internet giúp em tìm kiếm nhanh chóng các hình ảnh, thông tin theo yêu cầu."
+  ],
+  [
+   "Hành động nào sau đây có thể gây hại cho sức khỏe khi em sử dụng máy tính kết nối Internet?",
+   [
+    "Ngồi sát màn hình và chơi game quá nhiều giờ liên tục",
+    "Ngồi thẳng lưng và cách màn hình khoảng 50 cm",
+    "Nghỉ giải lao sau mỗi 30 phút sử dụng máy tính",
+    "Tập các bài thể dục nhẹ nhàng sau khi dùng máy tính"
+   ],
+   "Ngồi quá sát màn hình và chơi game liên tục nhiều giờ sẽ làm hỏng mắt và ảnh hưởng xấu đến sức khỏe."
+  ],
+  [
+   "Phát biểu nào sau đây là ĐÚNG khi nói về mạng Internet?",
+   [
+    "Internet kết nối hàng triệu máy tính và thiết bị trên khắp thế giới",
+    "Internet chỉ có ở trong phòng học của trường tiểu học",
+    "Internet chỉ dùng để chơi trò chơi điện tử",
+    "Internet là một thiết bị phần cứng có thể cầm nắm được"
+   ],
+   "Internet là mạng kết nối vô số máy tính và thiết bị trên toàn cầu, không phải là thiết bị cầm nắm được."
+  ],
+  [
+   "Để tìm hiểu về cách gấp giấy origami, em và bố mẹ có thể tìm ở đâu trên Internet?",
+   [
+    "Trang web có video hướng dẫn làm thủ công",
+    "Phần mềm tính toán bảng tính",
+    "Trò chơi đua xe trực tuyến",
+    "Chương trình soạn thảo văn bản"
+   ],
+   "Các trang web chia sẻ video là nguồn hữu ích để tìm các hướng dẫn học tập và làm thủ công."
+  ],
+  [
+   "Bạn Nam muốn gửi một bức tranh do tự tay mình vẽ qua mạng cho bạn ở tỉnh xa, thiết bị nào cần có kết nối?",
+   [
+    "Máy tính có kết nối Internet",
+    "Tờ giấy vẽ và bút sáp màu",
+    "Chiếc thước kẻ bằng gỗ",
+    "Cục tẩy và bút chì"
+   ],
+   "Để gửi tệp đi xa qua mạng, máy tính bắt buộc phải được kết nối với Internet."
+  ],
+  [
+   "Khi sử dụng Internet, nếu xuất hiện một bảng thông báo lạ yêu cầu em cung cấp họ tên và số điện thoại để nhận quà, em nên làm gì?",
+   [
+    "Tắt ngay bảng thông báo và báo cho người lớn biết",
+    "Nhập ngay thông tin để nhận quà miễn phí",
+    "Gửi thông tin cho các bạn khác cùng nhận",
+    "Chụp ảnh lại và đăng lên trang cá nhân"
+   ],
+   "Các thông báo nhận quà lạ trên mạng thường là lừa đảo, em tuyệt đối không cung cấp thông tin cá nhân."
+  ],
+  [
+   "Em sử dụng máy tính để cùng các bạn trong nhóm thảo luận bài tập qua mạng, việc này giúp ích gì cho học tập?",
+   [
+    "Giúp em trao đổi thông tin và học tập cùng nhau dễ dàng hơn",
+    "Giúp em không cần phải đến trường học nữa",
+    "Giúp em chơi game giỏi hơn các bạn khác",
+    "Giúp em làm xong bài tập mà không cần suy nghĩ"
+   ],
+   "Internet hỗ trợ kết nối mọi người để cùng nhau trao đổi bài tập và học nhóm thuận lợi hơn."
+  ],
+  [
+   "Thành phần nào dưới đây KHÔNG phải là một thiết bị kết nối mạng?",
+   [
+    "Quyển vở ghi chép",
+    "Máy tính bảng",
+    "Điện thoại thông minh",
+    "Máy tính xách tay"
+   ],
+   "Quyển vở ghi chép là dụng cụ học tập thông thường, không có chức năng kết nối mạng như các thiết bị điện tử."
+  ],
+  [
+   "Vì sao chúng ta không nên kết bạn với người lạ trên mạng xã hội?",
+   [
+    "Vì có thể gặp kẻ xấu giả mạo và gây nguy hiểm cho bản thân",
+    "Vì người lạ không biết chơi các trò chơi giống em",
+    "Vì người lạ không bao giờ dùng máy tính bảng",
+    "Vì máy tính sẽ bị hỏng nếu kết bạn với người lạ"
+   ],
+   "Kẻ xấu có thể lợi dụng không gian mạng để lừa gạt, vì vậy học sinh không nên kết bạn với người lạ."
+  ],
+  [
+   "Khi tìm kiếm thông tin học tập trên Internet, nếu gặp một trang web có nội dung không lành mạnh, em nên làm gì?",
+   [
+    "Đóng ngay trang web đó lại và gọi bố mẹ đến giúp",
+    "Tò mò xem tiếp để biết nội dung bên trong",
+    "Lưu lại địa chỉ trang web để lần sau xem tiếp",
+    "Chia sẻ trang web đó cho các bạn cùng lớp xem"
+   ],
+   "Gặp nội dung không lành mạnh, em cần thoát ra ngay và thông báo cho người lớn biết."
+  ],
+  [
+   "Việc sử dụng Internet quá nhiều để chơi trò chơi điện tử vào ban đêm sẽ dẫn đến điều gì?",
+   [
+    "Gây mệt mỏi, buồn ngủ và ảnh hưởng kết quả học tập hôm sau",
+    "Giúp cơ thể khỏe mạnh và thông minh hơn",
+    "Giúp em nhớ lâu hơn các kiến thức trên lớp",
+    "Làm cho đôi mắt sáng hơn và tinh anh hơn"
+   ],
+   "Thức đêm chơi game làm cơ thể mệt mỏi, thiếu ngủ và ảnh hưởng xấu đến việc học ở trường."
+  ],
+  [
+   "Em hãy chọn phát biểu ĐÚNG về việc chia sẻ thông tin trên Internet.",
+   [
+    "Không được chia sẻ mật khẩu tài khoản của mình cho bất kỳ ai",
+    "Có thể chia sẻ số điện thoại của bố mẹ cho mọi người biết",
+    "Nên đăng tải hình ảnh nhà cửa và trường học lên mạng công khai",
+    "Có thể dùng tên thật và địa chỉ của mình để trò chuyện với người lạ"
+   ],
+   "Mật khẩu là thông tin bảo mật cá nhân, tuyệt đối không được chia sẻ cho người khác."
+  ],
+  [
+   "Hành động nào sau đây thể hiện em biết tận dụng Internet để phát triển bản thân?",
+   [
+    "Xem các video hướng dẫn học tiếng Anh và kỹ năng sống",
+    "Xem phim hoạt hình suốt từ sáng đến tối muộn",
+    "Nhắn tin trêu chọc các bạn khác trên mạng xã hội",
+    "Tải về máy tính rất nhiều trò chơi có nội dung bạo lực"
+   ],
+   "Sử dụng Internet để xem video học tập, tiếng Anh và kỹ năng sống là cách làm đúng đắn và hữu ích."
+  ],
+  [
+   "Khi bố mẹ nhắc nhở đã đến giờ tắt máy tính và đi ngủ, em nên ứng xử thế nào?",
+   [
+    "Vâng lời bố mẹ, tắt máy tính và chuẩn bị đi ngủ",
+    "Tiếp tục chơi trốn tìm trên máy tính khi bố mẹ không để ý",
+    "Cãi lời và xin chơi thêm hai tiếng nữa",
+    "Giấu máy tính đi để bố mẹ không tìm thấy"
+   ],
+   "Học sinh ngoan cần biết vâng lời người lớn, quản lý thời gian sử dụng thiết bị hợp lý."
+  ],
+  [
+   "Trường em muốn gửi thông báo khẩn cấp về lịch nghỉ học đến tất cả phụ huynh, phương thức nào qua mạng là nhanh nhất?",
+   [
+    "Gửi thư điện tử hoặc tin nhắn qua nhóm trực tuyến của lớp",
+    "In giấy thông báo rồi gửi qua đường bưu điện mất nhiều ngày",
+    "Vẽ tranh cổ động rồi treo ở cổng trường",
+    "Gọi điện thoại lần lượt cho từng người trong suốt cả ngày"
+   ],
+   "Thư điện tử hoặc các ứng dụng nhắn tin trực tuyến giúp truyền tải thông tin nhanh chóng đến nhiều người."
+  ],
+  [
+   "Điều gì có thể xảy ra nếu máy tính kết nối Internet của gia đình không được cài phần mềm diệt virus?",
+   [
+    "Máy tính dễ bị nhiễm mã độc làm mất dữ liệu hoặc hỏng máy",
+    "Máy tính sẽ chạy nhanh hơn gấp nhiều lần bình thường",
+    "Màn hình máy tính sẽ tự động đổi màu sắc liên tục",
+    "Bàn phím sẽ tự động gõ được các bài văn hay"
+   ],
+   "Thiếu phần mềm bảo vệ, máy tính rất dễ bị virus xâm nhập khi lướt web, gây hỏng hóc hoặc mất dữ liệu."
+  ],
+  [
+   "Bạn Hoa muốn tìm hiểu về các loài động vật ở châu Phi cho bài tập môn Tự nhiên và Xã hội, em hãy gợi ý cách làm nhanh nhất?",
+   [
+    "Dùng máy tính kết nối Internet để tìm kiếm hình ảnh và bài viết về động vật châu Phi",
+    "Đi ra vườn hoa của trường để tìm các con vật",
+    "Hỏi các bạn học sinh lớp một trong trường",
+    "Xem tranh vẽ phong cảnh quê hương trong sách giáo khoa"
+   ],
+   "Internet có kho tàng thông tin khổng lồ, giúp tra cứu nhanh chóng các kiến thức về thế giới tự nhiên."
+  ],
+  [
+   "Internet là gì?",
+   [
+    "Mạng toàn cầu kết nối hàng triệu máy tính với nhau.",
+    "Một loại máy tính hiện đại nhất thế giới.",
+    "Bộ phận bên trong của máy tính để bàn.",
+    "Trò chơi điện tử được cài trên máy tính."
+   ],
+   "Internet là mạng kết nối các máy tính trên toàn thế giới với nhau."
+  ],
+  [
+   "Biểu tượng nào sau đây thường được dùng để mở trình duyệt web xem thông tin trên Internet?",
+   [
+    "Google Chrome",
+    "Microsoft Word",
+    "Paint",
+    "Calculator"
+   ],
+   "Google Chrome là một trình duyệt web giúp em truy cập và xem thông tin trên Internet."
+  ],
+  [
+   "Dịch vụ nào của Internet giúp em nghe bài hát hay xem video hoạt hình?",
+   [
+    "Xem phim và giải trí trực tuyến",
+    "Soạn thảo văn bản",
+    "Sửa chữa máy tính",
+    "Quét dọn nhà cửa"
+   ],
+   "Internet cung cấp các kênh giải trí như nghe nhạc, xem video hoạt hình trực tuyến."
+  ],
+  [
+   "Để truy cập vào các trang web trên Internet, máy tính cần có phần mềm nào?",
+   [
+    "Trình duyệt web",
+    "Phần mềm luyện gõ bàn phím",
+    "Phần mềm vẽ tranh",
+    "Phần mềm tính toán"
+   ],
+   "Trình duyệt web là phần mềm giúp người dùng mở và xem nội dung các trang web."
+  ],
+  [
+   "Thiết bị nào sau đây kết nối các máy tính trong cùng một phòng học với nhau?",
+   [
+    "Bộ chia mạng (Switch) hoặc Router",
+    "Bàn phím máy tính",
+    "Chuột không dây",
+    "Máy in"
+   ],
+   "Bộ chia mạng (Switch) hoặc Router là thiết bị dùng để kết nối các máy tính thành một mạng."
+  ],
+  [
+   "Khi kết nối máy tính vào Internet, em có thể làm được việc nào sau đây?",
+   [
+    "Đọc tin tức và xem dự báo thời tiết",
+    "Tự động lau sạch bàn học",
+    "In tài liệu mà không cần giấy",
+    "Rửa sạch bàn phím bằng nước"
+   ],
+   "Internet giúp em cập nhật tin tức, xem thời tiết và tìm kiếm thông tin dễ dàng."
+  ],
+  [
+   "Thông tin nào sau đây được coi là thông tin cá nhân em CẦN BẢO MẬT khi sử dụng Internet?",
+   [
+    "Mật khẩu tài khoản học trực tuyến của em",
+    "Tên loài động vật em yêu thích",
+    "Tên món ăn em thích ăn nhất",
+    "Màu sắc chiếc xe đạp của em"
+   ],
+   "Mật khẩu là thông tin cá nhân quan trọng tuyệt đối không được tiết lộ cho người lạ trên mạng."
+  ],
+  [
+   "Nút bấm nào trên bàn phím giúp em xuống dòng khi đang gõ địa chỉ trang web?",
+   [
+    "Phím Enter",
+    "Phím Spacebar",
+    "Phím Shift",
+    "Phím Caps Lock"
+   ],
+   "Phím Enter dùng để xác nhận lệnh hoặc di chuyển xuống dòng mới khi nhập văn bản."
+  ],
+  [
+   "Khái niệm “Thông tin trên Internet” có đặc điểm gì?",
+   [
+    "Rất phong phú, đa dạng nhưng cần chọn lọc khi xem.",
+    "Tất cả đều là thông tin chính xác tuyệt đối.",
+    "Chỉ bao gồm các chữ cái, không có hình ảnh.",
+    "Do một người duy nhất trên thế giới viết ra."
+   ],
+   "Thông tin trên Internet rất nhiều nhưng có cả thông tin đúng và thông tin sai, em cần chọn lọc."
+  ],
+  [
+   "Khi em gõ từ khóa tìm kiếm vào trang web Google rồi nhấn Enter, kết quả nhận được là gì?",
+   [
+    "Danh sách các trang web liên quan đến từ khóa đó",
+    "Một bức tranh em tự vẽ trên máy tính",
+    "Máy tính tự động tắt nguồn",
+    "Một bản nhạc tự động phát ra"
+   ],
+   "Trang tìm kiếm sẽ trả về danh sách các liên kết và trang web chứa thông tin liên quan từ khóa."
+  ],
+  [
+   "Người quen của gia đình gửi cho em một tệp bài tập qua thư điện tử. Để mở tệp đó em cần làm gì?",
+   [
+    "Nháy đúp chuột vào tệp đính kèm để mở",
+    "Tắt máy tính đi rồi mở lại",
+    "Rút dây nguồn máy tính ra",
+    "Bấm phím Delete trên bàn phím"
+   ],
+   "Thao tác nháy đúp chuột vào tệp giúp em mở và xem nội dung tệp được gửi đến."
+  ],
+  [
+   "Bạn Minh muốn xem lại buổi học trực tuyến qua Zoom tuần trước mà cô giáo đã ghi hình lại. Minh cần kết nối máy tính với thiết bị gì?",
+   [
+    "Mạng Internet",
+    "Máy in màu",
+    "Máy quét hình ảnh",
+    "Ổ đĩa đĩa đĩa mềm"
+   ],
+   "Xem lại video lưu trữ trên mạng cần có kết nối Internet để truyền tải dữ liệu."
+  ],
+  [
+   "Bạn An mở máy tính thấy biểu tượng cột sóng Wi-Fi có dấu gạch chéo đỏ. Điều này có nghĩa là gì?",
+   [
+    "Máy tính chưa được kết nối với mạng Wi-Fi",
+    "Máy tính đang phát nhạc rất to",
+    "Màn hình máy tính bị hỏng",
+    "Máy tính đã đầy dung lượng bộ nhớ"
+   ],
+   "Biểu tượng Wi-Fi có dấu gạch chéo đỏ báo hiệu thiết bị chưa kết nối mạng không dây."
+  ],
+  [
+   "Để tìm bài hát “Đội ca” trên Internet nhanh nhất, em nên gõ từ khóa nào vào ô tìm kiếm?",
+   [
+    "Bài hát Đội ca",
+    "Những bài hát hay",
+    "Âm nhạc tiểu học",
+    "Bài hát thiếu nhi"
+   ],
+   "Gõ chính xác tên bài hát “Bài hát Đội ca” giúp máy tìm kiếm đưa ra kết quả đúng nhất."
+  ],
+  [
+   "Khi làm bài tập nhóm môn Tin học, em muốn gửi tệp văn bản bài làm cho bạn cùng nhóm ở nhà bạn. Em nên dùng cách nào?",
+   [
+    "Gửi tệp qua thư điện tử hoặc ứng dụng liên lạc trực tuyến",
+    "Viết tên tệp ra giấy rồi dán lên màn hình máy tính",
+    "In bài ra giấy rồi ném qua cửa sổ nhà bạn",
+    "Gọi điện thoại đọc từng chữ trong văn bản"
+   ],
+   "Sử dụng thư điện tử hoặc phần mềm nhắn tin qua Internet là cách nhanh chóng và chính xác nhất để chia sẻ tệp."
   ]
  ],
  "c4": [
@@ -235,6 +1255,346 @@
     "Không chứa gì được"
    ],
    "Thư mục có thể chứa tệp và thư mục con."
+  ],
+  [
+   "Thư mục trong máy tính dùng để làm gì?",
+   [
+    "Lưu trữ và quản lý các tệp, thư mục con",
+    "Hiển thị hình ảnh trên màn hình",
+    "Soạn thảo văn bản và tính toán",
+    "Kết nối máy tính với mạng Internet"
+   ],
+   "Thư mục giống như một chiếc ngăn kéo giúp lưu trữ và quản lý các tệp tin cũng như các thư mục con."
+  ],
+  [
+   "Trong máy tính, tệp tin (file) có thể là gì?",
+   [
+    "Một bài hát, một bức ảnh hoặc một đoạn văn bản",
+    "Một chiếc bàn phím hoặc chuột máy tính",
+    "Một thư mục chứa nhiều ngăn kéo",
+    "Màn hình hiển thị hình ảnh"
+   ],
+   "Tệp tin trong máy tính có thể là hình ảnh, âm thanh, video hoặc văn bản do em tạo ra."
+  ],
+  [
+   "Tên thư mục thường được đặt như thế nào để dễ tìm kiếm?",
+   [
+    "Gợi nhớ đến nội dung lưu trữ bên trong",
+    "Đặt tên thật dài và khó nhớ",
+    "Đặt tên bằng các ký tự ngẫu nhiên",
+    "Luôn đặt tên giống hệt tên tệp tin"
+   ],
+   "Đặt tên thư mục gợi nhớ đến nội dung bên trong sẽ giúp em nhận biết và tìm kiếm nhanh chóng."
+  ],
+  [
+   "Thư mục nằm bên trong một thư mục khác được gọi là gì?",
+   [
+    "Thư mục con",
+    "Thư mục mẹ",
+    "Tệp dữ liệu",
+    "Thư mục chính"
+   ],
+   "Thư mục nằm trong một thư mục khác được gọi là thư mục con."
+  ],
+  [
+   "Khi mở một thư mục trên máy tính, em có thể nhìn thấy những gì?",
+   [
+    "Các tệp và các thư mục con",
+    "Chỉ nhìn thấy bàn phím máy tính",
+    "Các thiết bị phần cứng của máy tính",
+    "Chỉ nhìn thấy một bức ảnh duy nhất"
+   ],
+   "Bên trong một thư mục có thể chứa các tệp tin và các thư mục con khác."
+  ],
+  [
+   "Cách tổ chức thông tin nào sau đây giúp em tìm kiếm tệp nhanh nhất?",
+   [
+    "Phân loại tệp vào các thư mục theo chủ đề",
+    "Lưu tất cả các tệp ra màn hình nền",
+    "Để các tệp nằm rải rác không phân loại",
+    "Xóa bớt các tệp quan trọng"
+   ],
+   "Phân loại tệp theo chủ đề vào từng thư mục giúp việc tìm kiếm diễn ra nhanh chóng và thuận tiện."
+  ],
+  [
+   "Biểu tượng của thư mục trong hệ điều hành Windows thường có màu gì?",
+   [
+    "Màu vàng",
+    "Màu xanh lá cây",
+    "Màu đỏ tươi",
+    "Màu đen"
+   ],
+   "Trong máy tính, biểu tượng thư mục thường có hình kẹp giấy màu vàng."
+  ],
+  [
+   "Sự khác nhau cơ bản giữa tệp và thư mục là gì?",
+   [
+    "Thư mục có thể chứa tệp, còn tệp không thể chứa thư mục",
+    "Tệp có thể chứa thư mục, còn thư mục thì không",
+    "Tệp luôn có dung lượng lớn hơn thư mục",
+    "Thư mục chỉ dùng để nghe nhạc còn tệp dùng để vẽ"
+   ],
+   "Thư mục đóng vai trò như chiếc hộp chứa các tệp, còn tệp chứa thông tin cụ thể và không thể chứa thư mục."
+  ],
+  [
+   "Để tìm một tệp bài hát “Chú ếch con”, em nên tìm trong thư mục nào là hợp lý nhất?",
+   [
+    "Thư mục “Nhạc thiếu nhi”",
+    "Thư mục “Bài tập Toán”",
+    "Thư mục “Tranh vẽ”",
+    "Thư mục “Phim hoạt hình”"
+   ],
+   "Bài hát “Chú ếch con” thuộc thể loại âm thanh nên lưu trong thư mục “Nhạc thiếu nhi” là hợp lý nhất."
+  ],
+  [
+   "Sắp xếp thông tin trong máy tính một cách hợp lý sẽ mang lại lợi ích gì?",
+   [
+    "Giúp tiết kiệm thời gian khi cần tìm kiếm",
+    "Giúp máy tính chạy nhanh gấp mười lần",
+    "Giúp màn hình máy tính sáng hơn",
+    "Giúp máy tính không bao giờ bị hỏng"
+   ],
+   "Tổ chức và sắp xếp thông tin hợp lý giúp em tìm kiếm lại thông tin đó một cách dễ dàng và nhanh chóng."
+  ],
+  [
+   "Tại sao em không nên đặt tên thư mục là các chuỗi ký tự vô nghĩa như “ghjkl123”?",
+   [
+    "Vì khó nhớ và không biết bên trong chứa nội dung gì",
+    "Vì máy tính sẽ bị khóa ngay lập tức",
+    "Vì thư mục sẽ tự động bị xóa sau một ngày",
+    "Vì máy tính không cho phép đặt tên có số"
+   ],
+   "Đặt tên vô nghĩa khiến em không nhận biết được nội dung bên trong, gây khó khăn khi tìm kiếm."
+  ],
+  [
+   "Khi tìm kiếm một góc học tập gọn gàng ở ngoài đời thực, điều này tương ứng với việc gì trên máy tính?",
+   [
+    "Sắp xếp tệp và thư mục ngăn nắp",
+    "Lau chùi màn hình máy tính thật sạch",
+    "Bật máy tính liên tục không tắt",
+    "Cắm thêm nhiều thiết bị vào máy tính"
+   ],
+   "Việc giữ góc học tập gọn gàng tương tự như việc tổ chức, sắp xếp tệp và thư mục ngăn nắp trên máy tính."
+  ],
+  [
+   "Thư mục “ANH_KY_NIEM” chứa hai thư mục con là “LOP₁” và “LOP₂”. Tệp bức ảnh “Khai_giang.jpg” của năm lớp 1 nên được lưu vào đâu?",
+   [
+    "Thư mục “LOP₁”",
+    "Thư mục “LOP₂”",
+    "Ngoài màn hình nền",
+    "Thư mục chứa phần mềm máy tính"
+   ],
+   "Bức ảnh khai giảng năm lớp 1 nên lưu vào thư mục con “LOP₁” để quản lý đúng thời gian."
+  ],
+  [
+   "Hành động nào sau đây giúp em dễ dàng quản lý các bức tranh tự vẽ trên máy tính?",
+   [
+    "Tạo thư mục “Tranh_ve” và lưu tất cả ảnh vẽ vào đó",
+    "Đổi tên tất cả các bức tranh thành tên giống nhau",
+    "Lưu mỗi bức tranh vào một thư mục khác nhau không theo quy luật",
+    "Xóa các bức tranh ngay sau khi vẽ xong"
+   ],
+   "Gom tất cả tranh vẽ vào thư mục “Tranh_ve” giúp quản lý tập trung và tìm lại dễ dàng."
+  ],
+  [
+   "Bạn An lưu tệp “Bai_tap_Toan.docx” vào thư mục “Tieng_Viet”. Việc này dẫn đến hậu quả gì?",
+   [
+    "An sẽ mất nhiều thời gian tìm kiếm vì lưu sai vị trí",
+    "Tệp bài tập Toán sẽ biến thành bài tập Tiếng Việt",
+    "Máy tính sẽ báo lỗi và hỏng hệ điều hành",
+    "Tệp sẽ tự động di chuyển sang thư mục Toán"
+   ],
+   "Lưu sai vị trí không làm hỏng máy tính nhưng sẽ làm em mất nhiều thời gian tìm lại sau này."
+  ],
+  [
+   "Một cây thư mục có thư mục gốc “GIAI_TRI”, bên trong có “PHIM” và “NHAC”. Trong “NHAC” có tệp “Cat_bui.mp3”. Tệp “Cat_bui.mp3” nằm ở đâu?",
+   [
+    "Nằm trong thư mục “NHAC”",
+    "Nằm trong thư mục “PHIM”",
+    "Nằm trực tiếp ở thư mục gốc “GIAI_TRI”",
+    "Nằm ngoài máy tính"
+   ],
+   "Tệp “Cat_bui.mp3” chứa trong thư mục “NHAC”, thuộc cây thư mục “GIAI_TRI”."
+  ],
+  [
+   "Bạn Bình muốn tìm bài vẽ “Ngoi_nha.png” nhưng quên mất lưu ở đâu. Bình nên làm gì?",
+   [
+    "Mở lần lượt các thư mục liên quan đến tranh vẽ hoặc dùng công cụ tìm kiếm",
+    "Vẽ lại một bức tranh mới từ đầu",
+    "Tắt máy tính và không tìm nữa",
+    "Xóa tất cả các thư mục trong máy tính"
+   ],
+   "Bình nên kiểm tra các thư mục về tranh vẽ hoặc dùng ô tìm kiếm của máy tính để tìm lại tệp."
+  ],
+  [
+   "Bạn Hoa muốn tạo cấu trúc lưu trữ cho môn Tin học gồm bài tập và sản phẩm vẽ. Cấu trúc nào sau đây là hợp lý nhất?",
+   [
+    "Thư mục “TIN_HOC” chứa hai thư mục con “BAI_TAP” và “TRANH_VE”",
+    "Thư mục “BAI_TAP” chứa thư mục “TIN_HOC” và thư mục “TOAN”",
+    "Thư mục “TRANH_VE” chứa thư mục “TIN_HOC” và tệp văn bản",
+    "Tạo duy nhất một tệp tên là “TIN_HOC”"
+   ],
+   "Tạo thư mục chính “TIN_HOC” và hai thư mục con “BAI_TAP"
+  ],
+  [
+   "Nối ý ở cột thao tác với kết quả tương ứng: Tạo thư mục mới giúp em làm gì?",
+   [
+    "Tạo ra một không gian mới để phân loại và chứa tệp",
+    "Mở một chương trình giải trí trên máy tính",
+    "Xóa toàn bộ dữ liệu trên ổ cứng",
+    "Tăng tốc độ kết nối Internet"
+   ],
+   "Tạo thư mục mới giúp tạo ra nơi lưu trữ riêng để phân loại các tệp dữ liệu gọn gàng."
+  ],
+  [
+   "Để phân biệt các tệp thông tin lưu trên máy tính, người ta thường dựa vào yếu tố nào?",
+   [
+    "Tên tệp và phần mở rộng",
+    "Màu sắc của biểu tượng tệp",
+    "Kích thước lớn hay nhỏ của tệp",
+    "Thời gian tạo tệp trong ngày"
+   ],
+   "Tên tệp giúp nhận biết nội dung còn phần mở rộng giúp máy tính biết loại tệp đó."
+  ],
+  [
+   "Khi em nhìn thấy biểu tượng một chiếc cặp màu vàng trên màn hình máy tính, đó thường là gì?",
+   [
+    "Thư mục chứa thông tin",
+    "Một bức tranh vẽ",
+    "Một bài hát",
+    "Phần mềm trò chơi"
+   ],
+   "Biểu tượng hình chiếc cặp màu vàng là hình ảnh quen thuộc của thư mục trong máy tính."
+  ],
+  [
+   "Em hiểu thế nào là thư mục gốc trong máy tính?",
+   [
+    "Thư mục lớn nhất chứa các thư mục khác bên trong ổ đĩa",
+    "Thư mục nhỏ nhất nằm ở trong cùng",
+    "Thư mục chỉ dùng để lưu các bài hát thiếu nhi",
+    "Thư mục chuyên chứa các tệp bị xóa"
+   ],
+   "Thư mục gốc là thư mục cấp cao nhất nằm ngay trong ổ đĩa, chứa các thư mục con khác."
+  ],
+  [
+   "Hành động nào sau đây giúp em tạo ra một chỗ chứa mới để phân loại tệp?",
+   [
+    "Nháy chuột phải chọn New rồi chọn Folder",
+    "Nháy đúp chuột trái vào một tệp bất kỳ",
+    "Nhấn phím Delete trên bàn phím",
+    "Kéo thả tệp ra màn hình nền"
+   ],
+   "Để tạo thư mục mới, em nháy chuột phải chọn New và chọn Folder."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về tệp tin (file)?",
+   [
+    "Tệp tin là nơi lưu trữ dữ liệu như văn bản, hình ảnh, âm thanh",
+    "Tệp tin luôn luôn có màu vàng giống chiếc cặp",
+    "Tệp tin không thể chứa bất kỳ thông tin nào bên trong",
+    "Tệp tin chỉ dùng để chứa các thư mục con khác"
+   ],
+   "Tệp tin là đơn vị lưu trữ dữ liệu trên máy tính, chứa nội dung cụ thể như văn bản hay hình ảnh."
+  ],
+  [
+   "Trong các tên sau đây, tên nào được coi là đặt đúng quy tắc và gợi nhớ rõ ràng cho tệp bài soạn môn Tiếng Việt?",
+   [
+    "Chinh_ta_bai₁.docx",
+    "asdfghjk.txt",
+    "111111.mp4",
+    "abc.png"
+   ],
+   "Tên tệp nên rõ nghĩa, viết không dấu hoặc có dấu gạch dưới như Chinh_ta_bai₁.docx để dễ tìm."
+  ],
+  [
+   "Bạn Minh muốn đổi tên một thư mục từ “Hinh_anh” thành “Tranh_ve”. Minh cần làm gì?",
+   [
+    "Nháy chuột phải vào thư mục chọn Rename rồi gõ tên mới",
+    "Nháy đúp chuột trái vào thư mục rồi xóa máy tính đi",
+    "Kéo thư mục đó vào thùng rác rồi tạo lại từ đầu",
+    "Nhấn phím Enter nhiều lần liên tục"
+   ],
+   "Thao tác Rename trong menu chuột phải giúp em đổi tên thư mục nhanh chóng."
+  ],
+  [
+   "Khi em di chuyển một tệp từ thư mục này sang thư mục khác, điều gì xảy ra với tệp đó?",
+   [
+    "Tệp mất đi ở chỗ cũ và xuất hiện ở chỗ mới",
+    "Tệp bị biến mất hoàn toàn khỏi máy tính",
+    "Tệp tự động nhân đôi thành hai bản giống hệt nhau",
+    "Tệp sẽ bị đổi tên thành một dãy số ngẫu nhiên"
+   ],
+   "Di chuyển tệp (Cut và Paste) nghĩa là chuyển tệp sang vị trí mới, không giữ lại ở vị trí cũ."
+  ],
+  [
+   "Vì sao việc phân loại và sắp xếp các tệp tài liệu vào đúng thư mục lại quan trọng?",
+   [
+    "Giúp tìm kiếm thông tin nhanh chóng và không bị nhầm lẫn",
+    "Làm cho màn hình máy tính có nhiều màu sắc đẹp hơn",
+    "Giúp máy tính chạy nhanh gấp đôi bình thường",
+    "Làm tăng dung lượng cho ổ đĩa cứng của máy tính"
+   ],
+   "Sắp xếp gọn gàng giúp chúng ta tìm kiếm tài liệu nhanh chóng khi cần."
+  ],
+  [
+   "Khi em muốn xem bên trong một thư mục có những gì, em thao tác thế nào?",
+   [
+    "Nháy đúp chuột trái vào biểu tượng thư mục",
+    "Nháy chuột phải rồi chọn Delete",
+    "Chỉ cần di chuyển chuột lướt qua biểu tượng",
+    "Nhấn giữ phím Space trên bàn phím"
+   ],
+   "Nháy đúp chuột trái vào thư mục là cách để mở và xem các thành phần bên trong nó."
+  ],
+  [
+   "Bạn Nam tạo một thư mục tên “Giai_tri” và đặt các tệp trò chơi, tệp nhạc vào đó. Thư mục “Giai_tri” đóng vai trò gì?",
+   [
+    "Là thư mục chứa các tệp dữ liệu về giải trí",
+    "Là một tệp văn bản dùng để viết chữ",
+    "Là phần mềm diệt virus cho máy tính",
+    "Là hình nền trang trí màn hình"
+   ],
+   "Thư mục “Giai_tri” được dùng làm nơi chứa chung các tệp liên quan đến giải trí."
+  ],
+  [
+   "Nếu máy tính có quá nhiều tệp tin để rời rạc trên màn hình nền, cách xử lý hợp lý nhất là gì?",
+   [
+    "Tạo các thư mục theo chủ đề rồi di chuyển tệp vào đó",
+    "Xóa toàn bộ các tệp đi để máy nhẹ hơn",
+    "Tắt máy tính và khởi động lại nhiều lần",
+    "Đổi tên tất cả các tệp thành chữ A"
+   ],
+   "Gom các tệp rời rạc vào thư mục theo chủ đề giúp màn hình gọn gàng và dễ quản lý."
+  ],
+  [
+   "Em vừa vẽ xong bức tranh phong cảnh và muốn lưu lại để lần sau vẽ tiếp. Em sẽ làm gì?",
+   [
+    "Lưu tệp vào thư mục “Tranh_ve” và đặt tên gợi nhớ",
+    "Vứt tệp vào thùng rác ngay lập tức",
+    "Gửi tệp vào thư mục chứa hệ thống máy tính",
+    "Đổi tên tệp thành các ký tự đặc biệt rồi tắt máy"
+   ],
+   "Lưu vào thư mục “Tranh_ve” với tên rõ ràng giúp em dễ dàng tìm lại bức tranh."
+  ],
+  [
+   "Thầy giáo yêu cầu nộp bài tập Toán nhưng em lại lưu nhầm vào thư mục bài tập Mỹ thuật. Em nên làm gì để sửa sai?",
+   [
+    "Di chuyển tệp bài tập Toán sang đúng thư mục Toán",
+    "Kệ nó vì máy tính tự động sửa giúp em",
+    "Xóa luôn bài tập Toán không làm nữa",
+    "Tạo một máy tính mới để làm lại từ đầu"
+   ],
+   "Em chỉ cần dùng thao tác chuyển tệp về đúng thư mục môn Toán."
+  ],
+  [
+   "Khi sắp xếp phòng học ở nhà, em xếp bút vào hộp đựng bút, sách vở lên giá sách. Hành động này tương tự tính năng nào trên máy tính?",
+   [
+    "Tổ chức lưu trữ dữ liệu vào các thư mục",
+    "Tắt mở các phần mềm trò chơi",
+    "Gõ các văn bản bằng bàn phím",
+    "In tài liệu ra giấy bằng máy in"
+   ],
+   "Sắp xếp đồ vật theo chỗ tương ứng giống như việc lưu trữ tệp vào thư mục trên máy tính."
   ]
  ],
  "c5": [
@@ -287,6 +1647,356 @@
     "Ăn uống trên bàn phím"
    ],
    "Cần xin phép và giữ gìn máy tính chung."
+  ],
+  [
+   "Thông tin nào sau đây KHÔNG PHẢI là thông tin cá nhân hay gia đình cần giữ bí mật?",
+   [
+    "Tên câu lạc bộ thể thao mà em yêu thích",
+    "Số điện thoại của mẹ em",
+    "Mật khẩu tài khoản học trực tuyến của em",
+    "Địa chỉ nhà riêng nơi em đang sống"
+   ],
+   "Sở thích chung như câu lạc bộ thể thao có thể chia sẻ, còn số điện thoại, mật khẩu và địa chỉ nhà là thông tin riêng tư cần bảo vệ."
+  ],
+  [
+   "Hành động nào sau đây giúp em bảo vệ máy tính khỏi bị hỏng hóc?",
+   [
+    "Không ăn uống gần khu vực để máy tính",
+    "Để nước ngọt ngay bên cạnh bàn phím cho tiện uống",
+    "Tắt máy tính bằng cách rút thẳng dây cắm điện",
+    "Dùng tay bẩn bám đầy dầu mỡ để gõ phím"
+   ],
+   "Ăn uống gần máy tính dễ làm rơi vãi đồ ăn, nước uống gây hỏng hóc thiết bị."
+  ],
+  [
+   "Khi muốn sử dụng máy tính của người khác, em nên làm gì?",
+   [
+    "Hỏi xin phép người đó và chờ được đồng ý",
+    "Tự ý mở máy tính lên dùng khi người đó đi vắng",
+    "Rủ bạn khác cùng vào xem lén máy tính",
+    "Ép buộc bạn phải cho mình mượn máy"
+   ],
+   "Sử dụng máy tính của người khác mà không xin phép là hành vi thiếu lịch sự và không đúng quy định."
+  ],
+  [
+   "Khi đang xem mạng internet mà thấy một trang web hiển thị hình ảnh bạo lực, sợ hãi, em nên làm gì?",
+   [
+    "Tắt ngay trang web đó và báo cho người lớn biết",
+    "Nhấn vào xem tiếp vì tò mò",
+    "Chia sẻ trang web đó cho các bạn cùng lớp",
+    "Ngồi xem một mình và không nói với ai"
+   ],
+   "Khi gặp nội dung không lành mạnh, em cần tắt đi và báo cho cha mẹ hoặc thầy cô để được trợ giúp."
+  ],
+  [
+   "Ngồi học máy tính đúng tư thế sẽ giúp em tránh được bệnh nào sau đây?",
+   [
+    "Cong quẹo cột sống và cận thị",
+    "Đau bụng và đau dạ dày",
+    "Sâu răng và đau họng",
+    "Cảm cúm và sốt cao"
+   ],
+   "Ngồi đúng tư thế giúp bảo vệ mắt khỏi cận thị và giữ cho cột sống thẳng, không bị cong quẹo."
+  ],
+  [
+   "Khoảng cách hợp lí từ mắt em đến màn hình máy tính là bao nhiêu?",
+   [
+    "Từ 50 cm đến 80 cm",
+    "Từ 10 cm đến 20 cm",
+    "Hơn 150 cm",
+    "Ghé sát mắt vào màn hình"
+   ],
+   "Khoảng cách an toàn cho mắt khi ngồi trước màn hình máy tính là từ 50 cm đến 80 cm."
+  ],
+  [
+   "Vì sao em không nên đặt mật khẩu máy tính là ngày sinh nhật của mình?",
+   [
+    "Vì người khác rất dễ đoán ra mật khẩu đó",
+    "Vì máy tính không cho phép nhập số",
+    "Vì mật khẩu đó làm máy tính chạy chậm đi",
+    "Vì ngày sinh nhật sẽ làm mật khẩu bị hết hạn"
+   ],
+   "Mật khẩu liên quan đến ngày sinh rất dễ bị người quen đoán ra, do đó không an toàn."
+  ],
+  [
+   "Tài khoản học trực tuyến của bạn Nam bị một người lạ đăng nhập và đổi mật khẩu. Nguyên nhân có thể do Nam đã:",
+   [
+    "Cho bạn cùng xóm biết mật khẩu tài khoản của mình",
+    "Tắt máy tính đúng cách sau khi học xong",
+    "Đặt mật khẩu gồm cả chữ cái và chữ số",
+    "Không chia sẻ tên đăng nhập cho ai"
+   ],
+   "Tiết lộ mật khẩu cho người khác sẽ khiến tài khoản dễ bị kẻ xấu chiếm đoạt."
+  ],
+  [
+   "Em đang chơi game trên máy tính thì màn hình hiện lên thông báo: “Bạn đã trúng thưởng một chiếc điện thoại, hãy nhập số điện thoại của bố mẹ để nhận”. Em nên xử lí thế nào?",
+   [
+    "Bỏ qua thông báo và gọi người lớn đến xem",
+    "Nhập ngay số điện thoại của bố để nhận quà",
+    "Nhập số điện thoại của mẹ rồi bấm nhận thưởng",
+    "Gửi thông báo đó cho bạn thân cùng nhập"
+   ],
+   "Các thông báo trúng thưởng bất ngờ trên mạng thường là lừa đảo nhằm lấy thông tin cá nhân."
+  ],
+  [
+   "Hành vi nào sau đây thể hiện sự lịch sự khi giao tiếp qua mạng?",
+   [
+    "Dùng lời nói tôn trọng, hòa nhã khi nhắn tin với bạn",
+    "Viết hoa toàn bộ tin nhắn để gắt gỏng với bạn",
+    "Đăng ảnh dìm hàng, nói xấu bạn lên mạng",
+    "Sử dụng các từ ngữ thô tục khi bình luận"
+   ],
+   "Tôn trọng và nói lời hòa nhã là nét đẹp văn hóa khi giao tiếp trên internet."
+  ],
+  [
+   "Bạn An ngồi sử dụng máy tính liên tục trong 3 giờ đồng hồ không nghỉ. Việc làm này có hại như thế nào?",
+   [
+    "Gây mỏi mắt, mệt mỏi và hại sức khỏe",
+    "Giúp An thông minh hơn",
+    "Giúp màn hình máy tính sáng hơn",
+    "Không gây ảnh hưởng gì đến sức khỏe"
+   ],
+   "Dùng máy tính quá lâu không nghỉ ngơi sẽ làm mắt bị điều tiết quá độ và cơ thể mệt mỏi."
+  ],
+  [
+   "Đâu là cách tắt máy tính an toàn và đúng quy trình?",
+   [
+    "Nút lệnh Shut down trên hệ điều hành",
+    "Ấn giữ nút nguồn trên thân máy tính",
+    "Rút phích cắm điện của máy tính ra",
+    "Bật tắt công tắc ổ điện liên tục"
+   ],
+   "Sử dụng lệnh Shut down giúp máy tính lưu lại dữ liệu và tắt các chương trình an toàn."
+  ],
+  [
+   "Ví dụ nào sau đây thể hiện việc tôn trọng bản quyền khi dùng máy tính?",
+   [
+    "Xin phép tác giả trước khi sử dụng bài thơ của họ",
+    "Tự nhận bài vẽ của bạn trên mạng là của mình",
+    "Co-py bài văn của người khác rồi ghi tên mình vào",
+    "Tải nhạc bản quyền về bán lấy tiền"
+   ],
+   "Tôn trọng bản quyền là xin phép hoặc ghi rõ nguồn gốc tác giả khi sử dụng sản phẩm của người khác."
+  ],
+  [
+   "Khi làm việc với máy tính, ánh sáng trong phòng học nên như thế nào là tốt nhất?",
+   [
+    "Đầy đủ ánh sáng, không quá tối cũng không quá chói",
+    "Tắt hết đèn trong phòng để nhìn màn hình rõ hơn",
+    "Mở đèn thật chói chiếu thẳng vào màn hình",
+    "Chỉ dùng ánh sáng phát ra từ màn hình máy tính"
+   ],
+   "Phòng học cần có đủ ánh sáng hài hòa để bảo vệ thị lực khi nhìn vào màn hình."
+  ],
+  [
+   "Khi ở phòng thực hành Tin học của trường, hành động nào sau đây là KHÔNG được phép?",
+   [
+    "Tự ý tháo dỡ các dây cắm phía sau máy tính",
+    "Giữ vệ sinh chung và xếp ghế gọn gàng khi ra về",
+    "Thao tác nhẹ nhàng với chuột và bàn phím",
+    "Ngồi đúng vị trí máy tính được thầy cô phân công"
+   ],
+   "Tự ý tháo dây cắm điện rất nguy hiểm, có thể gây giật điện hoặc làm hỏng máy tính."
+  ],
+  [
+   "Bố mẹ cho phép Minh dùng máy tính 30 phút để giải trí. Khi hết giờ, Minh nên làm gì?",
+   [
+    "Chủ động tắt máy và đi ra tập thể dục",
+    "Cố tình chơi thêm vài tiếng nữa vì bố mẹ không chú ý",
+    "Khóc lóc đòi bố mẹ cho chơi tiếp cả ngày",
+    "Giận dỗi và đập phá bàn phím"
+   ],
+   "Tuân thủ quy định về thời gian giúp em bảo vệ sức khỏe và rèn luyện tính tự giác."
+  ],
+  [
+   "Trong lúc học Tin học, bàn phím của Bình bị kẹt một phím không gõ được. Bình nên xử lí thế nào?",
+   [
+    "Báo cho thầy cô giáo dạy Tin học để được trợ giúp",
+    "Dùng tay đập mạnh vào bàn phím cho đỡ kẹt",
+    "Lấy cờ-lê tháo bàn phím ra tự sửa",
+    "Lặng lẽ đổi bàn phím sang máy của bạn bên cạnh"
+   ],
+   "Khi thiết bị gặp sự cố ở trường, học sinh cần báo ngay cho thầy cô chứ không tự ý cạy phá."
+  ],
+  [
+   "Điều nào sau đây là LỢI ÍCH của việc sử dụng internet đúng cách?",
+   [
+    "Tìm kiếm tài liệu học tập và xem tin tức bổ ích",
+    "Nghiện trò chơi điện tử suốt ngày đêm",
+    "Làm quen và đi gặp riêng người lạ trên mạng",
+    "Bị cận thị nặng do xem phim quá nhiều"
+   ],
+   "Internet giúp mở rộng tri thức nếu em biết khai thác các nội dung phục vụ học tập."
+  ],
+  [
+   "Nếu em nhận được tin nhắn từ một tài khoản lạ với nội dung rủ rê đi chơi xa mà không cho bố mẹ biết, em nên làm gì?",
+   [
+    "Từ chối ngay và đưa tin nhắn cho bố mẹ xem",
+    "Đồng ý đi ngay vì tò mò",
+    "Nhắn tin rủ thêm các bạn trong lớp cùng đi",
+    "Giữ bí mật và đi gặp người đó một mình"
+   ],
+   "Không bao giờ đi theo lời rủ rê của người lạ trên mạng và phải báo ngay cho gia đình để đảm bảo an toàn."
+  ],
+  [
+   "Lớp em có bạn mới chuyển đến. Một số bạn trong lớp lập nhóm trên mạng để nói xấu bạn đó. Em nên ứng xử thế nào?",
+   [
+    "Không tham gia và khuyên các bạn nên hòa đồng",
+    "Tham gia nhóm và viết lời hùa theo nói xấu",
+    "Chụp màn hình gửi cho tất cả mọi người cùng chê bai",
+    "Xem như không biết và cổ vũ các bạn nói xấu tiếp"
+   ],
+   "Không tham gia vào hành vi nói xấu người khác trên mạng là thể hiện đạo đức và sự tôn trọng bạn bè."
+  ],
+  [
+   "Thông tin cá nhân nào sau đây em KHÔNG được tự ý cung cấp cho người lạ trên mạng?",
+   [
+    "Số điện thoại của bố mẹ",
+    "Tên môn học em yêu thích nhất",
+    "Màu sắc chiếc cặp sách em đang dùng",
+    "Tên nhân vật hoạt hình em thích"
+   ],
+   "Số điện thoại của bố mẹ là thông tin cá nhân quan trọng, em cần giữ kín để tránh kẻ xấu lợi dụng."
+  ],
+  [
+   "Vì sao em không nên bật âm thanh máy tính quá to trong phòng học chung?",
+   [
+    "Vì sẽ làm phiền và ảnh hưởng đến người xung quanh",
+    "Vì làm như vậy máy tính sẽ bị hết pin ngay lập tức",
+    "Vì màn hình máy tính sẽ bị mờ đi",
+    "Vì bàn phím sẽ bị kẹt không gõ được"
+   ],
+   "Bật âm thanh quá to ở nơi đông người là hành vi thiếu lịch sự và làm phiền người khác."
+  ],
+  [
+   "Để bảo vệ mắt khi ngồi học với máy tính, em nên làm gì?",
+   [
+    "Nghỉ ngơi và nhìn ra xa sau mỗi 30 phút sử dụng",
+    "Nhìn thật sát vào màn hình để nhìn rõ chữ hơn",
+    "Tắt hết đèn trong phòng để màn hình sáng rõ hơn",
+    "Xem liên tục trong 5 giờ không chớp mắt"
+   ],
+   "Nghỉ ngơi thư giãn mắt sau mỗi 30 phút giúp mắt không bị mỏi và tránh bị cận thị."
+  ],
+  [
+   "Khi thấy bạn thân chia sẻ mật khẩu tài khoản máy tính cho em, em nên làm gì?",
+   [
+    "Khuyên bạn không nên chia sẻ mật khẩu với bất kỳ ai",
+    "Đăng nhập ngay vào máy tính của bạn để chơi game",
+    "Đổi mật khẩu của bạn thành mật khẩu của mình",
+    "Nói mật khẩu đó cho tất cả các bạn khác trong lớp"
+   ],
+   "Mật khẩu là thông tin bí mật cá nhân, em nên khuyên bạn giữ kín để bảo vệ tài khoản."
+  ],
+  [
+   "Hành động nào sau đây là tôn trọng tài sản chung khi ở phòng máy tính của trường?",
+   [
+    "Gõ bàn phím nhẹ nhàng và không đập phá thiết bị",
+    "Khái bẩn hoặc vẽ bậy lên màn hình máy tính",
+    "Rút dây nguồn máy tính ra để chơi trò nhảy dây",
+    "Mang đồ ăn nước uống đổ lên bàn phím"
+   ],
+   "Sử dụng thiết bị nhẹ nhàng và giữ gìn vệ sinh là thể hiện sự tôn trọng tài sản chung."
+  ],
+  [
+   "Khi muốn tải một phần mềm học tập trên mạng về máy tính của gia đình, em nên làm gì?",
+   [
+    "Xin phép và nhờ người lớn kiểm tra trước khi tải",
+    "Tự ý bấm tải về mà không cần hỏi ai",
+    "Bấm vào tất cả các đường link quảng cáo lạ xuất hiện trên màn hình",
+    "Tắt chương trình diệt virus rồi mới tải về"
+   ],
+   "Người lớn sẽ giúp em kiểm tra xem phần mềm đó có an toàn và chứa virus hay không."
+  ],
+  [
+   "Tư thế ngồi làm việc với máy tính nào sau đây là ĐÚNG?",
+   [
+    "Lưng thẳng, hai chân đặt bằng phẳng trên sàn nhà",
+    "Nằm ngửa ra sàn và đặt máy tính lên bụng",
+    "Vắt chân lên bàn và tựa đầu vào màn hình",
+    "Cúi gập sát mặt vào bàn phím"
+   ],
+   "Giữ lưng thẳng và hai chân đặt bằng phẳng trên sàn giúp em tránh bị cong quẹo cột sống."
+  ],
+  [
+   "Nơi nào sau đây là vị trí AN TOÀN nhất để đặt máy tính để bàn?",
+   [
+    "Trên mặt bàn bằng phẳng, khô ráo và chắc chắn",
+    "Trên mép bàn chông chênh dễ rơi vỡ",
+    "Trên đệm mỏng ướt nước",
+    "Ngay sát bếp gas đang nấu ăn"
+   ],
+   "Đặt máy tính ở vị trí bằng phẳng, khô ráo giúp máy hoạt động tốt và không bị rơi vỡ."
+  ],
+  [
+   "Khi học trực tuyến, việc làm nào thể hiện sự tôn trọng giáo viên và các bạn?",
+   [
+    "Tắt micro khi không phát biểu và lắng nghe cô giáo giảng",
+    "Mở nhạc thật to cho cả lớp cùng nghe",
+    "Bật micro để nói chuyện riêng với bạn bên cạnh",
+    "Vẽ bậy lên màn hình trình chiếu của cô giáo"
+   ],
+   "Tắt micro khi không phát biểu giúp lớp học giữ trật tự và không bị nhiễu âm thanh."
+  ],
+  [
+   "Nếu bàn phím máy tính bị bụi bẩn, em nên vệ sinh như thế nào?",
+   [
+    "Dùng khăn mềm khô hoặc chổi cọ chuyên dụng để lau nhẹ",
+    "Dùng cọ rửa bát ướt sũng nước để chà thật mạnh",
+    "Đổ trực tiếp chai nước rửa bát lên bàn phím",
+    "Dùng dao nhọn cạo mạnh vào từng nút phím"
+   ],
+   "Dùng khăn mềm khô lau nhẹ sẽ làm sạch bụi mà không làm hỏng các linh kiện điện tử bên trong."
+  ],
+  [
+   "Bạn Khoa thấy bài văn hay trên mạng liền chép lại toàn bộ và nộp cho cô giáo rồi nói là do mình tự viết. Việc làm của Khoa là:",
+   [
+    "Không trung thực và không tôn trọng quyền tác giả",
+    "Rất thông minh và đáng khen ngợi",
+    "Đúng quy định khi sử dụng internet",
+    "Việc nên làm để tiết kiệm thời gian"
+   ],
+   "Lấy bài làm của người khác nhận là của mình là hành vi không trung thực và vi phạm bản quyền."
+  ],
+  [
+   "Khi tay em đang bị ướt nước, em KHÔNG nên làm điều nào sau đây?",
+   [
+    "Chạm tay vào dây điện hoặc cắm phích cắm máy tính",
+    "Lau tay bằng khăn khô",
+    "Đi ra xa khỏi ổ cắm điện",
+    "Nhờ người lớn cắm hộ nguồn điện"
+   ],
+   "Chạm tay ướt vào nguồn điện rất nguy hiểm vì nước dẫn điện có thể gây giật điện."
+  ],
+  [
+   "Việc làm nào sau đây giúp em tiết kiệm điện năng khi sử dụng máy tính?",
+   [
+    "Tắt máy tính và rút phích cắm khi không sử dụng nữa",
+    "Để máy tính bật liên tục suốt ngày đêm",
+    "Bật màn hình ở mức sáng tối đa dù phòng rất sáng",
+    "Cắm máy tính cùng lúc với nhiều thiết bị công suất lớn"
+   ],
+   "Tắt máy tính khi không dùng giúp tiết kiệm điện năng và kéo dài tuổi thọ thiết bị."
+  ],
+  [
+   "Một tài khoản mạng gửi lời mời tham gia nhóm có tên “Nói xấu thầy cô”. Em nên phản ứng như thế nào?",
+   [
+    "Từ chối tham gia và báo cho bố mẹ hoặc thầy cô biết",
+    "Nhanh chóng nhấn đồng ý tham gia ngay",
+    "Rủ thêm các bạn trong lớp cùng tham gia nhóm đó",
+    "Viết thêm bài nói xấu để đóng góp cho nhóm"
+   ],
+   "Nói xấu thầy cô là hành vi vi phạm đạo đức, em không tham gia và nên báo cho người lớn xử lý."
+  ],
+  [
+   "Khi đang dùng máy tính thì em phát hiện có mùi khói khét bốc ra từ thân máy. Em cần làm gì đầu tiên?",
+   [
+    "Rời xa máy tính và báo ngay cho người lớn biết",
+    "Đổ ngay một cốc nước vào thân máy tính",
+    "Ghé sát mặt vào xem khói phát ra từ đâu",
+    "Tiếp tục ngồi chơi và chờ xem chuyện gì xảy ra"
+   ],
+   "Khi có sự cố cháy nổ, em cần tránh xa để đảm bảo an toàn và báo ngay cho người lớn."
   ]
  ],
  "c6": [
@@ -359,6 +2069,336 @@
     "Tạo dấu cách"
    ],
    "Backspace xóa kí tự đứng trước con trỏ."
+  ],
+  [
+   "Nút lệnh nào dưới đây dùng để mở một tệp trình chiếu đã có trên máy tính?",
+   [
+    "Open",
+    "Save",
+    "New",
+    "Close"
+   ],
+   "Nút lệnh Open (Mở) giúp em mở một tệp trình chiếu đã lưu sẵn trong máy tính."
+  ],
+  [
+   "Phím nào dưới đây thuộc hàng phím trên?",
+   [
+    "Phím R",
+    "Phím A",
+    "Phím Z",
+    "Phím F"
+   ],
+   "Phím R nằm ở hàng phím trên, ngay phía trên hàng phím cơ sở."
+  ],
+  [
+   "Trong phần mềm trình chiếu, trang mở đầu thường có nội dung gì?",
+   [
+    "Tên chủ đề và tên người trình bày",
+    "Lời cảm ơn và hẹn gặp lại",
+    "Nội dung chi tiết của bài học",
+    "Các bài tập tự luyện"
+   ],
+   "Trang đầu tiên của bài trình chiếu thường ghi rõ Tên chủ đề và Tên người trình bày."
+  ],
+  [
+   "Hai phím nào sau đây có gờ nổi giúp em đặt đúng ngón trỏ khi gõ bàn phím?",
+   [
+    "Phím F và phím J",
+    "Phím G và phím H",
+    "Phím D và phím K",
+    "Phím S và phím L"
+   ],
+   "Hai phím F và J trên hàng phím cơ sở có gờ nổi để làm mốc đặt hai ngón trỏ."
+  ],
+  [
+   "Để xóa chữ ở bên trái con trỏ soạn thảo, em sử dụng phím nào?",
+   [
+    "Phím Backspace",
+    "Phím Delete",
+    "Phím Enter",
+    "Phím Caps Lock"
+   ],
+   "Phím Backspace dùng để xóa ký tự nằm ngay bên trái con trỏ soạn thảo."
+  ],
+  [
+   "Khi gõ phím, hai ngón tay cái của em phải đặt ở vị trí nào?",
+   [
+    "Phím cách (Spacebar)",
+    "Phím Shift",
+    "Phím Enter",
+    "Phím Ctrl"
+   ],
+   "Hai ngón tay cái luôn được đặt nhẹ trên phím cách để sẵn sàng nhấn dấu cách."
+  ],
+  [
+   "Nút lệnh Save trong phần mềm trình chiếu dùng để làm gì?",
+   [
+    "Lưu bài trình chiếu",
+    "Mở bài trình chiếu mới",
+    "Chèn thêm hình ảnh",
+    "Xóa trang trình chiếu"
+   ],
+   "Nút lệnh Save giúp em lưu lại nội dung bài trình chiếu vào máy tính."
+  ],
+  [
+   "Em nên gõ chữ như thế nào để vừa nhanh vừa không bị mỏi tay?",
+   [
+    "Gõ bằng 10 ngón tay và nhìn vào màn hình",
+    "Chỉ gõ bằng 2 ngón trỏ và nhìn vào bàn phím",
+    "Gõ thật mạnh vào các bàn phím",
+    "Dùng ngón cái để gõ tất cả các phím"
+   ],
+   "Gõ bàn phím bằng 10 ngón đúng quy tắc giúp em gõ nhanh, chính xác và không bị mỏi."
+  ],
+  [
+   "Hành động nào sau đây là ĐÚNG khi sử dụng phần mềm luyện gõ bàn phím?",
+   [
+    "Đặt đúng các ngón tay lên hàng phím cơ sở trước khi bắt đầu gõ",
+    "Nhìn liên tục vào bàn phím để tìm chữ",
+    "Chỉ gõ các phím bằng ngón tay trỏ của tay phải",
+    "Dùng hai ngón tay cái để gõ các chữ cái"
+   ],
+   "Trước khi gõ, em cần đặt đúng các ngón tay lên các phím xuất phát ở hàng phím cơ sở."
+  ],
+  [
+   "Khi em đang soạn thảo, muốn gõ chữ hoa em có thể nhấn giữ phím nào kết hợp với phím chữ đó?",
+   [
+    "Phím Shift",
+    "Phím Spacebar",
+    "Phím Alt",
+    "Phím Tab"
+   ],
+   "Nhấn giữ phím Shift đồng thời gõ phím chữ sẽ tạo ra chữ hoa."
+  ],
+  [
+   "Để thêm một trang trình chiếu mới vào bài, em chọn nút lệnh nào?",
+   [
+    "New Slide",
+    "Delete Slide",
+    "Save Slide",
+    "Copy Slide"
+   ],
+   "Nút lệnh New Slide giúp em tạo thêm một trang trình chiếu mới."
+  ],
+  [
+   "Công dụng chính của phần mềm trình chiếu là gì?",
+   [
+    "Tạo các trang chiếu phục vụ bài thuyết trình, bài giảng",
+    "Soạn thảo văn bản bản tin dài",
+    "Luyện tập gõ bàn phím bằng 10 ngón",
+    "Vẽ các bức tranh nghệ thuật"
+   ],
+   "Phần mềm trình chiếu giúp em tạo ra các bài trình diễn sinh động để bài thuyết trình hấp dẫn hơn."
+  ],
+  [
+   "Phím Delete dùng để làm gì trong khi soạn thảo văn bản?",
+   [
+    "Xóa ký tự ở bên phải con trỏ soạn thảo",
+    "Xóa ký tự ở bên trái con trỏ soạn thảo",
+    "Xuống dòng mới",
+    "Tạo khoảng cách giữa hai từ"
+   ],
+   "Phím Delete giúp xóa ký tự ngay phía sau (bên phải) con trỏ soạn thảo."
+  ],
+  [
+   "Bạn Minh muốn gõ từ “TIN HỌC” toàn bộ bằng chữ hoa, bạn nên bật đèn của phím nào?",
+   [
+    "Phím Caps Lock",
+    "Phím Num Lock",
+    "Phím Scroll Lock",
+    "Phím Shift Lock"
+   ],
+   "Nhấn phím Caps Lock để bật đèn hoa, khi đó tất cả các chữ cái gõ ra đều là chữ hoa."
+  ],
+  [
+   "Ngón giữa của tay trái sẽ phụ trách gõ phím nào trên hàng phím cơ sở?",
+   [
+    "Phím D",
+    "Phím S",
+    "Phím F",
+    "Phím A"
+   ],
+   "Trên hàng phím cơ sở, ngón út đặt phím A, ngón áp út phím S, ngón giữa đặt phím D, ngón trỏ đặt phím F."
+  ],
+  [
+   "Trong bài trình chiếu, việc chèn hình ảnh vào trang chiếu nhằm mục đích gì?",
+   [
+    "Làm cho trang chiếu sinh động và dễ hiểu hơn",
+    "Giúp bài trình chiếu có nhiều trang hơn",
+    "Để không cần phải viết nội dung bằng chữ",
+    "Làm cho bài trình chiếu chạy nhanh hơn"
+   ],
+   "Hình ảnh minh họa làm cho trang trình chiếu đẹp mắt, sinh động và thu hút người xem."
+  ],
+  [
+   "Khi gõ bàn phím bằng 10 ngón, mắt em nên nhìn vào đâu?",
+   [
+    "Màn hình",
+    "Bàn phím",
+    "Ngón tay",
+    "Con chuột"
+   ],
+   "Gõ 10 ngón đúng cách là mắt tập trung nhìn vào màn hình để kiểm tra nội dung gõ."
+  ],
+  [
+   "Bạn An gõ nhầm chữ “Cám ơn”, bạn muốn xóa chữ “n” ngay trước con trỏ soạn thảo thì bạn bấm phím nào?",
+   [
+    "Phím Backspace",
+    "Phím Delete",
+    "Phím Enter",
+    "Phím Spacebar"
+   ],
+   "Chữ “n” nằm ở bên trái con trỏ nên bạn An cần nhấn phím Backspace để xóa."
+  ],
+  [
+   "Các phím Z, X, C, V thuộc hàng phím nào trên bàn phím?",
+   [
+    "Hàng phím dưới",
+    "Hàng phím cơ sở",
+    "Hàng phím trên",
+    "Hàng phím số"
+   ],
+   "Các phím Z, X, C, V, B, N, M nằm ở hàng phím dưới."
+  ],
+  [
+   "Để mở một trang văn bản mới trong chương trình soạn thảo, em thường nháy chuột vào biểu tượng nào?",
+   [
+    "Biểu tượng tờ giấy trắng",
+    "Biểu tượng đĩa mềm",
+    "Biểu tượng máy in",
+    "Biểu tượng cái kéo"
+   ],
+   "Biểu tượng tờ giấy trắng thường dùng để tạo mới một trang văn bản."
+  ],
+  [
+   "Trong phần mềm luyện gõ phím, khu vực nào trên bàn phím dùng để gõ các chữ cái?",
+   [
+    "Khu vực các phím chữ",
+    "Khu vực các phím số",
+    "Khu vực các phím chức năng",
+    "Khu vực các phím điều hướng"
+   ],
+   "Khu vực các phím chữ là nơi chứa các chữ cái từ A đến Z để gõ văn bản."
+  ],
+  [
+   "Khi em đang gõ chữ, nếu muốn di chuyển con trỏ soạn thảo xuống dòng tiếp theo mà không gõ thêm ký tự, em dùng phím nào?",
+   [
+    "Phím Enter",
+    "Phím Spacebar",
+    "Phím Tab",
+    "Phím Esc"
+   ],
+   "Phím Enter giúp em xuống dòng hoặc tạo đoạn mới khi soạn thảo."
+  ],
+  [
+   "Trong phần mềm trình chiếu, để phóng to trang chiếu trình chiếu toàn màn hình, em thường nhấn phím nào?",
+   [
+    "Phím F5",
+    "Phím F1",
+    "Phím F10",
+    "Phím Esc"
+   ],
+   "Phím F5 là phím tắt phổ biến để bắt đầu trình chiếu trang chiếu toàn màn hình."
+  ],
+  [
+   "Hành động nào sau đây giúp em bảo vệ mắt khi sử dụng máy tính?",
+   [
+    "Ngồi cách màn hình từ 50 cm đến 70 cm",
+    "Tắt đèn phòng hoàn toàn khi nhìn màn hình",
+    "Nhìn sát vào màn hình để đọc chữ nhỏ",
+    "Dùng máy tính liên tục không nghỉ ngơi"
+   ],
+   "Ngồi cách xa màn hình giúp mắt không bị mỏi và cận thị."
+  ],
+  [
+   "Khi gõ hàng phím số, ngón tay nào của tay trái thường phụ trách phím số 1 và số 2?",
+   [
+    "Ngón út",
+    "Ngón trỏ",
+    "Ngón giữa",
+    "Ngón áp út"
+   ],
+   "Ngón út tay trái phụ trách các phím ở biên trái của hàng phím số như số 1 và 2."
+  ],
+  [
+   "Trong phần mềm soạn thảo văn bản, để lưu tệp văn bản đang làm việc vào máy tính, em có thể sử dụng tổ hợp phím nào?",
+   [
+    "Nhấn Ctrl và phím S",
+    "Nhấn Ctrl và phím C",
+    "Nhấn Ctrl và phím V",
+    "Nhấn Ctrl và phím A"
+   ],
+   "Tổ hợp phím Ctrl + S là lệnh tắt dùng để lưu tệp nhanh chóng."
+  ],
+  [
+   "Khi tạo một bài trình chiếu, em nên chọn màu chữ và màu nền như thế nào để người xem dễ đọc nhất?",
+   [
+    "Màu chữ sáng trên nền tối hoặc màu chữ tối trên nền sáng",
+    "Màu chữ đỏ rực trên nền màu hồng đậm",
+    "Màu chữ xanh biển trên nền màu đen",
+    "Màu chữ vàng nhạt trên nền màu trắng"
+   ],
+   "Sự tương phản cao giữa màu chữ và màu nền giúp người xem dễ đọc nội dung hơn."
+  ],
+  [
+   "Bạn Nam muốn tìm kiếm một từ trong bài trình chiếu của mình, em hãy đoán xem bạn ấy có thể dùng tổ hợp phím nào?",
+   [
+    "Ctrl và F",
+    "Ctrl và P",
+    "Ctrl và N",
+    "Ctrl và O"
+   ],
+   "Tổ hợp phím Ctrl + F được sử dụng để tìm kiếm từ hoặc cụm từ trong văn bản và trang chiếu."
+  ],
+  [
+   "Khi đang gõ bài bằng phần mềm soạn thảo, để sao chép một đoạn văn bản đã chọn sang vị trí khác, em cần dùng cặp tổ hợp phím nào theo thứ tự?",
+   [
+    "Ctrl + C và sau đó Ctrl + V",
+    "Ctrl + X và sau đó Ctrl + C",
+    "Ctrl + A và sau đó Ctrl + S",
+    "Ctrl + V và sau đó Ctrl + P"
+   ],
+   "Em dùng Ctrl + C để sao chép và Ctrl + V để dán đoạn văn bản đến vị trí mới."
+  ],
+  [
+   "Em muốn chèn một hình ảnh vui nhộn vào trang trình chiếu để bài học sinh động hơn, em thường tìm thẻ lệnh nào trước tiên?",
+   [
+    "Thẻ Insert",
+    "Thẻ Home",
+    "Thẻ View",
+    "Thẻ File"
+   ],
+   "Thẻ Insert trong phần mềm ứng dụng dùng để chèn các đối tượng như hình ảnh, tranh vẽ."
+  ],
+  [
+   "Cô giáo yêu cầu em mở một tệp trình chiếu đã có tên BàiSoạn.pptx trong thư mục Documents, em sẽ nháy chuột vào lệnh nào trong trình đơn File?",
+   [
+    "Lệnh Open",
+    "Lệnh Save",
+    "Lệnh New",
+    "Lệnh Print"
+   ],
+   "Lệnh Open dùng để mở các tệp đã được lưu trữ sẵn trên máy tính."
+  ],
+  [
+   "Khi em gõ một dòng chữ dài nhưng vô tình để sai chính tả toàn bộ từ đầu đến cuối dòng, cách nhanh nhất để chọn hết toàn bộ văn bản trong trang đó là gì?",
+   [
+    "Nhấn tổ hợp phím Ctrl và A",
+    "Nhấn phím Delete liên tục",
+    "Nhấn giữ phím Shift và kéo chuột",
+    "Nhấn phím Backspace nhiều lần"
+   ],
+   "Tổ hợp phím Ctrl + A giúp chọn toàn bộ nội dung văn bản một cách nhanh chóng."
+  ],
+  [
+   "Bạn Hoa muốn in bài trình chiếu ra giấy để báo cáo với cô giáo, bạn ấy nên chọn biểu tượng nào sau đây?",
+   [
+    "Biểu tượng máy in",
+    "Biểu tượng cái đĩa",
+    "Biểu tượng thùng rác",
+    "Biểu tượng thư mục"
+   ],
+   "Biểu tượng máy in (Print) dùng để kết nối và in tài liệu ra giấy."
   ]
  ],
  "c7": [
@@ -411,6 +2451,356 @@
     "Quay về"
    ],
    "Theo điều kiện: đèn đỏ thì dừng."
+  ],
+  [
+   "Khi em muốn máy tính giúp mình giải bài toán đếm số lượng hình tròn trong một bức tranh, bước đầu tiên em cần làm là gì?",
+   [
+    "Xác định rõ yêu cầu bài toán là đếm số hình tròn",
+    "Tắt máy tính ngay lập tức",
+    "Mở chương trình vẽ tranh",
+    "In bức tranh ra giấy"
+   ],
+   "Trước khi làm việc với máy tính, em luôn cần xác định rõ yêu cầu bài toán cần giải quyết là gì."
+  ],
+  [
+   "Để máy tính có thể giúp em vẽ một ngôi nhà, việc em cần làm trước tiên là:",
+   [
+    "Xác định các bước cần vẽ như vẽ thân nhà, mái nhà, cửa",
+    "Chỉ cần bật máy tính lên là máy tự vẽ",
+    "Tô màu cho bức tranh của bạn khác",
+    "Gửi bức tranh cho cô giáo ngay"
+   ],
+   "Em cần chia nhỏ công việc thành các bước thực hiện trước khi bắt tay vào làm."
+  ],
+  [
+   "Công việc nào sau đây phù hợp nhất để nhờ máy tính thực hiện?",
+   [
+    "Tính kết quả của phép tính nhân rất lớn",
+    "Cảm nhận vị ngọt của viên kẹo",
+    "Chạy nhảy trong sân trường",
+    "Ngửi mùi thơm của hoa hồng"
+   ],
+   "Máy tính rất giỏi trong việc tính toán nhanh các số liệu mà con người mất nhiều thời gian."
+  ],
+  [
+   "Khi em gặp một bài toán khó, việc chia nhỏ công việc lớn thành các việc nhỏ hơn có lợi ích gì?",
+   [
+    "Giúp em dễ hiểu và dễ thực hiện từng phần hơn",
+    "Làm cho bài toán trở nên khó hiểu hơn",
+    "Khiến em mất nhiều thời gian suy nghĩ hơn",
+    "Làm cho máy tính bị hỏng"
+   ],
+   "Chia nhỏ việc lớn thành việc nhỏ giúp em giải quyết từng bước một cách dễ dàng."
+  ],
+  [
+   "Câu nào sau đây mô tả đúng về một công việc có điều kiện trong cuộc sống hàng ngày?",
+   [
+    "Nếu hôm nay trời nắng thì em phơi quần áo",
+    "Em đang ăn cơm tối cùng gia đình",
+    "Mặt trời mọc ở hướng Đông",
+    "Em đang ngồi học bài trong phòng"
+   ],
+   "Công việc có điều kiện thường bắt đầu bằng từ “Nếu” và kèm theo hành động xảy ra khi điều kiện đó đạt được."
+  ],
+  [
+   "“Nếu bài tập Toán làm đúng hết thì em được mẹ thưởng một cái kẹo.” Theo em, điều kiện trong câu này là gì?",
+   [
+    "Bài tập Toán làm đúng hết",
+    "Em được mẹ thưởng",
+    "Em được ăn kẹo ngon",
+    "Mẹ đi mua kẹo"
+   ],
+   "Điều kiện là sự việc xảy ra trước, nằm sau từ “Nếu”."
+  ],
+  [
+   "Bạn An suy nghĩ: “Nếu đến ngã tư gặp đèn đỏ thì An dừng lại”. Hành động của An khi gặp đèn đỏ là gì?",
+   [
+    "Dừng lại",
+    "Tiếp tục đi",
+    "Chạy nhanh qua đường",
+    "Quay đầu xe lại"
+   ],
+   "Theo điều kiện đặt ra, gặp đèn đỏ thì hành động tiếp theo là dừng lại."
+  ],
+  [
+   "Để sắp xếp các bước rửa bát đĩa đúng thứ tự, bước nào nên được thực hiện sau cùng?",
+   [
+    "Úp bát đĩa lên rổ cho ráo nước",
+    "Tráng lại bát đĩa bằng nước sạch",
+    "Xà phòng rửa bát được bơm vào giẻ",
+    "Nhặt bỏ thức ăn thừa trên bát"
+   ],
+   "Sau khi rửa sạch và tráng nước, công việc cuối cùng là úp bát đĩa vào nơi quy định."
+  ],
+  [
+   "Thứ tự nào sau đây là đúng khi em muốn mở một trò chơi đã cài sẵn trên máy tính?",
+   [
+    "Bật máy, tìm biểu tượng trò chơi, nháy đúp chuột vào biểu tượng",
+    "Nháy đúp chuột vào biểu tượng, bật máy, tắt máy",
+    "Tắt máy, tìm biểu tượng, mở màn hình",
+    "Tìm biểu tượng, bật máy, chơi xong mới bật máy"
+   ],
+   "Em phải bật máy tính lên trước, tìm đúng biểu tượng rồi mới nháy đúp chuột để mở trò chơi."
+  ],
+  [
+   "Khi em muốn tìm kiếm một từ mới trên phần mềm từ điển máy tính, việc em cần làm ngay sau khi mở phần mềm là:",
+   [
+    "Gõ từ cần tìm vào ô tìm kiếm",
+    "Tắt ngay phần mềm từ điển",
+    "Nhấn nút in trang giấy",
+    "Đóng máy tính lại"
+   ],
+   "Sau khi mở phần mềm, bước tiếp theo là nhập từ cần tra cứu vào ô tìm kiếm."
+  ],
+  [
+   "Em muốn viết một bức thư ngắn gửi bạn chúc mừng sinh nhật trên máy tính. Em nên chọn phần mềm nào?",
+   [
+    "Phần mềm soạn thảo văn bản",
+    "Phần mềm vẽ tranh",
+    "Trò chơi giải mê cung",
+    "Phần mềm nghe nhạc"
+   ],
+   "Để viết chữ và làm thư, em cần dùng phần mềm soạn thảo văn bản."
+  ],
+  [
+   "Trong các việc sau, việc nào KHÔNG cần thực hiện theo các bước có thứ tự?",
+   [
+    "Nhìn ngắm bầu trời",
+    "Giải bài toán đố",
+    "Làm một món quà thủ công",
+    "Khởi động máy tính"
+   ],
+   "Việc nhìn ngắm bầu trời là hành động tự nhiên, không đòi hỏi phải tuân theo các bước tuần tự."
+  ],
+  [
+   "Nếu em bỏ qua bước “Mở phần mềm vẽ” khi muốn vẽ một bức tranh trên máy tính thì điều gì sẽ xảy ra?",
+   [
+    "Em không thể bắt đầu vẽ hình trên màn hình được",
+    "Bức tranh tự động được vẽ xong rất đẹp",
+    "Máy tính sẽ tự động in bức tranh ra",
+    "Bức tranh sẽ được lưu vào máy"
+   ],
+   "Phải mở phần mềm vẽ lên thì em mới có chỗ để vẽ."
+  ],
+  [
+   "Cho các bước tưới cây: (1) Đưa vòi nước đến gốc cây, (2) Mở vòi nước, (3) Di chuyển đến chậu cây cần tưới. Thứ tự hợp lý là:",
+   [
+    "(3), (1), (2)",
+    "(1), (2), (3)",
+    "(2), (1), (3)",
+    "(3), (2), (1)"
+   ],
+   "Đầu tiên em đến chậu cây, đưa vòi tới gốc rồi mới mở nước để tưới."
+  ],
+  [
+   "Khi em giải một bài toán đố có lời văn, việc đọc kỹ đề bài giúp em điều gì?",
+   [
+    "Xác định được cái đã cho và cái cần tìm",
+    "Biết cách chơi trò chơi điện tử",
+    "Tắt máy tính nhanh hơn",
+    "Biết cách vẽ hình bông hoa"
+   ],
+   "Đọc kỹ đề bài là bước đầu tiên để hiểu rõ yêu cầu và tìm ra cách giải quyết."
+  ],
+  [
+   "Bạn Nam lập danh sách các việc cần làm buổi sáng: (1) Ăn sáng, (2) Đánh răng rửa mặt, (3) Thức dậy. Sắp xếp nào sau đây đúng?",
+   [
+    "(3), (2), (1)",
+    "(1), (2), (3)",
+    "(2), (3), (1)",
+    "(3), (1), (2)"
+   ],
+   "Buổi sáng em thức dậy trước, tiếp theo là vệ sinh cá nhân rồi mới ăn sáng."
+  ],
+  [
+   "Khi máy tính hiển thị thông báo lỗi không mở được tệp tin, em nên làm gì đầu tiên?",
+   [
+    "Đọc kỹ nội dung thông báo lỗi trên màn hình",
+    "Đập tay mạnh vào bàn phím máy tính",
+    "Rút ngay dây nguồn điện của máy",
+    "Bỏ đi chơi và không quan tâm nữa"
+   ],
+   "Đọc thông báo lỗi giúp em biết vì sao máy không mở được để tìm cách xử lý."
+  ],
+  [
+   "“Nếu điểm kiểm tra môn Tin học đạt điểm 10 thì em được bố mua cho một quyển truyện tranh.” Hành động của bố sẽ là gì nếu em đạt điểm 9?",
+   [
+    "Không mua truyện tranh theo đúng điều kiện trên",
+    "Mua ngay hai quyển truyện tranh cho em",
+    "Thưởng cho em một cái máy tính mới",
+    "Đưa em đi du lịch công viên"
+   ],
+   "Điều kiện đặt ra là điểm 10, nếu đạt điểm 9 thì điều kiện đó không thỏa mãn nên không được thưởng."
+  ],
+  [
+   "Để tính tổng số điểm sau 3 ván chơi trò chơi trên máy tính, em thực hiện việc gì?",
+   [
+    "Cộng số điểm của cả 3 ván lại với nhau",
+    "Lấy số điểm ván thứ nhất trừ đi ván thứ ba",
+    "Chỉ lấy điểm số của ván chơi thứ nhất",
+    "Lấy điểm ván ba chia cho ván hai"
+   ],
+   "Tính tổng nghĩa là thực hiện phép cộng điểm của tất cả các ván chơi."
+  ],
+  [
+   "Khi sử dụng máy tính để học tập, việc chia nhỏ thời gian thành các khoảng học và nghỉ ngơi hợp lý giúp em:",
+   [
+    "Giữ gìn sức khỏe mắt và tiếp thu bài tốt hơn",
+    "Làm cho máy tính chạy nhanh hơn nữa",
+    "Khiến em quên mất kiến thức đã học",
+    "Làm bài tập về nhà lâu hơn bình thường"
+   ],
+   "Nghỉ ngơi hợp lý giúp mắt không bị mỏi và đầu óc tỉnh táo để học tốt hơn."
+  ],
+  [
+   "Công việc nào sau đây mô tả một việc cần thực hiện theo các bước có thứ tự?",
+   [
+    "Pha một ly sữa nóng",
+    "Suy nghĩ về một giấc mơ",
+    "Nghe nhạc hòa tấu",
+    "Ngắm cảnh thiên nhiên"
+   ],
+   "Pha sữa nóng cần làm đúng theo các bước như lấy cốc, cho sữa, rót nước sôi và khuấy đều."
+  ],
+  [
+   "Nối các bước để chuẩn bị đi học: (1) Mặc đồng phục, (2) Soạn sách vở vào cặp, (3) Đeo cặp và đi học. Thứ tự thực hiện đúng là:",
+   [
+    "(2) - (1) - (3)",
+    "(1) - (3) - (2)",
+    "(3) - (2) - (1)",
+    "(2) - (3) - (1)"
+   ],
+   "Em cần soạn sách vở trước, sau đó mặc đồng phục rồi mới đeo cặp đi học."
+  ],
+  [
+   "Trong câu “Nếu trời nắng gắt thì em đội mũ khi ra ngoài”, đâu là điều kiện?",
+   [
+    "Trời nắng gắt",
+    "Em đội mũ",
+    "Em ra ngoài",
+    "Trời không mưa"
+   ],
+   "Điều kiện nằm ở sau từ “Nếu”, đó là sự việc “Trời nắng gắt” xảy ra."
+  ],
+  [
+   "Khi thực hiện một công việc theo các bước, nếu em thực hiện sai thứ tự các bước thì điều gì dễ xảy ra nhất?",
+   [
+    "Công việc không hoàn thành hoặc kết quả bị sai",
+    "Công việc sẽ hoàn thành nhanh hơn",
+    "Máy tính sẽ tự động sửa lỗi giúp em",
+    "Kết quả luôn luôn đúng"
+   ],
+   "Làm sai thứ tự các bước sẽ dẫn đến kết quả không như mong muốn hoặc thất bại."
+  ],
+  [
+   "Việc nào sau đây máy tính có thể thực hiện giúp con người một cách rất nhanh chóng và chính xác?",
+   [
+    "Tính toán dãy số lớn",
+    "Cảm nhận hương vị thức ăn",
+    "Ngửi mùi hoa hồng",
+    "Thể hiện cảm xúc buồn vui"
+   ],
+   "Máy tính rất giỏi tính toán các con số chính xác và nhanh chóng."
+  ],
+  [
+   "Để vẽ một bông hoa trên máy tính bằng phần mềm Tập vẽ, bước nào em cần làm đầu tiên?",
+   [
+    "Kích hoạt phần mềm Tập vẽ",
+    "Tô màu cho cánh hoa",
+    "Lưu tệp hình vẽ vào máy tính",
+    "Chọn công cụ vẽ nét cong"
+   ],
+   "Em phải mở phần mềm Tập vẽ lên trước rồi mới có thể dùng công cụ vẽ hay tô màu."
+  ],
+  [
+   "Cho câu: “Nếu em hoàn thành xong bài tập về nhà sớm thì em được xem hoạt hình 15 phút”. Nếu em chưa làm xong bài tập về nhà, em sẽ:",
+   [
+    "Không được xem hoạt hình",
+    "Được xem hoạt hình 15 phút",
+    "Được xem hoạt hình cả ngày",
+    "Đi ngủ ngay lập tức"
+   ],
+   "Vì chưa thỏa mãn điều kiện làm xong bài tập nên em chưa được xem hoạt hình."
+  ],
+  [
+   "Khi em muốn chia việc “Dọn dẹp góc học tập” thành các việc nhỏ hơn, việc nào sau đây KHÔNG thuộc công việc này?",
+   [
+    "Tưới cây ngoài vườn",
+    "Xếp sách vở gọn gàng",
+    "Lau bụi trên mặt bàn",
+    "Nhặt bút thước vào hộp"
+   ],
+   "Tưới cây ngoài vườn là công việc độc lập, không liên quan đến góc học tập."
+  ],
+  [
+   "Bạn Binh muốn gửi một tin nhắn chúc mừng cho bạn An qua máy tính. Việc đầu tiên Binh cần làm là gì?",
+   [
+    "Mở phần mềm nhắn tin hoặc phần mềm thư điện tử",
+    "Gõ nội dung lời chúc mừng",
+    "Nhấn nút Gửi tin nhắn",
+    "Tắt máy tính"
+   ],
+   "Bình cần mở phần mềm nhắn tin trước rồi mới gõ nội dung và gửi đi."
+  ],
+  [
+   "Hãy chỉ ra việc có tính chất lặp lại hằng ngày của một học sinh:",
+   [
+    "Thức dậy vào buổi sáng",
+    "Đi du lịch tắm biển",
+    "Mua cặp sách mới",
+    "Đi thi học sinh giỏi"
+   ],
+   "Thức dậy vào buổi sáng là hoạt động diễn ra lặp đi lặp lại hằng ngày."
+  ],
+  [
+   "Trong phần mềm Luyện gõ bàn phím, để bắt đầu một bài luyện gõ mới, em thực hiện bước nào?",
+   [
+    "Chọn bài luyện gõ trong danh sách",
+    "Tắt nguồn máy tính",
+    "Rút dây cắm bàn phím",
+    "Đóng cửa sổ phần mềm"
+   ],
+   "Em cần chọn bài tập muốn luyện trong danh sách các bài học của phần mềm."
+  ],
+  [
+   "Trong quy trình gọt quả táo: (1) Rửa sạch quả táo, (2) Dùng dao gọt vỏ, (3) Bổ táo thành từng miếng. Nếu em đảo bước (2) lên trước bước (1) thì điều gì sẽ xảy ra?",
+   [
+    "Chất bẩn bên ngoài vỏ có thể dính vào phần thịt táo",
+    "Táo sẽ ngon và ngọt hơn",
+    "Tiết kiệm thời gian hơn",
+    "Quả táo sẽ không bị thâm"
+   ],
+   "Gọt vỏ trước khi rửa sẽ làm vi khuẩn, chất bẩn từ vỏ dính trực tiếp vào phần thịt táo."
+  ],
+  [
+   "Đâu là ví dụ về công việc phụ thuộc vào điều kiện?",
+   [
+    "Nếu phòng tối thì em bật đèn",
+    "Em tên là Nguyễn Văn Ánh",
+    "Trái Đất quay quanh Mặt Trời",
+    "Mặt Trời mọc ở hướng Đông"
+   ],
+   "Bật đèn là hành động phụ thuộc vào điều kiện “phòng tối”."
+  ],
+  [
+   "Khi giải bài toán “Tìm tổng của 15 và 27” bằng máy tính bỏ túi hay phần mềm máy tính, bước nhập dữ liệu đúng là:",
+   [
+    "Nhập 15, bấm dấu cộng +, nhập 27, bấm dấu bằng =",
+    "Nhập 15, bấm dấu trừ -, nhập 27",
+    "Bấm dấu bằng =, nhập 15, nhập 27",
+    "Nhập 27, bấm dấu nhân x, nhập 15"
+   ],
+   "Quy trình tính tổng hai số là nhập số thứ nhất, chọn phép cộng, nhập số thứ hai và bấm bằng."
+  ],
+  [
+   "Bạn Cúc muốn nhờ máy tính tìm giúp một bản nhạc thiếu nhi. Bước nào sau đây thuộc quy trình thực hiện?",
+   [
+    "Gõ tên bài hát vào ô tìm kiếm của ứng dụng nghe nhạc",
+    "Đút đĩa CD vào cặp sách",
+    "Tắt loa máy tính",
+    "Rút dây nguồn máy tính"
+   ],
+   "Để máy tính tìm đúng bài hát, em cần gõ tên bài hát vào ô tìm kiếm."
   ]
  ],
  "tong-hop": [

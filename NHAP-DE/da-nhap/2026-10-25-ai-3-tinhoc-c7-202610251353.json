@@ -1,0 +1,356 @@
+{
+ "3-tinhoc": {
+  "c7": [
+   [
+    "Khi em muốn máy tính giúp mình giải bài toán đếm số lượng hình tròn trong một bức tranh, bước đầu tiên em cần làm là gì?",
+    [
+     "Xác định rõ yêu cầu bài toán là đếm số hình tròn",
+     "Tắt máy tính ngay lập tức",
+     "Mở chương trình vẽ tranh",
+     "In bức tranh ra giấy"
+    ],
+    "Trước khi làm việc với máy tính, em luôn cần xác định rõ yêu cầu bài toán cần giải quyết là gì."
+   ],
+   [
+    "Để máy tính có thể giúp em vẽ một ngôi nhà, việc em cần làm trước tiên là:",
+    [
+     "Xác định các bước cần vẽ như vẽ thân nhà, mái nhà, cửa",
+     "Chỉ cần bật máy tính lên là máy tự vẽ",
+     "Tô màu cho bức tranh của bạn khác",
+     "Gửi bức tranh cho cô giáo ngay"
+    ],
+    "Em cần chia nhỏ công việc thành các bước thực hiện trước khi bắt tay vào làm."
+   ],
+   [
+    "Công việc nào sau đây phù hợp nhất để nhờ máy tính thực hiện?",
+    [
+     "Tính kết quả của phép tính nhân rất lớn",
+     "Cảm nhận vị ngọt của viên kẹo",
+     "Chạy nhảy trong sân trường",
+     "Ngửi mùi thơm của hoa hồng"
+    ],
+    "Máy tính rất giỏi trong việc tính toán nhanh các số liệu mà con người mất nhiều thời gian."
+   ],
+   [
+    "Khi em gặp một bài toán khó, việc chia nhỏ công việc lớn thành các việc nhỏ hơn có lợi ích gì?",
+    [
+     "Giúp em dễ hiểu và dễ thực hiện từng phần hơn",
+     "Làm cho bài toán trở nên khó hiểu hơn",
+     "Khiến em mất nhiều thời gian suy nghĩ hơn",
+     "Làm cho máy tính bị hỏng"
+    ],
+    "Chia nhỏ việc lớn thành việc nhỏ giúp em giải quyết từng bước một cách dễ dàng."
+   ],
+   [
+    "Câu nào sau đây mô tả đúng về một công việc có điều kiện trong cuộc sống hàng ngày?",
+    [
+     "Nếu hôm nay trời nắng thì em phơi quần áo",
+     "Em đang ăn cơm tối cùng gia đình",
+     "Mặt trời mọc ở hướng Đông",
+     "Em đang ngồi học bài trong phòng"
+    ],
+    "Công việc có điều kiện thường bắt đầu bằng từ “Nếu” và kèm theo hành động xảy ra khi điều kiện đó đạt được."
+   ],
+   [
+    "“Nếu bài tập Toán làm đúng hết thì em được mẹ thưởng một cái kẹo.” Theo em, điều kiện trong câu này là gì?",
+    [
+     "Bài tập Toán làm đúng hết",
+     "Em được mẹ thưởng",
+     "Em được ăn kẹo ngon",
+     "Mẹ đi mua kẹo"
+    ],
+    "Điều kiện là sự việc xảy ra trước, nằm sau từ “Nếu”."
+   ],
+   [
+    "Bạn An suy nghĩ: “Nếu đến ngã tư gặp đèn đỏ thì An dừng lại”. Hành động của An khi gặp đèn đỏ là gì?",
+    [
+     "Dừng lại",
+     "Tiếp tục đi",
+     "Chạy nhanh qua đường",
+     "Quay đầu xe lại"
+    ],
+    "Theo điều kiện đặt ra, gặp đèn đỏ thì hành động tiếp theo là dừng lại."
+   ],
+   [
+    "Để sắp xếp các bước rửa bát đĩa đúng thứ tự, bước nào nên được thực hiện sau cùng?",
+    [
+     "Úp bát đĩa lên rổ cho ráo nước",
+     "Tráng lại bát đĩa bằng nước sạch",
+     "Xà phòng rửa bát được bơm vào giẻ",
+     "Nhặt bỏ thức ăn thừa trên bát"
+    ],
+    "Sau khi rửa sạch và tráng nước, công việc cuối cùng là úp bát đĩa vào nơi quy định."
+   ],
+   [
+    "Thứ tự nào sau đây là đúng khi em muốn mở một trò chơi đã cài sẵn trên máy tính?",
+    [
+     "Bật máy, tìm biểu tượng trò chơi, nháy đúp chuột vào biểu tượng",
+     "Nháy đúp chuột vào biểu tượng, bật máy, tắt máy",
+     "Tắt máy, tìm biểu tượng, mở màn hình",
+     "Tìm biểu tượng, bật máy, chơi xong mới bật máy"
+    ],
+    "Em phải bật máy tính lên trước, tìm đúng biểu tượng rồi mới nháy đúp chuột để mở trò chơi."
+   ],
+   [
+    "Khi em muốn tìm kiếm một từ mới trên phần mềm từ điển máy tính, việc em cần làm ngay sau khi mở phần mềm là:",
+    [
+     "Gõ từ cần tìm vào ô tìm kiếm",
+     "Tắt ngay phần mềm từ điển",
+     "Nhấn nút in trang giấy",
+     "Đóng máy tính lại"
+    ],
+    "Sau khi mở phần mềm, bước tiếp theo là nhập từ cần tra cứu vào ô tìm kiếm."
+   ],
+   [
+    "Em muốn viết một bức thư ngắn gửi bạn chúc mừng sinh nhật trên máy tính. Em nên chọn phần mềm nào?",
+    [
+     "Phần mềm soạn thảo văn bản",
+     "Phần mềm vẽ tranh",
+     "Trò chơi giải mê cung",
+     "Phần mềm nghe nhạc"
+    ],
+    "Để viết chữ và làm thư, em cần dùng phần mềm soạn thảo văn bản."
+   ],
+   [
+    "Trong các việc sau, việc nào KHÔNG cần thực hiện theo các bước có thứ tự?",
+    [
+     "Nhìn ngắm bầu trời",
+     "Giải bài toán đố",
+     "Làm một món quà thủ công",
+     "Khởi động máy tính"
+    ],
+    "Việc nhìn ngắm bầu trời là hành động tự nhiên, không đòi hỏi phải tuân theo các bước tuần tự."
+   ],
+   [
+    "Nếu em bỏ qua bước “Mở phần mềm vẽ” khi muốn vẽ một bức tranh trên máy tính thì điều gì sẽ xảy ra?",
+    [
+     "Em không thể bắt đầu vẽ hình trên màn hình được",
+     "Bức tranh tự động được vẽ xong rất đẹp",
+     "Máy tính sẽ tự động in bức tranh ra",
+     "Bức tranh sẽ được lưu vào máy"
+    ],
+    "Phải mở phần mềm vẽ lên thì em mới có chỗ để vẽ."
+   ],
+   [
+    "Cho các bước tưới cây: (1) Đưa vòi nước đến gốc cây, (2) Mở vòi nước, (3) Di chuyển đến chậu cây cần tưới. Thứ tự hợp lý là:",
+    [
+     "(3), (1), (2)",
+     "(1), (2), (3)",
+     "(2), (1), (3)",
+     "(3), (2), (1)"
+    ],
+    "Đầu tiên em đến chậu cây, đưa vòi tới gốc rồi mới mở nước để tưới."
+   ],
+   [
+    "Khi em giải một bài toán đố có lời văn, việc đọc kỹ đề bài giúp em điều gì?",
+    [
+     "Xác định được cái đã cho và cái cần tìm",
+     "Biết cách chơi trò chơi điện tử",
+     "Tắt máy tính nhanh hơn",
+     "Biết cách vẽ hình bông hoa"
+    ],
+    "Đọc kỹ đề bài là bước đầu tiên để hiểu rõ yêu cầu và tìm ra cách giải quyết."
+   ],
+   [
+    "Bạn Nam lập danh sách các việc cần làm buổi sáng: (1) Ăn sáng, (2) Đánh răng rửa mặt, (3) Thức dậy. Sắp xếp nào sau đây đúng?",
+    [
+     "(3), (2), (1)",
+     "(1), (2), (3)",
+     "(2), (3), (1)",
+     "(3), (1), (2)"
+    ],
+    "Buổi sáng em thức dậy trước, tiếp theo là vệ sinh cá nhân rồi mới ăn sáng."
+   ],
+   [
+    "Khi máy tính hiển thị thông báo lỗi không mở được tệp tin, em nên làm gì đầu tiên?",
+    [
+     "Đọc kỹ nội dung thông báo lỗi trên màn hình",
+     "Đập tay mạnh vào bàn phím máy tính",
+     "Rút ngay dây nguồn điện của máy",
+     "Bỏ đi chơi và không quan tâm nữa"
+    ],
+    "Đọc thông báo lỗi giúp em biết vì sao máy không mở được để tìm cách xử lý."
+   ],
+   [
+    "“Nếu điểm kiểm tra môn Tin học đạt điểm 10 thì em được bố mua cho một quyển truyện tranh.” Hành động của bố sẽ là gì nếu em đạt điểm 9?",
+    [
+     "Không mua truyện tranh theo đúng điều kiện trên",
+     "Mua ngay hai quyển truyện tranh cho em",
+     "Thưởng cho em một cái máy tính mới",
+     "Đưa em đi du lịch công viên"
+    ],
+    "Điều kiện đặt ra là điểm 10, nếu đạt điểm 9 thì điều kiện đó không thỏa mãn nên không được thưởng."
+   ],
+   [
+    "Để tính tổng số điểm sau 3 ván chơi trò chơi trên máy tính, em thực hiện việc gì?",
+    [
+     "Cộng số điểm của cả 3 ván lại với nhau",
+     "Lấy số điểm ván thứ nhất trừ đi ván thứ ba",
+     "Chỉ lấy điểm số của ván chơi thứ nhất",
+     "Lấy điểm ván ba chia cho ván hai"
+    ],
+    "Tính tổng nghĩa là thực hiện phép cộng điểm của tất cả các ván chơi."
+   ],
+   [
+    "Khi sử dụng máy tính để học tập, việc chia nhỏ thời gian thành các khoảng học và nghỉ ngơi hợp lý giúp em:",
+    [
+     "Giữ gìn sức khỏe mắt và tiếp thu bài tốt hơn",
+     "Làm cho máy tính chạy nhanh hơn nữa",
+     "Khiến em quên mất kiến thức đã học",
+     "Làm bài tập về nhà lâu hơn bình thường"
+    ],
+    "Nghỉ ngơi hợp lý giúp mắt không bị mỏi và đầu óc tỉnh táo để học tốt hơn."
+   ],
+   [
+    "Công việc nào sau đây mô tả một việc cần thực hiện theo các bước có thứ tự?",
+    [
+     "Pha một ly sữa nóng",
+     "Suy nghĩ về một giấc mơ",
+     "Nghe nhạc hòa tấu",
+     "Ngắm cảnh thiên nhiên"
+    ],
+    "Pha sữa nóng cần làm đúng theo các bước như lấy cốc, cho sữa, rót nước sôi và khuấy đều."
+   ],
+   [
+    "Nối các bước để chuẩn bị đi học: (1) Mặc đồng phục, (2) Soạn sách vở vào cặp, (3) Đeo cặp và đi học. Thứ tự thực hiện đúng là:",
+    [
+     "(2) - (1) - (3)",
+     "(1) - (3) - (2)",
+     "(3) - (2) - (1)",
+     "(2) - (3) - (1)"
+    ],
+    "Em cần soạn sách vở trước, sau đó mặc đồng phục rồi mới đeo cặp đi học."
+   ],
+   [
+    "Trong câu “Nếu trời nắng gắt thì em đội mũ khi ra ngoài”, đâu là điều kiện?",
+    [
+     "Trời nắng gắt",
+     "Em đội mũ",
+     "Em ra ngoài",
+     "Trời không mưa"
+    ],
+    "Điều kiện nằm ở sau từ “Nếu”, đó là sự việc “Trời nắng gắt” xảy ra."
+   ],
+   [
+    "Khi thực hiện một công việc theo các bước, nếu em thực hiện sai thứ tự các bước thì điều gì dễ xảy ra nhất?",
+    [
+     "Công việc không hoàn thành hoặc kết quả bị sai",
+     "Công việc sẽ hoàn thành nhanh hơn",
+     "Máy tính sẽ tự động sửa lỗi giúp em",
+     "Kết quả luôn luôn đúng"
+    ],
+    "Làm sai thứ tự các bước sẽ dẫn đến kết quả không như mong muốn hoặc thất bại."
+   ],
+   [
+    "Việc nào sau đây máy tính có thể thực hiện giúp con người một cách rất nhanh chóng và chính xác?",
+    [
+     "Tính toán dãy số lớn",
+     "Cảm nhận hương vị thức ăn",
+     "Ngửi mùi hoa hồng",
+     "Thể hiện cảm xúc buồn vui"
+    ],
+    "Máy tính rất giỏi tính toán các con số chính xác và nhanh chóng."
+   ],
+   [
+    "Để vẽ một bông hoa trên máy tính bằng phần mềm Tập vẽ, bước nào em cần làm đầu tiên?",
+    [
+     "Kích hoạt phần mềm Tập vẽ",
+     "Tô màu cho cánh hoa",
+     "Lưu tệp hình vẽ vào máy tính",
+     "Chọn công cụ vẽ nét cong"
+    ],
+    "Em phải mở phần mềm Tập vẽ lên trước rồi mới có thể dùng công cụ vẽ hay tô màu."
+   ],
+   [
+    "Cho câu: “Nếu em hoàn thành xong bài tập về nhà sớm thì em được xem hoạt hình 15 phút”. Nếu em chưa làm xong bài tập về nhà, em sẽ:",
+    [
+     "Không được xem hoạt hình",
+     "Được xem hoạt hình 15 phút",
+     "Được xem hoạt hình cả ngày",
+     "Đi ngủ ngay lập tức"
+    ],
+    "Vì chưa thỏa mãn điều kiện làm xong bài tập nên em chưa được xem hoạt hình."
+   ],
+   [
+    "Khi em muốn chia việc “Dọn dẹp góc học tập” thành các việc nhỏ hơn, việc nào sau đây KHÔNG thuộc công việc này?",
+    [
+     "Tưới cây ngoài vườn",
+     "Xếp sách vở gọn gàng",
+     "Lau bụi trên mặt bàn",
+     "Nhặt bút thước vào hộp"
+    ],
+    "Tưới cây ngoài vườn là công việc độc lập, không liên quan đến góc học tập."
+   ],
+   [
+    "Bạn Binh muốn gửi một tin nhắn chúc mừng cho bạn An qua máy tính. Việc đầu tiên Binh cần làm là gì?",
+    [
+     "Mở phần mềm nhắn tin hoặc phần mềm thư điện tử",
+     "Gõ nội dung lời chúc mừng",
+     "Nhấn nút Gửi tin nhắn",
+     "Tắt máy tính"
+    ],
+    "Bình cần mở phần mềm nhắn tin trước rồi mới gõ nội dung và gửi đi."
+   ],
+   [
+    "Hãy chỉ ra việc có tính chất lặp lại hằng ngày của một học sinh:",
+    [
+     "Thức dậy vào buổi sáng",
+     "Đi du lịch tắm biển",
+     "Mua cặp sách mới",
+     "Đi thi học sinh giỏi"
+    ],
+    "Thức dậy vào buổi sáng là hoạt động diễn ra lặp đi lặp lại hằng ngày."
+   ],
+   [
+    "Trong phần mềm Luyện gõ bàn phím, để bắt đầu một bài luyện gõ mới, em thực hiện bước nào?",
+    [
+     "Chọn bài luyện gõ trong danh sách",
+     "Tắt nguồn máy tính",
+     "Rút dây cắm bàn phím",
+     "Đóng cửa sổ phần mềm"
+    ],
+    "Em cần chọn bài tập muốn luyện trong danh sách các bài học của phần mềm."
+   ],
+   [
+    "Trong quy trình gọt quả táo: (1) Rửa sạch quả táo, (2) Dùng dao gọt vỏ, (3) Bổ táo thành từng miếng. Nếu em đảo bước (2) lên trước bước (1) thì điều gì sẽ xảy ra?",
+    [
+     "Chất bẩn bên ngoài vỏ có thể dính vào phần thịt táo",
+     "Táo sẽ ngon và ngọt hơn",
+     "Tiết kiệm thời gian hơn",
+     "Quả táo sẽ không bị thâm"
+    ],
+    "Gọt vỏ trước khi rửa sẽ làm vi khuẩn, chất bẩn từ vỏ dính trực tiếp vào phần thịt táo."
+   ],
+   [
+    "Đâu là ví dụ về công việc phụ thuộc vào điều kiện?",
+    [
+     "Nếu phòng tối thì em bật đèn",
+     "Em tên là Nguyễn Văn Ánh",
+     "Trái Đất quay quanh Mặt Trời",
+     "Mặt Trời mọc ở hướng Đông"
+    ],
+    "Bật đèn là hành động phụ thuộc vào điều kiện “phòng tối”."
+   ],
+   [
+    "Khi giải bài toán “Tìm tổng của 15 và 27” bằng máy tính bỏ túi hay phần mềm máy tính, bước nhập dữ liệu đúng là:",
+    [
+     "Nhập 15, bấm dấu cộng +, nhập 27, bấm dấu bằng =",
+     "Nhập 15, bấm dấu trừ -, nhập 27",
+     "Bấm dấu bằng =, nhập 15, nhập 27",
+     "Nhập 27, bấm dấu nhân x, nhập 15"
+    ],
+    "Quy trình tính tổng hai số là nhập số thứ nhất, chọn phép cộng, nhập số thứ hai và bấm bằng."
+   ],
+   [
+    "Bạn Cúc muốn nhờ máy tính tìm giúp một bản nhạc thiếu nhi. Bước nào sau đây thuộc quy trình thực hiện?",
+    [
+     "Gõ tên bài hát vào ô tìm kiếm của ứng dụng nghe nhạc",
+     "Đút đĩa CD vào cặp sách",
+     "Tắt loa máy tính",
+     "Rút dây nguồn máy tính"
+    ],
+    "Để máy tính tìm đúng bài hát, em cần gõ tên bài hát vào ô tìm kiếm."
+   ]
+  ]
+ }
+}

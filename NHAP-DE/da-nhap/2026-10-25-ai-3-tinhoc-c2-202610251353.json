@@ -1,0 +1,356 @@
+{
+ "3-tinhoc": {
+  "c2": [
+   [
+    "Khi em nhìn thấy bảng chỉ dẫn “Cấm hút thuốc” đặt ở bệnh viện, bộ phận nào trên cơ thể giúp em tiếp nhận thông tin đó?",
+    [
+     "Mắt",
+     "Tai",
+     "Mũi",
+     "Tay"
+    ],
+    "Mắt giúp em nhìn thấy các hình ảnh và chữ viết trên bảng chỉ dẫn."
+   ],
+   [
+    "Hành động nào sau đây thể hiện việc con người dùng tai để thu nhận thông tin?",
+    [
+     "Nghe tiếng chuông báo thức reo vào buổi sáng",
+     "Ngửi thấy mùi thơm của hoa hồng trong vườn",
+     "Sờ vào cốc nước ấm để biết nước nóng hay lạnh",
+     "Nhìn thấy biển báo hướng dẫn lối thoát hiểm"
+    ],
+    "Tai là cơ quan thính giác giúp chúng ta nghe được các âm thanh xung quanh."
+   ],
+   [
+    "Thông tin nào dưới đây thuộc dạng âm thanh?",
+    [
+     "Tiếng chim hót ríu rít trên cành cây",
+     "Bức tranh phong cảnh vẽ cánh đồng lúa",
+     "Quyển sách Tiếng Việt lớp 3",
+     "Tờ lịch treo tường ghi ngày tháng"
+    ],
+    "Tiếng chim hót là âm thanh mà tai chúng ta nghe được."
+   ],
+   [
+    "Dạng thông tin nào xuất hiện khi em đọc một câu chuyện cổ tích trong sách?",
+    [
+     "Dạng văn bản",
+     "Dạng âm thanh",
+     "Dạng hình ảnh",
+     "Dạng số liệu"
+    ],
+    "Chữ viết trong sách là thông tin dạng văn bản."
+   ],
+   [
+    "Khi cô giáo gọi tên em đứng lên trả lời câu hỏi, quá trình xử lí thông tin của em diễn ra theo thứ tự nào?",
+    [
+     "Thu nhận thông tin qua tai, não suy nghĩ, phát ra lời nói",
+     "Não suy nghĩ trước, rồi mới nghe thấy tiếng cô gọi",
+     "Phát ra lời nói ngay lập tức rồi mới nghe",
+     "Thu nhận thông tin qua mắt, não suy nghĩ, viết ra giấy"
+    ],
+    "Đầu tiên tai nghe tiếng gọi, não phân tích và đưa ra câu trả lời bằng lời nói."
+   ],
+   [
+    "Em ngửi thấy mùi khét phát ra từ bếp, não bộ sẽ giúp em đưa ra phán đoán nào hợp lí nhất?",
+    [
+     "Có thể thức ăn đang bị cháy",
+     "Có tiếng nhạc đang phát rất hay",
+     "Trời sắp có mưa giông lớn",
+     "Có bạn đang gọt bút chì"
+    ],
+    "Mùi khét là dấu hiệu cho thấy có vật gì đó bị cháy ở gần."
+   ],
+   [
+    "Bộ phận nào trên cơ thể đóng vai trò là “trung tâm” xử lí thông tin thu nhận được từ các giác quan?",
+    [
+     "Bộ não",
+     "Bàn tay",
+     "Đôi tai",
+     "Cái mũi"
+    ],
+    "Bộ não tiếp nhận thông tin từ các giác quan, xử lí và đưa ra quyết định."
+   ],
+   [
+    "Thông tin dạng hình ảnh mang lại cho em điều gì?",
+    [
+     "Giúp em quan sát và nhận biết sự vật, sự việc qua hình vẽ, tranh ảnh",
+     "Giúp em nghe được các giai điệu âm nhạc",
+     "Giúp em đọc hiểu các bài văn, bài thơ",
+     "Giúp em tính toán các con số nhanh chóng"
+    ],
+    "Thông tin dạng hình ảnh được tiếp nhận chủ yếu bằng mắt qua tranh ảnh, màu sắc."
+   ],
+   [
+    "Việc làm nào sau đây KHÔNG phải là quá trình xử lí thông tin?",
+    [
+     "Nhắm mắt lại và đi ngủ suốt buổi tối",
+     "Nghe dự báo thời tiết rồi mang theo ô khi đi học",
+     "Đọc bản đồ để tìm đường đi đến nhà bạn",
+     "Nhìn thấy đèn đỏ và dừng xe lại trước vạch"
+    ],
+    "Nhắm mắt đi ngủ là trạng thái nghỉ ngơi, không phải là hoạt động thu nhận và xử lí thông tin."
+   ],
+   [
+    "Khi bạn đọc một bản tin dự báo thời tiết trên ti vi có hình ông mặt trời và chữ “Nắng nóng 35 độ”, thông tin em nhận được gồm những dạng nào?",
+    [
+     "Hình ảnh, văn bản và số liệu",
+     "Chỉ có dạng âm thanh",
+     "Chỉ có dạng hình ảnh",
+     "Chỉ có dạng văn bản"
+    ],
+    "Bản tin có hình ông mặt trời (hình ảnh), chữ viết (văn bản) và số 35 (số liệu)."
+   ],
+   [
+    "Em đang làm bài toán, đọc đề bài rồi tính ra kết quả viết vào vở. Đâu là thông tin vào (đầu vào)?",
+    [
+     "Đề bài toán",
+     "Kết quả tính toán",
+     "Quyển vở của em",
+     "Cái bút chì"
+    ],
+    "Đề bài là thông tin đầu vào để em đọc và xử lí."
+   ],
+   [
+    "Bạn An nhìn thấy bầu trời nhiều mây đen, sấm chớp và nghe thấy tiếng ù ù. An liền thu quần áo đang phơi ngoài sân vào nhà. Hành động thu quần áo của An dựa trên việc xử lí thông tin nào?",
+    [
+     "Trời sắp có mưa giông",
+     "Trời chuẩn bị có nắng gắt",
+     "Trời sắp có gió mùa đông bắc",
+     "Trời chuẩn bị có sương mù"
+    ],
+    "Mây đen, sấm chớp và tiếng động là dấu hiệu báo trời sắp mưa."
+   ],
+   [
+    "Khi em dùng tay sờ vào một cục đá lấy từ tủ lạnh ra, em nhận được thông tin gì?",
+    [
+     "Biết được cục đá rất lạnh",
+     "Biết được cục đá có màu trắng",
+     "Biết được cục đá có mùi thơm",
+     "Biết được cục đá phát ra tiếng động"
+    ],
+    "Tay chạm vào đá giúp nhận biết nhiệt độ lạnh thông qua xúc giác."
+   ],
+   [
+    "Trong các tình huống sau, tình huống nào con người thu nhận thông tin dạng số liệu?",
+    [
+     "Nhìn nhiệt kế thấy nhiệt độ là 38 độ C",
+     "Nghe tiếng kèn trống vang lên",
+     "Đọc truyện tranh doremon",
+     "Nhìn thấy bông hoa hồng đỏ thắm"
+    ],
+    "Con số 38 chỉ nhiệt độ là thông tin dạng số liệu."
+   ],
+   [
+    "Vì sao khi tham gia giao thông, chúng ta cần quan sát kĩ các biển báo và tín hiệu đèn?",
+    [
+     "Để xử lí thông tin kịp thời, di chuyển an toàn và đúng luật",
+     "Để đi nhanh hơn tất cả mọi người trên đường",
+     "Để đếm xem trên đường có bao nhiêu cái cột điện",
+     "Để nghe xem âm thanh xung quanh có to không"
+    ],
+    "Quan sát giúp chúng ta có thông tin để xử lí và tuân thủ luật giao thông."
+   ],
+   [
+    "Em chuẩn bị đi học, nhìn đồng hồ thấy kim chỉ 6 giờ 30 phút, em tự nhủ “Mình sắp muộn học rồi”. Thông tin số liệu 6.30 giúp em xử lí điều gì?",
+    [
+     "Biết được thời gian hiện tại để đi học cho đúng giờ",
+     "Biết được nhiệt độ trong phòng",
+     "Biết được khoảng cách từ nhà đến trường",
+     "Biết được số lượng bài tập về nhà"
+    ],
+    "Con số trên đồng hồ cho biết thời gian để em căn chỉnh lịch trình cá nhân."
+   ],
+   [
+    "Khi em giải một câu đố mẹo, bộ phận nào hoạt động tích cực nhất để tìm ra đáp án?",
+    [
+     "Bộ não",
+     "Đôi chân",
+     "Cái miệng",
+     "Bàn tay"
+    ],
+    "Bộ não suy nghĩ, phân tích dữ liệu của câu đố để đưa ra đáp án chính xác."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện việc xử lí thông tin chưa chính xác hoặc bất cẩn?",
+    [
+     "Nghe tiếng chuông hết giờ ra chơi nhưng vẫn cố chơi tiếp không vào lớp",
+     "Nhìn thấy đèn đỏ thì dừng xe lại trước vạch",
+     "Nghe dự báo trời mưa nên mang theo áo mưa",
+     "Đọc thực đơn trước khi gọi món ăn trong quán"
+    ],
+    "Nghe tiếng chuông báo hết giờ nhưng cố tình phớt lờ là xử lí thông tin sai lệch nội quy."
+   ],
+   [
+    "Nam nghe cô giáo đọc bảng điểm thi môn Tin học. Nam nhớ lại điểm số của mình và các bạn. Quá trình Nam nghe và nhớ lại được gọi là gì?",
+    [
+     "Thu nhận và ghi nhớ thông tin",
+     "Phát ra âm thanh",
+     "Tạo ra hình ảnh mới",
+     "Tính toán số liệu toán học"
+    ],
+    "Nghe và nhớ lại là quá trình tiếp nhận thông tin từ âm thanh rồi lưu giữ trong trí nhớ."
+   ],
+   [
+    "Khi em nhìn vào cuốn sách giáo khoa Tin học lớp 3, thông tin em thu nhận được chủ yếu thuộc dạng nào?",
+    [
+     "Dạng văn bản và hình ảnh",
+     "Dạng âm thanh",
+     "Dạng số liệu thuần túy",
+     "Dạng mùi vị"
+    ],
+    "Sách giáo khoa chứa các chữ viết (văn bản) và các hình vẽ minh họa (hình ảnh)."
+   ],
+   [
+    "Hành động nào dưới đây của học sinh thể hiện việc tiếp nhận thông tin dạng âm thanh?",
+    [
+     "Lắng nghe cô giáo giảng bài trên lớp",
+     "Đọc một trang truyện tranh",
+     "Quan sát bức tranh phong cảnh",
+     "Ngửi mùi thơm của hoa trong vườn"
+    ],
+    "Nghe cô giáo giảng bài là thu nhận thông tin qua tai dưới dạng âm thanh."
+   ],
+   [
+    "Khi em mở bản nhạc trên máy tính và nghe thấy tiếng hát, máy tính đã giúp em xử lí thông tin dạng gì?",
+    [
+     "Dạng âm thanh",
+     "Dạng văn bản",
+     "Dạng chữ viết",
+     "Dạng hình vẽ"
+    ],
+    "Tiếng hát phát ra từ loa máy tính là thông tin dạng âm thanh."
+   ],
+   [
+    "Em nhìn thấy biển báo có hình chiếc giày và vạch chéo màu đỏ ở khu vực trơn trượt. Biển báo đó cung cấp thông tin gì?",
+    [
+     "Cảnh báo khu vực nguy hiểm dễ trơn trượt",
+     "Chỉ dẫn nơi bán giày dép",
+     "Cho phép chạy nhảy thoải mái",
+     "Báo hiệu có cửa hàng sửa giày"
+    ],
+    "Biển báo cấm hoặc cảnh báo thường dùng hình ảnh trực quan để nhắc nhở người qua lại."
+   ],
+   [
+    "Quá trình xử lí thông tin của con người diễn ra theo thứ tự nào là đúng nhất?",
+    [
+     "Thu nhận thông tin, Xử lí và ra quyết định, Hành động",
+     "Hành động, Thu nhận thông tin, Xử lí",
+     "Xử lí thông tin, Thu nhận, Kết quả",
+     "Thu nhận thông tin, Hành động, Xử lí"
+    ],
+    "Bộ não luôn phải tiếp nhận thông tin trước, sau đó mới phân tích và đưa ra hành động phản ứng."
+   ],
+   [
+    "Khi em đi qua một vườn hoa và ngửi thấy mùi hương dễ chịu, bộ phận nào trên cơ thể giúp em nhận biết điều đó?",
+    [
+     "Mũi",
+     "Tai",
+     "Mắt",
+     "Tay"
+    ],
+    "Mũi là cơ quan khứu giác giúp chúng ta ngửi và nhận biết các mùi hương."
+   ],
+   [
+    "Trong các ví dụ sau, đâu là thông tin dạng số liệu giúp em biết thời gian?",
+    [
+     "Đồng hồ treo tường chỉ 7 giờ",
+     "Bản tin dự báo thời tiết có hình mưa",
+     "Tiếng còi xe cứu thương ngoài đường",
+     "Mùi thơm của món ăn mẹ nấu"
+    ],
+    "Số 7 giờ trên đồng hồ là thông tin dạng số liệu về thời gian."
+   ],
+   [
+    "Bạn Minh nhìn thấy trời đổ mưa bất ngờ liền chạy đi cất sách vở. Đâu là thông tin đầu vào (thông tin thu nhận) trong tình huống này?",
+    [
+     "Nhìn thấy trời mưa",
+     "Chạy đi cất sách vở",
+     "Suy nghĩ về cơn mưa",
+     "Đóng cửa sổ phòng học"
+    ],
+    "Việc nhìn thấy trời mưa là thông tin ban đầu mà mắt Minh thu nhận được."
+   ],
+   [
+    "Khi em làm bài tập toán và viết đáp số vào vở, bộ phận nào của em đang làm nhiệm vụ điều khiển tay viết?",
+    [
+     "Não bộ",
+     "Tai",
+     "Mắt",
+     "Mũi"
+    ],
+    "Não bộ là trung tâm chỉ huy mọi hoạt động suy nghĩ và điều khiển các bộ phận khác."
+   ],
+   [
+    "Hành động nào dưới đây cho thấy con người đang xử lí thông tin để giải quyết vấn đề?",
+    [
+     "Giải một bài toán đố khó sau khi đọc đề",
+     "Nhìn chằm chằm vào màn hình ti vi tắt",
+     "Ngồi im lặng không nghe ai nói gì",
+     "Đeo tai nghe nhưng không mở nhạc"
+    ],
+    "Việc đọc đề và suy nghĩ giải toán là quá trình xử lí thông tin tích cực."
+   ],
+   [
+    "Thông tin nào dưới đây giúp em biết được nhiệt độ ngoài trời khi xem bản tin thời tiết?",
+    [
+     "Con số 32 độ",
+     "Tiếng gió thổi ù ù",
+     "Hình ảnh đám mây đen",
+     "Màu sắc của bầu trời"
+    ],
+    "Con số kèm theo đơn vị độ là thông tin dạng số liệu biểu thị nhiệt độ."
+   ],
+   [
+    "Khi em sờ tay vào cốc nước ấm, em cảm nhận được điều gì?",
+    [
+     "Nhiệt độ của nước",
+     "Màu sắc của cốc",
+     "Âm thanh của nước",
+     "Mùi vị của nước"
+    ],
+    "Xúc giác ở tay giúp em nhận biết độ nóng hoặc lạnh của vật thể."
+   ],
+   [
+    "Việc làm nào sau đây KHÔNG phải là thu nhận thông tin?",
+    [
+     "Nhắm nghiền mắt khi đi ngủ trong phòng tối",
+     "Đọc một bức thư bạn gửi",
+     "Nghe tiếng chuông báo thức reo",
+     "Nếm thử vị ngọt của viên kẹo"
+    ],
+    "Nhắm mắt trong phòng tối không giúp thu nhận thêm các thị giác mới từ bên ngoài."
+   ],
+   [
+    "Khi tham gia trò chơi “Đố chữ”, việc em suy nghĩ để tìm ra từ khóa chính là quá trình gì?",
+    [
+     "Xử lí thông tin",
+     "Thu nhận thông tin",
+     "Phát ra âm thanh",
+     "Truyền dẫn dữ liệu"
+    ],
+    "Suy nghĩ để tìm đáp án chính là hoạt động xử lí thông tin của não bộ."
+   ],
+   [
+    "Thông tin dạng hình ảnh mang lại lợi ích gì cho em khi học tập?",
+    [
+     "Giúp bài học sinh động và dễ hiểu hơn",
+     "Giúp nghe rõ tiếng cô giáo hơn",
+     "Giúp ngửi thấy mùi thơm dễ chịu",
+     "Giúp cảm nhận được độ mềm của sách"
+    ],
+    "Hình ảnh minh họa trực quan giúp học sinh tiếp thu bài nhanh và nhớ lâu hơn."
+   ],
+   [
+    "Bạn Lan nghe mẹ dặn “Con nhớ tắt quạt trước khi ra ngoài”. Thông tin Lan nhận được gồm những dạng nào?",
+    [
+     "Dạng âm thanh và dạng ngôn ngữ nói",
+     "Dạng hình ảnh và dạng số liệu",
+     "Dạng mùi vị và dạng chữ viết",
+     "Dạng màu sắc và dạng nhiệt độ"
+    ],
+    "Mẹ nói cho Lan nghe là âm thanh và lời nói mang ý nghĩa ngôn ngữ."
+   ]
+  ]
+ }
+}

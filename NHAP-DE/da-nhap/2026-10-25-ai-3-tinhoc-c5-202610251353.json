@@ -1,0 +1,356 @@
+{
+ "3-tinhoc": {
+  "c5": [
+   [
+    "Thông tin nào sau đây KHÔNG PHẢI là thông tin cá nhân hay gia đình cần giữ bí mật?",
+    [
+     "Tên câu lạc bộ thể thao mà em yêu thích",
+     "Số điện thoại của mẹ em",
+     "Mật khẩu tài khoản học trực tuyến của em",
+     "Địa chỉ nhà riêng nơi em đang sống"
+    ],
+    "Sở thích chung như câu lạc bộ thể thao có thể chia sẻ, còn số điện thoại, mật khẩu và địa chỉ nhà là thông tin riêng tư cần bảo vệ."
+   ],
+   [
+    "Hành động nào sau đây giúp em bảo vệ máy tính khỏi bị hỏng hóc?",
+    [
+     "Không ăn uống gần khu vực để máy tính",
+     "Để nước ngọt ngay bên cạnh bàn phím cho tiện uống",
+     "Tắt máy tính bằng cách rút thẳng dây cắm điện",
+     "Dùng tay bẩn bám đầy dầu mỡ để gõ phím"
+    ],
+    "Ăn uống gần máy tính dễ làm rơi vãi đồ ăn, nước uống gây hỏng hóc thiết bị."
+   ],
+   [
+    "Khi muốn sử dụng máy tính của người khác, em nên làm gì?",
+    [
+     "Hỏi xin phép người đó và chờ được đồng ý",
+     "Tự ý mở máy tính lên dùng khi người đó đi vắng",
+     "Rủ bạn khác cùng vào xem lén máy tính",
+     "Ép buộc bạn phải cho mình mượn máy"
+    ],
+    "Sử dụng máy tính của người khác mà không xin phép là hành vi thiếu lịch sự và không đúng quy định."
+   ],
+   [
+    "Khi đang xem mạng internet mà thấy một trang web hiển thị hình ảnh bạo lực, sợ hãi, em nên làm gì?",
+    [
+     "Tắt ngay trang web đó và báo cho người lớn biết",
+     "Nhấn vào xem tiếp vì tò mò",
+     "Chia sẻ trang web đó cho các bạn cùng lớp",
+     "Ngồi xem một mình và không nói với ai"
+    ],
+    "Khi gặp nội dung không lành mạnh, em cần tắt đi và báo cho cha mẹ hoặc thầy cô để được trợ giúp."
+   ],
+   [
+    "Ngồi học máy tính đúng tư thế sẽ giúp em tránh được bệnh nào sau đây?",
+    [
+     "Cong quẹo cột sống và cận thị",
+     "Đau bụng và đau dạ dày",
+     "Sâu răng và đau họng",
+     "Cảm cúm và sốt cao"
+    ],
+    "Ngồi đúng tư thế giúp bảo vệ mắt khỏi cận thị và giữ cho cột sống thẳng, không bị cong quẹo."
+   ],
+   [
+    "Khoảng cách hợp lí từ mắt em đến màn hình máy tính là bao nhiêu?",
+    [
+     "Từ 50 cm đến 80 cm",
+     "Từ 10 cm đến 20 cm",
+     "Hơn 150 cm",
+     "Ghé sát mắt vào màn hình"
+    ],
+    "Khoảng cách an toàn cho mắt khi ngồi trước màn hình máy tính là từ 50 cm đến 80 cm."
+   ],
+   [
+    "Vì sao em không nên đặt mật khẩu máy tính là ngày sinh nhật của mình?",
+    [
+     "Vì người khác rất dễ đoán ra mật khẩu đó",
+     "Vì máy tính không cho phép nhập số",
+     "Vì mật khẩu đó làm máy tính chạy chậm đi",
+     "Vì ngày sinh nhật sẽ làm mật khẩu bị hết hạn"
+    ],
+    "Mật khẩu liên quan đến ngày sinh rất dễ bị người quen đoán ra, do đó không an toàn."
+   ],
+   [
+    "Tài khoản học trực tuyến của bạn Nam bị một người lạ đăng nhập và đổi mật khẩu. Nguyên nhân có thể do Nam đã:",
+    [
+     "Cho bạn cùng xóm biết mật khẩu tài khoản của mình",
+     "Tắt máy tính đúng cách sau khi học xong",
+     "Đặt mật khẩu gồm cả chữ cái và chữ số",
+     "Không chia sẻ tên đăng nhập cho ai"
+    ],
+    "Tiết lộ mật khẩu cho người khác sẽ khiến tài khoản dễ bị kẻ xấu chiếm đoạt."
+   ],
+   [
+    "Em đang chơi game trên máy tính thì màn hình hiện lên thông báo: “Bạn đã trúng thưởng một chiếc điện thoại, hãy nhập số điện thoại của bố mẹ để nhận”. Em nên xử lí thế nào?",
+    [
+     "Bỏ qua thông báo và gọi người lớn đến xem",
+     "Nhập ngay số điện thoại của bố để nhận quà",
+     "Nhập số điện thoại của mẹ rồi bấm nhận thưởng",
+     "Gửi thông báo đó cho bạn thân cùng nhập"
+    ],
+    "Các thông báo trúng thưởng bất ngờ trên mạng thường là lừa đảo nhằm lấy thông tin cá nhân."
+   ],
+   [
+    "Hành vi nào sau đây thể hiện sự lịch sự khi giao tiếp qua mạng?",
+    [
+     "Dùng lời nói tôn trọng, hòa nhã khi nhắn tin với bạn",
+     "Viết hoa toàn bộ tin nhắn để gắt gỏng với bạn",
+     "Đăng ảnh dìm hàng, nói xấu bạn lên mạng",
+     "Sử dụng các từ ngữ thô tục khi bình luận"
+    ],
+    "Tôn trọng và nói lời hòa nhã là nét đẹp văn hóa khi giao tiếp trên internet."
+   ],
+   [
+    "Bạn An ngồi sử dụng máy tính liên tục trong 3 giờ đồng hồ không nghỉ. Việc làm này có hại như thế nào?",
+    [
+     "Gây mỏi mắt, mệt mỏi và hại sức khỏe",
+     "Giúp An thông minh hơn",
+     "Giúp màn hình máy tính sáng hơn",
+     "Không gây ảnh hưởng gì đến sức khỏe"
+    ],
+    "Dùng máy tính quá lâu không nghỉ ngơi sẽ làm mắt bị điều tiết quá độ và cơ thể mệt mỏi."
+   ],
+   [
+    "Đâu là cách tắt máy tính an toàn và đúng quy trình?",
+    [
+     "Nút lệnh Shut down trên hệ điều hành",
+     "Ấn giữ nút nguồn trên thân máy tính",
+     "Rút phích cắm điện của máy tính ra",
+     "Bật tắt công tắc ổ điện liên tục"
+    ],
+    "Sử dụng lệnh Shut down giúp máy tính lưu lại dữ liệu và tắt các chương trình an toàn."
+   ],
+   [
+    "Ví dụ nào sau đây thể hiện việc tôn trọng bản quyền khi dùng máy tính?",
+    [
+     "Xin phép tác giả trước khi sử dụng bài thơ của họ",
+     "Tự nhận bài vẽ của bạn trên mạng là của mình",
+     "Co-py bài văn của người khác rồi ghi tên mình vào",
+     "Tải nhạc bản quyền về bán lấy tiền"
+    ],
+    "Tôn trọng bản quyền là xin phép hoặc ghi rõ nguồn gốc tác giả khi sử dụng sản phẩm của người khác."
+   ],
+   [
+    "Khi làm việc với máy tính, ánh sáng trong phòng học nên như thế nào là tốt nhất?",
+    [
+     "Đầy đủ ánh sáng, không quá tối cũng không quá chói",
+     "Tắt hết đèn trong phòng để nhìn màn hình rõ hơn",
+     "Mở đèn thật chói chiếu thẳng vào màn hình",
+     "Chỉ dùng ánh sáng phát ra từ màn hình máy tính"
+    ],
+    "Phòng học cần có đủ ánh sáng hài hòa để bảo vệ thị lực khi nhìn vào màn hình."
+   ],
+   [
+    "Khi ở phòng thực hành Tin học của trường, hành động nào sau đây là KHÔNG được phép?",
+    [
+     "Tự ý tháo dỡ các dây cắm phía sau máy tính",
+     "Giữ vệ sinh chung và xếp ghế gọn gàng khi ra về",
+     "Thao tác nhẹ nhàng với chuột và bàn phím",
+     "Ngồi đúng vị trí máy tính được thầy cô phân công"
+    ],
+    "Tự ý tháo dây cắm điện rất nguy hiểm, có thể gây giật điện hoặc làm hỏng máy tính."
+   ],
+   [
+    "Bố mẹ cho phép Minh dùng máy tính 30 phút để giải trí. Khi hết giờ, Minh nên làm gì?",
+    [
+     "Chủ động tắt máy và đi ra tập thể dục",
+     "Cố tình chơi thêm vài tiếng nữa vì bố mẹ không chú ý",
+     "Khóc lóc đòi bố mẹ cho chơi tiếp cả ngày",
+     "Giận dỗi và đập phá bàn phím"
+    ],
+    "Tuân thủ quy định về thời gian giúp em bảo vệ sức khỏe và rèn luyện tính tự giác."
+   ],
+   [
+    "Trong lúc học Tin học, bàn phím của Bình bị kẹt một phím không gõ được. Bình nên xử lí thế nào?",
+    [
+     "Báo cho thầy cô giáo dạy Tin học để được trợ giúp",
+     "Dùng tay đập mạnh vào bàn phím cho đỡ kẹt",
+     "Lấy cờ-lê tháo bàn phím ra tự sửa",
+     "Lặng lẽ đổi bàn phím sang máy của bạn bên cạnh"
+    ],
+    "Khi thiết bị gặp sự cố ở trường, học sinh cần báo ngay cho thầy cô chứ không tự ý cạy phá."
+   ],
+   [
+    "Điều nào sau đây là LỢI ÍCH của việc sử dụng internet đúng cách?",
+    [
+     "Tìm kiếm tài liệu học tập và xem tin tức bổ ích",
+     "Nghiện trò chơi điện tử suốt ngày đêm",
+     "Làm quen và đi gặp riêng người lạ trên mạng",
+     "Bị cận thị nặng do xem phim quá nhiều"
+    ],
+    "Internet giúp mở rộng tri thức nếu em biết khai thác các nội dung phục vụ học tập."
+   ],
+   [
+    "Nếu em nhận được tin nhắn từ một tài khoản lạ với nội dung rủ rê đi chơi xa mà không cho bố mẹ biết, em nên làm gì?",
+    [
+     "Từ chối ngay và đưa tin nhắn cho bố mẹ xem",
+     "Đồng ý đi ngay vì tò mò",
+     "Nhắn tin rủ thêm các bạn trong lớp cùng đi",
+     "Giữ bí mật và đi gặp người đó một mình"
+    ],
+    "Không bao giờ đi theo lời rủ rê của người lạ trên mạng và phải báo ngay cho gia đình để đảm bảo an toàn."
+   ],
+   [
+    "Lớp em có bạn mới chuyển đến. Một số bạn trong lớp lập nhóm trên mạng để nói xấu bạn đó. Em nên ứng xử thế nào?",
+    [
+     "Không tham gia và khuyên các bạn nên hòa đồng",
+     "Tham gia nhóm và viết lời hùa theo nói xấu",
+     "Chụp màn hình gửi cho tất cả mọi người cùng chê bai",
+     "Xem như không biết và cổ vũ các bạn nói xấu tiếp"
+    ],
+    "Không tham gia vào hành vi nói xấu người khác trên mạng là thể hiện đạo đức và sự tôn trọng bạn bè."
+   ],
+   [
+    "Thông tin cá nhân nào sau đây em KHÔNG được tự ý cung cấp cho người lạ trên mạng?",
+    [
+     "Số điện thoại của bố mẹ",
+     "Tên môn học em yêu thích nhất",
+     "Màu sắc chiếc cặp sách em đang dùng",
+     "Tên nhân vật hoạt hình em thích"
+    ],
+    "Số điện thoại của bố mẹ là thông tin cá nhân quan trọng, em cần giữ kín để tránh kẻ xấu lợi dụng."
+   ],
+   [
+    "Vì sao em không nên bật âm thanh máy tính quá to trong phòng học chung?",
+    [
+     "Vì sẽ làm phiền và ảnh hưởng đến người xung quanh",
+     "Vì làm như vậy máy tính sẽ bị hết pin ngay lập tức",
+     "Vì màn hình máy tính sẽ bị mờ đi",
+     "Vì bàn phím sẽ bị kẹt không gõ được"
+    ],
+    "Bật âm thanh quá to ở nơi đông người là hành vi thiếu lịch sự và làm phiền người khác."
+   ],
+   [
+    "Để bảo vệ mắt khi ngồi học với máy tính, em nên làm gì?",
+    [
+     "Nghỉ ngơi và nhìn ra xa sau mỗi 30 phút sử dụng",
+     "Nhìn thật sát vào màn hình để nhìn rõ chữ hơn",
+     "Tắt hết đèn trong phòng để màn hình sáng rõ hơn",
+     "Xem liên tục trong 5 giờ không chớp mắt"
+    ],
+    "Nghỉ ngơi thư giãn mắt sau mỗi 30 phút giúp mắt không bị mỏi và tránh bị cận thị."
+   ],
+   [
+    "Khi thấy bạn thân chia sẻ mật khẩu tài khoản máy tính cho em, em nên làm gì?",
+    [
+     "Khuyên bạn không nên chia sẻ mật khẩu với bất kỳ ai",
+     "Đăng nhập ngay vào máy tính của bạn để chơi game",
+     "Đổi mật khẩu của bạn thành mật khẩu của mình",
+     "Nói mật khẩu đó cho tất cả các bạn khác trong lớp"
+    ],
+    "Mật khẩu là thông tin bí mật cá nhân, em nên khuyên bạn giữ kín để bảo vệ tài khoản."
+   ],
+   [
+    "Hành động nào sau đây là tôn trọng tài sản chung khi ở phòng máy tính của trường?",
+    [
+     "Gõ bàn phím nhẹ nhàng và không đập phá thiết bị",
+     "Khái bẩn hoặc vẽ bậy lên màn hình máy tính",
+     "Rút dây nguồn máy tính ra để chơi trò nhảy dây",
+     "Mang đồ ăn nước uống đổ lên bàn phím"
+    ],
+    "Sử dụng thiết bị nhẹ nhàng và giữ gìn vệ sinh là thể hiện sự tôn trọng tài sản chung."
+   ],
+   [
+    "Khi muốn tải một phần mềm học tập trên mạng về máy tính của gia đình, em nên làm gì?",
+    [
+     "Xin phép và nhờ người lớn kiểm tra trước khi tải",
+     "Tự ý bấm tải về mà không cần hỏi ai",
+     "Bấm vào tất cả các đường link quảng cáo lạ xuất hiện trên màn hình",
+     "Tắt chương trình diệt virus rồi mới tải về"
+    ],
+    "Người lớn sẽ giúp em kiểm tra xem phần mềm đó có an toàn và chứa virus hay không."
+   ],
+   [
+    "Tư thế ngồi làm việc với máy tính nào sau đây là ĐÚNG?",
+    [
+     "Lưng thẳng, hai chân đặt bằng phẳng trên sàn nhà",
+     "Nằm ngửa ra sàn và đặt máy tính lên bụng",
+     "Vắt chân lên bàn và tựa đầu vào màn hình",
+     "Cúi gập sát mặt vào bàn phím"
+    ],
+    "Giữ lưng thẳng và hai chân đặt bằng phẳng trên sàn giúp em tránh bị cong quẹo cột sống."
+   ],
+   [
+    "Nơi nào sau đây là vị trí AN TOÀN nhất để đặt máy tính để bàn?",
+    [
+     "Trên mặt bàn bằng phẳng, khô ráo và chắc chắn",
+     "Trên mép bàn chông chênh dễ rơi vỡ",
+     "Trên đệm mỏng ướt nước",
+     "Ngay sát bếp gas đang nấu ăn"
+    ],
+    "Đặt máy tính ở vị trí bằng phẳng, khô ráo giúp máy hoạt động tốt và không bị rơi vỡ."
+   ],
+   [
+    "Khi học trực tuyến, việc làm nào thể hiện sự tôn trọng giáo viên và các bạn?",
+    [
+     "Tắt micro khi không phát biểu và lắng nghe cô giáo giảng",
+     "Mở nhạc thật to cho cả lớp cùng nghe",
+     "Bật micro để nói chuyện riêng với bạn bên cạnh",
+     "Vẽ bậy lên màn hình trình chiếu của cô giáo"
+    ],
+    "Tắt micro khi không phát biểu giúp lớp học giữ trật tự và không bị nhiễu âm thanh."
+   ],
+   [
+    "Nếu bàn phím máy tính bị bụi bẩn, em nên vệ sinh như thế nào?",
+    [
+     "Dùng khăn mềm khô hoặc chổi cọ chuyên dụng để lau nhẹ",
+     "Dùng cọ rửa bát ướt sũng nước để chà thật mạnh",
+     "Đổ trực tiếp chai nước rửa bát lên bàn phím",
+     "Dùng dao nhọn cạo mạnh vào từng nút phím"
+    ],
+    "Dùng khăn mềm khô lau nhẹ sẽ làm sạch bụi mà không làm hỏng các linh kiện điện tử bên trong."
+   ],
+   [
+    "Bạn Khoa thấy bài văn hay trên mạng liền chép lại toàn bộ và nộp cho cô giáo rồi nói là do mình tự viết. Việc làm của Khoa là:",
+    [
+     "Không trung thực và không tôn trọng quyền tác giả",
+     "Rất thông minh và đáng khen ngợi",
+     "Đúng quy định khi sử dụng internet",
+     "Việc nên làm để tiết kiệm thời gian"
+    ],
+    "Lấy bài làm của người khác nhận là của mình là hành vi không trung thực và vi phạm bản quyền."
+   ],
+   [
+    "Khi tay em đang bị ướt nước, em KHÔNG nên làm điều nào sau đây?",
+    [
+     "Chạm tay vào dây điện hoặc cắm phích cắm máy tính",
+     "Lau tay bằng khăn khô",
+     "Đi ra xa khỏi ổ cắm điện",
+     "Nhờ người lớn cắm hộ nguồn điện"
+    ],
+    "Chạm tay ướt vào nguồn điện rất nguy hiểm vì nước dẫn điện có thể gây giật điện."
+   ],
+   [
+    "Việc làm nào sau đây giúp em tiết kiệm điện năng khi sử dụng máy tính?",
+    [
+     "Tắt máy tính và rút phích cắm khi không sử dụng nữa",
+     "Để máy tính bật liên tục suốt ngày đêm",
+     "Bật màn hình ở mức sáng tối đa dù phòng rất sáng",
+     "Cắm máy tính cùng lúc với nhiều thiết bị công suất lớn"
+    ],
+    "Tắt máy tính khi không dùng giúp tiết kiệm điện năng và kéo dài tuổi thọ thiết bị."
+   ],
+   [
+    "Một tài khoản mạng gửi lời mời tham gia nhóm có tên “Nói xấu thầy cô”. Em nên phản ứng như thế nào?",
+    [
+     "Từ chối tham gia và báo cho bố mẹ hoặc thầy cô biết",
+     "Nhanh chóng nhấn đồng ý tham gia ngay",
+     "Rủ thêm các bạn trong lớp cùng tham gia nhóm đó",
+     "Viết thêm bài nói xấu để đóng góp cho nhóm"
+    ],
+    "Nói xấu thầy cô là hành vi vi phạm đạo đức, em không tham gia và nên báo cho người lớn xử lý."
+   ],
+   [
+    "Khi đang dùng máy tính thì em phát hiện có mùi khói khét bốc ra từ thân máy. Em cần làm gì đầu tiên?",
+    [
+     "Rời xa máy tính và báo ngay cho người lớn biết",
+     "Đổ ngay một cốc nước vào thân máy tính",
+     "Ghé sát mặt vào xem khói phát ra từ đâu",
+     "Tiếp tục ngồi chơi và chờ xem chuyện gì xảy ra"
+    ],
+    "Khi có sự cố cháy nổ, em cần tránh xa để đảm bảo an toàn và báo ngay cho người lớn."
+   ]
+  ]
+ }
+}
