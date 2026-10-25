@@ -33,6 +33,75 @@ interface View {
   s: number;
 }
 
+// ---------- Đi theo đường ----------
+
+/** Ô đi được: lòng đường và công viên (không đi xuyên qua đất, nhà) */
+const isWalk = (x: number, y: number) => {
+  if (x < 0 || y < 0 || x >= MAP_N || y >= MAP_N) return false;
+  const onRoad = x % (BLOCK + ROAD) < ROAD || y % (BLOCK + ROAD) < ROAD;
+  const inPark = x >= PARK.x && x < PARK.x + PARK.size && y >= PARK.y && y < PARK.y + PARK.size;
+  return onRoad || inPark;
+};
+
+/** Ô đường gần nhất (tìm loang từ ô đã chọn) */
+function nearestWalk(x: number, y: number): [number, number] {
+  const sx = Math.min(MAP_N - 1, Math.max(0, Math.floor(x)));
+  const sy = Math.min(MAP_N - 1, Math.max(0, Math.floor(y)));
+  if (isWalk(sx, sy)) return [sx, sy];
+  const seen = new Set([sx * MAP_N + sy]);
+  const q: [number, number][] = [[sx, sy]];
+  while (q.length) {
+    const [cx, cy] = q.shift()!;
+    for (const [dx, dy] of [[1, 0], [-1, 0], [0, 1], [0, -1]]) {
+      const nx = cx + dx;
+      const ny = cy + dy;
+      if (nx < 0 || ny < 0 || nx >= MAP_N || ny >= MAP_N || seen.has(nx * MAP_N + ny)) continue;
+      if (isWalk(nx, ny)) return [nx, ny];
+      seen.add(nx * MAP_N + ny);
+      q.push([nx, ny]);
+    }
+  }
+  return [Math.floor(SPAWN[0]), Math.floor(SPAWN[1])];
+}
+
+/** Đường đi trên lưới ô đường, trả về các điểm rẽ (tâm ô) */
+function roadPath(from: [number, number], to: [number, number]): [number, number][] {
+  const key = (x: number, y: number) => x * MAP_N + y;
+  const prev = new Map<number, number>([[key(...from), -1]]);
+  const q: [number, number][] = [from];
+  while (q.length) {
+    const [cx, cy] = q.shift()!;
+    if (cx === to[0] && cy === to[1]) break;
+    for (const [dx, dy] of [[1, 0], [-1, 0], [0, 1], [0, -1]]) {
+      const nx = cx + dx;
+      const ny = cy + dy;
+      if (!isWalk(nx, ny) || prev.has(key(nx, ny))) continue;
+      prev.set(key(nx, ny), key(cx, cy));
+      q.push([nx, ny]);
+    }
+  }
+  if (!prev.has(key(...to))) return [];
+  const tiles: [number, number][] = [];
+  for (let k = key(...to); k !== -1 && k !== key(...from); k = prev.get(k)!) tiles.unshift([Math.floor(k / MAP_N), k % MAP_N]);
+  // Chỉ giữ điểm rẽ để nhân vật đi thẳng từng đoạn
+  const turns: [number, number][] = [];
+  let last = from;
+  tiles.forEach((t, i) => {
+    const n = tiles[i + 1];
+    const straight = n && (n[0] - t[0] === t[0] - last[0]) && (n[1] - t[1] === t[1] - last[1]);
+    if (!straight) turns.push([t[0] + 0.5, t[1] + 0.5]);
+    last = t;
+  });
+  return turns;
+}
+
+/** Ô đường ngay trước mảnh đất (phía có lối vào) */
+const plotDoor = (plotId: number): [number, number] => {
+  const pl = PLOTS[plotId];
+  const bottomRow = (pl.y - ROAD) % (BLOCK + ROAD) === 4;
+  return nearestWalk(pl.x + 1, bottomRow ? pl.y + 3 : pl.y - 1);
+};
+
 const front = (plotId: number): [number, number] => {
   const pl = PLOTS[plotId];
   return [pl.x + 1, pl.y + 2.75];
@@ -80,11 +149,11 @@ export function TownMap({
   myPlot?: number;
   onPlot: (id: number) => void;
 }) {
-  const start = myPlot !== undefined ? front(myPlot) : SPAWN;
+  const start: [number, number] = myPlot !== undefined ? ((d) => [d[0] + 0.5, d[1] + 0.5] as [number, number])(plotDoor(myPlot)) : SPAWN;
   const [me, setMe] = useState({ x: start[0], y: start[1], back: false, moving: false });
   const meRef = useRef(me);
   meRef.current = me;
-  const target = useRef<[number, number] | null>(null);
+  const route = useRef<[number, number][]>([]);
   const raf = useRef<number | null>(null);
 
   const svgRef = useRef<SVGSVGElement>(null);
@@ -110,7 +179,7 @@ export function TownMap({
       const dt = Math.min(0.05, (t - last) / 1000);
       last = t;
       const m = { ...meRef.current };
-      const tg = target.current;
+      const tg = route.current[0];
       if (!tg) {
         setMe({ ...m, moving: false });
         raf.current = null;
@@ -123,7 +192,7 @@ export function TownMap({
       if (dist <= v) {
         m.x = tg[0];
         m.y = tg[1];
-        target.current = null;
+        route.current.shift();
       } else {
         m.x += (dx / dist) * v;
         m.y += (dy / dist) * v;
@@ -134,6 +203,15 @@ export function TownMap({
       raf.current = requestAnimationFrame(step);
     };
     raf.current = requestAnimationFrame(step);
+  }
+
+  function goTo(tx: number, ty: number) {
+    const from = nearestWalk(meRef.current.x, meRef.current.y);
+    const to = nearestWalk(tx, ty);
+    const path = roadPath(from, to);
+    // Đang đứng lệch khỏi tâm ô: bước về tâm ô trước
+    route.current = [[from[0] + 0.5, from[1] + 0.5], ...path];
+    if (!raf.current) walkLoop();
   }
 
   function toSvg(e: { clientX: number; clientY: number }) {
@@ -194,7 +272,11 @@ export function TownMap({
     const g = gesture.current;
     if (was !== 1 || g.moved || !at) return;
     const el = (g.target as Element | null)?.closest?.("[data-plot]");
-    if (el) return onPlot(Number(el.getAttribute("data-plot")));
+    if (el) {
+      const id = Number(el.getAttribute("data-plot"));
+      goTo(...plotDoor(id));
+      return onPlot(id);
+    }
     // Chạm vào đường, bãi cỏ: đi tới đó
     const v = viewRef.current;
     const wx = at.x / v.s + v.x;
@@ -203,8 +285,7 @@ export function TownMap({
     const Y = (wy - P.oy) / (TH / 2);
     const tx = Math.min(MAP_N - 0.2, Math.max(0.2, (X + Y) / 2));
     const ty = Math.min(MAP_N - 0.2, Math.max(0.2, (Y - X) / 2));
-    target.current = [tx, ty];
-    if (!raf.current) walkLoop();
+    goTo(tx, ty);
   }
 
   function onWheel(e: WheelEvent<SVGSVGElement>) {
