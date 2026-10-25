@@ -1,0 +1,76 @@
+{
+ "1-toan": {
+  "c7": [
+   [
+    "Một ngày mới bắt đầu từ thời điểm nào trong các thời điểm sau?",
+    [
+     "0 giờ đêm",
+     "12 giờ trưa",
+     "6 giờ sáng",
+     "18 giờ tối"
+    ],
+    "Một ngày mới bắt đầu từ 0 giờ đêm khi chúng ta đang ngủ."
+   ],
+   [
+    "Thứ Hai là ngày đầu tiên đi học trong tuần, vậy ngày thứ tư đi học là thứ mấy?",
+    [
+     "Thứ Năm",
+     "Thứ Tư",
+     "Thứ Sáu",
+     "Thứ Ba"
+    ],
+    "Các ngày đi học lần lượt là thứ Hai, thứ Ba, thứ Tư, thứ Năm."
+   ],
+   [
+    "Hôm nay là thứ Bảy, ngày đi chơi công viên của Nam. Hỏi ngày kia là thứ mấy?",
+    [
+     "Thứ Hai",
+     "Chủ Nhật",
+     "Thứ Ba",
+     "Thứ Sáu"
+    ],
+    "Hôm nay thứ Bảy thì ngày mai là Chủ Nhật, ngày kia (sau ngày mai) là thứ Hai."
+   ],
+   [
+    "Mẹ đi làm về lúc 5 giờ chiều. Lúc đó, kim ngắn của đồng hồ đang chỉ số mấy?",
+    [
+     "Số 5",
+     "Số 12",
+     "Số 6",
+     "Số 3"
+    ],
+    "Lúc 5 giờ chiều, kim ngắn chỉ đúng số 5."
+   ],
+   [
+    "Đồng hồ chỉ 10 giờ đúng. Kim dài và kim ngắn đang chỉ vào các số nào?",
+    [
+     "Kim dài chỉ số 12, kim ngắn chỉ số 10",
+     "Kim dài chỉ số 10, kim ngắn chỉ số 12",
+     "Cả hai kim cùng chỉ số 12",
+     "Kim dài chỉ số 3, kim ngắn chỉ số 10"
+    ],
+    "Khi đồng hồ chỉ giờ đúng, kim dài luôn chỉ số 12, kim ngắn chỉ số giờ."
+   ],
+   [
+    "Trường em nghỉ học hai ngày cuối tuần là những ngày nào?",
+    [
+     "Thứ Bảy và Chủ Nhật",
+     "Thứ Sáu và thứ Bảy",
+     "Chủ Nhật và thứ Hai",
+     "Thứ Bảy và thứ Hai"
+    ],
+    "Hai ngày cuối tuần được nghỉ học là thứ Bảy và Chủ Nhật."
+   ],
+   [
+    "Lan ăn cơm tối lúc 7 giờ tối. Hỏi trước đó 2 giờ, Lan đang làm gì?",
+    [
+     "Đang chơi đồ chơi lúc 5 giờ chiều",
+     "Đang đi ngủ lúc 9 giờ tối",
+     "Đang xem tivi lúc 8 giờ tối",
+     "Đang học bài lúc 6 giờ chiều"
+    ],
+    "Lấy 7 giờ trừ đi 2 giờ bằng 5 giờ chiều, lúc đó Lan đang chơi đồ chơi."
+   ]
+  ]
+ }
+}

@@ -152,3 +152,17 @@ Lưu ý:
 - iPhone/iPad ở chung khu phố với các máy Android.
 - Bản web tự cập nhật khi bố mẹ chạy 4-DUYET-PHAT-HANH.bat (cùng lúc với
   máy Android). Muốn đẩy bản web ngay: chạy tools\publish-web.ps1.
+
+11. GEMINI TỰ SOẠN ĐỀ CHO KHO ĐỀ CÓ SẴN (MIỄN PHÍ)
+---------------------------------------------------------------------
+Trên Desktop có 3 biểu tượng:
+- "Dán khóa Gemini": mở tệp GEMINI-KEYS.txt, dán khóa (mỗi dòng một khóa),
+  bấm Ctrl+S để lưu. Khóa chỉ nằm trên máy này. (Công cụ cũng tự dùng các
+  khóa đã có trong .env.local.)
+- "Soạn đề bằng Gemini": cửa sổ đen hiện danh sách lớp – môn kèm số câu
+  đang có. Gõ số thứ tự (nhiều môn cách nhau dấu phẩy) -> Enter; gõ số câu
+  muốn có mỗi chương (Enter = 40) -> Enter; xem kế hoạch -> Enter để chạy.
+  Công cụ tự soạn từng chương còn thiếu, nhờ AI giải lại để bỏ câu sai,
+  rồi tự nhập vào kho. Hết lượt miễn phí thì tự chờ / đổi khóa.
+- "Nhập đề vào kho": nhập các tệp tự dán trong thư mục NHAP-DE.
+Xong thì chạy 3-PHAT-HANH-BAN-THU.bat để đưa đề mới vào app.

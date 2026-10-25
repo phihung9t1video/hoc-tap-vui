@@ -1,0 +1,76 @@
+{
+ "1-toan": {
+  "c5": [
+   [
+    "Độ dài của một chiếc bút chì thường được đo bằng đơn vị nào dưới đây?",
+    [
+     "Xăng-ti-mét",
+     "Mét",
+     "Ki-lô-mét",
+     "Lít"
+    ],
+    "Chiếc bút chì ngắn nên ta dùng đơn vị xăng-ti-mét để đo."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm để 10 cm + 5 cm = ... cm là:",
+    [
+     "15",
+     "10",
+     "5",
+     "50"
+    ],
+    "Ta cộng số đo: 10 cộng 5 bằng 15 cm."
+   ],
+   [
+    "Thước kẻ của Nam có vạch chia xăng-ti-mét. Khi đo chiều dài hộp bút, Nam đặt một đầu hộp bút trùng với vạch số mấy của thước?",
+    [
+     "Vạch số 0",
+     "Vạch số 1",
+     "Vạch số 2",
+     "Vạch số 10"
+    ],
+    "Khi đo độ dài bằng thước, ta luôn đặt một đầu của vật trùng với vạch số 0."
+   ],
+   [
+    "Quyển sách Toán lớp 1 dày khoảng bao nhiêu?",
+    [
+     "1 xăng-ti-mét",
+     "10 xăng-ti-mét",
+     "1 mét",
+     "10 mét"
+    ],
+    "Quyển sách Toán lớp 1 khá mỏng, bề dày khoảng 1 xăng-ti-mét."
+   ],
+   [
+    "Đoạn thẳng MN dài 7 cm, đoạn thẳng PQ dài 9 cm. Hai đoạn thẳng này gộp lại dài bao nhiêu xăng-ti-mét?",
+    [
+     "16 cm",
+     "2 cm",
+     "15 cm",
+     "79 cm"
+    ],
+    "Ta lấy độ dài hai đoạn cộng lại: 7 cm cộng 9 cm bằng 16 cm."
+   ],
+   [
+    "Mẹ mua một cuộn dây dài 20 cm, mẹ cắt đi 4 cm để buộc gói quà. Cuộn dây còn lại dài bao nhiêu?",
+    [
+     "16 cm",
+     "24 cm",
+     "4 cm",
+     "20 cm"
+    ],
+    "Cắt đi nghĩa là bớt đi, ta lấy 20 trừ 4 bằng 16 cm."
+   ],
+   [
+    "Sợi dây thứ nhất dài 10 cm, sợi dây thứ hai dài bằng sợi dây thứ nhất. Cả hai sợi dây dài bao nhiêu xăng-ti-mét?",
+    [
+     "20 cm",
+     "10 cm",
+     "0 cm",
+     "30 cm"
+    ],
+    "Sợi dây thứ hai dài 10 cm. Tổng độ dài hai sợi là 10 cộng 10 bằng 20 cm."
+   ]
+  ]
+ }
+}

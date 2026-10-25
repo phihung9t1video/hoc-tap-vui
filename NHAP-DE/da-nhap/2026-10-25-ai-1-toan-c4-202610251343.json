@@ -1,0 +1,56 @@
+{
+ "1-toan": {
+  "c4": [
+   [
+    "Số liền trước của số 70 là:",
+    [
+     "69",
+     "71",
+     "60",
+     "80"
+    ],
+    "Số liền trước của 70 kém 70 một đơn vị, đó là số 69."
+   ],
+   [
+    "Các số 45, 54, 38, 83 được sắp xếp theo thứ tự từ bé đến lớn là:",
+    [
+     "38, 45, 54, 83",
+     "83, 54, 45, 38",
+     "38, 54, 45, 83",
+     "45, 38, 54, 83"
+    ],
+    "So sánh các chữ số hàng chục ta có các số theo thứ tự từ bé đến lớn là 38, 45, 54, 83."
+   ],
+   [
+    "Viết số thích hợp vào chỗ chấm để có dãy số liên tiếp: 51, 52, ..., 54, 55",
+    [
+     "53",
+     "50",
+     "56",
+     "45"
+    ],
+    "Dãy số đếm thêm 1 đơn vị nên số điền vào chỗ chấm sau số 52 là 53."
+   ],
+   [
+    "Mẹ hái được 40 quả cam, bố hái được 30 quả cam. Cả bố và mẹ hái được tất cả bao nhiêu quả cam?",
+    [
+     "70 quả",
+     "10 quả",
+     "7 quả",
+     "60 quả"
+    ],
+    "Lấy số cam của mẹ cộng với số cam của bố: 40 cộng 30 bằng 70 quả cam."
+   ],
+   [
+    "Nam có 25 viên bi, An có nhiều hơn Nam 4 viên bi. Hỏi An có bao nhiêu viên bi?",
+    [
+     "29 viên bi",
+     "21 viên bi",
+     "24 viên bi",
+     "30 viên bi"
+    ],
+    "An có nhiều hơn Nam nên ta làm phép tính cộng: 25 cộng 4 bằng 29 viên bi."
+   ]
+  ]
+ }
+}

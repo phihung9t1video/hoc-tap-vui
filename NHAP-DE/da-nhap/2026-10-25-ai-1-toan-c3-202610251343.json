@@ -1,0 +1,56 @@
+{
+ "1-toan": {
+  "c3": [
+   [
+    "Số thích hợp điền vào dấu chấm để 7 + ... = 9 là:",
+    [
+     "2",
+     "1",
+     "3",
+     "4"
+    ],
+    "Ta đếm thêm từ 7 đến 9 là 7, 8, 9. Vậy số cần điền là 2."
+   ],
+   [
+    "Phép tính nào dưới đây có kết quả bằng 8?",
+    [
+     "4 + 4",
+     "5 + 4",
+     "3 + 4",
+     "2 + 7"
+    ],
+    "Ta tính nhẩm 4 + 4 = 8, các phép tính còn lại có kết quả là 9 hoặc 7."
+   ],
+   [
+    "Kết quả của phép tính 10 − 6 là:",
+    [
+     "4",
+     "5",
+     "3",
+     "6"
+    ],
+    "Lấy 10 trừ đi 6 ta được kết quả bằng 4."
+   ],
+   [
+    "Dấu cần điền vào chỗ chấm để 6 − 2 ... 3 là:",
+    [
+     ">",
+     "<",
+     "+",
+     "-"
+    ],
+    "Ta có 6 − 2 = 4, mà 4 lớn hơn 3 nên dấu cần điền là dấu lớn hơn."
+   ],
+   [
+    "Số lớn nhất trong các số 3, 8, 5, 10 là:",
+    [
+     "10",
+     "8",
+     "5",
+     "3"
+    ],
+    "So sánh các số ta thấy 10 là số lớn nhất trong các số đã cho."
+   ]
+  ]
+ }
+}

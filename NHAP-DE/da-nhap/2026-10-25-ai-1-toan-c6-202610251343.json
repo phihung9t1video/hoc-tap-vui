@@ -1,0 +1,56 @@
+{
+ "1-toan": {
+  "c6": [
+   [
+    "Kết quả của phép tính 44 + 3 là bao nhiêu?",
+    [
+     "47",
+     "41",
+     "74",
+     "57"
+    ],
+    "Ta lấy 4 cộng 3 bằng 7, giữ nguyên số chục là 4, được kết quả là 47."
+   ],
+   [
+    "Phép tính nào dưới đây có kết quả bằng 65?",
+    [
+     "69 - 4",
+     "60 + 4",
+     "75 - 12",
+     "50 + 25"
+    ],
+    "Ta tính nhẩm 69 trừ 4 bằng 65, các phép tính còn lại có kết quả khác."
+   ],
+   [
+    "Số thích hợp điền vào dấu chấm để 87 - 5 = ... là:",
+    [
+     "82",
+     "83",
+     "37",
+     "92"
+    ],
+    "Lấy 7 trừ 5 bằng 2, giữ nguyên 8 chục, ta được số 82."
+   ],
+   [
+    "Tính nhẩm: 50 + 20 + 8 = ?",
+    [
+     "78",
+     "70",
+     "58",
+     "87"
+    ],
+    "Cộng lần lượt từ trái sang phải: 50 cộng 20 bằng 70, thêm 8 bằng 78."
+   ],
+   [
+    "Quãng đường từ nhà đến trường dài 32 km, bố chở An đi được 10 km thì dừng lại nghỉ. Hỏi An còn phải đi bao nhiêu ki-lô-mét nữa mới đến trường?",
+    [
+     "22 km",
+     "42 km",
+     "32 km",
+     "20 km"
+    ],
+    "Lấy tổng quãng đường trừ đi đoạn đường đã đi: 32 trừ 10 bằng 22 km."
+   ]
+  ]
+ }
+}

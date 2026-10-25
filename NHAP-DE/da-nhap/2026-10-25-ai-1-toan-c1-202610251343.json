@@ -1,0 +1,56 @@
+{
+ "1-toan": {
+  "c1": [
+   [
+    "Số gồm 8 đơn vị được đọc là gì?",
+    [
+     "Tám",
+     "Bảy",
+     "Chín",
+     "Sáu"
+    ],
+    "Số 8 được đọc là tám."
+   ],
+   [
+    "Hình nào dưới đây không có con vật nào?",
+    [
+     "Số 0 con vật",
+     "Số 1 con vật",
+     "Số 2 con vật",
+     "Số 3 con vật"
+    ],
+    "Số 0 đại diện cho không có vật nào."
+   ],
+   [
+    "Số liền trước của số 1 là số nào?",
+    [
+     "0",
+     "2",
+     "3",
+     "4"
+    ],
+    "Số ngay trước số 1 trong dãy số từ 0 đến 10 là số 0."
+   ],
+   [
+    "Số liền sau của số 9 là số nào?",
+    [
+     "10",
+     "8",
+     "7",
+     "6"
+    ],
+    "Số ngay sau số 9 trong dãy số từ 0 đến 10 là số 10."
+   ],
+   [
+    "Các số 8, 3, 10, 0 được sắp xếp theo thứ tự từ lớn đến bé là:",
+    [
+     "10, 8, 3, 0",
+     "0, 3, 8, 10",
+     "10, 3, 8, 0",
+     "8, 10, 3, 0"
+    ],
+    "So sánh các số ta có 10 lớn nhất, tiếp theo là 8, 3 và bé nhất là 0."
+   ]
+  ]
+ }
+}
