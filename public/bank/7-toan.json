@@ -399,6 +399,206 @@
     "84"
    ],
    "3⁴ = 3 · 3 · 3 · 3 = 81."
+  ],
+  [
+   "Cho tập hợp A = {-2; -1; 0; 1; 2}. Khẳng định nào sau đây là đúng?",
+   [
+    "-1 ∈ A",
+    "-3 ∈ A",
+    "2,5 ∈ A",
+    "0 ∉ A"
+   ],
+   "Vì -1 là một phần tử thuộc tập hợp A nên -1 ∈ A."
+  ],
+  [
+   "Số đối của số hữu tỉ -3/5 là:",
+   [
+    "3/5",
+    "-3/5",
+    "5/3",
+    "-5/3"
+   ],
+   "Số đối của -3/5 là -(-3/5) = 3/5."
+  ],
+  [
+   "Trong các số sau, số nào là số hữu tỉ dương?",
+   [
+    "4/5",
+    "-2/3",
+    "0",
+    "-(-1)/(-2)"
+   ],
+   "Số 4/5 > 0 nên là số hữu tỉ dương."
+  ],
+  [
+   "Kết quả của phép tính 2/7 + 3/7 là:",
+   [
+    "5/7",
+    "5/14",
+    "6/49",
+    "1/7"
+   ],
+   "Cùng mẫu số, ta cộng tử số với tử số: (2 + 3)/7 = 5/7."
+  ],
+  [
+   "Kết quả của phép tính (-1/2)³ là:",
+   [
+    "-1/8",
+    "1/8",
+    "-1/6",
+    "1/6"
+   ],
+   "Lũy thừa bậc lẻ của số âm cho kết quả âm: (-1/2) × (-1/2) × (-1/2) = -1/8."
+  ],
+  [
+   "Khẳng định nào sau đây đúng về căn bậc hai số học của 9?",
+   [
+    "√9 = 3",
+    "√9 = -3",
+    "√9 = ± 3",
+    "√9 = 81"
+   ],
+   "Căn bậc hai số học của số không âm a là số không âm x sao cho x² = a, do đó √9 = 3."
+  ],
+  [
+   "Số nào sau đây là số vô tỉ?",
+   [
+    "√2",
+    "√4",
+    "0,25",
+    "-3/4"
+   ],
+   "√2 là số thập phân vô hạn không tuần hoàn nên là số vô tỉ."
+  ],
+  [
+   "Giá trị tuyệt đối của -3,5 là:",
+   [
+    "3,5",
+    "-3,5",
+    "0",
+    "7"
+   ],
+   "Giá trị tuyệt đối của một số âm là số đối của nó: |-3,5| = 3,5."
+  ],
+  [
+   "Kết quả của phép tính 2,5 - 1,2 là:",
+   [
+    "1,3",
+    "1,2",
+    "3,7",
+    "-1,3"
+   ],
+   "Thực hiện phép trừ hai số thập phân: 2,5 - 1,2 = 1,3."
+  ],
+  [
+   "Cho hai góc kề bù ∠xOy và ∠yOz. Biết ∠xOy = 60°, số đo của ∠yOz là:",
+   [
+    "120°",
+    "60°",
+    "30°",
+    "90°"
+   ],
+   "Hai góc kề bù có tổng số đo bằng 180°, nên ∠yOz = 180° - 60° = 120°."
+  ],
+  [
+   "Thực hiện phép tính 3/4 - 1/2, ta được kết quả là:",
+   [
+    "1/4",
+    "2/2",
+    "1/2",
+    "2/4"
+   ],
+   "Quy đồng mẫu số: 3/4 - 2/4 = 1/4."
+  ],
+  [
+   "Thực hiện phép tính (-5)/6 × 3/10, ta được kết quả rút gọn là:",
+   [
+    "-1/4",
+    "1/4",
+    "-15/60",
+    "-1/2"
+   ],
+   "Rút gọn tử và mẫu trước khi nhân: (-5 × 3)/(6 × 10) = (-1)/(2 × 2) = -1/4."
+  ],
+  [
+   "Tìm x, biết: x + 1/3 = 5/6",
+   [
+    "1/2",
+    "4/3",
+    "1/3",
+    "7/6"
+   ],
+   "x = 5/6 - 1/3 = 5/6 - 2/6 = 3/6 = 1/2."
+  ],
+  [
+   "So sánh hai số hữu tỉ a = -0,6 và b = -1/2:",
+   [
+    "a < b",
+    "a > b",
+    "a = b",
+    "a ≥ b"
+   ],
+   "Ta có -1/2 = -0,5. Vì -0,6 < -0,5 nên a < b."
+  ],
+  [
+   "Giá trị của biểu thức A = |-2,5| + |1,5| là:",
+   [
+    "4",
+    "1",
+    "-1",
+    "-4"
+   ],
+   "Ta có |-2,5| = 2,5 và |1,5| = 1,5, do đó A = 2,5 + 1,5 = 4."
+  ],
+  [
+   "Kết quả làm tròn số 3,14159 đến hàng phần trăm là:",
+   [
+    "3,14",
+    "3,15",
+    "3,1",
+    "3,142"
+   ],
+   "Chữ số sau hàng phần trăm là 1 (nhỏ hơn 5) nên giữ nguyên hàng phần trăm thành 3,14."
+  ],
+  [
+   "Số học sinh giỏi của ba lớp 7A, 7B, 7C tỉ lệ với 2; 3; 4. Biết tổng số học sinh giỏi của ba lớp là 36 em. Số học sinh giỏi của lớp 7A là:",
+   [
+    "8 em",
+    "12 em",
+    "16 em",
+    "9 em"
+   ],
+   "Tổng số phần bằng nhau là 2 + 3 + 4 = 9. Số học sinh giỏi lớp 7A là 36 : 9 × 2 = 8 em."
+  ],
+  [
+   "Cho đại lượng y tỉ lệ thuận với đại lượng x theo hệ số tỉ lệ k = -2. Khi x = 3 thì y bằng:",
+   [
+    "-6",
+    "6",
+    "1",
+    "-1"
+   ],
+   "Theo tính chất tỉ lệ thuận y = k × x = -2 × 3 = -6."
+  ],
+  [
+   "Cho hai đường thẳng a và b cắt nhau tại O, tạo thành góc ∠O₁ = 50°. Số đo của góc đối đỉnh với ∠O₁ là:",
+   [
+    "50°",
+    "130°",
+    "40°",
+    "180°"
+   ],
+   "Hai góc đối đỉnh thì bằng nhau nên số đo góc đối đỉnh cũng bằng 50°."
+  ],
+  [
+   "Một chiếc tủ lạnh có giá niêm yết là 10 000 000 đồng. Nhân dịp khuyến mãi, cửa hàng giảm giá 10%. Giá của chiếc tủ lạnh sau khi giảm là:",
+   [
+    "9 000 000 đồng",
+    "1 000 000 đồng",
+    "8 000 000 đồng",
+    "9 500 000 đồng"
+   ],
+   "Số tiền được giảm là 10 000 000 × 10% = 1 000 000 đồng, giá sau giảm là 10 000 000 - 1 000 000 = 9 000 000 đồng."
   ]
  ],
  "c2": [

@@ -21,8 +21,10 @@ YÊU CẦU BẮT BUỘC:
    (12 345); phép nhân dùng ×, phép chia dùng :.
 6. Không dùng hình vẽ, bảng biểu; không có đáp án "cả A và B", "tất cả
    các đáp án trên".
-7. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
-8. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác:
+7. KHÔNG dùng LaTeX, không dùng dấu $ hay dấu \. Viết công thức bằng chữ
+   thường: phân số 3/5, mũ x², căn √9, góc ∠xOy, độ 60°, thuộc ∈.
+8. Tự giải lại từng câu để chắc chắn đáp án đầu tiên là đúng.
+9. CHỈ trả về JSON đúng mẫu dưới, không viết thêm chữ nào khác:
 
 {"5-toan": {"c2": [
   ["Câu hỏi 1", ["Đáp án ĐÚNG", "Sai 1", "Sai 2", "Sai 3"], "Lời giải 1"],
@@ -38,6 +40,10 @@ MẸO
   {"5-toan": {"c1": [...], "c2": [...]}}.
 - Mỗi lần nên xin 20–30 câu; nhiều hơn Gemini dễ bị cắt ngang.
 - Đọc lướt kết quả trước khi nhập: AI đôi khi vẫn sai đáp án.
+- Nếu Gemini vẫn viết công thức kiểu LaTeX ($\frac{3}{5}$...), công cụ nhập
+  tự đổi sang chữ thường (3/5, x², √, ∠, °), không cần sửa tay.
+- Có thể dồn nhiều tệp (mỗi lần hỏi Gemini một tệp) vào NHAP-DE rồi nhấp
+  5-NHAP-DE.bat một lần; xong mới phát hành một lần.
 
 NHẬP VÀO KHO
 1. Chép toàn bộ câu trả lời của Gemini, dán vào một tệp .txt mới trong

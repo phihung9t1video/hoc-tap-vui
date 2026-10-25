@@ -15,9 +15,50 @@ if (!files.length) {
   process.exit(0);
 }
 
-/** Lấy phần JSON trong câu trả lời của Gemini (bỏ ```json, chữ thừa trước/sau, dấu phẩy thừa) */
+// ---------- Đổi công thức LaTeX ($\frac{3}{5}$, \in, x^{2}...) sang chữ thường app hiển thị được ----------
+// Làm trên văn bản thô (trước khi đọc JSON) vì dấu \ của LaTeX làm hỏng JSON. "\\{1,2}" = 1 hoặc 2 dấu \.
+const SUP = { 0: "⁰", 1: "¹", 2: "²", 3: "³", 4: "⁴", 5: "⁵", 6: "⁶", 7: "⁷", 8: "⁸", 9: "⁹", "-": "⁻", "+": "⁺", n: "ⁿ", x: "ˣ" };
+const SUB = { 0: "₀", 1: "₁", 2: "₂", 3: "₃", 4: "₄", 5: "₅", 6: "₆", 7: "₇", 8: "₈", 9: "₉" };
+const SYMBOLS = {
+  notin: "∉", in: "∈", subset: "⊂", cdot: "·", times: "×", div: ":", leq: "≤", le: "≤", geq: "≥", ge: "≥", neq: "≠", ne: "≠",
+  approx: "≈", pm: "±", infty: "∞", pi: "π", circ: "°", angle: "∠", widehat: "", hat: "", triangle: "△", perp: "⊥", parallel: "∥",
+  Rightarrow: "⇒", rightarrow: "→", Leftrightarrow: "⇔", alpha: "α", beta: "β", Delta: "Δ", quad: " ", qquad: " ", ldots: "…", dots: "…",
+  left: "", right: "", displaystyle: "", limits: "",
+};
+const BB = { N: "ℕ", Z: "ℤ", Q: "ℚ", R: "ℝ", I: "𝕀" };
+function latexToText(raw) {
+  let t = raw;
+  const B = "\\\\{1,2}";
+  const re = (s, f = "g") => new RegExp(s, f);
+  // Phân số, căn (lặp để xử lí lồng nhau)
+  for (let i = 0; i < 4; i++) {
+    t = t.replace(re(`${B}[dt]?frac\\s*\\{([^{}]*)\\}\\s*\\{([^{}]*)\\}`), (_, a, b) => `${/^[\w,.]+$/.test(a) ? a : `(${a})`}/${/^[\w,.]+$/.test(b) ? b : `(${b})`}`);
+    t = t.replace(re(`${B}sqrt\\s*\\{([^{}]*)\\}`), (_, a) => (a.length > 1 ? `√(${a})` : `√${a}`));
+  }
+  t = t.replace(re(`${B}mathbb\\s*\\{(\\w)\\}`), (_, a) => BB[a] ?? a);
+  // Góc: \widehat{A} → Â, \widehat{xOy} → ∠xOy
+  t = t.replace(re(`${B}(?:widehat|hat)\\s*\\{([^{}]*)\\}`), (_, a) => (a.length === 1 ? `${a}̂` : `∠${a}`));
+  // Giá trị tuyệt đối: \vert, \lvert, \left| ... → |
+  t = t.replace(re(`${B}(?:left|right)\\s*\\|`), "|");
+  t = t.replace(re(`${B}(?:vert|lvert|rvert|mid)(?![A-Za-z])\\s*(?:\\{\\})?`), "|");
+  t = t.replace(re(`${B}(?:text|mathrm|textbf|mathbf|operatorname)\\s*\\{([^{}]*)\\}`), "$1");
+  t = t.replace(re(`${B}overline\\s*\\{([^{}]*)\\}`), "$1");
+  t = t.replace(re(`${B}([{}%#&_ ,;!])`), (_, c) => (c === "," || c === ";" || c === "!" ? " " : c));
+  t = t.replace(re(`${B}([A-Za-z]+)`), (m, name) => (name in SYMBOLS ? SYMBOLS[name] : name === "n" ? m : name));
+  // Số mũ, chỉ số
+  t = t.replace(/\^\s*\{([^{}]*)\}/g, (_, a) => ([...a].every((c) => SUP[c]) ? [...a].map((c) => SUP[c]).join("") : `^(${a})`));
+  t = t.replace(/\^([0-9n+-])/g, (_, a) => SUP[a]);
+  t = t.replace(/\^°/g, "°");
+  t = t.replace(/_\s*\{(\d+)\}/g, (_, a) => [...a].map((c) => SUB[c]).join("")).replace(/_(\d)/g, (_, a) => SUB[a]);
+  t = t.replace(/\{\}/g, "");
+  // Bỏ dấu $ của công thức
+  t = t.replace(/\$+/g, "");
+  return t;
+}
+
+/** Lấy phần JSON trong câu trả lời của Gemini (bỏ ```json, chữ thừa trước/sau, dấu phẩy thừa, LaTeX) */
 function extractJson(text) {
-  let t = text.replace(/^﻿/, "").replace(/```(?:json)?/gi, "");
+  let t = latexToText(text.replace(/^﻿/, "").replace(/```(?:json)?/gi, ""));
   const a = t.indexOf("{"), b = t.lastIndexOf("}");
   if (a < 0 || b < a) throw new Error("không tìm thấy dữ liệu JSON (phải bắt đầu bằng { và kết thúc bằng })");
   t = t.slice(a, b + 1).replace(/[“”]/g, '"').replace(/,\s*([\]}])/g, "$1");

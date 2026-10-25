@@ -1,0 +1,22 @@
+{"7-toan": {"c1": [
+["Cho tập hợp $A = \\{-2; -1; 0; 1; 2\\}$. Khẳng định nào sau đây là đúng?", ["$-1 \in A$", "$-3 \in A$", "$2,5 \in A$", "$0 \notin A$"], "Vì -1 là một phần tử thuộc tập hợp A nên $-1 \in A$."],
+["Số đối của số hữu tỉ $-\frac{3}{5}$ là:", ["\frac{3}{5}", "-\frac{3}{5}", "\frac{5}{3}", "-\frac{5}{3}"], "Số đối của $-\frac{3}{5}$ là $-\left(-\frac{3}{5}\right) = \frac{3}{5}$."],
+["Trong các số sau, số nào là số hữu tỉ dương?", ["\frac{4}{5}", "-\frac{2}{3}", "0", "-\frac{-1}{-2}"], "Số $\frac{4}{5} > 0$ nên là số hữu tỉ dương."],
+["Kết quả của phép tính $\frac{2}{7} + \frac{3}{7}$ là:", ["\frac{5}{7}", "\frac{5}{14}", "\frac{6}{49}", "\frac{1}{7}"], "Cùng mẫu số, ta cộng tử số với tử số: $\frac{2 + 3}{7} = \frac{5}{7}$."],
+["Kết quả của phép tính $\left(-\frac{1}{2}\right)^3$ là:", ["-\frac{1}{8}", "\frac{1}{8}", "-\frac{1}{6}", "\frac{1}{6}"], "Lũy thừa bậc lẻ của số âm cho kết quả âm: $\left(-\frac{1}{2}\right) \times \left(-\frac{1}{2}\right) \times \left(-\frac{1}{2}\right) = -\frac{1}{8}$."],
+["Khẳng định nào sau đây đúng về căn bậc hai số học của 9?", ["\sqrt{9} = 3", "\sqrt{9} = -3", "\sqrt{9} = \pm 3", "\sqrt{9} = 81"], "Căn bậc hai số học của số không âm $a$ là số không âm $x$ sao cho $x^2 = a$, do đó $\sqrt{9} = 3$."],
+["Số nào sau đây là số vô tỉ?", ["\sqrt{2}", "\sqrt{4}", "0,25", "-\frac{3}{4}"], "$\sqrt{2}$ là số thập phân vô hạn không tuần hoàn nên là số vô tỉ."],
+["Giá trị tuyệt đối của $-3,5$ là:", ["3,5", "-3,5", "0", "7"], "Giá trị tuyệt đối của một số âm là số đối của nó: $\vert{}-3,5\vert{} = 3,5$."],
+["Kết quả của phép tính $2,5 - 1,2$ là:", ["1,3", "1,2", "3,7", "-1,3"], "Thực hiện phép trừ hai số thập phân: $2,5 - 1,2 = 1,3$."],
+["Cho hai góc kề bù $\widehat{xOy}$ và $\widehat{yOz}$. Biết $\widehat{xOy} = 60^\circ$, số đo của $\widehat{yOz}$ là:", ["120^\circ", "60^\circ", "30^\circ", "90^\circ"], "Hai góc kề bù có tổng số đo bằng $180^\circ$, nên $\widehat{yOz} = 180^\circ - 60^\circ = 120^\circ$."],
+["Thực hiện phép tính $\frac{3}{4} - \frac{1}{2}$, ta được kết quả là:", ["\frac{1}{4}", "\frac{2}{2}", "\frac{1}{2}", "\frac{2}{4}"], "Quy đồng mẫu số: $\frac{3}{4} - \frac{2}{4} = \frac{1}{4}$."],
+["Thực hiện phép tính $\frac{-5}{6} \times \frac{3}{10}$, ta được kết quả rút gọn là:", ["-\frac{1}{4}", "\frac{1}{4}", "-\frac{15}{60}", "-\frac{1}{2}"], "Rút gọn tử và mẫu trước khi nhân: $\frac{-5 \times 3}{6 \times 10} = \frac{-1}{2 \times 2} = -\frac{1}{4}$."],
+["Tìm $x$, biết: $x + \frac{1}{3} = \frac{5}{6}$", ["\frac{1}{2}", "\frac{4}{3}", "\frac{1}{3}", "\frac{7}{6}"], "$x = \frac{5}{6} - \frac{1}{3} = \frac{5}{6} - \frac{2}{6} = \frac{3}{6} = \frac{1}{2}$."],
+["So sánh hai số hữu tỉ $a = -0,6$ và $b = -\frac{1}{2}$:", ["a < b", "a > b", "a = b", "a \ge b"], "Ta có $-\frac{1}{2} = -0,5$. Vì $-0,6 < -0,5$ nên $a < b$."],
+["Giá trị của biểu thức $A = \vert{}-2,5\vert{} + \vert{}1,5\vert{}$ là:", ["4", "1", "-1", "-4"], "Ta có $\vert{}-2,5\vert{} = 2,5$ và $\vert{}1,5\vert{} = 1,5$, do đó $A = 2,5 + 1,5 = 4$."],
+["Kết quả làm tròn số $3,14159$ đến hàng phần trăm là:", ["3,14", "3,15", "3,1", "3,142"], "Chữ số sau hàng phần trăm là 1 (nhỏ hơn 5) nên giữ nguyên hàng phần trăm thành 3,14."],
+["Số học sinh giỏi của ba lớp 7A, 7B, 7C tỉ lệ với $2; 3; 4$. Biết tổng số học sinh giỏi của ba lớp là 36 em. Số học sinh giỏi của lớp 7A là:", ["8 em", "12 em", "16 em", "9 em"], "Tổng số phần bằng nhau là $2 + 3 + 4 = 9$. Số học sinh giỏi lớp 7A là $36 : 9 \times 2 = 8$ em."],
+["Cho đại lượng $y$ tỉ lệ thuận với đại lượng $x$ theo hệ số tỉ lệ $k = -2$. Khi $x = 3$ thì $y$ bằng:", ["-6", "6", "1", "-1"], "Theo tính chất tỉ lệ thuận $y = k \times x = -2 \times 3 = -6$."],
+["Cho hai đường thẳng $a$ và $b$ cắt nhau tại $O$, tạo thành góc $\widehat{O_1} = 50^\circ$. Số đo của góc đối đỉnh với $\widehat{O_1}$ là:", ["50^\circ", "130^\circ", "40^\circ", "180^\circ"], "Hai góc đối đỉnh thì bằng nhau nên số đo góc đối đỉnh cũng bằng $50^\circ$."],
+["Một chiếc tủ lạnh có giá niêm yết là 10 000 000 đồng. Nhân dịp khuyến mãi, cửa hàng giảm giá $10\\%$. Giá của chiếc tủ lạnh sau khi giảm là:", ["9 000 000 đồng", "1 000 000 đồng", "8 000 000 đồng", "9 500 000 đồng"], "Số tiền được giảm là $10 000 000 \times 10\\% = 1 000 000$ đồng, giá sau giảm là $10 000 000 - 1 000 000 = 9 000 000$ đồng."]
+]}}
