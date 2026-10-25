@@ -20,6 +20,12 @@ if (-not $dev) {
 }
 $serial = $dev.ToString().Split("`t")[0]
 Write-Host "Dung may: $serial"
+# Ve man hinh chinh de khong lan voi app khac dang mo tren may ao (vi du RIMS)
+& $Adb -s $serial shell input keyevent KEYCODE_HOME 2>$null | Out-Null
+Write-Host ""
+Write-Host "DANG BUILD APP, MAT KHOANG 3-5 PHUT. Khi xong, app Hoc Tap Vui tu mo tren may ao." -ForegroundColor Yellow
+Write-Host "Muon thu nhanh tren trinh duyet thi dung bieu tuong 'Hoc Tap Vui (thu)' tren Desktop." -ForegroundColor Yellow
+Write-Host ""
 
 $ver = Get-PkgVersion
 Step "Build giao dien (ban thu $ver)"
