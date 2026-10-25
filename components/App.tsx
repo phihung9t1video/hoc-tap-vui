@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import { builtinQuestions, findBuiltin, isBuiltinId } from "@/lib/builtin";
+import { builtinQuestions, findBuiltin, isBuiltinId, withChallenge } from "@/lib/builtin";
 import { fetchCloudQuestions, pushCloudQuestions } from "@/lib/cloud";
 import { SUBJECTS, findChapter } from "@/lib/curriculum";
 import { HOME_STARTER_IDS, defaultHome } from "@/lib/home";
@@ -105,7 +105,7 @@ export function App() {
       if (!all.length) return setScreen({ name: "error", subject, message: "Chương này chưa có câu trong kho đề. Con chọn Đề mới AI soạn nhé!" });
       const fresh = shuffle(all.filter((q) => !p.seen[q.id]));
       const old = shuffle(all.filter((q) => p.seen[q.id]));
-      const items = [...fresh, ...old].slice(0, QUIZ_SIZE).map((q) => ({ ...q, bankKey: key }));
+      const items = await withChallenge([...fresh, ...old].slice(0, QUIZ_SIZE).map((q) => ({ ...q, bankKey: key })), p.grade, subject, p.seen);
       return setScreen({ name: "quiz", subject, chapterId, items, demo: false });
     }
 
@@ -142,7 +142,7 @@ export function App() {
 
     const fresh = shuffle(pool.filter((q) => !p.seen[q.id]));
     const old = shuffle(pool.filter((q) => p.seen[q.id]));
-    const items = [...fresh, ...old].slice(0, QUIZ_SIZE).map((q) => ({ ...q, bankKey: key }));
+    const items = await withChallenge([...fresh, ...old].slice(0, QUIZ_SIZE).map((q) => ({ ...q, bankKey: key })), p.grade, subject, p.seen);
     setScreen({ name: "quiz", subject, chapterId, items, demo: false, notice });
   }
 

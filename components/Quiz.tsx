@@ -42,7 +42,7 @@ export function Quiz({
       const correct = i === q.answerIndex;
       setPicked(i);
       setPraise(PRAISE[Math.floor(Math.random() * PRAISE.length)]);
-      setLogs((l) => [...l, { qid: q.id, bankKey: q.bankKey, correct, ms: Date.now() - startRef.current, seenBefore: !!profile.seen[q.id] }]);
+      setLogs((l) => [...l, { qid: q.id, bankKey: q.bankKey, correct, ms: Date.now() - startRef.current, seenBefore: !!profile.seen[q.id], bonus: q.bonus }]);
     },
     [picked, q, profile.seen],
   );
@@ -127,7 +127,12 @@ export function Quiz({
         </div>
       )}
 
-      <div className="card question">{q.question}</div>
+      {q.bonus && (
+        <div className="bonus-flash" role="status">
+          ⚡ CÂU HỎI THỬ THÁCH ⚡<div style={{ fontSize: 14, fontWeight: 700 }}>Câu nâng cao, trả lời đúng nhận 🎁 quà hiếm! Sai cũng không bị trừ điểm.</div>
+        </div>
+      )}
+      <div className={`card question ${q.bonus ? "question-bonus" : ""}`}>{q.question}</div>
 
       <div className="options">
         {q.options.map((o, i) => {
@@ -146,6 +151,7 @@ export function Quiz({
           {correct ? (
             <>
               <strong>{praise}</strong>
+              {q.bonus && <div className="pop" style={{ fontWeight: 800 }}>🎁 Con đã vượt qua thử thách! Quà hiếm chờ con ở cuối bài.</div>}
               <details style={{ marginTop: 4 }}>
                 <summary style={{ cursor: "pointer", color: "var(--ink-2)" }}>Xem lời giải</summary>
                 <div style={{ marginTop: 4 }}>{q.explanation}</div>

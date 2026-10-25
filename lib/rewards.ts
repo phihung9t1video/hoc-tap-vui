@@ -18,6 +18,8 @@ export interface QuizOutcome {
   tooFast: boolean;
   chestItemId?: string;
   chestCoins?: number;
+  /** Câu thử thách: null = không có câu thử thách; false = trả lời sai */
+  bonus?: { itemId?: string; coins?: number } | false;
   newAchievements: Achievement[];
   streak: number;
 }
@@ -41,13 +43,23 @@ function pickChestItem(owned: Set<string>): string | undefined {
   return from[Math.floor(Math.random() * from.length)].id;
 }
 
+/** Quà câu thử thách: ưu tiên đồ Sử thi, Huyền thoại */
+function pickBonusItem(owned: Set<string>): string | undefined {
+  const pool = [...ITEMS, ...HOME_ITEMS].filter((i) => !i.starter && !("achievement" in i && i.achievement) && !owned.has(i.id) && i.rarity !== "thuong");
+  const top = pool.filter((i) => i.rarity === "suthi" || i.rarity === "huyenthoai");
+  const from = top.length ? top : pool;
+  return from.length ? from[Math.floor(Math.random() * from.length)].id : undefined;
+}
+
 export function applyQuiz(
   p: Profile,
   settings: Settings,
   subject: Subject,
   chapterId: string,
-  answers: AnswerLog[],
+  allAnswers: AnswerLog[],
 ): { profile: Profile; outcome: QuizOutcome } {
+  const bonusAns = allAnswers.find((a) => a.bonus);
+  const answers = allAnswers.filter((a) => !a.bonus);
   const total = answers.length;
   const correct = answers.filter((a) => a.correct).length;
   const score = total ? Math.round((correct / total) * 100) / 10 : 0;
@@ -92,6 +104,7 @@ export function applyQuiz(
 
   const wrong = { ...p.wrong };
   const seen = { ...p.seen };
+  if (bonusAns) seen[bonusAns.qid] = true;
   for (const a of answers) {
     seen[a.qid] = true;
     if (a.correct) delete wrong[a.qid];
@@ -106,6 +119,17 @@ export function applyQuiz(
     if (chestItemId) owned.add(chestItemId);
     else chestCoins = 100;
   }
+  let bonus: QuizOutcome["bonus"];
+  let bonusCoins = 0;
+  if (bonusAns) {
+    if (!bonusAns.correct) bonus = false;
+    else {
+      const itemId = pickBonusItem(owned);
+      if (itemId) owned.add(itemId);
+      else bonusCoins = 150;
+      bonus = itemId ? { itemId } : { coins: bonusCoins };
+    }
+  }
 
   let next: Profile = {
     ...p,
@@ -116,7 +140,7 @@ export function applyQuiz(
     lastDay: today,
     earnedDay: today,
     earnedToday: earnedToday + coins,
-    coins: p.coins + coins + (chestCoins ?? 0),
+    coins: p.coins + coins + (chestCoins ?? 0) + bonusCoins,
     history: [...p.history, { at: Date.now(), subject, chapterId, correct, total, coins, perfect: chest }],
   };
 
@@ -130,6 +154,6 @@ export function applyQuiz(
 
   return {
     profile: next,
-    outcome: { score, correct, total, lines, coins, capped: coins < sum, tooFast, chestItemId, chestCoins, newAchievements, streak },
+    outcome: { score, correct, total, lines, coins, capped: coins < sum, tooFast, chestItemId, chestCoins, bonus, newAchievements, streak },
   };
 }

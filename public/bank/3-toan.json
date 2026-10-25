@@ -3018,5 +3018,257 @@
    ],
    "7 × 5 = 35 (ngày)."
   ]
+ ],
+ "thu-thach": [
+  [
+   "Tìm một số, biết rằng lấy số đó nhân với 4 rồi cộng thêm 15 thì được 63.",
+   [
+    "12",
+    "16",
+    "13",
+    "14"
+   ],
+   "Đi ngược lại: 63 − 15 = 48, rồi 48 : 4 = 12."
+  ],
+  [
+   "Có 5 bạn, mỗi bạn bắt tay mỗi bạn còn lại đúng một lần. Có tất cả bao nhiêu cái bắt tay?",
+   [
+    "10",
+    "20",
+    "25",
+    "5"
+   ],
+   "Bạn thứ nhất bắt tay 4 bạn, bạn thứ hai thêm 3, rồi 2, rồi 1: 4 + 3 + 2 + 1 = 10."
+  ],
+  [
+   "Một sợi dây dài 48 m được cắt thành các đoạn dài 6 m. Phải cắt bao nhiêu lần?",
+   [
+    "7 lần",
+    "8 lần",
+    "6 lần",
+    "9 lần"
+   ],
+   "48 : 6 = 8 đoạn. Cắt 8 đoạn chỉ cần 8 − 1 = 7 lần cắt."
+  ],
+  [
+   "Hiện nay mẹ 32 tuổi, con 8 tuổi. Sau 4 năm nữa, tuổi mẹ gấp mấy lần tuổi con?",
+   [
+    "3 lần",
+    "4 lần",
+    "2 lần",
+    "5 lần"
+   ],
+   "Sau 4 năm: mẹ 36 tuổi, con 12 tuổi. 36 : 12 = 3 lần."
+  ],
+  [
+   "Số lớn nhất có ba chữ số khác nhau là:",
+   [
+    "987",
+    "999",
+    "998",
+    "978"
+   ],
+   "Chọn chữ số lớn nhất cho từng hàng mà không lặp lại: 9, 8, 7 → 987."
+  ],
+  [
+   "Số bé nhất có ba chữ số khác nhau là:",
+   [
+    "102",
+    "100",
+    "123",
+    "101"
+   ],
+   "Hàng trăm nhỏ nhất là 1, hàng chục là 0, hàng đơn vị là 2 (khác 1 và 0) → 102."
+  ],
+  [
+   "Một hình chữ nhật có chiều dài 12 cm, chiều rộng bằng một nửa chiều dài. Chu vi hình chữ nhật là:",
+   [
+    "36 cm",
+    "72 cm",
+    "18 cm",
+    "24 cm"
+   ],
+   "Chiều rộng 12 : 2 = 6 cm. Chu vi (12 + 6) × 2 = 36 cm."
+  ],
+  [
+   "Trong phép chia cho 7, số dư lớn nhất có thể là:",
+   [
+    "6",
+    "7",
+    "5",
+    "1"
+   ],
+   "Số dư luôn bé hơn số chia, nên lớn nhất là 7 − 1 = 6."
+  ],
+  [
+   "Tìm số bị chia, biết số chia là 8, thương là 12 và số dư là 5.",
+   [
+    "101",
+    "96",
+    "104",
+    "91"
+   ],
+   "Số bị chia = thương × số chia + số dư = 12 × 8 + 5 = 101."
+  ],
+  [
+   "Lan có 24 viên bi, Lan cho Hùng 1/4 số bi. Hỏi Lan còn bao nhiêu viên bi?",
+   [
+    "18 viên",
+    "6 viên",
+    "20 viên",
+    "12 viên"
+   ],
+   "1/4 của 24 là 24 : 4 = 6 viên. Lan còn 24 − 6 = 18 viên."
+  ],
+  [
+   "Dãy số 2, 5, 8, 11, ... Số tiếp theo của dãy là:",
+   [
+    "14",
+    "13",
+    "15",
+    "16"
+   ],
+   "Mỗi số hơn số trước 3 đơn vị: 11 + 3 = 14."
+  ],
+  [
+   "Dãy số 1, 2, 4, 8, 16, ... Số tiếp theo là:",
+   [
+    "32",
+    "24",
+    "20",
+    "18"
+   ],
+   "Mỗi số gấp đôi số đứng trước: 16 × 2 = 32."
+  ],
+  [
+   "Trong chuồng có 3 con gà và 4 con thỏ. Có tất cả bao nhiêu cái chân?",
+   [
+    "22",
+    "14",
+    "26",
+    "24"
+   ],
+   "Gà có 2 chân: 3 × 2 = 6. Thỏ có 4 chân: 4 × 4 = 16. Tổng 6 + 16 = 22."
+  ],
+  [
+   "Hôm nay là thứ Hai. Hỏi 10 ngày nữa là thứ mấy?",
+   [
+    "Thứ Năm",
+    "Thứ Tư",
+    "Thứ Sáu",
+    "Thứ Hai"
+   ],
+   "7 ngày nữa lại là thứ Hai, thêm 3 ngày nữa là thứ Năm."
+  ],
+  [
+   "Có bao nhiêu số có hai chữ số mà chữ số hàng chục gấp 2 lần chữ số hàng đơn vị?",
+   [
+    "4 số",
+    "5 số",
+    "3 số",
+    "8 số"
+   ],
+   "Đó là 21, 42, 63, 84. Có 4 số."
+  ],
+  [
+   "Một cửa hàng có 5 thùng sữa, mỗi thùng 24 hộp. Đã bán 38 hộp. Cửa hàng còn lại bao nhiêu hộp sữa?",
+   [
+    "82 hộp",
+    "120 hộp",
+    "92 hộp",
+    "72 hộp"
+   ],
+   "Có 24 × 5 = 120 hộp. Còn lại 120 − 38 = 82 hộp."
+  ],
+  [
+   "Kim giờ và kim phút tạo thành một góc vuông lúc:",
+   [
+    "3 giờ",
+    "6 giờ",
+    "12 giờ",
+    "5 giờ"
+   ],
+   "Lúc 3 giờ, kim phút chỉ số 12, kim giờ chỉ số 3, hai kim vuông góc với nhau."
+  ],
+  [
+   "Tổng của hai số là 100. Số thứ nhất hơn số thứ hai 20. Số thứ nhất là:",
+   [
+    "60",
+    "40",
+    "80",
+    "50"
+   ],
+   "Số thứ nhất = (100 + 20) : 2 = 60. Thử lại: 60 + 40 = 100."
+  ],
+  [
+   "An nghĩ ra một số. Lấy số đó chia cho 3 rồi nhân với 5 thì được 40. Số An nghĩ là:",
+   [
+    "24",
+    "8",
+    "15",
+    "120"
+   ],
+   "Đi ngược lại: 40 : 5 = 8, rồi 8 × 3 = 24."
+  ],
+  [
+   "Quyển sách có 96 trang. Bình đọc mỗi ngày 8 trang. Sau 5 ngày, Bình còn phải đọc bao nhiêu trang?",
+   [
+    "56 trang",
+    "40 trang",
+    "88 trang",
+    "48 trang"
+   ],
+   "5 ngày đọc 8 × 5 = 40 trang. Còn 96 − 40 = 56 trang."
+  ],
+  [
+   "1 kg bông và 1 kg sắt, cái nào nặng hơn?",
+   [
+    "Nặng bằng nhau",
+    "1 kg sắt nặng hơn",
+    "1 kg bông nặng hơn",
+    "Không so sánh được"
+   ],
+   "Cả hai đều nặng 1 kg nên nặng bằng nhau. Sắt chỉ nhỏ gọn hơn thôi."
+  ],
+  [
+   "Ghép 3 hình vuông cạnh 2 cm thành một hàng được hình chữ nhật. Chu vi hình chữ nhật đó là:",
+   [
+    "16 cm",
+    "24 cm",
+    "12 cm",
+    "18 cm"
+   ],
+   "Hình chữ nhật dài 2 × 3 = 6 cm, rộng 2 cm. Chu vi (6 + 2) × 2 = 16 cm."
+  ],
+  [
+   "Số nào nhân với chính nó được 81?",
+   [
+    "9",
+    "8",
+    "27",
+    "40"
+   ],
+   "9 × 9 = 81."
+  ],
+  [
+   "Một năm thường có 365 ngày. Đó là bao nhiêu tuần và mấy ngày?",
+   [
+    "52 tuần 1 ngày",
+    "52 tuần",
+    "50 tuần 15 ngày",
+    "53 tuần"
+   ],
+   "365 : 7 = 52 dư 1, nên là 52 tuần và 1 ngày."
+  ],
+  [
+   "Giá trị của biểu thức 100 − 4 × (15 − 6) là:",
+   [
+    "64",
+    "864",
+    "40",
+    "76"
+   ],
+   "Trong ngoặc trước: 15 − 6 = 9. Nhân trước trừ sau: 4 × 9 = 36, 100 − 36 = 64."
+  ]
  ]
 }

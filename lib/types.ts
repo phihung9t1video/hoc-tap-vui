@@ -36,6 +36,8 @@ export interface Question {
 /** Câu hỏi trong một lượt làm bài, kèm khóa ngân hàng để biết nó thuộc chương nào. */
 export interface QuizItem extends Question {
   bankKey: string;
+  /** Câu thử thách nâng cao: trả lời đúng được quà hiếm, không tính vào điểm */
+  bonus?: boolean;
 }
 
 export interface AnswerLog {
@@ -44,6 +46,7 @@ export interface AnswerLog {
   correct: boolean;
   ms: number;
   seenBefore: boolean;
+  bonus?: boolean;
 }
 
 export interface QuizRecord {

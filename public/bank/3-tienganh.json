@@ -2590,5 +2590,207 @@
    ],
    "Thank you = Cảm ơn."
   ]
+ ],
+ "thu-thach": [
+  [
+   "Chọn từ KHÁC LOẠI: cat, dog, ruler, bird",
+   [
+    "ruler",
+    "cat",
+    "dog",
+    "bird"
+   ],
+   "cat, dog, bird là con vật; ruler (cái thước) là đồ dùng học tập."
+  ],
+  [
+   "Chọn từ KHÁC LOẠI: red, blue, apple, green",
+   [
+    "apple",
+    "red",
+    "blue",
+    "green"
+   ],
+   "red, blue, green là màu sắc; apple (quả táo) là hoa quả."
+  ],
+  [
+   "Chọn từ KHÁC LOẠI: mother, father, sister, teacher",
+   [
+    "teacher",
+    "mother",
+    "father",
+    "sister"
+   ],
+   "mother, father, sister là người trong gia đình; teacher là thầy cô giáo."
+  ],
+  [
+   "Sắp xếp thành câu đúng: name / your / is / What ?",
+   [
+    "What is your name?",
+    "Your name is what?",
+    "What your name is?",
+    "Is what your name?"
+   ],
+   "Câu hỏi bắt đầu bằng What, sau đó là is: What is your name?"
+  ],
+  [
+   "Điền từ: I ___ ten years old.",
+   [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "Với I ta dùng am: I am ten years old."
+  ],
+  [
+   "Điền từ: There ___ three books on the table.",
+   [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "Three books là nhiều quyển (số nhiều) nên dùng are."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả?",
+   [
+    "school",
+    "shool",
+    "scool",
+    "schol"
+   ],
+   "Trường học viết là s-c-h-o-o-l: school."
+  ],
+  [
+   "Từ nào viết ĐÚNG chính tả?",
+   [
+    "Wednesday",
+    "Wensday",
+    "Wednesdey",
+    "Wenesday"
+   ],
+   "Thứ Tư viết là W-e-d-n-e-s-d-a-y, chữ d đầu đọc gần như câm."
+  ],
+  [
+   "Câu trả lời đúng cho 'How old is your brother?' là:",
+   [
+    "He is seven.",
+    "He is fine.",
+    "He is tall.",
+    "It's seven o'clock."
+   ],
+   "How old hỏi tuổi, nên trả lời He is seven (bảy tuổi)."
+  ],
+  [
+   "'Can you swim?' – 'No, I ___.'",
+   [
+    "can't",
+    "can",
+    "don't",
+    "am not"
+   ],
+   "Câu hỏi với can thì trả lời phủ định là No, I can't."
+  ],
+  [
+   "Số 15 trong tiếng Anh là:",
+   [
+    "fifteen",
+    "fifty",
+    "five",
+    "fiveteen"
+   ],
+   "15 là fifteen; 50 mới là fifty."
+  ],
+  [
+   "Số 40 trong tiếng Anh là:",
+   [
+    "forty",
+    "fourty",
+    "fourteen",
+    "four"
+   ],
+   "40 viết là forty, không có chữ u (khác với four)."
+  ],
+  [
+   "Từ trái nghĩa với 'big' là:",
+   [
+    "small",
+    "tall",
+    "long",
+    "old"
+   ],
+   "big (to) trái nghĩa với small (nhỏ)."
+  ],
+  [
+   "Từ trái nghĩa với 'old' khi nói về đồ vật (cũ) là:",
+   [
+    "new",
+    "young",
+    "big",
+    "short"
+   ],
+   "Đồ vật cũ là old, mới là new. Young (trẻ) dùng cho người."
+  ],
+  [
+   "Con mèo ở TRONG hộp: 'The cat is ___ the box.'",
+   [
+    "in",
+    "on",
+    "at",
+    "under"
+   ],
+   "in là ở trong, on là ở trên, under là ở dưới."
+  ],
+  [
+   "Chọn câu đúng:",
+   [
+    "She has a dog.",
+    "She have a dog.",
+    "She haves a dog.",
+    "She has an dog."
+   ],
+   "Với she dùng has; dog bắt đầu bằng phụ âm nên dùng a."
+  ],
+  [
+   "'This is ___ apple.'",
+   [
+    "an",
+    "a",
+    "two",
+    "many"
+   ],
+   "apple bắt đầu bằng nguyên âm a nên dùng an."
+  ],
+  [
+   "'What are these?' – 'They are ___.'",
+   [
+    "pens",
+    "pen",
+    "a pen",
+    "an pen"
+   ],
+   "these và they là số nhiều nên dùng pens."
+  ],
+  [
+   "Ngày sau Friday là:",
+   [
+    "Saturday",
+    "Thursday",
+    "Sunday",
+    "Monday"
+   ],
+   "Friday (thứ Sáu) rồi đến Saturday (thứ Bảy)."
+  ],
+  [
+   "Tháng thứ ba trong năm là:",
+   [
+    "March",
+    "May",
+    "April",
+    "Monday"
+   ],
+   "January, February, March: tháng Ba là March."
+  ]
  ]
 }

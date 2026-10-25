@@ -492,5 +492,57 @@
    ],
    "Tắt bếp sau khi dùng giúp an toàn."
   ]
+ ],
+ "thu-thach": [
+  [
+   "Cơ quan nào lọc máu và tạo thành nước tiểu?",
+   [
+    "Thận",
+    "Tim",
+    "Phổi",
+    "Dạ dày"
+   ],
+   "Hai quả thận lọc chất thải trong máu, tạo thành nước tiểu."
+  ],
+  [
+   "Vì sao không được ngủ trong phòng kín có đốt than?",
+   [
+    "Vì khí độc từ than có thể gây ngộ độc, nguy hiểm tính mạng",
+    "Vì phòng sẽ quá sáng",
+    "Vì than làm bẩn sàn nhà",
+    "Vì không có gió mát"
+   ],
+   "Đốt than trong phòng kín sinh ra khí độc không màu, không mùi, rất nguy hiểm."
+  ],
+  [
+   "Trái Đất tự quay quanh mình nó tạo ra hiện tượng gì?",
+   [
+    "Ngày và đêm",
+    "Các mùa trong năm",
+    "Mưa và nắng",
+    "Gió bão"
+   ],
+   "Nửa được Mặt Trời chiếu sáng là ngày, nửa kia là đêm; Trái Đất quay nên ngày đêm luân phiên."
+  ],
+  [
+   "Con vật nào sau đây là động vật có vú?",
+   [
+    "Cá heo",
+    "Cá mập",
+    "Cá chép",
+    "Chim cánh cụt"
+   ],
+   "Cá heo đẻ con và nuôi con bằng sữa nên là động vật có vú, dù sống dưới nước."
+  ],
+  [
+   "Lá cây có màu xanh là nhờ chất gì?",
+   [
+    "Diệp lục",
+    "Tinh bột",
+    "Nước",
+    "Muối khoáng"
+   ],
+   "Chất diệp lục màu xanh giúp lá hấp thụ ánh sáng để nuôi cây."
+  ]
  ]
 }

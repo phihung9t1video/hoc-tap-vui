@@ -85,6 +85,7 @@ export function Result({
   onWear: (itemId: string) => void;
 }) {
   const [opened, setOpened] = useState(false);
+  const [bonusOpen, setBonusOpen] = useState(false);
   const stars = outcome.score === 10 ? 3 : outcome.score >= 8 ? 2 : outcome.score >= 5 ? 1 : 0;
   const hasChest = !!(outcome.chestItemId || outcome.chestCoins);
 
@@ -117,6 +118,29 @@ export function Result({
         {outcome.tooFast && <div className="banner" style={{ marginTop: 8 }}>⏱️ Con bấm nhanh quá! Đọc kỹ đề rồi mới chọn để nhận đủ thưởng nhé.</div>}
         {outcome.capped && <div className="banner" style={{ marginTop: 8 }}>🌙 Hôm nay con đã nhận đủ số xu tối đa rồi. Mai học tiếp để nhận thêm nhé!</div>}
       </div>
+
+      {outcome.bonus && (
+        <div className="card center stack pop" style={{ alignItems: "center", background: "linear-gradient(135deg, #f3e8ff, #fff7cc)" }}>
+          <h3>⚡ Quà thử thách nâng cao!</h3>
+          {!bonusOpen ? (
+            <>
+              <span className="chest">🎁</span>
+              <button className="btn btn-gold btn-big" onClick={() => setBonusOpen(true)}>
+                Mở quà hiếm!
+              </button>
+            </>
+          ) : outcome.bonus.itemId ? (
+            <NewItem id={outcome.bonus.itemId} profile={profile} onWear={onWear} />
+          ) : (
+            <strong className="pop" style={{ fontSize: 24 }}>
+              Con đã có hết đồ hiếm! Nhận +{outcome.bonus.coins} ⭐
+            </strong>
+          )}
+        </div>
+      )}
+      {outcome.bonus === false && (
+        <div className="banner">⚡ Câu thử thách lần này chưa đúng. Lần sau gặp câu nhấp nháy, con đọc thật kĩ nhé!</div>
+      )}
 
       {hasChest && (
         <div className="card center stack" style={{ alignItems: "center", background: "#fff8e1" }}>

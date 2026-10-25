@@ -60,6 +60,25 @@ export async function builtinQuestions(grade: number, subject: Subject, chapterI
     .map(({ id, raw }) => toQuestion(id, raw));
 }
 
+/** Thỉnh thoảng (khoảng 2 bài thì 1 bài) chèn một câu thử thách nâng cao vào giữa bài */
+export async function withChallenge<T extends Question & { bankKey: string; bonus?: boolean }>(
+  items: T[],
+  grade: number,
+  subject: Subject,
+  seen: Record<string, boolean>,
+  chance = 0.45,
+): Promise<T[]> {
+  if (items.length < 3 || Math.random() > chance) return items;
+  const pool = await builtinQuestions(grade, subject, "thu-thach");
+  if (!pool.length) return items;
+  const fresh = pool.filter((q) => !seen[q.id]);
+  const from = fresh.length ? fresh : pool;
+  const q = from[Math.floor(Math.random() * from.length)];
+  const at = 2 + Math.floor(Math.random() * (items.length - 1));
+  const bonus = { ...q, bankKey: `${grade}|${subject}|thu-thach`, bonus: true } as T;
+  return [...items.slice(0, at), bonus, ...items.slice(at)];
+}
+
 /** Số câu có sẵn theo từng chương (để hiện trên danh sách chương) */
 export async function builtinCounts(grade: number, subject: Subject): Promise<Record<string, number>> {
   const file = await loadFile(grade, subject);

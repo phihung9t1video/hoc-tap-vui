@@ -1790,5 +1790,257 @@
    ],
    "y = 20 : 4 = 5."
   ]
+ ],
+ "thu-thach": [
+  [
+   "Tìm x biết |x − 2| = 5.",
+   [
+    "x = 7 hoặc x = −3",
+    "x = 7",
+    "x = 3 hoặc x = −7",
+    "x = −3"
+   ],
+   "x − 2 = 5 hoặc x − 2 = −5, nên x = 7 hoặc x = −3."
+  ],
+  [
+   "Giá trị của (−2)³ + 3² là:",
+   [
+    "1",
+    "17",
+    "−17",
+    "−1"
+   ],
+   "(−2)³ = −8, 3² = 9, nên −8 + 9 = 1."
+  ],
+  [
+   "Cho x/3 = y/5 và x + y = 32. Giá trị của y là:",
+   [
+    "20",
+    "12",
+    "15",
+    "4"
+   ],
+   "x/3 = y/5 = (x + y)/8 = 32/8 = 4, nên y = 5 · 4 = 20."
+  ],
+  [
+   "Ba góc của một tam giác tỉ lệ với 1 : 2 : 3. Góc lớn nhất bằng:",
+   [
+    "90°",
+    "60°",
+    "120°",
+    "100°"
+   ],
+   "Tổng 180° chia 6 phần, mỗi phần 30°. Góc lớn nhất 3 · 30° = 90°."
+  ],
+  [
+   "Số nào là số vô tỉ?",
+   [
+    "√2",
+    "√9",
+    "0,(3)",
+    "−5/7"
+   ],
+   "√9 = 3, 0,(3) = 1/3, −5/7 đều là số hữu tỉ; √2 là số thập phân vô hạn không tuần hoàn."
+  ],
+  [
+   "So sánh 2³⁰ và 3²⁰.",
+   [
+    "2³⁰ < 3²⁰",
+    "2³⁰ > 3²⁰",
+    "2³⁰ = 3²⁰",
+    "Không so sánh được"
+   ],
+   "2³⁰ = (2³)¹⁰ = 8¹⁰, 3²⁰ = (3²)¹⁰ = 9¹⁰. Vì 8 < 9 nên 2³⁰ < 3²⁰."
+  ],
+  [
+   "Làm tròn số 3,14159 đến hàng phần trăm:",
+   [
+    "3,14",
+    "3,15",
+    "3,1",
+    "3,142"
+   ],
+   "Hàng phần trăm là chữ số 4, chữ số sau nó là 1 < 5 nên giữ nguyên: 3,14."
+  ],
+  [
+   "Tam giác ABC cân tại A có góc A = 40°. Góc B bằng:",
+   [
+    "70°",
+    "40°",
+    "140°",
+    "50°"
+   ],
+   "Góc B = góc C = (180° − 40°) : 2 = 70°."
+  ],
+  [
+   "Đi xe đạp 12 km/h hết 2 giờ. Đi quãng đường đó với vận tốc 16 km/h thì hết bao lâu?",
+   [
+    "1,5 giờ",
+    "2,5 giờ",
+    "1 giờ",
+    "3 giờ"
+   ],
+   "Quãng đường 12 · 2 = 24 km. Thời gian 24 : 16 = 1,5 giờ (vận tốc và thời gian tỉ lệ nghịch)."
+  ],
+  [
+   "Đa thức P(x) = x² − 4x + 3 có các nghiệm là:",
+   [
+    "x = 1 và x = 3",
+    "x = −1 và x = −3",
+    "x = 2",
+    "x = 4 và x = 3"
+   ],
+   "P(1) = 1 − 4 + 3 = 0 và P(3) = 9 − 12 + 3 = 0."
+  ],
+  [
+   "Bậc của đa thức 3x⁴ − 2x² + x⁴ − 4x⁴ + 5x là:",
+   [
+    "2",
+    "4",
+    "1",
+    "5"
+   ],
+   "Thu gọn: 3x⁴ + x⁴ − 4x⁴ = 0, còn lại −2x² + 5x, bậc 2. Phải thu gọn trước khi tìm bậc!"
+  ],
+  [
+   "Giá trị của 2x² − 3x + 1 tại x = −1 là:",
+   [
+    "6",
+    "0",
+    "−4",
+    "2"
+   ],
+   "2 · 1 − 3 · (−1) + 1 = 2 + 3 + 1 = 6."
+  ],
+  [
+   "Tổng ba góc ngoài (mỗi đỉnh lấy một góc) của một tam giác bằng:",
+   [
+    "360°",
+    "180°",
+    "540°",
+    "90°"
+   ],
+   "Mỗi góc ngoài bằng tổng hai góc trong không kề, cộng lại được 2 · 180° = 360°."
+  ],
+  [
+   "Năm số 2, 4, 6, 8, x có trung bình cộng bằng 6. Giá trị của x là:",
+   [
+    "10",
+    "6",
+    "8",
+    "12"
+   ],
+   "Tổng phải là 6 · 5 = 30, nên x = 30 − (2 + 4 + 6 + 8) = 10."
+  ],
+  [
+   "Tìm x biết 2ˣ⁺¹ = 32.",
+   [
+    "x = 4",
+    "x = 5",
+    "x = 16",
+    "x = 3"
+   ],
+   "32 = 2⁵ nên x + 1 = 5, x = 4."
+  ],
+  [
+   "Có tam giác nào có ba cạnh 3 cm, 4 cm, 8 cm không?",
+   [
+    "Không có tam giác nào như vậy",
+    "Có, là tam giác vuông",
+    "Có, là tam giác cân",
+    "Có, là tam giác nhọn"
+   ],
+   "Bất đẳng thức tam giác: 3 + 4 = 7 < 8 nên không dựng được tam giác."
+  ],
+  [
+   "Ba số a, b, c tỉ lệ với 2, 3, 4 và a + b + c = 27. Giá trị của c là:",
+   [
+    "12",
+    "9",
+    "6",
+    "8"
+   ],
+   "a/2 = b/3 = c/4 = 27/9 = 3, nên c = 4 · 3 = 12."
+  ],
+  [
+   "Kết quả của 0,(3) + 0,(6) là:",
+   [
+    "1",
+    "0,9",
+    "0,(36)",
+    "1,(1)"
+   ],
+   "0,(3) = 1/3 và 0,(6) = 2/3, cộng lại bằng 1."
+  ],
+  [
+   "Gieo một con xúc xắc. Xác suất ra mặt có số chấm là số nguyên tố là:",
+   [
+    "1/2",
+    "1/3",
+    "2/3",
+    "1/6"
+   ],
+   "Số nguyên tố trong 1–6 là 2, 3, 5: có 3 trên 6 mặt, xác suất 1/2."
+  ],
+  [
+   "Hộp có 3 bi đỏ, 5 bi xanh, 2 bi vàng. Lấy ngẫu nhiên 1 viên. Xác suất lấy được bi KHÔNG màu xanh là:",
+   [
+    "1/2",
+    "1/5",
+    "3/10",
+    "1/3"
+   ],
+   "Bi không xanh: 3 + 2 = 5 trên tổng 10 viên, xác suất 5/10 = 1/2."
+  ],
+  [
+   "Hai đường thẳng song song bị cắt bởi một đường thẳng. Một góc trong cùng phía bằng 65°, góc trong cùng phía còn lại bằng:",
+   [
+    "115°",
+    "65°",
+    "25°",
+    "180°"
+   ],
+   "Hai góc trong cùng phía bù nhau: 180° − 65° = 115°."
+  ],
+  [
+   "y tỉ lệ nghịch với x; khi x = 4 thì y = 6. Khi x = 3 thì y bằng:",
+   [
+    "8",
+    "4,5",
+    "2",
+    "18"
+   ],
+   "x · y = 4 · 6 = 24, nên y = 24 : 3 = 8."
+  ],
+  [
+   "Biết √x = 7. Giá trị của x là:",
+   [
+    "49",
+    "√7",
+    "14",
+    "7"
+   ],
+   "x = 7² = 49."
+  ],
+  [
+   "Thu gọn (x + 2)(x − 2) được:",
+   [
+    "x² − 4",
+    "x² + 4",
+    "x² − 4x − 4",
+    "x² − 2"
+   ],
+   "x · x − 2x + 2x − 4 = x² − 4."
+  ],
+  [
+   "Sĩ số lớp 7A chia hết cho cả 4 và 9, trong khoảng từ 30 đến 40. Lớp có bao nhiêu học sinh?",
+   [
+    "36",
+    "32",
+    "40",
+    "38"
+   ],
+   "Chia hết cho 4 và 9 là bội của 36. Trong khoảng 30–40 chỉ có 36."
+  ]
  ]
 }

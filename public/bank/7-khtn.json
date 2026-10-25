@@ -676,5 +676,67 @@
    ],
    "Nước có công thức H₂O."
   ]
+ ],
+ "thu-thach": [
+  [
+   "Vận tốc 54 km/h bằng bao nhiêu m/s?",
+   [
+    "15 m/s",
+    "54 m/s",
+    "5,4 m/s",
+    "150 m/s"
+   ],
+   "54 km/h = 54 000 m : 3 600 s = 15 m/s."
+  ],
+  [
+   "Âm thanh KHÔNG truyền được trong môi trường nào?",
+   [
+    "Chân không",
+    "Nước",
+    "Không khí",
+    "Thép"
+   ],
+   "Âm truyền qua rắn, lỏng, khí nhưng không truyền được trong chân không."
+  ],
+  [
+   "Nguyên tử oxygen có 8 proton. Số electron của nguyên tử oxygen là:",
+   [
+    "8",
+    "16",
+    "6",
+    "2"
+   ],
+   "Nguyên tử trung hòa điện: số electron bằng số proton = 8."
+  ],
+  [
+   "Khi quang hợp, cây hấp thụ khí nào?",
+   [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen"
+   ],
+   "Cây lấy khí carbon dioxide và nước, nhờ ánh sáng tạo chất hữu cơ và thải oxygen."
+  ],
+  [
+   "Góc tới bằng 30° thì góc phản xạ bằng:",
+   [
+    "30°",
+    "60°",
+    "90°",
+    "120°"
+   ],
+   "Định luật phản xạ ánh sáng: góc phản xạ bằng góc tới."
+  ],
+  [
+   "Phân tử nước H₂O gồm:",
+   [
+    "2 nguyên tử H và 1 nguyên tử O",
+    "1 nguyên tử H và 2 nguyên tử O",
+    "2 nguyên tử H và 2 nguyên tử O",
+    "1 nguyên tử H và 1 nguyên tử O"
+   ],
+   "Chỉ số 2 sau H cho biết có 2 nguyên tử H; O không có chỉ số là 1 nguyên tử."
+  ]
  ]
 }

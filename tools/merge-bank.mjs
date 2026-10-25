@@ -9,6 +9,7 @@ for (const f of process.argv.slice(2)) {
     const p = `public/bank/${file}.json`;
     const d = JSON.parse(readFileSync(p, "utf8"));
     for (const [c, qs] of Object.entries(chapters)) {
+      if (!d[c] && c === "thu-thach") d[c] = [];
       if (!d[c]) throw new Error(`${file} không có chương ${c}`);
       const seen = new Set(d[c].map((q) => q[0]));
       const fresh = qs.filter((q) => !seen.has(q[0]));
