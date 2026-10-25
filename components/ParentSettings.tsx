@@ -24,7 +24,6 @@ export function ParentSettings({
   const [text, setText] = useState("");
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState<{ ok: boolean; text: string } | null>(null);
-  const [cap, setCap] = useState(settings.dailyCap);
   const keys = settings.geminiKeys ?? [];
 
   async function saveKeys() {
@@ -94,17 +93,6 @@ export function ParentSettings({
         </div>
       </div>
 
-      {!firstRun && (
-        <div className="card stack">
-          <strong>⭐ Giới hạn xu mỗi ngày</strong>
-          <div className="row">
-            <input className="input" type="number" min={50} max={5000} step={50} value={cap} onChange={(e) => setCap(Number(e.target.value))} style={{ maxWidth: 140 }} />
-            <button className="btn" onClick={() => onSave({ ...settings, dailyCap: Math.max(50, cap || 400) })}>
-              Lưu
-            </button>
-          </div>
-        </div>
-      )}
 
       {!firstRun && (
         <div className="card stack">

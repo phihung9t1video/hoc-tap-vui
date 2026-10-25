@@ -96,11 +96,10 @@ export function applyQuiz(
     if (STREAK_BONUS[streak]) lines.push({ label: `Chuỗi ${streak} ngày học liên tục 🔥`, coins: STREAK_BONUS[streak] });
   }
 
-  // Giới hạn xu mỗi ngày
+  // Không giới hạn xu mỗi ngày: học bao nhiêu nhận bấy nhiêu (vẫn ghi lại số xu kiếm trong ngày)
   const earnedToday = p.earnedDay === today ? p.earnedToday : 0;
   const sum = lines.reduce((s, l) => s + l.coins, 0);
-  const allowed = Math.max(0, settings.dailyCap - earnedToday);
-  const coins = Math.min(sum, allowed);
+  const coins = sum;
 
   const wrong = { ...p.wrong };
   const seen = { ...p.seen };

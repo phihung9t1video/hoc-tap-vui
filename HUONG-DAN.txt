@@ -29,7 +29,7 @@ Lần đầu mở app:
 - KHÔNG bật thanh toán (billing) cho dự án Google chứa khóa -> luôn miễn phí.
 - Sau đó cho con tạo tên, chọn lớp, chọn nhân vật và phối đồ.
 
-Đổi khóa, giới hạn xu mỗi ngày: màn hình chọn người chơi -> "Cài đặt (bố mẹ)".
+Đổi khóa Gemini: màn hình chọn người chơi -> "Cài đặt (bố mẹ)". Học bao nhiêu bài cũng được cộng xu (không giới hạn mỗi ngày).
 
 
 3. TỰ ĐỘNG CẬP NHẬT
