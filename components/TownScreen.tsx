@@ -35,6 +35,11 @@ export function TownScreen({
   const [cloud, setCloud] = useState<TownState | null>(() => cachedTown(code));
   const [view, setView] = useState<View>({ kind: "map" });
   const [sel, setSel] = useState<number | null>(null);
+  // Chọn mảnh đất: cuộn tới bảng mua đất, xây nhà (trên điện thoại bảng nằm dưới bản đồ)
+  const selCard = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (sel !== null) setTimeout(() => selCard.current?.scrollIntoView({ behavior: "smooth", block: "center" }), 50);
+  }, [sel]);
   /** Ra khỏi shop, nhà: đứng lại trước cửa chỗ đó */
   const [backAt, setBackAt] = useState<number | undefined>();
   const [msg, setMsg] = useState<string | null>(null);
@@ -286,7 +291,7 @@ export function TownScreen({
       {msg && <div className="banner pop">{msg}</div>}
 
       {sel !== null && selPlot && (
-        <div className="card stack pop">
+        <div className="card stack pop" ref={selCard}>
           <div className="row between">
             <strong>
               Mảnh đất số {sel + 1}

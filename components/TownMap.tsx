@@ -209,7 +209,7 @@ export function TownMap({
   const viewRef = useRef(view);
   viewRef.current = view;
   const ptrs = useRef(new Map<number, { x: number; y: number }>());
-  const gesture = useRef<{ moved: boolean; target: EventTarget | null; dist?: number; s0?: number; anchor?: { x: number; y: number } }>({
+  const gesture = useRef<{ moved: boolean; target: EventTarget | null; start?: { x: number; y: number }; dist?: number; s0?: number; anchor?: { x: number; y: number } }>({
     moved: false,
     target: null,
   });
@@ -330,7 +330,8 @@ export function TownMap({
   function onDown(e: RPointerEvent<SVGSVGElement>) {
     (e.currentTarget as Element).setPointerCapture(e.pointerId);
     ptrs.current.set(e.pointerId, toSvg(e));
-    if (ptrs.current.size === 1) gesture.current = { moved: false, target: e.target };
+    // Ghi lại chỗ đặt ngón tay (theo pixel màn hình) để phân biệt chạm với kéo
+    if (ptrs.current.size === 1) gesture.current = { moved: false, target: e.target, start: { x: e.clientX, y: e.clientY } };
     if (ptrs.current.size === 2) {
       const [a, b] = [...ptrs.current.values()];
       const v = viewRef.current;
@@ -348,7 +349,8 @@ export function TownMap({
     if (ptrs.current.size === 1) {
       const dx = cur.x - prev.x;
       const dy = cur.y - prev.y;
-      if (!g.moved && Math.hypot(dx, dy) < 2) return;
+      // Ngón tay luôn rung nhẹ: chỉ coi là kéo bản đồ khi đi xa hơn 10 pixel kể từ chỗ đặt tay
+      if (!g.moved && g.start && Math.hypot(e.clientX - g.start.x, e.clientY - g.start.y) < 10) return;
       g.moved = true;
       setView((v) => clampView({ ...v, x: v.x - dx / v.s, y: v.y - dy / v.s }));
     } else if (ptrs.current.size === 2 && g.dist && g.s0 && g.anchor) {
