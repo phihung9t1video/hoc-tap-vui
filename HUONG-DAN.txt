@@ -132,3 +132,23 @@ Cách chơi:
   Hạng 1: 500 xu + đồ Sử thi/Huyền thoại · Hạng 2: 300 xu + đồ hiếm
   · Hạng 3: 150 xu. Quà tự nhận khi con vào Khu phố (cần có mạng).
 
+
+10. CÀI TRÊN IPHONE, IPAD (BẢN WEB, MIỄN PHÍ)
+---------------------------------------------------------------------
+Địa chỉ: https://phihung9t1video.github.io/hoc-tap-vui/
+
+1. Trên iPhone/iPad, mở địa chỉ trên bằng SAFARI (không dùng Chrome).
+2. Bấm nút Chia sẻ (ô vuông có mũi tên lên) -> "Thêm vào MH chính"
+   (Add to Home Screen) -> Thêm.
+3. Từ nay mở app bằng biểu tượng ngôi sao cười ngoài màn hình chính:
+   app mở toàn màn hình như app thật.
+4. Lần đầu: bố mẹ dán khóa Gemini như trên điện thoại Android.
+
+Lưu ý:
+- Luôn mở từ biểu tượng ngoài màn hình chính (dữ liệu của con lưu ở đó).
+  Mở trong tab Safari thường là một chỗ lưu khác, và iOS có thể tự xóa
+  dữ liệu của trang web lâu ngày không dùng.
+- Dữ liệu (xu, đồ, nhà) lưu riêng trên từng máy, không chuyển sang máy khác.
+- iPhone/iPad ở chung khu phố với các máy Android.
+- Bản web tự cập nhật khi bố mẹ chạy 4-DUYET-PHAT-HANH.bat (cùng lúc với
+  máy Android). Muốn đẩy bản web ngay: chạy tools\publish-web.ps1.

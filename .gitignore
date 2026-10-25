@@ -10,3 +10,4 @@ android-keys/
 *.keystore
 .next-dev
 dist
+.next-web

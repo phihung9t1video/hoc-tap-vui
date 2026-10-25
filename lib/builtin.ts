@@ -17,7 +17,7 @@ function loadFile(grade: number, subject: Subject): Promise<RawFile> {
   if (!cache.has(key)) {
     cache.set(
       key,
-      fetch(`/bank/${key}.json`)
+      fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/bank/${key}.json`)
         .then((r) => (r.ok ? (r.json() as Promise<RawFile>) : {}))
         .catch(() => ({})),
     );
