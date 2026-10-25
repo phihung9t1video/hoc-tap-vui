@@ -200,3 +200,34 @@ export const VIET = {
     "tong-hop": [pos4, whatPos, subject4, adverbial, personify, proverb, spelling, ...punct4, ...reading(V4.DOC_HIEU_4)],
   },
 };
+
+// ---------- Lớp 3 ----------
+function compareWord(r) {
+  const [s, w] = r.pick(V4.SO_SANH_3);
+  return makeQ(r, `Từ so sánh trong câu "${s}" là:`, w, ["như", "là", "tựa", "hơn", "giống như", "và", "rất"].filter((x) => x !== w), `"${w}" dùng để so sánh hai sự vật.`);
+}
+function comparedThing(r) {
+  const [s, , a, b] = r.pick(V4.SO_SANH_3);
+  return makeQ(r, `Trong câu "${s}", ${a.toLowerCase()} được so sánh với:`, b, V4.SO_SANH_3.map((x) => x[3]).filter((x) => x !== b), `${a} được so sánh với ${b}.`);
+}
+function hasCompare(r) {
+  return makeQ(r, "Câu nào có hình ảnh so sánh?", r.pick(V4.SO_SANH_3)[0], V4.CAU_THUONG, "Câu có hai sự vật được so sánh với nhau bằng từ so sánh.");
+}
+function sentenceKind(r) {
+  const [s, k] = r.pick(V4.KIEU_CAU);
+  return makeQ(r, `Câu "${s}" thuộc kiểu câu nào?`, k, ["Câu kể", "Câu hỏi", "Câu cảm", "Câu khiến"].filter((x) => x !== k), k === "Câu hỏi" ? "Câu dùng để hỏi, cuối câu có dấu chấm hỏi." : k === "Câu cảm" ? "Câu bộc lộ cảm xúc, thường có từ ôi, chà, quá..." : k === "Câu khiến" ? "Câu yêu cầu, đề nghị, thường có hãy, đừng, nhé..." : "Câu kể, tả hoặc giới thiệu sự việc.");
+}
+function findKind(r) {
+  const k = r.pick(["Câu kể", "Câu hỏi", "Câu cảm", "Câu khiến"]);
+  return makeQ(r, `Câu nào là ${k.toLowerCase()}?`, r.pick(V4.KIEU_CAU.filter((x) => x[1] === k))[0], V4.KIEU_CAU.filter((x) => x[1] !== k).map((x) => x[0]), `Đây là ${k.toLowerCase()}.`);
+}
+
+VIET["3-tiengviet"] = {
+  c1: [pickType, whatType],
+  c2: [compareWord, comparedThing, hasCompare, figureOf],
+  c3: [sentenceKind, findKind, sentType, whoPart],
+  c4: [endMark, comma, ...punct4.slice(2, 6)],
+  c5: [synonym, antonym, pairKind],
+  c6: [spelling, spellingWrong],
+  c7: [...reading(DOC_HIEU_2), ...reading(V4.DOC_HIEU_4)],
+};

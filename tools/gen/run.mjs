@@ -4,10 +4,12 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { fill, rng } from "./common.mjs";
 import { TOAN2 } from "./toan2.mjs";
 import { TOAN4 } from "./toan4.mjs";
+import { TOAN3 } from "./toan3.mjs";
+import { TOAN7 } from "./toan7.mjs";
 import { ENGLISH } from "./english.mjs";
 import { VIET } from "./viet.mjs";
 
-const SETS = { "2-toan": TOAN2, "4-toan": TOAN4, ...ENGLISH, ...VIET };
+const SETS = { "2-toan": TOAN2, "4-toan": TOAN4, "3-toan": TOAN3, "7-toan": TOAN7, ...ENGLISH, ...VIET };
 const [key, want, out] = process.argv.slice(2);
 const gens = SETS[key];
 if (!gens) throw new Error(`Chưa có bộ sinh cho ${key}`);

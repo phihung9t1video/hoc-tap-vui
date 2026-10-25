@@ -1,6 +1,9 @@
 // Sinh câu Tiếng Anh từ danh sách từ vựng, mẫu câu (english-data.mjs).
 import { makeQ } from "./common.mjs";
-import { EN } from "./english-data.mjs";
+import { EN as EN1 } from "./english-data.mjs";
+import { EN2 } from "./english-data2.mjs";
+
+const EN = { ...EN1, ...EN2 };
 
 /** Viết sai chính tả một từ (đổi chỗ, bỏ, gấp đôi, thay nguyên âm) */
 function misspell(r, w) {
@@ -28,7 +31,7 @@ function chapterGens(words, sentences) {
     });
     gens.push((r) => {
       const [en, vi] = r.pick(words);
-      return makeQ(r, `"${vi[0].toUpperCase() + vi.slice(1)}" trong tiếng Anh là:`, en, words.filter((w) => w[0] !== en).map((w) => w[0]), `${vi} = ${en}.`);
+      return makeQ(r, `"${vi[0].toUpperCase() + vi.slice(1)}" trong tiếng Anh là:`, en, words.filter((w) => w[0] !== en && w[1] !== vi).map((w) => w[0]), `${vi} = ${en}.`);
     });
     gens.push((r) => {
       const single = words.filter(([en]) => /^[a-z]{4,}$/i.test(en));

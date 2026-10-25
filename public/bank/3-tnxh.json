@@ -59,6 +59,186 @@
     "Đổ nước thải ra sân"
    ],
    "Bỏ rác đúng nơi quy định giữ môi trường sạch sẽ."
+  ],
+  [
+   "Họ nội là những người họ hàng:",
+   [
+    "Bên bố",
+    "Bên mẹ",
+    "Hàng xóm",
+    "Bạn của bố"
+   ],
+   "Họ nội là họ hàng bên bố."
+  ],
+  [
+   "Họ ngoại là những người họ hàng:",
+   [
+    "Bên mẹ",
+    "Bên bố",
+    "Bạn học",
+    "Thầy cô"
+   ],
+   "Họ ngoại là họ hàng bên mẹ."
+  ],
+  [
+   "Bố của bố em, em gọi là:",
+   [
+    "Ông nội",
+    "Ông ngoại",
+    "Bác",
+    "Chú"
+   ],
+   "Bố của bố là ông nội."
+  ],
+  [
+   "Mẹ của mẹ em, em gọi là:",
+   [
+    "Bà ngoại",
+    "Bà nội",
+    "Cô",
+    "Dì"
+   ],
+   "Mẹ của mẹ là bà ngoại."
+  ],
+  [
+   "Em gái của mẹ, em gọi là:",
+   [
+    "Dì",
+    "Cô",
+    "Bác",
+    "Thím"
+   ],
+   "Em gái của mẹ là dì (miền Bắc)."
+  ],
+  [
+   "Em trai của bố, em gọi là:",
+   [
+    "Chú",
+    "Cậu",
+    "Dượng",
+    "Bác"
+   ],
+   "Em trai của bố là chú."
+  ],
+  [
+   "Anh trai của mẹ, em gọi là:",
+   [
+    "Bác (hoặc cậu tùy vùng)",
+    "Chú",
+    "Dượng",
+    "Ông"
+   ],
+   "Anh của mẹ thường gọi là bác."
+  ],
+  [
+   "Sơ đồ họ hàng giúp em:",
+   [
+    "Biết mối quan hệ giữa những người trong gia đình, họ hàng",
+    "Vẽ tranh đẹp",
+    "Học toán",
+    "Biết đường đi"
+   ],
+   "Sơ đồ thể hiện quan hệ họ hàng."
+  ],
+  [
+   "Ngày giỗ, ngày Tết, gia đình thường:",
+   [
+    "Sum họp, tưởng nhớ tổ tiên",
+    "Đi làm như ngày thường",
+    "Không gặp nhau",
+    "Cãi nhau"
+   ],
+   "Dịp sum họp gia đình."
+  ],
+  [
+   "Nguyên nhân gây cháy nhà có thể do:",
+   [
+    "Để đồ dễ cháy gần bếp, chập điện",
+    "Trồng cây",
+    "Mở cửa sổ",
+    "Uống nước"
+   ],
+   "Phòng cháy trong gia đình."
+  ],
+  [
+   "Khi phát hiện cháy, em cần:",
+   [
+    "Thoát ra ngoài, kêu cứu và gọi 114",
+    "Trốn vào gầm giường",
+    "Mở tủ lấy đồ chơi",
+    "Đứng xem"
+   ],
+   "Thoát nhanh, báo cứu hỏa."
+  ],
+  [
+   "Khi thoát khỏi đám cháy có nhiều khói, em nên:",
+   [
+    "Che mũi miệng bằng khăn ướt, cúi thấp người",
+    "Đứng thẳng chạy",
+    "Hít thở mạnh",
+    "Đi thang máy"
+   ],
+   "Khói bốc lên cao, cúi thấp để tránh ngạt."
+  ],
+  [
+   "Diêm, bật lửa trong nhà nên để:",
+   [
+    "Xa tầm tay trẻ em",
+    "Trên bàn học",
+    "Trong cặp sách",
+    "Gần bếp ga"
+   ],
+   "Phòng cháy, bỏng."
+  ],
+  [
+   "Không nên làm gì để phòng cháy?",
+   [
+    "Nghịch lửa, đốt giấy trong nhà",
+    "Tắt bếp sau khi nấu",
+    "Rút phích cắm khi không dùng",
+    "Để bình chữa cháy nơi dễ thấy"
+   ],
+   "Không nghịch lửa."
+  ],
+  [
+   "Vệ sinh xung quanh nhà giúp:",
+   [
+    "Phòng bệnh do muỗi, ruồi gây ra",
+    "Muỗi nhiều hơn",
+    "Nhà bẩn hơn",
+    "Không có tác dụng"
+   ],
+   "Môi trường sạch, ít bệnh."
+  ],
+  [
+   "Để phòng sốt xuất huyết, cần:",
+   [
+    "Diệt bọ gậy, ngủ màn, đậy kín dụng cụ chứa nước",
+    "Để nước đọng",
+    "Không ngủ màn",
+    "Vứt vỏ chai khắp nơi"
+   ],
+   "Muỗi vằn đẻ trứng ở nước đọng."
+  ],
+  [
+   "Hoạt động kết nối với xã hội của gia đình là:",
+   [
+    "Tham gia lễ hội, giúp đỡ hàng xóm",
+    "Ở mãi trong nhà",
+    "Không chào hỏi ai",
+    "Tranh cãi với hàng xóm"
+   ],
+   "Gia đình gắn bó với cộng đồng."
+  ],
+  [
+   "Khi đến thăm họ hàng, em nên:",
+   [
+    "Chào hỏi lễ phép",
+    "Chạy nhảy lung tung",
+    "Lục lọi đồ đạc",
+    "Im lặng không chào"
+   ],
+   "Lễ phép với người lớn."
   ]
  ],
  "c2": [
@@ -121,6 +301,166 @@
     "Bỏ rác dưới ngăn bàn"
    ],
    "Giữ gìn tài sản chung thể hiện tình yêu trường lớp."
+  ],
+  [
+   "Hoạt động kết nối với xã hội của trường học là:",
+   [
+    "Thăm hỏi gia đình thương binh, trồng cây, quyên góp",
+    "Chỉ học trong lớp",
+    "Nghỉ học",
+    "Ngủ trưa"
+   ],
+   "Trường tham gia hoạt động xã hội."
+  ],
+  [
+   "Quyên góp sách vở cũ cho bạn vùng khó khăn thể hiện:",
+   [
+    "Tinh thần chia sẻ, giúp đỡ",
+    "Sự ích kỉ",
+    "Sự lãng phí",
+    "Sự lười biếng"
+   ],
+   "Chia sẻ với bạn khó khăn."
+  ],
+  [
+   "Đi tham quan cùng trường, em cần:",
+   [
+    "Đi theo hàng, nghe lời thầy cô",
+    "Tự ý tách đoàn",
+    "Chạy lung tung",
+    "Bỏ về trước"
+   ],
+   "An toàn khi tham quan."
+  ],
+  [
+   "Giữ an toàn khi vui chơi ở trường, em không nên:",
+   [
+    "Chơi trò xô đẩy, leo trèo",
+    "Chơi trò nhẹ nhàng",
+    "Đi lại từ tốn",
+    "Giúp đỡ bạn"
+   ],
+   "Tránh tai nạn."
+  ],
+  [
+   "Giữ vệ sinh trường học, em cần:",
+   [
+    "Bỏ rác đúng nơi, không vẽ bậy",
+    "Vứt rác ra sân",
+    "Khạc nhổ bừa bãi",
+    "Bẻ cành cây"
+   ],
+   "Trường sạch đẹp."
+  ],
+  [
+   "Ngày Nhà giáo Việt Nam là:",
+   [
+    "20 tháng 11",
+    "1 tháng 6",
+    "2 tháng 9",
+    "8 tháng 3"
+   ],
+   "Ngày 20/11."
+  ],
+  [
+   "Đội Thiếu niên Tiền phong Hồ Chí Minh thành lập ngày:",
+   [
+    "15 tháng 5 năm 1941",
+    "26 tháng 3 năm 1931",
+    "19 tháng 5 năm 1890",
+    "2 tháng 9 năm 1945"
+   ],
+   "Ngày 15/5/1941."
+  ],
+  [
+   "Nhà trường tổ chức Tết trồng cây nhằm:",
+   [
+    "Phủ xanh trường học, bảo vệ môi trường",
+    "Lấy gỗ",
+    "Bán cây",
+    "Làm sân chơi"
+   ],
+   "Hưởng ứng Tết trồng cây."
+  ],
+  [
+   "Khi có người lạ vào trường hỏi đón em, em cần:",
+   [
+    "Không đi theo, báo thầy cô",
+    "Đi theo ngay",
+    "Cho số điện thoại nhà",
+    "Nhận quà"
+   ],
+   "An toàn cho bản thân."
+  ],
+  [
+   "Trong giờ học, em muốn phát biểu thì:",
+   [
+    "Giơ tay xin phép",
+    "Nói to ngay",
+    "Đứng dậy chạy lên bảng",
+    "Gõ bàn"
+   ],
+   "Nề nếp học tập."
+  ],
+  [
+   "Ở phòng máy tính của trường, em cần:",
+   [
+    "Sử dụng đúng hướng dẫn, giữ gìn máy",
+    "Ăn uống bên máy",
+    "Tháo chuột mang về",
+    "Gõ phím thật mạnh"
+   ],
+   "Bảo vệ tài sản chung."
+  ],
+  [
+   "Tham gia văn nghệ, thể thao ở trường giúp em:",
+   [
+    "Khỏe mạnh, mạnh dạn, đoàn kết",
+    "Học kém đi",
+    "Mệt mỏi",
+    "Không có tác dụng"
+   ],
+   "Hoạt động có ích."
+  ],
+  [
+   "Khi bạn bị ốm nghỉ học, em có thể:",
+   [
+    "Hỏi thăm, giúp bạn chép bài",
+    "Trêu bạn",
+    "Mặc kệ",
+    "Nói xấu bạn"
+   ],
+   "Quan tâm bạn bè."
+  ],
+  [
+   "Đi cầu thang ở trường cần:",
+   [
+    "Đi từ từ, bám tay vịn, không xô đẩy",
+    "Chạy hai bậc một",
+    "Trượt tay vịn",
+    "Đùa nghịch"
+   ],
+   "An toàn cầu thang."
+  ],
+  [
+   "Ăn bán trú ở trường, em cần:",
+   [
+    "Ăn hết suất, không làm rơi vãi",
+    "Đổ thức ăn đi",
+    "Ném thức ăn",
+    "Nói to khi ăn"
+   ],
+   "Văn minh khi ăn."
+  ],
+  [
+   "Hoạt động 'Kế hoạch nhỏ' thu gom giấy vụn nhằm:",
+   [
+    "Tái chế, gây quỹ giúp bạn khó khăn",
+    "Đốt giấy",
+    "Vứt giấy ra sông",
+    "Làm bẩn trường"
+   ],
+   "Hoạt động ý nghĩa."
   ]
  ],
  "c3": [
@@ -183,6 +523,176 @@
     "Dùng giấy một mặt rồi bỏ"
    ],
    "Không lãng phí là biết trân trọng sức lao động."
+  ],
+  [
+   "Hoạt động sản xuất nông nghiệp gồm:",
+   [
+    "Trồng trọt, chăn nuôi, đánh bắt thủy sản",
+    "Dệt may, chế tạo máy",
+    "Bán hàng",
+    "Dạy học"
+   ],
+   "Nông nghiệp gắn với cây trồng, vật nuôi."
+  ],
+  [
+   "Hoạt động sản xuất công nghiệp gồm:",
+   [
+    "Khai thác mỏ, sản xuất hàng hóa trong nhà máy",
+    "Trồng lúa",
+    "Nuôi gà",
+    "Đánh cá"
+   ],
+   "Công nghiệp sản xuất trong nhà máy."
+  ],
+  [
+   "Hoạt động thủ công là:",
+   [
+    "Làm ra sản phẩm chủ yếu bằng tay (đan lát, làm gốm)",
+    "Sản xuất bằng máy móc hiện đại",
+    "Chỉ trồng rau",
+    "Chỉ bán hàng"
+   ],
+   "Nghề thủ công truyền thống."
+  ],
+  [
+   "Sản phẩm nào là sản phẩm nông nghiệp?",
+   [
+    "Lúa gạo, rau, trứng",
+    "Xe máy",
+    "Quần áo may sẵn",
+    "Ti vi"
+   ],
+   "Lúa, rau, trứng từ trồng trọt, chăn nuôi."
+  ],
+  [
+   "Sản phẩm nào là sản phẩm công nghiệp?",
+   [
+    "Xi măng, ô tô, điện thoại",
+    "Rau muống",
+    "Quả cam",
+    "Con gà"
+   ],
+   "Sản xuất trong nhà máy."
+  ],
+  [
+   "Làng nghề gốm Bát Tràng làm ra sản phẩm:",
+   [
+    "Đồ gốm (bát, đĩa, bình)",
+    "Lụa",
+    "Nón lá",
+    "Tranh"
+   ],
+   "Gốm sứ Bát Tràng."
+  ],
+  [
+   "Nón lá Huế là sản phẩm của nghề:",
+   [
+    "Thủ công",
+    "Khai thác mỏ",
+    "Chăn nuôi",
+    "Đánh bắt cá"
+   ],
+   "Nón được làm bằng tay."
+  ],
+  [
+   "Sản xuất có thể gây ô nhiễm môi trường khi:",
+   [
+    "Xả nước thải, khói bụi chưa xử lí",
+    "Trồng cây xanh",
+    "Xử lí rác đúng cách",
+    "Tiết kiệm điện"
+   ],
+   "Cần xử lí chất thải."
+  ],
+  [
+   "Em có thể sử dụng tiết kiệm sản phẩm bằng cách:",
+   [
+    "Dùng đồ dùng cẩn thận, không lãng phí",
+    "Vứt bỏ đồ còn dùng được",
+    "Đổ thức ăn thừa",
+    "Mở vòi nước chảy mãi"
+   ],
+   "Tiết kiệm, quý trọng sức lao động."
+  ],
+  [
+   "Người làm ra lúa gạo là:",
+   [
+    "Nông dân",
+    "Công nhân",
+    "Bác sĩ",
+    "Giáo viên"
+   ],
+   "Nông dân trồng lúa."
+  ],
+  [
+   "Người làm việc trong nhà máy dệt là:",
+   [
+    "Công nhân",
+    "Nông dân",
+    "Ngư dân",
+    "Thợ mỏ"
+   ],
+   "Công nhân dệt may."
+  ],
+  [
+   "Ngư dân làm công việc:",
+   [
+    "Đánh bắt cá, tôm trên biển, sông",
+    "Trồng chè",
+    "Dệt vải",
+    "Lái máy bay"
+   ],
+   "Đánh bắt thủy sản."
+  ],
+  [
+   "Khi đi qua khu vực đang thi công, em cần:",
+   [
+    "Tránh xa, đi đường khác an toàn",
+    "Vào xem gần",
+    "Leo lên máy móc",
+    "Nhặt vật liệu chơi"
+   ],
+   "Tránh tai nạn."
+  ],
+  [
+   "Nước thải nhà máy chưa xử lí đổ ra sông làm:",
+   [
+    "Ô nhiễm nước, cá chết",
+    "Nước sạch hơn",
+    "Cá nhiều hơn",
+    "Không ảnh hưởng"
+   ],
+   "Ô nhiễm nguồn nước."
+  ],
+  [
+   "Sản phẩm thủ công truyền thống ở địa phương cần được:",
+   [
+    "Giữ gìn, quảng bá",
+    "Bỏ quên",
+    "Phá bỏ",
+    "Không cần biết"
+   ],
+   "Gìn giữ làng nghề."
+  ],
+  [
+   "Để có bát cơm ăn, cần công sức của:",
+   [
+    "Người nông dân và nhiều người khác",
+    "Chỉ người bán hàng",
+    "Không cần ai",
+    "Chỉ máy móc"
+   ],
+   "Biết ơn người lao động."
+  ],
+  [
+   "Ở chợ, em mua được sản phẩm của:",
+   [
+    "Cả nông nghiệp, công nghiệp và thủ công",
+    "Chỉ công nghiệp",
+    "Chỉ nông nghiệp",
+    "Không có gì"
+   ],
+   "Chợ bán nhiều loại hàng hóa."
   ]
  ],
  "c4": [
@@ -265,6 +775,226 @@
     "Quang hợp chủ yếu"
    ],
    "Hoa là cơ quan sinh sản, tạo quả và hạt."
+  ],
+  [
+   "Bộ phận nào của cây có nhiệm vụ hút nước, chất khoáng?",
+   [
+    "Rễ",
+    "Hoa",
+    "Quả",
+    "Lá"
+   ],
+   "Rễ hút nước từ đất."
+  ],
+  [
+   "Thân cây có nhiệm vụ:",
+   [
+    "Vận chuyển nước, chất dinh dưỡng và nâng đỡ cây",
+    "Hút nước từ đất",
+    "Tạo hạt",
+    "Thụ phấn"
+   ],
+   "Thân vận chuyển, nâng đỡ."
+  ],
+  [
+   "Lá cây có chức năng:",
+   [
+    "Quang hợp, hô hấp, thoát hơi nước",
+    "Hút nước từ đất",
+    "Giữ cây đứng vững",
+    "Tạo quả"
+   ],
+   "Lá là nơi quang hợp."
+  ],
+  [
+   "Hoa có chức năng:",
+   [
+    "Sinh sản (tạo quả và hạt)",
+    "Hút nước",
+    "Quang hợp chính",
+    "Nâng đỡ cây"
+   ],
+   "Hoa là cơ quan sinh sản."
+  ],
+  [
+   "Quả có chức năng:",
+   [
+    "Chứa và bảo vệ hạt",
+    "Hút nước",
+    "Quang hợp",
+    "Thoát hơi nước"
+   ],
+   "Quả bảo vệ hạt."
+  ],
+  [
+   "Cây nào có rễ cọc?",
+   [
+    "Cây bưởi, cây cam",
+    "Cây lúa",
+    "Cây ngô",
+    "Cây hành"
+   ],
+   "Rễ cọc có một rễ chính to."
+  ],
+  [
+   "Cây nào có rễ chùm?",
+   [
+    "Cây lúa, cây hành",
+    "Cây bưởi",
+    "Cây nhãn",
+    "Cây xoài"
+   ],
+   "Rễ chùm nhiều rễ bằng nhau."
+  ],
+  [
+   "Cây nào có thân leo?",
+   [
+    "Cây mướp, cây bầu",
+    "Cây bàng",
+    "Cây xoài",
+    "Cây phượng"
+   ],
+   "Thân leo bám vào giàn."
+  ],
+  [
+   "Cây nào có thân bò?",
+   [
+    "Cây khoai lang, cây rau má",
+    "Cây cau",
+    "Cây dừa",
+    "Cây tre"
+   ],
+   "Thân bò lan trên mặt đất."
+  ],
+  [
+   "Củ khoai tây là bộ phận nào của cây?",
+   [
+    "Thân (thân củ)",
+    "Rễ",
+    "Lá",
+    "Quả"
+   ],
+   "Khoai tây là thân củ."
+  ],
+  [
+   "Động vật có xương sống gồm:",
+   [
+    "Cá, ếch, rắn, chim, thú",
+    "Giun, ốc",
+    "Tôm, cua",
+    "Sâu, bướm"
+   ],
+   "Có xương sống trong cơ thể."
+  ],
+  [
+   "Con vật nào KHÔNG có xương sống?",
+   [
+    "Con giun",
+    "Con cá",
+    "Con chim",
+    "Con mèo"
+   ],
+   "Giun không có xương sống."
+  ],
+  [
+   "Chim có đặc điểm chung:",
+   [
+    "Có lông vũ, mỏ, hai cánh, hai chân",
+    "Có vảy, vây",
+    "Có tám chân",
+    "Thở bằng mang"
+   ],
+   "Đặc điểm của chim."
+  ],
+  [
+   "Cá thở bằng:",
+   [
+    "Mang",
+    "Phổi",
+    "Da",
+    "Lỗ thở trên lưng"
+   ],
+   "Cá thở bằng mang."
+  ],
+  [
+   "Thú (động vật có vú) có đặc điểm:",
+   [
+    "Có lông mao, đẻ con, nuôi con bằng sữa",
+    "Có lông vũ, đẻ trứng",
+    "Có vảy, sống dưới nước",
+    "Có tám chân"
+   ],
+   "Đặc điểm của thú."
+  ],
+  [
+   "Côn trùng có mấy chân?",
+   [
+    "6 chân",
+    "4 chân",
+    "8 chân",
+    "10 chân"
+   ],
+   "Côn trùng có 6 chân."
+  ],
+  [
+   "Con nhện có mấy chân?",
+   [
+    "8 chân",
+    "6 chân",
+    "4 chân",
+    "10 chân"
+   ],
+   "Nhện có 8 chân, không phải côn trùng."
+  ],
+  [
+   "Con vật nào là côn trùng có ích?",
+   [
+    "Con ong",
+    "Con muỗi",
+    "Con ruồi",
+    "Con gián"
+   ],
+   "Ong thụ phấn, cho mật."
+  ],
+  [
+   "Con vật nào có hại, truyền bệnh?",
+   [
+    "Con muỗi",
+    "Con ong",
+    "Con tằm",
+    "Con bướm"
+   ],
+   "Muỗi truyền sốt xuất huyết."
+  ],
+  [
+   "Con tôm, con cua có đặc điểm:",
+   [
+    "Có vỏ cứng bao bọc, nhiều chân có đốt",
+    "Có lông vũ",
+    "Có xương sống",
+    "Đẻ con"
+   ],
+   "Giáp xác có vỏ cứng."
+  ],
+  [
+   "Ếch là con vật:",
+   [
+    "Lưỡng cư, sống được trên cạn và dưới nước",
+    "Chỉ sống dưới nước",
+    "Chỉ sống trên cây",
+    "Biết bay"
+   ],
+   "Ếch lưỡng cư."
+  ],
+  [
+   "Rắn thuộc nhóm động vật:",
+   [
+    "Bò sát",
+    "Cá",
+    "Chim",
+    "Thú"
+   ],
+   "Rắn là bò sát."
   ]
  ],
  "c5": [
@@ -347,6 +1077,186 @@
     "Không vận động"
    ],
    "Vận động hợp lí tốt cho tim."
+  ],
+  [
+   "Cơ quan tiêu hóa gồm:",
+   [
+    "Miệng, thực quản, dạ dày, ruột",
+    "Tim, mạch máu",
+    "Phổi, khí quản",
+    "Não, tủy sống"
+   ],
+   "Các bộ phận tiêu hóa thức ăn."
+  ],
+  [
+   "Cơ quan tuần hoàn gồm:",
+   [
+    "Tim và các mạch máu",
+    "Dạ dày và ruột",
+    "Phổi và mũi",
+    "Thận và bóng đái"
+   ],
+   "Tim bơm máu qua mạch."
+  ],
+  [
+   "Cơ quan thần kinh gồm:",
+   [
+    "Não, tủy sống và các dây thần kinh",
+    "Tim và mạch máu",
+    "Phổi",
+    "Dạ dày"
+   ],
+   "Thần kinh điều khiển cơ thể."
+  ],
+  [
+   "Bộ phận điều khiển mọi hoạt động của cơ thể là:",
+   [
+    "Não",
+    "Tim",
+    "Phổi",
+    "Ruột"
+   ],
+   "Não là trung ương thần kinh."
+  ],
+  [
+   "Đếm nhịp tim bằng cách:",
+   [
+    "Đặt tay lên ngực trái hoặc cổ tay",
+    "Đặt tay lên trán",
+    "Nhìn vào mắt",
+    "Sờ bàn chân"
+   ],
+   "Cảm nhận mạch đập."
+  ],
+  [
+   "Khi chạy nhảy nhiều, tim đập:",
+   [
+    "Nhanh hơn",
+    "Chậm hơn",
+    "Ngừng đập",
+    "Không thay đổi"
+   ],
+   "Cơ thể cần nhiều máu hơn."
+  ],
+  [
+   "Để bảo vệ cơ quan thần kinh, em cần:",
+   [
+    "Ngủ đủ giấc, tránh căng thẳng, đội mũ bảo hiểm",
+    "Thức khuya",
+    "Chơi điện tử cả đêm",
+    "Đánh nhau"
+   ],
+   "Bảo vệ não, thần kinh."
+  ],
+  [
+   "Chất có hại cho cơ quan thần kinh:",
+   [
+    "Rượu, bia, thuốc lá",
+    "Sữa",
+    "Rau xanh",
+    "Nước lọc"
+   ],
+   "Chất kích thích hại thần kinh."
+  ],
+  [
+   "Khi bị chảy máu nhẹ ở tay, em nên:",
+   [
+    "Rửa sạch, băng lại và báo người lớn",
+    "Để mặc",
+    "Bôi đất vào",
+    "Liếm vết thương"
+   ],
+   "Sơ cứu đúng cách."
+  ],
+  [
+   "Thức ăn được nghiền nhỏ trong miệng nhờ:",
+   [
+    "Răng",
+    "Lưỡi duy nhất",
+    "Mũi",
+    "Tai"
+   ],
+   "Răng nhai nghiền thức ăn."
+  ],
+  [
+   "Ăn uống điều độ giúp bảo vệ:",
+   [
+    "Cơ quan tiêu hóa",
+    "Tóc",
+    "Móng tay",
+    "Tai"
+   ],
+   "Ăn đúng bữa, đủ chất."
+  ],
+  [
+   "Không nên ăn quá no hoặc để quá đói vì:",
+   [
+    "Hại dạ dày",
+    "Giúp khỏe hơn",
+    "Tốt cho tim",
+    "Không ảnh hưởng"
+   ],
+   "Ăn uống điều độ."
+  ],
+  [
+   "Máu được đưa đi khắp cơ thể nhờ:",
+   [
+    "Tim co bóp",
+    "Phổi co giãn",
+    "Dạ dày",
+    "Não"
+   ],
+   "Tim bơm máu."
+  ],
+  [
+   "Tủy sống nằm trong:",
+   [
+    "Cột sống",
+    "Hộp sọ",
+    "Lồng ngực",
+    "Dạ dày"
+   ],
+   "Tủy sống được cột sống bảo vệ."
+  ],
+  [
+   "Phản xạ chạm tay vào vật nóng rụt tay lại là do:",
+   [
+    "Cơ quan thần kinh điều khiển",
+    "Tim điều khiển",
+    "Dạ dày điều khiển",
+    "Tự nhiên không lí do"
+   ],
+   "Phản xạ thần kinh."
+  ],
+  [
+   "Mang vác nặng, ngồi sai tư thế lâu ngày có thể gây:",
+   [
+    "Cong vẹo cột sống",
+    "Cao hơn",
+    "Mắt sáng hơn",
+    "Tiêu hóa tốt"
+   ],
+   "Bảo vệ cột sống."
+  ],
+  [
+   "Tập thể dục đều đặn giúp:",
+   [
+    "Tim, phổi khỏe mạnh",
+    "Tim yếu đi",
+    "Mệt mỏi",
+    "Béo phì"
+   ],
+   "Vận động tốt cho tuần hoàn, hô hấp."
+  ],
+  [
+   "Thời gian ngủ phù hợp với học sinh lớp 3 khoảng:",
+   [
+    "9 – 10 giờ mỗi đêm",
+    "3 giờ",
+    "5 giờ",
+    "15 giờ"
+   ],
+   "Trẻ cần ngủ đủ."
   ]
  ],
  "c6": [
@@ -429,6 +1339,166 @@
     "Mặt Trời tắt"
    ],
    "Trái Đất tự quay nên có ngày và đêm."
+  ],
+  [
+   "Quả địa cầu là:",
+   [
+    "Mô hình thu nhỏ của Trái Đất",
+    "Một quả bóng đá",
+    "Bản đồ phẳng",
+    "Một hành tinh khác"
+   ],
+   "Địa cầu mô phỏng Trái Đất."
+  ],
+  [
+   "Trên quả địa cầu, màu xanh lam thể hiện:",
+   [
+    "Biển và đại dương",
+    "Núi cao",
+    "Đồng bằng",
+    "Sa mạc"
+   ],
+   "Xanh lam là nước."
+  ],
+  [
+   "Đường xích đạo chia Trái Đất thành:",
+   [
+    "Bán cầu Bắc và bán cầu Nam",
+    "Bán cầu Đông và Tây",
+    "Năm châu",
+    "Bốn đại dương"
+   ],
+   "Xích đạo là đường tròn lớn nhất."
+  ],
+  [
+   "Việt Nam nằm ở đới khí hậu:",
+   [
+    "Nhiệt đới (đới nóng)",
+    "Đới lạnh",
+    "Ôn đới",
+    "Hàn đới"
+   ],
+   "Việt Nam thuộc vùng nhiệt đới."
+  ],
+  [
+   "Trái Đất tự quay quanh trục theo hướng:",
+   [
+    "Từ tây sang đông",
+    "Từ đông sang tây",
+    "Từ bắc xuống nam",
+    "Không quay"
+   ],
+   "Vì thế Mặt Trời mọc ở phía Đông."
+  ],
+  [
+   "Trái Đất quay một vòng quanh mình hết:",
+   [
+    "Một ngày đêm (24 giờ)",
+    "Một năm",
+    "Một tháng",
+    "Một tuần"
+   ],
+   "Tạo ra ngày và đêm."
+  ],
+  [
+   "Trái Đất chuyển động quanh Mặt Trời một vòng hết khoảng:",
+   [
+    "Một năm",
+    "Một ngày",
+    "Một tháng",
+    "Một tuần"
+   ],
+   "Khoảng 365 ngày."
+  ],
+  [
+   "Mặt Trăng chuyển động quanh:",
+   [
+    "Trái Đất",
+    "Mặt Trời trực tiếp",
+    "Sao Hỏa",
+    "Không chuyển động"
+   ],
+   "Mặt Trăng là vệ tinh của Trái Đất."
+  ],
+  [
+   "Hành tinh chúng ta đang sống là:",
+   [
+    "Trái Đất",
+    "Sao Hỏa",
+    "Sao Kim",
+    "Mặt Trăng"
+   ],
+   "Trái Đất."
+  ],
+  [
+   "Bề mặt Trái Đất có các dạng địa hình:",
+   [
+    "Núi, đồi, đồng bằng, cao nguyên, sông, hồ, biển",
+    "Chỉ có núi",
+    "Chỉ có biển",
+    "Chỉ có đồng bằng"
+   ],
+   "Địa hình đa dạng."
+  ],
+  [
+   "Đồi khác núi ở chỗ:",
+   [
+    "Đồi thấp hơn, đỉnh tròn, sườn thoải",
+    "Đồi cao hơn núi",
+    "Đồi có tuyết",
+    "Đồi ở dưới biển"
+   ],
+   "Đồi thấp, thoải."
+  ],
+  [
+   "Phần nước trên bề mặt Trái Đất chiếm:",
+   [
+    "Phần lớn diện tích (khoảng 3/4)",
+    "Rất ít",
+    "Một nửa đúng",
+    "Không có nước"
+   ],
+   "Đại dương chiếm phần lớn."
+  ],
+  [
+   "Khi động đất xảy ra, nếu ở trong nhà em nên:",
+   [
+    "Chui xuống gầm bàn chắc chắn, che đầu",
+    "Chạy ra ban công",
+    "Đi thang máy",
+    "Đứng cạnh cửa kính"
+   ],
+   "Bảo vệ đầu, tránh vật rơi."
+  ],
+  [
+   "Khi đi biển, gặp sóng to, em cần:",
+   [
+    "Lên bờ ngay, nghe theo hướng dẫn",
+    "Bơi ra xa",
+    "Lặn xuống",
+    "Đứng chơi ở mép nước"
+   ],
+   "An toàn khi đi biển."
+  ],
+  [
+   "Ban đêm nhìn thấy Mặt Trăng có hình dạng thay đổi là do:",
+   [
+    "Phần được Mặt Trời chiếu sáng ta nhìn thấy thay đổi",
+    "Mặt Trăng bị vỡ",
+    "Mây che hết",
+    "Mặt Trăng tự đổi hình"
+   ],
+   "Các tuần trăng."
+  ],
+  [
+   "Lục địa lớn nhất thế giới là:",
+   [
+    "Á – Âu",
+    "Nam Cực",
+    "Phi",
+    "Úc"
+   ],
+   "Lục địa Á – Âu rộng nhất."
   ]
  ],
  "tong-hop": [

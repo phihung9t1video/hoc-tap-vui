@@ -94,3 +94,29 @@ export const DOC_HIEU_4 = [
     ["Trạng ngữ trong câu 'Đến trưa, chợ vãn.' chỉ:", "Thời gian", ["Nơi chốn", "Nguyên nhân", "Mục đích"], "Đến trưa trả lời câu hỏi Khi nào?"],
   ] },
 ];
+
+// ---------- Lớp 3: so sánh [câu, từ so sánh, sự vật 1, sự vật 2] ----------
+export const SO_SANH_3 = [
+  ["Trẻ em như búp trên cành.", "như", "Trẻ em", "búp trên cành"],
+  ["Mặt trời đỏ như quả cầu lửa.", "như", "Mặt trời", "quả cầu lửa"],
+  ["Ông trăng tròn như cái đĩa.", "như", "Ông trăng", "cái đĩa"],
+  ["Cô giáo em hiền như mẹ.", "như", "Cô giáo", "mẹ"],
+  ["Tiếng mưa rơi lộp độp tựa tiếng trống.", "tựa", "Tiếng mưa", "tiếng trống"],
+  ["Những ngôi sao lấp lánh giống như những ngọn đèn.", "giống như", "Những ngôi sao", "những ngọn đèn"],
+  ["Mắt bé tròn như hai hạt nhãn.", "như", "Mắt bé", "hai hạt nhãn"],
+  ["Quê hương là chùm khế ngọt.", "là", "Quê hương", "chùm khế ngọt"],
+  ["Cánh diều như con chim bay lượn.", "như", "Cánh diều", "con chim"],
+  ["Lá cờ đỏ thắm như máu.", "như", "Lá cờ", "máu"],
+  ["Bạn Lan cao hơn bạn Hoa.", "hơn", "Bạn Lan", "bạn Hoa"],
+  ["Sân trường rộng như một cánh đồng.", "như", "Sân trường", "một cánh đồng"],
+  ["Hoa mai vàng rực như nắng.", "như", "Hoa mai", "nắng"],
+  ["Tiếng chim hót trong veo như tiếng sáo.", "như", "Tiếng chim hót", "tiếng sáo"],
+];
+
+// ---------- Lớp 3, 4: câu kể, câu hỏi, câu cảm, câu khiến ----------
+export const KIEU_CAU = [
+  ["Bạn có thích đọc truyện không?", "Câu hỏi"], ["Vì sao trời lại mưa?", "Câu hỏi"], ["Ai là lớp trưởng lớp mình?", "Câu hỏi"], ["Khi nào chúng ta được nghỉ hè?", "Câu hỏi"],
+  ["Ôi, cảnh biển đẹp quá!", "Câu cảm"], ["Chà, bạn giỏi thật!", "Câu cảm"], ["Trời ơi, con mèo đáng yêu quá!", "Câu cảm"], ["A, mẹ đã về!", "Câu cảm"],
+  ["Em hãy đóng cửa sổ lại!", "Câu khiến"], ["Các con đi ngủ sớm nhé!", "Câu khiến"], ["Bạn cho mình mượn cái bút nhé!", "Câu khiến"], ["Đừng vứt rác ra sân trường!", "Câu khiến"],
+  ["Em là học sinh lớp Ba.", "Câu kể"], ["Hôm nay trời nắng đẹp.", "Câu kể"], ["Mẹ em đang nấu cơm.", "Câu kể"], ["Con mèo nằm ngủ dưới hiên nhà.", "Câu kể"],
+];
