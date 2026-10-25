@@ -1,8 +1,9 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { migrateHome } from "@/lib/home";
 import { HOUSE_COLORS, HOUSE_TIERS, SHOP_MAP, TIER_MAP, TOWN, decodeHouse, encodeHouse, ringsFor, townLayout, upgradeCost } from "@/lib/town";
+import { joinLive, type LiveHandle, type LivePeer } from "@/lib/townLive";
 import { cachedTown, claimPlot, fetchTown, joinTown, saveHouse, totalEarned, townOnline, type TownState } from "@/lib/townCloud";
 import type { Profile } from "@/lib/types";
 import { ITEM_MAP } from "@/lib/items";
@@ -42,6 +43,22 @@ export function TownScreen({
   const [fresh, setFresh] = useState(!townOnline);
   const [board, setBoard] = useState<"week" | "all">("week");
   const [prize, setPrize] = useState<{ rank: number; itemId?: string } | null>(null);
+  // Các bạn đang mở bản đồ khu phố cùng lúc
+  const [peers, setPeers] = useState<Map<string, LivePeer>>(new Map());
+  const live = useRef<LiveHandle | null>(null);
+  const onMap = view.kind === "map";
+  const lookJson = JSON.stringify(me.look);
+  useEffect(() => {
+    if (!onMap) return;
+    const h = joinLive(code, { id: me.id, name: me.name, look: me.look }, { x: 0, y: 0 }, setPeers);
+    live.current = h;
+    return () => {
+      h.leave();
+      live.current = null;
+      setPeers(new Map());
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [onMap, code, me.id, me.name, lookJson]);
   const [color, setColor] = useState(decodeHouse(me.town?.house)?.color ?? "kem");
 
   const flash = (t: string) => {
@@ -255,6 +272,8 @@ export function TownScreen({
         <TownMap
           key={layout.rings}
           layout={layout}
+          live={peers}
+          onWalk={(x, y, back) => live.current?.move(x, y, back)}
           startPlot={backAt}
           onShop={(shopId) => {
             setBackAt([...layout.shopAt.entries()].find(([, s]) => s.id === shopId)?.[0]);

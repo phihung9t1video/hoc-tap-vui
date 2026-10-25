@@ -12,6 +12,7 @@
     "@capacitor/browser": "^8.0.5",
     "@capacitor/core": "^8.5.3",
     "@capgo/capacitor-updater": "^8.53.1",
+    "@supabase/realtime-js": "^2.118.0",
     "next": "^15.5.7",
     "react": "^19.1.2",
     "react-dom": "^19.1.2"

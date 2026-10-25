@@ -34,7 +34,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 button:disabled { cursor: not-allowed; opacity: 0.5; }
 input { font: inherit; }
 
-.app { max-width: 620px; margin: 0 auto; padding: 16px 16px 48px; }
+.app { width: 100%; margin: 0 auto; padding: 16px clamp(12px, 3vw, 40px) 48px; }
 
 h1, h2, h3 { margin: 0; line-height: 1.15; }
 h1 { font-size: 30px; }
@@ -115,7 +115,7 @@ h2 { font-size: 24px; }
 .jump { animation: jump 0.7s ease-in-out infinite; }
 @keyframes jump { 0%, 100% { transform: translateY(0); } 40% { transform: translateY(-22px); } }
 
-.menu { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 16px; }
+.menu { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(200px, 45%), 1fr)); gap: 12px; margin-top: 16px; }
 .menu .btn { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 14px 8px; font-size: 20px; }
 .menu .btn .ico { font-size: 34px; line-height: 1; }
 
@@ -281,3 +281,9 @@ h2 { font-size: 24px; }
 .question-bonus { border: 3px solid #f59e0b; box-shadow: 0 0 18px rgba(245, 158, 11, 0.55); }
 @keyframes bonus-bg { to { background-position: 300% 0; } }
 @keyframes bonus-blink { 50% { transform: scale(1.03); box-shadow: 0 0 0 3px #fff, 0 0 34px #ec4899; } }
+
+/* Màn hình rộng: cảnh 3D không cao quá màn hình, đáp án xếp 2 cột */
+.room-card > svg { max-height: 80vh; }
+@media (min-width: 900px) {
+  .options { grid-template-columns: 1fr 1fr; }
+}

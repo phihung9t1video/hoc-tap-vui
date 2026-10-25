@@ -1,15 +1,16 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState, type PointerEvent as RPointerEvent, type ReactNode, type WheelEvent } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef, useState, type PointerEvent as RPointerEvent, type ReactNode, type WheelEvent } from "react";
 import { OL } from "@/lib/draw";
 import { FloorQuad, TH, TW, poly, pt, type Proj } from "@/lib/iso";
 import { BLOCK, ROAD, type TownLayout } from "@/lib/town";
+import type { LivePeer } from "@/lib/townLive";
 import type { Look } from "@/lib/types";
 import { Avatar } from "./Avatar";
 import { HouseArt, ShopArt } from "./houses";
 
 const projFor = (L: TownLayout): Proj => ({ ox: (L.mapN * TW) / 2 + 40, oy: 170 });
-const VW = 400;
+/** Chiều cao khung nhìn (đơn vị bản đồ); chiều rộng tính theo tỉ lệ khung trên màn hình */
 const VH = 520;
 const AV = 0.3;
 
@@ -146,6 +147,8 @@ export function TownMap({
   startPlot,
   onPlot,
   onShop,
+  live,
+  onWalk,
 }: {
   layout: TownLayout;
   plots: Map<number, MapPlot>;
@@ -158,6 +161,10 @@ export function TownMap({
   onPlot: (id: number) => void;
   /** Đã đi tới cửa shop: mở shop */
   onShop: (shopId: string) => void;
+  /** Các bạn đang mở khu phố cùng lúc (toạ độ tính từ góc công viên) */
+  live?: Map<string, LivePeer>;
+  /** Báo vị trí của mình (toạ độ tính từ góc công viên) */
+  onWalk?: (x: number, y: number, back: boolean) => void;
 }) {
   const P = projFor(L);
   const MAP_N = L.mapN;
@@ -175,6 +182,26 @@ export function TownMap({
   const raf = useRef<number | null>(null);
 
   const svgRef = useRef<SVGSVGElement>(null);
+  const boxRef = useRef<HTMLDivElement>(null);
+  // Khung bản đồ tràn theo bề rộng, cao tối đa gần hết màn hình
+  const [box, setBox] = useState({ w: 400, h: 520 });
+  useLayoutEffect(() => {
+    const el = boxRef.current;
+    if (!el) return;
+    const fit = () => {
+      const w = el.clientWidth || 400;
+      setBox({ w, h: Math.max(320, Math.min(w * 1.3, window.innerHeight * 0.78)) });
+    };
+    fit();
+    const ro = new ResizeObserver(fit);
+    ro.observe(el);
+    window.addEventListener("resize", fit);
+    return () => {
+      ro.disconnect();
+      window.removeEventListener("resize", fit);
+    };
+  }, []);
+  const VW = (VH * box.w) / box.h;
   const [view, setView] = useState<View>(() => {
     const [sx, sy] = pt(P, start[0], start[1]);
     return { s: 1, x: sx - VW / 2, y: sy - VH / 2 - 40 };
@@ -190,6 +217,50 @@ export function TownMap({
   useEffect(() => () => {
     if (raf.current) cancelAnimationFrame(raf.current);
   }, []);
+
+  // Báo vị trí ban đầu và mỗi khi đi
+  const onWalkRef = useRef(onWalk);
+  onWalkRef.current = onWalk;
+  useEffect(() => {
+    onWalkRef.current?.(me.x - L.park.x, me.y - L.park.y, me.back);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [Math.round(me.x * 4), Math.round(me.y * 4), me.back]);
+
+  // Các bạn online: vẽ ở vị trí hiển thị, đi dần tới vị trí mới nhận được
+  const shown = useRef(new Map<string, { x: number; y: number; back: boolean; moving: boolean }>());
+  const liveRaf = useRef<number | null>(null);
+  const [, setTick] = useState(0);
+  useEffect(() => {
+    if (!live) return;
+    for (const id of [...shown.current.keys()]) if (!live.has(id)) shown.current.delete(id);
+    const step = () => {
+      let busy = false;
+      for (const [id, p] of live) {
+        const tx = p.x + L.park.x, ty = p.y + L.park.y;
+        const s = shown.current.get(id);
+        if (!s) {
+          shown.current.set(id, { x: tx, y: ty, back: p.back, moving: false });
+          continue;
+        }
+        const dx = tx - s.x, dy = ty - s.y, d = Math.hypot(dx, dy);
+        const v = 0.075; // khoảng 4,5 ô mỗi giây
+        if (d > 8 || d <= v) {
+          s.x = tx; s.y = ty; s.moving = false;
+        } else {
+          s.x += (dx / d) * v; s.y += (dy / d) * v; s.moving = true; busy = true;
+        }
+        s.back = d > 0.01 ? dx + dy < 0 : p.back;
+      }
+      setTick((t) => t + 1);
+      liveRaf.current = busy ? requestAnimationFrame(step) : null;
+    };
+    if (liveRaf.current) cancelAnimationFrame(liveRaf.current);
+    liveRaf.current = requestAnimationFrame(step);
+    return () => {
+      if (liveRaf.current) cancelAnimationFrame(liveRaf.current);
+      liveRaf.current = null;
+    };
+  }, [live, L]);
 
   function walkLoop() {
     let last = performance.now();
@@ -446,8 +517,28 @@ export function TownMap({
   }, [plots, meId, L]);
 
   // ---------- Nhân vật ----------
-  const others = players.filter((p) => p.id !== meId);
+  // Bạn online nhưng chưa có trong danh sách khu phố (vừa tham gia) vẫn được vẽ
+  const others: MapPlayer[] = players.filter((p) => p.id !== meId);
+  for (const [id, p] of live ?? []) if (id !== meId && !others.some((o) => o.id === id)) others.push({ id, name: p.name, look: p.look });
   const people: { key: number; node: ReactNode }[] = others.map((p, i) => {
+    const liveAt = shown.current.get(p.id);
+    if (liveAt) {
+      const [sx, sy] = pt(P, liveAt.x, liveAt.y);
+      const bob = liveAt.moving ? Math.abs(Math.sin(performance.now() / 90)) * 3 : 0;
+      const look = live?.get(p.id)?.look ?? p.look;
+      return {
+        key: liveAt.x + liveAt.y + 0.01,
+        node: (
+          <g key={`pl${p.id}`} transform={`translate(${(sx - 100 * AV).toFixed(1)} ${(sy - 270 * AV - bob).toFixed(1)})`} pointerEvents="none">
+            <ellipse cx={100 * AV} cy={270 * AV + bob} rx={16} ry={5} fill="#000" opacity={0.15} />
+            <Avatar look={look} size={200 * AV} layer="char" angle={liveAt.back ? 180 : 0} />
+            <text x={100 * AV} y={-4} textAnchor="middle" fontSize={11} fontWeight={800} fill="#16a34a" stroke="#fff" strokeWidth={3} paintOrder="stroke">
+              ● {p.name}
+            </text>
+          </g>
+        ),
+      };
+    }
     const [x, y] = p.plot !== undefined && L.plots[p.plot] ? front(L, p.plot) : [SPAWN[0] + 0.8 + (i % 4) * 0.7, SPAWN[1] - 1.2 - Math.floor(i / 4) * 0.7];
     const [sx, sy] = pt(P, x, y);
     return {
@@ -478,11 +569,12 @@ export function TownMap({
   const sorted = [...plotNodes.tall, ...people].sort((a, b) => a.key - b.key);
 
   return (
-    <div style={{ position: "relative" }}>
+    <div ref={boxRef} style={{ position: "relative" }}>
       <svg
         ref={svgRef}
         viewBox={`0 0 ${VW} ${VH}`}
         width="100%"
+        height={box.h}
         style={{ display: "block", touchAction: "none", background: "linear-gradient(#bae6fd, #e0f2fe)", userSelect: "none" }}
         onPointerDown={onDown}
         onPointerMove={onMove}
