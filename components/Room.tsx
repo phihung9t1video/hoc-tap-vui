@@ -162,7 +162,8 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
   function loop(t0: number) {
     let last = t0;
     const step = (t: number) => {
-      const dt = Math.min(0.05, (t - last) / 1000);
+      // Mốc giờ của khung hình có thể sớm hơn lúc bắt đầu đi: không để thời gian âm
+      const dt = Math.min(0.05, Math.max(0, (t - last) / 1000));
       last = t;
       const m = { ...meRef.current };
       const next = path.current[0];
@@ -172,7 +173,7 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
         const dy = next[1] - m.y;
         const dist = Math.hypot(dx, dy);
         const v = 3.2 * dt;
-        if (dist <= v) {
+        if (dist <= Math.max(v, 1e-6)) {
           m.x = next[0];
           m.y = next[1];
           path.current.shift();

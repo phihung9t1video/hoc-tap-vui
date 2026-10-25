@@ -194,7 +194,8 @@ export function TownMap({
   function walkLoop() {
     let last = performance.now();
     const step = (t: number) => {
-      const dt = Math.min(0.05, (t - last) / 1000);
+      // Mốc giờ của khung hình có thể sớm hơn lúc bắt đầu đi: không để thời gian âm
+      const dt = Math.min(0.05, Math.max(0, (t - last) / 1000));
       last = t;
       const m = { ...meRef.current };
       const tg = route.current[0];
@@ -210,7 +211,7 @@ export function TownMap({
       const dy = tg[1] - m.y;
       const dist = Math.hypot(dx, dy);
       const v = 3.5 * dt;
-      if (dist <= v) {
+      if (dist <= Math.max(v, 1e-6)) {
         m.x = tg[0];
         m.y = tg[1];
         route.current.shift();
