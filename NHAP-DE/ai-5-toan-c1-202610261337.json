@@ -1,0 +1,406 @@
+{
+ "5-toan": {
+  "c1": [
+   [
+    "Phan so nao duoi day chi phan da to mau trong hinh gom 3 phan bang nhau duoc to 2 phan?",
+    [
+     "2/3",
+     "3/2",
+     "2/5",
+     "3/5"
+    ],
+    "Phan da to mau gom 2 phan trong tong so 3 phan bang nhau, nen phan so la 2/3."
+   ],
+   [
+    "Trong cac phan so sau, phan so nao la phan so toi gian?",
+    [
+     "3/7",
+     "2/4",
+     "6/9",
+     "10/15"
+    ],
+    "Phan so 3/7 co tu so va mau so chi co uoc chung la 1 nen la phan so toi gian."
+   ],
+   [
+    "Phan so 4/5 duoc viet thanh phan so co mau so la 10 la:",
+    [
+     "8/10",
+     "4/10",
+     "5/10",
+     "8/5"
+    ],
+    "Nhan ca tu so va mau so cua phan so 4/5 voi 2 ta duoc 8/10."
+   ],
+   [
+    "Rut gon phan so 6/18 ta duoc phan so toi gian la:",
+    [
+     "1/3",
+     "2/6",
+     "3/9",
+     "1/2"
+    ],
+    "Chia ca tu so va mau so cua 6/18 cho 6 ta duoc phan so 1/3."
+   ],
+   [
+    "Phan so nao duoi day be hon 1?",
+    [
+     "7/9",
+     "9/7",
+     "5/5",
+     "12/10"
+    ],
+    "Phan so co tu so be hon mau so thi be hon 1."
+   ],
+   [
+    "Phan so nao duoi day lon hon 1?",
+    [
+     "11/8",
+     "8/11",
+     "15/15",
+     "3/4"
+    ],
+    "Phan so co tu so lon hon mau so thi lon hon 1."
+   ],
+   [
+    "Cac phan so duoc sep theo thu tu tu be den lon la:",
+    [
+     "2/7, 4/7, 6/7",
+     "6/7, 4/7, 2/7",
+     "4/7, 2/7, 6/7",
+     "2/7, 6/7, 4/7"
+    ],
+    "Cac phan so co cung mau so, phan so nao co tu so be hon thi be hon."
+   ],
+   [
+    "Ket qua cua phép tinh 3/5 + 1/5 la:",
+    [
+     "4/5",
+     "4/10",
+     "3/25",
+     "2/5"
+    ],
+    "Cong hai phan so cung mau so ta cong hai tu so voi nhau va giu nguyen mau so."
+   ],
+   [
+    "Ket qua cua phep tinh 7/9 - 4/9 la:",
+    [
+     "3/9",
+     "11/9",
+     "3/0",
+     "3/18"
+    ],
+    "Tru hai phan so cung mau so ta lay tu so tru tu so va giu nguyen mau so."
+   ],
+   [
+    "Tim x biet x + 2/5 = 4/5. Gia tri cua x la:",
+    [
+     "2/5",
+     "6/5",
+     "8/5",
+     "1/5"
+    ],
+    "Muốn tìm số hạng chua biet ta lay tong tru di so hạng da biet: 4/5 - 2/5 = 2/5."
+   ],
+   [
+    "Huan co 12 vien bi, trong do co 4 vien bi mau do. Phan so chi so vien bi mau do so voi tong so vien bi la:",
+    [
+     "4/12",
+     "12/4",
+     "4/8",
+     "8/4"
+    ],
+    "So vien bi mau do la 4, tong so vien bi la 12, nen phan so la 4/12."
+   ],
+   [
+    "Chuyen hon so 1 va 1/2 thanh phan so ta duoc:",
+    [
+     "3/2",
+     "2/3",
+     "1/2",
+     "3/1"
+    ],
+    "Lay phan nguyen nhan voi mau so roi cong voi tu so: 1 nhan 2 cong 1 bang 3, giu nguyen mau so la 2."
+   ],
+   [
+    "Phan so 3/4 duoc viet duoi dang so thap phan la:",
+    [
+     "0,75",
+     "0,34",
+     "7,5",
+     "3,4"
+    ],
+    "Nhan ca tu va mau cua 3/4 voi 25 ta duoc 75/100, viet thanh so thap phan la 0,75."
+   ],
+   [
+    "So thap phan 0,6 duoc viet duoi dang phan so toi gian la:",
+    [
+     "3/5",
+     "6/10",
+     "6/100",
+     "5/3"
+    ],
+    "Doi 0,6 thanh 6/10 sau do rut gon cho 2 ta duoc phan so toi gian la 3/5."
+   ],
+   [
+    "Tim phan so a/b biet no bang phan so 2/3 va tong cua tu so va mau so la 20.",
+    [
+     "8/12",
+     "6/14",
+     "10/10",
+     "12/8"
+    ],
+    "Tong so phan la 2 cong 3 bằng 5. Gia tri 1 phan la 20 chia 5 bang 4. Tu so la 4 nhan 2 bằng 8, mau so la 4 nhan 3 bằng 12."
+   ],
+   [
+    "Lop 5A co 30 hoc sinh, trong do co 12 hoc sinh nam. Hoi so hoc sinh nam chiem bao nhieu phan tong so hoc sinh cua lop?",
+    [
+     "2/5",
+     "3/5",
+     "12/30",
+     "5/2"
+    ],
+    "Lap phan so 12/30 sau do rut gon ca tu va mau cho 6 ta duoc 2/5."
+   ],
+   [
+    "Mot tam vai dai 20m, nguoi ta da dung 3/4 tam vai do de may quan ao. Hoi so met vai da dung la bao nhieu?",
+    [
+     "15m",
+     "5m",
+     "12m",
+     "16m"
+    ],
+    "Lay 20 chia cho 4 roi nhan voi 3 ta duoc 15 met vai."
+   ],
+   [
+    "Gia tri cua bieu thuc 1/2 + 1/4 + 1/8 la:",
+    [
+     "7/8",
+     "3/8",
+     "3/14",
+     "1/8"
+    ],
+    "Quy dong mau so chung la 8 ta co 4/8 + 2/8 + 1/8 = 7/8."
+   ],
+   [
+    "Tim mot so biet rang 2/3 cua so do la 10.",
+    [
+     "15",
+     "20",
+     "30",
+     "10"
+    ],
+    "Muốn tim mot so khi biet mot phan so cua no, ta lay 10 chia cho 2 roi nhan voi 3 duoc ket qua la 15."
+   ],
+   [
+    "Phân số nào dưới đây bằng phân số 3/4?",
+    [
+     "9/12",
+     "6/10",
+     "12/15",
+     "8/12"
+    ],
+    "Nhân cả tử và mẫu của phân số 3/4 với 3 ta được phân số 9/12."
+   ],
+   [
+    "Phân số nào dưới đây có giá trị lớn hơn 1?",
+    [
+     "7/5",
+     "5/7",
+     "4/4",
+     "3/8"
+    ],
+    "Phân số có tử số lớn hơn mẫu số thì phân số đó lớn hơn 1."
+   ],
+   [
+    "Chữ số thích hợp điền vào ô trống để 5/6 = .../18 là:",
+    [
+     "15",
+     "10",
+     "3",
+     "18"
+    ],
+    "Cả mẫu và tử đều nhân với 3, ta có 5 nhân 3 bằng 15."
+   ],
+   [
+    "Rút gọn phân số 15/25 đến tối giản ta được:",
+    [
+     "3/5",
+     "5/3",
+     "15/25",
+     "3/15"
+    ],
+    "Chia cả tử và mẫu cho 5 ta được phân số tối giản 3/5."
+   ],
+   [
+    "Hỗn số 2 và 3/4 được chuyển thành phân số là:",
+    [
+     "11/4",
+     "9/4",
+     "14/4",
+     "8/3"
+    ],
+    "Lấy phần nguyên nhân mẫu rồi cộng tử: 2 nhân 4 cộng 3 bằng 11, giữ nguyên mẫu 4."
+   ],
+   [
+    "Phân số thập phân 35/100 được viết dưới dạng số thập phân là:",
+    [
+     "0,35",
+     "3,5",
+     "0,035",
+     "35,0"
+    ],
+    "Chia 35 cho 100 ta dịch dấu phẩy sang trái hai chữ số được 0,35."
+   ],
+   [
+    "Số thập phân 0,8 được viết dưới dạng phân số tối giản là:",
+    [
+     "4/5",
+     "8/10",
+     "8/100",
+     "5/4"
+    ],
+    "0,8 bằng 8/10, rút gọn cho 2 ta được phân số tối giản 4/5."
+   ],
+   [
+    "Kết quả của phép tính 2/3 + 1/4 là:",
+    [
+     "11/12",
+     "3/7",
+     "3/12",
+     "8/3"
+    ],
+    "Quy đồng mẫu số chung là 12, ta có 8/12 cộng 3/12 bằng 11/12."
+   ],
+   [
+    "Kết quả của phép tính 5/6 - 2/3 là:",
+    [
+     "1/6",
+     "3/3",
+     "3/6",
+     "1/3"
+    ],
+    "Quy đồng mẫu số chung là 6, ta có 5/6 trừ 4/6 bằng 1/6."
+   ],
+   [
+    "Kết quả của phép tính 3/4 nhân 2/5 là:",
+    [
+     "3/10",
+     "5/9",
+     "6/20",
+     "15/8"
+    ],
+    "Nhân tử với tử, mẫu với mẫu ta được 6/20, rút gọn thành 3/10."
+   ],
+   [
+    "Kết quả của phép tính 4/5 chia 2/3 là:",
+    [
+     "6/5",
+     "8/15",
+     "10/12",
+     "5/6"
+    ],
+    "Lấy 4/5 nhân với phân số đảo ngược 3/2 ta được 12/10, rút gọn thành 6/5."
+   ],
+   [
+    "Tìm x biết x trừ 1/3 bằng 1/2. Giá trị của x là:",
+    [
+     "5/6",
+     "2/5",
+     "1/6",
+     "2/6"
+    ],
+    "Muốn tìm số bị trừ ta lấy hiệu cộng với số trừ: 1/2 cộng 1/3 bằng 5/6."
+   ],
+   [
+    "Một cửa hàng có 45 kg gạo, cửa hàng đã bán được 2/3 số gạo đó. Số gạo cửa hàng đã bán là:",
+    [
+     "30 kg",
+     "15 kg",
+     "43 kg",
+     "20 kg"
+    ],
+    "Lấy 45 chia 3 nhân 2 bằng 30 kg."
+   ],
+   [
+    "Lớp 5B có 40 học sinh, trong đó có 3/8 số học sinh tham gia câu lạc bộ bơi lội. Số học sinh tham gia bơi lội là:",
+    [
+     "15 học sinh",
+     "25 học sinh",
+     "5 học sinh",
+     "24 học sinh"
+    ],
+    "Lấy 40 chia 8 nhân 3 bằng 15 học sinh."
+   ],
+   [
+    "Tìm một số biết rằng 3/4 của số đó là 24. Số đó là:",
+    [
+     "32",
+     "18",
+     "36",
+     "64"
+    ],
+    "Lấy 24 chia cho 3 rồi nhân với 4 ta được kết quả là 32."
+   ],
+   [
+    "Biển báo giao thông hình tròn có đường kính 4/5 m. Bán kính của biển báo đó là:",
+    [
+     "2/5 m",
+     "4/10 m",
+     "8/5 m",
+     "1/5 m"
+    ],
+    "Bán kính bằng đường kính chia đôi, lấy 4/5 chia 2 bằng 2/5 m."
+   ],
+   [
+    "Mẹ mua 3 kg cam hết 90 000 đồng. Nếu mẹ mua 5 kg cam loại đó thì số tiền phải trả là:",
+    [
+     "150 000 đồng",
+     "30 000 đồng",
+     "270 000 đồng",
+     "180 000 đồng"
+    ],
+    "Giá tiền 1 kg cam là 30 000 đồng, mua 5 kg hết 150 000 đồng."
+   ],
+   [
+    "Một mảnh vườn hình chữ nhật có chiều dài 12m, chiều rộng bằng 3/4 chiều dài. Diện tích mảnh vườn đó là:",
+    [
+     "108 mét vuông",
+     "9 mét vuông",
+     "81 mét vuông",
+     "144 mét vuông"
+    ],
+    "Chiều rộng là 12 nhân 3/4 bằng 9m. Diện tích là 12 nhân 9 bằng 108 mét vuông."
+   ],
+   [
+    "Tổng của hai số là 60. Tỉ số của hai số đó là 2/3. Số lớn là:",
+    [
+     "36",
+     "24",
+     "40",
+     "20"
+    ],
+    "Tổng số phần bằng nhau là 5 phần. Số lớn là 60 chia 5 nhân 3 bằng 36."
+   ],
+   [
+    "Có hai thùng dầu, thùng thứ nhất chứa 24 lít dầu. Số lít dầu ở thùng thứ hai bằng 5/4 số lít dầu ở thùng thứ nhất. Cả hai thùng chứa số lít dầu là:",
+    [
+     "54 lít",
+     "30 lít",
+     "48 lít",
+     "60 lít"
+    ],
+    "Thùng thứ hai chứa 24 nhân 5/4 bằng 30 lít. Tổng số dầu hai thùng là 24 cộng 30 bằng 54 lít."
+   ],
+   [
+    "Phân số nào dưới đây là phân số thập phân?",
+    [
+     "7/100",
+     "7/105",
+     "10/77",
+     "12/35"
+    ],
+    "Phân số thập phân là phân số có mẫu số là các lũy thừa của 10 như 10, 100, 1000,... Do đó 7/100 là phân số thập phân."
+   ]
+  ]
+ }
+}

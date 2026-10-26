@@ -1,0 +1,356 @@
+{
+ "5-toan": {
+  "c2": [
+   [
+    "Số thập phân gồm năm đơn vị, sáu phần mười và tám phần nghìn được viết là:",
+    [
+     "5,608",
+     "5,68",
+     "5,068",
+     "5,806"
+    ],
+    "Phần nguyên là 5, hàng phần mười là 6, hàng phần trăm không có nên viết là 0, hàng phần nghìn là 8. Vậy số đó là 5,608."
+   ],
+   [
+    "Chữ số 7 trong số thập phân 42,375 chỉ giá trị là:",
+    [
+     "7/100",
+     "7/10",
+     "7",
+     "7/1000"
+    ],
+    "Chữ số 7 đứng ở hàng phần trăm nên có giá trị là 7/100."
+   ],
+   [
+    "Số lớn nhất trong các số thập phân 7,85; 7,58; 8,1; 7,9 là:",
+    [
+     "8,1",
+     "7,9",
+     "7,85",
+     "7,58"
+    ],
+    "So sánh phần nguyên ta thấy số 8,1 có phần nguyên lớn nhất nên là số lớn nhất."
+   ],
+   [
+    "Hỗn số 5 và 3/10 được viết dưới dạng số thập phân là:",
+    [
+     "5,3",
+     "5,03",
+     "53,0",
+     "0,53"
+    ],
+    "Hỗn số 5 và 3/10 có phần nguyên là 5, phần phân số là 3/10 tương đương 3 phần mười. Viết thành số thập phân là 5,3."
+   ],
+   [
+    "Kết quả của phép tính 15,4 + 7,8 là:",
+    [
+     "23,2",
+     "22,2",
+     "23,12",
+     "22,12"
+    ],
+    "Thực hiện cộng các hàng tương ứng, ta có 15,4 + 7,8 = 23,2."
+   ],
+   [
+    "Kết quả của phép tính 24,5 - 9,2 là:",
+    [
+     "15,3",
+     "15,1",
+     "16,3",
+     "14,3"
+    ],
+    "Thực hiện trừ các hàng tương ứng, ta có 24,5 - 9,2 = 15,3."
+   ],
+   [
+    "Kết quả của phép nhân 3,5 nhân với 10 là:",
+    [
+     "35",
+     "3,50",
+     "0,35",
+     "350"
+    ],
+    "Nhân một số thập phân với 10 ta dịch chuyển dấu phẩy sang bên phải một chữ số, được 35."
+   ],
+   [
+    "Kết quả của phép chia 45,6 chia cho 100 là:",
+    [
+     "0,456",
+     "4,56",
+     "45,600",
+     "0,0456"
+    ],
+    "Chia một số thập phân cho 100 ta dịch chuyển dấu phẩy sang bên trái hai chữ số, được 0,456."
+   ],
+   [
+    "Làm tròn số thập phân 12,64 đến hàng phần mười ta được:",
+    [
+     "12,6",
+     "12,7",
+     "13",
+     "12,5"
+    ],
+    "Chữ số hàng phần trăm là 4 nhỏ hơn 5 nên ta giữ nguyên chữ số hàng phần mười, bỏ các chữ số sau hàng phần mười được 12,6."
+   ],
+   [
+    "Viết phân số 3/4 dưới dạng số thập phân ta được:",
+    [
+     "0,75",
+     "0,8",
+     "0,7",
+     "0,34"
+    ],
+    "Nhân cả tử và mẫu của 3/4 với 25 ta được 75/100, viết dưới dạng số thập phân là 0,75."
+   ],
+   [
+    "Tìm số tự nhiên x biết 2,5 nhân x nhỏ hơn 10:",
+    [
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "Thử các giá trị của x, nếu x bằng 3 thì 2,5 nhân 3 bằng 7,5 nhỏ hơn 10 (nếu x bằng 4 thì bằng 10, không thỏa mãn nhỏ hơn 10)."
+   ],
+   [
+    "Một mảnh vườn hình chữ nhật có chiều dài 12,5m và chiều rộng 8m. Diện tích mảnh vườn đó là:",
+    [
+     "100 mét vuông",
+     "10 mét vuông",
+     "1000 mét vuông",
+     "20,5 mét vuông"
+    ],
+    "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng: 12,5 nhân 8 bằng 100 mét vuông."
+   ],
+   [
+    "Chữ số 9 trong số thập phân 89,42 có giá trị gấp bao nhiêu lần chữ số 9 trong số thập phân 5,91?",
+    [
+     "10 lần",
+     "100 lần",
+     "1 lần",
+     "0,1 lần"
+    ],
+    "Chữ số 9 ở số 89,42 chỉ 9 đơn vị; ở số 5,91 chỉ 9 phần mười (0,9). Giá trị đơn vị gấp 10 lần giá trị phần mười."
+   ],
+   [
+    "Tổng của hai số là 45,8. Nếu số thứ nhất tăng thêm 3,2 đơn vị và số thứ hai tăng thêm 5,1 đơn vị thì tổng mới là:",
+    [
+     "54,1",
+     "54,0",
+     "47,5",
+     "53,1"
+    ],
+    "Tổng mới bằng tổng cũ cộng với tổng số đơn vị tăng thêm của hai số: 45,8 + 3,2 + 5,1 = 54,1."
+   ],
+   [
+    "Hiệu của hai số là 12,4. Nếu số bị trừ giảm đi 2,5 đơn vị và số trừ tăng lên 1,5 đơn vị thì hiệu mới là:",
+    [
+     "8,4",
+     "11,4",
+     "13,4",
+     "16,4"
+    ],
+    "Số bị trừ giảm 2,5 thì hiệu giảm 2,5; số trừ tăng 1,5 thì hiệu tiếp tục giảm 1,5. Hiệu mới là 12,4 - 2,5 - 1,5 = 8,4."
+   ],
+   [
+    "Mua 4 mét vải hết 120 000 đồng. Hỏi mua 6,5 mét vải như thế hết số tiền là:",
+    [
+     "195 000 đồng",
+     "180 000 đồng",
+     "200 000 đồng",
+     "190 000 đồng"
+    ],
+    "Giá tiền 1 mét vải là 120 000 chia 4 bằng 30 000 đồng. Mua 6,5 mét vải hết 30 000 nhân 6,5 bằng 195 000 đồng."
+   ],
+   [
+    "Một ô tô cứ đi 100km thì tiêu thụ hết 9 lít xăng. Ô tô đã đi quãng đường dài 50km thì tiêu thụ hết số lít xăng là:",
+    [
+     "4,5 lít",
+     "9 lít",
+     "18 lít",
+     "5 lít"
+    ],
+    "Quãng đường 50km bằng một nửa quãng đường 100km, nên số xăng tiêu thụ cũng giảm một nửa: 9 chia 2 bằng 4,5 lít."
+   ],
+   [
+    "Giá trị của biểu thức 18,5 trừ mở ngoặc 4,2 cộng 3,5 đóng ngoặc là:",
+    [
+     "10,8",
+     "17,8",
+     "11,8",
+     "10,2"
+    ],
+    "Tính trong ngoặc trước: 4,2 + 3,5 = 7,7. Sau đó lấy 18,5 - 7,7 = 10,8."
+   ],
+   [
+    "Tìm x, biết x cộng 4,5 nhân 2 bằng 15,6:",
+    [
+     "6,6",
+     "6,1",
+     "11,1",
+     "20,1"
+    ],
+    "Tính 4,5 nhân 2 bằng 9. Ta có x + 9 = 15,6, suy ra x = 15,6 - 9 = 6,6."
+   ],
+   [
+    "Số thập phân gồm bốn mươi đơn vị, chín phần trăm và hai phần nghìn được viết là:",
+    [
+     "40,092",
+     "40,92",
+     "40,0092",
+     "40,902"
+    ],
+    "Phần nguyên là 40, phần thập phân có 9 phần trăm (hàng phần mười là 0) và 2 phần nghìn nên viết là 40,092."
+   ],
+   [
+    "Chữ số 3 trong số thập phân 98,234 chỉ giá trị là:",
+    [
+     "3/100",
+     "3/10",
+     "3",
+     "3/1000"
+    ],
+    "Chữ số 3 đứng ở hàng phần trăm nên có giá trị là 3 phần trăm, viết là 3/100."
+   ],
+   [
+    "Số bé nhất trong các số thập phân 4,85; 4,58; 5,1; 4,9 là:",
+    [
+     "4,58",
+     "4,85",
+     "4,9",
+     "5,1"
+    ],
+    "So sánh phần nguyên đều là 4 (trừ 5,1 lớn nhất). So sánh hàng phần mười ta thấy 5 nhỏ nhất, vậy số bé nhất là 4,58."
+   ],
+   [
+    "Hỗn số 8 và 7/100 được viết dưới dạng số thập phân là:",
+    [
+     "8,07",
+     "8,7",
+     "8,007",
+     "8,70"
+    ],
+    "Phần nguyên là 8, phần phân số có mẫu số là 100 nên phần thập phân có hai chữ số, viết là 8,07."
+   ],
+   [
+    "Kết quả của phép tính 23,6 + 9,7 là:",
+    [
+     "33,3",
+     "32,3",
+     "33,2",
+     "32,2"
+    ],
+    "Thực hiện cộng như số tự nhiên, viết dấu phẩy thẳng hàng ta được 23,6 + 9,7 = 33,3."
+   ],
+   [
+    "Kết quả của phép tính 32,4 - 8,6 là:",
+    [
+     "23,8",
+     "24,8",
+     "23,6",
+     "24,2"
+    ],
+    "Thực hiện trừ ta có 32,4 - 8,6 = 23,8."
+   ],
+   [
+    "Kết quả của phép nhân 4,25 nhân với 100 là:",
+    [
+     "425",
+     "42,5",
+     "4250",
+     "4,25"
+    ],
+    "Nhân một số thập phân với 100 ta dịch chuyển dấu phẩy sang bên phải hai chữ số, được 425."
+   ],
+   [
+    "Kết quả của phép chia 372,5 chia cho 10 là:",
+    [
+     "37,25",
+     "3,725",
+     "372,5",
+     "3725"
+    ],
+    "Chia một số thập phân cho 10 ta dịch chuyển dấu phẩy sang bên trái một chữ số, được 37,25."
+   ],
+   [
+    "Làm tròn số thập phân 25,47 đến hàng phần mười ta được:",
+    [
+     "25,5",
+     "25,4",
+     "25,6",
+     "26,0"
+    ],
+    "Chữ số hàng phần trăm là 7 lớn hơn 5 nên ta tăng chữ số hàng phần mười lên 1 đơn vị, được 25,5."
+   ],
+   [
+    "Viết phân số 2/5 dưới dạng số thập phân ta được:",
+    [
+     "0,4",
+     "0,2",
+     "0,5",
+     "2,5"
+    ],
+    "Nhân cả tử và mẫu với 2 ta được phân số 4/10, viết dưới dạng số thập phân là 0,4."
+   ],
+   [
+    "Chữ số 5 trong số thập phân 45,2 có giá trị gấp bao nhiêu lần chữ số 5 trong số thập phân 7,15?",
+    [
+     "100 lần",
+     "10 lần",
+     "1000 lần",
+     "1 lần"
+    ],
+    "Chữ số 5 ở số 45,2 chỉ 5 đơn vị; ở số 7,15 chỉ 5 phần trăm (0,05). 5 đơn vị gấp 5 phần trăm là 100 lần."
+   ],
+   [
+    "Tổng của hai số là 56,4. Nếu số thứ nhất tăng thêm 4,2 đơn vị và số thứ hai tăng thêm 3,8 đơn vị thì tổng mới là:",
+    [
+     "64,4",
+     "60,4",
+     "56,4",
+     "64,0"
+    ],
+    "Tổng mới bằng tổng cũ cộng thêm các phần tăng thêm: 56,4 + 4,2 + 3,8 = 64,4."
+   ],
+   [
+    "Hiệu của hai số là 24,5. Nếu số bị trừ tăng thêm 3,5 đơn vị và số trừ giảm đi 1,5 đơn vị thì hiệu mới là:",
+    [
+     "29,5",
+     "26,5",
+     "22,5",
+     "28,0"
+    ],
+    "Số bị trừ tăng 3,5 làm hiệu tăng 3,5; số trừ giảm 1,5 làm hiệu tăng thêm 1,5. Hiệu mới là 24,5 + 3,5 + 1,5 = 29,5."
+   ],
+   [
+    "Một ô tô cứ đi 100km thì tiêu thụ hết 8 lít xăng. Ô tô đã đi quãng đường dài 250km thì tiêu thụ hết số lít xăng là:",
+    [
+     "20 lít",
+     "16 lít",
+     "18 lít",
+     "25 lít"
+    ],
+    "1km tiêu thụ 8 chia 100 bằng 0,08 lít xăng. 250km tiêu thụ 0,08 nhân 250 bằng 20 lít xăng."
+   ],
+   [
+    "Giá trị của biểu thức 25,6 - (5,2 + 4,8) là:",
+    [
+     "15,6",
+     "20,4",
+     "15,4",
+     "16,5"
+    ],
+    "Tính trong ngoặc trước: 5,2 + 4,8 = 10. Sau đó tính 25,6 - 10 = 15,6."
+   ],
+   [
+    "Tìm x, biết x cộng 3,2 nhân 4 bằng 25,8:",
+    [
+     "13,0",
+     "12,0",
+     "13,8",
+     "12,6"
+    ],
+    "Ta có x + 12,8 = 25,8, suy ra x = 25,8 - 12,8 = 13,0."
+   ]
+  ]
+ }
+}
