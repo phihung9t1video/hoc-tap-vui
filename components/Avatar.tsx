@@ -68,6 +68,8 @@ export function Avatar({
   className,
   angle = 0,
   layer = "all",
+  pose,
+  fx: forceFx,
 }: {
   look: Look;
   size?: number;
@@ -77,6 +79,10 @@ export function Avatar({
   angle?: number;
   /** char: chỉ nhân vật; pet: chỉ thú cưng (dùng trong ngôi nhà, nơi hai bên đi lại riêng) */
   layer?: "all" | "char" | "pet";
+  /** Động tác khi đứng yên: vẫy tay, vươn vai */
+  pose?: "wave" | "stretch" | null;
+  /** Hiện hiệu ứng lấp lánh của đồ hiếm cả khi nhân vật nhỏ (ngoài phố, trong nhà) */
+  fx?: boolean;
 }) {
   const get = (s: Slot) => ITEM_MAP[look[s]] ?? ITEM_MAP[FALLBACK[s]];
   const cos = Math.cos((angle * Math.PI) / 180);
@@ -89,13 +95,13 @@ export function Avatar({
   // Bóp ngang theo góc xoay để tạo cảm giác quay tròn
   const sx = Math.max(Math.abs(cos), 0.04) * (cos < 0 ? -1 : 1);
   const hair = get("hair");
-  const fx = crop === "full" && size >= 120;
+  const fx = forceFx || (crop === "full" && size >= 120);
   const topRank = fx
     ? Math.max(...(["hair", "eyes", "shirt", "pants", "shoes", "glasses", "hat", "back", "pet", "petAcc", "petToy", "petHome"] as Slot[]).map((s) => RANK[get(s).rarity]))
     : 0;
 
   return (
-    <svg viewBox={`${x} ${y} ${w} ${h}`} width={size} height={(size * h) / w} className={className} role="img" aria-label="Nhân vật" strokeLinejoin="round">
+    <svg viewBox={`${x} ${y} ${w} ${h}`} width={size} height={(size * h) / w} className={[className, pose ? `pose-${pose}` : ""].filter(Boolean).join(" ") || undefined} role="img" aria-label="Nhân vật" strokeLinejoin="round">
       {topRank === 3 && (
         <defs>
           <radialGradient id="hv-glow">

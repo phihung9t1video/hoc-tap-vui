@@ -287,3 +287,32 @@ h2 { font-size: 24px; }
 @media (min-width: 900px) {
   .options { grid-template-columns: 1fr 1fr; }
 }
+
+/* Động tác của nhân vật: cánh tay (kèm tay áo) xoay quanh vai */
+.arm { transform-box: view-box; }
+.arm-l { transform-origin: 73px 150px; }
+.arm-r { transform-origin: 127px 150px; }
+.pose-wave .arm-r { animation: arm-wave 0.42s ease-in-out infinite alternate; }
+@keyframes arm-wave { from { transform: rotate(-125deg); } to { transform: rotate(-165deg); } }
+.pose-stretch .arm-l { animation: arm-up-l 2.4s ease-in-out both; }
+.pose-stretch .arm-r { animation: arm-up-r 2.4s ease-in-out both; }
+@keyframes arm-up-l { 0%, 100% { transform: rotate(0); } 35%, 70% { transform: rotate(160deg); } }
+@keyframes arm-up-r { 0%, 100% { transform: rotate(0); } 35%, 70% { transform: rotate(-160deg); } }
+.pose-stretch { animation: stretch-body 2.4s ease-in-out both; transform-origin: 50% 100%; }
+@keyframes stretch-body { 0%, 100% { transform: scaleY(1); } 40%, 65% { transform: scaleY(1.05); } }
+@media (prefers-reduced-motion: reduce) { .pose-wave .arm-r, .pose-stretch .arm-l, .pose-stretch .arm-r, .pose-stretch { animation: none; } }
+/* Ngôi sao nhấp nháy ở chỗ vừa chạm */
+.tap-star { animation: tap-star 0.6s ease-in-out infinite alternate; }
+@keyframes tap-star { from { opacity: 1; } to { opacity: 0.35; } }
+/* Bong bóng xà phòng trong bồn tắm */
+.bubble-up { animation: bubble-up 1.8s ease-in infinite; }
+@keyframes bubble-up { 0% { transform: translateY(0); opacity: 0.9; } 100% { transform: translateY(-26px); opacity: 0; } }
+
+/* Máy chơi game */
+.game-overlay { position: fixed; inset: 0; z-index: 50; background: rgba(30, 20, 40, 0.55); display: flex; align-items: center; justify-content: center; padding: 12px; overflow-y: auto; }
+.game-box { background: var(--bg); border: 3px solid var(--ink); border-radius: 24px; padding: 16px; width: min(560px, 100%); max-height: 100%; overflow-y: auto; box-shadow: 0 10px 40px rgba(0,0,0,0.3); }
+.game-menu { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.game-card { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 12px 8px; text-align: center; }
+.game-svg { width: 100%; max-width: 360px; max-height: 60vh; display: block; touch-action: manipulation; user-select: none; }
+.snake-pad { display: grid; grid-template-columns: repeat(3, 56px); gap: 6px; justify-content: center; }
+.snake-pad .btn { padding: 8px 0; font-size: 20px; }

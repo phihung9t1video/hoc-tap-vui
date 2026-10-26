@@ -1,0 +1,406 @@
+{
+ "5-tienganh": {
+  "c6": [
+   [
+    "What is this room? It has a lot of computers.",
+    [
+     "computer room",
+     "music room",
+     "art room",
+     "gym"
+    ],
+    "Phòng có nhiều máy tính được gọi là phòng máy tính (computer room)."
+   ],
+   [
+    "Where do students go to read and borrow books?",
+    [
+     "library",
+     "school yard",
+     "canteen",
+     "classroom"
+    ],
+    "Học sinh đến thư viện (library) để đọc và mượn sách."
+   ],
+   [
+    "We have art lessons in the __________.",
+    [
+     "art room",
+     "music room",
+     "computer room",
+     "gym"
+    ],
+    "Môn Mỹ thuật (art) được học ở phòng mỹ thuật (art room)."
+   ],
+   [
+    "Students play football and skip rope in the __________.",
+    [
+     "school yard",
+     "library",
+     "art room",
+     "computer room"
+    ],
+    "Học sinh chơi đá bóng và nhảy dây ở sân trường (school yard)."
+   ],
+   [
+    "We sing songs and play the piano in the __________.",
+    [
+     "music room",
+     "gym",
+     "art room",
+     "library"
+    ],
+    "Hát và chơi đàn piano diễn ra ở phòng âm nhạc (music room)."
+   ],
+   [
+    "Từ nào dưới đây có nghĩa là “phòng thể chất/phòng tập thể dục”?",
+    [
+     "gym",
+     "yard",
+     "room",
+     "canteen"
+    ],
+    "Từ “gym” trong tiếng Anh có nghĩa là phòng tập thể dục/phòng thể chất."
+   ],
+   [
+    "Is that your __________ room?",
+    [
+     "music",
+     "musics",
+     "musical",
+     "musician"
+    ],
+    "Cụm từ đúng chỉ phòng âm nhạc là “music room”."
+   ],
+   [
+    "__________ is the computer room? – It’s on the first floor.",
+    [
+     "Where",
+     "What",
+     "Who",
+     "When"
+    ],
+    "Dùng từ hỏi “Where” để hỏi vị trí của một phòng trong trường."
+   ],
+   [
+    "Where __________ the art room?",
+    [
+     "is",
+     "are",
+     "am",
+     "be"
+    ],
+    "Chủ ngữ “the art room” là số ít nên dùng động词 “is”."
+   ],
+   [
+    "The library is __________ the second floor.",
+    [
+     "on",
+     "in",
+     "at",
+     "under"
+    ],
+    "Dùng giới từ “on” trước các tầng nhà (on the second floor)."
+   ],
+   [
+    "__________ you have a gym at school? – Yes, we do.",
+    [
+     "Do",
+     "Does",
+     "Are",
+     "Is"
+    ],
+    "Câu hỏi Yes/No với chủ ngữ “you” ở thì hiện tại đơn dùng trợ động từ “Do”."
+   ],
+   [
+    "Our school room is very big __________ clean.",
+    [
+     "and",
+     "but",
+     "or",
+     "so"
+    ],
+    "Dùng từ nối “and” để liên kết hai tính từ chỉ đặc điểm tích cực “big” và “clean”."
+   ],
+   [
+    "“Where’s the music room?” – “__________”",
+    [
+     "It’s on the first floor.",
+     "Yes, it is.",
+     "It’s very big.",
+     "I like the music room."
+    ],
+    "Câu hỏi “Where’s...?” hỏi về vị trí nên câu trả lời thích hợp là “It’s on the first floor.”"
+   ],
+   [
+    "Nam: “Is the computer room on the ground floor?” – Mai: “__________”",
+    [
+     "No, it isn’t. It’s on the second floor.",
+     "Yes, it does.",
+     "No, it don’t.",
+     "It is nice."
+    ],
+    "Câu hỏi bắt đầu bằng “Is the...” nên câu trả lời phủ định đúng dạng là “No, it isn’t.”"
+   ],
+   [
+    "Reorder the words: is / where / library / the / ?",
+    [
+     "Where is the library?",
+     "Where the library is?",
+     "Is where the library?",
+     "The library is where?"
+    ],
+    "Trật tự câu hỏi vị trí đúng là: Where + is + the + tên phòng?"
+   ],
+   [
+    "Reorder the words: second / on / floor / it’s / the / .",
+    [
+     "It’s on the second floor.",
+     "It’s the on second floor.",
+     "It’s on second the floor.",
+     "On the second floor it’s."
+    ],
+    "Cấu trúc trả lời vị trí tầng đúng là: It’s + on + the + ordinal number + floor."
+   ],
+   [
+    "Look at the picture description: It is a room with many desks, chairs and a board. What room is it?",
+    [
+     "classroom",
+     "gym",
+     "school yard",
+     "canteen"
+    ],
+    "Phòng có bàn, ghế và bảng học là phòng học (classroom)."
+   ],
+   [
+    "Choose the incorrect sentence.",
+    [
+     "The art room is in the first floor.",
+     "The art room is on the first floor.",
+     "Where is the art room?",
+     "Is the art room on the first floor?"
+    ],
+    "Giới từ đi với “the first floor” phải là “on”, không dùng “in” nên câu này sai."
+   ],
+   [
+    "Tom wants to play basketball with his friends at break time. Where should he go?",
+    [
+     "To the gym.",
+     "To the library.",
+     "To the computer room.",
+     "To the art room."
+    ],
+    "Để chơi bóng rổ, học sinh nên đến phòng thể chất (gym) hoặc sân trường."
+   ],
+   [
+    "Mary: “Let’s go to the __________ to draw pictures.” – Phong: “Great idea!”",
+    [
+     "art room",
+     "music room",
+     "computer room",
+     "library"
+    ],
+    "Hành động vẽ tranh (draw pictures) diễn ra ở phòng mỹ thuật (art room)."
+   ],
+   [
+    "Which room has many maps, globes, and history books for learning about the world?",
+    [
+     "Geography room",
+     "Computer room",
+     "Music room",
+     "Gymnasium"
+    ],
+    "Geography room là phòng địa lý, nơi có bản đồ và quả địa cầu để học về thế giới."
+   ],
+   [
+    "Students go to the __________ to do experiments with science tools and chemical liquids.",
+    [
+     "science room",
+     "playground",
+     "library",
+     "classroom"
+    ],
+    "Science room là phòng khoa học, nơi học sinh làm thí nghiệm."
+   ],
+   [
+    "Choose the odd one out:",
+    [
+     "playground",
+     "library",
+     "music room",
+     "computer room"
+    ],
+    "Playground là sân chơi ngoài trời, còn lại là các phòng học trong nhà."
+   ],
+   [
+    "What do you usually do in the school library?",
+    [
+     "Read books and study quietly",
+     "Play football and run",
+     "Sing songs and dance",
+     "Cook meals"
+    ],
+    "Thư viện là nơi đọc sách và học tập yên tĩnh."
+   ],
+   [
+    "My classroom is __________ the third floor of the main building.",
+    [
+     "on",
+     "in",
+     "at",
+     "under"
+    ],
+    "Dùng giới từ on khi nói về vị trí ở một tầng lầu cụ thể."
+   ],
+   [
+    "__________ do you have English classes? – In room 402.",
+    [
+     "Where",
+     "What",
+     "When",
+     "Who"
+    ],
+    "Từ để hỏi Where dùng để hỏi về địa điểm, nơi chốn."
+   ],
+   [
+    "The teachers' __________ is a place where teachers work and rest between lessons.",
+    [
+     "room",
+     "yard",
+     "ground",
+     "floor"
+    ],
+    "Teachers' room có nghĩa là phòng giáo viên."
+   ],
+   [
+    "My school has a big yard __________ we often play badminton at break time.",
+    [
+     "where",
+     "what",
+     "when",
+     "who"
+    ],
+    "Dùng trạng từ quan hệ where để chỉ địa điểm là cái sân trường lớn."
+   ],
+   [
+    "Which word completes the sentence: \"Our school __________ a large playground and ten classrooms.\"",
+    [
+     "has",
+     "have",
+     "having",
+     "is having"
+    ],
+    "Chủ ngữ Our school là ngôi thứ ba số ít nên dùng has."
+   ],
+   [
+    "Nam wants to borrow a storybook. He should go to the __________.",
+    [
+     "library",
+     "music room",
+     "art room",
+     "computer room"
+    ],
+    "Thư viện là nơi học sinh có thể mượn sách truyện."
+   ],
+   [
+    "Choose the correct sentence to ask about the location of the art room:",
+    [
+     "Where is the art room?",
+     "What is the art room?",
+     "Is the art room big?",
+     "How is the art room?"
+    ],
+    "Cấu trúc hỏi vị trí: Where is + (tên phòng)?"
+   ],
+   [
+    "My classroom is on the ground floor, and the music room is __________ the first floor.",
+    [
+     "on",
+     "in",
+     "at",
+     "to"
+    ],
+    "Dùng giới từ on trước chỉ dẫn về tầng của tòa nhà."
+   ],
+   [
+    "Linda: \"Is the computer room upstairs?\" - Peter: \"Yes, __________.\"",
+    [
+     "it is",
+     "it isn't",
+     "they are",
+     "there is"
+    ],
+    "Câu hỏi bắt đầu bằng Is it nên câu trả lời khẳng định là Yes, it is."
+   ],
+   [
+    "Rearrange the words to make a complete sentence: room / the / where / is / music / ?",
+    [
+     "Where is the music room?",
+     "Where the music room is?",
+     "Is the music room where?",
+     "Room is where the music?"
+    ],
+    "Trật tự câu hỏi với từ để hỏi Where: Where + to be + chủ ngữ?"
+   ],
+   [
+    "Rearrange the words to make a complete sentence: floor / on / first / it's / the / .",
+    [
+     "It's on the first floor.",
+     "On the first floor it's.",
+     "It's first on the floor.",
+     "The first floor it's on."
+    ],
+    "Cấu trúc diễn đạt vị trí tầng: It's on the + tên tầng + floor."
+   ],
+   [
+    "Read and match: Room with many computers for IT lessons. -> It is a __________ room.",
+    [
+     "computer",
+     "music",
+     "art",
+     "science"
+    ],
+    "Phòng học có nhiều máy tính để học Tin học là computer room."
+   ],
+   [
+    "Find the mistake in the sentence: \"The library are on the second floor.\"",
+    [
+     "are",
+     "library",
+     "on",
+     "second"
+    ],
+    "Chủ ngữ The library số ít nên động từ to be phải là is, không dùng are."
+   ],
+   [
+    "Your friend asks: \"Do you have a smart board in your classroom?\" You want to say yes. You answer:",
+    [
+     "Yes, we do.",
+     "Yes, we are.",
+     "No, we don't.",
+     "Yes, it is."
+    ],
+    "Câu hỏi bắt đầu bằng Do you... nên trả lời là Yes, we do."
+   ],
+   [
+    "Mai and her friends want to practise singing a new song for the school festival. Which room should they go to?",
+    [
+     "Music room",
+     "Art room",
+     "Computer room",
+     "Library"
+    ],
+    "Phòng âm nhạc (Music room) là nơi tập hát và chơi nhạc cụ."
+   ],
+   [
+    "Choose the correct word to fill in the blank: “We often do experiments and use test tubes in the __________.”",
+    [
+     "science room",
+     "computer room",
+     "music room",
+     "art room"
+    ],
+    "Phòng thí nghiệm khoa học (science room) là nơi học sinh thực hiện các thí nghiệm và dùng ống nghiệm."
+   ]
+  ]
+ }
+}

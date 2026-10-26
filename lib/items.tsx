@@ -30,8 +30,10 @@ export function Body({ skin }: { skin: string }) {
     <g>
       {SIDES.map((f, i) => (
         <g key={i}>
-          <Limb x1={f(72)} y1={152} x2={f(57)} y2={190} w={13} color={skin} />
-          <circle cx={f(56)} cy={194} r={8} fill={skin} stroke={OL} strokeWidth={2.5} />
+          <g className={i ? "arm arm-r" : "arm arm-l"}>
+            <Limb x1={f(72)} y1={152} x2={f(57)} y2={190} w={13} color={skin} />
+            <circle cx={f(56)} cy={194} r={8} fill={skin} stroke={OL} strokeWidth={2.5} />
+          </g>
           <rect x={f(80) - (i ? 16 : 0)} y={194} width={16} height={42} rx={6} fill={skin} stroke={OL} strokeWidth={2.5} />
         </g>
       ))}
@@ -70,11 +72,13 @@ function shirt(
   return (c) => (
     <g>
       {SIDES.map((f, i) =>
-        o.sleeve === "long" ? (
-          <Limb key={i} x1={f(73)} y1={150} x2={f(58)} y2={185} w={16} color={sc} />
-        ) : (
-          <Limb key={i} x1={f(73)} y1={150} x2={f(66)} y2={165} w={18} color={sc} />
-        ),
+        <g key={i} className={i ? "arm arm-r" : "arm arm-l"}>
+          {o.sleeve === "long" ? (
+            <Limb x1={f(73)} y1={150} x2={f(58)} y2={185} w={16} color={sc} />
+          ) : (
+            <Limb x1={f(73)} y1={150} x2={f(66)} y2={165} w={18} color={sc} />
+          )}
+        </g>,
       )}
       <path d={o.shape ?? (o.dress ? DRESS : TORSO)} fill={color} stroke={OL} strokeWidth={2.5} />
       {!c.back && <path d="M90 143 Q100 152 110 143" fill="none" stroke={OL} strokeWidth={2} />}
@@ -586,7 +590,178 @@ const MORE_EYES: Item[] = [
   it("mat_to_xanh_la", "eyes", "Mắt long lanh xanh lá", "hiem", 150, () => <g>{brows}{[EYE_L, EYE_R].map(animeEye("#22c55e"))}</g>),
 ];
 
-const MORE: Item[] = [...MORE_HAIR, ...MORE_EYES, ...MORE_SHIRTS, ...MORE_PANTS, ...MORE_SHOES, ...MORE_GLASSES, ...MORE_HATS, ...MORE_BACKS];
+// ---------- Bộ sưu tập lấp lánh (bản 1.4) ----------
+
+const galaxyDots = (pts: [number, number, string][]) => (
+  <g>
+    {pts.map(([x, y, c], i) => (
+      <circle key={i} cx={x} cy={y} r={2.2} fill={c} />
+    ))}
+  </g>
+);
+
+const FANCY: Item[] = [
+  // Áo, váy
+  it("vay_ngan_ha", "shirt", "Váy dạ hội ngân hà", "huyenthoai", 1500, shirt("#312e81", {
+    dress: true,
+    detail: (
+      <g>
+        <path d="M56 214 Q100 224 144 214 L150 232 Q100 240 50 232 Z" fill="#6d28d9" stroke={OL} strokeWidth={2} />
+        {galaxyDots([[82, 166, "#fde68a"], [116, 176, "#ffffff"], [92, 196, "#a5f3fc"], [126, 204, "#fde68a"], [74, 214, "#ffffff"], [110, 222, "#f0abfc"]])}
+        {sparkles([[88, 182], [120, 160], [104, 212]])}
+      </g>
+    ),
+  })),
+  it("ao_giap_hiep_si", "shirt", "Áo giáp hiệp sĩ", "huyenthoai", 1400, shirt("#cbd5e1", {
+    sleeve: "long",
+    sleeveColor: "#94a3b8",
+    detail: (
+      <g>
+        <path d="M80 152 Q100 146 120 152 L118 196 Q100 204 82 196 Z" fill="#e2e8f0" stroke={OL} strokeWidth={2} />
+        <path d="M100 158 V192 M88 172 H112" stroke="#f5c542" strokeWidth={5} />
+        {sparkles([[78, 160], [124, 186]])}
+      </g>
+    ),
+  })),
+  it("vay_anh_dao", "shirt", "Váy hoa anh đào", "suthi", 600, shirt("#fbcfe8", {
+    dress: true,
+    detail: (
+      <g>
+        {[[80, 170], [114, 160], [96, 196], [126, 206], [70, 216], [108, 226]].map(([x, y], i) => (
+          <g key={i}>
+            {[0, 72, 144, 216, 288].map((a) => (
+              <circle key={a} cx={x + 4 * Math.cos((a * Math.PI) / 180)} cy={y + 4 * Math.sin((a * Math.PI) / 180)} r={3.2} fill="#f472b6" />
+            ))}
+            <circle cx={x} cy={y} r={2} fill="#fde047" />
+          </g>
+        ))}
+      </g>
+    ),
+  })),
+  it("ao_dai_do_vang", "shirt", "Áo dài đỏ thêu vàng", "suthi", 700, shirt("#dc2626", {
+    shape: AODAI,
+    sleeve: "long",
+    detail: (
+      <g>
+        {mandarin}
+        <path d="M84 170 Q100 160 116 170 Q100 184 84 170 Z" fill="#fbbf24" stroke={OL} strokeWidth={1.5} />
+        <circle cx={100} cy={196} r={5} fill="#fbbf24" />
+        {sparkles([[90, 214], [112, 184]])}
+      </g>
+    ),
+  })),
+  it("ao_du_hanh_vu_tru", "shirt", "Áo du hành vũ trụ", "suthi", 650, shirt("#f8fafc", {
+    sleeve: "long",
+    sleeveColor: "#e2e8f0",
+    detail: (
+      <g>
+        <rect x={86} y={160} width={28} height={22} rx={4} fill="#93c5fd" stroke={OL} strokeWidth={2} />
+        <circle cx={92} cy={168} r={3} fill="#ef4444" />
+        <circle cx={100} cy={168} r={3} fill="#22c55e" />
+        <circle cx={108} cy={168} r={3} fill="#facc15" />
+        <rect x={114} y={150} width={12} height={8} fill="#da251d" stroke={OL} strokeWidth={1} />
+      </g>
+    ),
+  })),
+  it("ao_len_cau_vong", "shirt", "Áo len cầu vồng", "hiem", 320, shirt("#ef4444", {
+    sleeve: "long",
+    sleeveColor: "#a855f7",
+    detail: (
+      <g strokeWidth={7}>
+        {["#f97316", "#facc15", "#22c55e", "#3b82f6"].map((c, i) => {
+          const y = 160 + i * 11;
+          return <line key={c} x1={torsoLeft(y) + 2} y1={y} x2={mirror(torsoLeft(y) + 2)} y2={y} stroke={c} />;
+        })}
+      </g>
+    ),
+  })),
+  // Quần, váy
+  it("vay_xoe_lap_lanh", "pants", "Chân váy xòe lấp lánh", "suthi", 480, pants("#c084fc", SKIRT, sparkles([[82, 212], [116, 220], [100, 206]]))),
+  it("quan_jean_thoi_trang", "pants", "Quần jean thời trang", "hiem", 260, pants("#3b82f6", LONG, <path d="M76 222 L86 224 M114 220 L124 222" stroke="#bfdbfe" strokeWidth={3} />)),
+  // Giày
+  it("giay_bang_tuyet", "shoes", "Giày băng tuyết", "suthi", 450, shoes("#a5f3fc", "#ffffff", { boot: true, shine: true })),
+  it("giay_ki_lan", "shoes", "Giày kì lân", "huyenthoai", 950, shoes("#f0abfc", "#fde68a", { lights: true, shine: true })),
+  // Mũ
+  it("mu_ki_lan", "hat", "Mũ kì lân", "huyenthoai", 1200, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M60 46 Q100 18 140 46 Q120 40 100 42 Q80 40 60 46 Z" fill="#fdf4ff" />
+      <path d="M92 32 L100 -6 L108 32 Z" fill="#fde68a" />
+      <path d="M95 22 L105 18 M94 12 L104 8" stroke="#f59e0b" strokeWidth={2} />
+      <path d="M64 40 L56 20 L74 34 Z M136 40 L144 20 L126 34 Z" fill="#f9a8d4" />
+      <Sparkle x={124} y={8} s={5} />
+    </g>
+  )),
+  it("vuong_mien_kim_cuong", "hat", "Vương miện kim cương", "huyenthoai", 1600, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M60 42 L64 8 L82 26 L100 2 L118 26 L136 8 L140 42 Z" fill="#e0f2fe" />
+      <path d="M94 22 L100 12 L106 22 L100 32 Z" fill="#38bdf8" />
+      <circle cx={76} cy={34} r={4} fill="#f0abfc" />
+      <circle cx={124} cy={34} r={4} fill="#a5f3fc" />
+      <Sparkle x={66} y={6} s={5} />
+      <Sparkle x={136} y={4} s={4} />
+    </g>
+  )),
+  it("bang_do_tai_tho", "hat", "Băng đô tai thỏ", "hiem", 250, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M54 56 Q100 22 146 56" fill="none" stroke="#f472b6" strokeWidth={6} />
+      <ellipse cx={80} cy={10} rx={10} ry={26} fill="#ffffff" transform="rotate(-12 80 10)" />
+      <ellipse cx={120} cy={10} rx={10} ry={26} fill="#ffffff" transform="rotate(12 120 10)" />
+      <ellipse cx={80} cy={12} rx={5} ry={18} fill="#fbcfe8" transform="rotate(-12 80 12)" stroke="none" />
+      <ellipse cx={120} cy={12} rx={5} ry={18} fill="#fbcfe8" transform="rotate(12 120 12)" stroke="none" />
+    </g>
+  )),
+  it("mu_cao_boi_sa_mac", "hat", "Mũ cao bồi sa mạc", "hiem", 280, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <path d="M30 46 Q100 64 170 46 Q160 56 100 60 Q40 56 30 46 Z" fill="#a16207" />
+      <path d="M66 46 Q64 14 84 16 Q100 24 116 16 Q136 14 134 46 Z" fill="#ca8a04" />
+      <path d="M68 40 Q100 46 132 40" fill="none" stroke="#7c2d12" strokeWidth={5} />
+    </g>
+  )),
+  // Kính
+  it("kinh_cau_vong", "glasses", "Kính cầu vồng", "suthi", 400, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      {[74, 126].map((cx, i) => (
+        <g key={cx}>
+          <rect x={cx - 18} y={98} width={36} height={22} rx={10} fill={i ? "#a5f3fc" : "#fbcfe8"} opacity={0.85} />
+          <path d={`M${cx - 14} 104 H${cx + 14}`} stroke="#fde047" strokeWidth={3} />
+          <path d={`M${cx - 14} 112 H${cx + 14}`} stroke="#86efac" strokeWidth={3} />
+        </g>
+      ))}
+      <path d="M92 108 H108" />
+    </g>
+  )),
+  // Sau lưng
+  it("canh_rong_xanh", "back", "Cánh rồng xanh lục", "huyenthoai", 1500, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      {SIDES.map((f, i) => (
+        <g key={i}>
+          <path d={`M${f(74)} 156 L${f(14)} 112 L${f(28)} 150 L${f(4)} 160 L${f(30)} 176 L${f(12)} 196 L${f(74)} 186 Z`} fill="#16a34a" />
+          <path d={`M${f(74)} 158 L${f(22)} 124 M${f(74)} 170 L${f(16)} 168 M${f(74)} 182 L${f(24)} 190`} stroke="#14532d" strokeWidth={2} fill="none" />
+        </g>
+      ))}
+    </g>
+  )),
+  it("canh_tien_bang", "back", "Cánh tiên băng giá", "suthi", 700, () => (
+    <g stroke={OL} strokeWidth={2}>
+      {SIDES.map((f, i) => (
+        <g key={i}>
+          <ellipse cx={f(42)} cy={146} rx={32} ry={20} fill="#a5f3fc" opacity={0.85} transform={`rotate(${i ? 35 : -35} ${f(42)} 146)`} />
+          <ellipse cx={f(52)} cy={190} rx={20} ry={13} fill="#c4b5fd" opacity={0.85} transform={`rotate(${i ? -25 : 25} ${f(52)} 190)`} />
+          <Sparkle x={f(34)} y={140} s={4} />
+        </g>
+      ))}
+    </g>
+  )),
+  it("balo_gau", "back", "Ba lô gấu", "hiem", 260, () => (
+    <g stroke={OL} strokeWidth={2.5}>
+      <rect x={66} y={150} width={68} height={62} rx={18} fill="#d97706" />
+      <circle cx={74} cy={152} r={10} fill="#d97706" />
+      <circle cx={126} cy={152} r={10} fill="#d97706" />
+    </g>
+  )),
+];
+
+const MORE: Item[] = [...MORE_HAIR, ...MORE_EYES, ...MORE_SHIRTS, ...MORE_PANTS, ...MORE_SHOES, ...MORE_GLASSES, ...MORE_HATS, ...MORE_BACKS, ...FANCY];
 
 // ---------- Danh mục đồ ----------
 

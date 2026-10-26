@@ -805,6 +805,24 @@ const KITCHEN: HomeItem[] = [
   floorItem("h_ban_an", "bep", "Bàn ăn gia đình", "hiem", 200, 2, 1, diningTable),
 ];
 
+// ---------- Máy chơi game ----------
+
+const arcade = (c: FloorCtx) => {
+  const L = local(c);
+  return (
+    <g>
+      {L.shadow(1, 1)}
+      {L.box(0.15, 0.1, 0.7, 0.55, 0, 74, "#7c3aed")}
+      {L.box(0.12, 0.08, 0.76, 0.6, 74, 8, "#f472b6")}
+      {L.box(0.2, 0.62, 0.6, 0.04, 42, 26, "#22d3ee")}
+      {L.box(0.15, 0.62, 0.7, 0.28, 30, 8, "#1e293b")}
+      {L.box(0.28, 0.7, 0.1, 0.1, 38, 6, "#ef4444")}
+      {L.box(0.55, 0.7, 0.08, 0.08, 38, 4, "#facc15")}
+      {L.box(0.68, 0.7, 0.08, 0.08, 38, 4, "#22c55e")}
+    </g>
+  );
+};
+
 // ---------- Nhà vệ sinh ----------
 
 const toilet = (c: FloorCtx) => {
@@ -965,6 +983,7 @@ export const HOME_ITEMS: HomeItem[] = [
   floorItem("h_bong_bay_hong", "vuichoi", "Bóng bay hồng tím", "thuong", 50, 1, 1, balloons(["#f472b6", "#a78bfa", "#fbcfe8"])),
   floorItem("h_ruong_do_choi", "vuichoi", "Rương đồ chơi", "thuong", 100, 1, 1, toyChest),
   floorItem("h_ngua_bap_benh", "vuichoi", "Ngựa bập bênh", "hiem", 180, 1, 1, rocking),
+  floorItem("h_may_game", "vuichoi", "Máy chơi game", "suthi", 600, 1, 1, arcade),
   ...pal(["do", "xanhla", "tim"]).map((c) => floorItem(`h_leu_${c.id}`, "vuichoi", `Lều cắm trại ${c.name}`, "suthi", 400, 2, 2, tent(c.hex))),
 
   ...KITCHEN,
@@ -980,6 +999,32 @@ export const HOME_STARTER_IDS = HOME_ITEMS.filter((i) => i.starter).map((i) => i
 // ---------- Trạng thái ngôi nhà ----------
 
 export const ROOM_N = 6;
+/** Phòng mở rộng được tới 10 × 10 ô */
+export const ROOM_MAX = 10;
+export const roomSize = (r: RoomState) => Math.min(ROOM_MAX, Math.max(ROOM_N, r.size ?? ROOM_N));
+/** Giá mở rộng phòng lên kích thước `next` ô mỗi cạnh */
+export const EXPAND_COST: Record<number, number> = { 7: 400, 8: 900, 9: 1600, 10: 2500 };
+/** Giá mua lẻ một phòng chưa có theo kiểu nhà */
+export const ROOM_PRICE: Record<RoomId, number> = { khach: 0, ngu: 0, bep: 400, vesinh: 400, hoc: 800, choi: 1200 };
+
+// ---------- Đồ dùng tương tác được (chế độ Đi dạo) ----------
+
+export type HomeAction = "toilet" | "flush" | "wash" | "shower" | "bath" | "fridge" | "eat" | "cook" | "laundry" | "tv" | "game";
+/** Các hành động theo mã đồ (so khớp đầu mã) */
+export const ACTIONS: [string, { act: HomeAction; label: string }[]][] = [
+  ["h_bon_cau", [{ act: "toilet", label: "🚽 Đi vệ sinh" }, { act: "flush", label: "💦 Dội nước" }]],
+  ["h_lavabo", [{ act: "wash", label: "🧼 Rửa tay, rửa mặt" }]],
+  ["h_bon_rua", [{ act: "wash", label: "🍽️ Rửa bát" }]],
+  ["h_voi_sen", [{ act: "shower", label: "🚿 Tắm vòi sen" }]],
+  ["h_bon_tam", [{ act: "bath", label: "🛁 Tắm bồn" }]],
+  ["h_tu_lanh", [{ act: "fridge", label: "🧊 Mở tủ lạnh" }, { act: "eat", label: "🍎 Lấy đồ ăn" }]],
+  ["h_bep_nau", [{ act: "cook", label: "🍳 Nấu ăn" }]],
+  ["h_lo_vi_song", [{ act: "cook", label: "🔥 Hâm nóng đồ ăn" }]],
+  ["h_may_giat", [{ act: "laundry", label: "🧺 Giặt quần áo" }]],
+  ["h_tivi", [{ act: "tv", label: "📺 Xem ti vi" }]],
+  ["h_may_game", [{ act: "game", label: "🎮 Chơi game (100 xu/lượt)" }]],
+];
+export const actionsFor = (id: string) => ACTIONS.find(([k]) => id.startsWith(k))?.[1];
 
 export interface PlacedFloor {
   uid: string;
@@ -1000,6 +1045,8 @@ export interface RoomState {
   flooring: string;
   floor: PlacedFloor[];
   wall: PlacedWall[];
+  /** Số ô mỗi cạnh (mặc định 6, mua để mở rộng tới ROOM_MAX) */
+  size?: number;
 }
 
 export type RoomId = "khach" | "ngu" | "bep" | "vesinh" | "hoc" | "choi";
@@ -1036,6 +1083,8 @@ export const ROOM_ORDER: RoomId[] = ["khach", "ngu", "bep", "vesinh", "hoc", "ch
 
 export interface HomeState {
   rooms: Record<RoomId, RoomState>;
+  /** Phòng mua thêm ngoài các phòng có sẵn theo kiểu nhà */
+  bought?: RoomId[];
 }
 
 const room = (wallpaper: string, flooring: string, floor: PlacedFloor[] = []): RoomState => ({ wallpaper, flooring, floor, wall: [] });
@@ -1067,7 +1116,7 @@ export function migrateHome(h: unknown): HomeState {
   const base = defaultHome();
   if (!h || typeof h !== "object") return base;
   const any = h as Partial<HomeState> & Partial<RoomState>;
-  if (any.rooms) return { rooms: { ...base.rooms, ...any.rooms } };
+  if (any.rooms) return { rooms: { ...base.rooms, ...any.rooms }, ...(any.bought ? { bought: any.bought } : {}) };
   if (Array.isArray(any.floor)) {
     // Bản 1.1 thử nghiệm chỉ có một phòng có giường: coi là phòng ngủ
     return { rooms: { ...base.rooms, ngu: { wallpaper: any.wallpaper ?? "hw_kem", flooring: any.flooring ?? "hf_go", floor: any.floor, wall: any.wall ?? [] } } };
@@ -1096,9 +1145,9 @@ export function blockedTiles(floor: PlacedFloor[], skipUid?: string) {
   return set;
 }
 
-export function canPlace(floor: PlacedFloor[], it: HomeItem, x: number, y: number, rot: 0 | 1, skipUid?: string, doors: Door[] = []) {
+export function canPlace(floor: PlacedFloor[], it: HomeItem, x: number, y: number, rot: 0 | 1, skipUid?: string, doors: Door[] = [], n = ROOM_N) {
   const { w, d } = footprint(it, rot);
-  if (x < 0 || y < 0 || x + w > ROOM_N || y + d > ROOM_N) return false;
+  if (x < 0 || y < 0 || x + w > n || y + d > n) return false;
   const isRug = isRugId(it.id);
   const used = new Set<string>();
   for (const f of floor) {
@@ -1113,8 +1162,8 @@ export function canPlace(floor: PlacedFloor[], it: HomeItem, x: number, y: numbe
   return true;
 }
 
-export function canHang(wall: PlacedWall[], it: HomeItem, side: "L" | "R", i: number, skipUid?: string, doors: Door[] = []) {
-  if (i < 0 || i + it.w > ROOM_N) return false;
+export function canHang(wall: PlacedWall[], it: HomeItem, side: "L" | "R", i: number, skipUid?: string, doors: Door[] = [], n = ROOM_N) {
+  if (i < 0 || i + it.w > n) return false;
   if (doors.some((d) => d.side === side && i <= d.i && d.i < i + it.w)) return false;
   return !wall.some((p) => {
     if (p.uid === skipUid || p.side !== side) return false;

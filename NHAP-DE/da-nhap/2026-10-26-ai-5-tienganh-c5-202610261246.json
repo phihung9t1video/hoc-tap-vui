@@ -1,0 +1,406 @@
+{
+ "5-tienganh": {
+  "c5": [
+   [
+    "What would you like to be in the future? - I’d like to be a _____.",
+    [
+     "doctor",
+     "hospital",
+     "school",
+     "draw"
+    ],
+    "Sau 'a' là một danh từ chỉ nghề nghiệp, 'doctor' (bác sĩ) là đáp án đúng."
+   ],
+   [
+    "Why would you like to be a teacher? - _____ I’d like to teach children.",
+    [
+     "Because",
+     "So",
+     "And",
+     "But"
+    ],
+    "Câu hỏi bắt đầu bằng 'Why' (Tại sao) nên câu trả lời dùng 'Because' (Bởi vì)."
+   ],
+   [
+    "A _____ puts out fires and saves people.",
+    [
+     "firefighter",
+     "pilot",
+     "writer",
+     "nurse"
+    ],
+    "'Firefighter' (lính hỏa hoạn/lính chữa cháy) là người dập tắt các đám cháy và cứu người."
+   ],
+   [
+    "What would your brother like to be? - _____ would like to be an astronaut.",
+    [
+     "He",
+     "She",
+     "It",
+     "They"
+    ],
+    "'Your brother' là nam số ít, dùng đại từ nhân xưng 'He' để thay thế."
+   ],
+   [
+    "I’d like to fly a plane, so I’d like to be a _____.",
+    [
+     "pilot",
+     "driver",
+     "farmer",
+     "cook"
+    ],
+    "Người lái máy bay ('fly a plane') là phi công ('pilot')."
+   ],
+   [
+    "Từ nào sau đây có nghĩa là “họa sĩ” trong tiếng Anh?",
+    [
+     "artist",
+     "architect",
+     "actor",
+     "author"
+    ],
+    "'Artist' trong tiếng Anh có nghĩa là họa sĩ."
+   ],
+   [
+    "My sister likes writing stories. She’d like to be a _____.",
+    [
+     "writer",
+     "singer",
+     "dancer",
+     "doctor"
+    ],
+    "Thích viết truyện ('writing stories') thì muốn trở thành nhà văn ('writer')."
+   ],
+   [
+    "A nurse works in a _____.",
+    [
+     "hospital",
+     "farm",
+     "school",
+     "police station"
+    ],
+    "Y tá ('nurse') làm việc ở bệnh viện ('hospital')."
+   ],
+   [
+    "_____ would you like to be in the future?",
+    [
+     "What",
+     "Where",
+     "When",
+     "Why"
+    ],
+    "Cấu trúc hỏi về nghề nghiệp mơ ước: 'What would you like to be in the future?'"
+   ],
+   [
+    "I would like to be an architect _____ I’d like to design buildings.",
+    [
+     "because",
+     "but",
+     "or",
+     "so"
+    ],
+    "Dùng 'because' để giải thích lý do tại sao muốn làm kiến trúc sư."
+   ],
+   [
+    "Why would he like to be a farmer? - Because he’d like to work on a _____.",
+    [
+     "farm",
+     "factory",
+     "studio",
+     "office"
+    ],
+    "Nông dân ('farmer') làm việc ở trang trại ('farm')."
+   ],
+   [
+    "Mai likes singing English songs. She wants to be a famous _____.",
+    [
+     "singer",
+     "musician",
+     "dancer",
+     "teacher"
+    ],
+    "Thích hát ('singing') thì muốn trở thành ca sĩ ('singer')."
+   ],
+   [
+    "_____ your sister like to be a doctor?",
+    [
+     "Would",
+     "Is",
+     "Do",
+     "Are"
+    ],
+    "Cấu trúc 'Would + S + like to be...?' dùng để hỏi về mong muốn nghề nghiệp."
+   ],
+   [
+    "An astronaut travels into _____.",
+    [
+     "space",
+     "sea",
+     "forest",
+     "city"
+    ],
+    "Phi hành gia ('astronaut') bay vào vũ trụ ('space')."
+   ],
+   [
+    "Why would you like to be a doctor? - Because I’d like to look _____ patients.",
+    [
+     "after",
+     "for",
+     "at",
+     "on"
+    ],
+    "Cụm từ 'look after' có nghĩa là chăm sóc (bệnh nhân)."
+   ],
+   [
+    "Nam: “Why would you like to be a pilot?” - Quan: “_____”",
+    [
+     "Because I’d like to fly a plane.",
+     "Yes, I’d love to.",
+     "I’m fine, thank you.",
+     "No, I wouldn’t."
+    ],
+    "Câu hỏi với 'Why' cần trả lời lý do bắt đầu bằng 'Because'."
+   ],
+   [
+    "Phong is good at drawing pictures. He’d like to _____ an artist.",
+    [
+     "be",
+     "is",
+     "are",
+     "being"
+    ],
+    "Sau cấu trúc 'would like to' là động từ nguyên mẫu 'be'."
+   ],
+   [
+    "Choose the incorrect word in the sentence: “She would likes to be a teacher.”",
+    [
+     "likes",
+     "would",
+     "to be",
+     "a"
+    ],
+    "Sau 'would' động từ 'like' giữ nguyên thể, không thêm 's'. Từ sai là 'likes'."
+   ],
+   [
+    "Tom: “Would you like to be a reporter?” - Peter: “_____”",
+    [
+     "Yes, I’d love to.",
+     "Yes, I am.",
+     "No, I am not.",
+     "I like reports."
+    ],
+    "Câu hỏi 'Would you like...?' trả lời lịch sự bằng 'Yes, I’d love to.' hoặc 'No, thanks.'"
+   ],
+   [
+    "Reorder the words to make a correct sentence: “future / be / What / in / you / like / would / to / the / ?”",
+    [
+     "What would you like to be in the future?",
+     "What you would like to be in the future?",
+     "What would you like be to in the future?",
+     "What would like you to be in the future?"
+    ],
+    "Trật tự đúng của câu hỏi về nghề nghiệp tương lai là: 'What would you like to be in the future?'"
+   ],
+   [
+    "Choose the word that has the underlined part pronounced differently: w<u>o</u>rk, d<u>o</u>ctor, f<u>a</u>rmer, n<u>u</u>rse.",
+    [
+     "farmer",
+     "work",
+     "doctor",
+     "nurse"
+    ],
+    "Từ farmer có chữ a phát âm là /ɑː/, trong khi các từ còn lại có âm khác hoặc thuộc nhóm nghề nghiệp khác. Đây là câu hỏi nhận biết về ngữ âm."
+   ],
+   [
+    "My uncle works on a farm. He grows rice and vegetables. He is a _____.",
+    [
+     "farmer",
+     "driver",
+     "writer",
+     "singer"
+    ],
+    "Làm việc ở nông trại và trồng lúa, rau củ thì nghề nghiệp là nông dân (farmer). Đây là câu hỏi nhận biết từ vựng."
+   ],
+   [
+    "A _____ writes books and stories for children and adults.",
+    [
+     "writer",
+     "singer",
+     "actor",
+     "dancer"
+    ],
+    "Người viết sách và truyện là nhà văn (writer). Đây là câu hỏi nhận biết."
+   ],
+   [
+    "Choose the correct spelling of the word meaning “ca sĩ”.",
+    [
+     "singer",
+     "singger",
+     "senger",
+     "cynger"
+    ],
+    "Ca sĩ trong tiếng Anh viết là singer. Đây là câu hỏi nhận biết về chính tả."
+   ],
+   [
+    "What does your father do? - He is a _____. He designs houses and buildings.",
+    [
+     "architect",
+     "pilot",
+     "dentist",
+     "cook"
+    ],
+    "Người thiết kế nhà cửa và các tòa nhà là kiến trúc sư (architect). Đây là câu hỏi nhận biết."
+   ],
+   [
+    "My aunt works in a hospital. She helps sick people. She is a _____.",
+    [
+     "nurse",
+     "teacher",
+     "driver",
+     "farmer"
+    ],
+    "Người làm việc ở bệnh viện và giúp đỡ người bệnh là y tá (nurse). Đây là câu hỏi nhận biết."
+   ],
+   [
+    "Choose the odd one out: singer, dancer, doctor, music.",
+    [
+     "music",
+     "singer",
+     "dancer",
+     "doctor"
+    ],
+    "Music là danh từ chỉ âm nhạc, ba từ còn lại là danh từ chỉ nghề nghiệp. Đây là câu hỏi thông hiểu về phân loại từ."
+   ],
+   [
+    "Linda likes cooking very much. She wants to be a _____ in a big restaurant.",
+    [
+     "cook",
+     "writer",
+     "singer",
+     "pilot"
+    ],
+    "Thích nấu ăn và làm việc ở nhà hàng lớn thì ước mơ làm đầu bếp (cook). Đây là câu hỏi thông hiểu."
+   ],
+   [
+    "John is very brave. He helps people when there is a big fire. He wants to be a _____.",
+    [
+     "firefighter",
+     "teacher",
+     "dentist",
+     "driver"
+    ],
+    "Người dũng cảm giúp dập tắt đám cháy và cứu người là lính cứu hỏa (firefighter). Đây là câu hỏi thông hiểu."
+   ],
+   [
+    "Complete the sentence: “_____ would she like to be in the future? - She’d like to be a nurse.”",
+    [
+     "What",
+     "Where",
+     "When",
+     "Who"
+    ],
+    "Hỏi về ước mơ nghề nghiệp trong tương lai dùng từ để hỏi What. Đây là câu hỏi thông hiểu về cấu trúc câu."
+   ],
+   [
+    "Find the mistake: “He would like be a teacher because he loves children.”",
+    [
+     "like be",
+     "would",
+     "because",
+     "children"
+    ],
+    "Cấu trúc đúng là would like to be, thiếu giới từ to sau like. Đây là câu hỏi thông hiểu về ngữ pháp."
+   ],
+   [
+    "Mary’s mother works at a primary school. She teaches English. She is a _____.",
+    [
+     "teacher",
+     "doctor",
+     "nurse",
+     "writer"
+    ],
+    "Người làm việc ở trường tiểu học và dạy học là giáo viên (teacher). Đây là câu hỏi thông hiểu."
+   ],
+   [
+    "Peter likes fixing cars and motorbikes. He would like to be a _____.",
+    [
+     "mechanic",
+     "pilot",
+     "dentist",
+     "singer"
+    ],
+    "Thích sửa chữa xe hơi và xe máy thì nghề nghiệp tương lai là thợ cơ khí/sửa chữa (mechanic). Đây là câu hỏi thông hiểu."
+   ],
+   [
+    "Why would Tim like to be a dentist? - Because he’d like to take care of people’s _____.",
+    [
+     "teeth",
+     "hair",
+     "eyes",
+     "hands"
+    ],
+    "Nha sĩ (dentist) là người chăm sóc răng miệng (teeth). Đây là câu hỏi thông hiểu."
+   ],
+   [
+    "Choose the correct sentence to complete the dialogue: Lan: “Why would you like to be a writer?” - Nam: “_____”",
+    [
+     "Because I’d like to write interesting stories for children.",
+     "Because I’d like to fly a big plane in the sky.",
+     "Because I’d like to help sick people in the hospital.",
+     "Because I’d like to paint beautiful pictures."
+    ],
+    "Nhà văn (writer) có công việc liên quan đến viết truyện (write stories). Đây là câu hỏi thông hiểu."
+   ],
+   [
+    "Rearrange to make a correct sentence: like / What / you / would / be / to / in / future / the / ?",
+    [
+     "What would you like to be in the future?",
+     "What you would like to be in the future?",
+     "What would like you to be in the future?",
+     "What would you be like to in the future?"
+    ],
+    "Câu hỏi về ước mơ nghề nghiệp có cấu trúc: What would + chủ ngữ + like to be in the future? Đây là câu hỏi vận dụng sắp xếp câu."
+   ],
+   [
+    "Read and match: A pilot _____.",
+    [
+     "flies a plane and travels around the world",
+     "presents news on television",
+     "works on a farm and grows crops",
+     "helps the doctor examine patients"
+    ],
+    "Phi công (pilot) là người lái máy bay và đi vòng quanh thế giới. Đây là câu hỏi vận dụng hiểu nghĩa."
+   ],
+   [
+    "Which job does NOT belong to the school environment?",
+    [
+     "Dentist",
+     "Teacher",
+     "Headmaster",
+     "Librarian"
+    ],
+    "Nha sĩ (dentist) làm việc ở phòng khám nha khoa hoặc bệnh viện, không thuộc môi trường trường học như teacher, headmaster, librarian. Đây là câu hỏi vận dụng cao."
+   ],
+   [
+    "Complete the short paragraph: “My name is Linh. I love art and drawing. In the future, I want to be an _____ so I can create colourful pictures.”",
+    [
+     "artist",
+     "actor",
+     "author",
+     "anchor"
+    ],
+    "Yêu thích nghệ thuật và vẽ tranh thì ước mơ làm họa sĩ (artist). Đây là câu hỏi vận dụng điền từ."
+   ],
+   [
+    "Choose the best response: “Would your brother like to be a reporter?” - “No, he wouldn’t. He’d like to be a _____ because he loves taking photos of news events.”",
+    [
+     "photographer",
+     "singer",
+     "driver",
+     "cook"
+    ],
+    "Thích chụp ảnh các sự kiện tin tức thì phù hợp với nghề nhiếp ảnh gia (photographer). Đây là câu hỏi vận dụng."
+   ]
+  ]
+ }
+}

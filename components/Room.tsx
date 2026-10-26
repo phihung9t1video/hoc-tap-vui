@@ -2,15 +2,15 @@
 
 import { useEffect, useId, useLayoutEffect, useRef, useState, type ReactNode } from "react";
 import { OL, Sparkle, Star } from "@/lib/draw";
-import { HOME_MAP, ROOMS, ROOM_N, blockedTiles, doorTile, footprint, type Door, type DoorTarget, type HomeItem, type RoomState } from "@/lib/home";
+import { HOME_MAP, ROOMS, actionsFor, blockedTiles, doorTile, footprint, roomSize, type Door, type DoorTarget, type HomeAction, type HomeItem, type RoomState } from "@/lib/home";
+import { footstep, sfx, unlock } from "@/lib/sound";
+import { useIdlePose } from "@/lib/useIdlePose";
 import { FloorQuad, TW, TH, poly, pt, shade, wallMatrix, type Proj } from "@/lib/iso";
 import type { Look } from "@/lib/types";
 import { Avatar } from "./Avatar";
 
 const WALL_H = 150;
-const P: Proj = { ox: (ROOM_N * TW) / 2 + 12, oy: WALL_H + 16 };
-const VIEW_W = ROOM_N * TW + 24;
-const VIEW_H = P.oy + ROOM_N * TH + 22;
+const projFor = (n: number): Proj => ({ ox: (n * TW) / 2 + 12, oy: WALL_H + 16 });
 /** Độ cao (tính từ sàn) của mép trên đồ treo tường */
 const WALL_ITEM_TOP = 118;
 
@@ -39,7 +39,7 @@ function WallPattern({ id, t, side }: { id: string; t: Theme; side: "L" | "R" })
   );
 }
 
-function FloorTile({ x, y, t }: { x: number; y: number; t: Theme }) {
+function FloorTile({ p: P, x, y, t }: { p: Proj; x: number; y: number; t: Theme }) {
   const corners = [pt(P, x, y), pt(P, x + 1, y), pt(P, x + 1, y + 1), pt(P, x, y + 1)];
   const alt = (x + y) % 2 === 1;
   const fill = t.pattern === "check" ? (alt ? t.b : t.a) : t.pattern === "planks" ? (y % 2 ? t.b : t.a) : t.a;
@@ -59,7 +59,7 @@ function FloorTile({ x, y, t }: { x: number; y: number; t: Theme }) {
 
 // ---------- Ngồi, nằm ----------
 
-type Pose = { uid: string; kind: "sit" | "lie" } | null;
+type Pose = { uid: string; kind: "sit" | "lie"; z?: number; tub?: boolean } | null;
 
 function seatKind(id: string): "sit" | "lie" | null {
   if (id.startsWith("h_giuong")) return "lie";
@@ -69,9 +69,9 @@ function seatKind(id: string): "sit" | "lie" | null {
 
 // ---------- Tìm đường trên lưới ô ----------
 
-function findPath(from: [number, number], to: [number, number], blocked: Set<string>): [number, number][] {
+function findPath(from: [number, number], to: [number, number], blocked: Set<string>, n: number): [number, number][] {
   const key = (x: number, y: number) => `${x},${y}`;
-  const free = (x: number, y: number) => x >= 0 && y >= 0 && x < ROOM_N && y < ROOM_N && !blocked.has(key(x, y));
+  const free = (x: number, y: number) => x >= 0 && y >= 0 && x < n && y < n && !blocked.has(key(x, y));
   let goal = to;
   if (!free(...to)) {
     // Bấm vào đồ đạc: đi tới ô trống gần nhất bên cạnh
@@ -121,35 +121,52 @@ export interface RoomProps {
   onTile?: (x: number, y: number) => void;
   onWall?: (side: "L" | "R", i: number) => void;
   onItem?: (uid: string) => void;
+  /** Chạm vào đồ dùng có hành động (bồn cầu, tủ lạnh...) ở chế độ Đi dạo */
+  onInteract?: (uid: string) => void;
+  /** Lệnh thực hiện hành động (n tăng mỗi lần bấm) */
+  act?: { uid: string; action: HomeAction; n: number } | null;
 }
 
-export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wallTarget, onTile, onWall, onItem }: RoomProps) {
+export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wallTarget, onTile, onWall, onItem, onInteract, act }: RoomProps) {
   const uid = useId().replace(/:/g, "");
+  const N = roomSize(room);
+  const P = projFor(N);
+  const VIEW_W = N * TW + 24;
+  const VIEW_H = P.oy + N * TH + 22;
   const wp = HOME_MAP[room.wallpaper]?.theme ?? HOME_MAP.hw_kem.theme!;
   const fl = HOME_MAP[room.flooring]?.theme ?? HOME_MAP.hf_go.theme!;
   const blocked = blockedTiles(room.floor);
   const hasPet = look.pet && look.pet !== "pet_khong";
 
   // Vị trí nhân vật, thú cưng (toạ độ ô, số thực để đi mượt)
-  const start = useRef<[number, number]>(entry && !blocked.has(entry.join(",")) ? entry : firstFree(blocked));
+  const start = useRef<[number, number]>(entry && !blocked.has(entry.join(",")) ? entry : firstFree(blocked, N));
   const pendingDoor = useRef<DoorTarget | null>(null);
   // Ngồi ghế, sofa hoặc nằm giường
   const [pose, setPose] = useState<Pose>(null);
   const pendingPose = useRef<Pose>(null);
   const [me, setMe] = useState({ x: start.current[0], y: start.current[1], back: false, hop: 0 });
-  const [pet, setPet] = useState({ x: Math.min(start.current[0] + 1, ROOM_N - 1), y: start.current[1] });
+  const [pet, setPet] = useState({ x: Math.min(start.current[0] + 1, N - 1), y: start.current[1] });
+  /** Ngôi sao nhấp nháy ở chỗ vừa chạm */
+  const [marker, setMarker] = useState<{ x: number; y: number; n: number } | null>(null);
+  /** Bóng chữ khi dùng đồ (đi vệ sinh, tắm...) */
+  const [bubble, setBubble] = useState<{ text: string; n: number } | null>(null);
+  const pendingAct = useRef<{ uid: string; action: HomeAction } | null>(null);
+  const stepAcc = useRef(0);
+  const timers = useRef<ReturnType<typeof setTimeout>[]>([]);
   const path = useRef<[number, number][]>([]);
   const raf = useRef<number | null>(null);
   const meRef = useRef(me);
   const petRef = useRef(pet);
   meRef.current = me;
   petRef.current = pet;
+  // Đứng yên một lúc thì vẫy tay, vươn vai
+  const idle = useIdlePose(path.current.length > 0 || !!pose);
 
   // Nếu đồ mới đặt đè lên chỗ đang đứng thì nhảy ra ô trống
   useEffect(() => {
     const k = `${Math.round(meRef.current.x)},${Math.round(meRef.current.y)}`;
     if (blocked.has(k)) {
-      const [x, y] = firstFree(blocked);
+      const [x, y] = firstFree(blocked, N);
       setMe((m) => ({ ...m, x, y }));
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -157,7 +174,88 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
 
   useEffect(() => () => {
     if (raf.current) cancelAnimationFrame(raf.current);
+    timers.current.forEach(clearTimeout);
   }, []);
+
+  const later = (ms: number, fn: () => void) => timers.current.push(setTimeout(fn, ms));
+  const say = (text: string, ms = 2600) => {
+    const n = Date.now();
+    setBubble({ text, n });
+    later(ms, () => setBubble((b) => (b?.n === n ? null : b)));
+  };
+
+  /** Làm hành động với đồ dùng (khi đã đứng cạnh hoặc đã ngồi/nằm vào) */
+  function perform(action: HomeAction) {
+    switch (action) {
+      case "toilet":
+        say("🚽 Đang đi vệ sinh...", 2000);
+        later(2000, () => {
+          sfx.flush();
+          say("💦 Xả nước! Rửa tay nhé 🧼", 2400);
+        });
+        later(4600, () => setPose(null));
+        break;
+      case "flush":
+        sfx.flush();
+        say("🌀💦 Ào ào...");
+        break;
+      case "wash":
+        sfx.water();
+        say("🫧🧼 Rửa sạch sẽ!");
+        break;
+      case "shower":
+        sfx.water();
+        later(900, () => sfx.water());
+        say("🚿💧💧 Mát quá!", 3000);
+        break;
+      case "bath":
+        sfx.bath();
+        say("🛁🫧🫧 Thư giãn quá!", 3200);
+        break;
+      case "fridge":
+        sfx.fridge();
+        say("🧊 🥛🍎🍰🥕🧃");
+        break;
+      case "eat":
+        sfx.fridge();
+        later(500, () => sfx.eat());
+        say("😋 Ngon quá! 🍎", 2600);
+        break;
+      case "cook":
+        sfx.water();
+        say("🍳🔥 Xèo xèo... thơm quá!", 3000);
+        break;
+      case "laundry":
+        sfx.water();
+        later(1100, () => sfx.water());
+        say("🧺🌀 Quần áo sạch thơm!", 3000);
+        break;
+      case "tv":
+        say("📺 Phim hoạt hình hay quá! 😄", 3000);
+        break;
+      default:
+        break;
+    }
+  }
+
+  // Nhận lệnh hành động từ bảng bên dưới phòng
+  useEffect(() => {
+    if (!act) return;
+    const f = room.floor.find((p) => p.uid === act.uid);
+    if (!f) return;
+    unlock();
+    if (act.action === "toilet") {
+      pendingAct.current = { uid: f.uid, action: "toilet" };
+      walkTo(f.x, f.y, undefined, { uid: f.uid, kind: "sit", z: 18 });
+    } else if (act.action === "bath") {
+      pendingAct.current = { uid: f.uid, action: "bath" };
+      walkTo(f.x, f.y, undefined, { uid: f.uid, kind: "lie", tub: true });
+    } else {
+      pendingAct.current = { uid: f.uid, action: act.action };
+      walkTo(f.x, f.y);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [act?.n]);
 
   function loop(t0: number) {
     let last = t0;
@@ -181,6 +279,11 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
           m.x += (dx / dist) * v;
           m.y += (dy / dist) * v;
         }
+        stepAcc.current += Math.min(dist, v);
+        if (stepAcc.current > 0.5) {
+          stepAcc.current = 0;
+          footstep();
+        }
         m.back = dx + dy < 0;
         moving = true;
       }
@@ -190,6 +293,13 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
         setPose(pendingPose.current);
         pendingPose.current = null;
       }
+      if (!path.current.length && pendingAct.current) {
+        const a = pendingAct.current;
+        pendingAct.current = null;
+        setMarker(null);
+        perform(a.action);
+      }
+      if (!path.current.length && moving) setTimeout(() => setMarker(null), 500);
       if (!path.current.length && pendingDoor.current) {
         const to = pendingDoor.current;
         pendingDoor.current = null;
@@ -216,14 +326,27 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
   }
 
   function walkTo(x: number, y: number, door?: DoorTarget, seat?: Pose) {
+    unlock();
     const from: [number, number] = [Math.round(meRef.current.x), Math.round(meRef.current.y)];
-    path.current = findPath(from, [x, y], blocked);
+    path.current = findPath(from, [x, y], blocked, N);
     pendingDoor.current = door ?? null;
     pendingPose.current = seat ?? null;
     setPose(null);
+    if (path.current.length) setMarker((old) => ({ x: x + 0.5, y: y + 0.5, n: (old?.n ?? 0) + 1 }));
     if (seat && !path.current.length) {
       pendingPose.current = null;
       setPose(seat);
+      if (pendingAct.current) {
+        const a = pendingAct.current;
+        pendingAct.current = null;
+        perform(a.action);
+      }
+      return;
+    }
+    if (!path.current.length && pendingAct.current) {
+      const a = pendingAct.current;
+      pendingAct.current = null;
+      perform(a.action);
       return;
     }
     if (door && !path.current.length) {
@@ -254,7 +377,10 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
           if (mode === "arrange") onItem?.(f.uid);
           else {
             const kind = seatKind(f.id);
-            walkTo(f.x, f.y, undefined, kind ? { uid: f.uid, kind } : null);
+            if (!kind && actionsFor(f.id) && onInteract) {
+              onInteract(f.uid);
+              walkTo(f.x, f.y);
+            } else walkTo(f.x, f.y, undefined, kind ? { uid: f.uid, kind } : null);
           }
         }}
         style={{ cursor: "pointer" }}
@@ -274,20 +400,23 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
     const { w, d } = footprint(seatItem, seatOn.rot);
     const furnitureKey = seatOn.x + w / 2 + seatOn.y + d / 2;
     if (pose.kind === "sit") {
-      const z = seatItem.id === "h_ngai_vang" ? 32 : seatItem.id.startsWith("h_ghe_luoi") ? 14 : seatItem.id.startsWith("h_ghe") ? 24 : 22;
+      const z = pose.z ?? (seatItem.id === "h_ngai_vang" ? 32 : seatItem.id.startsWith("h_ghe_luoi") ? 14 : seatItem.id.startsWith("h_ghe") ? 24 : 22);
       const [sx, sy] = seatOn.rot ? pt(P, seatOn.x + 0.6, seatOn.y + d / 2, z) : pt(P, seatOn.x + w / 2, seatOn.y + 0.6, z);
       objects.push({
         key: furnitureKey + 0.01,
         node: (
           <g key="me" transform={`translate(${(sx - 100 * S).toFixed(1)} ${(sy - 224 * S).toFixed(1)})`} pointerEvents="none">
             <g clipPath={`url(#${uid}sit)`}>
-              <Avatar look={look} size={200 * S} layer="char" />
+              <Avatar look={look} size={200 * S} layer="char" fx />
             </g>
           </g>
         ),
       });
     } else {
-      const [sx, sy] = seatOn.rot ? pt(P, seatOn.x + 0.5, seatOn.y + 1.1, 24) : pt(P, seatOn.x + 1.1, seatOn.y + 0.5, 24);
+      const lz = pose.tub ? 14 : 24;
+      const [sx, sy] = pose.tub
+        ? pt(P, seatOn.x + w / 2, seatOn.y + d / 2, lz)
+        : seatOn.rot ? pt(P, seatOn.x + 0.5, seatOn.y + 1.1, lz) : pt(P, seatOn.x + 1.1, seatOn.y + 0.5, lz);
       const blanket = seatOn.rot
         ? { x: seatOn.x + 0.06, y: seatOn.y + 0.95, w: 0.88, d: 1.0 }
         : { x: seatOn.x + 0.95, y: seatOn.y + 0.06, w: 1.0, d: 0.88 };
@@ -298,16 +427,29 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
             <g transform={`translate(${sx.toFixed(1)} ${sy.toFixed(1)}) rotate(${seatOn.rot ? 63.4 : -63.4}) translate(${-100 * S} ${-154 * S})`}>
               <Avatar look={look} size={200 * S} layer="char" />
             </g>
-            <FloorQuad p={P} x={blanket.x} y={blanket.y} w={blanket.w} d={blanket.d} z={27} fill="#93c5fd" />
-            <text x={sx + (seatOn.rot ? 18 : -18)} y={sy - 34} fontSize={16} className="zzz">
-              💤
-            </text>
+            {pose.tub ? (
+              <g>
+                <FloorQuad p={P} x={seatOn.x + 0.1} y={seatOn.y + 0.1} w={w - 0.2} d={d - 0.2} z={22} fill="#bae6fd" opacity={0.85} />
+                {[[-14, -2], [6, 4], [20, -6], [-4, 8], [12, -12]].map(([bx, by], i) => (
+                  <circle key={i} cx={sx + bx} cy={sy + by - 4} r={5 + (i % 3)} fill="#ffffff" stroke="#93c5fd" strokeWidth={1} className="bubble-up" style={{ animationDelay: `${i * 0.3}s` }} />
+                ))}
+              </g>
+            ) : (
+              <>
+                <FloorQuad p={P} x={blanket.x} y={blanket.y} w={blanket.w} d={blanket.d} z={27} fill="#93c5fd" />
+                <text x={sx + (seatOn.rot ? 18 : -18)} y={sy - 34} fontSize={16} className="zzz">
+                  💤
+                </text>
+              </>
+            )}
           </g>
         ),
       });
     }
   }
   const [cx, cy] = pt(P, me.x + 0.5, me.y + 0.5);
+  // Chỗ hiện bóng chữ: trên đầu nhân vật (hoặc trên chỗ đang ngồi, nằm)
+  const bubbleAt: [number, number] = seatOn ? pt(P, seatOn.x + 0.5, seatOn.y + 0.5, 110) : [cx, cy - 270 * S - 10];
   const bob = path.current.length ? Math.abs(Math.sin(performance.now() / 90)) * 3 : 0;
   const jump = Math.sin(me.hop * Math.PI) * 26;
   if (!pose || !seatOn) objects.push({
@@ -315,7 +457,7 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
     node: (
       <g key="me" transform={`translate(${(cx - 100 * S).toFixed(1)} ${(cy - 270 * S - bob - jump).toFixed(1)})`} onClick={(e) => { e.stopPropagation(); hop(); }} style={{ cursor: "pointer" }}>
         <ellipse cx={100 * S} cy={270 * S + bob + jump} rx={18} ry={6} fill="#000" opacity={0.15} />
-        <Avatar look={look} size={200 * S} layer="char" angle={me.back ? 180 : me.hop ? me.hop * 360 : 0} />
+        <Avatar look={look} size={200 * S} layer="char" angle={me.back ? 180 : me.hop ? me.hop * 360 : 0} fx pose={me.hop ? null : idle} />
       </g>
     ),
   });
@@ -336,8 +478,8 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
 
   // ---------- Vùng chạm ----------
   const tiles: ReactNode[] = [];
-  for (let x = 0; x < ROOM_N; x++)
-    for (let y = 0; y < ROOM_N; y++)
+  for (let x = 0; x < N; x++)
+    for (let y = 0; y < N; y++)
       tiles.push(
         <polygon
           key={`t${x}-${y}`}
@@ -352,7 +494,7 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
   const wallSlots: ReactNode[] = [];
   if (wallTarget)
     for (const side of ["L", "R"] as const)
-      for (let i = 0; i < ROOM_N; i++) {
+      for (let i = 0; i < N; i++) {
         const q =
           side === "R"
             ? [pt(P, i, 0, 20), pt(P, i + 1, 0, 20), pt(P, i + 1, 0, WALL_H - 10), pt(P, i, 0, WALL_H - 10)]
@@ -373,11 +515,11 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
       </defs>
 
       {/* Tường */}
-      <polygon points={poly([pt(P, 0, 0), pt(P, 0, ROOM_N), pt(P, 0, ROOM_N, WALL_H), pt(P, 0, 0, WALL_H)])} fill={`url(#${uid}wl)`} stroke={OL} strokeWidth={2} />
-      <polygon points={poly([pt(P, 0, 0), pt(P, 0, ROOM_N), pt(P, 0, ROOM_N, WALL_H), pt(P, 0, 0, WALL_H)])} fill="#000" opacity={0.06} />
-      <polygon points={poly([pt(P, 0, 0), pt(P, ROOM_N, 0), pt(P, ROOM_N, 0, WALL_H), pt(P, 0, 0, WALL_H)])} fill={`url(#${uid}wr)`} stroke={OL} strokeWidth={2} />
-      <polygon points={poly([pt(P, 0, 0), pt(P, 0, ROOM_N), pt(P, 0, ROOM_N, 8), pt(P, 0, 0, 8)])} fill="#f8fafc" stroke={OL} strokeWidth={1} />
-      <polygon points={poly([pt(P, 0, 0), pt(P, ROOM_N, 0), pt(P, ROOM_N, 0, 8), pt(P, 0, 0, 8)])} fill="#ffffff" stroke={OL} strokeWidth={1} />
+      <polygon points={poly([pt(P, 0, 0), pt(P, 0, N), pt(P, 0, N, WALL_H), pt(P, 0, 0, WALL_H)])} fill={`url(#${uid}wl)`} stroke={OL} strokeWidth={2} />
+      <polygon points={poly([pt(P, 0, 0), pt(P, 0, N), pt(P, 0, N, WALL_H), pt(P, 0, 0, WALL_H)])} fill="#000" opacity={0.06} />
+      <polygon points={poly([pt(P, 0, 0), pt(P, N, 0), pt(P, N, 0, WALL_H), pt(P, 0, 0, WALL_H)])} fill={`url(#${uid}wr)`} stroke={OL} strokeWidth={2} />
+      <polygon points={poly([pt(P, 0, 0), pt(P, 0, N), pt(P, 0, N, 8), pt(P, 0, 0, 8)])} fill="#f8fafc" stroke={OL} strokeWidth={1} />
+      <polygon points={poly([pt(P, 0, 0), pt(P, N, 0), pt(P, N, 0, 8), pt(P, 0, 0, 8)])} fill="#ffffff" stroke={OL} strokeWidth={1} />
 
       {/* Cửa sang phòng khác */}
       {doors.map((d) => {
@@ -425,22 +567,38 @@ export function Room({ room, doors, entry, onDoor, look, mode, selectedUid, wall
       })}
 
       {/* Sàn */}
-      {Array.from({ length: ROOM_N }, (_, x) => Array.from({ length: ROOM_N }, (_, y) => <FloorTile key={`${x}-${y}`} x={x} y={y} t={fl} />))}
-      <polygon points={poly([pt(P, 0, 0), pt(P, ROOM_N, 0), pt(P, ROOM_N, ROOM_N), pt(P, 0, ROOM_N)])} fill="none" stroke={OL} strokeWidth={2} />
+      {Array.from({ length: N }, (_, x) => Array.from({ length: N }, (_, y) => <FloorTile key={`${x}-${y}`} p={P} x={x} y={y} t={fl} />))}
+      <polygon points={poly([pt(P, 0, 0), pt(P, N, 0), pt(P, N, N), pt(P, 0, N)])} fill="none" stroke={OL} strokeWidth={2} />
       {rugs}
       {tiles}
+      {marker && mode === "play" && (
+        <g key={`mk${marker.n}`} transform={`translate(${pt(P, marker.x, marker.y)[0].toFixed(1)} ${pt(P, marker.x, marker.y)[1].toFixed(1)})`} pointerEvents="none" className="tap-star">
+          <ellipse cx={0} cy={0} rx={16} ry={8} fill="none" stroke="#f59e0b" strokeWidth={2.5} />
+          <path d="M0 -24 L4.5 -14 L15 -13 L7 -6 L10 5 L0 0 L-10 5 L-7 -6 L-15 -13 L-4.5 -14 Z" fill="#fde047" stroke="#b45309" strokeWidth={1.5} />
+        </g>
+      )}
       {objects.map((o) => o.node)}
+      {bubble && (
+        <g key={`bb${bubble.n}`} transform={`translate(${bubbleAt[0].toFixed(1)} ${bubbleAt[1].toFixed(1)})`} pointerEvents="none" className="pop">
+          <rect x={-Math.max(50, bubble.text.length * 4.6)} y={-26} width={Math.max(100, bubble.text.length * 9.2)} height={24} rx={12} fill="#ffffff" stroke={OL} strokeWidth={1.5} />
+          <path d="M-6 -2 L0 8 L6 -2 Z" fill="#ffffff" stroke={OL} strokeWidth={1.5} />
+          <rect x={-7} y={-4} width={14} height={4} fill="#ffffff" />
+          <text x={0} y={-9} textAnchor="middle" fontSize={12} fontWeight={800} fill="#3d2c2c">
+            {bubble.text}
+          </text>
+        </g>
+      )}
       {wallSlots}
     </svg>
   );
 }
 
-function firstFree(blocked: Set<string>): [number, number] {
+function firstFree(blocked: Set<string>, n: number): [number, number] {
   const order: [number, number][] = [];
-  for (let s = ROOM_N * 2 - 2; s >= 0; s--) for (let x = 0; x < ROOM_N; x++) { const y = s - x; if (y >= 0 && y < ROOM_N) order.push([x, y]); }
+  for (let s = n * 2 - 2; s >= 0; s--) for (let x = 0; x < n; x++) { const y = s - x; if (y >= 0 && y < n) order.push([x, y]); }
   // Ưu tiên giữa phòng
-  order.sort((a, b) => Math.hypot(a[0] - 3, a[1] - 3.5) - Math.hypot(b[0] - 3, b[1] - 3.5));
-  return order.find(([x, y]) => !blocked.has(`${x},${y}`)) ?? [ROOM_N - 1, ROOM_N - 1];
+  order.sort((a, b) => Math.hypot(a[0] - n / 2, a[1] - n / 2 - 0.5) - Math.hypot(b[0] - n / 2, b[1] - n / 2 - 0.5));
+  return order.find(([x, y]) => !blocked.has(`${x},${y}`)) ?? [n - 1, n - 1];
 }
 
 // ---------- Ảnh nhỏ trong cửa hàng ----------

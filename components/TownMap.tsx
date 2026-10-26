@@ -8,6 +8,8 @@ import type { LivePeer } from "@/lib/townLive";
 import type { Look } from "@/lib/types";
 import { Avatar } from "./Avatar";
 import { HouseArt, ShopArt } from "./houses";
+import { footstep, isMuted, setMuted, startMusic, stopMusic, unlock } from "@/lib/sound";
+import { useIdlePose } from "@/lib/useIdlePose";
 
 const projFor = (L: TownLayout): Proj => ({ ox: (L.mapN * TW) / 2 + 40, oy: 170 });
 /** Chiều cao khung nhìn (đơn vị bản đồ); chiều rộng tính theo tỉ lệ khung trên màn hình */
@@ -175,9 +177,19 @@ export function TownMap({
   const startAt = startPlot ?? myPlot;
   const start: [number, number] = startAt !== undefined && L.plots[startAt] ? ((d) => [d[0] + 0.5, d[1] + 0.5] as [number, number])(plotDoor(L, startAt)) : SPAWN;
   const [me, setMe] = useState({ x: start[0], y: start[1], back: false, moving: false });
+  const idle = useIdlePose(me.moving);
   const meRef = useRef(me);
   meRef.current = me;
   const route = useRef<[number, number][]>([]);
+  /** Ngôi sao nhấp nháy ở chỗ vừa chạm */
+  const [marker, setMarker] = useState<{ x: number; y: number; n: number } | null>(null);
+  const [muted, setMutedState] = useState(false);
+  useEffect(() => {
+    setMutedState(isMuted());
+    startMusic();
+    return () => stopMusic();
+  }, []);
+  const stepAcc = useRef(0);
   const arrive = useRef<(() => void) | null>(null);
   const raf = useRef<number | null>(null);
 
@@ -273,6 +285,7 @@ export function TownMap({
       if (!tg) {
         setMe({ ...m, moving: false });
         raf.current = null;
+        setTimeout(() => setMarker(null), 600);
         const done = arrive.current;
         arrive.current = null;
         if (done) setTimeout(done, 150);
@@ -290,6 +303,12 @@ export function TownMap({
         m.x += (dx / dist) * v;
         m.y += (dy / dist) * v;
       }
+      // Tiếng bước chân khoảng mỗi nửa ô
+      stepAcc.current += Math.min(dist, v);
+      if (stepAcc.current > 0.5) {
+        stepAcc.current = 0;
+        footstep();
+      }
       m.back = dx + dy < 0;
       m.moving = true;
       setMe(m);
@@ -305,6 +324,7 @@ export function TownMap({
     const path = roadPath(L, from, to);
     // Đang đứng lệch khỏi tâm ô: bước về tâm ô trước
     route.current = [[from[0] + 0.5, from[1] + 0.5], ...path];
+    setMarker((old) => ({ x: to[0] + 0.5, y: to[1] + 0.5, n: (old?.n ?? 0) + 1 }));
     if (!raf.current) walkLoop();
   }
 
@@ -328,6 +348,8 @@ export function TownMap({
   };
 
   function onDown(e: RPointerEvent<SVGSVGElement>) {
+    unlock();
+    startMusic();
     (e.currentTarget as Element).setPointerCapture(e.pointerId);
     ptrs.current.set(e.pointerId, toSvg(e));
     // Ghi lại chỗ đặt ngón tay (theo pixel màn hình) để phân biệt chạm với kéo
@@ -533,7 +555,7 @@ export function TownMap({
         node: (
           <g key={`pl${p.id}`} transform={`translate(${(sx - 100 * AV).toFixed(1)} ${(sy - 270 * AV - bob).toFixed(1)})`} pointerEvents="none">
             <ellipse cx={100 * AV} cy={270 * AV + bob} rx={16} ry={5} fill="#000" opacity={0.15} />
-            <Avatar look={look} size={200 * AV} layer="char" angle={liveAt.back ? 180 : 0} />
+            <Avatar look={look} size={200 * AV} layer="char" angle={liveAt.back ? 180 : 0} fx />
             <text x={100 * AV} y={-4} textAnchor="middle" fontSize={11} fontWeight={800} fill="#16a34a" stroke="#fff" strokeWidth={3} paintOrder="stroke">
               ● {p.name}
             </text>
@@ -547,7 +569,7 @@ export function TownMap({
       key: x + y + 0.01,
       node: (
         <g key={`pl${p.id}`} transform={`translate(${(sx - 100 * AV).toFixed(1)} ${(sy - 270 * AV).toFixed(1)})`} pointerEvents="none">
-          <Avatar look={p.look} size={200 * AV} layer="char" />
+          <Avatar look={p.look} size={200 * AV} layer="char" fx />
           <text x={100 * AV} y={-4} textAnchor="middle" fontSize={11} fontWeight={800} fill="#3d2c2c" stroke="#fff" strokeWidth={3} paintOrder="stroke">
             {p.name}
           </text>
@@ -562,13 +584,14 @@ export function TownMap({
     node: (
       <g key="me" transform={`translate(${(mx - 100 * AV).toFixed(1)} ${(my - 270 * AV - bob).toFixed(1)})`} pointerEvents="none">
         <ellipse cx={100 * AV} cy={270 * AV + bob} rx={16} ry={5} fill="#000" opacity={0.18} />
-        <Avatar look={myLook} size={200 * AV} layer="char" angle={me.back ? 180 : 0} />
+        <Avatar look={myLook} size={200 * AV} layer="char" angle={me.back ? 180 : 0} fx pose={idle} />
         <polygon points={poly([[100 * AV - 7, -16], [100 * AV + 7, -16], [100 * AV, -6]])} fill="#f59e0b" stroke={OL} strokeWidth={1.5} />
       </g>
     ),
   });
 
   const sorted = [...plotNodes.tall, ...people].sort((a, b) => a.key - b.key);
+  const markerAt = marker ? pt(P, marker.x, marker.y) : null;
 
   return (
     <div ref={boxRef} style={{ position: "relative" }}>
@@ -589,6 +612,12 @@ export function TownMap({
         <g transform={`scale(${view.s.toFixed(4)}) translate(${(-view.x).toFixed(1)} ${(-view.y).toFixed(1)})`}>
           {ground}
           {plotNodes.flat}
+          {markerAt && (
+            <g key={`mk${marker!.n}`} transform={`translate(${markerAt[0].toFixed(1)} ${markerAt[1].toFixed(1)})`} pointerEvents="none" className="tap-star">
+              <ellipse cx={0} cy={0} rx={18} ry={9} fill="none" stroke="#f59e0b" strokeWidth={3} />
+              <path d="M0 -26 L5 -15 L17 -14 L8 -6 L11 6 L0 0 L-11 6 L-8 -6 L-17 -14 L-5 -15 Z" fill="#fde047" stroke="#b45309" strokeWidth={1.5} />
+            </g>
+          )}
           {sorted.map((o) => o.node)}
         </g>
       </svg>
@@ -601,6 +630,18 @@ export function TownMap({
         </button>
         <button className="btn" onClick={recenter} aria-label="Về chỗ nhân vật">
           📍
+        </button>
+        <button
+          className="btn"
+          aria-label={muted ? "Bật tiếng" : "Tắt tiếng"}
+          onClick={() => {
+            unlock();
+            setMuted(!muted);
+            setMutedState(!muted);
+            if (muted) startMusic();
+          }}
+        >
+          {muted ? "🔇" : "🔊"}
         </button>
       </div>
     </div>

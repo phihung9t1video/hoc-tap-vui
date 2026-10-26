@@ -166,3 +166,19 @@ Trên Desktop có 3 biểu tượng:
   rồi tự nhập vào kho. Hết lượt miễn phí thì tự chờ / đổi khóa.
 - "Nhập đề vào kho": nhập các tệp tự dán trong thư mục NHAP-DE.
 Xong thì chạy 3-PHAT-HANH-BAN-THU.bat để đưa đề mới vào app.
+
+12. TÍNH NĂNG MỚI BẢN 1.4
+---------------------------------------------------------------------
+- Mua nhiều thửa đất: thửa 2 giá gấp đôi thửa đầu, thửa 3 gấp 4, thửa 4
+  gấp 8... (tối đa 6 thửa). Mỗi thửa xây một ngôi nhà, bày đồ riêng.
+- Đồ dùng trong nhà dùng được (chế độ Đi dạo, chạm vào đồ): bồn cầu (đi vệ
+  sinh, dội nước), bồn rửa, vòi sen, bồn tắm, tủ lạnh, bếp, máy giặt, ti vi.
+- Mở rộng phòng: Sắp xếp -> "Mở rộng" (7x7: 400 xu, 8x8: 900, 9x9: 1 600,
+  10x10: 2 500). "Thêm phòng": mua lẻ phòng mà kiểu nhà chưa có.
+- Máy chơi game (mua ở cửa hàng Đồ chơi, 600 xu), đặt trong nhà rồi chạm:
+  Gắp thú, Xếp Lego, Ăn kim cương, Bắn trứng – mỗi lượt 100 xu, chơi giỏi
+  được thưởng xu hoặc quà.
+- Khu phố có nhạc nền, tiếng bước chân (nút 🔊/🔇 để tắt), ngôi sao nhấp
+  nháy chỗ vừa chạm; đồ hiếm lấp lánh cả ngoài phố; nhân vật đứng yên thì
+  vẫy tay, vươn vai. Thêm 20 trang phục mới (vương miện kim cương, cánh rồng,
+  váy ngân hà, áo giáp hiệp sĩ...).

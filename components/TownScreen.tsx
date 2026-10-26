@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { migrateHome } from "@/lib/home";
-import { HOUSE_COLORS, HOUSE_TIERS, SHOP_MAP, TIER_MAP, TOWN, decodeHouse, encodeHouse, ringsFor, townLayout, upgradeCost } from "@/lib/town";
+import { HOUSE_COLORS, HOUSE_TIERS, MAX_PLOTS, SHOP_MAP, TIER_MAP, TOWN, extraOwner, nthPlotPrice, resolveOwner, decodeHouse, encodeHouse, ringsFor, townLayout, upgradeCost } from "@/lib/town";
 import { joinLive, type LiveHandle, type LivePeer } from "@/lib/townLive";
 import { cachedTown, claimPlot, fetchTown, joinTown, saveHouse, totalEarned, townOnline, type TownState } from "@/lib/townCloud";
 import type { Profile } from "@/lib/types";
@@ -14,10 +14,17 @@ import { HouseThumb } from "./houses";
 import { ShopScreen } from "./ShopScreen";
 import { TownMap, type MapPlayer, type MapPlot } from "./TownMap";
 
-type View = { kind: "map" } | { kind: "inside"; ownerId: string } | { kind: "shop"; shopId: string };
+type View = { kind: "map" } | { kind: "inside"; ownerId: string; plot: number } | { kind: "shop"; shopId: string };
 
 /** Đất, nhà của một hồ sơ trong khu phố chung */
 const townOf = (p: Profile, code: string) => (p.town?.code === code ? p.town : undefined);
+
+/** Các thửa của một hồ sơ: k = 0 là thửa đầu (nội thất ở p.home), k ≥ 1 là thửa mua thêm */
+type OwnPlot = { plot: number; house?: string; k: number };
+const ownPlots = (t?: Profile["town"]): OwnPlot[] =>
+  t?.plot === undefined ? [] : [{ plot: t.plot, house: t.house, k: 0 }, ...(t.extra ?? []).map((e, i) => ({ plot: e.plot, house: e.house, k: i + 1 }))];
+/** Nội thất của thửa k */
+const homeOf = (p: Profile, k: number) => (k ? p.town?.extra?.[k - 1]?.home : p.home);
 
 export function TownScreen({
   me,
@@ -101,15 +108,18 @@ export function TownScreen({
 
   // Nội thất nhà mình thay đổi: lưu lên khu phố (chờ 1,5 giây cho gom nhiều thay đổi)
   const homeJson = JSON.stringify(me.home);
+  const extraJson = JSON.stringify(me.town?.extra ?? []);
   useEffect(() => {
     const t = townOf(me, code);
-    if (!code || t?.plot === undefined || !t.house) return;
+    if (!code || t?.plot === undefined) return;
     const timer = setTimeout(() => {
-      void saveHouse(code, t.plot!, me.id, t.house!, migrateHome(me.home));
+      for (const op of ownPlots(t)) {
+        if (op.house) void saveHouse(code, op.plot, op.k ? extraOwner(me.id, op.k) : me.id, op.house, migrateHome(homeOf(me, op.k)));
+      }
     }, 1500);
     return () => clearTimeout(timer);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [code, homeJson, me.town?.house, me.town?.plot]);
+  }, [code, homeJson, extraJson, me.town?.house, me.town?.plot]);
 
   // ---------- Gộp dữ liệu: trên mạng + các hồ sơ trên máy này ----------
   const { plots, players } = useMemo(() => {
@@ -120,16 +130,19 @@ export function TownScreen({
       names.set(p.id, p.name);
       players.set(p.id, { id: p.id, name: p.name, look: p.look, coins: p.coins, wk: p.look?._wk });
     }
+    const ids = [...players.keys(), ...profiles.map((p) => p.id)];
     for (const pl of cloud?.plots ?? []) {
-      plots.set(pl.plot, { owner: pl.owner, ownerName: names.get(pl.owner) ?? "?", house: decodeHouse(pl.house) });
-      const pr = players.get(pl.owner);
-      if (pr) pr.plot = pl.plot;
+      const who = resolveOwner(pl.owner, ids);
+      const owner = who?.id ?? pl.owner;
+      plots.set(pl.plot, { owner, ownerName: names.get(owner) ?? profiles.find((p) => p.id === owner)?.name ?? "?", house: decodeHouse(pl.house) });
+      const pr = players.get(owner);
+      if (pr && !who?.k) pr.plot = pl.plot;
     }
     // Hồ sơ trên máy này luôn là bản mới nhất của chính nó
     for (const p of profiles) {
       const t = townOf(p, code);
       players.set(p.id, { id: p.id, name: p.name, look: p.look, coins: totalEarned(p), plot: t?.plot, wk: weekStats(p) });
-      if (t?.plot !== undefined) plots.set(t.plot, { owner: p.id, ownerName: p.name, house: decodeHouse(t.house) });
+      for (const op of ownPlots(t)) plots.set(op.plot, { owner: p.id, ownerName: p.name, house: decodeHouse(op.house) });
     }
     return { plots, players: [...players.values()] };
   }, [cloud, profiles, code]);
@@ -158,7 +171,10 @@ export function TownScreen({
 
   const myTown = townOf(me, code);
   const myPlot = myTown?.plot;
-  const myHouse = decodeHouse(myTown?.house);
+  const mine = ownPlots(myTown);
+  /** Thửa của mình đang được chọn (nếu có) */
+  const selOwn = sel !== null ? mine.find((m) => m.plot === sel) : undefined;
+  const myHouse = decodeHouse(selOwn?.house);
 
   // ---------- Bên trong một cửa hàng ----------
   if (view.kind === "shop") {
@@ -175,20 +191,32 @@ export function TownScreen({
 
   // ---------- Bên trong một ngôi nhà ----------
   if (view.kind === "inside") {
-    const mine = view.ownerId === me.id;
+    const isMine = view.ownerId === me.id;
     const owner = players.find((p) => p.id === view.ownerId);
     const local = profiles.find((p) => p.id === view.ownerId);
-    const plotEntry = [...plots.entries()].find(([, v]) => v.owner === view.ownerId);
-    const house = plotEntry?.[1].house;
-    const cloudRooms = cloud?.plots.find((p) => p.owner === view.ownerId)?.rooms ?? null;
+    const house = plots.get(view.plot)?.house;
+    const cloudRooms = cloud?.plots.find((p) => p.plot === view.plot)?.rooms ?? null;
+    const localK = local ? ownPlots(townOf(local, code)).find((o) => o.plot === view.plot)?.k : undefined;
+    const myK = isMine ? (mine.find((o) => o.plot === view.plot)?.k ?? 0) : 0;
+    // Nhà mua thêm: cho màn trong nhà sửa nội thất của thửa đó như thể là p.home
+    const meView = myK ? { ...me, home: homeOf(me, myK) } : me;
+    const changeHome = myK
+      ? (fn: (p: Profile) => Profile) =>
+          onChange((p) => {
+            const r = fn({ ...p, home: homeOf(p, myK) });
+            const extra = [...(p.town?.extra ?? [])];
+            extra[myK - 1] = { ...extra[myK - 1], home: r.home };
+            return { ...r, home: p.home, town: { ...p.town, extra } };
+          })
+      : onChange;
     return (
       <HomeScreen
-        me={me}
-        ownerName={owner?.name ?? "bạn"}
-        ownerHome={local ? local.home : cloudRooms}
-        editable={mine}
+        me={meView}
+        ownerName={owner?.name ?? local?.name ?? "bạn"}
+        ownerHome={local && localK !== undefined ? homeOf(local, localK) : cloudRooms}
+        editable={isMine}
         unlocked={TIER_MAP[house?.tier ?? "cap4"].rooms}
-        onChange={onChange}
+        onChange={changeHome}
         onExit={() => {
           setView({ kind: "map" });
           void refresh();
@@ -202,13 +230,16 @@ export function TownScreen({
   const selInfo = sel !== null ? plots.get(sel) : undefined;
   const selPlot = sel !== null ? layout.plots[sel] : undefined;
 
+  const buyPrice = selPlot ? nthPlotPrice(selPlot.price, mine.length) : 0;
   async function buy() {
     if (sel === null || !selPlot) return;
-    if (myPlot !== undefined) return flash("Con đã có đất rồi. Mỗi bạn chỉ được một mảnh đất nhé!");
-    if (me.coins < selPlot.price) return flash(`Con cần thêm ${selPlot.price - me.coins} xu nữa. Chăm học thêm nhé! 📚`);
+    if (mine.length >= MAX_PLOTS) return flash(`Mỗi bạn được tối đa ${MAX_PLOTS} thửa đất thôi nhé!`);
+    const price = buyPrice;
+    if (me.coins < price) return flash(`Con cần thêm ${price - me.coins} xu nữa. Chăm học thêm nhé! 📚`);
+    const k = mine.length;
     setBusy(true);
     let ok: boolean | null;
-    if (townOnline) ok = await claimPlot(code!, sel, me.id);
+    if (townOnline) ok = await claimPlot(code!, sel, k ? extraOwner(me.id, k) : me.id);
     else ok = !plots.has(sel);
     setBusy(false);
     if (ok === null) return flash("Cần có mạng để mua đất. Con kiểm tra wifi rồi thử lại nhé!");
@@ -216,20 +247,31 @@ export function TownScreen({
       void refresh();
       return flash("Tiếc quá, mảnh đất này vừa có bạn khác mua rồi!");
     }
-    onChange((p) => ({ ...p, coins: p.coins - selPlot.price, town: { code, plot: sel } }));
-    flash("🎉 Chúc mừng! Con đã có mảnh đất của riêng mình. Giờ hãy xây nhà nào!");
+    onChange((p) =>
+      k === 0
+        ? { ...p, coins: p.coins - price, town: { code, plot: sel } }
+        : { ...p, coins: p.coins - price, town: { ...p.town, code, extra: [...(p.town?.extra ?? []), { plot: sel }] } },
+    );
+    flash(k === 0 ? "🎉 Chúc mừng! Con đã có mảnh đất của riêng mình. Giờ hãy xây nhà nào!" : `🎉 Con đã có thửa đất thứ ${k + 1}! Xây thêm một ngôi nhà nữa nào!`);
     void refresh();
   }
 
+  /** Ghi kiểu nhà cho thửa của mình (thửa đầu hoặc thửa mua thêm) */
+  const withHouse = (p: Profile, op: OwnPlot, house: string): Profile =>
+    op.k === 0
+      ? { ...p, town: { ...p.town, code, plot: op.plot, house } }
+      : { ...p, town: { ...p.town, extra: (p.town?.extra ?? []).map((e, i) => (i === op.k - 1 ? { ...e, house } : e)) } };
+
   async function build(tier: string) {
-    if (myPlot === undefined) return;
+    const op = selOwn;
+    if (!op) return;
     const cost = upgradeCost(myHouse?.tier, tier);
     if (me.coins < cost) return flash(`Con cần thêm ${cost - me.coins} xu nữa để xây ${TIER_MAP[tier].name}. Cố lên! 💪`);
     const house = encodeHouse(tier, color);
-    onChange((p) => ({ ...p, coins: p.coins - cost, town: { code, plot: myPlot, house } }));
+    onChange((p) => ({ ...withHouse(p, op, house), coins: p.coins - cost }));
     if (townOnline) {
       setBusy(true);
-      await saveHouse(code!, myPlot, me.id, house, migrateHome(me.home));
+      await saveHouse(code!, op.plot, op.k ? extraOwner(me.id, op.k) : me.id, house, migrateHome(homeOf(me, op.k)));
       setBusy(false);
     }
     flash(myHouse ? `✨ Đã nâng cấp thành ${TIER_MAP[tier].name}!` : `🏠 Đã xây xong ${TIER_MAP[tier].name}! Vào nhà bày đồ thôi!`);
@@ -237,9 +279,10 @@ export function TownScreen({
   }
 
   function repaint() {
-    if (myPlot === undefined || !myHouse) return;
+    const op = selOwn;
+    if (!op || !myHouse) return;
     const house = encodeHouse(myHouse.tier, color);
-    onChange((p) => ({ ...p, town: { code, plot: myPlot, house } }));
+    onChange((p) => withHouse(p, op, house));
     flash("🎨 Đã sơn lại nhà!");
   }
 
@@ -304,9 +347,13 @@ export function TownScreen({
 
           {!selInfo && (
             <>
-              <span className="muted">Đất trống, giá {selPlot.price} xu.</span>
-              <button className="btn btn-gold" disabled={busy || myPlot !== undefined} onClick={buy}>
-                {myPlot !== undefined ? "Con đã có đất rồi" : `Mua đất ⭐ ${selPlot.price}`}
+              <span className="muted">
+                {mine.length === 0
+                  ? `Đất trống, giá ${selPlot.price} xu.`
+                  : `Con đã có ${mine.length} thửa. Thửa thứ ${mine.length + 1} giá gấp ${2 ** mine.length} lần: ${buyPrice} xu.`}
+              </span>
+              <button className="btn btn-gold" disabled={busy || mine.length >= MAX_PLOTS} onClick={buy}>
+                {mine.length >= MAX_PLOTS ? `Đã đủ ${MAX_PLOTS} thửa` : mine.length === 0 ? `Mua đất ⭐ ${buyPrice}` : `Mua thêm thửa thứ ${mine.length + 1} ⭐ ${buyPrice}`}
               </button>
             </>
           )}
@@ -318,7 +365,7 @@ export function TownScreen({
                 {selInfo.house ? ` · ${TIER_MAP[selInfo.house.tier].name}` : " · chưa xây nhà"}
               </span>
               {selInfo.house && (
-                <button className="btn btn-blue" onClick={() => { setBackAt(sel); setView({ kind: "inside", ownerId: selInfo.owner }); }}>
+                <button className="btn btn-blue" onClick={() => { setBackAt(sel); setView({ kind: "inside", ownerId: selInfo.owner, plot: sel }); }}>
                   👋 Vào thăm nhà {selInfo.ownerName}
                 </button>
               )}
@@ -328,7 +375,7 @@ export function TownScreen({
           {selInfo && selInfo.owner === me.id && (
             <>
               {myHouse && (
-                <button className="btn btn-primary" onClick={() => { setBackAt(sel); setView({ kind: "inside", ownerId: me.id }); }}>
+                <button className="btn btn-primary" onClick={() => { setBackAt(sel); setView({ kind: "inside", ownerId: me.id, plot: sel }); }}>
                   🚪 Vào nhà
                 </button>
               )}

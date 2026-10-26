@@ -162,3 +162,26 @@ export function decodeHouse(s?: string | null) {
   const [tier, color] = s.split(":");
   return TIER_MAP[tier] ? { tier, color: COLOR_MAP[color] ? color : "kem" } : undefined;
 }
+
+// ---------- Nhiều thửa đất ----------
+
+/** Số thửa tối đa một bạn được mua */
+export const MAX_PLOTS = 6;
+/**
+ * Thửa mua thêm thứ k (k ≥ 1) đứng tên một mã chủ phụ suy ra từ mã của con (đổi byte cuối),
+ * vì máy chủ chỉ cho mỗi mã chủ một thửa. Mọi máy đều suy ngược được mã phụ về đúng người.
+ */
+export function extraOwner(id: string, k: number) {
+  const last = parseInt(id.slice(-2), 16);
+  return id.slice(0, -2) + ((last ^ k) & 255).toString(16).padStart(2, "0");
+}
+/** Tìm chủ thật của một mã chủ (mã chính hoặc mã phụ) trong danh sách người chơi */
+export function resolveOwner(owner: string, ids: string[]): { id: string; k: number } | undefined {
+  for (const id of ids) {
+    if (id === owner) return { id, k: 0 };
+    for (let k = 1; k < MAX_PLOTS; k++) if (extraOwner(id, k) === owner) return { id, k };
+  }
+  return undefined;
+}
+/** Giá thửa thứ n+1 khi đã có n thửa: gấp đôi mỗi thửa */
+export const nthPlotPrice = (base: number, owned: number) => base * 2 ** owned;

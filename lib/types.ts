@@ -82,7 +82,8 @@ export interface Profile {
   /** Ngôi nhà của con (đồ đã đặt, giấy dán tường, sàn) */
   home?: HomeState;
   /** Mảnh đất và ngôi nhà trong khu phố. house dạng "kiểu:màu", ví dụ "bietthu:hong" */
-  town?: { code?: string; plot?: number; house?: string };
+  /** Đất, nhà ở khu phố; extra là các thửa mua thêm (thửa 2 giá gấp đôi, thửa 3 gấp 4...) */
+  town?: { code?: string; plot?: number; house?: string; extra?: { plot: number; house?: string; home?: HomeState }[] };
   /** Tuần đã xét thưởng xếp hạng tuần (ngày thứ Hai của tuần đó) */
   weekPrize?: string;
 }

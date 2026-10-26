@@ -1,0 +1,406 @@
+{
+ "5-tienganh": {
+  "c15": [
+   [
+    "What is the matter with you? - I have a ________.",
+    [
+     "headache",
+     "matter",
+     "health",
+     "problem"
+    ],
+    "Để chỉ một căn bệnh cụ thể như đau đầu, ta dùng từ \"headache\"."
+   ],
+   [
+    "He has a high temperature and feels very hot. He has a ________.",
+    [
+     "fever",
+     "toothache",
+     "stomach ache",
+     "sore throat"
+    ],
+    "Sốt cao và cảm thấy rất nóng là dấu hiệu của bệnh bị sốt (fever)."
+   ],
+   [
+    "She has a pain in her tooth. She has a ________.",
+    [
+     "toothache",
+     "earache",
+     "backache",
+     "headache"
+    ],
+    "Đau ở răng được gọi là đau răng (toothache)."
+   ],
+   [
+    "My father has a pain in his stomach. He has a ________.",
+    [
+     "stomach ache",
+     "sore throat",
+     "fever",
+     "cough"
+    ],
+    "Đau ở dạ dày/bụng là đau bụng (stomach ache)."
+   ],
+   [
+    "You should ________ a doctor when you are sick.",
+    [
+     "see",
+     "look",
+     "watch",
+     "read"
+    ],
+    "Cụm từ \"see a doctor\" nghĩa là đi khám bác sĩ."
+   ],
+   [
+    "My sister has a sore throat. She should ________ warm water.",
+    [
+     "drink",
+     "eat",
+     "wash",
+     "take"
+    ],
+    "Khi bị đau họng, bạn nên uống (drink) nước ấm."
+   ],
+   [
+    "Từ nào sau đây có nghĩa là \"bệnh đau tai\"?",
+    [
+     "earache",
+     "headache",
+     "backache",
+     "stomach ache"
+    ],
+    "Bệnh đau tai trong tiếng Anh là \"earache\"."
+   ],
+   [
+    "Dạng từ đúng để diễn tả \"cơn ho\" là gì?",
+    [
+     "cough",
+     "coughs",
+     "coughed",
+     "coughing"
+    ],
+    "Danh từ chỉ bệnh/triệu chứng cơn ho là \"cough\" (trong cụm a cough)."
+   ],
+   [
+    "What’s the matter with ________? - He has a cold.",
+    [
+     "him",
+     "he",
+     "his",
+     "himself"
+    ],
+    "Sau giới từ \"with\" ta dùng đại từ nhân xưng làm tân ngữ \"him\"."
+   ],
+   [
+    "Nam has a severe toothache. He ________ eat sweets.",
+    [
+     "shouldn’t",
+     "should",
+     "must",
+     "can"
+    ],
+    "Khi bị đau răng, Nam không nên (shouldn’t) ăn đồ ngọt."
+   ],
+   [
+    "Why shouldn’t I play with the knife? - ________ you may cut yourself.",
+    [
+     "Because",
+     "So",
+     "And",
+     "But"
+    ],
+    "Mẫu câu hỏi bắt đầu bằng \"Why\" thường được trả lời bằng \"Because\"."
+   ],
+   [
+    "Nam: “I have a bad cold.” - Mai: “You ________ stay in bed and rest.”",
+    [
+     "should",
+     "shouldn’t",
+     "don’t",
+     "can’t"
+    ],
+    "Đưa ra lời khuyên nên làm gì khi bị cảm lạnh, ta dùng \"should\"."
+   ],
+   [
+    "Peter has a backache. What ________ he do?",
+    [
+     "should",
+     "does",
+     "is",
+     "would"
+    ],
+    "Cấu trúc hỏi xin lời khuyên là \"What should + S + do?\"."
+   ],
+   [
+    "A: “I have a fever.” - B: “________”",
+    [
+     "You should take some medicine.",
+     "You’re welcome.",
+     "Yes, I do.",
+     "Nice to meet you."
+    ],
+    "Khi ai đó nói bị sốt, câu đáp phù hợp là đưa ra lời khuyên nên uống thuốc."
+   ],
+   [
+    "Cho từ gợi ý: \"throat / has / a / Linda / sore / .\". Hãy sắp xếp lại thành câu đúng.",
+    [
+     "Linda has a sore throat.",
+     "Linda a sore throat has.",
+     "Linda has sore a throat.",
+     "Sore throat Linda has a."
+    ],
+    "Cấu trúc đúng là Củ ngữ + has + a + tên bệnh (Linda has a sore throat)."
+   ],
+   [
+    "Cho từ gợi ý: \"go / shouldn’t / You / to / school / .\". Hãy sắp xếp lại thành câu đúng.",
+    [
+     "You shouldn’t go to school.",
+     "You go to school shouldn’t.",
+     "Shouldn’t you go school to.",
+     "You shouldn’t to go school."
+    ],
+    "Trật tự đúng của câu lời khuyên phủ định là: S + shouldn't + V_nguyên_thể + ..."
+   ],
+   [
+    "Tom had a terrible stomach ache yesterday because he ate too much ice cream. What advice is best for Tom?",
+    [
+     "He shouldn’t eat too much ice cream.",
+     "He should eat more ice cream.",
+     "He should play football.",
+     "He shouldn’t wash his hands."
+    ],
+    "Vì Tom đau bụng do ăn quá nhiều kem, lời khuyên phù hợp nhất là không nên ăn quá nhiều kem."
+   ],
+   [
+    "Quan is staying at home today because he feels tired and hot. He is taking some medicine. What is the matter with Quan?",
+    [
+     "He has a fever.",
+     "He has a toothache.",
+     "He has an earache.",
+     "He has a backache."
+    ],
+    "Cảm thấy mệt, nóng và phải uống thuốc là dấu hiệu của bệnh sốt (fever)."
+   ],
+   [
+    "Hoa: “I have a headache.” - Minh: “________” - Hoa: “Thanks, I will.”",
+    [
+     "You should take a rest and turn off the music.",
+     "You shouldn’t go to the doctor.",
+     "You should play loud music.",
+     "You shouldn’t sleep early."
+    ],
+    "Khi bị đau đầu, lời khuyên hợp lý nhất là nghỉ ngơi và tắt nhạc."
+   ],
+   [
+    "Choose the INCORRECT sentence:",
+    [
+     "He has a sore eye and he should play video games a lot.",
+     "She has an earache, so she shouldn’t listen to loud music.",
+     "My brother has a cough, so he drinks warm tea.",
+     "You should see a dentist when you have a toothache."
+    ],
+    "Câu \"He has a sore eye and he should play video games a lot\" là sai vì bị đau mắt thì không nên chơi điện tử nhiều."
+   ],
+   [
+    "Which word means 'cơn sốt' in English?",
+    [
+     "Fever",
+     "Cough",
+     "Cold",
+     "Flu"
+    ],
+    "Fever có nghĩa là cơn sốt."
+   ],
+   [
+    "What is the matter with her? - She has a ________ in her ear.",
+    [
+     "pain",
+     "ache",
+     "hurt",
+     "ill"
+    ],
+    "Dùng danh từ pain sau mạo từ a và giới từ in để chỉ sự đau đớn ở bộ phận nào đó."
+   ],
+   [
+    "My little brother ________ a runny nose today.",
+    [
+     "has",
+     "have",
+     "having",
+     "is"
+    ],
+    "Chủ ngữ My little brother là số ít nên dùng động từ has."
+   ],
+   [
+    "Choose the correct spelling word:",
+    [
+     "Stomachache",
+     "Stomackache",
+     "Stomachake",
+     "Stomache"
+    ],
+    "Stomachache là từ đúng chỉ bệnh đau dạ dày."
+   ],
+   [
+    "He has a bad cough. He should drink some ________ water.",
+    [
+     "warm",
+     "cold",
+     "ice",
+     "freezing"
+    ],
+    "Khi bị ho, nên uống nước ấm để làm dịu cổ họng."
+   ],
+   [
+    "Why shouldn’t children play with matches? - Because they may ________ themselves.",
+    [
+     "burn",
+     "cut",
+     "break",
+     "fall"
+    ],
+    "Chơi diêm quẹt có nguy cơ bị bỏng (burn)."
+   ],
+   [
+    "Linda has a toothache. She ________ eat too many candies.",
+    [
+     "shouldn't",
+     "should",
+     "must",
+     "can"
+    ],
+    "Bị đau răng thì không nên ăn nhiều kẹo."
+   ],
+   [
+    "Find the word that does not belong to the group:",
+    [
+     "Doctor",
+     "Fever",
+     "Cough",
+     "Headache"
+    ],
+    "Doctor chỉ nghề nghiệp, các từ còn lại là các bệnh lý hoặc triệu chứng."
+   ],
+   [
+    "Mary is coughing a lot. Her mother tells her: “Take a ________.”",
+    [
+     "cough drop",
+     "toothache",
+     "stomachache",
+     "backache"
+    ],
+    "Ho nhiều thì nên ngậm viên trị ho (cough drop)."
+   ],
+   [
+    "Complete the sentence: “________ is the matter with your grandfather?” - “He has a backache.”",
+    [
+     "What",
+     "Where",
+     "Why",
+     "How"
+    ],
+    "Dùng cấu trúc What is the matter with... để hỏi ai đó gặp vấn đề gì về sức khỏe."
+   ],
+   [
+    "Choose the correct sentence:",
+    [
+     "She should stay in bed and take some medicine.",
+     "She should stays in bed and take some medicine.",
+     "She should stay in bed and takes some medicine.",
+     "She should to stay in bed and take some medicine."
+    ],
+    "Sau động từ khuyết thiếu should là động từ nguyên thể không “to”."
+   ],
+   [
+    "Peter feels very cold. He is shivering. He might have a ________.",
+    [
+     "cold",
+     "toothache",
+     "backache",
+     "stomachache"
+    ],
+    "Cảm giác lạnh và run người là dấu hiệu của bị cảm lạnh (cold)."
+   ],
+   [
+    "Rearrange the words to make a correct sentence: \"should / wash / hands / You / your / meals / before / .\"",
+    [
+     "You should wash your hands before meals.",
+     "You should meals wash your hands before.",
+     "You wash should your hands before meals.",
+     "Before meals you wash your hands should."
+    ],
+    "Sắp xếp theo đúng ngữ pháp: Chủ ngữ + should + động từ nguyên thể + tân ngữ + trạng từ chỉ thời gian."
+   ],
+   [
+    "John ate too much junk food at the party. Now he has a sharp pain in his belly. What advice should you give him?",
+    [
+     "He should lie down and rest his stomach.",
+     "He should play football outside.",
+     "He should eat more ice cream.",
+     "He should drink cold soda."
+    ],
+    "Ăn quá nhiều đồ ăn vặt gây đau bụng, lời khuyên là nên nằm nghỉ ngơi."
+   ],
+   [
+    "Identify the INCORRECT sentence:",
+    [
+     "He have a headache this morning.",
+     "She has a sore throat.",
+     "They have stomachaches.",
+     "I have a fever."
+    ],
+    "Chủ ngữ He là số ít nên phải dùng has, không dùng have."
+   ],
+   [
+    "Anna: “I cut my finger when cooking.” - Bob: “________”",
+    [
+     "Oh, I am sorry to hear that. You should put a bandage on it.",
+     "Yes, I do too.",
+     "Thank you very much.",
+     "It is delicious."
+    ],
+    "Khi nghe ai đó bị thương, phản ứng lịch sự là chia sẻ và đưa ra lời khuyên phù hợp."
+   ],
+   [
+    "Choose the best response: “Why shouldn't I run down the stairs?”",
+    [
+     "Because you may fall and break your leg.",
+     "Because you are very tall.",
+     "Because you have a nice bag.",
+     "Because it is sunny today."
+    ],
+    "Chạy xuống cầu thang rất dễ ngã và gãy chân."
+   ],
+   [
+    "My grandmother is old. She often has a pain in her back when she carries heavy bags. She has a ________.",
+    [
+     "backache",
+     "headache",
+     "toothache",
+     "earache"
+    ],
+    "Đau ở vùng lưng khi bê vật nặng là bệnh đau lưng (backache)."
+   ],
+   [
+    "Read and choose the right word for the blank: “Nam has a high fever. He ________ go to school today.”",
+    [
+     "shouldn't",
+     "should",
+     "can",
+     "must"
+    ],
+    "Bị sốt cao thì học sinh không nên đến trường mà cần nghỉ ngơi ở nhà."
+   ],
+   [
+    "Doctor: “Take this medicine and drink plenty of warm water.” - Mai: “________”",
+    [
+     "Thank you, Doctor.",
+     "You’re welcome.",
+     "Yes, I do.",
+     "No, I don’t."
+    ],
+    "Khi bác sĩ đưa ra lời khuyên bảo vệ sức khỏe, học sinh nên cảm ơn bằng câu “Thank you, Doctor.”"
+   ]
+  ]
+ }
+}
