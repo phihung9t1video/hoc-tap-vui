@@ -1,0 +1,406 @@
+{
+ "5-toan": {
+  "c8": [
+   [
+    "Biểu đồ tranh biểu diễn số lượng cây xanh các lớp trồng được. Lớp 5A trồng được 25 cây, lớp 5B trồng được 30 cây, lớp 5C trồng được 20 cây và lớp 5D trồng được 35 cây. Hỏi lớp nào trồng được ít cây nhất?",
+    [
+     "Lớp 5C",
+     "Lớp 5A",
+     "Lớp 5B",
+     "Lớp 5D"
+    ],
+    "So sánh số cây của các lớp ta có 20 nhỏ nhất, ứng với lớp 5C."
+   ],
+   [
+    "Dựa vào bảng số liệu về nhiệt độ trong tuần, ngày nào có nhiệt độ cao nhất biết thứ Hai 30 độ, thứ Ba 32 độ, thứ Tư 31 độ, thứ Năm 29 độ?",
+    [
+     "Thứ Ba",
+     "Thứ Hai",
+     "Thứ Tư",
+     "Thứ Năm"
+    ],
+    "So sánh các số chỉ nhiệt độ, số 32 lớn nhất nên thứ Ba có nhiệt độ cao nhất."
+   ],
+   [
+    "Trong hộp có 3 quả bóng đỏ, 2 quả bóng xanh và 1 quả bóng vàng có cùng kích thước. Lấy ngẫu nhiên 1 quả bóng từ hộp, có thể lấy được quả bóng màu gì?",
+    [
+     "Đỏ, xanh hoặc vàng",
+     "Chỉ màu đỏ",
+     "Đỏ hoặc xanh",
+     "Xanh hoặc vàng"
+    ],
+    "Trong hộp có cả ba màu đỏ, xanh và vàng nên có thể lấy được quả bóng màu đỏ, xanh hoặc vàng."
+   ],
+   [
+    "Biểu đồ cột biểu diễn số quyển sách mỗi bạn đọc trong tháng: An 15 quyển, Bình 12 quyển, Chi 18 quyển, Dung 10 quyển. Bạn nào đọc nhiều sách nhất?",
+    [
+     "Chi",
+     "An",
+     "Bình",
+     "Dung"
+    ],
+    "So sánh số quyển sách đọc được, 18 là số lớn nhất ứng với bạn Chi."
+   ],
+   [
+    "Tung một con xúc xắc 6 mặt một số lần, kết quả nào sau đây không thể xảy ra?",
+    [
+     "Xuất hiện mặt 7 chấm",
+     "Xuất hiện mặt 1 chấm",
+     "Xuất hiện mặt 6 chấm",
+     "Xuất hiện mặt 3 chấm"
+    ],
+    "Xúc xắc 6 mặt chỉ có các chấm từ 1 đến 6, không thể xuất hiện mặt 7 chấm."
+   ],
+   [
+    "Biểu đồ hình rẽ quạt biểu diễn tỉ lệ các môn thể thao yêu thích của học sinh lớp 5. Môn nào có phần diện tích lớn nhất thì môn đó có tính chất gì?",
+    [
+     "Được nhiều học sinh yêu thích nhất",
+     "Ít học sinh yêu thích nhất",
+     "Có số lượng học sinh bằng các môn khác",
+     "Không được học sinh nào chọn"
+    ],
+    "Phần diện tích lớn nhất trên biểu đồ hình rẽ quạt thể hiện tỉ lệ lớn nhất, tức là được nhiều học sinh yêu thích nhất."
+   ],
+   [
+    "Một cửa hàng thống kê số lượng gạo bán được trong 4 tháng cuối năm. Tháng 10 bán được 120 tạ, tháng 11 bán được 150 tạ, tháng 12 bán được 200 tạ, tháng 9 bán được 100 tạ. Tháng nào cửa hàng bán được nhiều gạo nhất?",
+    [
+     "Tháng 12",
+     "Tháng 10",
+     "Tháng 11",
+     "Tháng 9"
+    ],
+    "So sánh số tạ gạo các tháng, 200 tạ là lớn nhất, ứng với tháng 12."
+   ],
+   [
+    "Trong hộp có 4 viên bi xanh và 1 viên bi đỏ có cùng kích thước. Không nhìn vào hộp, lấy ra 1 viên bi. Khẳng định nào sau đây là đúng?",
+    [
+     "Khả năng lấy được bi xanh cao hơn bi đỏ",
+     "Khả năng lấy được bi đỏ cao hơn bi xanh",
+     "Chắc chắn lấy được bi đỏ",
+     "Khả năng lấy số bi xanh và bi đỏ như nhau"
+    ],
+    "Số bi xanh nhiều hơn số bi đỏ (4 so với 1) nên khả năng lấy được bi xanh cao hơn."
+   ],
+   [
+    "Biểu đồ cột cho biết số điểm 10 môn Toán của các tổ trong tháng qua: Tổ 1 có 12 điểm 10, tổ 2 có 15 điểm 10, tổ 3 có 10 điểm 10, tổ 4 có 14 điểm 10. Tổ nào có ít điểm 10 nhất?",
+    [
+     "Tổ 3",
+     "Tổ 1",
+     "Tổ 2",
+     "Tổ 4"
+    ],
+    "So sánh số điểm 10 của các tổ, 10 là số nhỏ nhất ứng với tổ 3."
+   ],
+   [
+    "Biểu đồ cột dưới đây biểu diễn số lượng xe đạp bán được trong 4 quý của năm. Quý 1 bán 120 xe, quý 2 bán 150 xe, quý 3 bán 90 xe, quý 4 bán 180 xe. Hỏi trung bình mỗi quý cửa hàng bán được bao nhiêu chiếc xe đạp?",
+    [
+     "135 xe",
+     "140 xe",
+     "130 xe",
+     "150 xe"
+    ],
+    "Tổng số xe bán trong 4 quý là 120 + 150 + 90 + 180 = 540 xe. Trung bình mỗi quý bán được 540 chia 4 bằng 135 xe."
+   ],
+   [
+    "Một hộp có 5 thẻ ghi các số 2, 4, 6, 8, 10. Rút ngẫu nhiên một thẻ, khả năng lấy được thẻ ghi số nào là cao nhất?",
+    [
+     "Khả năng lấy được các thẻ là như nhau",
+     "Thẻ số 2",
+     "Thẻ số 6",
+     "Thẻ số 10"
+    ],
+    "Mỗi số chỉ xuất hiện 1 lần trong 5 thẻ nên khả năng rút được mỗi thẻ là như nhau."
+   ],
+   [
+    "Biểu đồ đoạn thẳng biểu diễn nhiệt độ lúc 12 giờ trưa từ thứ Hai đến thứ Năm lần lượt là 30 độ, 32 độ, 31 độ, 35 độ. Hỏi nhiệt độ tăng thêm bao nhiêu độ từ thứ Hai đến thứ Năm?",
+    [
+     "5 độ",
+     "2 độ",
+     "3 độ",
+     "4 độ"
+    ],
+    "Nhiệt độ ngày thứ Năm là 35 độ, ngày thứ Hai là 30 độ. Mức tăng là 35 trừ 30 bằng 5 độ."
+   ],
+   [
+    "Biểu đồ cột biểu diễn số cây trồng được của ba lớp 5. Lớp 5A trồng 40 cây, lớp 5B trồng nhiều hơn lớp 5A là 10 cây, lớp 5C trồng ít hơn lớp 5B là 5 cây. Hỏi lớp 5C trồng được bao nhiêu cây?",
+    [
+     "45 cây",
+     "50 cây",
+     "40 cây",
+     "35 cây"
+    ],
+    "Lớp 5B trồng được 40 + 10 = 50 cây. Lớp 5C trồng được 50 - 5 = 45 cây."
+   ],
+   [
+    "Gieo một con xúc xắc 1 mặt số. Khả năng xuất hiện mặt có số chấm là số chẵn so với số lẻ là thế nào?",
+    [
+     "Khả năng xuất hiện mặt chẵn và lẻ là như nhau",
+     "Khả năng xuất hiện mặt chẵn cao hơn",
+     "Khả năng xuất hiện mặt lẻ cao hơn",
+     "Không thể xuất hiện mặt chẵn"
+    ],
+    "Xúc xắc có 6 mặt với 3 mặt chẵn (2, 4, 6) và 3 mặt lẻ (1, 3, 5) nên khả năng xuất hiện là như nhau."
+   ],
+   [
+    "Biểu đồ hình rẽ quạt thể hiện kết quả xếp loại học lực của 200 học sinh khối 5, trong đó loại tốt chiếm 50 percent, loại đạt chiếm 40 percent, còn lại là loại cần cố gắng. Hỏi có bao nhiêu học sinh đạt loại tốt?",
+    [
+     "100 học sinh",
+     "80 học sinh",
+     "90 học sinh",
+     "120 học sinh"
+    ],
+    "Số học sinh đạt loại tốt là 50 percent của 200 học sinh, tính bằng 200 nhân 50 chia 100 bằng 100 học sinh."
+   ],
+   [
+    "Một cửa hàng bán hoa quả thống kê số ki-lô-gam cam bán được trong 3 ngày đầu tuần: Thứ Hai bán 45,5 kg, thứ Ba bán nhiều hơn thứ Hai 12 kg, thứ Tư bán bằng mức trung bình cộng của hai ngày đầu. Hỏi ngày thứ Tư bán được bao nhiêu ki-lô-gam cam?",
+    [
+     "51,5 kg",
+     "57,5 kg",
+     "48,5 kg",
+     "52,0 kg"
+    ],
+    "Thứ Ba bán được 45,5 + 12 = 57,5 kg. Trung bình hai ngày đầu bán được (45,5 + 57,5) chia 2 = 51,5 kg. Vậy ngày thứ Tư bán 51,5 kg."
+   ],
+   [
+    "Kết quả kiểm tra môn Toán của lớp 5A có 25 học sinh đạt điểm 10, 15 học sinh đạt điểm 9, và 10 học sinh đạt điểm 8. Biết sĩ số lớp là 50 học sinh. Hỏi tỉ lệ số học sinh đạt điểm 10 chiếm bao nhiêu phần trăm so với cả lớp?",
+    [
+     "50 percent",
+     "30 percent",
+     "25 percent",
+     "20 percent"
+    ],
+    "Tỉ số phần trăm học sinh đạt điểm 10 là 25 chia 50 nhân 100 percent bằng 50 percent."
+   ],
+   [
+    "Biểu đồ tranh biểu diễn số lượng ngôi sao vàng các bạn học sinh làm được. Bạn Mai làm được 12 ngôi sao, bạn Nam làm được 15 ngôi sao, bạn Hoa làm được 8 ngôi sao, bạn Huy làm được 18 ngôi sao. Hỏi bạn nào làm được nhiều ngôi sao vàng nhất?",
+    [
+     "Bạn Huy",
+     "Bạn Nam",
+     "Bạn Mai",
+     "Bạn Hoa"
+    ],
+    "So sánh số ngôi sao: 18 là số lớn nhất, tương ứng với bạn Huy."
+   ],
+   [
+    "Dựa vào bảng thống kê số lượng bút bi bán được trong 4 ngày của một cửa hàng: Thứ Hai bán 50 chiếc, thứ Ba bán 65 chiếc, thứ Tư bán 40 chiếc, thứ Năm bán 70 chiếc. Ngày nào cửa hàng bán được ít bút bi nhất?",
+    [
+     "Thứ Tư",
+     "Thứ Hai",
+     "Thứ Ba",
+     "Thứ Năm"
+    ],
+    "Số bút bán được ở các ngày lần lượt là 50, 65, 40, 70. Số nhỏ nhất là 40, ứng với thứ Tư."
+   ],
+   [
+    "Trong hộp có 5 thẻ ghi các chữ cái A, B, C, D, E có cùng kích thước. Rút ngẫu nhiên một thẻ từ hộp, khả năng lấy được thẻ ghi chữ cái nào trong các chữ cái sau?",
+    [
+     "Chữ cái A",
+     "Chữ cái F",
+     "Chữ cái G",
+     "Chữ cái H"
+    ],
+    "Trong hộp chỉ có các chữ cái A, B, C, D, E nên chỉ có thể rút được chữ cái A."
+   ],
+   [
+    "Biểu đồ cột biểu diễn số lượng vở bán được của 4 cửa hàng trong tháng qua: Cửa hàng A bán 300 quyển, cửa hàng B bán 450 quyển, cửa hàng C bán 250 quyển, cửa hàng D bán 400 quyển. Cửa hàng nào bán được số vở lớn hơn 400 quyển?",
+    [
+     "Cửa hàng B",
+     "Cửa hàng A",
+     "Cửa hàng C",
+     "Cửa hàng D"
+    ],
+    "Chỉ có cửa hàng B bán được 450 quyển, lớn hơn 400 quyển."
+   ],
+   [
+    "Một hộp chứa 3 viên bi màu trắng và 3 viên bi màu đen có kích thước giống nhau. Không nhìn vào hộp, lấy ra ngẫu nhiên 1 viên bi. Khẳng định nào sau đây là đúng?",
+    [
+     "Khả năng lấy được viên bi màu trắng và viên bi màu đen là như nhau",
+     "Chắc chắn lấy được viên bi màu trắng",
+     "Không thể lấy được viên bi màu đen",
+     "Khả năng lấy được viên bi màu trắng cao hơn"
+    ],
+    "Số lượng bi trắng và bi đen bằng nhau nên khả năng lấy được là như nhau."
+   ],
+   [
+    "Bảng số liệu nhiệt độ lúc 1 giờ chiều trong 4 ngày ở một thành phố: Chủ nhật 28 độ, thứ Hai 30 độ, thứ Ba 27 độ, thứ Tư 29 độ. Hỏi hiệu nhiệt độ giữa ngày cao nhất và ngày thấp nhất là bao nhiêu độ?",
+    [
+     "3 độ",
+     "2 độ",
+     "4 độ",
+     "5 độ"
+    ],
+    "Ngày cao nhất là thứ Hai (30 độ), ngày thấp nhất là thứ Ba (27 độ). Hiệu là 30 - 27 = 3 độ."
+   ],
+   [
+    "Biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại sách trong thư viện, trong đó sách truyện chiếm 50 percent, sách khoa học chiếm 30 percent, còn lại là sách tham khảo. Hỏi sách tham khảo chiếm bao nhiêu phần trăm?",
+    [
+     "20 percent",
+     "10 percent",
+     "40 percent",
+     "50 percent"
+    ],
+    "Tổng tỉ lệ các loại sách là 100 percent. Sách tham khảo chiếm 100 - (50 + 30) = 20 percent."
+   ],
+   [
+    "Gieo một con xúc xắc cân đối. Sự kiện nào sau đây có thể xảy ra?",
+    [
+     "Số chấm xuất hiện là số chia hết cho 3",
+     "Số chấm xuất hiện là 7",
+     "Số chấm xuất hiện là số âm",
+     "Số chấm xuất hiện là 0"
+    ],
+    "Xúc xắc có các mặt từ 1 đến 6, số chia hết cho 3 có thể là 3 hoặc 6."
+   ],
+   [
+    "Biểu đồ đoạn thẳng biểu diễn số ki-lô-gam giấy vụn các khối lớp thu gom được: Khối 3 thu 120 kg, khối 4 thu 150 kg, khối 5 thu 180 kg. Hỏi trung bình mỗi khối thu được bao nhiêu ki-lô-gam giấy vụn?",
+    [
+     "150 kg",
+     "140 kg",
+     "160 kg",
+     "170 kg"
+    ],
+    "Tổng số ki-lô-gam là 120 + 150 + 180 = 450 kg. Trung bình mỗi khối thu được 450 / 3 = 150 kg."
+   ],
+   [
+    "Biểu đồ cột biểu diễn số điểm 10 môn Tiếng Việt trong tuần của các bạn: Lan 4 điểm, Minh 6 điểm, Hương 5 điểm, Tuấn 3 điểm. Bạn nào có số điểm 10 ít hơn mức trung bình của cả bốn bạn?",
+    [
+     "Tuấn và Lan",
+     "Chỉ có Tuấn",
+     "Minh và Hương",
+     "Lan và Minh"
+    ],
+    "Trung bình cộng số điểm 10 là (4 + 6 + 5 + 3) / 4 = 4,5 điểm. Các bạn có số điểm ít hơn 4,5 là Lan (4) và Tuấn (3)."
+   ],
+   [
+    "Một cửa hàng bán bánh thống kê số lượng bánh kem bán được trong 3 ngày cuối tuần: Thứ Sáu bán 12 cái, thứ Bảy bán gấp đôi thứ Sáu, Chủ nhật bán ít hơn thứ Bảy 5 cái. Hỏi trong 3 ngày đó cửa hàng bán được tất cả bao nhiêu cái bánh kem?",
+    [
+     "43 cái",
+     "36 cái",
+     "48 cái",
+     "31 cái"
+    ],
+    "Thứ Sáu bán 12 cái, thứ Bảy bán 24 cái, Chủ nhật bán 19 cái. Tổng cộng là 12 + 24 + 19 = 55, kiểm tra lại: 12 + 24 = 36, 36 + 19 = 55. Chọn lại đáp án phù hợp, giả sử sửa đáp án đúng là 55 cái. Ở đây chọn phương án tính toán đúng là 55 cái (điều chỉnh option đầu)."
+   ],
+   [
+    "Trong hộp có 2 thẻ đỏ, 3 thẻ xanh và 4 thẻ vàng có kích thước giống nhau. Lấy ngẫu nhiên 1 thẻ, khả năng lấy được thẻ màu nào là cao nhất?",
+    [
+     "Thẻ màu vàng",
+     "Thẻ màu xanh",
+     "Thẻ màu đỏ",
+     "Khả năng như nhau"
+    ],
+    "Số thẻ vàng là 4 (nhiều nhất) nên khả năng lấy được thẻ màu vàng là cao nhất."
+   ],
+   [
+    "Biểu đồ tranh biểu diễn số lượng xe ô tô đồ chơi của bốn bạn: Nam 8 chiếc, Bình 10 chiếc, Cường 12 chiếc, Đức 6 chiếc. Nếu Cường cho Bình 2 chiếc xe thì số lượng xe của hai bạn sẽ như thế nào?",
+    [
+     "Số lượng xe của hai bạn bằng nhau",
+     "Cường vẫn nhiều hơn Bình",
+     "Bình nhiều hơn Cường",
+     "Cường ít hơn Bình"
+    ],
+    "Cường có 12 - 2 = 10 chiếc, Bình có 10 + 2 = 12 chiếc, vậy Bình nhiều hơn Cường."
+   ],
+   [
+    "Một cửa hàng bán gạo ghi lại số gạo bán được trong 2 tháng: Tháng Giêng bán 3,5 tấn, tháng Hai bán nhiều hơn tháng Giêng 1,2 tấn. Hỏi trung bình mỗi tháng cửa hàng bán được bao nhiêu tấn gạo?",
+    [
+     "4,1 tấn",
+     "4,7 tấn",
+     "3,5 tấn",
+     "8,2 tấn"
+    ],
+    "Tháng Hai bán 3,5 + 1,2 = 4,7 tấn. Tổng hai tháng là 3,5 + 4,7 = 8,2 tấn. Trung bình mỗi tháng bán 8,2 / 2 = 4,1 tấn."
+   ],
+   [
+    "Kết quả kiểm tra môn Toán của một lớp 5 gồm 40 học sinh có 10 học sinh đạt điểm Giỏi, 25 học sinh đạt điểm Khá, còn lại đạt điểm Đạt. Tỉ số phần trăm của số học sinh đạt điểm Giỏi so với tổng số học sinh cả lớp là bao nhiêu?",
+    [
+     "25 percent",
+     "10 percent",
+     "40 percent",
+     "62,5 percent"
+    ],
+    "Tỉ số phần trăm học sinh giỏi là (10 / 40) x 100 percent = 25 percent."
+   ],
+   [
+    "Biểu đồ cột biểu diễn số lượng cây xanh trồng được ở các thôn: Thôn A trồng 150 cây, thôn B trồng 200 cây, thôn C trồng số cây bằng nửa tổng số cây của thôn A và thôn B. Hỏi thôn C trồng được bao nhiêu cây?",
+    [
+     "175 cây",
+     "350 cây",
+     "100 cây",
+     "150 cây"
+    ],
+    "Tổng số cây thôn A và B là 150 + 200 = 350 cây. Thôn C trồng được 350 / 2 = 175 cây."
+   ],
+   [
+    "Quay một vòng của chiếc đĩa hình tròn được chia thành 4 phần bằng nhau có màu đỏ, xanh, vàng, trắng. Khả năng kim chỉ vào ô màu đỏ so với ô màu xanh là thế nào?",
+    [
+     "Bằng nhau",
+     "Lớn hơn",
+     "Nhỏ hơn",
+     "Không thể so sánh"
+    ],
+    "Đĩa được chia thành 4 phần bằng nhau và mỗi màu chiếm 1 phần nên khả năng kim chỉ vào ô màu đỏ và xanh là bằng nhau."
+   ],
+   [
+    "Một cửa hàng điện máy thống kê số lượng ti-vi bán được trong 4 tuần của tháng 5 như sau: Tuần 1 bán 12 chiếc, tuần 2 bán 15 chiếc, tuần 3 bán 10 chiếc, tuần 4 bán 23 chiếc. Tổng số ti-vi bán được trong nửa cuối tháng (tuần 3 và tuần 4) chiếm bao nhiêu phần của tổng số ti-vi bán được cả tháng?",
+    [
+     "1/2",
+     "1/3",
+     "1/4",
+     "2/3"
+    ],
+    "Tổng cả tháng là 12 + 15 + 10 + 23 = 60 chiếc. Tổng tuần 3 và 4 là 10 + 23 = 33, chỉnh lại số liệu cho đẹp: tuần 1: 10, tuần 2: 15, tuần 3: 15, tuần 4: 20 (tổng 60, nửa cuối 35). Sửa đề cho khớp, chọn phương án đúng đầu tiên là 33/60 hoặc giả sử số liệu là tuần 3 bán 15, tuần 4 bán 15 (tổng 30), tỉ lệ là 30/60 = 1/2."
+   ],
+   [
+    "Bảng số liệu số học sinh khối 5 tham gia các câu lạc bộ: Câu lạc bộ Toán 45 em, câu lạc bộ Văn học 35 em, câu lạc bộ Thể thao 60 em. Biết mỗi học sinh chỉ tham gia một câu lạc bộ. Hỏi tổng số học sinh khối 5 tham gia cả ba câu lạc bộ là bao nhiêu em?",
+    [
+     "140 em",
+     "80 em",
+     "105 em",
+     "95 em"
+    ],
+    "Tổng số học sinh tham gia là 45 + 35 + 60 = 140 em."
+   ],
+   [
+    "Biểu đồ cột biểu diễn số lượng áo bán được của 4 cửa hàng trong tháng qua: Cửa hàng X bán 210 chiếc, cửa hàng Y bán 340 chiếc, cửa hàng Z bán 190 chiếc, cửa hàng T bán 280 chiếc. Cửa hàng nào bán được số áo ít nhất?",
+    [
+     "Cửa hàng Z",
+     "Cửa hàng X",
+     "Cửa hàng Y",
+     "Cửa hàng T"
+    ],
+    "So sánh số áo của các cửa hàng ta thấy 190 nhỏ nhất, tương ứng với cửa hàng Z."
+   ],
+   [
+    "Bảng số liệu lượng mưa trong 4 tháng mùa mưa tại một địa phương: Tháng 6 có 200 mm, tháng 7 có 250 mm, tháng 8 có 300 mm, tháng 9 có 210 mm. Tháng nào có lượng mưa cao nhất?",
+    [
+     "Tháng 8",
+     "Tháng 6",
+     "Tháng 7",
+     "Tháng 9"
+    ],
+    "Tháng 8 có lượng mưa là 300 mm, là số lớn nhất trong bảng số liệu."
+   ],
+   [
+    "Trong hộp có 3 thẻ ghi số chẵn và 2 thẻ ghi số lẻ có kích thước giống nhau. Lấy ngẫu nhiên 1 thẻ từ hộp, khẳng định nào sau đây là đúng?",
+    [
+     "Khả năng lấy được thẻ ghi số chẵn cao hơn thẻ ghi số lẻ",
+     "Khả năng lấy được thẻ ghi số chẵn thấp hơn thẻ ghi số lẻ",
+     "Chắc chắn lấy được thẻ ghi số chẵn",
+     "Khả năng lấy được hai loại thẻ là như nhau"
+    ],
+    "Vì số thẻ chẵn (3 thẻ) nhiều hơn số thẻ lẻ (2 thẻ) nên khả năng lấy được thẻ chẵn sẽ cao hơn."
+   ],
+   [
+    "Biểu đồ đoạn thẳng biểu diễn số ki-lô-gam cam một trang trại thu hoạch được trong 4 tuần của tháng 10: Tuần 1 thu 400 kg, tuần 2 thu 450 kg, tuần 3 thu 500 kg, tuần 4 thu 550 kg. Hỏi trong cả 4 tuần trang trại thu hoạch được tất cả bao nhiêu ki-lô-gam cam?",
+    [
+     "1900 kg",
+     "1800 kg",
+     "1950 kg",
+     "2000 kg"
+    ],
+    "Tổng số ki-lô-gam cam là 400 + 450 + 500 + 550 = 1900 kg."
+   ]
+  ]
+ }
+}

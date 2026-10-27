@@ -1,0 +1,406 @@
+{
+ "5-khoahoc": {
+  "c1": [
+   [
+    "1. Vật nào sau đây được làm từ chất lỏng ở điều kiện thường?",
+    [
+     "Nước khoáng",
+     "Cục sắt",
+     "Ghế gỗ",
+     "Viên đá"
+    ],
+    "Nước khoáng là chất lỏng ở điều kiện thường, còn sắt, gỗ, đá là chất rắn."
+   ],
+   [
+    "2. Tính chất nào dưới đây là của chất rắn?",
+    [
+     "Có hình dạng cố định",
+     "Không có hình dạng nhất định",
+     "Chiếm toàn bộ thể tích vật chứa",
+     "Dễ dàng chảy lan ra"
+    ],
+    "Chất rắn có hình dạng xác định và khó bị nén."
+   ],
+   [
+    "3. Chất khí có đặc điểm gì về hình dạng và thể tích?",
+    [
+     "Không có hình dạng cố định và chiếm toàn bộ thể tích vật chứa",
+     "Có hình dạng cố định nhưng không có thể tích xác định",
+     "Có cả hình dạng và thể tích cố định",
+     "Không có hình dạng và thể tích xác định"
+    ],
+    "Chất khí không có hình dạng cố định và luôn chiếm toàn bộ thể tích của vật chứa nó."
+   ],
+   [
+    "4. Hiện tượng nước từ thể lỏng chuyển thành thể hơi gọi là gì?",
+    [
+     "Sự bay hơi",
+     "Sự ngưng tụ",
+     "Sự đông đặc",
+     "Sự nóng chảy"
+    ],
+    "Sự bay hơi là quá trình chất lỏng chuyển thành thể hơi."
+   ],
+   [
+    "5. Khi cho muối ăn vào nước và khuấy đều, ta thu được gì?",
+    [
+     "Dung dịch nước muối",
+     "Hỗn hợp không đồng nhất",
+     "Chất rắn mới",
+     "Chất khí mới"
+    ],
+    "Muối tan hoàn toàn trong nước tạo thành dung dịch nước muối đồng nhất."
+   ],
+   [
+    "6. Quá trình nào sau đây làm cho nước từ thể lỏng chuyển thành thể rắn?",
+    [
+     "Sự đông đặc",
+     "Sự bay hơi",
+     "Sự nóng chảy",
+     "Sự ngưng tụ"
+    ],
+    "Khi hạ nhiệt độ xuống thấp, nước lỏng sẽ đông đặc thành nước đá."
+   ],
+   [
+    "7. Sương mù xuất hiện vào buổi sáng sớm là kết quả của quá trình nào?",
+    [
+     "Sự ngưng tụ",
+     "Sự bay hơi",
+     "Sự đông đặc",
+     "Sự nóng chảy"
+    ],
+    "Hơi nước trong không khí gặp lạnh ngưng tụ thành những hạt nước nhỏ li ti tạo thành sương mù."
+   ],
+   [
+    "8. Đâu là ví dụ về sự biến đổi lý học của chất?",
+    [
+     "Nước đá tan thành nước lỏng",
+     "Cơm bị ôi thiu",
+     "Thanh sắt bị gỉ sét",
+     "Đốt cháy một mẩu giấy"
+    ],
+    "Nước đá tan chỉ đổi trạng thái, không tạo ra chất mới nên đây là biến đổi lý học."
+   ],
+   [
+    "9. Trường hợp nào sau đây xảy ra sự biến đổi hóa học?",
+    [
+     "Thịt để ngoài trời bị thiu",
+     "Hòa tan đường vào nước",
+     "Thủy tinh bị đập vỡ",
+     "Dầu ăn bị đông đặc"
+    ],
+    "Thịt bị thiu tạo ra chất mới có mùi khó chịu, đây là sự biến đổi hóa học."
+   ],
+   [
+    "10. Vì sao người ta thường làm đường ray tàu hỏa có các khe hở nhỏ giữa các thanh ray?",
+    [
+     "Vì đường ray bị giãn nở khi thời tiết nóng",
+     "Vì tiết kiệm nguyên liệu làm đường ray",
+     "Vì giúp tàu chạy êm hơn",
+     "Vì nước mưa dễ thoát đi"
+    ],
+    "Các thanh ray cần có khe hở để chất rắn giãn nở khi nhiệt độ tăng vào mùa hè."
+   ],
+   [
+    "11. Phát biểu nào sau đây đúng khi nói về tính chất của nước tinh khiết?",
+    [
+     "Không màu, không mùi, không vị, không có hình dạng nhất định",
+     "Có màu trắng đục, có mùi thơm nhẹ",
+     "Có vị ngọt dịu và có hình dạng cố định",
+     "Luôn ở thể rắn khi ở nhiệt độ phòng"
+    ],
+    "Nước tinh khiết là chất lỏng không màu, không mùi, không vị và không có hình dạng cố định."
+   ],
+   [
+    "12. Hỗn hợp nào sau đây có thể tách các chất ra bằng cách lọc?",
+    [
+     "Cát và nước",
+     "Muối ăn và nước",
+     "Đường và nước",
+     "Giấm và nước"
+    ],
+    "Cát không tan trong nước nên có thể dùng phễu lọc để giữ cát lại."
+   ],
+   [
+    "13. Để bảo quản thức ăn khỏi bị ôi thiu (vi khuẩn phát triển), người ta thường dùng phương pháp nào?",
+    [
+     "Để vào tủ lạnh",
+     "Để ở nơi ấm áp",
+     "Đậy kín rồi để ngoài nắng",
+     "Phơi trực tiếp dưới mưa"
+    ],
+    "Nhiệt độ thấp trong tủ lạnh làm chậm quá trình biến đổi hóa học và sự phát triển của vi khuẩn."
+   ],
+   [
+    "14. Khi đun sôi nước, ta thấy có những bọt khí nổi lên và hơi nước bốc lên. Hiện tượng này gồm những quá trình nào?",
+    [
+     "Bay hơi và sôi",
+     "Đông đặc và ngưng tụ",
+     "Nóng chảy và đông đặc",
+     "Ngưng tụ và bay hơi"
+    ],
+    "Nước chuyển từ lỏng sang hơi khi sôi và bay hơi."
+   ],
+   [
+    "15. Tại sao các nồi nấu ăn thường làm bằng kim loại như nhôm, inox?",
+    [
+     "Vì kim loại dẫn nhiệt tốt",
+     "Vì kim loại rất nhẹ và rẻ tiền",
+     "Vì kim loại không bị gỉ sét bao giờ",
+     "Vì kim loại có màu sắc đẹp"
+    ],
+    "Kim loại dẫn nhiệt tốt giúp thức ăn nhanh chín."
+   ],
+   [
+    "16. Một bạn học sinh để quên một cốc nước đá trên bàn, sau một thời gian thấy xung quanh thành cốc có những giọt nước nhỏ bám vào. Những giọt nước đó từ đâu tới?",
+    [
+     "Hơi nước trong không khí ngưng tụ lại",
+     "Nước trong cốc thấm qua thành cốc ra ngoài",
+     "Nước mưa từ ngoài bay vào nhà",
+     "Cốc nước tự sinh ra nước mới"
+    ],
+    "Hơi nước trong không khí gặp thành cốc lạnh nên ngưng tụ thành các giọt nước."
+   ],
+   [
+    "17. Việc làm nào dưới đây góp phần tiết kiệm chất đốt và bảo vệ môi trường?",
+    [
+     "Sử dụng nồi áp suất để nấu chín thức ăn nhanh hơn",
+     "Đun bếp than tổ ong liên tục cả ngày",
+     "Đốt rơm rạ ngay trên cánh đồng",
+     "Vứt pin cũ xuống ao hồ"
+    ],
+    "Nồi áp suất giúp nấu nhanh, tiết kiệm nhiên liệu và giảm khói bụi."
+   ],
+   [
+    "18. Bạn Nam trộn đều bột mì với nước. Theo em, Nam đã tạo ra được gì?",
+    [
+     "Một hỗn hợp sền sệt",
+     "Một dung dịch đồng nhất",
+     "Một chất khí mới hoàn toàn",
+     "Một chất rắn tinh khiết"
+    ],
+    "Bột mì không tan hoàn toàn trong nước mà tạo thành hỗn hợp sền sệt."
+   ],
+   [
+    "19. Khi làm kem trái cây, người ta cho hỗn hợp sữa và quả xay nhuyễn vào ngăn đá tủ lạnh. Quá trình này dựa vào tính chất nào?",
+    [
+     "Chất lỏng chuyển thành chất rắn khi gặp nhiệt độ thấp",
+     "Chất rắn biến thành chất khí khi gặp lạnh",
+     "Chất khí bay hơi nhanh ở nhiệt độ thấp",
+     "Chất lỏng tự bốc hơi hết thành khí"
+    ],
+    "Nhiệt độ thấp làm hỗn hợp lỏng đông đặc lại thành kem."
+   ],
+   [
+    "20. Hành động nào sau đây thể hiện việc sử dụng hợp lý các nguồn tài nguyên chất ở nhà?",
+    [
+     "Khóa chặt vòi nước khi không sử dụng",
+     "Bật đèn sáng khắp nhà cả ngày lẫn đêm",
+     "Xả rác thải nhựa trực tiếp ra sông ngòi",
+     "Dùng túi ni lông bừa bãi mỗi khi đi chợ"
+    ],
+    "Khóa vòi nước giúp tiết kiệm tài nguyên nước sạch cho gia đình và xã hội."
+   ],
+   [
+    "Vật thể tự nhiên nào sau đây cấu tạo chủ yếu từ chất rắn ở điều kiện thường?",
+    [
+     "Hòn đá cuội",
+     "Giọt nước mưa",
+     "Đám mây trên trời",
+     "Luồng hơi nước"
+    ],
+    "Hòn đá cuội là vật thể tự nhiên tồn tại ở thể rắn, có hình dạng cố định."
+   ],
+   [
+    "Chất rắn có đặc điểm cơ bản nào sau đây?",
+    [
+     "Có hình dạng cố định và chiếm một thể tích nhất định",
+     "Không có hình dạng xác định, luôn chiếm toàn bộ thể tích vật chứa",
+     "Có thể dễ dàng chảy tràn và lan rộng trên bề mặt phẳng",
+     "Luôn có thể bị nén lại rất nhỏ khi tác dụng lực"
+    ],
+    "Chất rắn có hình dạng xác định và khó thay đổi hình dạng nếu không có lực tác động lớn."
+   ],
+   [
+    "Đặc điểm nào dưới đây là của chất khí?",
+    [
+     "Không có hình dạng cố định, chiếm toàn bộ thể tích vật chứa",
+     "Có hình dạng riêng nhưng thể tích thay đổi liên tục",
+     "Có thể cầm nắm được bằng tay và giữ nguyên thể tích",
+     "Luôn giữ nguyên hình dạng dù ở trong bất kỳ vật chứa nào"
+    ],
+    "Chất khí không có hình dạng cố định và luôn bay chiếm toàn bộ không gian của vật chứa nó."
+   ],
+   [
+    "Hiện tượng nước từ thể lỏng chuyển thành thể rắn xảy ra khi nào?",
+    [
+     "Đặt nước lỏng vào ngăn đá tủ lạnh trong thời gian đủ dài",
+     "Đun sôi nước lỏng liên tục trên bếp ở nhiệt độ cao",
+     "Để cốc nước lỏng ở ngoài không gian thoáng mát, nhiều gió",
+     "Đổ nước lỏng từ cốc này sang một chiếc ca lớn hơn"
+    ],
+    "Khi nhiệt độ hạ xuống thấp (như trong ngăn đá), nước lỏng sẽ đông đặc thành nước đá ở thể rắn."
+   ],
+   [
+    "Khi hòa tan đường kính vào nước ấm rồi khuấy đều, ta thu được gì?",
+    [
+     "Dung dịch đường trong nước",
+     "Một hỗn hợp dạng huyền phù",
+     "Một lớp đường lắng ở đáy cốc",
+     "Các hạt đường nổi lơ lửng"
+    ],
+    "Đường tan hoàn toàn trong nước tạo thành dung dịch đồng nhất gọi là dung dịch đường."
+   ],
+   [
+    "Quá trình chuyển từ thể hơi sang thể lỏng của nước gọi là gì?",
+    [
+     "Sự ngưng tụ",
+     "Sự bay hơi",
+     "Sự nóng chảy",
+     "Sự đông đặc"
+    ],
+    "Khi gặp lạnh, hơi nước chuyển ngược lại thành các hạt nước lỏng nhỏ, hiện tượng đó là sự ngưng tụ."
+   ],
+   [
+    "Hiện tượng giọt sương đọng trên lá cây vào buổi sáng sớm là kết quả của quá trình nào?",
+    [
+     "Hơi nước trong không khí ngưng tụ thành nước lỏng",
+     "Nước ngầm từ trong rễ cây dâng lên và phun qua lá",
+     "Nước mưa từ hôm trước đọng lại chưa kịp khô",
+     "Hơi nước bay lên từ mặt đất rồi hóa đá thành sương"
+    ],
+    "Ban đêm nhiệt độ hạ thấp, hơi nước trong không khí gặp lạnh ngưng tụ thành các giọt sương đọng trên lá."
+   ],
+   [
+    "Hành động nào sau đây gây ra sự biến đổi hóa học của chất?",
+    [
+     "Cơm để lâu ngày bị thiu và có mùi chua",
+     "Tờ giấy trắng bị xé vụn thành nhiều mảnh nhỏ",
+     "Thanh sắt bị uốn cong thành hình chiếc vòng",
+     "Cục nước đá để ngoài trời tan chảy thành nước"
+    ],
+    "Cơm bị thiu là quá trình biến đổi chất ban đầu thành chất mới có mùi và vị khác hẳn, đây là biến đổi hóa học."
+   ],
+   [
+    "Đâu là ví dụ về sự biến đổi lý học của chất?",
+    [
+     "Sáp nến bị đun nóng chảy lỏng ra rồi để nguội cứng lại",
+     "Que diêm quẹt vào vỏ hộp bị cháy thành than đen",
+     "Thanh sắt để ngoài trời ẩm ướt bị gỉ sét màu nâu đỏ",
+     "Trứng gà luộc chín từ dạng lỏng sang dạng đặc"
+    ],
+    "Sáp nến chuyển từ rắn sang lỏng rồi lại về rắn, chất sáp không bị biến đổi thành chất khác nên đây là biến đổi lý học."
+   ],
+   [
+    "Vì sao các loại phích đựng nước nóng thường có lớp chân không ở giữa hai lớp thủy tinh?",
+    [
+     "Để hạn chế sự truyền nhiệt ra bên ngoài, giúp nước giữ nóng lâu",
+     "Để làm giảm trọng lượng của chiếc phích cho nhẹ dễ cầm",
+     "Để ngăn không cho nước rò rỉ ra ngoài vỏ nhựa của phích",
+     "Để giúp cho việc rót nước từ trong phích ra ngoài dễ dàng hơn"
+    ],
+    "Lớp chân không truyền nhiệt rất kém, giúp ngăn cản nhiệt lượng của nước bên trong thoát ra ngoài."
+   ],
+   [
+    "Hỗn hợp nào sau đây có thể tách riêng các chất thành phần bằng phương pháp lọc?",
+    [
+     "Hỗn hợp cát và nước",
+     "Hỗn hợp muối ăn và nước",
+     "Hỗn hợp đường và nước",
+     "Hỗn hợp giấm và nước"
+    ],
+    "Cát không tan trong nước và có kích thước lớn hơn lỗ giấy lọc nên có thể dùng phương pháp lọc để tách cát ra."
+   ],
+   [
+    "Để giữ cho thịt cá tươi lâu mà không bị ôi thiu trong thời gian dài, người ta thường dùng cách nào?",
+    [
+     "Bảo quản trong ngăn đông của tủ lạnh",
+     "Đậy kín bằng nắp nhựa rồi để ở góc bếp",
+     "Ngâm vào chậu nước sạch ở nhiệt độ phòng",
+     "Phơi trực tiếp dưới ánh nắng to ngoài sân"
+    ],
+    "Nhiệt độ thấp ở ngăn đông làm giảm tốc độ phát triển của vi khuẩn, giúp thực phẩm lâu bị hỏng."
+   ],
+   [
+    "Khi đun nước sôi, ta thấy có các bọt khí nổi lên mặt nước và hơi bay lên. Điều này gồm các quá trình nào?",
+    [
+     "Sự bay hơi và sự sôi của nước",
+     "Sự ngưng tụ và sự đông đặc của nước",
+     "Sự nóng chảy và sự biến đổi hóa học",
+     "Sự đông đặc và sự biến đổi lý học"
+    ],
+    "Khi đun nóng, nước chuyển từ thể lỏng sang thể hơi nhanh chóng qua hiện tượng bay hơi và hiện tượng sôi."
+   ],
+   [
+    "Tại sao các loại xoong, nồi nấu ăn trong gia đình thường được làm bằng kim loại như nhôm hoặc inox?",
+    [
+     "Vì kim loại dẫn nhiệt tốt giúp thức ăn nhanh chín",
+     "Vì kim loại giữ nhiệt kém làm thức ăn không bị cháy",
+     "Vì kim loại rất mềm nên dễ nặn thành nhiều hình",
+     "Vì kim loại nhẹ hơn nước và không bao giờ bị bẩn"
+    ],
+    "Kim loại dẫn nhiệt rất tốt nên khi nấu ăn bằng nồi kim loại, nhiệt lượng sẽ truyền nhanh từ bếp vào thức ăn."
+   ],
+   [
+    "Một bạn học sinh để cốc nước đá lạnh lên bàn, lát sau thấy xung quanh thành ngoài cốc có các giọt nước nhỏ. Giải thích nào đúng?",
+    [
+     "Hơi nước trong không khí gặp lạnh ngưng tụ thành các giọt nước bám vào thành cốc",
+     "Nước ở bên trong cốc thấm qua thành thủy tinh dày ra ngoài không khí",
+     "Do đá trong cốc tan chảy rồi trào qua miệng cốc chảy xuống thành ngoài",
+     "Do không khí xung quanh biến thành nước khi bị cốc đá hút mất nhiệt độ"
+    ],
+    "Hơi nước lơ lửng trong không khí xung quanh khi gặp bề mặt lạnh của cốc nước đá đã ngưng tụ lại thành các giọt nước."
+   ],
+   [
+    "Việc làm nào dưới đây góp phần tiết kiệm chất đốt và bảo vệ môi trường khi nấu ăn ở nhà?",
+    [
+     "Điều chỉnh lửa vừa vặn với đáy nồi, đậy kín nắp vung khi đun",
+     "Mở thật to ngọn lửa bếp gas để nấu cho nhanh xong việc",
+     "Dùng củi tươi đốt để tạo ra nhiều khói giữ nhiệt lâu hơn",
+     "Để hở vung nồi cho hơi nước bay nhanh bớt ra ngoài"
+    ],
+    "Điều chỉnh lửa vừa và đậy kín vung giúp tận dụng tối đa nhiệt lượng, tiết kiệm nhiên liệu và tránh lãng phí."
+   ],
+   [
+    "Bạn Nam trộn đều bột năng với nước lọc trong một cái bát. Theo em, Nam đã tạo ra được hỗn hợp gì?",
+    [
+     "Huyền phù",
+     "Dung dịch trong suốt",
+     "Chất khí hòa tan",
+     "Chất rắn tinh khiết"
+    ],
+    "Bột năng không tan trong nước mà lơ lửng tạo thành hỗn hợp dạng huyền phù."
+   ],
+   [
+    "Khi làm kem hoa quả, người ta cho hỗn hợp sữa và trái cây xay vào ngăn đá tủ lạnh. Việc này dựa vào tính chất nào của chất?",
+    [
+     "Chất lỏng chuyển thành thể rắn khi gặp nhiệt độ thấp",
+     "Chất rắn có thể tự động bay hơi thành chất khí",
+     "Chất khí có khả năng hòa tan hoàn toàn vào chất lỏng",
+     "Chất lỏng có thể tự biến đổi thành chất khác hoàn toàn"
+    ],
+    "Đưa hỗn hợp vào ngăn đá lạnh để lợi dụng hiện tượng chất lỏng đông đặc thành chất rắn (kem)."
+   ],
+   [
+    "Hành động nào sau đây thể hiện việc sử dụng hợp lý các nguồn tài nguyên chất đốt trong gia đình?",
+    [
+     "Khóa van bình gas cẩn thận ngay sau khi đun nấu xong",
+     "Bật bếp gas để đó đi làm việc khác cho đỡ mất công bật lại",
+     "Dùng than tổ ong đốt sưởi ấm qua đêm trong phòng kín",
+     "Đun nước sôi để tràn ra ngoài bếp cho dễ dập lửa"
+    ],
+    "Khóa van gas sau khi dùng giúp tránh rò rỉ khí gas, đảm bảo an toàn và tiết kiệm tài nguyên."
+   ],
+   [
+    "Phát biểu nào sau đây là đúng khi nói về đặc điểm chung của các chất ở thể lỏng?",
+    [
+     "Không có hình dạng cố định, chảy được và mang hình dạng của vật chứa",
+     "Có hình dạng cố định giống như các vật bằng chất rắn thông thường",
+     "Không chiếm thể tích nhất định và luôn bay lên cao tỏa vào không khí",
+     "Luôn có thể bị nén lại rất nhỏ giống như các chất ở thể khí"
+    ],
+    "Chất lỏng không có hình dạng cố định, có thể chảy và luôn chiếm thể tích xác định nhưng mang hình dạng của vật chứa nó."
+   ]
+  ]
+ }
+}

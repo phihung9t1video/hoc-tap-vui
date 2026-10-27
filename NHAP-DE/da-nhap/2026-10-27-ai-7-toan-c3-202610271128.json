@@ -1,0 +1,206 @@
+{
+ "7-toan": {
+  "c3": [
+   [
+    "Trong các khẳng định sau, khẳng định nào đúng về hai góc đối đỉnh?",
+    [
+     "Hai góc đối đỉnh là hai góc mà mỗi cạnh của góc này là tia đối của một cạnh thuộc góc kia.",
+     "Hai góc có số đo bằng nhau thì luôn đối đỉnh với nhau.",
+     "Hai góc có chung đỉnh và số đo bằng nhau là hai góc đối đỉnh.",
+     "Hai góc đối đỉnh thì luôn kề bù với nhau."
+    ],
+    "Định nghĩa hai góc đối đỉnh là hai góc mà mỗi cạnh của góc này là tia đối của một cạnh thuộc góc kia."
+   ],
+   [
+    "Cho hai góc ∠aOb và ∠bOc kề bù với nhau. Khẳng định nào sau đây diễn tả đúng tính chất của hai góc này?",
+    [
+     "Hai góc ∠aOb và ∠bOc có một cạnh chung O b và hai cạnh O a, O c là hai tia đối nhau.",
+     "Hai góc ∠aOb và ∠bOc có tổng số đo bằng 90°.",
+     "Hai góc ∠aOb và ∠bOc không có điểm trong chung.",
+     "Hai góc ∠aOb và ∠bOc bằng nhau."
+    ],
+    "Hai góc kề bù vừa kề nhau vừa bù nhau, nên có một cạnh chung và hai cạnh còn lại là hai tia đối nhau."
+   ],
+   [
+    "Cho góc ∠mOn = 70°. Vẽ tia Oz là tia phân giác của góc ∠mOn. Tính số đo góc ∠zOn.",
+    [
+     "35°",
+     "140°",
+     "70°",
+     "110°"
+    ],
+    "Tia Oz là tia phân giác của ∠mOn nên ∠zOn = ∠mOn / 2 = 70° / 2 = 35°."
+   ],
+   [
+    "Quan sát hai đường thẳng a và b cắt nhau tại O. Nếu biết góc ∠O1 = 45° thì góc kề bù với ∠O1 có số đo bằng bao nhiêu?",
+    [
+     "135°",
+     "45°",
+     "90°",
+     "180°"
+    ],
+    "Hai góc kề bù có tổng số đo bằng 180°, nên góc kề bù với ∠O1 bằng 180° - 45° = 135°."
+   ],
+   [
+    "Trong các câu sau, câu nào là một phát biểu đúng của định lí?",
+    [
+     "Định lí là một khẳng định được suy ra từ những khẳng định được coi là đúng.",
+     "Định lí là một câu hỏi chưa có lời giải đáp.",
+     "Định lí là giả thiết không cần chứng minh.",
+     "Định lí là một phép đo đạc thực nghiệm trong hình học."
+    ],
+    "Định lí là một khẳng định được suy ra từ những khẳng định đúng thông qua chứng minh."
+   ],
+   [
+    "Trong chứng minh định lí, phần “Giả thiết” (GT) là gì?",
+    [
+     "Những điều cho biết ban đầu.",
+     "Những điều cần phải kết luận.",
+     "Tất cả các góc trong hình vẽ.",
+     "Điều khẳng định cuối cùng."
+    ],
+    "Giả thiết của định lí là những điều đã cho biết ban đầu."
+   ],
+   [
+    "Chọn phát biểu ĐÚNG trong các phát biểu sau:",
+    [
+     "Đường trung trực của một đoạn thẳng là đường thẳng vuông góc với đoạn thẳng đó tại trung điểm của nó.",
+     "Đường trung trực của một đoạn thẳng đi qua một đầu mút của đoạn thẳng đó.",
+     "Đường trung trực là đường thẳng song song với đoạn thẳng.",
+     "Đoạn thẳng nào cũng có vô số đường trung trực."
+    ],
+    "Đường trung trực của đoạn thẳng là đường thẳng vuông góc với đoạn thẳng tại trung điểm của đoạn thẳng đó."
+   ],
+   [
+    "Cho đường thẳng c cắt hai đường thẳng a và b. Điều kiện nào sau đây KHÔNG đủ để kết luận a song song với b?",
+    [
+     "Hai góc kề bù có số đo bằng nhau.",
+     "Một cặp góc so le trong bằng nhau.",
+     "Một cặp góc đồng vị bằng nhau.",
+     "Một cặp góc trong cùng phía bù nhau."
+    ],
+    "Hai góc kề bù bằng nhau chỉ cho biết mỗi góc bằng 90°, không hề chứng tỏ hai đường thẳng a và b song song."
+   ],
+   [
+    "Cho hai góc ∠xOy và ∠yOz kề nhau, biết ∠xOy = 40° và ∠xOz = 100°. Số đo của góc ∠yOz là bao nhiêu?",
+    [
+     "60°",
+     "140°",
+     "50°",
+     "80°"
+    ],
+    "Vì ∠xOy và ∠yOz kề nhau và ∠xOz = 100° nên ∠yOz = ∠xOz - ∠xOy = 100° - 40° = 60°."
+   ],
+   [
+    "Hai đường thẳng xx' và yy' cắt nhau tại I tạo thành góc ∠xIy = 50°. Tính tổng số đo của hai góc ∠xIy' và ∠x'Iy.",
+    [
+     "260°",
+     "130°",
+     "100°",
+     "180°"
+    ],
+    "Góc ∠xIy' và ∠x'Iy đều kề bù với góc ∠xIy = 50° nên ∠xIy' = ∠x'Iy = 180° - 50° = 130°. Tổng hai góc là 130° + 130° = 260°."
+   ],
+   [
+    "Cho góc ∠AOB = 110°. Tia OC nằm trong góc ∠AOB sao cho ∠AOC = 55°. Chọn khẳng định đúng.",
+    [
+     "OC là tia phân giác của góc ∠AOB.",
+     "OC không phải là tia phân giác của góc ∠AOB.",
+     "Góc ∠BOC = 65°.",
+     "Góc ∠AOC lớn hơn góc ∠BOC."
+    ],
+    "Vì OC nằm trong góc ∠AOB và ∠AOC = 55° = 110° / 2 nên OC là tia phân giác của góc ∠AOB."
+   ],
+   [
+    "Hai đường thẳng a và b song song với nhau. Một đường thẳng c cắt a tại A và cắt b tại B. Biết một góc so le trong tại A bằng 50°. Tính góc trong cùng phía với góc đó tại đỉnh B.",
+    [
+     "130°",
+     "50°",
+     "40°",
+     "100°"
+    ],
+    "Hai góc trong cùng phía có tổng số đo bằng 180°, nên góc còn lại bằng 180° - 50° = 130°."
+   ],
+   [
+    "Cho đoạn thẳng AB dài 6 cm. Gọi I là trung điểm của AB, d là đường trung trực của AB. Khoảng cách từ I đến mỗi điểm A, B là:",
+    [
+     "3 cm",
+     "6 cm",
+     "12 cm",
+     "1,5 cm"
+    ],
+    "I là trung điểm của AB nên IA = IB = AB / 2 = 6 / 2 = 3 cm."
+   ],
+   [
+    "Cho phát biểu: “Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc đồng vị...”. Từ thích hợp điền vào chỗ trống là:",
+    [
+     "bằng nhau",
+     "bù nhau",
+     "phụ nhau",
+     "kề nhau"
+    ],
+    "Theo tính chất của hai đường thẳng song song, nếu một đường thẳng cắt hai đường thẳng song song thì hai góc đồng vị bằng nhau."
+   ],
+   [
+    "Nếu hai đường thẳng m và n song song với nhau, đường thẳng p vuông góc với m thì đường thẳng p và n có quan hệ gì?",
+    [
+     "p vuông góc với n",
+     "p song song với n",
+     "p trùng với n",
+     "p không cắt n"
+    ],
+    "Một đường thẳng vuông góc với một trong hai đường thẳng song song thì nó cũng vuông góc với đường thẳng còn lại."
+   ],
+   [
+    "Cho ba đường thẳng a, b, c. Biết a // b và b // c. Khẳng định nào sau đây là đúng?",
+    [
+     "a // c",
+     "a ⊥ c",
+     "a cắt c",
+     "a trùng c"
+    ],
+    "Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì chúng song song với nhau."
+   ],
+   [
+    "Cho hai góc kề bù ∠AOB và ∠BOC. Biết tia Om là phân giác của ∠AOB, tia On là phân giác của ∠BOC. Số đo góc ∠mOn bằng:",
+    [
+     "90°",
+     "180°",
+     "45°",
+     "60°"
+    ],
+    "Hai tia phân giác của hai góc kề bù luôn vuông góc với nhau, nên ∠mOn = 90°."
+   ],
+   [
+    "Trong các khẳng định về định lí “Hai góc đối đỉnh thì bằng nhau”, giả thiết của định lí này là gì?",
+    [
+     "Hai góc là hai góc đối đỉnh.",
+     "Hai góc bằng nhau.",
+     "Hai góc kề bù.",
+     "Hai góc cùng chung đỉnh."
+    ],
+    "Giả thiết là điều kiện ban đầu cho trước: “Hai góc là hai góc đối đỉnh”."
+   ],
+   [
+    "Cho hình vẽ có hai đường thẳng x và y song song. Đường thẳng z cắt x và y lần lượt tại A và B. Biết góc đồng vị ∠A1 = 2x + 10° và góc đồng vị ∠B1 = 70°. Giá trị của x là:",
+    [
+     "30",
+     "40",
+     "35",
+     "60"
+    ],
+    "Vì x // y nên hai góc đồng vị bằng nhau: 2x + 10° = 70° suy ra 2x = 60° hay x = 30."
+   ],
+   [
+    "Cho hai đường thẳng cắt nhau tạo thành một góc bằng 55 độ. Số đo của góc đối đỉnh với góc đó là:",
+    [
+     "55 độ",
+     "125 độ",
+     "35 độ",
+     "90 độ"
+    ],
+    "Hai góc đối đỉnh thì bằng nhau nên góc đối đỉnh với góc 55 độ cũng có số đo bằng 55 độ."
+   ]
+  ]
+ }
+}

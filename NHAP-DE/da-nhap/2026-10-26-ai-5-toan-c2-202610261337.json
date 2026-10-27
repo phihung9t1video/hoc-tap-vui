@@ -350,6 +350,56 @@
      "12,6"
     ],
     "Ta có x + 12,8 = 25,8, suy ra x = 25,8 - 12,8 = 13,0."
+   ],
+   [
+    "Số thập phân nào dưới đây có chữ số 8 thuộc hàng phần trăm?",
+    [
+     "12,385",
+     "12,835",
+     "12,538",
+     "82,135"
+    ],
+    "Hàng phần trăm là chữ số thứ hai sau dấu phẩy, nên số có chữ số 8 ở hàng phần trăm là 12,385."
+   ],
+   [
+    "Khi chuyển phân số 7/8 thành số thập phân, ta được kết quả là:",
+    [
+     "0,875",
+     "0,785",
+     "0,825",
+     "0,857"
+    ],
+    "Thực hiện phép chia 7 cho 8 ta được kết quả là 0,875."
+   ],
+   [
+    "Số thập phân 56,789 làm tròn đến hàng phần mười ta được số:",
+    [
+     "56,8",
+     "56,7",
+     "57,0",
+     "56,9"
+    ],
+    "Chữ số hàng phần trăm là 8 lớn hơn 5 nên ta làm tròn lên thành 56,8."
+   ],
+   [
+    "Kết quả của biểu thức 45,2 - 12,5 + 3,8 là:",
+    [
+     "36,5",
+     "28,9",
+     "32,7",
+     "40,3"
+    ],
+    "Thực hiện phép tính lần lượt từ trái sang phải: 45,2 - 12,5 = 32,7, sau đó cộng tiếp 3,8 được 36,5."
+   ],
+   [
+    "Tìm x, biết: x nhân 3,5 = 17,5",
+    [
+     "5",
+     "0,5",
+     "50",
+     "5,2"
+    ],
+    "Muốn tìm thừa số x chưa biết, ta lấy tích 17,5 chia cho thừa số đã biết 3,5, kết quả x bằng 5."
    ]
   ]
  }

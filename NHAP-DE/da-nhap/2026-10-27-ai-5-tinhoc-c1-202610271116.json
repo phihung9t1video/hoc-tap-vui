@@ -1,0 +1,406 @@
+{
+ "5-tinhoc": {
+  "c1": [
+   [
+    "Máy tính bảng và điện thoại thông minh thường sử dụng loại màn hình nào để người dùng thao tác trực tiếp?",
+    [
+     "Màn hình cảm ứng",
+     "Màn hình phẳng",
+     "Màn hình cong",
+     "Màn hình tinh thể lỏng"
+    ],
+    "Thiết bị như máy tính bảng và điện thoại thông minh dùng màn hình cảm ứng để ta chạm trực tiếp vào biểu tượng."
+   ],
+   [
+    "Thiết bị nào sau đây dùng để hiển thị kết quả làm việc của máy tính cho người dùng quan sát?",
+    [
+     "Màn hình",
+     "Bàn phím",
+     "Chuột",
+     "Loa"
+    ],
+    "Màn hình là thiết bị ra dùng để hiển thị hình ảnh và văn bản từ máy tính."
+   ],
+   [
+    "Đâu là một thiết bị vào giúp em nhập văn bản vào máy tính?",
+    [
+     "Bàn phím",
+     "Màn hình",
+     "Máy in",
+     "Loa"
+    ],
+    "Bàn phím chứa các chữ cái và số giúp em gõ và nhập dữ liệu dạng văn bản."
+   ],
+   [
+    "Khi sử dụng máy tính, em nên ngồi với tư thế như thế nào để bảo vệ sức khỏe?",
+    [
+     "Lưng thẳng, mắt cách màn hình khoảng 50 cm đến 70 cm",
+     "Ngồi cúi sát màn hình để nhìn rõ hơn",
+     "Nằm dài trên bàn cho thoải mái",
+     "Ngồi nghiêng một bên để dễ thao tác"
+    ],
+    "Ngồi lưng thẳng và giữ khoảng cách hợp lý giúp em tránh mỏi mắt và gù lưng."
+   ],
+   [
+    "Hành động nào sau đây giúp em sử dụng điện và máy tính an toàn?",
+    [
+     "Không chạm tay ướt vào ổ cắm hoặc dây điện của máy tính",
+     "Vừa sạc pin vừa chơi trò chơi điện tử lâu",
+     "Để cốc nước ngay cạnh bàn phím máy tính",
+     "Rút dây nguồn đột ngột khi máy đang chạy"
+    ],
+    "Tay ướt chạm vào điện rất nguy hiểm, dễ gây giật điện."
+   ],
+   [
+    "Thiết bị nào dưới đây giúp em nghe được âm thanh phát ra từ máy tính?",
+    [
+     "Loa",
+     "Máy in",
+     "Bàn phím",
+     "Chuột"
+    ],
+    "Loa hoặc tai nghe là thiết bị giúp phát ra âm thanh để người dùng nghe được."
+   ],
+   [
+    "Em dùng thiết bị nào để di chuyển con trỏ trên màn hình máy tính nhanh chóng?",
+    [
+     "Chuột máy tính",
+     "Bàn phím",
+     "Máy in",
+     "Ổ cứng"
+    ],
+    "Chuột máy tính dùng để điều khiển con trỏ và thực hiện các thao tác chọn, nháy chuột."
+   ],
+   [
+    "Đâu là lợi ích chính của việc tìm kiếm thông tin trên Internet qua máy tính?",
+    [
+     "Giúp em tìm kiếm kiến thức học tập và tin tức nhanh chóng",
+     "Làm cho máy tính bị nhiễm vi-rút ngay lập tức",
+     "Làm hỏng các thiết bị phần cứng của máy tính",
+     "Làm cho em quên hết các kiến thức trên lớp"
+    ],
+    "Internet là kho tri thức khổng lồ giúp học sinh tra cứu thông tin học tập hiệu quả."
+   ],
+   [
+    "Bộ phận nào được ví như bộ não của máy tính, thực hiện các lệnh của chương trình?",
+    [
+     "Bộ xử lý trung tâm",
+     "Màn hình",
+     "Bàn phím",
+     "Chuột"
+    ],
+    "Bộ xử lý trung tâm (CPU) đóng vai trò điều khiển và xử lý mọi thông tin trong máy tính."
+   ],
+   [
+    "Thiết bị nào sau đây dùng để lưu trữ dữ liệu lâu dài ngay cả khi máy tính đã tắt nguồn?",
+    [
+     "Ổ cứng",
+     "Bàn phím",
+     "Chuột",
+     "Màn hình"
+    ],
+    "Ổ cứng là thiết bị lưu trữ dữ liệu chính, dữ liệu không bị mất khi tắt máy."
+   ],
+   [
+    "Vì sao em không nên để máy tính ở nơi có ánh nắng mặt trời chiếu trực tiếp quá lâu?",
+    [
+     "Vì nhiệt độ cao có thể làm hỏng linh kiện bên trong",
+     "Vì làm cho máy tính chạy nhanh hơn bình thường",
+     "Vì làm cho màn hình tự động đổi màu sắc",
+     "Vì làm sạch bụi bẩn bám trên máy tính"
+    ],
+    "Ánh nắng gay gắt làm tăng nhiệt độ, dễ gây cháy nổ hoặc hỏng hóc linh kiện máy tính."
+   ],
+   [
+    "Khi em muốn in một bài tập vẽ ra giấy để nộp cho thầy cô, em cần dùng thiết bị nào?",
+    [
+     "Máy in",
+     "Máy quét",
+     "Loa",
+     "Micro"
+    ],
+    "Máy in giúp chuyển tài liệu từ trong máy tính ra các trang giấy."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về vai trò của máy tính trong đời sống?",
+    [
+     "Máy tính giúp con người học tập, làm việc, giải trí và liên lạc hiệu quả hơn",
+     "Máy tính chỉ dùng để chơi trò chơi điện tử chứ không có ích gì khác",
+     "Máy tính chỉ dành riêng cho các nhà khoa học nghiên cứu",
+     "Máy tính không thể kết nối với mạng Internet để chia sẻ thông tin"
+    ],
+    "Máy tính có mặt ở khắp mọi nơi và hỗ trợ rất nhiều công việc trong đời sống hằng ngày."
+   ],
+   [
+    "Việc sử dụng máy tính quá nhiều để chơi trò chơi điện tử có thể dẫn đến hậu quả gì?",
+    [
+     "Ảnh hưởng xấu đến thị lực và sức khỏe của em",
+     "Giúp em thông minh hơn và học giỏi tất cả các môn",
+     "Làm cho máy tính tự động cập nhật phần mềm mới",
+     "Giúp em có thêm nhiều thời gian để vận động ngoài trời"
+    ],
+    "Ngồi máy tính quá lâu làm mỏi mắt, đau lưng và lơ đễnh việc học."
+   ],
+   [
+    "Em dùng thiết bị nào để ghi âm giọng nói của mình vào máy tính?",
+    [
+     "Micro",
+     "Loa",
+     "Máy in",
+     "Màn hình"
+    ],
+    "Micro là thiết bị vào dùng để thu âm thanh giọng nói đưa vào máy tính."
+   ],
+   [
+    "Hành động nào thể hiện em sử dụng máy tính đúng cách và có văn hóa?",
+    [
+     "Tắt máy đúng quy trình khi không còn sử dụng nữa",
+     "Tự ý tháo các ốc vít và linh kiện bên trong máy tính ra xem",
+     "Gửi tin nhắn châm chọc hoặc bắt nạt bạn bè trên mạng",
+     "Tải tất cả các tệp lạ từ Internet về mà không cần quét vi-rút"
+    ],
+    "Tắt máy đúng cách giúp bảo vệ hệ điều hành và dữ liệu trên máy tính."
+   ],
+   [
+    "Nếu em muốn chụp lại bài tập trên màn hình máy tính để gửi cho bạn, em nên dùng gì?",
+    [
+     "Sử dụng phần mềm hoặc phím chụp màn hình có sẵn",
+     "Dùng máy ảnh chụp lại bàn phím máy tính",
+     "Dùng máy in in bàn phím ra giấy",
+     "Dùng chuột nháy liên tục vào biểu tượng"
+    ],
+    "Sử dụng tính năng chụp màn hình giúp em lưu lại chính xác hình ảnh đang hiển thị."
+   ],
+   [
+    "Mẹ em muốn chuyển các bức ảnh từ thẻ nhớ máy ảnh vào máy tính để lưu trữ. Mẹ cần làm gì?",
+    [
+     "Kết nối thẻ nhớ với máy tính thông qua cổng kết nối hoặc khe cắm phù hợp",
+     "Dùng loa phát âm thanh của thẻ nhớ ra ngoài",
+     "Đặt thẻ nhớ lên trên màn hình máy tính",
+     "Dùng máy in để in các bức ảnh từ thẻ nhớ"
+    ],
+    "Cần kết nối thẻ nhớ với máy tính để sao chép dữ liệu hình ảnh sang máy tính."
+   ],
+   [
+    "Bạn An muốn tìm một câu chuyện cổ tích để đọc trên máy tính nhưng không biết tìm ở đâu. Em hãy gợi ý cho bạn cách tốt nhất.",
+    [
+     "Dùng trình duyệt web trên máy tính để tìm kiếm trên trang web thiếu nhi",
+     "Tắt máy tính đi và đi ngủ sớm",
+     "Dùng bàn phím gõ linh tinh vào màn hình",
+     "Mở chương trình vẽ tranh để vẽ câu chuyện"
+    ],
+    "Sử dụng trình duyệt web và công cụ tìm kiếm là cách nhanh nhất để tìm đọc truyện."
+   ],
+   [
+    "Trường hợp nào sau đây cho thấy máy tính đang hỗ trợ con người trong công việc quản lý bán hàng?",
+    [
+     "Nhân viên siêu thị dùng máy quét mã vạch và máy tính để tính tiền, quản lý hàng hóa",
+     "Bác sĩ dùng ống nghe khám bệnh cho bệnh nhân ở phòng khám",
+     "Thợ mộc dùng cưa để cắt các thanh gỗ thành bàn ghế",
+     "Cảnh sát giao thông đứng điều khiển các phương tiện ngoài đường phố"
+    ],
+    "Máy tính kết hợp với máy quét mã vạch giúp tính tiền và quản lý kho hàng rất nhanh chóng."
+   ],
+   [
+    "Trong các thiết bị sau, thiết bị nào vừa là thiết bị vào vừa là thiết bị ra của điện thoại thông minh?",
+    [
+     "Màn hình cảm ứng",
+     "Bàn phím cơ",
+     "Loa ngoài",
+     "Microphone"
+    ],
+    "Màn hình cảm ứng vừa hiển thị thông tin (thiết bị ra) vừa tiếp nhận thao tác chạm của người dùng (thiết bị vào)."
+   ],
+   [
+    "Thiết bị nào sau đây thường được tích hợp sẵn camera và microphone để hỗ trợ học tập trực tuyến?",
+    [
+     "Máy tính xách tay",
+     "Máy tính để bàn đời cũ",
+     "Máy in màu",
+     "Ổ cứng di động"
+    ],
+    "Máy tính xách tay (laptop) thường có sẵn webcam và microphone trên màn hình để phục vụ học và họp trực tuyến."
+   ],
+   [
+    "Khi máy tính đang hoạt động, bộ phận nào chịu trách nhiệm xử lý thông tin và thực hiện các tính toán?",
+    [
+     "Bộ xử lý trung tâm (CPU)",
+     "Bộ nhớ ngoài (USB)",
+     "Màn hình",
+     "Cáp nguồn"
+    ],
+    "CPU là trung tâm điều khiển và xử lý mọi dữ liệu, tính toán trong máy tính."
+   ],
+   [
+    "Để kết nối máy tính với mạng Internet không dây, máy tính cần sử dụng thành phần nào?",
+    [
+     "Card mạng không dây (Wi-Fi)",
+     "Cổng cắm tai nghe",
+     "Dây cáp máy in",
+     "Đầu đọc thẻ nhớ"
+    ],
+    "Card mạng Wi-Fi giúp máy tính thu nhận tín hiệu sóng không dây để kết nối Internet."
+   ],
+   [
+    "Thiết bị nào sau đây giúp chuyển tài liệu dạng giấy thành dữ liệu số lưu trong máy tính?",
+    [
+     "Máy quét (Scanner)",
+     "Máy in",
+     "Máy chiếu",
+     "Loa máy tính"
+    ],
+    "Máy quét có nhiệm vụ chụp và chuyển hình ảnh, văn bản trên giấy thành tệp dữ liệu lưu trong máy tính."
+   ],
+   [
+    "Ưu điểm nổi bật của máy tính so với con người trong việc xử lý thông tin là gì?",
+    [
+     "Tốc độ tính toán cực nhanh và làm việc liên tục không mệt mỏi",
+     "Khả năng tự suy nghĩ và sáng tạo cảm xúc như con người",
+     "Không bao giờ cần đến nguồn năng lượng điện",
+     "Tự đưa ra quyết định đúng sai mà không cần chương trình"
+    ],
+    "Máy tính có khả năng xử lý hàng tỷ phép tính mỗi giây và hoạt động bền bỉ nếu được cấp điện."
+   ],
+   [
+    "Tại sao chúng ta không nên vừa sạc pin vừa sử dụng điện thoại thông minh trong thời gian dài?",
+    [
+     "Vì thiết bị sẽ bị quá nhiệt, dễ gây cháy nổ và hỏng pin",
+     "Vì máy sẽ bị xóa mất toàn bộ dữ liệu cá nhân",
+     "Vì màn hình sẽ lập tức bị mờ đi không nhìn rõ",
+     "Vì máy tính bảng xung quanh sẽ bị mất kết nối Wi-Fi"
+    ],
+    "Vừa sạc vừa dùng làm máy tăng nhiệt độ đột ngột, nguy cơ cao gây chai pin và cháy nổ mất an toàn."
+   ],
+   [
+    "Ứng dụng nào của máy tính giúp các bác sĩ chuẩn đoán bệnh chính xác hơn trong y tế?",
+    [
+     "Phân tích hình ảnh chụp X-quang và cắt lớp",
+     "Tự động phẫu thuật không cần bác sĩ giám sát",
+     "Thay thế hoàn toàn thuốc chữa bệnh cho bệnh nhân",
+     "Sản xuất nước uống sạch cho bệnh viện"
+    ],
+    "Máy tính giúp lưu trữ, xử lý và phân tích các hình ảnh y khoa để bác sĩ đưa ra chẩn đoán chính xác."
+   ],
+   [
+    "Khi xem video bài giảng trên máy tính, để không làm ảnh hưởng đến mọi người xung quanh, em nên làm gì?",
+    [
+     "Kéo tai nghe vào máy tính và đeo để nghe",
+     "Bật loa ngoài ở mức âm lượng lớn nhất",
+     "Mở nhiều video cùng một lúc để học nhanh",
+     "Tắt màn hình máy tính chỉ để nghe tiếng"
+    ],
+    "Sử dụng tai nghe giúp em nghe rõ âm thanh bài học mà giữ được không gian yên tĩnh cho mọi người."
+   ],
+   [
+    "Phát biểu nào sau đây là sai khi nói về việc bảo vệ máy tính?",
+    [
+     "Nên dùng khăn ướt sũng để lau chùi màn hình khi máy đang bật",
+     "Nên tắt máy tính đúng cách qua nút Shutdown",
+     "Nên để máy tính ở nơi khô ráo, thoáng mát",
+     "Nên cắm rút các thiết bị kết nối một cách nhẹ nhàng"
+    ],
+    "Dùng khăn quá ướt lau máy tính đang bật có thể gây chập điện, hỏng hóc thiết bị vô cùng nguy hiểm."
+   ],
+   [
+    "Trong siêu thị, thiết bị quét mã vạch kết nối với máy tính có vai trò gì?",
+    [
+     "Đọc nhanh thông tin và giá tiền của sản phẩm",
+     "In ra hóa đơn thanh toán cho khách hàng",
+     "Tự động đóng gói hàng hóa vào túi",
+     "Bảo quản thực phẩm không bị hỏng"
+    ],
+    "Máy quét mã vạch thu nhận mã số sản phẩm gửi về máy tính để tính tiền chính xác và nhanh chóng."
+   ],
+   [
+    "Để trao đổi thư từ công việc nhanh chóng qua máy tính, người ta thường sử dụng dịch vụ nào?",
+    [
+     "Thư điện tử (Email)",
+     "Bưu điện truyền thống",
+     "Tin nhắn thoại SMS không mạng",
+     "Xem video trên mạng xã hội"
+    ],
+    "Thư điện tử cho phép gửi văn bản, tệp tin tức thời qua kết nối Internet."
+   ],
+   [
+    "Nam muốn lưu một tệp bài tập từ máy tính ở trường về nhà tiếp tục làm, Nam nên dùng thiết bị lưu trữ di động nào nhỏ gọn?",
+    [
+     "Thẻ nhớ hoặc USB",
+     "Màn hình máy tính",
+     "Đầu đĩa DVD cố định",
+     "Bàn phím không dây"
+    ],
+    "USB và thẻ nhớ có dung lượng phù hợp, kích thước nhỏ gọn rất thuận tiện để mang đi lại."
+   ],
+   [
+    "Khi làm việc với máy tính trong thời gian dài, em nên làm gì để bảo vệ thị lực?",
+    [
+     "Nghỉ ngơi nghỉ mắt sau mỗi 30–40 phút làm việc",
+     "Tắt hết đèn trong phòng để màn hình sáng rõ hơn",
+     "Ghé sát mắt vào màn hình khoảng cách 10 cm",
+     "Liên tục chỉnh độ sáng màn hình lên mức tối đa"
+    ],
+    "Thường xuyên thư giãn mắt sau khoảng 30–40 phút giúp mắt không bị mỏi và giảm nguy cơ cận thị."
+   ],
+   [
+    "Bạn Minh thấy máy tính báo có bản cập nhật phần mềm diệt virus. Minh nên xử lý thế nào?",
+    [
+     "Thực hiện cập nhật để máy tính được bảo vệ tốt hơn",
+     "Tắt ngay máy tính và không bao giờ bật lại",
+     "Xóa bỏ phần mềm diệt virus ra khỏi máy",
+     "Mở thêm nhiều trang web lạ để kiểm tra"
+    ],
+    "Cập nhật phần mềm diệt virus giúp máy tính bổ sung dữ liệu nhận diện các loại virus mới."
+   ],
+   [
+    "Trong ngành giao thông, máy tính kết nối với camera đường phố có tác dụng gì?",
+    [
+     "Giám sát và phát hiện các vi phạm giao thông",
+     "Điều khiển trực tiếp tay lái của các xe hơi",
+     "Sửa chữa đường xá bị hỏng tự động",
+     "Thay thế hoàn toàn đèn tín hiệu giao thông"
+    ],
+    "Hệ thống camera giao thông truyền dữ liệu về máy tính để phân tích và ghi nhận hình ảnh vi phạm."
+   ],
+   [
+    "Lợi ích của việc ngân hàng sử dụng hệ thống máy tính tự động (ATM) là gì?",
+    [
+     "Giúp khách hàng rút tiền và giao dịch 24/7 linh hoạt",
+     "Cung cấp đồ ăn thức uống miễn phí cho khách",
+     "Thay thế hoàn toàn tiền mặt bằng vàng",
+     "Giúp khách hàng vay tiền không cần xác minh"
+    ],
+    "Cây ATM kết nối máy tính giúp thực hiện các giao dịch tài chính mọi lúc mà không phụ thuộc giờ làm việc."
+   ],
+   [
+    "Nếu em nhận được một tệp tin gửi từ người lạ qua Internet vào máy tính, em nên làm gì?",
+    [
+     "Hỏi ý kiến người lớn hoặc thầy cô trước khi mở tệp",
+     "Mở ra ngay lập tức vì tệp nào cũng an toàn",
+     "Chia sẻ tệp đó cho tất cả các bạn trong lớp",
+     "Lưu tệp đó vào tất cả các thư mục trong máy"
+    ],
+    "Tệp từ người lạ có thể chứa virus hoặc mã độc, cần có sự kiểm tra của người lớn để đảm bảo an toàn."
+   ],
+   [
+    "Đâu là việc làm KHÔNG đúng quy cách khi ngừng sử dụng máy tính để bàn?",
+    [
+     "Rút trực tiếp dây cắm nguồn điện khi máy đang chạy",
+     "Đóng các ứng dụng đang mở trên màn hình",
+     "Chọn lệnh Shutdown trong hệ điều hành",
+     "Tắt công tắc màn hình sau khi máy đã tắt hẳn"
+    ],
+    "Rút nguồn đột ngột có thể làm mất dữ liệu chưa lưu và gây hỏng phần cứng của máy tính."
+   ],
+   [
+    "Làm thế nào máy tính giúp học sinh học môn Địa lí một cách trực quan và sinh động?",
+    [
+     "Cung cấp bản đồ số 3D và quan sát Trái Đất từ vệ tinh",
+     "In ra các cuốn sách giáo khoa bằng giấy",
+     "Tự động làm giúp học sinh tất cả các bài kiểm tra",
+     "Đo nhiệt độ phòng học chính xác"
+    ],
+    "Máy tính có thể chạy các phần mềm mô phỏng bản đồ 3D, giúp học sinh quan sát Trái Đất sinh động."
+   ]
+  ]
+ }
+}

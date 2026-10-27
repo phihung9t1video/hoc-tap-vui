@@ -1,0 +1,406 @@
+{
+ "5-tinhoc": {
+  "c5": [
+   [
+    "Trong phần mềm Scratch, màn hình làm việc chính giúp em quan sát kết quả hoạt động của nhân vật được gọi là gì?",
+    [
+     "Sân khấu (Stage)",
+     "Khu vực kịch bản (Script area)",
+     "Vùng chứa nhân vật (Sprite list)",
+     "Bảng lệnh (Blocks palette)"
+    ],
+    "Sân khấu là nơi diễn ra các hoạt động của nhân vật và giúp em quan sát kết quả chương trình."
+   ],
+   [
+    "Đâu là biểu tượng mặc định của phần mềm lập trình trực quan Scratch khi em vừa mở chương trình?",
+    [
+     "Chú mèo vàng",
+     "Chú chó xanh",
+     "Chú chim bồ câu",
+     "Chú rùa xanh"
+    ],
+    "Nhân vật mặc định xuất hiện khi mở phần mềm Scratch là chú mèo vàng."
+   ],
+   [
+    "Để bắt đầu chạy một chương trình trong Scratch, em thường nhấn vào biểu tượng nào trên màn hình?",
+    [
+     "Lá cờ màu xanh",
+     "Nút tròn màu đỏ",
+     "Ngôi sao màu vàng",
+     "Hình vuông màu cam"
+    ],
+    "Nút lá cờ màu xanh dùng để kích hoạt và bắt đầu thực hiện kịch bản chương trình."
+   ],
+   [
+    "Nhóm lệnh nào chứa các khối lệnh giúp nhân vật di chuyển, xoay hoặc di chuyển đến vị trí mới?",
+    [
+     "Chuyển động (Motion)",
+     "Hiển thị (Looks)",
+     "Âm thanh (Sound)",
+     "Sự kiện (Events)"
+    ],
+    "Nhóm lệnh Chuyển động (Motion) chứa các lệnh điều khiển sự di chuyển và thay đổi hướng của nhân vật."
+   ],
+   [
+    "Khối lệnh “khi bấm vào lá cờ xanh” thuộc nhóm lệnh nào trong Scratch?",
+    [
+     "Sự kiện (Events)",
+     "Điều khiển (Control)",
+     "Cảm biến (Sensing)",
+     "Các phép toán (Operators)"
+    ],
+    "Khối lệnh bắt đầu như “khi bấm vào lá cờ xanh” thuộc nhóm lệnh Sự kiện."
+   ],
+   [
+    "Để dừng toàn bộ chương trình đang chạy trong Scratch, em cần nhấn vào nút nào?",
+    [
+     "Nút tròn màu đỏ",
+     "Lá cờ màu xanh",
+     "Phím Space trên bàn phím",
+     "Biểu tượng bàn tay"
+    ],
+    "Nút tròn màu đỏ nằm bên cạnh lá cờ xanh dùng để dừng tất cả các hoạt động của chương trình."
+   ],
+   [
+    "Trong Scratch, tệp chương trình sau khi lưu vào máy tính sẽ có đuôi mở rộng mặc định là gì?",
+    [
+     ".sb3",
+     ".docx",
+     ".pptx",
+     ".png"
+    ],
+    "Các tệp dự án được tạo bằng phần mềm Scratch 3.0 có phần mở rộng là .sb3."
+   ],
+   [
+    "Khối lệnh nào giúp nhân vật hiển thị một bóng bóng thoại chứa lời nói trong một khoảng thời gian xác định?",
+    [
+     "nói “Xin chào!” trong 2 giây",
+     "nghĩ “Xin chào!” trong 2 giây",
+     "phát âm thanh “Meow” cho đến hết",
+     "lướt trong 1 giây tới vị trí ngẫu nhiên"
+    ],
+    "Khối lệnh “nói... trong... giây” giúp nhân vật hiển thị lời nói dạng bóng bóng thoại trên sân khấu."
+   ],
+   [
+    "Em muốn nhân vật lặp lại một hành động đúng 5 lần thì nên sử dụng khối lệnh nào trong nhóm Điều khiển?",
+    [
+     "lặp lại 5 lần",
+     "liên tục",
+     "nếu ... thì",
+     "đợi 5 giây"
+    ],
+    "Khối lệnh “lặp lại [số] lần” được dùng khi em biết trước số lần cần thực hiện lại công việc."
+   ],
+   [
+    "Chức năng của khối lệnh “di chuyển 10 bước” là gì?",
+    [
+     "Nhân vật tiến về phía trước theo hướng hiện tại 10 bước",
+     "Nhân vật lùi về phía sau 10 bước",
+     "Nhân vật nhảy lên cao 10 bước",
+     "Nhân vật xoay tròn 10 độ"
+    ],
+    "Lệnh “di chuyển 10 bước” làm nhân vật di chuyển thẳng một đoạn theo hướng đang đứng."
+   ],
+   [
+    "Khi em ghép lệnh “di chuyển 50 bước” vào sau lệnh “khi bấm vào nhân vật này”, điều gì sẽ xảy ra?",
+    [
+     "Nhân vật di chuyển 50 bước mỗi khi em dùng chuột nhấn vào nhân vật đó",
+     "Nhân vật tự động di chuyển 50 bước ngay khi mở phần mềm",
+     "Nhân vật di chuyển 50 bước khi em nhấn lá cờ xanh",
+     "Nhân vật biến mất khỏi sân khấu"
+    ],
+    "Sự kiện “khi bấm vào nhân vật này” kích hoạt khối lệnh di chuyển ngay khi người dùng click chuột vào nhân vật."
+   ],
+   [
+    "Khối lệnh “liên tục” trong nhóm lệnh Điều khiển có ý nghĩa gì?",
+    [
+     "Lặp lại các lệnh bên trong nó mãi mãi cho đến khi bấm nút dừng",
+     "Chỉ thực hiện các lệnh bên trong đúng 10 lần rồi dừng",
+     "Tạm dừng chương trình trong khoảng 1 giây",
+     "Kiểm tra điều kiện đúng hay sai"
+    ],
+    "Vòng lặp “liên tục” thực hiện lại các lệnh chứa bên trong nó không bao giờ tự dừng trừ khi có lệnh ngắt hoặc bấm nút dừng."
+   ],
+   [
+    "Bạn An muốn nhân vật vừa đi vừa nói “Hello!”. An đã ghép lệnh “di chuyển 10 bước” và lệnh “nói “Hello!””. Để nhân vật thay đổi trang phục cho giống đang bước đi, An cần thêm khối lệnh nào?",
+    [
+     "trang phục kế tiếp",
+     "phông nền tiếp theo",
+     "đổi kích thước một lượng 10",
+     "ẩn"
+    ],
+    "Khối lệnh “trang phục kế tiếp” giúp nhân vật chuyển sang hình ảnh tiếp theo, tạo hiệu ứng chuyển động tự nhiên."
+   ],
+   [
+    "Sự khác nhau giữa khối lệnh “nói “Xin chào!” trong 2 giây” và khối lệnh “nói “Xin chào!”” là gì?",
+    [
+     "Khối lệnh đầu tự ẩn bóng lời nói sau 2 giây, khối lệnh sau giữ lời nói liên tục",
+     "Khối lệnh đầu phát ra tiếng nói, khối lệnh sau chỉ hiện chữ",
+     "Khối lệnh đầu làm nhân vật đứng yên, khối lệnh sau làm nhân vật di chuyển",
+     "Hai khối lệnh này có tác dụng hoàn toàn giống hệt nhau"
+    ],
+    "Lệnh nói có thời gian sẽ tự tắt lời thoại sau số giây cài đặt, còn lệnh nói không thời gian sẽ hiển thị lời thoại mãi đến khi có lệnh khác thay thế."
+   ],
+   [
+    "Nếu muốn nhân vật khi chạm vào mép sân khấu thì bật ngược trở lại, em sử dụng khối lệnh nào?",
+    [
+     "nếu chạm bờ, bật lại",
+     "đặt hướng bằng 90",
+     "đi tới vị trí ngẫu nhiên",
+     "xóa tất cả"
+    ],
+    "Khối lệnh “nếu chạm bờ, bật lại” nằm trong nhóm Chuyển động giúp nhân vật không bị đi ra khỏi phạm vi sân khấu."
+   ],
+   [
+    "Em đã lập trình: “khi bấm vào lá cờ xanh” -> “lặp lại 4 lần” -> [ “di chuyển 100 bước”, “xoay phải 90 độ”, “đợi 1 giây” ]. Nhân vật sẽ vẽ hoặc di chuyển theo hình gì?",
+    [
+     "Hình vuông",
+     "Hình tam giác đều",
+     "Hình tròn",
+     "Hình ngôi sao"
+    ],
+    "Di chuyển 100 bước và xoay 90 độ lặp lại 4 lần sẽ tạo thành quỹ đạo chuyển động của một hình vuông."
+   ],
+   [
+    "Chương trình của bạn Bình chạy quá nhanh khiến nhân vật di chuyển tức thì khiến không kịp quan sát. Bình nên thêm khối lệnh nào vào trong vòng lặp để quan sát rõ hơn?",
+    [
+     "đợi 1 giây",
+     "dừng lại tất cả",
+     "di chuyển 0 bước",
+     "hiện"
+    ],
+    "Thêm khối lệnh “đợi 1 giây” giúp làm chậm tốc độ thực hiện giữa các bước, giúp quan sát rõ chuyển động."
+   ],
+   [
+    "Để tạo một kịch bản cho chú Mèo phát tiếng kêu “Meow” mỗi khi người dùng nhấn phím cách (Space), em lựa chọn cặp khối lệnh nào?",
+    [
+     "“khi phím space được bấm” và “phát âm thanh Meow cho đến hết”",
+     "“khi bấm vào lá cờ xanh” và “thay đổi kích thước 10”",
+     "“khi bấm vào nhân vật này” và “nói “Meow””",
+     "“khi phím space được bấm” và “ẩn”"
+    ],
+    "Sự kiện phím bấm được chọn là phím space kết hợp với lệnh phát âm thanh tương ứng sẽ đáp ứng đúng yêu cầu."
+   ],
+   [
+    "Bạn Mai viết kịch bản: “khi bấm vào lá cờ xanh” -> “nếu chạm vào Mèo thì” -> “nói “Bắt được rồi!””. Tuy nhiên khi chạy, dù nhân vật chạm vào Mèo chương trình vẫn không nói gì. Lý do là gì?",
+    [
+     "Thiếu vòng lặp “liên tục” bao bên ngoài lệnh “nếu ... thì” để kiểm tra điều kiện suốt quá trình chạy",
+     "Chưa chọn màu sắc cho nhân vật",
+     "Khối lệnh “nói” bị hỏng",
+     "Scratch không hỗ trợ nhân vật chạm vào nhau"
+    ],
+    "Nếu không có vòng lặp liên tục, câu lệnh điều kiện chỉ kiểm tra đúng một lần duy nhất tại thời điểm vừa nhấn lá cờ xanh rồi kết thúc ngay."
+   ],
+   [
+    "Em muốn lập trình một nhân vật đóng vai trò là chiếc nút bấm “Bắt đầu”. Khi người chơi click chuột vào nút bấm này, nút bấm sẽ tự ẩn đi để trò chơi bắt đầu. Khối lệnh nào sau đây thực hiện đúng?",
+    [
+     "“khi bấm vào nhân vật này” -> “ẩn”",
+     "“khi bấm vào lá cờ xanh” -> “hiện”",
+     "“khi bấm vào nhân vật này” -> “dừng lại tất cả”",
+     "“khi nhận tin nhắn” -> “đi tới điểm x: 0 y: 0”"
+    ],
+    "Khi nhấp vào nhân vật (nút bấm), lệnh “ẩn” làm nút bấm biến mất trên sân khấu."
+   ],
+   [
+    "Khu vực nào trên màn hình Scratch là nơi em kéo thả các khối lệnh để tạo chương trình?",
+    [
+     "Khu vực lập trình (Vùng kịch bản)",
+     "Sân khấu",
+     "Khu vực quản lý nhân vật",
+     "Danh mục nhóm lệnh"
+    ],
+    "Khu vực lập trình (hay vùng kịch bản) là nơi em lắp ghép các khối lệnh để điều khiển nhân vật."
+   ],
+   [
+    "Trong Scratch, phông nền của sân khấu được gọi là gì?",
+    [
+     "Backdrop",
+     "Sprite",
+     "Costume",
+     "Sound"
+    ],
+    "Backdrop là từ tiếng Anh dùng để chỉ phông nền của sân khấu trong Scratch."
+   ],
+   [
+    "Để thay đổi hình dạng, trang phục của nhân vật trong Scratch, em chuyển sang thẻ nào bên cạnh thẻ “Lệnh” (Code)?",
+    [
+     "Trang phục (Costumes)",
+     "Âm thanh (Sounds)",
+     "Thiết lập (Settings)",
+     "Thiết kế (Design)"
+    ],
+    "Thẻ Trang phục (Costumes) cho phép em xem, sửa và thêm các trang phục khác nhau cho nhân vật."
+   ],
+   [
+    "Khối lệnh “đặt hướng bằng 90” thuộc nhóm lệnh nào?",
+    [
+     "Chuyển động",
+     "Hiển thị",
+     "Sự kiện",
+     "Điều khiển"
+    ],
+    "Khối lệnh “đặt hướng bằng 90” giúp điều khiển hướng di chuyển của nhân vật nên thuộc nhóm Chuyển động."
+   ],
+   [
+    "Tọa độ tâm của sân khấu trong phần mềm Scratch có giá trị x và y là bao nhiêu?",
+    [
+     "x = 0, y = 0",
+     "x = 100, y = 100",
+     "x = 240, y = 180",
+     "x = -240, y = -180"
+    ],
+    "Tọa độ chính giữa (tâm) của sân khấu Scratch luôn là x = 0 và y = 0."
+   ],
+   [
+    "Để đổi tên cho một nhân vật trong Scratch, em thực hiện thao tác ở đâu?",
+    [
+     "Ô Nhân vật (Sprite) trong Khu vực quản lý nhân vật",
+     "Nhấp đúp chuột vào nhân vật trên sân khấu",
+     "Kéo khối lệnh “đổi tên” vào vùng kịch bản",
+     "Vào thực đơn Tệp (File) chọn Đổi tên"
+    ],
+    "Em đổi tên nhân vật bằng cách nhập tên mới vào ô Sprite trong khung quản lý nhân vật bên dưới sân khấu."
+   ],
+   [
+    "Để xóa một nhân vật không còn sử dụng trên sân khấu, em thực hiện cách nào sau đây?",
+    [
+     "Nhấp vào biểu tượng thùng rác ở góc biểu tượng nhân vật đó trong khung quản lý nhân vật",
+     "Kéo nhân vật đó thả vào danh mục nhóm lệnh",
+     "Nhấn phím Enter trên bàn phím",
+     "Nhấn vào nút đỏ trên màn hình"
+    ],
+    "Trong khung quản lý nhân vật, mỗi nhân vật có một biểu tượng thùng rác nhỏ để em xóa."
+   ],
+   [
+    "Khối lệnh nào giúp nhân vật phát ra âm thanh và đợi cho đến khi âm thanh phát xong mới thực hiện lệnh tiếp theo?",
+    [
+     "phát âm thanh Meow cho đến hết",
+     "bắt đầu âm thanh Meow",
+     "phát âm thanh Meow",
+     "bật âm thanh Meow trong 2 giây"
+    ],
+    "Khối lệnh “phát âm thanh... cho đến hết” sẽ chờ âm thanh chạy hoàn tất rồi mới chuyển sang khối lệnh bên dưới."
+   ],
+   [
+    "Khi em muốn giảm kích thước của nhân vật đi một nửa so với ban đầu, em đặt giá trị Kích thước (Size) là bao nhiêu?",
+    [
+     "50",
+     "100",
+     "200",
+     "0"
+    ],
+    "Kích thước ban đầu mặc định là 100%, để giảm một nửa em đặt kích thước là 50%."
+   ],
+   [
+    "Khi ghép lệnh “thay đổi x một lượng 20”, nhân vật sẽ di chuyển như thế nào?",
+    [
+     "Di chuyển sang phải 20 đơn vị",
+     "Di chuyển sang trái 20 đơn vị",
+     "Di chuyển lên trên 20 đơn vị",
+     "Di chuyển xuống dưới 20 đơn vị"
+    ],
+    "Trục x biểu diễn chiều ngang, tăng x (lượng dương) sẽ làm nhân vật di chuyển sang bên phải."
+   ],
+   [
+    "Bạn Minh thực hiện ghép khối lệnh “đi tới vị trí ngẫu nhiên”. Kết quả hoạt động của nhân vật sẽ là gì?",
+    [
+     "Nhân vật nhảy đến một vị trí bất kỳ trên sân khấu",
+     "Nhân vật di chuyển về chính giữa sân khấu",
+     "Nhân vật đứng yên tại chỗ",
+     "Nhân vật di chuyển ra ngoài mép sân khấu"
+    ],
+    "Lệnh “đi tới vị trí ngẫu nhiên” đưa nhân vật đến một tọa độ ngẫu nhiên trên sân khấu."
+   ],
+   [
+    "Để nhân vật ẩn đi không xuất hiện trên sân khấu, em sử dụng khối lệnh nào trong nhóm Hiển thị?",
+    [
+     "ẩn",
+     "hiện",
+     "xóa",
+     "tắt"
+    ],
+    "Khối lệnh “ẩn” (Hide) giúp làm giấu nhân vật khỏi sân khấu."
+   ],
+   [
+    "Nếu em ghép khối lệnh “thay đổi hiệu ứng màu một lượng 25” vào trong một vòng lặp, hiện tượng gì sẽ xảy ra?",
+    [
+     "Nhân vật liên tục đổi màu sắc",
+     "Nhân vật mờ dần và biến mất",
+     "Nhân vật phóng to dần",
+     "Nhân vật thu nhỏ dần"
+    ],
+    "Khối lệnh “thay đổi hiệu ứng màu” làm biến đổi màu sắc hiển thị của nhân vật."
+   ],
+   [
+    "Bạn Hoa ghép chuỗi lệnh: “đi tới điểm x: 0 y: 0”, sau đó “thay đổi y một lượng -50”. Tọa độ cuối cùng của nhân vật là bao nhiêu?",
+    [
+     "x = 0, y = -50",
+     "x = -50, y = 0",
+     "x = 0, y = 50",
+     "x = 50, y = -50"
+    ],
+    "Tọa độ ban đầu là x = 0, y = 0. Khi y giảm 50 (thay đổi -50) thì tọa độ mới là x = 0, y = -50."
+   ],
+   [
+    "Khi chạy đoạn lệnh gồm: “lặp lại 3 lần” -> [ “trang phục kế tiếp”, “đợi 0,5 giây” ], kết quả quan sát được là gì?",
+    [
+     "Nhân vật chuyển đổi trang phục 3 lần, mỗi lần cách nhau 0,5 giây",
+     "Nhân vật đứng yên 1,5 giây rồi đổi trang phục 1 lần",
+     "Nhân vật di chuyển 3 bước về phía trước",
+     "Nhân vật đổi trang phục liên tục không dừng lại"
+    ],
+    "Vòng lặp thực hiện 3 lần việc thay đổi sang trang phục tiếp theo và tạm dừng 0,5 giây giữa các lần."
+   ],
+   [
+    "Em muốn lập trình cho chú Chó phát tiếng kêu “Gâu gâu” mỗi khi em nhấn vào nhân vật chú Chó đó. Khối lệnh sự kiện nào phù hợp nhất để khởi đầu kịch bản?",
+    [
+     "khi bấm vào nhân vật này",
+     "khi bấm vào lá cờ xanh",
+     "khi phím space được bấm",
+     "khi phông nền chuyển thành backdrop1"
+    ],
+    "Khối lệnh “khi bấm vào nhân vật này” sẽ kích hoạt kịch bản ngay khi người dùng nhấp chuột vào nhân vật."
+   ],
+   [
+    "Đoạn lệnh: “lặp lại 10 lần” -> [ “thay đổi kích thước một lượng 10” ] sẽ làm cho nhân vật như thế nào?",
+    [
+     "Phóng to dần lên 100% so với kích thước trước đó",
+     "Thu nhỏ dần đi 100%",
+     "Di chuyển lên phía trên 100 bước",
+     "Xoay 100 độ sang phải"
+    ],
+    "Mỗi lần lặp kích thước tăng thêm 10, sau 10 lần lặp nhân vật sẽ phóng to tổng cộng 100 đơn vị."
+   ],
+   [
+    "Cho kịch bản: “khi bấm vào lá cờ xanh” -> “đặt kiểu xoay [trái - phải]” -> “liên tục” -> [ “di chuyển 10 bước”, “nếu chạm mép, bật lại” ]. Mục đích của lệnh “đặt kiểu xoay [trái - phải]” là gì?",
+    [
+     "Giúp nhân vật không bị lộn ngược đầu khi chạm mép quay lại",
+     "Giúp nhân vật di chuyển nhanh hơn",
+     "Giúp nhân vật tự động đổi trang phục",
+     "Giúp nhân vật quay vòng tròn 360 độ"
+    ],
+    "Kiểu xoay trái - phải giữ cho nhân vật luôn đứng thẳng chiều, không bị lộn ngược khi quay đầu lúc chạm mép."
+   ],
+   [
+    "Trong Scratch, để thêm một âm thanh mới cho nhân vật, em cần chọn khu vực quản lý nào trên màn hình?",
+    [
+     "Thẻ Âm thanh (Sounds) nằm ở góc trên bên trái màn hình",
+     "Thẻ Trang phục (Costumes) nằm ở góc trên bên trái màn hình",
+     "Nhóm lệnh Âm thanh (Sound) trong khu vực các khối lệnh",
+     "Khu vực sân khấu (Stage) ở góc trên bên phải"
+    ],
+    "Để thêm hoặc chỉnh sửa âm thanh cho nhân vật, em cần chuyển sang thẻ Âm thanh (Sounds) nằm ngay bên cạnh thẻ Lệnh (Code)."
+   ],
+   [
+    "Khối lệnh nào trong nhóm Cảm biến (Sensing) giúp em kiểm tra xem nhân vật có đang chạm vào con trỏ chuột hay không?",
+    [
+     "đang chạm [con trỏ chuột]?",
+     "nếu chạm [con trỏ chuột] thì",
+     "chạm vào [con trỏ chuột]",
+     "khoảng cách đến [con trỏ chuột]"
+    ],
+    "Khối lệnh “đang chạm [con trỏ chuột]?” thuộc nhóm Cảm biến dùng để trả về giá trị đúng hoặc sai tùy thuộc vào việc nhân vật có đang chạm con trỏ chuột hay không."
+   ]
+  ]
+ }
+}

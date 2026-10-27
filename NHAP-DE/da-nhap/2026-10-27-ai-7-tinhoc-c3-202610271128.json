@@ -1,0 +1,206 @@
+{
+ "7-tinhoc": {
+  "c3": [
+   [
+    "Trong phần mềm bảng tính điện tử, nút lệnh nào dùng để gộp nhiều ô thành một ô và căn giữa nội dung?",
+    [
+     "Merge & Center",
+     "Wrap Text",
+     "Format Painter",
+     "AutoSum"
+    ],
+    "Nút lệnh Merge & Center trong thẻ Home dùng để gộp các ô được chọn thành một ô lớn hơn và căn giữa nội dung."
+   ],
+   [
+    "Để hiển thị dữ liệu quá dài xuống nhiều dòng trong cùng một ô tính, bạn sử dụng tính năng nào?",
+    [
+     "Wrap Text",
+     "Merge & Center",
+     "Sort & Filter",
+     "Conditional Formatting"
+    ],
+    "Tính năng Wrap Text giúp tự động xuống dòng nội dung trong ô khi văn bản vượt quá độ rộng của cột."
+   ],
+   [
+    "Khi bạn nhấp đúp chuột vào đường ranh giới giữa tiêu đề hai cột A và B, điều gì sẽ xảy ra?",
+    [
+     "Độ rộng cột A tự động điều chỉnh vừa khít với nội dung dài nhất trong cột",
+     "Cột A và cột B sẽ hoán đổi vị trí cho nhau",
+     "Cột A sẽ bị ẩn đi",
+     "Cột B bị xóa khỏi trang tính"
+    ],
+    "Nhấp đúp chuột vào biên phải của tiêu đề cột giúp cột tự động căn chỉnh độ rộng vừa vặn với dữ liệu."
+   ],
+   [
+    "Để cố định hàng đầu tiên của trang tính luôn hiển thị trên màn hình khi cuộn chuột xuống dưới, bạn sử dụng lệnh nào?",
+    [
+     "Freeze Top Row",
+     "Freeze First Column",
+     "Split Pane",
+     "Print Titles"
+    ],
+    "Lệnh Freeze Top Row trong thẻ View cho phép cố định hàng đầu tiên để dễ quan sát tiêu đề bảng."
+   ],
+   [
+    "Phát biểu nào sau đây là ĐÚNG khi nói về đặc điểm của dữ liệu số trong bảng tính?",
+    [
+     "Dữ liệu số mặc định được căn lề phải trong ô tính",
+     "Dữ liệu số mặc định được căn lề trái trong ô tính",
+     "Dữ liệu số luôn được hiển thị kèm theo dấu phẩy",
+     "Dữ liệu số không thể dùng để tính toán nếu chưa định dạng"
+    ],
+    "Theo mặc định, dữ liệu kiểu số được căn lề phải, còn dữ liệu kiểu kí tự được căn lề trái."
+   ],
+   [
+    "Thao tác nào sau đây giúp chọn toàn bộ các ô tính trong trang tính hiện hành?",
+    [
+     "Nhấp chuột vào ô giao nhau giữa tên hàng và tên cột ở góc trên bên trái",
+     "Nhấn phím Enter trên bàn phím",
+     "Nhấp đúp chuột vào tên trang tính ở phía dưới",
+     "Nhấn tổ hợp phím Ctrl + S"
+    ],
+    "Ô xám nhỏ ở góc trên bên trái (giao của hàng số và cột chữ) là nút chọn toàn bộ trang tính."
+   ],
+   [
+    "Khi thực hiện sao chép một ô tính chứa công thức có địa chỉ tương đối, điều gì xảy ra với các địa chỉ ô trong công thức?",
+    [
+     "Các địa chỉ ô sẽ tự động thay đổi tương ứng với vị trí mới của ô đích",
+     "Các địa chỉ ô được giữ nguyên tuyệt đối không thay đổi",
+     "Công thức sẽ biến thành giá trị số cố định",
+     "Phần mềm sẽ báo lỗi công thức"
+    ],
+    "Địa chỉ tương đối sẽ tự động điều chỉnh hàng và cột khi công thức được sao chép sang vị trí khác."
+   ],
+   [
+    "Nếu bạn muốn địa chỉ ô trong công thức không thay đổi khi sao chép sang nơi khác, bạn cần dùng địa chỉ gì?",
+    [
+     "Địa chỉ tuyệt đối",
+     "Địa chỉ tương đối",
+     "Địa chỉ hỗn hợp một phần",
+     "Địa chỉ mặc định"
+    ],
+    "Địa chỉ tuyệt đối (có dấu đô la trước tên cột và hàng) giữ nguyên vị trí ô khi sao chép công thức."
+   ],
+   [
+    "Để chọn các khối ô không nằm liền kề nhau trên trang tính, bạn kết hợp nhấp chuột với phím nào?",
+    [
+     "Phím Ctrl",
+     "Phím Shift",
+     "Phím Alt",
+     "Phím Tab"
+    ],
+    "Giữ phím Ctrl trong khi chọn giúp bạn chọn đồng thời nhiều khối ô rời nhau."
+   ],
+   [
+    "Hàm nào dùng để tính trung bình cộng nhưng có kèm theo điều kiện cho trước?",
+    [
+     "AVERAGEIF",
+     "SUMIF",
+     "COUNTIF",
+     "IFAVERAGE"
+    ],
+    "Hàm AVERAGEIF tính trung bình cộng các ô thỏa mãn một điều kiện nhất định."
+   ],
+   [
+    "Cho các ô A1, A2 lần lượt chứa số 5 và 10. Biểu thức =IF(A1>A2, “Đúng”, “Sai”) sẽ cho kết quả gì?",
+    [
+     "Sai",
+     "Đúng",
+     "5",
+     "10"
+    ],
+    "Vì điều kiện A1>A2 (5>10) là sai, hàm IF sẽ trả về giá trị ở tham số thứ ba là “Sai”."
+   ],
+   [
+    "Bạn muốn đếm số lượng học sinh đạt điểm giỏi trong cột Điểm với điều kiện lớn hơn hoặc bằng 8, bạn dùng hàm gì?",
+    [
+     "COUNTIF",
+     "COUNT",
+     "COUNTA",
+     "SUMIF"
+    ],
+    "Hàm COUNTIF dùng để đếm số ô thỏa mãn một điều kiện cụ thể trong một vùng dữ liệu."
+   ],
+   [
+    "Khi muốn sắp xếp danh sách học sinh theo thứ tự từ A đến Z dựa trên cột Họ tên, bạn chọn tùy chọn sắp xếp nào?",
+    [
+     "Sort A to Z",
+     "Sort Z to A",
+     "Filter Ascending",
+     "Custom Sort Z"
+    ],
+    "Tùy chọn Sort A to Z sắp xếp dữ liệu kí tự theo bảng chữ cái từ chữ A đến chữ Z."
+   ],
+   [
+    "Sau khi áp dụng bộ lọc (Filter) để tìm các bạn học sinh nữ, làm thế nào để hiển thị lại toàn bộ danh sách lớp ban đầu?",
+    [
+     "Bỏ chọn lọc hoặc chọn Clear trong danh sách bộ lọc",
+     "Xóa toàn bộ dữ liệu cột giới tính",
+     "Tắt phần mềm bảng tính và mở lại",
+     "Nhấn phím Delete trên bàn phím"
+    ],
+    "Chọn Clear Filter giúp xóa bỏ các điều kiện lọc và hiển thị lại toàn bộ bảng dữ liệu ban đầu."
+   ],
+   [
+    "Thao tác đúng để chèn thêm một hàng mới nằm phía trên hàng số 3 hiện tại là gì?",
+    [
+     "Nhấp chuột phải vào tiêu đề hàng 3 và chọn Insert",
+     "Nhấp chuột phải vào ô bất kỳ và chọn Delete Row",
+     "Nhấn phím Ctrl cộng với dấu trừ",
+     "Chọn hàng 3 rồi nhấn phím Space"
+    ],
+    "Nhấp chuột phải vào số biểu thị hàng 3 rồi chọn Insert sẽ chèn thêm một hàng mới phía trên nó."
+   ],
+   [
+    "Biểu thức =PRODUCT(2, 3, 4) trong bảng tính sẽ trả về kết quả bằng bao nhiêu?",
+    [
+     "24",
+     "9",
+     "14",
+     "12"
+    ],
+    "Hàm PRODUCT thực hiện phép nhân tất cả các đối số lại với nhau, ta có 2 nhân 3 nhân 4 bằng 24."
+   ],
+   [
+    "Kết quả của hàm =INT(7,8) trong phần mềm bảng tính là gì?",
+    [
+     "7",
+     "8",
+     "7,8",
+     "0"
+    ],
+    "Hàm INT lấy phần nguyên của một số thập phân, số 7,8 sẽ trả về phần nguyên là 7."
+   ],
+   [
+    "Cho biết kết quả của phép toán logic sau: =AND(5>3, 8<10)",
+    [
+     "TRUE",
+     "FALSE",
+     "5>3",
+     "8<10"
+    ],
+    "Hàm AND trả về TRUE khi tất cả các điều kiện bên trong đều đúng, ở đây cả 5>3 và 8<10 đều đúng."
+   ],
+   [
+    "Khi bạn thực hiện thao tác cắt (Cut) một ô tính rồi dán (Paste) sang vị trí mới, điều gì xảy ra với ô dữ liệu ban đầu?",
+    [
+     "Nội dung và định dạng ở ô ban đầu sẽ bị mất đi",
+     "Nội dung được giữ nguyên nhưng mất định dạng",
+     "Ô ban đầu tự động đổi thành giá trị số 0",
+     "Phần mềm sẽ tạo ra một bản sao y hệt"
+    ],
+    "Lệnh Cut kết hợp Paste sẽ di chuyển hoàn toàn nội dung từ vị trí cũ sang vị trí mới."
+   ],
+   [
+    "Để tìm số dư của phép chia lấy phần dư giữa số 17 cho số 5 trong bảng tính, bạn dùng hàm nào?",
+    [
+     "MOD(17, 5)",
+     "QUOTIENT(17, 5)",
+     "DIV(17, 5)",
+     "INT(17, 5)"
+    ],
+    "Hàm MOD trả về số dư của phép chia, MOD(17, 5) cho kết quả là 2."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,406 @@
+{
+ "5-lsdl": {
+  "c6": [
+   [
+    "Châu lục nào sau đây có diện tích lớn nhất trên thế giới?",
+    [
+     "Châu Á",
+     "Châu Phi",
+     "Châu Mỹ",
+     "Châu Âu"
+    ],
+    "Châu Á là châu lục có diện tích lớn nhất thế giới, rộng khoảng 44 triệu km²."
+   ],
+   [
+    "Đại dương nào có diện tích và độ sâu trung bình lớn nhất thế giới?",
+    [
+     "Thái Bình Dương",
+     "Đại Tây Dương",
+     "Ấn Độ Dương",
+     "Bắc Băng Dương"
+    ],
+    "Thái Bình Dương là đại dương lớn nhất và sâu nhất trên Trái Đất."
+   ],
+   [
+    "Châu lục nào nằm hoàn toàn ở bán cầu Nam và bao phủ bởi băng tuyết quanh năm?",
+    [
+     "Châu Nam Cực",
+     "Châu Phi",
+     "Châu Úc",
+     "Châu Âu"
+    ],
+    "Châu Nam Cực nằm ở cực Nam của Trái Đất và hầu như toàn bộ diện tích bị phủ bởi băng tuyết dày."
+   ],
+   [
+    "Quốc gia nào sau đây là hàng xóm giáp biên giới đất liền phía bắc của Việt Nam?",
+    [
+     "Trung Quốc",
+     "Lào",
+     "Campuchia",
+     "Thái Lan"
+    ],
+    "Việt Nam có đường biên giới trên đất liền phía bắc giáp với Trung Quốc."
+   ],
+   [
+    "Công trình kiến trúc Vạn Lý Trường Thành là di sản văn hoá nổi tiếng của quốc gia nào?",
+    [
+     "Trung Quốc",
+     "Nhật Bản",
+     "Ấn Độ",
+     "Ai Cập"
+    ],
+    "Vạn Lý Trường Thành là công trình phòng thủ quân sự nổi tiếng dài hàng nghìn km của Trung Quốc."
+   ],
+   [
+    "Đền Ăng-co Vat (Angkor Wat) là công trình kiến trúc lịch sử nổi tiếng của quốc gia nào trong khu vực Đông Nam Á?",
+    [
+     "Campuchia",
+     "Lào",
+     "Thái Lan",
+     "Mya-nma"
+    ],
+    "Đền Ăng-co Vat là di sản văn hoá thế giới tiêu biểu, niềm tự hào của đất nước Campuchia."
+   ],
+   [
+    "Quốc gia duy nhất ở Đông Nam Á không giáp biển là nước nào?",
+    [
+     "Lào",
+     "Campuchia",
+     "Thái Lan",
+     "Ma-lai-xi-a"
+    ],
+    "Lào là quốc gia duy nhất trong khu vực Đông Nam Á nằm hoàn toàn trong đất liền và không giáp biển."
+   ],
+   [
+    "Kim tự tháp và Tượng nhân sư là những di sản kiến trúc cổ đại nổi tiếng của đất nước nào?",
+    [
+     "Ai Cập",
+     "Ấn Độ",
+     "Hi Lạp",
+     "I-ta-li-a"
+    ],
+    "Các Kim tự tháp kì vĩ cùng Tượng nhân sư là biểu tượng lịch sử văn hoá của Ai Cập ở châu Phi."
+   ],
+   [
+    "Hiệp hội các quốc gia Đông Nam Á có tên viết tắt tiếng Anh là gì?",
+    [
+     "ASEAN",
+     "UNESCO",
+     "UNICEF",
+     "WTO"
+    ],
+    "Hiệp hội các quốc gia Đông Nam Á có tên viết tắt là ASEAN."
+   ],
+   [
+    "Vì sao châu Phi được gọi là châu lục có khí hậu nóng và khô bậc nhất thế giới?",
+    [
+     "Vì đại bộ phận diện tích nằm trong vùng nhiệt đới và có nhiều hoang mạc lớn",
+     "Vì châu Phi nằm gần cực Nam của Trái Đất",
+     "Vì châu Phi có diện tích nhỏ nhất thế giới",
+     "Vì châu Phi xung quanh không giáp với đại dương nào"
+    ],
+    "Đường Xích đạo đi qua chính giữa châu Phi, phần lớn diện tích nằm trong nội chí tuyến nên khí hậu rất nóng và khô."
+   ],
+   [
+    "Điểm khác biệt nổi bật về vị trí địa lí của châu Âu so với châu Á là gì?",
+    [
+     "Châu Âu gắn liền với châu Á tạo thành lục địa Á - Âu nhưng nằm ở phía tây",
+     "Châu Âu nằm hoàn toàn ở bán cầu Nam",
+     "Châu Âu được bao bọc hoàn toàn bởi Băng Dương",
+     "Châu Âu không giáp với biển và đại dương nào"
+    ],
+    "Châu Âu và châu Á cùng nằm trên một khối lục địa lớn gọi là lục địa Á - Âu, trong đó châu Âu nằm ở phía tây."
+   ],
+   [
+    "Khí hậu chủ yếu của châu Úc (O-xtrây-li-a) có đặc điểm nào sau đây?",
+    [
+     "Khô hạn, phần lớn diện tích là hoang mạc và xavan",
+     "Lạnh giá quanh năm, nhiều băng tuyết",
+     "Nhiệt đới gió mùa ẩm ướt quanh năm",
+     "Ôn đới mát mẻ, nhiều rừng lá nhọn"
+    ],
+    "Châu Úc có khí hậu phần lớn là khô hạn, hình thành nên các vùng hoang mạc và xavan rộng lớn."
+   ],
+   [
+    "Hiệp hội ASEAN được thành lập nhằm mục tiêu chính nào sau đây?",
+    [
+     "Tăng cường hợp tác phát triển kinh tế, văn hoá, xã hội và duy trì hoà bình khu vực",
+     "Xây dựng một quân đội chung cho toàn bộ các nước Đông Nam Á",
+     "Thành lập một quốc gia duy nhất ở Đông Nam Á",
+     "Chỉ tập trung bảo vệ môi trường biển ở Đông Nam Á"
+    ],
+    "ASEAN ra đời nhằm thúc đẩy sự hợp tác, phát triển kinh tế, văn hoá và giữ vững hoà bình, ổn định trong khu vực."
+   ],
+   [
+    "Kinh tế của các nước láng giềng như Lào và Campuchia hiện nay đang phát triển mạnh ở ngành nào dựa trên thế mạnh tự nhiên?",
+    [
+     "Nông nghiệp và thuỷ điện, du lịch",
+     "Công nghiệp khai thác vũ trụ",
+     "Chế tạo máy bay và tàu thuỷ lớn",
+     "Sản xuất ô tô điện xuất khẩu hàng đầu thế giới"
+    ],
+    "Lào có thế mạnh phát triển thuỷ điện; Campuchia có thế mạnh về nông nghiệp trồng lúa nước và du lịch văn hoá."
+   ],
+   [
+    "Đặc điểm nào sau đây giải thích đúng nhất lý do Bắc Băng Dương là đại dương lạnh nhất?",
+    [
+     "Nằm ở vùng cực Bắc, quanh năm nhận được ít nhiệt lượng từ Mặt Trời",
+     "Nằm gần đường Xích đạo nên độ ẩm quá cao",
+     "Do có nhiều dòng hải lưu nóng chảy qua",
+     "Do diện tích quá rộng lớn làm nhiệt độ giảm nhanh"
+    ],
+    "Bắc Băng Dương nằm ở vùng cực Bắc của Trái Đất, nơi nhận được ít ánh sáng và nhiệt lượng Mặt Trời nhất nên quanh năm đóng băng."
+   ],
+   [
+    "Nếu một người đi du lịch từ Việt Nam sang Lào qua đường bộ, người đó phải đi qua địa hình nào là chủ yếu?",
+    [
+     "Dãy núi Trường Sơn",
+     "Đồng bằng sông Hồng",
+     "Biển Đông",
+     "Hoang mạc Xa-ha-ra"
+    ],
+    "Ranh giới tự nhiên giữa Việt Nam và Lào phần lớn chạy dọc theo dãy núi Trường Sơn."
+   ],
+   [
+    "Hành động nào sau đây thể hiện học sinh biết tôn trọng và tìm hiểu văn hoá của các quốc gia trên thế giới?",
+    [
+     "Tích cực tham gia các buổi giao lưu văn hoá và tìm hiểu di sản thế giới qua sách báo",
+     "Chỉ học lịch sử Việt Nam và chê bai văn hoá nước khác",
+     "Bắt chước các hành vi bạo lực trên mạng xã hội của nước ngoài",
+     "Từ chối học tiếng Anh vì muốn bảo vệ tiếng Việt"
+    ],
+    "Học hỏi và tôn trọng sự đa dạng văn hoá giúp chúng ta trở thành những công dân toàn cầu có hiểu biết."
+   ],
+   [
+    "Việc Việt Nam gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) năm 1995 đã mang lại lợi ích trực tiếp nào cho nước ta?",
+    [
+     "Mở rộng giao lưu thương mại, phát triển kinh tế và nâng cao vị thế đất nước",
+     "Giúp Việt Nam trở thành nước giàu nhất thế giới ngay lập tức",
+     "Thay đổi hoàn toàn vị trí địa lý của Việt Nam sang châu Âu",
+     "Mọi người dân Việt Nam đều không cần đi làm vẫn có thu nhập"
+    ],
+    "Gia nhập ASEAN giúp Việt Nam mở rộng hợp tác kinh tế, thương mại, văn hoá và củng cố môi trường hoà bình để phát triển."
+   ],
+   [
+    "Bạn An muốn vẽ một bức tranh tuyên truyền về tinh thần đoàn kết giữa các nước ASEAN. Hình ảnh nào sau đây là phù hợp nhất để đưa vào bức tranh?",
+    [
+     "Biểu tượng bó lúa vàng ASEAN và cờ của các nước hội viên cùng nụ cười trẻ thơ",
+     "Hình ảnh một trận chiến quân sự trong quá khứ",
+     "Hình ảnh hoang mạc cát khô hằn không có người sống",
+     "Hình ảnh một Kim tự tháp cổ đại cô đơn"
+    ],
+    "Biểu tượng ASEAN với các 🌾 bông lúa đại diện cho sự gắn kết, hoà bình và thịnh vượng của các nước Đông Nam Á."
+   ],
+   [
+    "Châu lục nào sau đây nằm hoàn toàn ở bán cầu Tây và ngăn cách với châu Âu qua Đại Tây Dương?",
+    [
+     "Châu Mỹ",
+     "Châu Phi",
+     "Châu Á",
+     "Châu Đại Dương"
+    ],
+    "Châu Mỹ nằm hoàn toàn ở bán cầu Tây, được bao bọc bởi các đại dương lớn và ngăn cách với châu Âu qua Đại Tây Dương."
+   ],
+   [
+    "Đặc điểm tự nhiên nổi bật nào giúp phân biệt châu Phi với các châu lục khác trên thế giới?",
+    [
+     "Phần lớn diện tích nằm giữa hai chí tuyến, khí hậu nóng và khô bậc nhất thế giới.",
+     "Có diện tích băng tuyết bao phủ lớn nhất ở vùng cực nam.",
+     "Là châu lục duy nhất có địa hình toàn bộ là đồng bằng thấp.",
+     "Nằm hoàn toàn trong khu vực khí hậu ôn đới lạnh giá."
+    ],
+    "Châu Phi có đường xích đạo đi qua gần giữa châu lục, diện tích lớn nằm giữa hai chí tuyến nên khí hậu quanh năm nóng và khô."
+   ],
+   [
+    "Dòng biển nóng và lạnh có vai trò như thế nào đối với khí hậu của các vùng ven biển mà chúng đi qua?",
+    [
+     "Dòng biển nóng làm tăng lượng mưa, dòng biển lạnh làm cho vùng ven biển khô hạn hơn.",
+     "Dòng biển nóng làm giảm nhiệt độ, dòng biển lạnh làm tăng nhiệt độ vùng ven biển.",
+     "Cả hai loại dòng biển đều làm cho khí hậu trở nên lạnh giá và khô hạn.",
+     "Không có ảnh hưởng gì đến thời tiết và khí hậu ở vùng đất liền gần đó."
+    ],
+    "Dòng biển nóng mang hơi ẩm vào bờ làm tăng mưa, ngược lại dòng biển lạnh làm không khí khô hơn và ít mưa."
+   ],
+   [
+    "Khu vực Đông Nam Á có điều kiện thuận lợi cơ bản nào để phát triển ngành nông nghiệp trồng lúa nước?",
+    [
+     "Khí hậu gió mùa ẩm và nhiều đồng bằng màu mỡ do các con sông lớn bồi đắp.",
+     "Địa hình đai cao hiểm trở và khí hậu quanh năm lạnh giá.",
+     "Lượng mưa rất ít và đất đai chủ yếu là cát sỏi khô cằn.",
+     "Nằm sâu trong lục địa, không chịu ảnh hưởng của gió mùa biển."
+    ],
+    "Đông Nam Á có khí hậu nhiệt đới gió mùa ẩm kết hợp với các đồng bằng phù sa màu mỡ rất thích hợp cho cây lúa nước phát triển."
+   ],
+   [
+    "Con sông nào dài nhất thế giới chảy qua lãnh thổ của châu Phi và đổ vào Địa Trung Hải?",
+    [
+     "Sông Nin",
+     "Sông A-mê-dón",
+     "Sông Mê Công",
+     "Sông Mi-xi-xi-pi"
+    ],
+    "Sông Nin ở châu Phi được biết đến là con sông dài nhất thế giới, nuôi dưỡng nền văn minh Ai Cập cổ đại."
+   ],
+   [
+    "Khu vực Nam Á nổi tiếng với dạng địa hình tự nhiên nào đóng vai trò như bức tường thành khổng lồ ngăn cách các vùng khí hậu?",
+    [
+     "Dãy núi Hy-malay-a",
+     "Cao nguyên Xi-bi-ri",
+     "Sa mạc Xa-ha-ra",
+     "Đồng bằng Bắc Mỹ"
+    ],
+    "Dãy Hy-malay-a là dãy núi cao nhất thế giới, nằm ở khu vực Nam Á và ngăn không cho không khí lạnh từ phía bắc tràn xuống."
+   ],
+   [
+    "Đảo Greenland thuộc quốc gia nào sau đây được ghi nhận là hòn đảo lớn nhất trên thế giới?",
+    [
+     "Đan Mạch",
+     "Ca-na-da",
+     "Ô-xtrây-li-a",
+     "Nga"
+    ],
+    "Đảo Greenland có diện tích lớn nhất thế giới và thuộc quyền quản lý của vương quốc Đan Mạch."
+   ],
+   [
+    "Rừng rậm nhiệt đới lớn nhất thế giới tập trung chủ yếu ở lưu vực con sông nào của châu Mỹ?",
+    [
+     "Sông A-mê-dón",
+     "Sông Nin",
+     "Sông Vôn-ga",
+     "Sông Đa-nuýp"
+    ],
+    "Lưu vực sông A-mê-dón ở Nam Mỹ sở hữu khu rừng mưa nhiệt đới lớn nhất thế giới, được mệnh danh là lá phổi xanh của Trái Đất."
+   ],
+   [
+    "Vì sao phần lớn diện tích của châu Đại Dương có khí hậu khô hạn, đặc biệt là ở trung tâm lục địa Ô-xtrây-li-a?",
+    [
+     "Do ảnh hưởng của các dãy núi cao chắn gió biển và áp cao chí tuyến ngự trị.",
+     "Do nằm sát ngay vùng cực bắc lạnh giá và có nhiều băng tuyết.",
+     "Do chịu ảnh hưởng trực tiếp của các dòng biển lạnh chảy sát bờ biển.",
+     "Do không có bất kỳ con sông lớn nào chảy qua vùng đất này."
+    ],
+    "Trung tâm Ô-xtrây-li-a chịu ảnh hưởng của áp cao chí tuyến và địa hình khuất gió nên lượng mưa rất ít, hình thành các hoang mạc lớn."
+   ],
+   [
+    "Kênh đào Xuy-ê nổi tiếng nối liền hai biển nào có ý nghĩa quan trọng đối với giao thông đường biển quốc tế?",
+    [
+     "Biển Đỏ và Địa Trung Hải",
+     "Biển Đông và Thái Bình Dương",
+     "Địa Trung Hải và Đại Tây Dương",
+     "Biển Đen và Biển Caspi"
+    ],
+    "Kênh đào Xuy-ê ở Ai Cập là công trình nhân tạo nối liền Biển Đỏ với Địa Trung Hải, giúp rút ngắn hành trình đường biển giữa châu Á và châu Âu."
+   ],
+   [
+    "Khi em xem bản đồ tự nhiên thế giới, màu xanh lá cây thường được dùng để thể hiện đối tượng địa lí nào?",
+    [
+     "Các vùng đồng bằng thấp",
+     "Các dãy núi cao hiểm trở",
+     "Các vùng biển sâu thẳm",
+     "Các hoang mạc cát nóng"
+    ],
+    "Trên bản đồ tự nhiên, màu xanh lá cây biểu thị cho các vùng đồng bằng và đất thấp."
+   ],
+   [
+    "Thủ đô của một quốc gia láng giềng nằm ở phía tây của Việt Nam, nổi tiếng với ngôi đền Pha That Luang là nước nào?",
+    [
+     "Lào",
+     "Campuchia",
+     "Thái Lan",
+     "Trung Quốc"
+    ],
+    "Lào là quốc gia giáp phía tây Việt Nam, có thủ đô Viêng Chăn và biểu tượng tháp Pha That Luang nổi tiếng."
+   ],
+   [
+    "Hoạt động kinh tế nào sau đây thường phát triển mạnh ở các quốc gia ven biển nhờ có vùng biển rộng và nguồn hải sản phong phú?",
+    [
+     "Đánh bắt và nuôi trồng thủy hải sản",
+     "Trồng cây công nghiệp ôn đới trên núi cao",
+     "Khai thác khoáng sản trong các mỏ than sâu",
+     "Chăn nuôi gia súc lớn trên các thảo nguyên khô"
+    ],
+    "Các quốc gia giáp biển có thế mạnh lớn về đánh bắt, nuôi trồng thủy hải sản và phát triển du lịch biển."
+   ],
+   [
+    "Biện pháp nào là thiết thực nhất để học sinh góp phần bảo vệ môi trường và tài nguyên thiên nhiên của Trái Đất?",
+    [
+     "Tiết kiệm điện nước, hạn chế dùng đồ nhựa dùng một lần và tích cực trồng cây.",
+     "Xả rác thải sinh hoạt trực tiếp ra các ao hồ và sông ngòi gần nhà.",
+     "Sử dụng thật nhiều túi ni-lông để đựng đồ dùng cá nhân hằng ngày.",
+     "Chặt phá cây xanh trong khuôn viên trường học để làm chỗ vui chơi."
+    ],
+    "Tiết kiệm năng lượng, giảm rác thải nhựa và trồng cây xanh là những việc làm thiết thực bảo vệ môi trường."
+   ],
+   [
+    "Nhờ đâu mà các nước trong khối ASEAN có thể tăng cường sự hiểu biết lẫn nhau và giữ gìn hòa bình khu vực?",
+    [
+     "Thường xuyên tổ chức các hoạt động giao lưu văn hóa, thể thao và hợp tác kinh tế.",
+     "Xây dựng hàng rào biên giới kiên cố để hạn chế người dân qua lại giữa các nước.",
+     "Chỉ tập trung phát triển quân đội riêng biệt mà không cần trao đổi với nhau.",
+     "Ngắt toàn bộ các đường dây thông tin liên lạc và giao thương hàng hải."
+    ],
+    "Các hoạt động giao lưu văn hóa, thể thao và hợp tác kinh tế giúp các nước ASEAN gắn kết và hiểu nhau hơn."
+   ],
+   [
+    "Dãy núi nào được mệnh danh là nóc nhà của thế giới nằm ở khu vực châu Á?",
+    [
+     "Dãy Hy-malay-a",
+     "Dãy An-pơ",
+     "Dãy An-đét",
+     "Dãy U-ran"
+    ],
+    "Dãy Hy-malay-a có đỉnh Ê-vơ-rét cao nhất thế giới nên được ví là nóc nhà của thế giới."
+   ],
+   [
+    "Hồ Ba-kan ở châu Á giữ kỉ lục thế giới về đặc điểm tự nhiên nào sau đây?",
+    [
+     "Là hồ nước ngọt có độ sâu lớn nhất thế giới.",
+     "Là hồ nước mặn rộng lớn nhất nằm ở trong lục địa.",
+     "Là hồ nhân tạo phục vụ thủy điện lớn nhất.",
+     "Là hồ nằm ở vị trí cao nhất so với mực nước biển."
+    ],
+    "Hồ Ba-kan (Nga, châu Á) là hồ nước ngọt chứa lượng nước khổng lồ và có độ sâu lớn nhất thế giới."
+   ],
+   [
+    "Quốc gia nào sau đây thuộc khu vực Đông Nam Á và có diện tích lớn nhất khu vực?",
+    [
+     "In-đô-nê-xi-a",
+     "Việt Nam",
+     "Thái Lan",
+     "Xin-ga-po"
+    ],
+    "In-đô-nê-xi-a là quốc gia quần đảo có diện tích và dân số lớn nhất trong khu vực Đông Nam Á."
+   ],
+   [
+    "Khi tìm hiểu về các nền văn minh cổ đại trên thế giới, em biết chữ tượng hình và các công trình kiến trúc Kim tự tháp gắn liền với nền văn minh nào?",
+    [
+     "Ai Cập cổ đại",
+     "Hi Lạp cổ đại",
+     "La Mã cổ đại",
+     "Trung Hoa cổ đại"
+    ],
+    "Ai Cập cổ đại nổi tiếng với chữ tượng hình trên giấy cói và các công trình Kim tự tháp kỳ vĩ bên bờ sông Nin."
+   ],
+   [
+    "Yếu tố nào sau đây quyết định phần lớn sự đa dạng về sinh vật và cảnh quan thiên nhiên trên Trái Đất?",
+    [
+     "Sự khác biệt về khí hậu giữa các đới và các khu vực địa lí.",
+     "Sự tồn tại của các phương tiện giao thông hiện đại trên biển.",
+     "Việc con người xây dựng các thành phố lớn trên khắp các châu lục.",
+     "Sự thay đổi của thời tiết trong một ngày đêm tại mỗi địa phương."
+    ],
+    "Khí hậu (nhiệt độ, lượng mưa) là yếu tố chính tạo nên các đới thiên nhiên và sự phong phú của sinh vật trên Trái Đất."
+   ],
+   [
+    "Con sông nào ở châu Mỹ được ghi nhận có lượng nước chảy trung bình lớn nhất thế giới?",
+    [
+     "Sông A-ma-zon",
+     "Sông Ni-nơ",
+     "Sông Mê Công",
+     "Sông Hằng"
+    ],
+    "Sông A-ma-zon nằm ở châu Mỹ, là con sông có lưu vực rộng nhất và lượng nước chảy lớn nhất thế giới."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "7-khtn": {
+  "c4": [
+   [
+    "Khi chúng ta nói chuyện, bộ phận nào trong cơ thể đóng vai trò là nguồn âm phát ra âm thanh?",
+    [
+     "Dây thanh quản",
+     "Vòm họng",
+     "Lưỡi và răng",
+     "Khoang mũi"
+    ],
+    "Khi nói, luồng không khí từ phổi đi lên làm cho dây thanh quản dao động và phát ra âm thanh."
+   ],
+   [
+    "Sóng âm có bản chất là gì khi truyền đi trong môi trường vật chất?",
+    [
+     "Sự lan truyền dao động của các phần tử môi trường",
+     "Sự dịch chuyển của các phân tử không khí từ nguồn đến tai",
+     "Sự lan truyền của các hạt bụi trong không khí",
+     "Sự chuyển động của dòng khí từ nơi áp suất cao đến áp suất thấp"
+    ],
+    "Sóng âm truyền đi bằng cách làm các phần tử của môi trường dao động tại chỗ và truyền dao động đó cho các phần tử bên cạnh."
+   ],
+   [
+    "Phát biểu nào sau đây là đúng khi nói về sự truyền âm trong các môi trường khác nhau?",
+    [
+     "Âm thanh truyền trong chất rắn nhanh hơn trong chất lỏng và chất khí",
+     "Tốc độ truyền âm trong chân không là lớn nhất",
+     "Âm thanh chỉ truyền được trong không khí",
+     "Chất khí truyền âm tốt hơn chất rắn và chất lỏng"
+    ],
+    "Tốc độ truyền âm phụ thuộc vào mật độ môi trường, thường sắp xếp theo thứ tự giảm dần là: chất rắn > chất lỏng > chất khí."
+   ],
+   [
+    "Vì sao các nhà du hành vũ trụ khi ở ngoài không gian (chân không) không thể trò chuyện trực tiếp với nhau bằng giọng nói bình thường?",
+    [
+     "Vì ngoài không gian là chân không, không có môi trường vật chất để truyền sóng âm",
+     "Vì áp suất ngoài không gian quá lớn làm hỏng dây thanh quản",
+     "Vì nhiệt độ quá thấp làm âm thanh bị đóng băng",
+     "Vì bộ đồ phi hành gia đã chặn hoàn toàn ánh sáng"
+    ],
+    "Âm thanh cần môi trường vật chất (rắn, lỏng, khí) để truyền đi, không gian vũ trụ là chân không nên âm thanh không thể truyền qua."
+   ],
+   [
+    "Khi gảy mạnh vào một sợi dây đàn so với khi gảy nhẹ, ta sẽ nghe thấy âm thanh thay đổi như thế nào?",
+    [
+     "Âm phát ra to hơn",
+     "Âm phát ra trầm hơn",
+     "Âm phát ra cao hơn",
+     "Tốc độ truyền âm trong không khí lớn hơn"
+    ],
+    "Gảy mạnh làm biên độ dao động của dây đàn lớn hơn, do đó âm phát ra sẽ to hơn."
+   ],
+   [
+    "Khi người chơi đàn ghita bấm ngón tay để làm thay đổi độ dài phần dây đàn dao động, yếu tố nào của âm thanh sẽ bị thay đổi?",
+    [
+     "Độ cao của âm",
+     "Độ to của âm",
+     "Biên độ của sóng âm",
+     "Tốc độ truyền âm"
+    ],
+    "Làm ngắn dây đàn giúp dây dao động nhanh hơn (tần số lớn hơn), khiến âm phát ra cao hơn (bổng hơn)."
+   ],
+   [
+    "Trường hợp nào sau đây là ứng dụng của hiện tượng phản xạ âm trong đời sống?",
+    [
+     "Sử dụng thiết bị sonar trên tàu để dò tìm đàn cá dưới biển",
+     "Sử dụng rèm cửa dày để che nắng trong phòng khách",
+     "Lắp đặt đệm cao su dưới chân máy giặt để giảm rung lắc",
+     "Đeo tai nghe chống ồn khi đi máy bay"
+    ],
+    "Thiết bị sonar hoạt động dựa trên nguyên tắc phát ra sóng âm và thu lại sóng âm phản xạ từ đáy biển hoặc đàn cá."
+   ],
+   [
+    "Loại tai nghe chống ồn chủ động hiện đại hoạt động dựa trên hiện tượng vật lý nào để loại bỏ tiếng ồn xung quanh?",
+    [
+     "Giao thoa sóng âm triệt tiêu lẫn nhau",
+     "Phản xạ âm qua bề mặt nhẵn",
+     "Hấp thụ âm thanh bởi vật liệu xốp",
+     "Khúc xạ sóng âm khi qua màng lọc"
+    ],
+    "Tai nghe chống ồn thu tiếng ồn bên ngoài và phát ra một sóng âm ngược pha để triệt tiêu tiếng ồn đó."
+   ],
+   [
+    "Một chiếc còi của trọng tài bóng đá phát ra âm thanh có tần số nằm trong khoảng nào?",
+    [
+     "Từ 20 Hz đến 20000 Hz",
+     "Dưới 20 Hz",
+     "Trên 20000 Hz",
+     "Từ 0 Hz đến 10 Hz"
+    ],
+    "Tai người bình thường chỉ nghe được các âm thanh có tần số trong khoảng từ 20 Hz đến 20000 Hz (âm nghe được)."
+   ],
+   [
+    "Sóng siêu âm có đặc điểm gì vượt trội so với âm thanh thông thường mà con người có thể nghe thấy?",
+    [
+     "Có tần số lớn hơn 20000 Hz và tai người không nghe thấy được",
+     "Có biên độ dao động cực lớn làm vỡ các vật thể cứng",
+     "Có thể truyền đi trong chân không với tốc độ ánh sáng",
+     "Chỉ truyền được trong chất rắn mà không truyền được trong nước"
+    ],
+    "Siêu âm là sóng âm có tần số vượt quá giới hạn nghe của tai người (trên 20000 Hz)."
+   ],
+   [
+    "Một vật thực hiện được 300 dao động trong thời gian 10 giây. Tần số dao động của vật đó là bao nhiêu?",
+    [
+     "30 Hz",
+     "3000 Hz",
+     "3 Hz",
+     "300 Hz"
+    ],
+    "Tần số bằng số dao động chia cho thời gian: 300 chia 10 bằng 30 Hz."
+   ],
+   [
+    "Khi một chú dơi bay trong đêm tối, chú dơi nhận biết được vật cản phía trước nhờ vào việc phát ra và thu lại loại sóng nào?",
+    [
+     "Sóng siêu âm",
+     "Sóng hạ âm",
+     "Sóng ánh sáng",
+     "Sóng điện từ"
+    ],
+    "Dơi phát ra sóng siêu âm và dựa vào tiếng vang phản xạ lại để xác định khoảng cách và hình dáng vật cản."
+   ],
+   [
+    "Tại sao các phòng chiếu phim thường được thiết kế tường sần sùi, treo rèm nhung thay vì ốp gạch men bóng loáng?",
+    [
+     "Để hấp thụ âm thanh tốt hơn, hạn chế tối đa tiếng vang gây ù tai",
+     "Để tăng cường độ to của âm thanh phát ra từ loa",
+     "Để phản xạ âm thanh đến mọi ngóc ngách trong phòng",
+     "Để ngăn chặn hoàn toàn nhiệt độ bên ngoài truyền vào"
+    ],
+    "Các vật liệu mềm, sần sùi có khả năng hấp thụ âm thanh rất tốt, giúp âm thanh trong phòng sắc nét và không bị vang."
+   ],
+   [
+    "Hành động nào sau đây của học sinh góp phần tích cực vào việc chống ô nhiễm tiếng ồn tại trường học?",
+    [
+     "Giữ trật tự, đi nhẹ nói khẽ khi di chuyển ở hành lang",
+     "Mở hết âm lượng loa máy tính khi nghe nhạc trong lớp",
+     "La hét lớn để gọi bạn ở khoảng cách xa trong sân trường",
+     "Dùng còi xe máy bấm liên tục khi cổng trường đông đúc"
+    ],
+    "Giữ trật tự và đi nhẹ nói khẽ giúp giảm thiểu tiếng ồn đáng kể trong môi trường học đường."
+   ],
+   [
+    "Khi bạn gõ nhẹ rồi gõ mạnh vào một chiếc trống, yếu tố nào của mặt trống bị thay đổi giữa hai lần gõ?",
+    [
+     "Biên độ dao động",
+     "Tần số dao động",
+     "Độ cao của âm thanh",
+     "Vận tốc truyền âm"
+    ],
+    "Gõ mạnh làm mặt trống lệch khỏi vị trí cân bằng nhiều hơn, tức là biên độ dao động lớn hơn."
+   ],
+   [
+    "Một người đứng cách vách núi một đoạn và hét lớn, sau 3 giây thì nghe thấy tiếng vang vọng lại. Biết tốc độ truyền âm trong không khí là 340 m/s. Khoảng cách từ người đó đến vách núi là:",
+    [
+     "510 mét",
+     "1020 mét",
+     "170 mét",
+     "340 mét"
+    ],
+    "Quãng đường âm thanh đi cả đi lẫn về là 340 nhân 3 bằng 1020 mét. Khoảng cách một chiều là 1020 chia 2 bằng 510 mét."
+   ],
+   [
+    "Trong các môi trường sau đây, sóng âm truyền qua môi trường nào có tốc độ nhỏ nhất?",
+    [
+     "Không khí ở nhiệt độ phòng",
+     "Nước biển",
+     "Thanh thép dài",
+     "Khối thủy tinh đặc"
+    ],
+    "Không khí là chất khí, có tốc độ truyền âm nhỏ hơn nhiều so với chất lỏng (nước) và chất rắn (thép, thủy tinh)."
+   ],
+   [
+    "Khi quan sát một nghệ sĩ gảy đàn tranh, ta thấy dây đàn càng mảnh và ngắn thì âm thanh phát ra sẽ như thế nào?",
+    [
+     "Âm càng cao (bổng)",
+     "Âm càng to (lớn)",
+     "Âm càng trầm (thấp)",
+     "Âm kéo dài lâu hơn"
+    ],
+    "Dây đàn mảnh và ngắn sẽ dao động với tần số lớn hơn, tạo ra âm thanh có độ cao lớn (bổng hơn)."
+   ],
+   [
+    "Biện pháp nào sau đây giúp hạn chế tiếng ồn từ các phương tiện giao thông tác động vào các khu dân cư ven đường cao tốc?",
+    [
+     "Xây dựng các bức tường cách âm cao dọc theo hai bên đường",
+     "Yêu cầu tất cả các xe chạy với tốc độ tối đa",
+     "Trồng các loại cây thân gỗ nhỏ, ít lá sát mặt đường",
+     "Sử dụng còi công suất lớn hơn cho các xe ô tô"
+    ],
+    "Xây dựng các bức tường cách âm dọc đường cao tốc giúp ngăn chặn và hấp thụ sóng âm từ xe cộ lan ra khu dân cư."
+   ],
+   [
+    "Khi một người vặn dây cót của hộp nhạc, bộ phận nào bên trong hộp nhạc dao động để phát ra âm thanh?",
+    [
+     "Lưỡi thép nhỏ bên trong hộp nhạc",
+     "Vỏ hộp bằng gỗ của hộp nhạc",
+     "Không khí xung quanh hộp nhạc",
+     "Dây cót vừa được vặn"
+    ],
+    "Khi hộp nhạc hoạt động, các vấu trên trục quay gảy vào các lưỡi thép có chiều dài khác nhau làm chúng dao động và phát ra âm thanh."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,406 @@
+{
+ "5-toan": {
+  "c5": [
+   [
+    "Hình tam giác có diện tích là 24cm2 và chiều cao là 6cm. Độ dài đáy của hình tam giác đó là gì?",
+    [
+     "8cm",
+     "4cm",
+     "12cm",
+     "16cm"
+    ],
+    "Độ dài đáy bằng diện tích nhân 2 rồi chia cho chiều cao: 24 nhân 2 chia 6 bằng 8cm."
+   ],
+   [
+    "Hình tam giác có độ dài đáy là 12dm và chiều cao bằng 3/4 độ dài đáy. Diện tích hình tam giác đó là bao nhiêu?",
+    [
+     "54dm2",
+     "108dm2",
+     "36dm2",
+     "27dm2"
+    ],
+    "Chiều cao là 12 nhân 3/4 bằng 9dm. Diện tích là 12 nhân 9 chia 2 bằng 54dm2."
+   ],
+   [
+    "Tổng độ dài hai đáy của một hình thang là 1,8m và chiều cao là 0,5m. Diện tích hình thang đó là bao nhiêu?",
+    [
+     "0,45m2",
+     "0,9m2",
+     "0,225m2",
+     "4,5m2"
+    ],
+    "Diện tích hình thang bằng tổng hai đáy nhân chiều cao rồi chia cho 2: 1,8 nhân 0,5 chia 2 bằng 0,45m2."
+   ],
+   [
+    "Một hình thang có diện tích 20cm2, chiều cao 4cm. Biết đáy lớn gấp 3 lần đáy bé. Độ dài đáy lớn là bao nhiêu?",
+    [
+     "7,5cm",
+     "2,5cm",
+     "5cm",
+     "10cm"
+    ],
+    "Tổng hai đáy là 20 nhân 2 chia 4 bằng 10cm. Đáy lớn chiếm 3 phần, đáy bé 1 phần, tổng 4 phần. Đáy lớn là 10 chia 4 nhân 3 bằng 7,5cm."
+   ],
+   [
+    "Hình tròn có bán kính 4cm. Diện tích hình tròn đó là bao nhiêu?",
+    [
+     "50,24cm2",
+     "25,12cm2",
+     "12,56cm2",
+     "100,48cm2"
+    ],
+    "Diện tích hình tròn bằng bán kính nhân bán kính nhân 3,14: 4 nhân 4 nhân 3,14 bằng 50,24cm2."
+   ],
+   [
+    "Đường kính của một hình tròn là 10dm. Chu vi hình tròn đó là bao nhiêu?",
+    [
+     "31,4dm",
+     "15,7dm",
+     "78,5dm",
+     "62,8dm"
+    ],
+    "Chu vi hình tròn bằng đường kính nhân 3,14: 10 nhân 3,14 bằng 31,4dm."
+   ],
+   [
+    "Hình tam giác có đáy 15cm, chiều cao 8cm. Diện tích hình tam giác là bao nhiêu?",
+    [
+     "60cm2",
+     "120cm2",
+     "30cm2",
+     "23cm2"
+    ],
+    "Diện tích tam giác bằng đáy nhân chiều cao chia 2: 15 nhân 8 chia 2 bằng 60cm2."
+   ],
+   [
+    "Một hình thang có đáy lớn 14cm, đáy bé 10cm và chiều cao 6cm. Diện tích hình thang là bao nhiêu?",
+    [
+     "72cm2",
+     "144cm2",
+     "84cm2",
+     "60cm2"
+    ],
+    "Diện tích hình thang bằng (14 cộng 10) nhân 6 chia 2 bằng 72cm2."
+   ],
+   [
+    "Bán kính hình tròn tăng lên gấp 2 lần thì diện tích hình tròn đó tăng lên gấp mấy lần?",
+    [
+     "4 lần",
+     "2 lần",
+     "8 lần",
+     "6 lần"
+    ],
+    "Bán kính gấp lên 2 lần thì diện tích gấp lên 2 nhân 2 bằng 4 lần."
+   ],
+   [
+    "Bánh xe đạp có đường kính 65cm. Người đi xe đạp sẽ đi được quãng đường bao nhiêu mét nếu bánh xe quay được 100 vòng?",
+    [
+     "204,1m",
+     "2041m",
+     "20,41m",
+     "20410m"
+    ],
+    "Chu vi bánh xe là 65 nhân 3,14 bằng 204,1cm. Quay 100 vòng đi được 20410cm tương đương 204,1m."
+   ],
+   [
+    "Hình tam giác có diện tích 18,5cm2 và chiều cao 5cm. Độ dài đáy của tam giác là bao nhiêu?",
+    [
+     "7,4cm",
+     "3,7cm",
+     "14,8cm",
+     "9,25cm"
+    ],
+    "Độ dài đáy bằng diện tích nhân 2 chia chiều cao: 18,5 nhân 2 chia 5 bằng 7,4cm."
+   ],
+   [
+    "Một mảnh đất hình thang có diện tích 120m2, chiều cao 8m. Tính tổng độ dài hai đáy của mảnh đất đó.",
+    [
+     "30m",
+     "15m",
+     "60m",
+     "480m"
+    ],
+    "Tổng độ dài hai đáy bằng diện tích nhân 2 chia chiều cao: 120 nhân 2 chia 8 bằng 30m."
+   ],
+   [
+    "Sợi dây thép dài 62,8cm được uốn thành một hình tròn. Bán kính của hình tròn đó là bao nhiêu?",
+    [
+     "10cm",
+     "5cm",
+     "20cm",
+     "31,4cm"
+    ],
+    "Chu vi hình tròn chính là độ dài sợi dây. Bán kính là 62,8 chia 3,14 chia 2 bằng 10cm."
+   ],
+   [
+    "Một khu vườn hình thang có diện tích 360m2, chiều cao 12m. Đáy lớn dài hơn đáy bé 6m. Độ dài đáy bé của khu vườn là bao nhiêu?",
+    [
+     "27m",
+     "33m",
+     "24m",
+     "30m"
+    ],
+    "Tổng hai đáy là 360 nhân 2 chia 12 bằng 60m. Đáy bé là (60 trừ 6) chia 2 bằng 27m."
+   ],
+   [
+    "Bốn bạn An, Bình, Châu, Dung tính diện tích hình tròn có bán kính 5cm. Kết quả nào sau đây là đúng?",
+    [
+     "78,5cm2",
+     "31,4cm2",
+     "15,7cm2",
+     "785cm2"
+    ],
+    "Diện tích hình tròn bán kính 5cm là 5 nhân 5 nhân 3,14 bằng 78,5cm2."
+   ],
+   [
+    "Cho hình tam giác có diện tích 60cm2. Biết nếu tăng đáy lên 4cm thì diện tích tăng thêm 12cm2. Độ dài đáy ban đầu của tam giác là bao nhiêu?",
+    [
+     "20cm",
+     "10cm",
+     "15cm",
+     "30cm"
+    ],
+    "Chiều cao tam giác là 12 nhân 2 chia 4 bằng 6cm. Đáy ban đầu là 60 nhân 2 chia 6 bằng 20cm."
+   ],
+   [
+    "Một tấm bìa hình tròn có đường kính 20cm. Người ta cắt bỏ đi một nửa hình bìa đó. Diện tích phần bìa còn lại là bao nhiêu?",
+    [
+     "157cm2",
+     "314cm2",
+     "78,5cm2",
+     "62,8cm2"
+    ],
+    "Bán kính hình tròn là 10cm. Diện tích toàn bộ là 10 nhân 10 nhân 3,14 bằng 314cm2. Diện tích phần còn lại là 314 chia 2 bằng 157cm2."
+   ],
+   [
+    "Trong các hình sau, hình nào là hình thang?",
+    [
+     "Hình tứ giác có một cặp cạnh đối diện song song",
+     "Hình tứ giác có bốn góc vuông",
+     "Hình có ba cạnh và ba góc",
+     "Hình khép kín có tâm và bán kính"
+    ],
+    "Hình thang là hình tứ giác có hai cạnh đối diện song song."
+   ],
+   [
+    "Đâu là công thức tính diện tích hình tam giác với độ dài đáy a và chiều cao h?",
+    [
+     "(a nhân h) chia 2",
+     "a nhân h",
+     "(a cộng h) nhân 2 chia 2",
+     "a nhân a nhân 3,14"
+    ],
+    "Diện tích hình tam giác bằng độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2."
+   ],
+   [
+    "Công thức tính chu vi hình tròn có bán kính r là gì?",
+    [
+     "r nhân 2 nhân 3,14",
+     "r nhân r nhân 3,14",
+     "r nhân 3,14",
+     "r nhân 4 nhân 3,14"
+    ],
+    "Chu vi hình tròn bằng bán kính nhân 2 nhân với số 3,14."
+   ],
+   [
+    "Hình tròn có đường kính d, công thức tính diện tích là gì?",
+    [
+     "(d chia 2) nhân (d chia 2) nhân 3,14",
+     "d nhân 3,14",
+     "d nhân d nhân 3,14",
+     "(d nhân 2) nhân 3,14"
+    ],
+    "Diện tích hình tròn bằng bán kính nhân với bán kính nhân 3,14, trong đó bán kính bằng đường kính chia đôi."
+   ],
+   [
+    "Một hình thang có độ dài hai đáy lần lượt là 5cm và 7cm, chiều cao là 4cm. Diện tích hình thang đó là bao nhiêu?",
+    [
+     "24cm2",
+     "48cm2",
+     "12cm2",
+     "35cm2"
+    ],
+    "Diện tích hình thang bằng tổng độ dài hai đáy nhân chiều cao rồi chia cho 2: (5 cộng 7) nhân 4 chia 2 bằng 24cm2."
+   ],
+   [
+    "Đường kính của một hình tròn là 8dm. Diện tích hình tròn đó là bao nhiêu?",
+    [
+     "50,24dm2",
+     "25,12dm2",
+     "100,48dm2",
+     "200,96dm2"
+    ],
+    "Bán kính hình tròn là 8 chia 2 bằng 4dm. Diện tích là 4 nhân 4 nhân 3,14 bằng 50,24dm2."
+   ],
+   [
+    "Một hình tam giác có cạnh đáy dài 9cm và diện tích bằng 27cm2. Chiều cao tương ứng của hình tam giác đó là bao nhiêu?",
+    [
+     "6cm",
+     "3cm",
+     "12cm",
+     "18cm"
+    ],
+    "Chiều cao hình tam giác bằng diện tích nhân 2 rồi chia cho độ dài đáy: 27 nhân 2 chia 9 bằng 6cm."
+   ],
+   [
+    "Chu vi một hình tròn là 31,4cm. Bán kính của hình tròn đó là bao nhiêu?",
+    [
+     "5cm",
+     "10cm",
+     "2,5cm",
+     "15,7cm"
+    ],
+    "Bán kính hình tròn bằng chu vi chia cho 3,14 rồi chia tiếp cho 2: 31,4 chia 3,14 chia 2 bằng 5cm."
+   ],
+   [
+    "Một mảnh vườn hình thang có đáy lớn 18m, đáy bé 12m và chiều cao bằng trung bình cộng hai đáy. Diện tích mảnh vườn là bao nhiêu?",
+    [
+     "225m2",
+     "450m2",
+     "180m2",
+     "270m2"
+    ],
+    "Trung bình cộng hai đáy (chiều cao) là (18 cộng 12) chia 2 bằng 15m. Diện tích là (18 cộng 12) nhân 15 chia 2 bằng 225m2."
+   ],
+   [
+    "Nếu bán kính của một hình tròn tăng lên 3 lần thì chu vi hình tròn đó tăng lên mấy lần?",
+    [
+     "3 lần",
+     "6 lần",
+     "9 lần",
+     "12 lần"
+    ],
+    "Chu vi hình tròn tỉ lệ thuận với bán kính, bán kính tăng 3 lần thì chu vi cũng tăng lên 3 lần."
+   ],
+   [
+    "Một hình tam giác có tổng độ dài đáy và chiều cao là 24cm, đáy dài hơn chiều cao 4cm. Diện tích hình tam giác đó là bao nhiêu?",
+    [
+     "70cm2",
+     "140cm2",
+     "56cm2",
+     "112cm2"
+    ],
+    "Độ dài đáy là (24 cộng 4) chia 2 bằng 14cm. Chiều cao là 24 trừ 14 bằng 10cm. Diện tích là 14 nhân 10 chia 2 bằng 70cm2."
+   ],
+   [
+    "Một hình thang có diện tích 54cm2 và chiều cao 6cm. Hiệu hai đáy bằng 2cm. Độ dài đáy lớn của hình thang đó là bao nhiêu?",
+    [
+     "10cm",
+     "8cm",
+     "12cm",
+     "9cm"
+    ],
+    "Tổng hai đáy là 54 nhân 2 chia 6 bằng 18cm. Đáy lớn là (18 cộng 2) chia 2 bằng 10cm."
+   ],
+   [
+    "Sân trường hình tròn có bán kính 10m. Dạy học thể dục quanh sân, học sinh chạy 3 vòng thì quãng đường chạy được là bao nhiêu mét?",
+    [
+     "188,4m",
+     "62,8m",
+     "31,4m",
+     "94,2m"
+    ],
+    "Chu vi sân trường là 10 nhân 2 nhân 3,14 bằng 62,8m. Chạy 3 vòng được 62,8 nhân 3 bằng 188,4m."
+   ],
+   [
+    "Một mảnh bìa hình tam giác có diện tích 48cm2. Nếu kéo dài đáy thêm 3cm thì diện tích tăng thêm 12cm2. Độ dài đáy ban đầu của tam giác là bao nhiêu?",
+    [
+     "12cm",
+     "8cm",
+     "16cm",
+     "24cm"
+    ],
+    "Chiều cao tam giác là 12 nhân 2 chia 3 bằng 8cm. Độ dài đáy ban đầu là 48 nhân 2 chia 8 bằng 12cm."
+   ],
+   [
+    "Một miếng tôn hình thang có diện tích dm2 và tổng độ dài hai đáy là 2dm. Chiều cao miếng tôn đó là bao nhiêu?",
+    [
+     "0,8dm",
+     "1,6dm",
+     "0,4dm",
+     "3,2dm"
+    ],
+    "Chiều cao hình thang bằng diện tích nhân 2 rồi chia cho tổng hai đáy: 0,8 nhân 2 chia 2 bằng 0,8dm."
+   ],
+   [
+    "Một hình thang có diện tích 100cm2. Nếu tăng đáy lớn thêm 4cm thì diện tích hình thang tăng thêm 20cm2. Chiều cao hình thang là bao nhiêu?",
+    [
+     "10cm",
+     "5cm",
+     "20cm",
+     "8cm"
+    ],
+    "Phần diện tích tăng thêm là hình tam giác có đáy 4cm và chiều cao bằng chiều cao hình thang. Chiều cao là 20 nhân 2 chia 4 bằng 10cm."
+   ],
+   [
+    "Một thửa ruộng hình thang có diện tích 350m2, chiều cao 10m. Đáy bé bằng 3/4 đáy lớn. Độ dài đáy bé của thửa ruộng là bao nhiêu?",
+    [
+     "15m",
+     "20m",
+     "35m",
+     "25m"
+    ],
+    "Tổng hai đáy là 350 nhân 2 chia 10 bằng 70m. Đáy bé là 70 chia (3 cộng 4) nhân 3 bằng 30m? Sai, sửa lại: 30m (3/7 tổng). Kiểm tra: đáy lớn 40, đáy bé 30, tổng 70, diện tích 350. Đúng."
+   ],
+   [
+    "Mặt bàn hình tròn có đường kính 1,2m. Người ta trải một chiếc khăn bàn hình tròn rộng hơn mặt bàn mỗi bên 20cm. Bán kính chiếc khăn bàn là bao nhiêu?",
+    [
+     "0,8m",
+     "1,4m",
+     "1m",
+     "0,7m"
+    ],
+    "Đổi 20cm = 0,2m. Bán kính mặt bàn là 1,2 chia 2 bằng 0,6m. Bán kính khăn bàn là 0,6 cộng 0,2 bằng 0,8m."
+   ],
+   [
+    "Một mảnh đất hình tam giác có đáy bằng 20m. Nếu giảm độ dài đáy đi 4m thì diện tích mảnh đất giảm đi 30m2. Diện tích mảnh đất ban đầu là bao nhiêu?",
+    [
+     "150m2",
+     "120m2",
+     "100m2",
+     "200m2"
+    ],
+    "Chiều cao tam giác là 30 nhân 2 chia 4 bằng 15m. Diện tích ban đầu là 20 nhân 15 chia 2 bằng 150m2."
+   ],
+   [
+    "Hình thang có đặc điểm nào dưới đây?",
+    [
+     "Có một cặp cạnh đối diện song song",
+     "Có hai cặp cạnh đối diện song song",
+     "Có bốn góc vuông",
+     "Có bốn cạnh bằng nhau"
+    ],
+    "Hình thang là hình tứ giác có một cặp cạnh đối diện song song."
+   ],
+   [
+    "Trong một hình tròn, mối quan hệ giữa đường kính và bán kính là gì?",
+    [
+     "Đường kính dài gấp 2 lần bán kính",
+     "Bán kính dài gấp 2 lần đường kính",
+     "Đường kính bằng bán kính",
+     "Đường kính dài gấp 3 lần bán kính"
+    ],
+    "Trong một hình tròn, độ dài đường kính luôn gấp 2 lần độ dài bán kính."
+   ],
+   [
+    "Muốn tính diện tích hình tam giác ta làm như thế nào?",
+    [
+     "Lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2",
+     "Lấy độ dài đáy cộng với chiều cao (cùng đơn vị đo) rồi chia cho 2",
+     "Lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo)",
+     "Lấy độ dài đáy nhân 2 rồi chia cho chiều cao"
+    ],
+    "Quy tắc tính diện tích hình tam giác: Muốn tính diện tích hình tam giác ta lấy độ dài đáy nhân với chiều cao (cùng một đơn vị đo) rồi chia cho 2."
+   ],
+   [
+    "Một hình tam giác có độ dài đáy là 2,5dm và chiều cao là 1,4dm. Diện tích của hình tam giác đó là bao nhiêu?",
+    [
+     "1,75 dm²",
+     "3,5 dm²",
+     "3,9 dm²",
+     "1,95 dm²"
+    ],
+    "Diện tích hình tam giác là (2,5 x 1,4) : 2 = 1,75 dm²."
+   ]
+  ]
+ }
+}

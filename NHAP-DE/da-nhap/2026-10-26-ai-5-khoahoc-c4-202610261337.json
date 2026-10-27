@@ -1,0 +1,406 @@
+{
+ "5-khoahoc": {
+  "c4": [
+   [
+    "Vi khuẩn có kích thước như thế nào?",
+    [
+     "Rất nhỏ, chỉ quan sát được bằng kính hiển vi.",
+     "Lớn, có thể nhìn thấy bằng mắt thường.",
+     "To bằng hạt gạo, nhìn rõ trên tay.",
+     "Bằng hạt bụi, nhìn thấy dưới ánh nắng."
+    ],
+    "Vi khuẩn có kích thước cực kỳ nhỏ bé, mắt thường không thể nhìn thấy mà phải dùng kính hiển vi."
+   ],
+   [
+    "Vi khuẩn sống ở những đâu trong tự nhiên?",
+    [
+     "Có ở khắp mọi nơi xung quanh chúng ta.",
+     "Chỉ sống ở trong không khí.",
+     "Chỉ sống ở trong môi trường nước.",
+     "Chỉ sống trong cơ thể người và động vật."
+    ],
+    "Vi khuẩn tồn tại ở khắp mọi nơi như trong đất, nước, không khí, cơ thể sinh vật và các bề mặt đồ vật."
+   ],
+   [
+    "Vi khuẩn có những hình dạng cơ bản nào?",
+    [
+     "Hình cầu, hình que, hình xoắn.",
+     "Hình vuông, hình tròn, hình tam giác.",
+     "Hình hộp, hình nón, hình cầu.",
+     "Hình sao, hình thoi, hình chữ nhật."
+    ],
+    "Các hình dạng phổ biến của vi khuẩn trong tự nhiên bao gồm hình cầu (cầu khuẩn), hình que (trực khuẩn) và hình xoắn (xoắn khuẩn)."
+   ],
+   [
+    "Yếu tố nào sau đây là vai trò có lợi của vi khuẩn?",
+    [
+     "Tham gia vào quá trình lên men thực phẩm.",
+     "Làm xơ cứng các mạch máu.",
+     "Gây hư hỏng và hôi thối thức ăn.",
+     "Gây bệnh viêm đường hô hấp ở người."
+    ],
+    "Vi khuẩn có lợi giúp lên men thực phẩm để tạo ra các món ăn như sữa chua, dưa muối, giấm."
+   ],
+   [
+    "Vi khuẩn lên men lactic được ứng dụng để chế biến món ăn nào sau đây?",
+    [
+     "Sữa chua.",
+     "Luộc rau.",
+     "Nướng cá.",
+     "Rán trứng."
+    ],
+    "Sữa chua được tạo ra nhờ quá trình lên men lactic của vi khuẩn có lợi."
+   ],
+   [
+    "Bệnh nào dưới đây do vi khuẩn gây ra ở người?",
+    [
+     "Bệnh lao phổi.",
+     "Bệnh sốt xuất huyết.",
+     "Bệnh cảm cúm.",
+     "Bệnh thuỷ đậu."
+    ],
+    "Bệnh lao phổi do vi khuẩn lao gây ra, trong khi sốt xuất huyết, cúm, thủy đậu do vi-rút gây ra."
+   ],
+   [
+    "Hành động nào giúp phòng tránh các bệnh do vi khuẩn gây ra?",
+    [
+     "Rửa tay bằng xà phòng trước khi ăn và sau khi đi vệ sinh.",
+     "Ăn thức ăn đã để lâu ngày ngoài không khí.",
+     "Thường xuyên thức khuya và ăn uống thiếu chất.",
+     "Uống nước sông, hồ chưa qua đun sôi."
+    ],
+    "Rửa tay sạch bằng xà phòng giúp loại bỏ vi khuẩn gây bệnh bám trên tay."
+   ],
+   [
+    "Tại sao thức ăn để ở nhiệt độ phòng lâu ngày thường bị ôi thiu?",
+    [
+     "Do vi khuẩn xâm nhập và phát triển làm phân hủy thức ăn.",
+     "Do ánh sáng mặt trời chiếu trực tiếp làm đổi màu.",
+     "Do không khí làm thức ăn bị biến thành nước.",
+     "Do thức ăn tự kết dính và biến đổi chất."
+    ],
+    "Vi khuẩn trong không khí xâm nhập, gặp điều kiện nhiệt độ thích hợp sẽ sinh sôi và phân hủy thức ăn gây ôi thiu."
+   ],
+   [
+    "Việc bảo quản thực phẩm trong tủ lạnh có tác dụng gì đối với vi khuẩn?",
+    [
+     "Kìm hãm sự phát triển và sinh sản của vi khuẩn.",
+     "Tiêu diệt hoàn toàn tất cả các loại vi khuẩn.",
+     "Làm cho vi khuẩn biến đổi thành vi khuẩn có lợi.",
+     "Giúp vi khuẩn phát triển nhanh chóng hơn."
+    ],
+    "Nhiệt độ thấp trong tủ lạnh chỉ kìm hãm sự sinh sản và hoạt động của vi khuẩn chứ không tiêu diệt hoàn toàn chúng."
+   ],
+   [
+    "Nước uống đun sôi để nguội có tác dụng gì trong việc phòng bệnh?",
+    [
+     "Nhiệt độ cao khi đun sôi đã tiêu diệt các vi khuẩn có hại.",
+     "Làm cho vi khuẩn biến thành các chất dinh dưỡng.",
+     "Làm cho nước có vị ngọt tự nhiên hơn.",
+     "Giúp loại bỏ hoàn toàn bụi bẩn ra khỏi nước."
+    ],
+    "Đun sôi nước đến 100 °C giúp tiêu diệt hầu hết các vi khuẩn có hại có trong nước."
+   ],
+   [
+    "Hiện tượng nào sau đây chứng tỏ vi khuẩn có vai trò phân hủy chất hữu cơ trong tự nhiên?",
+    [
+     "Lá cây mục nát biến thành phân bón cho đất.",
+     "Nước mưa rơi xuống làm trôi đá sỏi.",
+     "Mặt trời làm khô ráo đường xá.",
+     "Gió thổi làm rơi quả chín trên cây."
+    ],
+    "Vi khuẩn phân hủy cành, lá cây khô và xác động vật thành chất dinh dưỡng làm phân bón cho đất."
+   ],
+   [
+    "Vì sao chúng ta không nên ăn thức ăn đã bị ôi thiu, nấm mốc?",
+    [
+     "Vì chứa nhiều vi khuẩn có hại gây ngộ độc thực phẩm.",
+     "Vì thức ăn đó đã bị mất hết chất đạm.",
+     "Vì thức ăn đó bị cứng khó nuốt.",
+     "Vì thức ăn đó làm tăng cân nhanh chóng."
+    ],
+    "Thức ăn ôi thiu chứa lượng lớn vi khuẩn có hại và độc tố của chúng, gây đau bụng, tiêu chảy và ngộ độc."
+   ],
+   [
+    "Ý kiến nào sau đây là ĐÚNG khi nói về vi khuẩn?",
+    [
+     "Bên cạnh các vi khuẩn gây bệnh, có nhiều vi khuẩn có lợi cho con người.",
+     "Tất cả các loại vi khuẩn đều gây bệnh cho người và động vật.",
+     "Vi khuẩn chỉ xuất hiện ở những nơi mất vệ sinh.",
+     "Vi khuẩn là động vật nhỏ bé có thể nhìn bằng mắt thường."
+    ],
+    "Vi khuẩn gồm cả loại có lợi (trong tiêu hóa, chế biến thực phẩm) và loại có hại (gây bệnh)."
+   ],
+   [
+    "Bạn Nam quên đậy lồng bàn sau khi ăn cơm xong. Điều gì dễ xảy ra với thức ăn?",
+    [
+     "Ruồi nhặng bám vào mang theo vi khuẩn gây bệnh làm bẩn thức ăn.",
+     "Thức ăn sẽ giữ được độ nóng lâu hơn.",
+     "Vi khuẩn có lợi sẽ tự sinh ra nhiều hơn.",
+     "Thức ăn sẽ biến thành món ăn lên men ngon miệng."
+    ],
+    "Ruồi, nhặng đậu vào thức ăn sẽ truyền vi khuẩn gây bệnh từ môi trường bẩn vào thức ăn."
+   ],
+   [
+    "Khi làm dưa chua, vì sao người ta lại nén chặt dưa và đậy kín hũ?",
+    [
+     "Tạo điều kiện thích hợp cho vi khuẩn lên men lactic hoạt động tốt.",
+     "Để ngăn chặn ánh sáng làm dưa bị thối.",
+     "Để vi khuẩn không thể xâm nhập vào bên trong.",
+     "Giúp dưa nhanh ngấm gia vị ngọt."
+    ],
+    "Việc đậy kín giúp tạo môi trường thiếu oxy thuận lợi cho vi khuẩn lactic lên men làm chua dưa."
+   ],
+   [
+    "Mẹ dặn Bình: “Thức ăn thừa sau bữa tối phải đun lại rồi mới cất vào tủ lạnh”. Mục đích của việc đun lại là gì?",
+    [
+     "Tiêu diệt vi khuẩn đã xâm nhập vào thức ăn trong bữa ăn.",
+     "Làm cho thức ăn đông đặc nhanh hơn khi cho vào tủ lạnh.",
+     "Giúp thức ăn giữ nguyên mùi vị ban đầu.",
+     "Tăng thêm lượng vi khuẩn có lợi cho tiêu hóa."
+    ],
+    "Đun sôi lại thức ăn giúp tiêu diệt các vi khuẩn đã rơi vào thức ăn trong quá trình sử dụng."
+   ],
+   [
+    "Sau khi đi đá bóng về, tay bẩn nhưng An vội cầm bánh mì ăn ngay. Hành động này có nguy cơ gì?",
+    [
+     "Dễ đưa vi khuẩn có hại từ tay vào cơ thể gây bệnh đường tiêu hóa.",
+     "Làm bánh mì bị mất đi chất dinh dưỡng.",
+     "Giúp cơ thể nhanh chóng hấp thụ thức ăn hơn.",
+     "Làm cho tay An trở nên sạch sẽ hơn."
+    ],
+    "Tay bẩn dính nhiều vi khuẩn, cầm trực tiếp thức ăn sẽ đưa vi khuẩn vào đường ruột gây đau bụng, tiêu chảy."
+   ],
+   [
+    "Để làm sữa chua tại nhà, vì sao cần cho một hộp sữa chua cái (sữa chua mồi) vào hỗn hợp sữa ấm?",
+    [
+     "Cung cấp vi khuẩn lên men lactic có sẵn để chúng nhân lên.",
+     "Tạo màu trắng đẹp mắt cho hũ sữa chua.",
+     "Làm cho hỗn hợp sữa nguội đi nhanh chóng.",
+     "Tiêu diệt các vi khuẩn có hại có trong sữa."
+    ],
+    "Sữa chua mồi chứa sẵn các vi khuẩn lactic có lợi, khi gặp nhiệt độ ấm thích hợp sẽ sinh sôi và lên men toàn bộ hũ sữa."
+   ],
+   [
+    "Bác sĩ khuyên không nên tự ý mua thuốc kháng sinh để uống khi bị bệnh. Nguyên nhân chính là gì?",
+    [
+     "Dùng sai thuốc có thể làm vi khuẩn kháng thuốc và gây hại sức khỏe.",
+     "Kháng sinh sẽ tiêu diệt hết tất cả vi khuẩn có lợi trong dạ dày ngay lập tức.",
+     "Thuốc kháng sinh làm giảm sức đề kháng hoàn toàn.",
+     "Kháng sinh chỉ có tác dụng tiêu diệt vi-rút chứ không tác dụng với vi khuẩn."
+    ],
+    "Việc tự ý dùng kháng sinh không đúng liều lượng hoặc không đúng bệnh có thể dẫn đến hiện tượng vi khuẩn kháng thuốc."
+   ],
+   [
+    "Bạn Hà thấy bạn mình bị ho và sốt do nhiễm khuẩn đường hô hấp. Hà nên làm gì để tránh bị lây bệnh?",
+    [
+     "Đeo khẩu trang và giữ khoảng cách an toàn khi tiếp xúc.",
+     "Đến ôm bạn để khuyên bạn cố gắng vượt qua.",
+     "Dùng chung ly nước với bạn để tỏ lòng thân thiết.",
+     "Mở cửa sổ thật to và ngồi sát cạnh bạn."
+    ],
+    "Đeo khẩu trang và giữ khoảng cách giúp ngăn chặn vi khuẩn truyền qua các giọt bắn khi bạn ho hoặc bắn nước dịch."
+   ],
+   [
+    "Vi khuẩn thuộc nhóm sinh vật nào khi xét về cấu tạo tế bào?",
+    [
+     "Sinh vật chưa có nhân hoàn chỉnh",
+     "Sinh vật đã có nhân chính thức",
+     "Sinh vật đa bào kích thước lớn",
+     "Sinh vật không chứa vật chất di truyền"
+    ],
+    "Vi khuẩn là những sinh vật có kích thước rất nhỏ bé, thuộc nhóm sinh vật đơn bào và tế bào chưa có nhân hoàn chỉnh."
+   ],
+   [
+    "Phát biểu nào sau đây ĐÚNG khi nói về đặc điểm cấu tạo của vi khuẩn?",
+    [
+     "Hầu hết vi khuẩn là sinh vật đơn bào, mắt thường không nhìn thấy được",
+     "Vi khuẩn là sinh vật đa bào cấu tạo từ rất nhiều tế bào khác nhau",
+     "Tất cả các loài vi khuẩn đều có khả năng tự tổng hợp chất dinh dưỡng",
+     "Vi khuẩn chỉ sống được trong cơ thể người và động vật"
+    ],
+    "Vi khuẩn có cấu tạo đơn bào rất nhỏ bé, chỉ quan sát được dưới kính hiển vi và không tự tổng hợp được chất dinh dưỡng như thực vật."
+   ],
+   [
+    "Môi trường nào sau đây KHÔNG phải là nơi sống của vi khuẩn?",
+    [
+     "Không gian ngoài vũ trụ không có khí quyển",
+     "Trong đất ẩm và nguồn nước tự nhiên",
+     "Trên bề mặt các đồ vật xung quanh ta",
+     "Bên trong cơ thể người và động vật"
+    ],
+    "Vi khuẩn có ở khắp mọi nơi trên Trái Đất nhưng không thể tồn tại ở ngoài không gian vũ trụ do thiếu điều kiện sống."
+   ],
+   [
+    "Hình dạng phổ biến của vi khuẩn thường gặp là gì?",
+    [
+     "Hình que, hình cầu, hình xoắn",
+     "Hình ngôi sao, hình tròn, hình trụ",
+     "Hình tam giác, hình bầu dục, hình vuông",
+     "Hình chiếc lá, hình ống, hình hạt"
+    ],
+    "Trong tự nhiên, vi khuẩn tồn tại ở ba hình dạng cơ bản là hình que, hình cầu và hình xoắn."
+   ],
+   [
+    "Quá trình nào sau đây có sự tham gia trực tiếp của vi khuẩn có ích?",
+    [
+     "Làm sữa chua từ sữa tươi",
+     "Làm khô quần áo dưới ánh nắng",
+     "Đun sôi nước uống để nguội",
+     "Phơi khô thóc lúa ngoài sân"
+    ],
+    "Vi khuẩn lactic được sử dụng để lên men sữa tươi thành sữa chua."
+   ],
+   [
+    "Trong cơ thể người, hệ cơ quan nào thường chịu ảnh hưởng nhiều nhất khi bị vi khuẩn có hại tấn công gây bệnh tiêu chảy?",
+    [
+     "Hệ tiêu hóa",
+     "Hệ hô hấp",
+     "Hệ tuần hoàn",
+     "Hệ thần kinh"
+    ],
+    "Vi khuẩn có hại khi xâm nhập vào đường tiêu hóa sẽ gây ra các bệnh như tiêu chảy, đau bụng."
+   ],
+   [
+    "Vi khuẩn tham gia vào quá trình tự nhiên nào giúp làm sạch môi trường đất?",
+    [
+     "Phân hủy các chất hữu cơ thành chất vô cơ",
+     "Tổng hợp chất hữu cơ từ ánh sáng mặt trời",
+     "Bay hơi nước từ các ao hồ sông suối",
+     "Làm biến đổi màu sắc của đất trồng"
+    ],
+    "Vi khuẩn đóng vai trò là những sinh vật phân giải, giúp biến đổi xác sinh vật và chất thải thành chất dinh dưỡng cho cây."
+   ],
+   [
+    "Khi muối dưa hành, người ta thường cho thêm một ít nước muối loãng và đường. Vai trò của đường trong quá trình này là gì?",
+    [
+     "Thức ăn cho vi khuẩn lên men phát triển",
+     "Giúp dưa có màu xanh tự nhiên lâu hơn",
+     "Làm cho nước dưa có màu trắng đục",
+     "Ngăn cản hoàn toàn sự phát triển của vi khuẩn"
+    ],
+    "Đường cung cấp chất dinh dưỡng để vi khuẩn lactic sinh trưởng và thực hiện quá trình lên men chua."
+   ],
+   [
+    "Hành động nào sau đây giúp em bảo vệ bản thân khỏi các bệnh do vi khuẩn đường ruột?",
+    [
+     "Rửa tay sạch bằng xà phòng trước khi ăn",
+     "Uống nước lã trực tiếp từ vòi nước máy",
+     "Ăn thức ăn để qua đêm không đậy kín",
+     "Dùng chung khăn mặt với người đang ốm"
+    ],
+    "Rửa tay với xà phòng giúp loại bỏ vi khuẩn bám trên tay, ngăn không cho chúng xâm nhập vào cơ thể qua đường ăn uống."
+   ],
+   [
+    "Vì sao thực phẩm tươi sống nếu để ở nhiệt độ phòng trong thời gian dài sẽ có mùi hôi khó chịu?",
+    [
+     "Do vi khuẩn sinh sôi mạnh mẽ làm thối rữa thực phẩm",
+     "Do thực phẩm tự hóa hơi dưới tác động của gió",
+     "Do không khí bên ngoài biến thành chất độc",
+     "Do nhiệt độ phòng làm thực phẩm bị chín quá mức"
+    ],
+    "Vi khuẩn phân hủy chất hữu cơ trong thực phẩm, làm thức ăn bị ôi thiu và sinh ra mùi hôi."
+   ],
+   [
+    "Lan thấy củ khoai tây để trong góc bếp ẩm ướt lâu ngày bắt đầu mềm nhũn và có mùi lạ. Nguyên nhân chính là gì?",
+    [
+     "Vi khuẩn và nấm mốc đã xâm nhập và phân hủy củ khoai",
+     "Củ khoai tây tự phát triển thành cây non quá nhanh",
+     "Ánh sáng trong góc bếp làm củ khoai bị biến chất",
+     "Không khí khô hạn làm củ khoai bị héo đi"
+    ],
+    "Độ ẩm cao tạo điều kiện cho vi khuẩn và nấm mốc phát triển, phân hủy các chất trong củ khoai tây."
+   ],
+   [
+    "Một bạn học sinh nói rằng: “Tất cả các loài vi khuẩn sống xung quanh chúng ta đều là tác nhân gây bệnh nguy hiểm”. Nhận định này đúng hay sai?",
+    [
+     "Sai, vì có rất nhiều loài vi khuẩn có ích đối với con người và tự nhiên",
+     "Đúng, vì vi khuẩn nào cũng mang lại tác hại cho sức khỏe",
+     "Sai, vì vi khuẩn chỉ sống trong đất chứ không sống quanh ta",
+     "Đúng, vì chúng ta không thể nhìn thấy chúng bằng mắt thường"
+    ],
+    "Không phải vi khuẩn nào cũng có hại; rất nhiều loài có ích trong sản xuất thực phẩm, tiêu hóa và phân hủy chất thải."
+   ],
+   [
+    "Mẹ mua thịt lợn về và chưa nấu ngay. Việc mẹ cất ngay vào ngăn đá tủ lạnh nhằm mục đích chủ yếu nào?",
+    [
+     "Làm chậm sự phát triển và hoạt động của vi khuẩn",
+     "Tiêu diệt hoàn toàn 100% vi khuẩn có trong thịt",
+     "Giúp thịt lợn chín từ từ bên trong tủ lạnh",
+     "Làm cho miếng thịt mềm hơn khi đem nấu"
+    ],
+    "Nhiệt độ thấp trong tủ lạnh chỉ kìm hãm sự phát triển của vi khuẩn chứ không tiêu diệt hoàn toàn chúng."
+   ],
+   [
+    "Khi bị ho do viêm họng do vi khuẩn, việc tự ý mua thuốc kháng sinh uống khi chưa có chỉ định của bác sĩ có thể dẫn đến hậu quả gì?",
+    [
+     "Gây ra hiện tượng kháng thuốc và làm bệnh khó chữa hơn",
+     "Giúp cơ thể khỏi bệnh ngay lập tức trong vài phút",
+     "Làm tăng số lượng vi khuẩn có lợi trong cổ họng",
+     "Không gây ra bất kỳ ảnh hưởng nào đến sức khỏe"
+    ],
+    "Lạm dụng kháng sinh hoặc dùng không đúng cách sẽ khiến vi khuẩn nhờn thuốc, kháng thuốc, gây khó khăn cho việc điều trị sau này."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện việc ứng dụng kiến thức về vi khuẩn vào đời sống hằng ngày?",
+    [
+     "Đậy kín thức ăn vừa nấu chín khi để nguội",
+     "Phơi quần áo ở nơi ẩm thấp thiếu ánh nắng",
+     "Để rau sống chưa rửa ngâm nước qua đêm",
+     "Mở nắp hũ dưa chua liên tục khi đang muối"
+    ],
+    "Đậy kín thức ăn giúp ngăn chặn bụi bẩn và ruồi muỗi mang vi khuẩn tiếp xúc với thức ăn."
+   ],
+   [
+    "Tại sao các bác sĩ luôn khuyên chúng ta phải ăn chín, uống sôi?",
+    [
+     "Nhiệt độ cao khi đun nấu sẽ tiêu diệt phần lớn vi khuẩn gây bệnh",
+     "Làm cho thức ăn có mùi vị thơm ngon và đậm đà hơn",
+     "Giúp cơ thể hấp thụ được nhiều vitamin hơn",
+     "Làm giảm lượng chất béo có hại trong thức ăn"
+    ],
+    "Nhiệt độ sôi của nước và nhiệt độ nấu chín thức ăn có khả năng tiêu diệt đa số các loại vi khuẩn gây bệnh."
+   ],
+   [
+    "Vì sao rác thải hữu cơ như vỏ trái cây, rau thừa khi chôn xuống đất sau một thời gian sẽ biến mất?",
+    [
+     "Do vi khuẩn và sinh vật trong đất phân hủy thành đất mùn",
+     "Do nước ngầm dưới đất cuốn trôi đi nơi khác",
+     "Do áp lực của lớp đất phía trên nén chặt lại",
+     "Do ánh sáng mặt trời chiếu xuống làm rác bốc hơi"
+    ],
+    "Vi khuẩn trong đất đóng vai trò phân giải rác thải hữu cơ thành các chất dinh dưỡng trả lại cho đất."
+   ],
+   [
+    "Bạn Minh muốn làm sữa chua cho gia đình thưởng thức. Sau khi khuấy đều sữa đặc, sữa tươi và sữa chua mồi, Minh nên ủ ấm hỗn hợp này ở nhiệt độ vừa phải thay vì để trong tủ lạnh vì lý do gì?",
+    [
+     "Nhiệt độ ấm giúp vi khuẩn lactic trong sữa mồi sinh trưởng mạnh",
+     "Nhiệt độ lạnh kích thích vi khuẩn làm chua sữa nhanh hơn",
+     "Sữa sẽ bị đóng băng nếu để ở nhiệt độ phòng",
+     "Vi khuẩn lactic chỉ sống được ở nhiệt độ cao trên 80 độ C"
+    ],
+    "Vi khuẩn lactic cần nhiệt độ ấm áp để phát triển và thực hiện quá trình lên men tạo ra sữa chua."
+   ],
+   [
+    "Trường hợp nào dưới đây cho thấy vi khuẩn có ích đối với hệ tiêu hóa của con người?",
+    [
+     "Vi khuẩn đường ruột hỗ trợ tiêu hóa thức ăn và tổng hợp vitamin",
+     "Vi khuẩn bám trên răng tạo ra các mảng bám gây sâu răng",
+     "Vi khuẩn xâm nhập qua vết thương hở gây nhiễm trùng da",
+     "Vi khuẩn trong nước không đun sôi gây đau bụng khẩn cấp"
+    ],
+    "Trong hệ tiêu hóa của người có các lợi khuẩn giúp hỗ trợ quá trình tiêu hóa thức ăn và cung cấp một số vitamin cần thiết."
+   ],
+   [
+    "Nếu gia đình em quên cất nồi canh cua vào tủ lạnh trong một ngày nắng nóng, hiện tượng gì sẽ xảy ra với nồi canh vào hôm sau?",
+    [
+     "Canh bị thiu, sủi bọt và có mùi chua do vi khuẩn phân hủy",
+     "Canh tự động cô đặc lại thành một khối đặc quánh",
+     "Canh trở nên thơm ngon và ngọt hơn nhờ quá trình lên men",
+     "Canh không thay đổi chất lượng vì trời nắng to"
+    ],
+    "Nhiệt độ nóng là điều kiện lý tưởng để vi khuẩn xâm nhập và phân hủy canh cua, khiến canh bị ôi thiu nhanh chóng."
+   ]
+  ]
+ }
+}

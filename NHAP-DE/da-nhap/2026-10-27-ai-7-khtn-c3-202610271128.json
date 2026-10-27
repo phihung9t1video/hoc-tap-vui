@@ -1,0 +1,206 @@
+{
+ "7-khtn": {
+  "c3": [
+   [
+    "Để xác định tốc độ chuyển động của một vật theo thời gian trong phòng thực hành, bộ dụng cụ nào sau đây là phù hợp nhất?",
+    [
+     "Thước mét và đồng hồ bấm giây",
+     "Chỉ có thước kẻ ngắn",
+     "Chỉ có đồng hồ đeo tay",
+     "Cân điện tử và nhiệt kế"
+    ],
+    "Để tính tốc độ, ta cần đo quãng đường bằng thước và thời gian bằng đồng hồ bấm giây."
+   ],
+   [
+    "Khi ô tô đang chuyển động trên đường, người lái xe nhìn vào tốc kế (đồng hồ đo tốc độ) và thấy kim chỉ số 60. Số này cho biết điều gì?",
+    [
+     "Tốc độ tức thời của ô tô tại thời điểm đó là 60 km/h",
+     "Quãng đường ô tô đi được luôn là 60 km",
+     "Thời gian đi hết quãng đường là 60 phút",
+     "Tốc độ trung bình từ lúc xuất phát là 60 m/s"
+    ],
+    "Tốc kế trên xe cho biết tốc độ chuyển động của xe tại thời điểm quan sát, gọi là tốc độ tức thời."
+   ],
+   [
+    "Trên đồ thị quãng đường - thời gian, trục hoành (trục nằm ngang) thường dùng để biểu diễn đại lượng nào?",
+    [
+     "Thời gian",
+     "Quãng đường",
+     "Tốc độ",
+     "Lực tác dụng"
+    ],
+    "Quy ước vẽ đồ thị quãng đường - thời gian là trục hoành biểu diễn thời gian t, trục tung biểu diễn quãng đường s."
+   ],
+   [
+    "Một người đi xe buýt xuất phát lúc 7 giờ và đến bến lúc 9 giờ. Biết quãng đường xe đi dài 120 km. Tốc độ của xe buýt là:",
+    [
+     "60 km/h",
+     "120 km/h",
+     "30 km/h",
+     "240 km/h"
+    ],
+    "Thời gian đi là 9 giờ trừ 7 giờ bằng 2 giờ. Tốc độ là v = 120 / 2 = 60 km/h."
+   ],
+   [
+    "Biển báo “Tốc độ tối đa” có dạng hình gì và màu sắc đặc trưng như thế nào?",
+    [
+     "Hình tròn, viền đỏ, nền trắng, số màu đen",
+     "Hình tam giác, viền đỏ, nền vàng",
+     "Hình chữ nhật, nền xanh, chữ trắng",
+     "Hình vuông, nền xanh, hình vẽ trắng"
+    ],
+    "Biển báo cấm và hạn chế tốc độ tối đa theo quy định giao thông có dạng hình tròn, viền đỏ, nền trắng."
+   ],
+   [
+    "Một con báo chạy với tốc độ 20 m/s. Trong thời gian 10 giây, con báo chạy được quãng đường là:",
+    [
+     "200 m",
+     "2 m",
+     "100 m",
+     "2000 m"
+    ],
+    "Quãng đường tính bằng công thức s = v nhân t = 20 nhân 10 = 200 m."
+   ],
+   [
+    "Biết tốc độ của ánh sáng trong không khí khoảng 300000 km/s. Ánh sáng đi được quãng đường 900000 km trong thời gian bao lâu?",
+    [
+     "3 s",
+     "0,3 s",
+     "30 s",
+     "2700000 s"
+    ],
+    "Thời gian t = s / v = 900000 / 300000 = 3 s."
+   ],
+   [
+    "Ý nghĩa của câu nói “Tốc độ của xe máy là 45 km/h” là gì?",
+    [
+     "Trong thời gian 1 giờ, xe máy đi được quãng đường 45 km",
+     "Xe máy đi quãng đường 1 km hết 45 giờ",
+     "Mỗi phút xe máy đi được 45 km",
+     "Xe máy đi 45 giờ thì được 1 km"
+    ],
+    "Tốc độ 45 km/h cho biết quãng đường đi được trong thời gian 1 giờ là 45 km."
+   ],
+   [
+    "Đồ thị quãng đường - thời gian của một vật có dạng là một đường thẳng đi qua gốc tọa độ. Điều đó chứng tỏ vật đang chuyển động như thế nào?",
+    [
+     "Chuyển động đều",
+     "Chuyển động nhanh dần",
+     "Chuyển động chậm dần",
+     "Đứng yên"
+    ],
+    "Đồ thị quãng đường - thời gian là đường thẳng xuất phát từ gốc tọa độ biểu diễn vật chuyển động đều."
+   ],
+   [
+    "Hai vật A và B chuyển động trên cùng một đường thẳng. Vật A đi hết 60 km trong 45 phút. Vật B đi hết 90 km trong 1,5 giờ. Nhận xét nào sau đây đúng?",
+    [
+     "Vật A đi nhanh hơn vật B",
+     "Vật B đi nhanh hơn vật A",
+     "Hai vật chuyển động nhanh như nhau",
+     "Không so sánh được vì đơn vị khác nhau"
+    ],
+    "Đổi 45 phút = 0,75 giờ. Tốc độ vật A là 60 / 0,75 = 80 km/h. Tốc độ vật B là 90 / 1,5 = 60 km/h. Vậy A đi nhanh hơn B."
+   ],
+   [
+    "Một người đi xe đạp trong 20 phút đầu đi được 4 km, trong 40 phút tiếp theo đi được 12 km. Tốc độ trung bình của xe đạp trên cả quãng đường là:",
+    [
+     "16 km/h",
+     "12 km/h",
+     "8 km/h",
+     "24 km/h"
+    ],
+    "Tổng quãng đường là 4 + 12 = 16 km. Tổng thời gian là 20 + 40 = 60 phút = 1 giờ. Tốc độ trung bình là 16 / 1 = 16 km/h."
+   ],
+   [
+    "Trên đồ thị quãng đường - thời gian, nếu đoạn thẳng biểu diễn chuyển động nằm song song với trục hoành thì vật đang ở trạng thái nào?",
+    [
+     "Đứng yên không di chuyển",
+     "Chuyển động thẳng đều",
+     "Chuyển động nhanh dần",
+     "Chuyển động chậm dần"
+    ],
+    "Đoạn thẳng nằm ngang song song với trục thời gian nghĩa là thời gian trôi đi nhưng quãng đường không thay đổi, tức là vật đứng yên."
+   ],
+   [
+    "Một canô chạy ngược dòng sông từ bến A đến bến B cách nhau 36 km hết 2 giờ. Khi chạy xuôi dòng từ B về A, canô chỉ mất 1 giờ 30 phút. Tốc độ của canô khi chạy xuôi dòng là:",
+    [
+     "24 km/h",
+     "18 km/h",
+     "36 km/h",
+     "20 km/h"
+    ],
+    "Đổi 1 giờ 30 phút = 1,5 giờ. Tốc độ xuôi dòng bằng quãng đường chia thời gian xuôi dòng: 36 / 1,5 = 24 km/h."
+   ],
+   [
+    "Một vận động viên đua xe đạp hoàn thành chặng đua dài 45 km với tốc độ trung bình 36 km/h. Thời gian vận động viên đó về đích tính từ lúc xuất phát là:",
+    [
+     "1 giờ 15 phút",
+     "1 giờ 20 phút",
+     "1 giờ 30 phút",
+     "45 phút"
+    ],
+    "Thời gian t = s / v = 45 / 36 = 1,25 giờ. Đổi 0,25 giờ ra phút bằng 15 phút, tổng cộng là 1 giờ 15 phút."
+   ],
+   [
+    "Một đoàn tàu dài 100 m chạy với tốc độ 36 km/h vượt qua một cái cầu dài 400 m. Thời gian để tàu vượt qua hoàn toàn cây cầu là:",
+    [
+     "50 s",
+     "40 s",
+     "10 s",
+     "30 s"
+    ],
+    "Đổi 36 km/h = 10 m/s. Tổng quãng đường tàu đi để qua hoàn toàn cầu là 100 + 400 = 500 m. Thời gian t = 500 / 10 = 50 s."
+   ],
+   [
+    "Một ô tô đi nửa quãng đường đầu với tốc độ 40 km/h và nửa quãng đường còn lại với tốc độ 60 km/h. Tốc độ trung bình trên cả quãng đường là:",
+    [
+     "48 km/h",
+     "50 km/h",
+     "55 km/h",
+     "45 km/h"
+    ],
+    "Áp dụng công thức tốc độ trung bình cho nửa quãng đường: v_tb = 2 nhân v1 nhân v2 / (v1 + v2) = (2 nhân 40 nhân 60) / 100 = 48 km/h."
+   ],
+   [
+    "Khoảng cách từ nhà Nam đến trường là 3,6 km. Nam đi xe đạp từ nhà lúc 6 giờ 30 phút và đến trường lúc 6 giờ 42 phút. Tốc độ chuyển động của Nam là:",
+    [
+     "5 m/s",
+     "3,6 m/s",
+     "18 m/s",
+     "12 m/s"
+    ],
+    "Thời gian đi là 12 phút = 720 s. Quãng đường 3,6 km = 3600 m. Tốc độ v = 3600 / 720 = 5 m/s."
+   ],
+   [
+    "Lúc 8 giờ, một người đi xe máy khởi hành từ A đi về B với tốc độ 40 km/h. Cùng lúc đó, một ô tô đi từ B về A với tốc độ 60 km/h. Biết quãng đường AB bằng 150 km. Hai xe gặp nhau lúc mấy giờ?",
+    [
+     "9 giờ 30 phút",
+     "9 giờ",
+     "10 giờ",
+     "9 giờ 45 phút"
+    ],
+    "Thời gian hai xe gặp nhau là t = AB / (v1 + v2) = 150 / (40 + 60) = 1,5 giờ = 1 giờ 30 phút. Thời điểm gặp nhau là 8 giờ + 1 giờ 30 phút = 9 giờ 30 phút."
+   ],
+   [
+    "Công thức nào sau đây dùng để tính tốc độ v của một chuyển động khi biết quãng đường s và thời gian t?",
+    [
+     "v = s / t",
+     "v = s x t",
+     "v = t / s",
+     "v = s + t"
+    ],
+    "Tốc độ được tính bằng quãng đường đi được chia cho thời gian đi quãng đường đó."
+   ],
+   [
+    "Đổi tốc độ 72 km/h ra đơn vị mét trên giây (m/s) ta được kết quả là bao nhiêu?",
+    [
+     "20 m/s",
+     "72 m/s",
+     "200 m/s",
+     "25 m/s"
+    ],
+    "Để đổi từ km/h sang m/s, ta chia số đó cho 3,6. Ta có 72 chia cho 3,6 bằng 20 m/s."
+   ]
+  ]
+ }
+}

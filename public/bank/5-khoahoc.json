@@ -1,0 +1,2414 @@
+{
+ "c1": [
+  [
+   "1. Vật nào sau đây được làm từ chất lỏng ở điều kiện thường?",
+   [
+    "Nước khoáng",
+    "Cục sắt",
+    "Ghế gỗ",
+    "Viên đá"
+   ],
+   "Nước khoáng là chất lỏng ở điều kiện thường, còn sắt, gỗ, đá là chất rắn."
+  ],
+  [
+   "2. Tính chất nào dưới đây là của chất rắn?",
+   [
+    "Có hình dạng cố định",
+    "Không có hình dạng nhất định",
+    "Chiếm toàn bộ thể tích vật chứa",
+    "Dễ dàng chảy lan ra"
+   ],
+   "Chất rắn có hình dạng xác định và khó bị nén."
+  ],
+  [
+   "3. Chất khí có đặc điểm gì về hình dạng và thể tích?",
+   [
+    "Không có hình dạng cố định và chiếm toàn bộ thể tích vật chứa",
+    "Có hình dạng cố định nhưng không có thể tích xác định",
+    "Có cả hình dạng và thể tích cố định",
+    "Không có hình dạng và thể tích xác định"
+   ],
+   "Chất khí không có hình dạng cố định và luôn chiếm toàn bộ thể tích của vật chứa nó."
+  ],
+  [
+   "4. Hiện tượng nước từ thể lỏng chuyển thành thể hơi gọi là gì?",
+   [
+    "Sự bay hơi",
+    "Sự ngưng tụ",
+    "Sự đông đặc",
+    "Sự nóng chảy"
+   ],
+   "Sự bay hơi là quá trình chất lỏng chuyển thành thể hơi."
+  ],
+  [
+   "5. Khi cho muối ăn vào nước và khuấy đều, ta thu được gì?",
+   [
+    "Dung dịch nước muối",
+    "Hỗn hợp không đồng nhất",
+    "Chất rắn mới",
+    "Chất khí mới"
+   ],
+   "Muối tan hoàn toàn trong nước tạo thành dung dịch nước muối đồng nhất."
+  ],
+  [
+   "6. Quá trình nào sau đây làm cho nước từ thể lỏng chuyển thành thể rắn?",
+   [
+    "Sự đông đặc",
+    "Sự bay hơi",
+    "Sự nóng chảy",
+    "Sự ngưng tụ"
+   ],
+   "Khi hạ nhiệt độ xuống thấp, nước lỏng sẽ đông đặc thành nước đá."
+  ],
+  [
+   "7. Sương mù xuất hiện vào buổi sáng sớm là kết quả của quá trình nào?",
+   [
+    "Sự ngưng tụ",
+    "Sự bay hơi",
+    "Sự đông đặc",
+    "Sự nóng chảy"
+   ],
+   "Hơi nước trong không khí gặp lạnh ngưng tụ thành những hạt nước nhỏ li ti tạo thành sương mù."
+  ],
+  [
+   "8. Đâu là ví dụ về sự biến đổi lý học của chất?",
+   [
+    "Nước đá tan thành nước lỏng",
+    "Cơm bị ôi thiu",
+    "Thanh sắt bị gỉ sét",
+    "Đốt cháy một mẩu giấy"
+   ],
+   "Nước đá tan chỉ đổi trạng thái, không tạo ra chất mới nên đây là biến đổi lý học."
+  ],
+  [
+   "9. Trường hợp nào sau đây xảy ra sự biến đổi hóa học?",
+   [
+    "Thịt để ngoài trời bị thiu",
+    "Hòa tan đường vào nước",
+    "Thủy tinh bị đập vỡ",
+    "Dầu ăn bị đông đặc"
+   ],
+   "Thịt bị thiu tạo ra chất mới có mùi khó chịu, đây là sự biến đổi hóa học."
+  ],
+  [
+   "10. Vì sao người ta thường làm đường ray tàu hỏa có các khe hở nhỏ giữa các thanh ray?",
+   [
+    "Vì đường ray bị giãn nở khi thời tiết nóng",
+    "Vì tiết kiệm nguyên liệu làm đường ray",
+    "Vì giúp tàu chạy êm hơn",
+    "Vì nước mưa dễ thoát đi"
+   ],
+   "Các thanh ray cần có khe hở để chất rắn giãn nở khi nhiệt độ tăng vào mùa hè."
+  ],
+  [
+   "11. Phát biểu nào sau đây đúng khi nói về tính chất của nước tinh khiết?",
+   [
+    "Không màu, không mùi, không vị, không có hình dạng nhất định",
+    "Có màu trắng đục, có mùi thơm nhẹ",
+    "Có vị ngọt dịu và có hình dạng cố định",
+    "Luôn ở thể rắn khi ở nhiệt độ phòng"
+   ],
+   "Nước tinh khiết là chất lỏng không màu, không mùi, không vị và không có hình dạng cố định."
+  ],
+  [
+   "12. Hỗn hợp nào sau đây có thể tách các chất ra bằng cách lọc?",
+   [
+    "Cát và nước",
+    "Muối ăn và nước",
+    "Đường và nước",
+    "Giấm và nước"
+   ],
+   "Cát không tan trong nước nên có thể dùng phễu lọc để giữ cát lại."
+  ],
+  [
+   "13. Để bảo quản thức ăn khỏi bị ôi thiu (vi khuẩn phát triển), người ta thường dùng phương pháp nào?",
+   [
+    "Để vào tủ lạnh",
+    "Để ở nơi ấm áp",
+    "Đậy kín rồi để ngoài nắng",
+    "Phơi trực tiếp dưới mưa"
+   ],
+   "Nhiệt độ thấp trong tủ lạnh làm chậm quá trình biến đổi hóa học và sự phát triển của vi khuẩn."
+  ],
+  [
+   "14. Khi đun sôi nước, ta thấy có những bọt khí nổi lên và hơi nước bốc lên. Hiện tượng này gồm những quá trình nào?",
+   [
+    "Bay hơi và sôi",
+    "Đông đặc và ngưng tụ",
+    "Nóng chảy và đông đặc",
+    "Ngưng tụ và bay hơi"
+   ],
+   "Nước chuyển từ lỏng sang hơi khi sôi và bay hơi."
+  ],
+  [
+   "15. Tại sao các nồi nấu ăn thường làm bằng kim loại như nhôm, inox?",
+   [
+    "Vì kim loại dẫn nhiệt tốt",
+    "Vì kim loại rất nhẹ và rẻ tiền",
+    "Vì kim loại không bị gỉ sét bao giờ",
+    "Vì kim loại có màu sắc đẹp"
+   ],
+   "Kim loại dẫn nhiệt tốt giúp thức ăn nhanh chín."
+  ],
+  [
+   "16. Một bạn học sinh để quên một cốc nước đá trên bàn, sau một thời gian thấy xung quanh thành cốc có những giọt nước nhỏ bám vào. Những giọt nước đó từ đâu tới?",
+   [
+    "Hơi nước trong không khí ngưng tụ lại",
+    "Nước trong cốc thấm qua thành cốc ra ngoài",
+    "Nước mưa từ ngoài bay vào nhà",
+    "Cốc nước tự sinh ra nước mới"
+   ],
+   "Hơi nước trong không khí gặp thành cốc lạnh nên ngưng tụ thành các giọt nước."
+  ],
+  [
+   "17. Việc làm nào dưới đây góp phần tiết kiệm chất đốt và bảo vệ môi trường?",
+   [
+    "Sử dụng nồi áp suất để nấu chín thức ăn nhanh hơn",
+    "Đun bếp than tổ ong liên tục cả ngày",
+    "Đốt rơm rạ ngay trên cánh đồng",
+    "Vứt pin cũ xuống ao hồ"
+   ],
+   "Nồi áp suất giúp nấu nhanh, tiết kiệm nhiên liệu và giảm khói bụi."
+  ],
+  [
+   "18. Bạn Nam trộn đều bột mì với nước. Theo em, Nam đã tạo ra được gì?",
+   [
+    "Một hỗn hợp sền sệt",
+    "Một dung dịch đồng nhất",
+    "Một chất khí mới hoàn toàn",
+    "Một chất rắn tinh khiết"
+   ],
+   "Bột mì không tan hoàn toàn trong nước mà tạo thành hỗn hợp sền sệt."
+  ],
+  [
+   "19. Khi làm kem trái cây, người ta cho hỗn hợp sữa và quả xay nhuyễn vào ngăn đá tủ lạnh. Quá trình này dựa vào tính chất nào?",
+   [
+    "Chất lỏng chuyển thành chất rắn khi gặp nhiệt độ thấp",
+    "Chất rắn biến thành chất khí khi gặp lạnh",
+    "Chất khí bay hơi nhanh ở nhiệt độ thấp",
+    "Chất lỏng tự bốc hơi hết thành khí"
+   ],
+   "Nhiệt độ thấp làm hỗn hợp lỏng đông đặc lại thành kem."
+  ],
+  [
+   "20. Hành động nào sau đây thể hiện việc sử dụng hợp lý các nguồn tài nguyên chất ở nhà?",
+   [
+    "Khóa chặt vòi nước khi không sử dụng",
+    "Bật đèn sáng khắp nhà cả ngày lẫn đêm",
+    "Xả rác thải nhựa trực tiếp ra sông ngòi",
+    "Dùng túi ni lông bừa bãi mỗi khi đi chợ"
+   ],
+   "Khóa vòi nước giúp tiết kiệm tài nguyên nước sạch cho gia đình và xã hội."
+  ],
+  [
+   "Vật thể tự nhiên nào sau đây cấu tạo chủ yếu từ chất rắn ở điều kiện thường?",
+   [
+    "Hòn đá cuội",
+    "Giọt nước mưa",
+    "Đám mây trên trời",
+    "Luồng hơi nước"
+   ],
+   "Hòn đá cuội là vật thể tự nhiên tồn tại ở thể rắn, có hình dạng cố định."
+  ],
+  [
+   "Chất rắn có đặc điểm cơ bản nào sau đây?",
+   [
+    "Có hình dạng cố định và chiếm một thể tích nhất định",
+    "Không có hình dạng xác định, luôn chiếm toàn bộ thể tích vật chứa",
+    "Có thể dễ dàng chảy tràn và lan rộng trên bề mặt phẳng",
+    "Luôn có thể bị nén lại rất nhỏ khi tác dụng lực"
+   ],
+   "Chất rắn có hình dạng xác định và khó thay đổi hình dạng nếu không có lực tác động lớn."
+  ],
+  [
+   "Đặc điểm nào dưới đây là của chất khí?",
+   [
+    "Không có hình dạng cố định, chiếm toàn bộ thể tích vật chứa",
+    "Có hình dạng riêng nhưng thể tích thay đổi liên tục",
+    "Có thể cầm nắm được bằng tay và giữ nguyên thể tích",
+    "Luôn giữ nguyên hình dạng dù ở trong bất kỳ vật chứa nào"
+   ],
+   "Chất khí không có hình dạng cố định và luôn bay chiếm toàn bộ không gian của vật chứa nó."
+  ],
+  [
+   "Hiện tượng nước từ thể lỏng chuyển thành thể rắn xảy ra khi nào?",
+   [
+    "Đặt nước lỏng vào ngăn đá tủ lạnh trong thời gian đủ dài",
+    "Đun sôi nước lỏng liên tục trên bếp ở nhiệt độ cao",
+    "Để cốc nước lỏng ở ngoài không gian thoáng mát, nhiều gió",
+    "Đổ nước lỏng từ cốc này sang một chiếc ca lớn hơn"
+   ],
+   "Khi nhiệt độ hạ xuống thấp (như trong ngăn đá), nước lỏng sẽ đông đặc thành nước đá ở thể rắn."
+  ],
+  [
+   "Khi hòa tan đường kính vào nước ấm rồi khuấy đều, ta thu được gì?",
+   [
+    "Dung dịch đường trong nước",
+    "Một hỗn hợp dạng huyền phù",
+    "Một lớp đường lắng ở đáy cốc",
+    "Các hạt đường nổi lơ lửng"
+   ],
+   "Đường tan hoàn toàn trong nước tạo thành dung dịch đồng nhất gọi là dung dịch đường."
+  ],
+  [
+   "Quá trình chuyển từ thể hơi sang thể lỏng của nước gọi là gì?",
+   [
+    "Sự ngưng tụ",
+    "Sự bay hơi",
+    "Sự nóng chảy",
+    "Sự đông đặc"
+   ],
+   "Khi gặp lạnh, hơi nước chuyển ngược lại thành các hạt nước lỏng nhỏ, hiện tượng đó là sự ngưng tụ."
+  ],
+  [
+   "Hiện tượng giọt sương đọng trên lá cây vào buổi sáng sớm là kết quả của quá trình nào?",
+   [
+    "Hơi nước trong không khí ngưng tụ thành nước lỏng",
+    "Nước ngầm từ trong rễ cây dâng lên và phun qua lá",
+    "Nước mưa từ hôm trước đọng lại chưa kịp khô",
+    "Hơi nước bay lên từ mặt đất rồi hóa đá thành sương"
+   ],
+   "Ban đêm nhiệt độ hạ thấp, hơi nước trong không khí gặp lạnh ngưng tụ thành các giọt sương đọng trên lá."
+  ],
+  [
+   "Hành động nào sau đây gây ra sự biến đổi hóa học của chất?",
+   [
+    "Cơm để lâu ngày bị thiu và có mùi chua",
+    "Tờ giấy trắng bị xé vụn thành nhiều mảnh nhỏ",
+    "Thanh sắt bị uốn cong thành hình chiếc vòng",
+    "Cục nước đá để ngoài trời tan chảy thành nước"
+   ],
+   "Cơm bị thiu là quá trình biến đổi chất ban đầu thành chất mới có mùi và vị khác hẳn, đây là biến đổi hóa học."
+  ],
+  [
+   "Đâu là ví dụ về sự biến đổi lý học của chất?",
+   [
+    "Sáp nến bị đun nóng chảy lỏng ra rồi để nguội cứng lại",
+    "Que diêm quẹt vào vỏ hộp bị cháy thành than đen",
+    "Thanh sắt để ngoài trời ẩm ướt bị gỉ sét màu nâu đỏ",
+    "Trứng gà luộc chín từ dạng lỏng sang dạng đặc"
+   ],
+   "Sáp nến chuyển từ rắn sang lỏng rồi lại về rắn, chất sáp không bị biến đổi thành chất khác nên đây là biến đổi lý học."
+  ],
+  [
+   "Vì sao các loại phích đựng nước nóng thường có lớp chân không ở giữa hai lớp thủy tinh?",
+   [
+    "Để hạn chế sự truyền nhiệt ra bên ngoài, giúp nước giữ nóng lâu",
+    "Để làm giảm trọng lượng của chiếc phích cho nhẹ dễ cầm",
+    "Để ngăn không cho nước rò rỉ ra ngoài vỏ nhựa của phích",
+    "Để giúp cho việc rót nước từ trong phích ra ngoài dễ dàng hơn"
+   ],
+   "Lớp chân không truyền nhiệt rất kém, giúp ngăn cản nhiệt lượng của nước bên trong thoát ra ngoài."
+  ],
+  [
+   "Hỗn hợp nào sau đây có thể tách riêng các chất thành phần bằng phương pháp lọc?",
+   [
+    "Hỗn hợp cát và nước",
+    "Hỗn hợp muối ăn và nước",
+    "Hỗn hợp đường và nước",
+    "Hỗn hợp giấm và nước"
+   ],
+   "Cát không tan trong nước và có kích thước lớn hơn lỗ giấy lọc nên có thể dùng phương pháp lọc để tách cát ra."
+  ],
+  [
+   "Để giữ cho thịt cá tươi lâu mà không bị ôi thiu trong thời gian dài, người ta thường dùng cách nào?",
+   [
+    "Bảo quản trong ngăn đông của tủ lạnh",
+    "Đậy kín bằng nắp nhựa rồi để ở góc bếp",
+    "Ngâm vào chậu nước sạch ở nhiệt độ phòng",
+    "Phơi trực tiếp dưới ánh nắng to ngoài sân"
+   ],
+   "Nhiệt độ thấp ở ngăn đông làm giảm tốc độ phát triển của vi khuẩn, giúp thực phẩm lâu bị hỏng."
+  ],
+  [
+   "Khi đun nước sôi, ta thấy có các bọt khí nổi lên mặt nước và hơi bay lên. Điều này gồm các quá trình nào?",
+   [
+    "Sự bay hơi và sự sôi của nước",
+    "Sự ngưng tụ và sự đông đặc của nước",
+    "Sự nóng chảy và sự biến đổi hóa học",
+    "Sự đông đặc và sự biến đổi lý học"
+   ],
+   "Khi đun nóng, nước chuyển từ thể lỏng sang thể hơi nhanh chóng qua hiện tượng bay hơi và hiện tượng sôi."
+  ],
+  [
+   "Tại sao các loại xoong, nồi nấu ăn trong gia đình thường được làm bằng kim loại như nhôm hoặc inox?",
+   [
+    "Vì kim loại dẫn nhiệt tốt giúp thức ăn nhanh chín",
+    "Vì kim loại giữ nhiệt kém làm thức ăn không bị cháy",
+    "Vì kim loại rất mềm nên dễ nặn thành nhiều hình",
+    "Vì kim loại nhẹ hơn nước và không bao giờ bị bẩn"
+   ],
+   "Kim loại dẫn nhiệt rất tốt nên khi nấu ăn bằng nồi kim loại, nhiệt lượng sẽ truyền nhanh từ bếp vào thức ăn."
+  ],
+  [
+   "Một bạn học sinh để cốc nước đá lạnh lên bàn, lát sau thấy xung quanh thành ngoài cốc có các giọt nước nhỏ. Giải thích nào đúng?",
+   [
+    "Hơi nước trong không khí gặp lạnh ngưng tụ thành các giọt nước bám vào thành cốc",
+    "Nước ở bên trong cốc thấm qua thành thủy tinh dày ra ngoài không khí",
+    "Do đá trong cốc tan chảy rồi trào qua miệng cốc chảy xuống thành ngoài",
+    "Do không khí xung quanh biến thành nước khi bị cốc đá hút mất nhiệt độ"
+   ],
+   "Hơi nước lơ lửng trong không khí xung quanh khi gặp bề mặt lạnh của cốc nước đá đã ngưng tụ lại thành các giọt nước."
+  ],
+  [
+   "Việc làm nào dưới đây góp phần tiết kiệm chất đốt và bảo vệ môi trường khi nấu ăn ở nhà?",
+   [
+    "Điều chỉnh lửa vừa vặn với đáy nồi, đậy kín nắp vung khi đun",
+    "Mở thật to ngọn lửa bếp gas để nấu cho nhanh xong việc",
+    "Dùng củi tươi đốt để tạo ra nhiều khói giữ nhiệt lâu hơn",
+    "Để hở vung nồi cho hơi nước bay nhanh bớt ra ngoài"
+   ],
+   "Điều chỉnh lửa vừa và đậy kín vung giúp tận dụng tối đa nhiệt lượng, tiết kiệm nhiên liệu và tránh lãng phí."
+  ],
+  [
+   "Bạn Nam trộn đều bột năng với nước lọc trong một cái bát. Theo em, Nam đã tạo ra được hỗn hợp gì?",
+   [
+    "Huyền phù",
+    "Dung dịch trong suốt",
+    "Chất khí hòa tan",
+    "Chất rắn tinh khiết"
+   ],
+   "Bột năng không tan trong nước mà lơ lửng tạo thành hỗn hợp dạng huyền phù."
+  ],
+  [
+   "Khi làm kem hoa quả, người ta cho hỗn hợp sữa và trái cây xay vào ngăn đá tủ lạnh. Việc này dựa vào tính chất nào của chất?",
+   [
+    "Chất lỏng chuyển thành thể rắn khi gặp nhiệt độ thấp",
+    "Chất rắn có thể tự động bay hơi thành chất khí",
+    "Chất khí có khả năng hòa tan hoàn toàn vào chất lỏng",
+    "Chất lỏng có thể tự biến đổi thành chất khác hoàn toàn"
+   ],
+   "Đưa hỗn hợp vào ngăn đá lạnh để lợi dụng hiện tượng chất lỏng đông đặc thành chất rắn (kem)."
+  ],
+  [
+   "Hành động nào sau đây thể hiện việc sử dụng hợp lý các nguồn tài nguyên chất đốt trong gia đình?",
+   [
+    "Khóa van bình gas cẩn thận ngay sau khi đun nấu xong",
+    "Bật bếp gas để đó đi làm việc khác cho đỡ mất công bật lại",
+    "Dùng than tổ ong đốt sưởi ấm qua đêm trong phòng kín",
+    "Đun nước sôi để tràn ra ngoài bếp cho dễ dập lửa"
+   ],
+   "Khóa van gas sau khi dùng giúp tránh rò rỉ khí gas, đảm bảo an toàn và tiết kiệm tài nguyên."
+  ],
+  [
+   "Phát biểu nào sau đây là đúng khi nói về đặc điểm chung của các chất ở thể lỏng?",
+   [
+    "Không có hình dạng cố định, chảy được và mang hình dạng của vật chứa",
+    "Có hình dạng cố định giống như các vật bằng chất rắn thông thường",
+    "Không chiếm thể tích nhất định và luôn bay lên cao tỏa vào không khí",
+    "Luôn có thể bị nén lại rất nhỏ giống như các chất ở thể khí"
+   ],
+   "Chất lỏng không có hình dạng cố định, có thể chảy và luôn chiếm thể tích xác định nhưng mang hình dạng của vật chứa nó."
+  ]
+ ],
+ "c2": [
+  [
+   "Nguồn năng lượng nào sau đây được sử dụng chủ yếu để làm khô nông sản ngoài trời?",
+   [
+    "Năng lượng mặt trời",
+    "Năng lượng gió",
+    "Năng lượng nước chảy",
+    "Năng lượng điện"
+   ],
+   "Năng lượng mặt trời cung cấp nhiệt lượng và ánh sáng giúp làm khô nông sản một cách tự nhiên."
+  ],
+  [
+   "Vật nào sau đây biến đổi điện năng thành nhiệt năng khi hoạt động?",
+   [
+    "Bàn là điện",
+    "Quạt điện",
+    "Bóng đèn LED",
+    "Đài phát thanh"
+   ],
+   "Bàn là điện sử dụng dòng điện để làm nóng mặt đế, phục vụ việc là quần áo."
+  ],
+  [
+   "Khi pin trong điều khiển từ xa của TV hết điện, điều đó có nghĩa là gì?",
+   [
+    "Pin đã chuyển hoá hết năng lượng lưu trữ thành các dạng năng lượng khác",
+    "Pin đã tự sản sinh ra năng lượng mới",
+    "Pin không cần thiết cho điều khiển",
+    "Pin chỉ lưu trữ năng lượng ánh sáng"
+   ],
+   "Pin chứa năng lượng dạng hoá năng, khi dùng sẽ chuyển hoá dần thành các dạng năng lượng khác và cạn kiệt."
+  ],
+  [
+   "Hành động nào sau đây giúp tiết kiệm năng lượng điện trong gia đình?",
+   [
+    "Tắt các thiết bị điện khi không sử dụng",
+    "Bật quạt trần ở tất cả các phòng dù không có người",
+    "Mở tủ lạnh liên tục để xem đồ ăn",
+    "Để tivi chạy suốt đêm khi đi ngủ"
+   ],
+   "Tắt thiết bị khi không dùng là cách hiệu quả nhất để tránh lãng phí điện năng."
+  ],
+  [
+   "Trong các nguồn năng lượng sau, nguồn năng lượng nào là năng lượng sạch và vô tận?",
+   [
+    "Năng lượng mặt trời",
+    "Than đá",
+    "Dầu mỏ",
+    "Khí đốt tự nhiên"
+   ],
+   "Năng lượng mặt trời là nguồn năng lượng tái tạo, sạch và không bao giờ cạn kiệt."
+  ],
+  [
+   "Bộ phận nào của pin mặt trời làm nhiệm vụ thu nhận ánh sáng và chuyển hoá thành điện năng?",
+   [
+    "Tấm quang điện",
+    "Lõi dây đồng",
+    "Vỏ nhựa bên ngoài",
+    "Cực âm bằng kẽm"
+   ],
+   "Tấm quang điện (solar panel) có khả năng hấp thụ ánh sáng mặt trời và tạo ra dòng điện."
+  ],
+  [
+   "Khi cọ xát hai bàn tay vào nhau, ta thấy tay ấm lên. Hiện tượng này thể hiện sự chuyển hoá năng lượng nào?",
+   [
+    "Cơ năng thành nhiệt năng",
+    "Nhiệt năng thành điện năng",
+    "Điện năng thành cơ năng",
+    "Quang năng thành nhiệt năng"
+   ],
+   "Hoạt động cọ xát là cơ năng, làm tay ấm lên là nhiệt năng."
+  ],
+  [
+   "Vật nào dưới đây không sử dụng năng lượng điện để hoạt động?",
+   [
+    "Bếp củi truyền thống",
+    "Nồi cơm điện",
+    "Bếp từ",
+    "Lò vi sóng"
+   ],
+   "Bếp củi sử dụng năng lượng chất đốt từ củi gỗ, không dùng điện."
+  ],
+  [
+   "Vì sao chúng ta không nên lạm dụng các nguồn năng lượng hoá học như than đá, dầu mỏ?",
+   [
+    "Vì chúng có hạn và gây ô nhiễm môi trường",
+    "Vì chúng có giá thành quá rẻ",
+    "Vì chúng không sinh ra nhiệt lượng",
+    "Vì chúng làm giảm lượng mưa"
+   ],
+   "Năng lượng hoá thạch là tài nguyên không tái tạo và khi đốt cháy sinh ra khí thải gây ô nhiễm."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về vai trò của năng lượng trong đời sống?",
+   [
+    "Mọi hoạt động của con người và sinh vật đều cần đến năng lượng",
+    "Năng lượng chỉ cần thiết cho các cỗ máy hoạt động",
+    "Con người có thể tồn tại mà không cần năng lượng",
+    "Năng lượng chỉ tồn tại ở dạng ánh sáng"
+   ],
+   "Mọi sinh vật và máy móc muốn hoạt động, sinh trưởng đều phải tiêu thụ năng lượng."
+  ],
+  [
+   "Bạn Nam dùng một chiếc đèn pin chạy bằng pin để soi đường vào ban đêm. Các dạng năng lượng xuất hiện theo thứ tự từ nguồn điện đến khi phát ra ánh sáng là:",
+   [
+    "Hoá năng - Điện năng - Quang năng",
+    "Quang năng - Điện năng - Hoá năng",
+    "Cơ năng - Nhiệt năng - Quang năng",
+    "Điện năng - Hoá năng - Cơ năng"
+   ],
+   "Pin chứa hoá năng chuyển thành điện năng trong mạch, rồi bóng đèn biến điện năng thành quang năng."
+  ],
+  [
+   "Một gia đình sử dụng bóng đèn sợi đốt cũ thường tốn nhiều tiền điện hơn so với việc dùng bóng đèn LED hiện đại vì:",
+   [
+    "Bóng đèn sợi đốt biến đổi phần lớn điện năng thành nhiệt năng thay vì quang năng",
+    "Bóng đèn sợi đốt tạo ra quá nhiều ánh sáng",
+    "Bóng đèn LED tiêu thụ nhiều điện hơn",
+    "Bóng đèn LED không phát ra ánh sáng"
+   ],
+   "Đèn sợi đốt tỏa rất nhiều nhiệt, phần điện năng chuyển thành ánh sáng rất ít nên lãng phí điện."
+  ],
+  [
+   "Vào những ngày nắng gắt, phơi quần áo ngoài sân sẽ khô rất nhanh. Yếu tố chủ yếu tác động quá trình này là:",
+   [
+    "Nhiệt độ cao và bức xạ từ năng lượng mặt trời",
+    "Áp suất không khí giảm mạnh",
+    "Độ ẩm không khí tăng cao đột ngột",
+    "Gió thổi từ hướng bắc vào nam"
+   ],
+   "Năng lượng mặt trời cung cấp nhiệt làm nước trong quần áo bay hơi nhanh hơn."
+  ],
+  [
+   "Khi một chiếc ô tô đang chạy trên đường phanh gấp để dừng lại, cơ năng của xe đã chuyển hoá chủ yếu thành dạng năng lượng nào ở má phanh và mặt đường?",
+   [
+    "Nhiệt năng",
+    "Quang năng",
+    "Điện năng",
+    "Hoá năng"
+   ],
+   "Do ma sát mạnh khi phanh, cơ năng chuyển thành nhiệt năng làm nóng má phanh và lốp xe."
+  ],
+  [
+   "Việc xây dựng các nhà máy thủy điện mang lại lợi ích lớn về kinh tế nhưng cần lưu ý điều gì quan trọng nhất đối với môi trường?",
+   [
+    "Ảnh hưởng đến dòng chảy tự nhiên và hệ sinh thái vùng hạ lưu",
+    "Làm tăng lượng khí thải carbon dioxide",
+    "Gây cạn kiệt nguồn nước ngầm ngay lập tức",
+    "Làm thay đổi màu sắc của nước biển"
+   ],
+   "Thủy điện làm thay đổi dòng chảy sông ngòi và ảnh hưởng lớn đến môi trường sinh thái thủy sinh."
+  ],
+  [
+   "Nếu gia đình em sử dụng máy nước nóng năng lượng mặt trời thay cho bình nóng lạnh chạy bằng điện vào những ngày nắng, điều này giúp:",
+   [
+    "Tiết kiệm một lượng lớn điện năng và bảo vệ môi trường",
+    "Làm cho nước nóng lên chậm hơn rất nhiều",
+    "Tăng chi phí tiền điện hàng tháng cho gia đình",
+    "Làm hỏng hệ thống đường ống nước trong nhà"
+   ],
+   "Máy nước nóng năng lượng mặt trời tận dụng nhiệt lượng tự nhiên giúp tiết kiệm điện hiệu quả."
+  ],
+  [
+   "Khi đun nước bằng ấm nhôm trên bếp gas, năng lượng nhiệt đã truyền từ đâu đến đâu?",
+   [
+    "Từ ngọn lửa qua đáy ấm làm nước trong ấm nóng lên",
+    "Từ nước bên trong truyền ngược ra ngọn lửa bên ngoài",
+    "Từ không khí xung quanh truyền vào đáy ấm nhôm",
+    "Từ tay người cầm ấm truyền vào nước bên trong"
+   ],
+   "Nhiệt truyền từ nguồn nhiệt có nhiệt độ cao hơn (ngọn lửa) qua vật dẫn nhiệt (đáy ấm) vào nước."
+  ],
+  [
+   "Một chiếc đồng hồ treo tường chạy bằng pin sau nhiều tháng thì kim giây dừng lại. Nguyên nhân là do:",
+   [
+    "Năng lượng hoá học trong pin đã bị cạn kiệt hoàn toàn",
+    "Đồng hồ đã hấp thụ hết ánh sáng trong phòng",
+    "Các bánh xe bên trong tự động biến mất",
+    "Pin đã tự động sạc đầy lại năng lượng"
+   ],
+   "Pin cung cấp hoá năng để chạy đồng hồ, khi hết thì đồng hồ ngừng hoạt động."
+  ],
+  [
+   "Cây xanh có khả năng hấp thụ năng lượng ánh sáng mặt trời để thực hiện quá trình quang hợp. Năng lượng ánh sáng đã chuyển hoá thành dạng năng lượng nào được lưu trữ trong thân, lá, củ?",
+   [
+    "Hoá năng",
+    "Nhiệt năng",
+    "Cơ năng",
+    "Điện năng"
+   ],
+   "Quang hợp lưu trữ năng lượng mặt trời thành các chất hữu cơ, đó chính là dạng hoá năng."
+  ],
+  [
+   "Tại sao các nhà khoa học luôn khuyến khích người dân sử dụng phương tiện giao thông công cộng hoặc xe đạp thay cho xe máy cá nhân?",
+   [
+    "Giảm thiểu lượng khí thải và tiết kiệm nguồn nhiên liệu hoá thạch",
+    "Giúp người dân di chuyển với tốc độ nhanh hơn nhiều lần",
+    "Loại bỏ hoàn toàn tiếng ồn trong các thành phố lớn",
+    "Làm cho đường xá không bao giờ bị ùn tắc nữa"
+   ],
+   "Hành động này giúp tiết kiệm nhiên liệu không tái tạo và giảm ô nhiễm môi trường không khí."
+  ],
+  [
+   "Nguồn năng lượng tự nhiên nào cung cấp ánh sáng và nhiệt lượng lớn nhất cho Trái Đất?",
+   [
+    "Mặt Trời",
+    "Mặt Trăng",
+    "Ngôi sao",
+    "Trái Đất"
+   ],
+   "Mặt Trời là ngôi sao lớn cung cấp nguồn năng lượng ánh sáng và nhiệt lượng khổng lồ cho sự sống trên Trái Đất."
+  ],
+  [
+   "Vật nào dưới đây là nguồn phát ra cả ánh sáng và nhiệt lượng?",
+   [
+    "Ngọn nến đang cháy",
+    "Chiếc gương soi",
+    "Quyển sách giáo khoa",
+    "Mặt bàn gỗ"
+   ],
+   "Ngọn nến khi cháy vừa tỏa ra ánh sáng để nhìn rõ vừa tỏa ra nhiệt lượng làm ấm không gian xung quanh."
+  ],
+  [
+   "Trong các vật dụng sau, vật nào sử dụng năng lượng gió để hoạt động?",
+   [
+    "Thuyền buồm",
+    "Xe đạp",
+    "Máy bay phản lực",
+    "Tàu hỏa chạy điện"
+   ],
+   "Thuyền buồm di chuyển được nhờ sức gió thổi vào cánh buồm để đẩy thuyền đi trên mặt nước."
+  ],
+  [
+   "Khi nước trong ấm đang sôi, hơi nước bốc lên làm nắp ấm dao động bập bênh. Năng lượng nào đã tạo ra hiện tượng đó?",
+   [
+    "Năng lượng nhiệt của hơi nước",
+    "Năng lượng ánh sáng của lửa",
+    "Điện năng từ ổ cắm",
+    "Năng lượng gió ngoài trời"
+   ],
+   "Nhiệt độ cao làm nước bay hơi mạnh, tạo ra áp suất và năng lượng nhiệt đẩy nắp ấm chuyển động."
+  ],
+  [
+   "Để nấu chín thức ăn, bếp từ hoạt động bằng cách biến đổi dạng năng lượng nào thành nhiệt năng?",
+   [
+    "Điện năng",
+    "Quang năng",
+    "Hóa năng",
+    "Cơ năng"
+   ],
+   "Bếp từ cần cắm điện để hoạt động, nghĩa là nó đã biến đổi điện năng thành nhiệt năng để làm nóng nồi."
+  ],
+  [
+   "Viên pin dùng trong điều khiển ti vi lưu trữ dạng năng lượng nào?",
+   [
+    "Hóa năng",
+    "Quang năng",
+    "Cơ năng",
+    "Nhiệt năng"
+   ],
+   "Bên trong pin chứa các chất hóa học, do đó pin dự trữ năng lượng dưới dạng hóa năng."
+  ],
+  [
+   "Khi con người ăn uống, cơ thể hấp thụ thức ăn và chuyển hóa thành năng lượng để chạy nhảy, làm việc. Dạng năng lượng ban đầu có trong thức ăn là:",
+   [
+    "Hóa năng",
+    "Nhiệt năng",
+    "Điện năng",
+    "Quang năng"
+   ],
+   "Thức ăn chứa các chất dinh dưỡng, mang năng lượng dưới dạng hóa năng được giải phóng khi cơ thể tiêu hóa."
+  ],
+  [
+   "Động cơ của một chiếc xe máy đang chạy đã chuyển hóa phần lớn hóa năng của xăng thành:",
+   [
+    "Cơ năng",
+    "Quang năng",
+    "Điện năng",
+    "Năng lượng gió"
+   ],
+   "Xăng là nhiên liệu chứa hóa năng, khi đốt cháy trong động cơ sẽ sinh ra công làm xe chuyển động, tức là cơ năng."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện rõ nhất việc sử dụng tiết kiệm năng lượng điện trong nhà trường?",
+   [
+    "Tắt quạt và đèn khi ra về khỏi phòng học",
+    "Mở cửa sổ rộng và bật quạt số lớn nhất",
+    "Bật đèn phòng học suốt cả những giờ có nắng",
+    "Sử dụng nhiều máy điều hòa cùng một lúc"
+   ],
+   "Tắt các thiết bị điện khi không sử dụng hoặc khi rời khỏi phòng là cách làm thiết thực nhất để tiết kiệm điện."
+  ],
+  [
+   "Nhà máy thủy điện sản xuất ra điện dựa vào nguồn năng lượng chủ yếu nào của dòng nước?",
+   [
+    "Cơ năng",
+    "Hóa năng",
+    "Nhiệt năng",
+    "Quang năng"
+   ],
+   "Nước chảy từ trên cao xuống với tốc độ lớn tạo ra cơ năng (động năng và thế năng) để quay tuabin phát điện."
+  ],
+  [
+   "Vì sao người ta thường sơn các thùng chứa nước hoặc mái nhà bằng màu trắng hoặc màu sáng thay vì màu đen bóng?",
+   [
+    "Để hạn chế hấp thụ năng lượng nhiệt từ ánh sáng mặt trời",
+    "Để thu hút nhiều ánh sáng hơn vào ban đêm",
+    "Để tăng cường tối đa năng lượng nhiệt làm nóng nước",
+    "Để giúp nước bên trong bay hơi nhanh hơn"
+   ],
+   "Màu sáng ít hấp thụ nhiệt từ ánh sáng mặt trời hơn màu tối, giúp giữ cho nước hoặc không gian bên trong mát mẻ."
+  ],
+  [
+   "Một chiếc quạt máy đang chạy, nếu chúng ta chạm tay vào lồng quạt phía sau sau một thời gian dài, ta thấy lồng quạt hơi ấm. Điều này cho thấy:",
+   [
+    "Một phần điện năng đã bị chuyển hóa thành nhiệt năng do ma sát",
+    "Quạt máy đang tạo ra năng lượng ánh sáng",
+    "Quạt máy hoàn toàn không tiêu hao năng lượng",
+    "Điện năng đã được biến đổi hoàn toàn thành cơ năng"
+   ],
+   "Trong quá trình quạt chạy, một phần điện năng bị hao phí chuyển hóa thành nhiệt năng ở các bộ phận chuyển động."
+  ],
+  [
+   "Khi chúng ta thả một quả bóng từ trên cao xuống đất, quả bóng nảy lên rồi dừng lại. Năng lượng của quả bóng đã đi đâu khi nó dừng hẳn?",
+   [
+    "Chuyển hóa thành nhiệt năng và âm năng truyền vào không khí và mặt đất",
+    "Bị biến mất hoàn toàn vào không trung",
+    "Chuyển hóa ngược lại thành hóa năng trong quả bóng",
+    "Biến thành năng lượng ánh sáng chói lọi"
+   ],
+   "Theo định luật bảo toàn năng lượng, năng lượng không mất đi mà chuyển hóa thành nhiệt và âm thanh do va chạm."
+  ],
+  [
+   "Hành động nào sau đây góp phần tích cực vào việc sử dụng nguồn năng lượng tái tạo và bảo vệ môi trường?",
+   [
+    "Lắp đặt các tấm pin năng lượng mặt trời để đun nước",
+    "Sử dụng than đá để sưởi ấm vào mùa đông",
+    "Đốt rơm rạ ngay trên cánh đồng sau khi thu hoạch",
+    "Dùng ô tô chạy bằng xăng cho quãng đường ngắn"
+   ],
+   "Pin năng lượng mặt trời khai thác nguồn năng lượng sạch, vô tận từ thiên nhiên, không gây ô nhiễm môi trường."
+  ],
+  [
+   "Tại sao các thiết bị như tủ lạnh, điều hòa nhiệt độ đời mới thường được dán nhãn năng lượng có nhiều sao xanh?",
+   [
+    "Vì chúng tiết kiệm điện năng hơn so với các thiết bị ít sao",
+    "Vì chúng làm lạnh nhanh hơn nhưng tốn nhiều điện hơn",
+    "Vì chúng sử dụng năng lượng mặt trời trực tiếp",
+    "Vì chúng có giá thành rẻ nhất trên thị trường"
+   ],
+   "Số sao trên nhãn năng lượng càng nhiều chứng tỏ thiết bị đó có hiệu suất cao và tiết kiệm điện năng tốt hơn."
+  ],
+  [
+   "Bạn An dùng tay quay của một chiếc đèn pin nhỏ không dùng pin, ánh sáng phát ra từ bóng đèn là kết quả của quá trình chuyển hóa:",
+   [
+    "Cơ năng thành điện năng rồi thành quang năng",
+    "Hóa năng thành nhiệt năng rồi thành quang năng",
+    "Nhiệt năng thành cơ năng rồi thành điện năng",
+    "Quang năng thành cơ năng rồi thành hóa năng"
+   ],
+   "Tay quay tạo ra cơ năng, làm quay bộ phận phát điện để tạo ra điện năng, sau đó dòng điện làm sáng bóng đèn (quang năng)."
+  ],
+  [
+   "Vì sao các nhà máy nhiệt điện sử dụng than đá hoặc khí đốt thường gây ảnh hưởng lớn đến môi trường không khí?",
+   [
+    "Vì quá trình đốt nhiên liệu thải ra nhiều khí độc hại và khói bụi",
+    "Vì chúng làm cạn kiệt nguồn nước ngọt trong các con sông",
+    "Vì chúng sử dụng quá nhiều năng lượng gió của tự nhiên",
+    "Vì chúng tạo ra tiếng ồn lớn làm ảnh hưởng đến động vật"
+   ],
+   "Đốt các nhiên liệu hóa học như than đá tạo ra khí thải carbon dioxide và bụi gây ô nhiễm không khí, hiệu ứng nhà kính."
+  ],
+  [
+   "Khi sử dụng bếp hồng ngoại để nấu chín thức ăn, dạng năng lượng ban đầu nào được cung cấp cho bếp?",
+   [
+    "Điện năng",
+    "Năng lượng mặt trời",
+    "Hóa năng từ khí gas",
+    "Cơ năng từ tay người"
+   ],
+   "Bếp hồng ngoại là thiết bị dùng điện, nhận điện năng và chuyển hóa thành nhiệt năng để nấu nướng."
+  ],
+  [
+   "Trường hợp nào dưới đây cho thấy sự chuyển hóa từ quang năng thành hóa năng trong tự nhiên?",
+   [
+    "Cây xanh hấp thụ ánh sáng mặt trời để tổng hợp chất dinh dưỡng",
+    "Mặt trời chiếu sáng làm khô quần áo phơi ngoài sân",
+    "Tấm pin mặt trời thu ánh sáng để thắp sáng bóng đèn LED",
+    "Nước biển hấp thụ nhiệt làm nước bay hơi tạo thành mây"
+   ],
+   "Quá trình quang hợp của cây xanh đã lấy năng lượng ánh sáng (quang năng) để tạo ra chất hữu cơ tích trữ hóa năng."
+  ],
+  [
+   "Khi đạp xe đạp vào ban đêm, bộ phận nào trên xe giúp biến đổi cơ năng của người thành điện năng rồi thành quang năng để chiếu sáng?",
+   [
+    "Đinamô (bộ phận phát điện gắn ở bánh xe)",
+    "Xích xe và líp xe ở phía giữa khung",
+    "Lốp xe làm bằng cao su đàn hồi tốt",
+    "Tay phanh xe giúp dừng bánh xe lại"
+   ],
+   "Đinamô quay nhờ lực của bánh xe (cơ năng), sinh ra dòng điện thắp sáng đèn gắn ở đầu xe (quang năng)."
+  ]
+ ],
+ "c3": [
+  [
+   "Cây con mọc lên từ hạt gồm những bộ phận chính nào?",
+   [
+    "Rễ, thân, lá",
+    "Rễ, hoa, quả",
+    "Thân, lá, hoa",
+    "Rễ, hoa, hạt"
+   ],
+   "Khi hạt nảy mầm, các bộ phận đầu tiên phát triển thành cây con là rễ, thân và lá. Hồ sơ chương trình nhấn mạnh cấu trúc cơ bản này."
+  ],
+  [
+   "Bộ phận nào của thực vật có chức năng hút nước và muối khoáng từ đất?",
+   [
+    "Rễ",
+    "Thân",
+    "Lá",
+    "Hoa"
+   ],
+   "Rễ cây nằm sâu trong đất, làm nhiệm vụ bám chặt vào đất và hút nước cùng các chất dinh dưỡng nuôi cây."
+  ],
+  [
+   "Quá trình quang hợp của thực vật diễn ra chủ yếu ở bộ phận nào?",
+   [
+    "Lá cây",
+    "Rễ cây",
+    "Thân cây",
+    "Hoa cây"
+   ],
+   "Lá cây chứa chất diệp lục, giúp hấp thụ ánh sáng mặt trời để thực hiện quá trình quang hợp tạo ra chất dinh dưỡng."
+  ],
+  [
+   "Loài động vật nào sau đây đẻ trứng?",
+   [
+    "Gà",
+    "Chó",
+    "Mèo",
+    "Bò"
+   ],
+   "Gà là loài gia cầm sinh sản bằng cách đẻ trứng, sau đó ấp trứng nở thành con non."
+  ],
+  [
+   "Đâu là loài động vật đẻ con và nuôi con bằng sữa?",
+   [
+    "Lợn",
+    "Chim bồ câu",
+    "Rắn",
+    "Ếch"
+   ],
+   "Lợn là loài thú, sinh con và nuôi con bằng sữa mẹ trong giai đoạn đầu đời."
+  ],
+  [
+   "Thực vật cần những yếu tố nào sau đây để sống và phát triển bình thường?",
+   [
+    "Nước, ánh sáng, không khí, chất khoáng",
+    "Chỉ cần nước và ánh sáng",
+    "Chỉ cần đất và phân bón",
+    "Chỉ cần không khí và nhiệt độ"
+   ],
+   "Để sống và phát triển, thực vật cần đầy đủ bốn yếu tố cơ bản là nước, chất khoáng, không khí và ánh sáng."
+  ],
+  [
+   "Trong quá trình quang hợp, thực vật hấp thụ khí gì từ môi trường?",
+   [
+    "Khí cac-bô-níc",
+    "Khí ô-xi",
+    "Khí ni-tơ",
+    "Khí hi-đrô"
+   ],
+   "Thực vật hấp thụ khí cac-bô-níc và nhả ra khí ô-xi trong quá trình quang hợp dưới ánh sáng mặt trời."
+  ],
+  [
+   "Hành động nào sau đây giúp bảo vệ môi trường sống của động vật hoang dã?",
+   [
+    "Trồng rừng và bảo vệ động vật quý hiếm",
+    "Săn bắt thú rừng để làm cảnh",
+    "Đốt phá rừng làm nương rẫy",
+    "Xả rác thải nhựa xuống ao hồ"
+   ],
+   "Trồng rừng giúp phục hồi môi trường sống, kết hợp bảo vệ động vật quý hiếm giúp duy trì đa dạng sinh học."
+  ],
+  [
+   "Vì sao lá cây thường có màu xanh lục?",
+   [
+    "Vì chứa chất diệp lục",
+    "Vì chứa nhiều nước",
+    "Vì hấp thụ nhiều ánh sáng đỏ",
+    "Vì phản chiếu ánh sáng màu vàng"
+   ],
+   "Chất diệp lục có trong tế bào lá cây là sắc tố chính tạo nên màu xanh lục và giúp cây hấp thụ ánh sáng."
+  ],
+  [
+   "Loài động vật nào sau đây hô hấp bằng mang?",
+   [
+    "Cá chép",
+    "Chim sẻ",
+    "Thỏ",
+    "Chó sói"
+   ],
+   "Cá chép sống dưới nước và sử dụng mang để trao đổi khí, lấy ô-xi hòa tan trong nước."
+  ],
+  [
+   "Giai đoạn nào trong vòng đời của ếch sống hoàn toàn dưới nước và thở bằng mang?",
+   [
+    "Nòng nọc",
+    "Ếch trưởng thành",
+    "Ếch con",
+    "Trứng ếch"
+   ],
+   "Sau khi nở từ trứng, nòng nọc sống dưới nước, có đuôi và thở bằng mang giống như cá."
+  ],
+  [
+   "Hiện tượng nào cho thấy thực vật đang thực hiện quá trình hô hấp?",
+   [
+    "Cây hấp thụ khí ô-xi và thải ra khí cac-bô-níc suốt ngày đêm",
+    "Cây chỉ hút nước vào ban đêm",
+    "Cây chỉ tạo ra khí ô-xi khi trời tối",
+    "Cây tự tổng hợp chất dinh dưỡng từ rễ"
+   ],
+   "Hô hấp là quá trình cây lấy ô-xi và thải khí cac-bô-níc, diễn ra liên tục cả ngày lẫn đêm."
+  ],
+  [
+   "Điều gì sẽ xảy ra nếu một chậu cây xanh bị đặt trong phòng tối hoàn toàn sau một thời gian dài?",
+   [
+    "Cây sẽ bị vàng lá, héo úa và chết",
+    "Cây sẽ lớn nhanh hơn bình thường",
+    "Cây chuyển sang màu đỏ rực",
+    "Cây không thay đổi gì cả"
+   ],
+   "Thiếu ánh sáng, cây không thể quang hợp tạo chất dinh dưỡng nên sẽ dần suy yếu, vàng lá và chết."
+  ],
+  [
+   "Tại sao nói rừng đóng vai trò quan trọng trong việc điều hòa khí hậu?",
+   [
+    "Vì rừng thải ra nhiều ô-xi và hấp thụ khí cac-bô-níc",
+    "Vì rừng che phủ mặt đất làm tăng nhiệt độ",
+    "Vì rừng làm cạn kiệt nguồn nước ngầm",
+    "Vì rừng ngăn cản gió bão nhưng làm tăng ô nhiễm"
+   ],
+   "Rừng được ví như lá phổi xanh của Trái Đất, giúp cân bằng lượng khí ô-xi và cac-bô-níc trong khí quyển."
+  ],
+  [
+   "Khi quan sát một cành cây bị che khuất ánh sáng một phần, em thấy phần lá ở phía thiếu sáng có đặc điểm gì?",
+   [
+    "Có màu xanh nhạt hơn hoặc bị vàng úa",
+    "Phát triển to gấp đôi lá bình thường",
+    "Có màu xanh đậm hơn bình thường",
+    "Rụng ngay lập tức không cần lý do"
+   ],
+   "Thiếu ánh sáng, quá trình tạo chất diệp lục bị giảm sút khiến lá cây nhạt màu hoặc vàng úa."
+  ],
+  [
+   "Nếu một khu rừng bị chặt phá bừa bãi, điều gì sẽ xảy ra với các loài động vật sống ở đó?",
+   [
+    "Mất nơi ở, thiếu thức ăn và có nguy cơ tuyệt chủng",
+    "Số lượng cá nhân sẽ tăng lên nhanh chóng",
+    "Chúng sẽ tự động chuyển sang ăn cỏ khô",
+    "Chúng thích nghi tốt với môi trường không có cây"
+   ],
+   "Rừng là ngôi nhà chung cung cấp thức ăn và nơi trú ẩn, mất rừng đồng nghĩa với việc động vật bị đe dọa sinh tồn."
+  ],
+  [
+   "Gia đình em trồng một chậu hoa hồng nhưng lá cứ bị vàng và rụng dần dù tưới nước đầy đủ. Nguyên nhân có thể là gì?",
+   [
+    "Chậu cây bị ngập úng hoặc thiếu chất dinh dưỡng",
+    "Cây được đặt dưới ánh nắng quá nhiều",
+    "Cây bị thừa không khí trong lành",
+    "Cây đang trong giai đoạn ra hoa kết quả"
+   ],
+   "Tưới quá nhiều nước làm rễ bị úng thối, không hút được chất dinh dưỡng khiến lá vàng và rụng."
+  ],
+  [
+   "Một bạn học sinh nói rằng: “Tất cả các loài thực vật đều cần mọc trên đất mới có thể sống được”. Phát biểu này đúng hay sai?",
+   [
+    "Sai, vì có một số loài thực vật sống trôi nổi trên mặt nước hoặc sống bám vào cây khác",
+    "Đúng, vì đất chứa tất cả dinh dưỡng duy nhất cho cây",
+    "Đúng, vì rễ cây bắt buộc phải cắm sâu vào đất",
+    "Sai, vì thực vật không cần bất kỳ chất dinh dưỡng nào ngoài nước"
+   ],
+   "Nhiều loài cây thủy sinh sống dưới nước hoặc cây phong lan sống bám trên thân cây khác mà không cần cắm rễ vào đất."
+  ],
+  [
+   "Tại sao vào ban đêm, không nên để quá nhiều cây xanh trong phòng ngủ kín?",
+   [
+    "Vì cây hô hấp hút ô-xi và thải ra khí cac-bô-níc gây ngột ngạt",
+    "Vì cây phát ra ánh sáng chói làm mất ngủ",
+    "Vì cây sẽ thu hút nhiều côn trùng có hại bay vào",
+    "Vì cây tỏa ra nhiệt độ rất cao làm nóng phòng"
+   ],
+   "Ban đêm cây không quang hợp mà chỉ hô hấp, lấy ô-xi và thải khí cac-bô-níc nên phòng kín sẽ thiếu ô-xi."
+  ],
+  [
+   "Em có thể làm gì để góp phần bảo vệ thực vật và động vật xung quanh nhà?",
+   [
+    "Chăm sóc cây xanh, không bẻ cành phá hoa và bảo vệ động vật có ích",
+    "Bắt chim muông về nhốt trong lồng để ngắm",
+    "Tiện tay ngắt lá bẻ cành cho vui khi đi dạo",
+    "Xử lý rác thải bằng cách vứt ra vườn hoa công cộng"
+   ],
+   "Hành động thiết thực của học sinh là chăm sóc cây và đối xử nhân ái, bảo vệ các loài động vật có ích."
+  ],
+  [
+   "Bộ phận nào của thực vật có chức năng vận chuyển nước và chất khoáng từ rễ lên thân và lá?",
+   [
+    "Mạch dẫn ở thân",
+    "Lá cây",
+    "Hoa và quả",
+    "Hạt cây"
+   ],
+   "Mạch dẫn trong thân cây đóng vai trò là con đường chính để vận chuyển nước và chất khoáng từ rễ lên các bộ phận phía trên."
+  ],
+  [
+   "Cơ quan sinh dưỡng của thực vật gồm những bộ phận nào?",
+   [
+    "Rễ, thân, lá",
+    "Hoa, quả, hạt",
+    "Rễ, hoa, quả",
+    "Thân, lá, hạt"
+   ],
+   "Cơ quan sinh dưỡng của thực vật có nhiệm vụ nuôi dưỡng cây, bao gồm rễ, thân và lá."
+  ],
+  [
+   "Quá trình nào của thực vật diễn ra suốt ngày và đêm, lấy khí ô-xy và thải ra khí các-bô-níc?",
+   [
+    "Hô hấp",
+    "Quang hợp",
+    "Thoát hơi nước",
+    "Thụ phấn"
+   ],
+   "Khác với quang hợp chỉ diễn ra ban ngày, quá trình hô hấp của thực vật diễn ra suốt cả ngày và đêm."
+  ],
+  [
+   "Loài động vật nào sau đây có chu kỳ phát triển qua các giai đoạn: trứng, ấu trùng, nhộng, côn trùng trưởng thành?",
+   [
+    "Con bướm",
+    "Con gà",
+    "Con ếch",
+    "Con mèo"
+   ],
+   "Bướm là loài côn trùng phát triển qua biến thái hoàn toàn với 4 giai đoạn rõ rệt."
+  ],
+  [
+   "Ý nghĩa nào sau đây KHÔNG phải của quá trình quang hợp ở thực vật?",
+   [
+    "Tạo ra khí các-bô-níc cho không gian sống",
+    "Cung cấp thức ăn cho nhiều loài sinh vật",
+    "Cung cấp khí ô-xy cho hô hấp của con người và động vật",
+    "Giúp điều hòa không khí trong lành"
+   ],
+   "Quá trình quang hợp hấp thụ khí các-bô-níc và giải phóng khí ô-xy, chứ không tạo ra khí các-bô-níc."
+  ],
+  [
+   "Khi thiếu ánh sáng, cây trồng thường có biểu hiện gì?",
+   [
+    "Thân vươn dài, lá vàng úa và còi cọc",
+    "Thân ngắn lại, lá xanh đậm và dày lên",
+    "Phát triển rất nhanh và ra nhiều hoa",
+    "Không có sự thay đổi nào khác thường"
+   ],
+   "Ánh sáng rất cần thiết cho việc tạo chất diệp lục và quang hợp, thiếu sáng khiến cây bị yếu, vươn dài và vàng lá."
+  ],
+  [
+   "Động vật hoang dã thường bị đe dọa tuyệt chủng bởi nguyên nhân chủ yếu nào do con người gây ra?",
+   [
+    "Săn bắn trái phép và phá hủy môi trường sống",
+    "Trồng nhiều cây xanh gây mất đất trống",
+    "Bảo vệ các khu rừng nguyên sinh",
+    "Xây dựng thêm nhiều khu bảo tồn thiên nhiên"
+   ],
+   "Săn bắt bừa bãi và thu hẹp diện tích rừng làm mất môi trường sống là nguyên nhân chính dẫn đến suy giảm động vật hoang dã."
+  ],
+  [
+   "Giai đoạn nào trong vòng đời của muỗi sống ở dưới nước?",
+   [
+    "Bọ gậy (lăng quăng)",
+    "Muỗi trưởng thành",
+    "Trứng bám trên cạn",
+    "Trứng bay trong không khí"
+   ],
+   "Trứng muỗi nở thành bọ gậy và sống ở môi trường nước trước khi phát triển thành muỗi trưởng thành."
+  ],
+  [
+   "Loài động vật nào sau đây sinh sản bằng cách đẻ con?",
+   [
+    "Cá heo",
+    "Cá sấu",
+    "Chim bồ câu",
+    "Rùa nước ngọt"
+   ],
+   "Cá heo là động vật có vú sống dưới nước, chúng đẻ con và nuôi con bằng sữa mẹ."
+  ],
+  [
+   "Bộ phận nào của hoa sau khi được thụ phấn sẽ phát triển thành quả?",
+   [
+    "Bầu nhụy",
+    "Nhuỵ hoa",
+    "Nhị hoa",
+    "Cánh hoa"
+   ],
+   "Sau khi thụ phấn và thụ tinh, bầu nhụy của hoa lớn lên và phát triển thành quả chứa hạt."
+  ],
+  [
+   "Loài nào sau đây có hình thức hô hấp qua da và phổi?",
+   [
+    "Con ếch",
+    "Con cá chép",
+    "Con chim sẻ",
+    "Con thỏ"
+   ],
+   "Ếch là loài lưỡng cư, khi trưởng thành chúng thở bằng phổi và qua da ẩm ướt."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện việc chăm sóc và bảo vệ thực vật đúng cách?",
+   [
+    "Tưới nước vừa đủ và bón phân hữu cơ định kỳ cho cây",
+    "Bẻ cành hái hoa nơi công cộng",
+    "Đổ nước xà phòng thừa vào gốc cây",
+    "Để cây dưới nắng gắt cả ngày không che chắn"
+   ],
+   "Tưới nước và bón phân hợp lý giúp cây sinh trưởng và phát triển tốt."
+  ],
+  [
+   "Vì sao ban ngày cây xanh lại giúp không khí trở nên mát mẻ và dễ chịu?",
+   [
+    "Vì cây thực hiện quang hợp thải ra ô-xy và thoát hơi nước",
+    "Vì bóng râm của cây ngăn chặn hoàn toàn ánh nắng",
+    "Vì cây hút hết nước trong không khí xung quanh",
+    "Vì cây tạo ra gió làm mát không gian"
+   ],
+   "Quá trình quang hợp và thoát hơi nước của lá cây giúp giảm nhiệt độ xung quanh và làm sạch không khí."
+  ],
+  [
+   "Hiện tượng nào chứng tỏ động vật có tập tính thích nghi với mùa đông lạnh giá?",
+   [
+    "Gấu Bắc Mỹ ngủ đông trong hang",
+    "Chim sẻ bay về phương nam tránh rét",
+    "Ếch nhảy lên cạn sống hoàn toàn",
+    "Cây cối đâm chồi nảy lộc"
+   ],
+   "Ngủ đông là một tập tính sinh học giúp nhiều loài động vật vượt qua mùa đông giá lạnh thiếu thức ăn."
+  ],
+  [
+   "Nếu một khu vực đất trồng bị ô nhiễm nặng bởi hóa chất nông nghiệp, điều gì sẽ xảy ra với thực vật ở đó?",
+   [
+    "Rễ cây bị tổn thương, cây héo úa và chết dần",
+    "Cây phát triển nhanh hơn nhờ có nhiều chất lạ",
+    "Cây không bị ảnh hưởng gì vì chỉ cần nước",
+    "Cây sẽ tự động chuyển hóa hóa chất thành dinh dưỡng"
+   ],
+   "Đất nhiễm hóa chất độc hại làm rễ cây không thể hút nước và chất dinh dưỡng, khiến cây bị chết."
+  ],
+  [
+   "Gia đình em nuôi một con gà mái đang ấp trứng. Khoảng thời gian này gà mẹ có hành động gì đặc biệt?",
+   [
+    "Ít rời khỏi ổ để giữ ấm và bảo vệ trứng",
+    "Đi kiếm ăn suốt ngày đêm không về ổ",
+    "Đem trứng giấu đi nơi khác để tìm ổ mới",
+    "Bỏ mặc trứng tự nở thành gà con"
+   ],
+   "Gà mái mẹ thường ngồi lì trong ổ để duy trì nhiệt độ thích hợp giúp phôi bên trong trứng phát triển thành gà con."
+  ],
+  [
+   "Một bạn học sinh đặt giả thiết: “Nhiệt độ ảnh hưởng đến tốc độ nảy mầm của hạt”. Để kiểm chứng, em cần làm gì?",
+   [
+    "Trồng các hạt giống giống nhau ở các mức nhiệt độ khác nhau và theo dõi",
+    "Chỉ trồng một hạt duy nhất ở một nhiệt độ trong tối",
+    "Đem hạt đi luộc chín rồi đem gieo",
+    "Đặt hạt vào tủ lạnh rồi không tưới nước"
+   ],
+   "Để kiểm chứng giả thiết về nhiệt độ, cần so sánh sự nảy mầm của các hạt trong cùng điều kiện khác nhau về nhiệt độ."
+  ],
+  [
+   "Vì sao việc trồng cây xanh ven các tuyến đường lớn giúp giảm thiểu ô nhiễm không khí?",
+   [
+    "Cây hấp thụ khí các-bô-níc và giữ lại bụi mịn trên lá",
+    "Cây làm cho xe cộ di chuyển chậm lại",
+    "Cây hút hết khói xe vào rễ để tiêu hủy",
+    "Cây ngăn không cho ánh nắng chiếu xuống đường"
+   ],
+   "Lá cây có diện tích lớn giúp cản bụi, đồng thời cây xanh hấp thụ khí độc hại và nhả ra khí ô-xy."
+  ],
+  [
+   "Khi quan sát vòng đời của một loài côn trùng, em thấy từ trứng nở ra ấu trùng rất giống con trưởng thành nhưng nhỏ hơn, qua nhiều lần lột xác thì thành con trưởng thành. Đó là vòng đời của loài nào?",
+   [
+    "Con châu chấu",
+    "Con bướm",
+    "Con ruồi",
+    "Con muỗi"
+   ],
+   "Châu chấu phát triển qua biến thái không hoàn hảo, ấu trùng (con non) có hình dạng khá giống con trưởng thành."
+  ],
+  [
+   "Nếu nguồn nước mặt ở các ao hồ bị ô nhiễm nghiêm trọng, loài sinh vật nào chịu ảnh hưởng đầu tiên và rõ rệt nhất?",
+   [
+    "Các loài cá và sinh vật sống dưới nước",
+    "Các loài chim bay lượn trên trời",
+    "Các loài thú lớn sống trong rừng sâu",
+    "Các loài bò sát trên cạn khô ráo"
+   ],
+   "Sinh vật sống dưới nước phụ thuộc hoàn toàn vào môi trường nước, do đó chúng sẽ bị ảnh hưởng trực tiếp và đầu tiên khi nước ô nhiễm."
+  ]
+ ],
+ "c4": [
+  [
+   "Vi khuẩn có kích thước như thế nào?",
+   [
+    "Rất nhỏ, chỉ quan sát được bằng kính hiển vi.",
+    "Lớn, có thể nhìn thấy bằng mắt thường.",
+    "To bằng hạt gạo, nhìn rõ trên tay.",
+    "Bằng hạt bụi, nhìn thấy dưới ánh nắng."
+   ],
+   "Vi khuẩn có kích thước cực kỳ nhỏ bé, mắt thường không thể nhìn thấy mà phải dùng kính hiển vi."
+  ],
+  [
+   "Vi khuẩn sống ở những đâu trong tự nhiên?",
+   [
+    "Có ở khắp mọi nơi xung quanh chúng ta.",
+    "Chỉ sống ở trong không khí.",
+    "Chỉ sống ở trong môi trường nước.",
+    "Chỉ sống trong cơ thể người và động vật."
+   ],
+   "Vi khuẩn tồn tại ở khắp mọi nơi như trong đất, nước, không khí, cơ thể sinh vật và các bề mặt đồ vật."
+  ],
+  [
+   "Vi khuẩn có những hình dạng cơ bản nào?",
+   [
+    "Hình cầu, hình que, hình xoắn.",
+    "Hình vuông, hình tròn, hình tam giác.",
+    "Hình hộp, hình nón, hình cầu.",
+    "Hình sao, hình thoi, hình chữ nhật."
+   ],
+   "Các hình dạng phổ biến của vi khuẩn trong tự nhiên bao gồm hình cầu (cầu khuẩn), hình que (trực khuẩn) và hình xoắn (xoắn khuẩn)."
+  ],
+  [
+   "Yếu tố nào sau đây là vai trò có lợi của vi khuẩn?",
+   [
+    "Tham gia vào quá trình lên men thực phẩm.",
+    "Làm xơ cứng các mạch máu.",
+    "Gây hư hỏng và hôi thối thức ăn.",
+    "Gây bệnh viêm đường hô hấp ở người."
+   ],
+   "Vi khuẩn có lợi giúp lên men thực phẩm để tạo ra các món ăn như sữa chua, dưa muối, giấm."
+  ],
+  [
+   "Vi khuẩn lên men lactic được ứng dụng để chế biến món ăn nào sau đây?",
+   [
+    "Sữa chua.",
+    "Luộc rau.",
+    "Nướng cá.",
+    "Rán trứng."
+   ],
+   "Sữa chua được tạo ra nhờ quá trình lên men lactic của vi khuẩn có lợi."
+  ],
+  [
+   "Bệnh nào dưới đây do vi khuẩn gây ra ở người?",
+   [
+    "Bệnh lao phổi.",
+    "Bệnh sốt xuất huyết.",
+    "Bệnh cảm cúm.",
+    "Bệnh thuỷ đậu."
+   ],
+   "Bệnh lao phổi do vi khuẩn lao gây ra, trong khi sốt xuất huyết, cúm, thủy đậu do vi-rút gây ra."
+  ],
+  [
+   "Hành động nào giúp phòng tránh các bệnh do vi khuẩn gây ra?",
+   [
+    "Rửa tay bằng xà phòng trước khi ăn và sau khi đi vệ sinh.",
+    "Ăn thức ăn đã để lâu ngày ngoài không khí.",
+    "Thường xuyên thức khuya và ăn uống thiếu chất.",
+    "Uống nước sông, hồ chưa qua đun sôi."
+   ],
+   "Rửa tay sạch bằng xà phòng giúp loại bỏ vi khuẩn gây bệnh bám trên tay."
+  ],
+  [
+   "Tại sao thức ăn để ở nhiệt độ phòng lâu ngày thường bị ôi thiu?",
+   [
+    "Do vi khuẩn xâm nhập và phát triển làm phân hủy thức ăn.",
+    "Do ánh sáng mặt trời chiếu trực tiếp làm đổi màu.",
+    "Do không khí làm thức ăn bị biến thành nước.",
+    "Do thức ăn tự kết dính và biến đổi chất."
+   ],
+   "Vi khuẩn trong không khí xâm nhập, gặp điều kiện nhiệt độ thích hợp sẽ sinh sôi và phân hủy thức ăn gây ôi thiu."
+  ],
+  [
+   "Việc bảo quản thực phẩm trong tủ lạnh có tác dụng gì đối với vi khuẩn?",
+   [
+    "Kìm hãm sự phát triển và sinh sản của vi khuẩn.",
+    "Tiêu diệt hoàn toàn tất cả các loại vi khuẩn.",
+    "Làm cho vi khuẩn biến đổi thành vi khuẩn có lợi.",
+    "Giúp vi khuẩn phát triển nhanh chóng hơn."
+   ],
+   "Nhiệt độ thấp trong tủ lạnh chỉ kìm hãm sự sinh sản và hoạt động của vi khuẩn chứ không tiêu diệt hoàn toàn chúng."
+  ],
+  [
+   "Nước uống đun sôi để nguội có tác dụng gì trong việc phòng bệnh?",
+   [
+    "Nhiệt độ cao khi đun sôi đã tiêu diệt các vi khuẩn có hại.",
+    "Làm cho vi khuẩn biến thành các chất dinh dưỡng.",
+    "Làm cho nước có vị ngọt tự nhiên hơn.",
+    "Giúp loại bỏ hoàn toàn bụi bẩn ra khỏi nước."
+   ],
+   "Đun sôi nước đến 100 °C giúp tiêu diệt hầu hết các vi khuẩn có hại có trong nước."
+  ],
+  [
+   "Hiện tượng nào sau đây chứng tỏ vi khuẩn có vai trò phân hủy chất hữu cơ trong tự nhiên?",
+   [
+    "Lá cây mục nát biến thành phân bón cho đất.",
+    "Nước mưa rơi xuống làm trôi đá sỏi.",
+    "Mặt trời làm khô ráo đường xá.",
+    "Gió thổi làm rơi quả chín trên cây."
+   ],
+   "Vi khuẩn phân hủy cành, lá cây khô và xác động vật thành chất dinh dưỡng làm phân bón cho đất."
+  ],
+  [
+   "Vì sao chúng ta không nên ăn thức ăn đã bị ôi thiu, nấm mốc?",
+   [
+    "Vì chứa nhiều vi khuẩn có hại gây ngộ độc thực phẩm.",
+    "Vì thức ăn đó đã bị mất hết chất đạm.",
+    "Vì thức ăn đó bị cứng khó nuốt.",
+    "Vì thức ăn đó làm tăng cân nhanh chóng."
+   ],
+   "Thức ăn ôi thiu chứa lượng lớn vi khuẩn có hại và độc tố của chúng, gây đau bụng, tiêu chảy và ngộ độc."
+  ],
+  [
+   "Ý kiến nào sau đây là ĐÚNG khi nói về vi khuẩn?",
+   [
+    "Bên cạnh các vi khuẩn gây bệnh, có nhiều vi khuẩn có lợi cho con người.",
+    "Tất cả các loại vi khuẩn đều gây bệnh cho người và động vật.",
+    "Vi khuẩn chỉ xuất hiện ở những nơi mất vệ sinh.",
+    "Vi khuẩn là động vật nhỏ bé có thể nhìn bằng mắt thường."
+   ],
+   "Vi khuẩn gồm cả loại có lợi (trong tiêu hóa, chế biến thực phẩm) và loại có hại (gây bệnh)."
+  ],
+  [
+   "Bạn Nam quên đậy lồng bàn sau khi ăn cơm xong. Điều gì dễ xảy ra với thức ăn?",
+   [
+    "Ruồi nhặng bám vào mang theo vi khuẩn gây bệnh làm bẩn thức ăn.",
+    "Thức ăn sẽ giữ được độ nóng lâu hơn.",
+    "Vi khuẩn có lợi sẽ tự sinh ra nhiều hơn.",
+    "Thức ăn sẽ biến thành món ăn lên men ngon miệng."
+   ],
+   "Ruồi, nhặng đậu vào thức ăn sẽ truyền vi khuẩn gây bệnh từ môi trường bẩn vào thức ăn."
+  ],
+  [
+   "Khi làm dưa chua, vì sao người ta lại nén chặt dưa và đậy kín hũ?",
+   [
+    "Tạo điều kiện thích hợp cho vi khuẩn lên men lactic hoạt động tốt.",
+    "Để ngăn chặn ánh sáng làm dưa bị thối.",
+    "Để vi khuẩn không thể xâm nhập vào bên trong.",
+    "Giúp dưa nhanh ngấm gia vị ngọt."
+   ],
+   "Việc đậy kín giúp tạo môi trường thiếu oxy thuận lợi cho vi khuẩn lactic lên men làm chua dưa."
+  ],
+  [
+   "Mẹ dặn Bình: “Thức ăn thừa sau bữa tối phải đun lại rồi mới cất vào tủ lạnh”. Mục đích của việc đun lại là gì?",
+   [
+    "Tiêu diệt vi khuẩn đã xâm nhập vào thức ăn trong bữa ăn.",
+    "Làm cho thức ăn đông đặc nhanh hơn khi cho vào tủ lạnh.",
+    "Giúp thức ăn giữ nguyên mùi vị ban đầu.",
+    "Tăng thêm lượng vi khuẩn có lợi cho tiêu hóa."
+   ],
+   "Đun sôi lại thức ăn giúp tiêu diệt các vi khuẩn đã rơi vào thức ăn trong quá trình sử dụng."
+  ],
+  [
+   "Sau khi đi đá bóng về, tay bẩn nhưng An vội cầm bánh mì ăn ngay. Hành động này có nguy cơ gì?",
+   [
+    "Dễ đưa vi khuẩn có hại từ tay vào cơ thể gây bệnh đường tiêu hóa.",
+    "Làm bánh mì bị mất đi chất dinh dưỡng.",
+    "Giúp cơ thể nhanh chóng hấp thụ thức ăn hơn.",
+    "Làm cho tay An trở nên sạch sẽ hơn."
+   ],
+   "Tay bẩn dính nhiều vi khuẩn, cầm trực tiếp thức ăn sẽ đưa vi khuẩn vào đường ruột gây đau bụng, tiêu chảy."
+  ],
+  [
+   "Để làm sữa chua tại nhà, vì sao cần cho một hộp sữa chua cái (sữa chua mồi) vào hỗn hợp sữa ấm?",
+   [
+    "Cung cấp vi khuẩn lên men lactic có sẵn để chúng nhân lên.",
+    "Tạo màu trắng đẹp mắt cho hũ sữa chua.",
+    "Làm cho hỗn hợp sữa nguội đi nhanh chóng.",
+    "Tiêu diệt các vi khuẩn có hại có trong sữa."
+   ],
+   "Sữa chua mồi chứa sẵn các vi khuẩn lactic có lợi, khi gặp nhiệt độ ấm thích hợp sẽ sinh sôi và lên men toàn bộ hũ sữa."
+  ],
+  [
+   "Bác sĩ khuyên không nên tự ý mua thuốc kháng sinh để uống khi bị bệnh. Nguyên nhân chính là gì?",
+   [
+    "Dùng sai thuốc có thể làm vi khuẩn kháng thuốc và gây hại sức khỏe.",
+    "Kháng sinh sẽ tiêu diệt hết tất cả vi khuẩn có lợi trong dạ dày ngay lập tức.",
+    "Thuốc kháng sinh làm giảm sức đề kháng hoàn toàn.",
+    "Kháng sinh chỉ có tác dụng tiêu diệt vi-rút chứ không tác dụng với vi khuẩn."
+   ],
+   "Việc tự ý dùng kháng sinh không đúng liều lượng hoặc không đúng bệnh có thể dẫn đến hiện tượng vi khuẩn kháng thuốc."
+  ],
+  [
+   "Bạn Hà thấy bạn mình bị ho và sốt do nhiễm khuẩn đường hô hấp. Hà nên làm gì để tránh bị lây bệnh?",
+   [
+    "Đeo khẩu trang và giữ khoảng cách an toàn khi tiếp xúc.",
+    "Đến ôm bạn để khuyên bạn cố gắng vượt qua.",
+    "Dùng chung ly nước với bạn để tỏ lòng thân thiết.",
+    "Mở cửa sổ thật to và ngồi sát cạnh bạn."
+   ],
+   "Đeo khẩu trang và giữ khoảng cách giúp ngăn chặn vi khuẩn truyền qua các giọt bắn khi bạn ho hoặc bắn nước dịch."
+  ],
+  [
+   "Vi khuẩn thuộc nhóm sinh vật nào khi xét về cấu tạo tế bào?",
+   [
+    "Sinh vật chưa có nhân hoàn chỉnh",
+    "Sinh vật đã có nhân chính thức",
+    "Sinh vật đa bào kích thước lớn",
+    "Sinh vật không chứa vật chất di truyền"
+   ],
+   "Vi khuẩn là những sinh vật có kích thước rất nhỏ bé, thuộc nhóm sinh vật đơn bào và tế bào chưa có nhân hoàn chỉnh."
+  ],
+  [
+   "Phát biểu nào sau đây ĐÚNG khi nói về đặc điểm cấu tạo của vi khuẩn?",
+   [
+    "Hầu hết vi khuẩn là sinh vật đơn bào, mắt thường không nhìn thấy được",
+    "Vi khuẩn là sinh vật đa bào cấu tạo từ rất nhiều tế bào khác nhau",
+    "Tất cả các loài vi khuẩn đều có khả năng tự tổng hợp chất dinh dưỡng",
+    "Vi khuẩn chỉ sống được trong cơ thể người và động vật"
+   ],
+   "Vi khuẩn có cấu tạo đơn bào rất nhỏ bé, chỉ quan sát được dưới kính hiển vi và không tự tổng hợp được chất dinh dưỡng như thực vật."
+  ],
+  [
+   "Môi trường nào sau đây KHÔNG phải là nơi sống của vi khuẩn?",
+   [
+    "Không gian ngoài vũ trụ không có khí quyển",
+    "Trong đất ẩm và nguồn nước tự nhiên",
+    "Trên bề mặt các đồ vật xung quanh ta",
+    "Bên trong cơ thể người và động vật"
+   ],
+   "Vi khuẩn có ở khắp mọi nơi trên Trái Đất nhưng không thể tồn tại ở ngoài không gian vũ trụ do thiếu điều kiện sống."
+  ],
+  [
+   "Hình dạng phổ biến của vi khuẩn thường gặp là gì?",
+   [
+    "Hình que, hình cầu, hình xoắn",
+    "Hình ngôi sao, hình tròn, hình trụ",
+    "Hình tam giác, hình bầu dục, hình vuông",
+    "Hình chiếc lá, hình ống, hình hạt"
+   ],
+   "Trong tự nhiên, vi khuẩn tồn tại ở ba hình dạng cơ bản là hình que, hình cầu và hình xoắn."
+  ],
+  [
+   "Quá trình nào sau đây có sự tham gia trực tiếp của vi khuẩn có ích?",
+   [
+    "Làm sữa chua từ sữa tươi",
+    "Làm khô quần áo dưới ánh nắng",
+    "Đun sôi nước uống để nguội",
+    "Phơi khô thóc lúa ngoài sân"
+   ],
+   "Vi khuẩn lactic được sử dụng để lên men sữa tươi thành sữa chua."
+  ],
+  [
+   "Trong cơ thể người, hệ cơ quan nào thường chịu ảnh hưởng nhiều nhất khi bị vi khuẩn có hại tấn công gây bệnh tiêu chảy?",
+   [
+    "Hệ tiêu hóa",
+    "Hệ hô hấp",
+    "Hệ tuần hoàn",
+    "Hệ thần kinh"
+   ],
+   "Vi khuẩn có hại khi xâm nhập vào đường tiêu hóa sẽ gây ra các bệnh như tiêu chảy, đau bụng."
+  ],
+  [
+   "Vi khuẩn tham gia vào quá trình tự nhiên nào giúp làm sạch môi trường đất?",
+   [
+    "Phân hủy các chất hữu cơ thành chất vô cơ",
+    "Tổng hợp chất hữu cơ từ ánh sáng mặt trời",
+    "Bay hơi nước từ các ao hồ sông suối",
+    "Làm biến đổi màu sắc của đất trồng"
+   ],
+   "Vi khuẩn đóng vai trò là những sinh vật phân giải, giúp biến đổi xác sinh vật và chất thải thành chất dinh dưỡng cho cây."
+  ],
+  [
+   "Khi muối dưa hành, người ta thường cho thêm một ít nước muối loãng và đường. Vai trò của đường trong quá trình này là gì?",
+   [
+    "Thức ăn cho vi khuẩn lên men phát triển",
+    "Giúp dưa có màu xanh tự nhiên lâu hơn",
+    "Làm cho nước dưa có màu trắng đục",
+    "Ngăn cản hoàn toàn sự phát triển của vi khuẩn"
+   ],
+   "Đường cung cấp chất dinh dưỡng để vi khuẩn lactic sinh trưởng và thực hiện quá trình lên men chua."
+  ],
+  [
+   "Hành động nào sau đây giúp em bảo vệ bản thân khỏi các bệnh do vi khuẩn đường ruột?",
+   [
+    "Rửa tay sạch bằng xà phòng trước khi ăn",
+    "Uống nước lã trực tiếp từ vòi nước máy",
+    "Ăn thức ăn để qua đêm không đậy kín",
+    "Dùng chung khăn mặt với người đang ốm"
+   ],
+   "Rửa tay với xà phòng giúp loại bỏ vi khuẩn bám trên tay, ngăn không cho chúng xâm nhập vào cơ thể qua đường ăn uống."
+  ],
+  [
+   "Vì sao thực phẩm tươi sống nếu để ở nhiệt độ phòng trong thời gian dài sẽ có mùi hôi khó chịu?",
+   [
+    "Do vi khuẩn sinh sôi mạnh mẽ làm thối rữa thực phẩm",
+    "Do thực phẩm tự hóa hơi dưới tác động của gió",
+    "Do không khí bên ngoài biến thành chất độc",
+    "Do nhiệt độ phòng làm thực phẩm bị chín quá mức"
+   ],
+   "Vi khuẩn phân hủy chất hữu cơ trong thực phẩm, làm thức ăn bị ôi thiu và sinh ra mùi hôi."
+  ],
+  [
+   "Lan thấy củ khoai tây để trong góc bếp ẩm ướt lâu ngày bắt đầu mềm nhũn và có mùi lạ. Nguyên nhân chính là gì?",
+   [
+    "Vi khuẩn và nấm mốc đã xâm nhập và phân hủy củ khoai",
+    "Củ khoai tây tự phát triển thành cây non quá nhanh",
+    "Ánh sáng trong góc bếp làm củ khoai bị biến chất",
+    "Không khí khô hạn làm củ khoai bị héo đi"
+   ],
+   "Độ ẩm cao tạo điều kiện cho vi khuẩn và nấm mốc phát triển, phân hủy các chất trong củ khoai tây."
+  ],
+  [
+   "Một bạn học sinh nói rằng: “Tất cả các loài vi khuẩn sống xung quanh chúng ta đều là tác nhân gây bệnh nguy hiểm”. Nhận định này đúng hay sai?",
+   [
+    "Sai, vì có rất nhiều loài vi khuẩn có ích đối với con người và tự nhiên",
+    "Đúng, vì vi khuẩn nào cũng mang lại tác hại cho sức khỏe",
+    "Sai, vì vi khuẩn chỉ sống trong đất chứ không sống quanh ta",
+    "Đúng, vì chúng ta không thể nhìn thấy chúng bằng mắt thường"
+   ],
+   "Không phải vi khuẩn nào cũng có hại; rất nhiều loài có ích trong sản xuất thực phẩm, tiêu hóa và phân hủy chất thải."
+  ],
+  [
+   "Mẹ mua thịt lợn về và chưa nấu ngay. Việc mẹ cất ngay vào ngăn đá tủ lạnh nhằm mục đích chủ yếu nào?",
+   [
+    "Làm chậm sự phát triển và hoạt động của vi khuẩn",
+    "Tiêu diệt hoàn toàn 100% vi khuẩn có trong thịt",
+    "Giúp thịt lợn chín từ từ bên trong tủ lạnh",
+    "Làm cho miếng thịt mềm hơn khi đem nấu"
+   ],
+   "Nhiệt độ thấp trong tủ lạnh chỉ kìm hãm sự phát triển của vi khuẩn chứ không tiêu diệt hoàn toàn chúng."
+  ],
+  [
+   "Khi bị ho do viêm họng do vi khuẩn, việc tự ý mua thuốc kháng sinh uống khi chưa có chỉ định của bác sĩ có thể dẫn đến hậu quả gì?",
+   [
+    "Gây ra hiện tượng kháng thuốc và làm bệnh khó chữa hơn",
+    "Giúp cơ thể khỏi bệnh ngay lập tức trong vài phút",
+    "Làm tăng số lượng vi khuẩn có lợi trong cổ họng",
+    "Không gây ra bất kỳ ảnh hưởng nào đến sức khỏe"
+   ],
+   "Lạm dụng kháng sinh hoặc dùng không đúng cách sẽ khiến vi khuẩn nhờn thuốc, kháng thuốc, gây khó khăn cho việc điều trị sau này."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện việc ứng dụng kiến thức về vi khuẩn vào đời sống hằng ngày?",
+   [
+    "Đậy kín thức ăn vừa nấu chín khi để nguội",
+    "Phơi quần áo ở nơi ẩm thấp thiếu ánh nắng",
+    "Để rau sống chưa rửa ngâm nước qua đêm",
+    "Mở nắp hũ dưa chua liên tục khi đang muối"
+   ],
+   "Đậy kín thức ăn giúp ngăn chặn bụi bẩn và ruồi muỗi mang vi khuẩn tiếp xúc với thức ăn."
+  ],
+  [
+   "Tại sao các bác sĩ luôn khuyên chúng ta phải ăn chín, uống sôi?",
+   [
+    "Nhiệt độ cao khi đun nấu sẽ tiêu diệt phần lớn vi khuẩn gây bệnh",
+    "Làm cho thức ăn có mùi vị thơm ngon và đậm đà hơn",
+    "Giúp cơ thể hấp thụ được nhiều vitamin hơn",
+    "Làm giảm lượng chất béo có hại trong thức ăn"
+   ],
+   "Nhiệt độ sôi của nước và nhiệt độ nấu chín thức ăn có khả năng tiêu diệt đa số các loại vi khuẩn gây bệnh."
+  ],
+  [
+   "Vì sao rác thải hữu cơ như vỏ trái cây, rau thừa khi chôn xuống đất sau một thời gian sẽ biến mất?",
+   [
+    "Do vi khuẩn và sinh vật trong đất phân hủy thành đất mùn",
+    "Do nước ngầm dưới đất cuốn trôi đi nơi khác",
+    "Do áp lực của lớp đất phía trên nén chặt lại",
+    "Do ánh sáng mặt trời chiếu xuống làm rác bốc hơi"
+   ],
+   "Vi khuẩn trong đất đóng vai trò phân giải rác thải hữu cơ thành các chất dinh dưỡng trả lại cho đất."
+  ],
+  [
+   "Bạn Minh muốn làm sữa chua cho gia đình thưởng thức. Sau khi khuấy đều sữa đặc, sữa tươi và sữa chua mồi, Minh nên ủ ấm hỗn hợp này ở nhiệt độ vừa phải thay vì để trong tủ lạnh vì lý do gì?",
+   [
+    "Nhiệt độ ấm giúp vi khuẩn lactic trong sữa mồi sinh trưởng mạnh",
+    "Nhiệt độ lạnh kích thích vi khuẩn làm chua sữa nhanh hơn",
+    "Sữa sẽ bị đóng băng nếu để ở nhiệt độ phòng",
+    "Vi khuẩn lactic chỉ sống được ở nhiệt độ cao trên 80 độ C"
+   ],
+   "Vi khuẩn lactic cần nhiệt độ ấm áp để phát triển và thực hiện quá trình lên men tạo ra sữa chua."
+  ],
+  [
+   "Trường hợp nào dưới đây cho thấy vi khuẩn có ích đối với hệ tiêu hóa của con người?",
+   [
+    "Vi khuẩn đường ruột hỗ trợ tiêu hóa thức ăn và tổng hợp vitamin",
+    "Vi khuẩn bám trên răng tạo ra các mảng bám gây sâu răng",
+    "Vi khuẩn xâm nhập qua vết thương hở gây nhiễm trùng da",
+    "Vi khuẩn trong nước không đun sôi gây đau bụng khẩn cấp"
+   ],
+   "Trong hệ tiêu hóa của người có các lợi khuẩn giúp hỗ trợ quá trình tiêu hóa thức ăn và cung cấp một số vitamin cần thiết."
+  ],
+  [
+   "Nếu gia đình em quên cất nồi canh cua vào tủ lạnh trong một ngày nắng nóng, hiện tượng gì sẽ xảy ra với nồi canh vào hôm sau?",
+   [
+    "Canh bị thiu, sủi bọt và có mùi chua do vi khuẩn phân hủy",
+    "Canh tự động cô đặc lại thành một khối đặc quánh",
+    "Canh trở nên thơm ngon và ngọt hơn nhờ quá trình lên men",
+    "Canh không thay đổi chất lượng vì trời nắng to"
+   ],
+   "Nhiệt độ nóng là điều kiện lý tưởng để vi khuẩn xâm nhập và phân hủy canh cua, khiến canh bị ôi thiu nhanh chóng."
+  ]
+ ],
+ "c5": [
+  [
+   "Cơ quan nào dưới đây thuộc hệ vận động của cơ thể người?",
+   [
+    "Hệ cơ và hệ xương",
+    "Hệ tuần hoàn",
+    "Hệ hô hấp",
+    "Hệ tiêu hóa"
+   ],
+   "Hệ vận động của con người được cấu tạo bởi hệ xương và hệ cơ giúp cơ thể chuyển động."
+  ],
+  [
+   "Chức năng chính của hệ tiêu hóa là gì?",
+   [
+    "Biến đổi thức ăn thành các chất dinh dưỡng ngấm vào máu",
+    "Bơm máu đi nuôi cơ thể",
+    "Trao đổi khí giữa cơ thể và môi trường",
+    "Điều khiển mọi hoạt động của cơ thể"
+   ],
+   "Hệ tiêu hóa có nhiệm vụ tiêu hóa thức ăn và hấp thu chất dinh dưỡng cung cấp cho cơ thể."
+  ],
+  [
+   "Việc làm nào dưới đây có hại cho cơ quan hô hấp?",
+   [
+    "Hút thuốc lá và ngửi khói thuốc lá",
+    "Đeo khẩu trang khi đi đường bụi",
+    "Tập thể dục buổi sáng nơi thoáng mát",
+    "Trồng và chăm sóc cây xanh xung quanh nhà"
+   ],
+   "Khói thuốc lá chứa nhiều chất độc hại làm tổn thương phổi và các cơ quan hô hấp."
+  ],
+  [
+   "Máu đóng vai trò gì trong cơ thể người?",
+   [
+    "Vận chuyển chất dinh dưỡng và ô-xy đi nuôi cơ thể",
+    "Trực tiếp tiêu hóa thức ăn trong dạ dày",
+    "Tiếp nhận ánh sáng để tạo ra hình ảnh",
+    "Điều hòa thân nhiệt luôn ở mức âm độ"
+   ],
+   "Máu lưu thông khắp cơ thể làm nhiệm vụ vận chuyển chất dinh dưỡng và ô-xy đến các cơ quan."
+  ],
+  [
+   "Để phòng bệnh béo phì, chúng ta nên thực hiện điều nào sau đây?",
+   [
+    "Ăn uống hợp lý và tích cực vận động cơ thể",
+    "Ăn thật nhiều đồ ngọt và thức ăn nhanh",
+    "Ngồi một chỗ xem ti vi suốt cả ngày",
+    "Hạn chế tối đa việc tập thể dục thể thao"
+   ],
+   "Kết độ ăn uống lành mạnh và tập thể dục giúp năng lượng tiêu hao cân bằng với năng lượng nạp vào."
+  ],
+  [
+   "Tuổi dậy thì ở con người thường diễn ra trong khoảng thời gian nào?",
+   [
+    "Từ khoảng 10 đến 19 tuổi",
+    "Từ khi mới sinh đến 3 tuổi",
+    "Từ 6 đến 10 tuổi",
+    "Từ 60 tuổi trở lên"
+   ],
+   "Giai đoạn dậy thì thường bắt đầu từ khoảng 10 đến 19 tuổi, có sự phát triển mạnh mẽ về thể chất và tâm sinh lý."
+  ],
+  [
+   "Việc làm nào sau đây giúp bảo vệ đôi mắt của em?",
+   [
+    "Đọc sách ở nơi có đầy đủ ánh sáng",
+    "Xem điện thoại liên tục trong phòng tối",
+    "Đọc sách khi đang nằm trên giường",
+    "Để màn hình máy tính quá sát mắt"
+   ],
+   "Đọc sách ở nơi đủ ánh sáng giúp mắt không phải điều tiết quá mức, tránh bị cận thị."
+  ],
+  [
+   "Hệ thần kinh bao gồm những bộ phận chính nào?",
+   [
+    "Não, tủy sống và các dây thần kinh",
+    "Tim, gan và các mạch máu",
+    "Phế quản, khí quản và hai lá phổi",
+    "Dạ dày, ruột non và ruột già"
+   ],
+   "Hệ thần kinh trung ương gồm não và tủy sống, kết nối với các dây thần kinh đi khắp cơ thể."
+  ],
+  [
+   "Tại sao chúng ta không nên ăn các loại thức ăn đã quá hạn sử dụng?",
+   [
+    "Vì dễ bị ngộ độc thực phẩm và đau bụng",
+    "Vì thức ăn đó có giá tiền rất đắt đỏ",
+    "Vì làm cho cơ thể phát triển quá nhanh",
+    "Vì thức ăn đó sẽ không có mùi vị gì"
+   ],
+   "Thức ăn quá hạn sinh ra vi khuẩn có hại gây ngộ độc, tiêu chảy và nguy hiểm cho sức khỏe."
+  ],
+  [
+   "Hành động nào thể hiện sự quan tâm đến sức khỏe tinh thần?",
+   [
+    "Chia sẻ cảm xúc với bạn bè và người thân",
+    "Giữ kín mọi chuyện buồn trong lòng",
+    "Thức khuya để chơi trò chơi điện tử",
+    "Tránh giao tiếp với mọi người xung quanh"
+   ],
+   "Chia sẻ cảm xúc giúp giải tỏa căng thẳng, giữ cho tâm trạng luôn vui vẻ và tinh thần thoải mái."
+  ],
+  [
+   "Khi bạn Nam bị chảy máu cam, việc làm nào sau đây là đúng cách?",
+   [
+    "Ngồi thẳng, bóp nhẹ cánh mũi và thở bằng miệng",
+    "Ngửa mặt thật cao lên trời để máu ngừng chảy",
+    "Nằm ngửa ra giường và dùng khăn bịt kín mũi",
+    "Dùng bông nhét thật sâu vào bên trong lỗ mũi"
+   ],
+   "Ngồi thẳng và bóp nhẹ cánh mũi giúp cầm máu cam hiệu quả, tránh để máu chảy ngược vào họng."
+  ],
+  [
+   "Vì sao ta cần ngủ đủ giấc từ 8 đến 10 tiếng mỗi ngày?",
+   [
+    "Để não bộ và các cơ quan được nghỉ ngơi, phục hồi",
+    "Để cơ thể tích tụ thêm nhiều mỡ thừa",
+    "Để không phải làm các công việc nhà nữa",
+    "Để chiều cao của cơ thể giảm bớt lại"
+   ],
+   "Giấc ngủ đủ giờ giúp cơ thể phục hồi năng lượng và phát triển tốt sau một ngày hoạt động."
+  ],
+  [
+   "Khi tham gia giao thông bằng xe đạp điện, học sinh cần nhớ điều gì?",
+   [
+    "Phải đội mũ bảo hiểm đạt chuẩn và cài quai đúng quy cách",
+    "Chỉ cần đội mũ khi đi qua các đoạn đường lớn",
+    "Không cần đội mũ nếu đi với tốc độ chậm",
+    "Đội mũ thời trang loại nhẹ không cần cài quai"
+   ],
+   "Đội mũ bảo hiểm đạt chuẩn giúp bảo vệ đầu khi xảy ra tai nạn giao thông."
+  ],
+  [
+   "Nhóm chất dinh dưỡng nào giúp cơ thể xây dựng và phát triển?",
+   [
+    "Chất đạm",
+    "Chất béo",
+    "Vitamin",
+    "Chất khoáng"
+   ],
+   "Chất đạm (protein) là nguyên liệu quan trọng để xây dựng các tế bào và cơ quan của cơ thể."
+  ],
+  [
+   "Phát biểu nào sau đây đúng khi nói về tác hại của ma túy?",
+   [
+    "Hủy hoại sức khỏe và làm mất khả năng tự chủ",
+    "Giúp con người luôn vui vẻ và khỏe mạnh",
+    "Làm cho trí nhớ trở nên minh mẫn hơn",
+    "Tăng cường sức đề kháng cho cơ thể"
+   ],
+   "Ma túy là chất độc hại gây nghiện, tàn phá sức khỏe và tinh thần người sử dụng."
+  ],
+  [
+   "Em sẽ ứng xử thế nào khi thấy một bạn bị bắt nạt ở trường?",
+   [
+    "Báo ngay cho thầy cô giáo hoặc người lớn tin cậy",
+    "Đứng xem cùng các bạn khác cho vui",
+    "Cổ vũ để hai bên tiếp tục xô xát",
+    "Làm ngơ như không nhìn thấy sự việc"
+   ],
+   "Báo cho người lớn là cách an toàn và đúng đắn nhất để chấm dứt tình trạng bắt nạt học đường."
+  ],
+  [
+   "Vì sao nhà ở cần phải có đủ ánh sáng và thoáng khí?",
+   [
+    "Để phòng tránh ẩm mốc và các bệnh đường hô hấp",
+    "Để ngôi nhà trông có vẻ rộng rãi hơn thực tế",
+    "Để tiết kiệm tiền mua bóng đèn điện vào ban ngày",
+    "Để thu hút nhiều côn trùng có ích bay vào nhà"
+   ],
+   "Nhà thông thoáng, đủ ánh sáng giúp không khí trong lành, hạn chế vi khuẩn gây bệnh sinh sôi."
+  ],
+  [
+   "Nếu phát hiện có rò rỉ khí gas trong bếp, việc đầu tiên cần làm là gì?",
+   [
+    "Khóa van bình gas ngay lập tức và mở cửa thông gió",
+    "Bật quạt điện thật mạnh để thổi bay mùi gas",
+    "Bật bếp ga lên để kiểm tra xem lửa có cháy không",
+    "Dùng bật lửa soi tìm chỗ bị hở ống dẫn gas"
+   ],
+   "Khóa van và mở cửa giúp giảm nồng độ gas, tuyệt đối không bật thiết bị điện tránh gây cháy nổ."
+  ],
+  [
+   "Tại sao không nên uống nước ngọt có ga thay cho nước lọc hằng ngày?",
+   [
+    "Vì chứa nhiều đường dễ gây béo phì và sâu răng",
+    "Vì loại nước này làm xương chắc khỏe hơn",
+    "Vì nước ngọt cung cấp toàn bộ vitamin cần thiết",
+    "Vì nước ngọt không chứa năng lượng"
+   ],
+   "Nước ngọt chứa lượng đường cao, uống nhiều gây hại cho sức khỏe, sâu răng và béo phì."
+  ],
+  [
+   "Em cần làm gì để giữ gìn vệ sinh cá nhân hằng ngày?",
+   [
+    "Tắm rửa sạch sẽ, rửa tay trước khi ăn và sau khi đi vệ sinh",
+    "Chỉ rửa tay khi thấy tay có vết bẩn rõ ràng",
+    "Thay quần áo mỗi tuần một lần vào chủ nhật",
+    "Đánh răng một lần vào buổi sáng là đủ"
+   ],
+   "Giữ vệ sinh cá nhân sạch sẽ giúp loại bỏ vi khuẩn, phòng ngừa nhiều bệnh truyền nhiễm."
+  ],
+  [
+   "Cơ quan nào dưới đây làm nhiệm vụ tiếp nhận thông tin từ các giác quan và điều khiển mọi hoạt động của cơ thể?",
+   [
+    "Hệ thần kinh",
+    "Hệ vận động",
+    "Hệ tiêu hóa",
+    "Hệ tuần hoàn"
+   ],
+   "Hệ thần kinh gồm não bộ, tủy sống và các dây thần kinh có vai trò điều khiển và điều hòa mọi hoạt động của cơ thể."
+  ],
+  [
+   "Để phòng tránh các bệnh lây truyền qua đường tiêu hóa, chúng ta nên thực hiện việc làm nào sau đây?",
+   [
+    "Ăn chín, uống sôi và rửa tay sạch trước khi ăn",
+    "Ăn quà vặt ở các hàng quán ven đường không rõ nguồn gốc",
+    "Uống nước lã chưa đun sôi để rèn luyện sức đề kháng",
+    "Để thức ăn qua đêm ở nhiệt độ phòng rồi ăn tiếp"
+   ],
+   "Ăn chín uống sôi và giữ vệ sinh cá nhân giúp loại bỏ các vi khuẩn gây bệnh đường tiêu hóa."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện sự chăm sóc và bảo vệ cơ quan tuần hoàn?",
+   [
+    "Tập thể dục thể thao đều đặn và ăn uống lành mạnh",
+    "Thức khuya chơi điện tử và ăn nhiều đồ chiên rán",
+    "Hút thuốc lá thụ động hoặc sống trong môi trường ô nhiễm",
+    "Uống nhiều nước ngọt có ga thay cho nước lọc"
+   ],
+   "Tập thể dục và ăn uống lành mạnh giúp tim mạch khỏe mạnh và máu lưu thông tốt."
+  ],
+  [
+   "Khi cơ thể bị mất nước nhiều do tiêu chảy hoặc sốt cao, loại dung dịch nào sau đây là phù hợp nhất để bù nước?",
+   [
+    "Dung dịch Oresol pha đúng tỉ lệ",
+    "Nước ngọt có ga",
+    "Nước ép trái cây chưa pha loãng",
+    "Cà phê đá"
+   ],
+   "Oresol là dung dịch chuyên dụng giúp bù nước và các chất điện giải đã mất khi bị tiêu chảy hoặc sốt."
+  ],
+  [
+   "Vì sao chúng ta không nên mặc quần áo quá chật hoặc bó sát trong thời gian dài?",
+   [
+    "Gây cản trở lưu thông máu và ảnh hưởng đến sự phát triển của cơ thể",
+    "Làm cho cơ thể nhanh chóng tăng cân bất thường",
+    "Gây ra các bệnh liên quan đến hệ thần kinh trung ương",
+    "Làm giảm thị lực của mắt khi nhìn xa"
+   ],
+   "Quần áo quá chật ép vào da, làm cản trở quá trình lưu thông máu và gây khó chịu cho cơ thể."
+  ],
+  [
+   "Việc làm nào dưới đây có thể làm tổn thương đến hệ thần kinh và sức khỏe tinh thần của học sinh?",
+   [
+    "Thường xuyên xem phim hoặc chơi trò chơi điện tử bạo lực đến khuya",
+    "Đi ngủ đúng giờ và đủ giấc mỗi ngày từ 8 đến 10 tiếng",
+    "Tham gia các hoạt động vui chơi ngoài trời cùng bạn bè",
+    "Trò chuyện cởi mở với bố mẹ khi gặp chuyện buồn ở trường"
+   ],
+   "Các nội dung bạo lực và việc thức khuya ảnh hưởng xấu đến sự phát triển của hệ thần kinh."
+  ],
+  [
+   "Biểu hiện nào cho thấy một người đang có sức khỏe tinh thần tốt?",
+   [
+    "Luôn vui vẻ, biết cách kiểm soát cảm xúc và hòa đồng với mọi người",
+    "Thường xuyên lo âu, sợ hãi và tự cô lập bản thân với bạn bè",
+    "Cáu gắt vô cớ với những người xung quanh khi gặp chuyện nhỏ",
+    "Mất ngủ kéo dài và luôn cảm thấy chán nản mọi thứ"
+   ],
+   "Sức khỏe tinh thần tốt thể hiện qua sự cân bằng cảm xúc, tinh thần lạc quan và quan hệ tốt với mọi người."
+  ],
+  [
+   "Khi ở nhà một mình, nếu nghe thấy tiếng chuông cửa của người lạ mà em không quen biết, em nên làm gì?",
+   [
+    "Không mở cửa và hỏi xem người đó là ai hoặc gọi điện cho người thân",
+    "Mở cửa ngay lập tức để xem họ muốn bán hay giao thứ gì",
+    "Nói lớn qua cửa là ở nhà một mình rồi mở cửa cho họ vào",
+    "Trốn vào góc nhà và khóc lớn mà không báo cho ai biết"
+   ],
+   "Không mở cửa cho người lạ giúp đảm bảo an toàn tuyệt đối khi ở nhà một mình."
+  ],
+  [
+   "Bộ phận nào của hệ hô hấp có chức năng chính là lọc bụi, làm ấm và làm ẩm không khí trước khi vào phổi?",
+   [
+    "Khoang mũi",
+    "Khí quản",
+    "Phế quản",
+    "Lá phổi"
+   ],
+   "Khoang mũi có lớp niêm mạc và lông mũi giúp cản bụi, làm ấm và ẩm không khí hít vào."
+  ],
+  [
+   "Tại sao lứa tuổi dậy thì (thường từ 10 đến 15 tuổi) cơ thể lại có sự thay đổi nhanh chóng về chiều cao và cân nặng?",
+   [
+    "Do sự phát triển mạnh mẽ của các cơ quan trong cơ thể và sự thay đổi hormone",
+    "Do lười vận động và ăn quá nhiều đồ ngọt vào ban đêm",
+    "Do ngủ nhiều hơn mức bình thường trong suốt cả năm",
+    "Do thời tiết thay đổi theo mùa trong năm học"
+   ],
+   "Tuổi dậy thì là giai đoạn hormone sinh trưởng hoạt động mạnh mẽ, thúc đẩy sự phát triển thể chất."
+  ],
+  [
+   "Hành động nào dưới đây giúp phòng tránh các bệnh lây qua đường hô hấp nơi công cộng?",
+   [
+    "Đeo khẩu trang khi đến nơi đông người hoặc khi tiếp xúc với người bệnh",
+    "Khạc nhổ bừa bãi xuống nền nhà để giải phóng cổ họng",
+    "Đứng thật gần người đang ho và hít thở thật sâu",
+    "Đóng kín cửa phòng học suốt cả ngày để tránh gió lùa"
+   ],
+   "Đeo khẩu trang giúp ngăn chặn các giọt bắn chứa mầm bệnh lây qua đường hô hấp."
+  ],
+  [
+   "Vì sao trẻ em trong độ tuổi phát triển cần được ăn uống đầy đủ các nhóm chất dinh dưỡng?",
+   [
+    "Để cơ thể tăng trưởng chiều cao, cân nặng và phát triển trí tuệ",
+    "Để cơ thể ngừng phát triển nhằm giữ nguyên vóc dáng nhỏ gọn",
+    "Để chỉ duy trì cân nặng mà không cần tăng trưởng chiều cao",
+    "Để có thể ngủ gật trong lớp học suốt cả ngày"
+   ],
+   "Dinh dưỡng đầy đủ cung cấp nguyên liệu cho sự lớn lên và phát triển toàn diện của trẻ em."
+  ],
+  [
+   "Phát biểu nào dưới đây là đúng khi nói về việc sử dụng các chất kích thích như rượu, bia, thuốc lá?",
+   [
+    "Gây hại nghiêm trọng cho gan, phổi, hệ thần kinh và tim mạch",
+    "Giúp tinh thần tỉnh táo và làm việc hiệu quả hơn suốt cả ngày",
+    "Không gây ảnh hưởng gì đến sức khỏe nếu chỉ sử dụng một ít",
+    "Làm tăng sức đề kháng và giúp chống lại các bệnh truyền nhiễm"
+   ],
+   "Rượu bia và thuốc lá chứa nhiều chất độc hại, tàn phá các cơ quan trong cơ thể người."
+  ],
+  [
+   "Khi thấy một bạn học sinh khác bị ngất xỉu giữa sân trường do nắng nóng, em cần làm gì đầu tiên?",
+   [
+    "Đưa bạn vào chỗ râm mát, thoáng khí và gọi giáo viên hỗ trợ",
+    "Đổ nước lạnh trực tiếp lên đầu bạn để bạn tỉnh lại ngay lập tức",
+    "Bỏ mặc bạn ở đó vì nghĩ bạn chỉ đang giả vờ ngủ",
+    "Tập trung đông người xung quanh bạn để xem xét tình hình"
+   ],
+   "Đưa nạn nhân đến nơi thoáng mát và gọi người lớn là cách xử trí cấp cứu ban đầu đúng đắn nhất."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện lối sống khoa học và bảo vệ sức khỏe bản thân?",
+   [
+    "Ăn đúng bữa, ngủ đủ giấc và tích cực tham gia vận động",
+    "Ăn vặt thay cho bữa chính và thức khuya xem điện thoại",
+    "Chỉ ăn thịt và kiêng hoàn toàn rau xanh để giữ dáng",
+    "Uống nước ngọt thay cho nước lọc mỗi khi thấy khát"
+   ],
+   "Lối sống khoa học bao gồm ăn uống điều độ, ngủ đủ và tập thể dục thường xuyên."
+  ],
+  [
+   "Bạn Hoa thường xuyên đọc sách ở nơi thiếu ánh sáng và nằm đọc trên giường. Hậu quả lâu dài có thể xảy ra với đôi mắt của Hoa là gì?",
+   [
+    "Bị cận thị hoặc mỏi mắt, giảm thị lực",
+    "Giúp mắt thích nghi tốt hơn với bóng tối",
+    "Làm cho mắt sáng hơn và tinh anh hơn",
+    "Không gây ra bất kỳ ảnh hưởng nào cho mắt"
+   ],
+   "Đọc sách thiếu ánh sáng hoặc sai tư thế làm mắt phải điều tiết quá mức, dẫn đến cận thị."
+  ],
+  [
+   "Hành động nào sau đây giúp giữ gìn vệ sinh thân thể sạch sẽ và phòng bệnh ngoài da?",
+   [
+    "Tắm rửa thường xuyên, thay quần áo và giặt giũ sạch sẽ hằng ngày",
+    "Mặc chung quần áo với người khác khi họ bị ngứa ngoài da",
+    "Để đầu tóc bết dính và không gội đầu trong nhiều tuần liền",
+    "Đi giày kín chân cả ngày mà không bao giờ tháo ra phơi nắng"
+   ],
+   "Vệ sinh thân thể sạch sẽ giúp loại bỏ vi khuẩn và mồ hôi, ngăn ngừa các bệnh về da."
+  ],
+  [
+   "Vì sao nhà ở cần phải có cửa sổ mở thoáng khí và đón được ánh sáng mặt trời?",
+   [
+    "Giúp không khí lưu thông, tiêu diệt vi khuẩn và giữ nhà khô ráo",
+    "Làm cho căn nhà trở nên lạnh hơn vào mùa hè oi bức",
+    "Giúp tiết kiệm tiền điện chiếu sáng vào ban đêm",
+    "Làm cho đồ đạc trong nhà nhanh chóng bị phai màu sơn"
+   ],
+   "Ánh sáng tự nhiên và không khí thoáng giúp hạn chế ẩm mốc, vi khuẩn gây bệnh trong nhà."
+  ],
+  [
+   "Nếu không may bị bỏng nước sôi ở tay, việc sơ cứu đầu tiên và đúng đắn nhất là gì?",
+   [
+    "Ngâm ngay vùng da bị bỏng vào nước sạch mát trong khoảng 10 đến 15 phút",
+    "Bôi kem đánh răng hoặc mỡ trăn dày lên vết bỏng ngay lập tức",
+    "Dùng băng gạc quấn chặt vết bỏng lại để không bị nhiễm trùng",
+    "Chườm đá lạnh trực tiếp lên vết bỏng cho đến khi hết đau"
+   ],
+   "Ngâm nước mát giúp giảm nhiệt độ vùng bỏng, giảm tổn thương sâu mà không làm nhiễm trùng như bôi kem đánh răng."
+  ],
+  [
+   "Cơ quan nào trong cơ thể người có chức năng chính là lọc và thải các chất cặn bã qua nước tiểu?",
+   [
+    "Thận",
+    "Gan",
+    "Phổi",
+    "Ruột già"
+   ],
+   "Thận là cơ quan chính trong hệ bài tiết nước tiểu, có nhiệm vụ lọc máu và loại bỏ các chất cặn bã ra khỏi cơ thể."
+  ]
+ ],
+ "c6": [
+  [
+   "Thực vật cần những yếu tố nào sau đây để sống và phát triển bình thường?",
+   [
+    "Ánh sáng, nước, không khí, chất khoáng và nhiệt độ thích hợp.",
+    "Chỉ cần nước và ánh sáng mặt trời là đủ.",
+    "Chỉ cần chất khoáng trong đất và không khí.",
+    "Chất khoáng và bóng tối để rễ cây phát triển."
+   ],
+   "Thực vật cần đầy đủ các yếu tố cơ bản gồm ánh sáng, nước, không khí, chất khoáng và nhiệt độ thích hợp để sống và phát triển."
+  ],
+  [
+   "Động vật lấy từ môi trường những gì để duy trì sự sống?",
+   [
+    "Thức ăn, nước uống, không khí và nhiệt độ phù hợp.",
+    "Chỉ cần thức ăn và nước uống hàng ngày.",
+    "Chỉ cần không khí trong lành và ánh sáng.",
+    "Thức ăn và ánh sáng mặt trời."
+   ],
+   "Động vật cần lấy thức ăn, nước uống, không khí và ở trong điều kiện nhiệt độ phù hợp để duy trì sự sống."
+  ],
+  [
+   "Mối quan hệ nào dưới đây thể hiện sự sinh vật ăn sinh vật khác?",
+   [
+    "Cây lúa bị châu chấu ăn lá.",
+    "Cây phong lan sống bám trên thân cây gỗ lớn.",
+    "Chim sâu và cây xanh cùng tồn tại.",
+    "Vi khuẩn cố định đạm trong rễ cây họ Đậu."
+   ],
+   "Châu chấu ăn lá lúa là ví dụ về mối quan hệ sinh vật ăn sinh vật trong tự nhiên."
+  ],
+  [
+   "Thành phần nào không phải là một thành phần của môi trường tự nhiên xung quanh chúng ta?",
+   [
+    "Nhà máy sản xuất do con người xây dựng.",
+    "Không khí chúng ta đang hít thở hàng ngày.",
+    "Nguồn nước trong ao hồ, sông suối.",
+    "Đất đai và các loài sinh vật sống trên đó."
+   ],
+   "Nhà máy do con người xây dựng là nhân tạo, không phải là thành phần tự nhiên vốn có của môi trường."
+  ],
+  [
+   "Hành động nào dưới đây góp phần bảo vệ môi trường sống của các loài sinh vật?",
+   [
+    "Trồng cây gây rừng và bảo vệ động vật hoang dã.",
+    "Sử dụng thuốc bảo vệ thực vật quá mức cho phép.",
+    "Xả rác thải sinh hoạt trực tiếp xuống ao hồ.",
+    "Săn bắt động vật quý hiếm để làm cảnh."
+   ],
+   "Trồng cây và bảo vệ động vật hoang dã giúp gìn giữ và cải thiện môi trường sống của các loài."
+  ],
+  [
+   "Trong chuỗi thức ăn: Cỏ -> Châu chấu -> Ếch -> Rắn, sinh vật nào đóng vai trò là sinh vật sản xuất?",
+   [
+    "Cỏ.",
+    "Châu chấu.",
+    "Ếch.",
+    "Rắn."
+   ],
+   "Cỏ là thực vật tự tổng hợp chất dinh dưỡng nên đóng vai trò là sinh vật sản xuất trong chuỗi thức ăn."
+  ],
+  [
+   "Tại sao khi trời rét đậm, người nông dân thường phải che chắn chuồng trại cho gia súc?",
+   [
+    "Vì động vật cần nhiệt độ thích hợp để duy trì sự sống và phát triển.",
+    "Vì động vật sợ ánh sáng ban đêm.",
+    "Vì làm vậy giúp gia súc lớn nhanh hơn mà không cần ăn.",
+    "Vì động vật không thích hợp với mùa hè."
+   ],
+   "Nhiệt độ quá lạnh ảnh hưởng xấu đến sức khỏe động vật, việc che chắn giúp duy trì nhiệt độ thích hợp."
+  ],
+  [
+   "Hiện tượng nước ao hồ bị ô nhiễm nặng và cá chết nổi trắng mặt nước thường do nguyên nhân chủ yếu nào?",
+   [
+    "Nước thải chưa qua xử lý từ khu dân cư và nhà máy xả ra ao hồ.",
+    "Trời mưa nhiều làm nước trong ao hồ bị loãng.",
+    "Ánh sáng mặt trời chiếu quá mạnh vào mùa hè.",
+    "Lượng cá trong ao quá ít không đủ làm sạch nước."
+   ],
+   "Nước thải sinh hoạt và công nghiệp chứa nhiều chất độc hại làm ô nhiễm nguồn nước và khiến cá chết."
+  ],
+  [
+   "Khi cây trồng thiếu nước trong thời gian dài, hiện tượng gì sẽ xảy ra với cây?",
+   [
+    "Cây bị héo, lá vàng và nếu kéo dài cây sẽ chết.",
+    "Cây lớn rất nhanh và ra nhiều hoa quả hơn.",
+    "Cây tự chuyển hóa thành động vật để di chuyển.",
+    "Thân cây trở nên mọng nước và cứng cáp hơn."
+   ],
+   "Nước rất cần thiết cho việc vận chuyển chất dinh dưỡng, thiếu nước lâu ngày cây sẽ bị héo và chết."
+  ],
+  [
+   "Việc sử dụng phân bón hóa học và thuốc trừ sâu quá mức trong nông nghiệp gây ra hậu quả gì?",
+   [
+    "Làm ô nhiễm đất và nguồn nước ngầm trong khu vực.",
+    "Làm cho đất ngày càng màu mỡ và tơi xốp hơn.",
+    "Giúp tiêu diệt hoàn toàn các loại vi khuẩn có lợi cho cây.",
+    "Làm cho cây trồng không bao giờ bị sâu bệnh nữa."
+   ],
+   "Dùng quá nhiều hóa chất nông nghiệp sẽ tồn dư trong đất và ngấm xuống nguồn nước, gây ô nhiễm môi trường."
+  ],
+  [
+   "Nếu con người chặt phá rừng bừa bãi, điều gì sẽ xảy ra đối với môi trường đất?",
+   [
+    "Đất dễ bị xói mòn, rửa trôi khi có mưa lớn.",
+    "Đất trở nên giàu dinh dưỡng và ẩm ướt hơn.",
+    "Diện tích đất nông nghiệp ngày càng được mở rộng.",
+    "Đất giữ được nhiều nước và không bị biến đổi."
+   ],
+   "Rừng mất đi khiến rễ cây không còn giữ được đất, dẫn đến hiện tượng xói mòn và sạt lở đất khi mưa lũ."
+  ],
+  [
+   "Quan hệ giữa cây phong lan và thân cây gỗ lớn mà nó sống bám vào thuộc về hiện tượng gì?",
+   [
+    "Phong lan sống nhờ chất dinh dưỡng từ không khí và nước đọng trên vỏ cây, không hại cây chủ.",
+    "Phong lan hút hết chất dinh dưỡng làm cây gỗ lớn bị chết.",
+    "Cây gỗ lớn ăn các chất dinh dưỡng do phong lan tạo ra.",
+    "Cả hai loài đều bị tổn hại khi sống chung với nhau."
+   ],
+   "Phong lan chỉ sống bám để vươn lên đón ánh sáng chứ không hút chất dinh dưỡng của cây chủ."
+  ],
+  [
+   "Đâu là biện pháp thiết thực để tiết kiệm nguồn nước ngọt trong sinh hoạt hằng ngày?",
+   [
+    "Khóa vòi nước khi không sử dụng và sửa ngay các ống nước bị rò rỉ.",
+    "Để vòi nước chảy liên tục trong lúc rửa bát đĩa.",
+    "Sử dụng nước máy để tưới cây quanh nhà suốt cả ngày.",
+    "Dùng nước sạch để rửa xe ô tô hàng ngày thay vì lau khô."
+   ],
+   "Khóa vòi nước khi không dùng và sửa chỗ rò rỉ là cách đơn giản, hiệu quả để tiết kiệm nước."
+  ],
+  [
+   "Lớp phủ thực vật (rừng và thảm cỏ) có vai trò quan trọng như thế nào đối với không khí?",
+   [
+    "Cung cấp khí ô-xy và điều hòa khí hậu trong lành.",
+    "Làm tăng lượng khí các-bô-níc gây hiệu ứng nhà kính.",
+    "Làm cho không khí trở nên khô nóng hơn.",
+    "Không có ảnh hưởng gì đến thành phần không khí."
+   ],
+   "Thực vật quang hợp giúp hấp thụ khí các-bô-níc và nhả ra khí ô-xy, giúp không khí trong lành."
+  ],
+  [
+   "Vì sao các loài chim di cư thường bay về phương nam tránh rét khi mùa đông đến?",
+   [
+    "Để tìm kiếm nguồn thức ăn dồi dào và điều kiện nhiệt độ ấm áp hơn.",
+    "Vì chúng thích khám phá các vùng đất mới lạ vào mùa đông.",
+    "Vì ở phương bắc có quá nhiều loài động vật ăn thịt xuất hiện.",
+    "Vì mùa đông ở phương bắc có nhiều ánh sáng ban ngày hơn."
+   ],
+   "Chim di cư để tìm đến nơi có khí hậu ấm áp và đủ thức ăn sinh sống qua mùa đông lạnh giá."
+  ],
+  [
+   "Khi một loài sinh vật bị tuyệt chủng trong tự nhiên, điều này sẽ dẫn đến kết quả gì?",
+   [
+    "Có thể làm mất cân bằng chuỗi thức ăn và ảnh hưởng đến các loài khác.",
+    "Không gây ra bất kỳ thay đổi nào đối với môi trường xung quanh.",
+    "Giúp cho các loài sinh vật khác phát triển mạnh mẽ hơn nữa.",
+    "Làm cho thời tiết khu vực đó trở nên tốt hơn."
+   ],
+   "Các loài trong tự nhiên có mối quan hệ mật thiết, mất đi một loài sẽ phá vỡ sự cân bằng sinh thái."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện ý thức bảo vệ môi trường trường học?",
+   [
+    "Bỏ rác đúng nơi quy định và tham gia chăm sóc bồn hoa của trường.",
+    "Vứt vỏ chai nhựa và giấy loại bừa bãi ra sân trường.",
+    "Bẻ cành cây xanh trong khuôn viên trường để chơi đùa.",
+    "Mở quạt và bật đèn điện suốt cả ngày kể cả khi ra chơi."
+   ],
+   "Bỏ rác đúng chỗ và chăm sóc cây xanh là việc làm thiết thực bảo vệ cảnh quan trường học."
+  ],
+  [
+   "Địa phương em đang gặp tình trạng rác thải nhựa tràn lan. Giải pháp nào sau đây là phù hợp nhất để giảm thiểu rác thải nhựa?",
+   [
+    "Hạn chế dùng túi ni-lông, thay bằng túi giấy hoặc túi vải sử dụng nhiều lần.",
+    "Đốt toàn bộ rác thải nhựa ngay tại khu dân cư.",
+    "Chôn lấp tất cả rác thải nhựa xuống sâu dưới lòng đất.",
+    "Vứt rác thải nhựa xuống ao hồ để dòng nước cuốn đi."
+   ],
+   "Giảm sử dụng túi ni-lông và dùng vật liệu thân thiện môi trường là giải pháp tối ưu giảm rác thải nhựa."
+  ],
+  [
+   "Chuỗi thức ăn nào sau đây được sắp xếp đúng thứ tự trong tự nhiên?",
+   [
+    "Thực vật -> Sâu ăn lá -> Chim ăn sâu -> Vi sinh vật.",
+    "Chim ăn sâu -> Sâu ăn lá -> Thực vật -> Vi sinh vật.",
+    "Vi sinh vật -> Thực vật -> Sâu ăn lá -> Chim ăn sâu.",
+    "Sâu ăn lá -> Thực vật -> Chim ăn sâu -> Vi sinh vật."
+   ],
+   "Thực vật là thức ăn của sâu, sâu là thức ăn của chim, và cuối cùng xác sinh vật được phân giải bởi vi sinh vật."
+  ],
+  [
+   "Tại sao ở các vùng nông thôn, người dân thường xây dựng mô hình vườn ao chuồng (VAC)?",
+   [
+    "Để tận dụng chất thải và sản phẩm thừa giữa các khu vực, tạo ra kinh tế và bảo vệ môi trường.",
+    "Vì mô hình này giúp tiết kiệm diện tích đất xây nhà ở.",
+    "Vì không cần phải chăm sóc hay tốn công sức quản lý.",
+    "Vì giúp tăng nhiệt độ không khí xung quanh nhà ở."
+   ],
+   "Mô hình VAC giúp tuần khép kín chất thải (phân chuồng bón cây, thức ăn thừa cho cá) vừa hiệu quả vừa sạch sẽ."
+  ],
+  [
+   "Thành phần nào sau đây là nguồn thức ăn chính của thực vật tự dưỡng trong tự nhiên?",
+   [
+    "Chất khoáng hòa tan trong đất kết hợp với nước và khí các-bô-níc",
+    "Các loài động vật nhỏ sống dưới đất",
+    "Chất hữu cơ có sẵn trong xác sinh vật phân hủy",
+    "Các loại vi khuẩn có lợi trong rễ cây"
+   ],
+   "Thực vật tự tổng hợp chất dinh dưỡng từ nước, chất khoáng và khí các-bô-níc nhờ ánh sáng mặt trời."
+  ],
+  [
+   "Bộ phận nào của cây làm nhiệm vụ hút nước và muối khoáng từ đất nuôi cây?",
+   [
+    "Rễ cây",
+    "Lá cây",
+    "Thân cây",
+    "Hoa cây"
+   ],
+   "Rễ cây có các lông hút làm nhiệm vụ chủ yếu là hút nước và các chất khoáng hòa tan từ đất."
+  ],
+  [
+   "Động vật ăn cỏ thường có đặc điểm cấu tạo hàm răng như thế nào để thích nghi với chế độ ăn?",
+   [
+    "Răng cửa và răng hàm phát triển mạnh để cắt và nghiền thực vật",
+    "Răng nanh rất sắc nhọn để xé thịt con mồi",
+    "Chỉ có răng giả không dùng để nhai",
+    "Không có răng mà chỉ có mỏ cứng"
+   ],
+   "Động vật ăn cỏ cần răng cửa để cắn và răng hàm lớn để nghiền nát lá, cỏ."
+  ],
+  [
+   "Khí nào do thực vật thải ra trong quá trình quang hợp giúp ích cho quá trình hô hấp của động vật và con người?",
+   [
+    "Khí ô-xi",
+    "Khí các-bô-níc",
+    "Khí ni-tơ",
+    "Khí hi-đrô"
+   ],
+   "Quá trình quang hợp của thực vật hấp thụ khí các-bô-níc và thải ra khí ô-xi."
+  ],
+  [
+   "Hiện tượng rụng lá vào mùa đông ở một số loài cây ở xứ lạnh là biểu hiện của điều gì?",
+   [
+    "Sự thích nghi của cây nhằm giảm bớt sự thoát hơi nước và giữ năng lượng",
+    "Cây bị bệnh nặng nên lá bị héo rũ rồi rụng xuống",
+    "Cây đã hoàn thành vòng đời và chuẩn bị chết khô",
+    "Thời tiết quá nóng làm lá cây bị cháy nắng"
+   ],
+   "Rụng lá giúp cây giảm diện tích thoát hơi nước khi thời tiết khô lạnh."
+  ],
+  [
+   "Trong một khu rừng, nếu số lượng loài rắn bị giảm sút đột ngột thì số lượng loài nào có xu hướng tăng lên trong thời gian ngắn?",
+   [
+    "Các loài động vật ăn thịt nhỏ như ếch nhái và chuột",
+    "Các loài cây gỗ lớn trong rừng sâu",
+    "Các loài chim ăn hạt và quả cây",
+    "Các vi sinh vật phân hủy trong đất"
+   ],
+   "Rắn ăn ếch và chuột, khi rắn giảm thì kẻ thù tự nhiên của ếch chuột ít đi nên chúng tăng lên."
+  ],
+  [
+   "Loài sinh vật nào dưới đây đóng vai trò là sinh vật phân hủy trong tự nhiên?",
+   [
+    "Nấm mốc và vi khuẩn",
+    "Cây dương xỉ",
+    "Con thỏ rừng",
+    "Chim đại bàng"
+   ],
+   "Nấm mốc và vi khuẩn phân hủy xác sinh vật thành các chất dinh dưỡng trả lại cho đất."
+  ],
+  [
+   "Tại sao ban đêm không nên để quá nhiều chậu cây xanh trong phòng ngủ kín?",
+   [
+    "Vì cây hấp thụ ô-xi và thải ra khí các-bô-níc gây thiếu không khí",
+    "Vì cây sẽ tỏa ra mùi hương làm con người mất ngủ",
+    "Vì cây hút hết nước trong phòng làm khô da",
+    "Vì cây sinh ra nhiều nhiệt làm nóng phòng"
+   ],
+   "Ban đêm không có ánh sáng, cây hô hấp mạnh nên lấy ô-xi và thải khí các-bô-níc."
+  ],
+  [
+   "Nấm ăn thường phát triển mạnh nhất ở điều kiện môi trường nào?",
+   [
+    "Nơi ẩm ướt, có nhiều chất hữu cơ và ánh sáng vừa phải",
+    "Nơi khô hạn, nắng gắt và hoàn toàn thiếu nước",
+    "Nơi có nhiệt độ cực lạnh dưới âm độ C",
+    "Nơi có nhiều hóa chất độc hại và nước mặn"
+   ],
+   "Nấm ưa độ ẩm cao và môi trường giàu chất mùn hữu cơ để sinh trưởng."
+  ],
+  [
+   "Hành động nào dưới đây thể hiện việc sử dụng tiết kiệm và hiệu quả nguồn năng lượng điện trong gia đình?",
+   [
+    "Tắt các thiết bị điện khi đi khỏi phòng",
+    "Bật quạt và điều hòa suốt cả ngày dù không có người ở nhà",
+    "Mở tủ lạnh liên tục để xem có gì bên trong",
+    "Sử dụng bóng đèn sợi đốt công suất lớn thay cho bóng đèn LED"
+   ],
+   "Tắt thiết bị khi không dùng giúp tiết kiệm điện năng và bảo vệ tài nguyên."
+  ],
+  [
+   "Khi một khu vực rừng đầu nguồn bị tàn phá nghiêm trọng, hiện tượng thiên tai nào dễ xảy ra nhất vào mùa mưa lũ?",
+   [
+    "Sạt lở đất và lũ quét dữ dội",
+    "Triều cường dâng cao bất thường",
+    "Hạn hán kéo dài trên diện rộng",
+    "Bão tuyết xuất hiện nhiều hơn"
+   ],
+   "Rừng đầu nguồn mất đi, rễ cây không giữ được đất nước mưa cuốn trôi gây sạt lở và lũ quét."
+  ],
+  [
+   "Chuỗi thức ăn nào sau đây được viết đúng thứ tự quan hệ dinh dưỡng?",
+   [
+    "Cỏ -> Sâu ăn lá -> Chim sâu -> Vi khuẩn",
+    "Chim sâu -> Sâu ăn lá -> Cỏ -> Vi khuẩn",
+    "Vi khuẩn -> Chim sâu -> Sâu ăn lá -> Cỏ",
+    "Cỏ -> Chim sâu -> Sâu ăn lá -> Vi khuẩn"
+   ],
+   "Chuỗi thức ăn bắt đầu từ sinh vật sản xuất (cỏ), tiếp đến sinh vật tiêu thụ và kết thúc ở sinh vật phân hủy."
+  ],
+  [
+   "Việc xây dựng các khu bảo tồn thiên nhiên và vườn quốc gia có ý nghĩa chủ yếu gì?",
+   [
+    "Bảo vệ các loài động thực vật quý hiếm và môi trường sống của chúng",
+    "Phục vụ mục đích khai thác gỗ và săn bắn thương mại",
+    "Xây dựng khu vui chơi giải trí cho khách du lịch",
+    "Làm nơi thử nghiệm các loại thuốc trừ sâu mới"
+   ],
+   "Khu bảo tồn giúp gìn giữ đa dạng sinh học và bảo vệ các loài có nguy cơ tuyệt chủng."
+  ],
+  [
+   "Hiện tượng nước thải công nghiệp chưa qua xử lý đổ trực tiếp vào ao hồ gây ra hậu quả gì?",
+   [
+    "Gây ô nhiễm nguồn nước nặng nề và làm chết hàng loạt sinh vật thủy sinh",
+    "Làm cho nước ao hồ trong sạch và nhiều cá tôm hơn",
+    "Cung cấp thêm nhiều chất dinh dưỡng cho cây thủy sinh phát triển tốt",
+    "Không ảnh hưởng gì đến môi trường xung quanh"
+   ],
+   "Nước thải chứa hóa chất độc hại làm ô nhiễm nguồn nước và tiêu diệt sinh vật."
+  ],
+  [
+   "Vì sao cá sinh sống dưới nước nhưng vẫn cần có khí ô-xi để thở?",
+   [
+    "Cá hấp thụ khí ô-xi hòa tan trong nước qua mang",
+    "Cá ngoi lên mặt nước liên tục để hít không khí bằng phổi",
+    "Cá không cần ô-xi mà chỉ cần các chất khoáng trong nước",
+    "Cá lấy ô-xi trực tiếp từ các phân tử nước H2O"
+   ],
+   "Mang cá có các mạch máu giúp lọc và hấp thụ lượng ô-xi hòa tan trong nước."
+  ],
+  [
+   "Hành động nào dưới đây góp phần tích cực vào việc giảm thiểu rác thải nhựa tại trường học?",
+   [
+    "Sử dụng bình nước cá nhân và hộp đựng dùng nhiều lần thay cho đồ nhựa dùng một lần",
+    "Vứt chai nhựa vào bất kỳ thùng rác nào trong sân trường",
+    "Mua nước ngọt đóng chai nhựa uống mỗi ngày rồi bỏ đi",
+    "Sử dụng túi ni-lông để đựng sách vở thay cho cặp sách"
+   ],
+   "Hạn chế dùng đồ nhựa một lần giúp giảm rác thải nhựa bảo vệ môi trường."
+  ],
+  [
+   "Nếu nhiệt độ môi trường trái đất tiếp tục tăng lên do hiệu ứng nhà kính, điều gì sẽ xảy ra?",
+   [
+    "Băng ở hai cực tan dần làm dâng cao mực nước biển",
+    "Nhiệt độ các vùng núi cao sẽ ngày càng lạnh hơn",
+    "Lượng mưa trên Trái Đất sẽ giảm hoàn toàn về con số không",
+    "Các loài sinh vật vùng lạnh phát triển mạnh mẽ hơn"
+   ],
+   "Trái Đất ấm lên làm tan băng ở cực, gây dâng mực nước biển và ngập lụt vùng ven biển."
+  ],
+  [
+   "Phát biểu nào sau đây là ĐÚNG khi nói về mối quan hệ giữa sinh vật và môi trường?",
+   [
+    "Sinh vật lấy từ môi trường các yếu tố cần thiết và đồng thời chịu ảnh hưởng của môi trường",
+    "Môi trường hoàn toàn không chịu sự tác động nào từ các loài sinh vật",
+    "Sinh vật chỉ chịu ảnh hưởng chứ không bao giờ tác động ngược lại môi trường",
+    "Các loài sinh vật sống độc lập tuyệt đối, không phụ thuộc môi trường"
+   ],
+   "Sinh vật và môi trường luôn có mối quan hệ gắn bó, tương tác qua lại lẫn nhau."
+  ],
+  [
+   "Địa phương em đang có phong trào trồng cây xanh quanh trường học. Việc làm này mang lại lợi ích thiết thực nào?",
+   [
+    "Điều hòa không khí trong lành, tạo bóng mát và cảnh quan đẹp",
+    "Làm cho sân trường trở nên ẩm ướt và trơn trượt hơn",
+    "Thu hút nhiều côn trùng gây hại đến lớp học",
+    "Che khuất tầm nhìn và làm tối không gian phòng học"
+   ],
+   "Trồng cây xanh giúp lọc không khí, tạo bóng mát và làm đẹp môi trường học tập."
+  ],
+  [
+   "Trong một ao nuôi cá, nếu người chăn nuôi thả mật độ cá quá dày so với diện tích ao thì sẽ dẫn đến hiện tượng gì?",
+   [
+    "Cá thiếu ô-xi, thiếu thức ăn và sinh trưởng chậm hoặc bị chết",
+    "Cá lớn rất nhanh vì chúng thích sống đông đúc chen chúc nhau",
+    "Nước ao sẽ tự động sạch hơn và không cần thay nước",
+    "Cá sẽ tự chuyển đổi sang chế độ ăn thực vật để sinh tồn"
+   ],
+   "Mật độ quá cao khiến nguồn thức ăn và ô-xi trong ao không đủ đáp ứng, gây hại cho cá."
+  ]
+ ]
+}

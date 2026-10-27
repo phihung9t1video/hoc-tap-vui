@@ -1,0 +1,206 @@
+{
+ "7-toan": {
+  "c9": [
+   [
+    "Trong tam giác MNP, cạnh đối diện với góc M là",
+    [
+     "NP",
+     "MP",
+     "MN",
+     "PM"
+    ],
+    "Cạnh đối diện với góc M của tam giác MNP là cạnh nằm nối hai đỉnh N và P, đó là cạnh NP."
+   ],
+   [
+    "Cho tam giác PQR có góc P = 70°, góc Q = 50°. Khẳng định nào sau đây đúng về các cạnh của tam giác PQR?",
+    [
+     "QR > PR > PQ",
+     "PQ > PR > QR",
+     "PR > QR > PQ",
+     "PQ > QR > PR"
+    ],
+    "Tính được góc R = 60°. Do góc P > góc R > góc Q nên QR > PQ > PR, sắp xếp lại theo thứ tự từ lớn đến bé là QR > PR > PQ."
+   ],
+   [
+    "Điểm đồng quy của ba đường trung trực trong tam giác có tính chất gì?",
+    [
+     "Cách đều ba đỉnh của tam giác",
+     "Cách đều ba cạnh của tam giác",
+     "Cách đều ba góc của tam giác",
+     "Cách đều hai đầu mút mỗi cạnh"
+    ],
+    "Giao điểm của ba đường trung trực là tâm đường tròn ngoại tiếp nên cách đều ba đỉnh của tam giác."
+   ],
+   [
+    "Cho tam giác DEF có DE = 4 cm, EF = 9 cm. Độ dài cạnh DF có thể nhận giá trị nào sau đây?",
+    [
+     "6 cm",
+     "4 cm",
+     "5 cm",
+     "13 cm"
+    ],
+    "Áp dụng bất đẳng thức tam giác, cạnh DF phải lớn hơn 9 - 4 = 5 cm và nhỏ hơn 9 + 4 = 13 cm, nên chỉ có 6 cm thỏa mãn."
+   ],
+   [
+    "Khoảng cách từ một điểm nằm trên tia phân giác của một góc đến hai cạnh của góc đó có quan hệ như thế nào?",
+    [
+     "Bằng nhau",
+     "Cạnh này gấp đôi cạnh kia",
+     "Cạnh này lớn hơn cạnh kia",
+     "Không so sánh được"
+    ],
+    "Tính chất tia phân giác của một góc là điểm nằm trên tia phân giác thì cách đều hai cạnh của góc đó."
+   ],
+   [
+    "Tam giác ABC có chu vi bằng 20 cm, biết AB = 6 cm, BC = 8 cm. So sánh các góc của tam giác ABC ta được",
+    [
+     "góc A > góc C > góc B",
+     "góc B > góc C > góc A",
+     "góc C > góc B > góc A",
+     "góc A > góc B > góc C"
+    ],
+    "Tính được AC = 20 - 6 - 8 = 6 cm. Tam giác cân tại A có AB = AC = 6 cm nên góc B = góc C lớn hơn góc A."
+   ],
+   [
+    "Ba đường cao của tam giác không có tính chất nào sau đây?",
+    [
+     "Cắt nhau tại một điểm cách đều ba đỉnh",
+     "Cùng đi qua một điểm",
+     "Có thể nằm ngoài tam giác (đối với tam giác tù)",
+     "Đoạn thẳng nối từ đỉnh vuông góc với cạnh đối diện"
+    ],
+    "Giao điểm ba đường cao cách đều ba đỉnh là tính chất của đường trung trực, không phải đường cao."
+   ],
+   [
+    "Cho tam giác ABC vuông tại A có góc B = 55°. Số đo góc C là",
+    [
+     "35°",
+     "45°",
+     "55°",
+     "90°"
+    ],
+    "Trong tam giác vuông, hai góc nhọn phụ nhau nên góc C = 90° - 55° = 35°."
+   ],
+   [
+    "Điểm đồng quy của ba đường phân giác trong tam giác có tính chất gì?",
+    [
+     "Cách đều ba cạnh của tam giác",
+     "Cách đều ba đỉnh của tam giác",
+     "Là trọng tâm của tam giác",
+     "Cách đều hai đầu mút của cạnh đáy"
+    ],
+    "Giao điểm ba đường phân giác là tâm đường tròn nội tiếp nên cách đều ba cạnh của tam giác."
+   ],
+   [
+    "Cho tam giác ABC cân tại A có góc A = 50°. Số đo góc B là",
+    [
+     "65°",
+     "50°",
+     "75°",
+     "40°"
+    ],
+    "Góc B bằng góc C và bằng (180° - 50°) / 2 = 65°."
+   ],
+   [
+    "Cho tam giác ABC có trọng tâm G, đường trung tuyến AD. Tỷ số độ dài GA / GD bằng bao nhiêu?",
+    [
+     "2",
+     "1/2",
+     "3",
+     "1/3"
+    ],
+    "Trọng tâm cách đỉnh một khoảng bằng 2/3 độ dài đường trung tuyến và cách đáy một khoảng bằng 1/3, nên GA / GD = 2."
+   ],
+   [
+    "Cho tam giác MNP có chu vi 24 cm, độ dài hai cạnh là 7 cm và 9 cm. Tam giác MNP là tam giác gì?",
+    [
+     "Tam giác cân",
+     "Tam giác đều",
+     "Tam giác vuông",
+     "Tam giác tù"
+    ],
+    "Cạnh thứ ba là 24 - 7 - 9 = 8 cm. Tam giác có các cạnh 7 cm, 8 cm, 9 cm không phải tam giác cân."
+   ],
+   [
+    "Cho điểm M nằm ngoài đường thẳng a. Từ M vẽ đường vuông góc MH và các đường xiên MK, MI đến đường thẳng a. Khẳng định nào sau đây đúng?",
+    [
+     "MH < MK < MI",
+     "MH > MK > MI",
+     "MK < MH < MI",
+     "MI < MK < MH"
+    ],
+    "Đường vuông góc luôn ngắn hơn bất kỳ đường xiên nào kẻ từ cùng một điểm đó đến đường thẳng."
+   ],
+   [
+    "Cho tam giác ABC có AB = 8 cm, AC = 15 cm. Độ dài cạnh BC có thể là số nguyên nào nhỏ nhất để tam giác là tam giác nhọn?",
+    [
+     "13",
+     "8",
+     "15",
+     "7"
+    ],
+    "Áp dụng định lý Pythagoras đảo và bất đẳng thức tam giác, cạnh BC = 13 cm giúp tam giác thỏa mãn là tam giác nhọn."
+   ],
+   [
+    "Cho tam giác ABC có góc A = 100°. Các cạnh của tam giác này thỏa mãn điều kiện nào?",
+    [
+     "Cạnh BC lớn nhất",
+     "Cạnh AB lớn nhất",
+     "Cạnh AC lớn nhất",
+     "Cạnh BC nhỏ nhất"
+    ],
+    "Góc A là góc tù và là góc lớn nhất nên cạnh đối diện với nó là BC là cạnh lớn nhất trong tam giác."
+   ],
+   [
+    "Cho tam giác ABC có AB = 3 cm, AC = 4 cm. Độ dài cạnh BC không thể nhận giá trị nào sau đây?",
+    [
+     "8 cm",
+     "2 cm",
+     "5 cm",
+     "6 cm"
+    ],
+    "Độ dài cạnh BC phải thỏa mãn 4 - 3 < BC < 4 + 3 hay 1 < BC < 7, nên 8 cm nằm ngoài khoảng này."
+   ],
+   [
+    "Trong tam giác đều, giao điểm của ba đường trung trực, ba đường trung tuyến, ba đường phân giác và ba đường cao có đặc điểm gì?",
+    [
+     "Trùng nhau",
+     "Không liên quan gì đến nhau",
+     "Chỉ có đường trung trực và trung tuyến trùng nhau",
+     "Nằm ngoài tam giác"
+    ],
+    "Trong tam giác đều, bốn loại đường đặc biệt này đồng quy tại một điểm duy nhất."
+   ],
+   [
+    "Cho tam giác ABC, điểm O nằm trong tam giác và cách đều ba cạnh của tam giác. Điểm O là giao điểm của",
+    [
+     "ba đường phân giác",
+     "ba đường trung trực",
+     "ba đường trung tuyến",
+     "ba đường cao"
+    ],
+    "Điểm cách đều ba cạnh của tam giác là giao điểm của ba đường phân giác trong tam giác đó."
+   ],
+   [
+    "Cho tam giác ABC có đường trung tuyến AM và G là trọng tâm. Biết AG = 6 cm. Độ dài đoạn thẳng GM là",
+    [
+     "3 cm",
+     "6 cm",
+     "12 cm",
+     "9 cm"
+    ],
+    "Trọng tâm G chia đường trung tuyến AM thành hai phần sao cho AG = 2GM, do đó GM = AG / 2 = 3 cm."
+   ],
+   [
+    "Trong một tam giác, đối diện với góc lớn nhất là",
+    [
+     "cạnh lớn nhất",
+     "cạnh nhỏ nhất",
+     "góc nhỏ nhất",
+     "đường cao ngắn nhất"
+    ],
+    "Theo quan hệ giữa góc và cạnh đối diện trong tam giác, cạnh đối diện với góc lớn hơn là cạnh lớn hơn, do đó đối diện với góc lớn nhất là cạnh lớn nhất."
+   ]
+  ]
+ }
+}

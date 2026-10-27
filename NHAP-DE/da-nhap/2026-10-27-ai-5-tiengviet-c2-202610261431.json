@@ -1,0 +1,406 @@
+{
+ "5-tiengviet": {
+  "c2": [
+   [
+    "Trong câu \"Em đang viết bài.\", từ \"viết\" thuộc từ loại nào?",
+    [
+     "Từ đơn",
+     "Từ ghép",
+     "Từ đồng âm",
+     "Từ nhiều nghĩa"
+    ],
+    "Từ \"viết\" ở đây là một từ đơn chỉ hoạt động của con người."
+   ],
+   [
+    "Từ \"đường\" nào dưới đây khác nghĩa với các từ \"đường\" còn lại?",
+    [
+     "đường đi",
+     "đường cát",
+     "đường phèn",
+     "đường kính"
+    ],
+    "Từ \"đường\" trong \"đường đi\" chỉ lối đi, còn các từ kia chỉ chất ngọt."
+   ],
+   [
+    "Cặp từ nào dưới đây là cặp từ đồng âm?",
+    [
+     "hòn đá - đá bóng",
+     "mẹ - má",
+     "chạy - chạy nhảy",
+     "to - lớn"
+    ],
+    "\"Đá\" trong \"hòn đá\" là danh từ, còn \"đá\" trong \" đá bóng\" là động từ, chúng phát âm giống nhau nhưng khác hẳn nhau về nghĩa."
+   ],
+   [
+    "Từ \"chân\" trong câu nào dưới đây mang nghĩa gốc?",
+    [
+     "Bé bị đau chân trái.",
+     "Chân bàn bị gãy.",
+     "Chân mây cuối trời.",
+     "Chân tường ẩm ốc."
+    ],
+    "\"Chân\" chỉ bộ phận cơ thể người để đi lại là nghĩa gốc, các trường hợp khác là nghĩa chuyển."
+   ],
+   [
+    "Trong các từ sau, từ nào là từ nhiều nghĩa?",
+    [
+     "tai",
+     "bút chì",
+     "thước kẻ",
+     "quyển vở"
+    ],
+    "Từ \"tai\" có thể chỉ bộ phận cơ thể người/động vật hoặc tai họa, tai nấm... nên là từ nhiều nghĩa."
+   ],
+   [
+    "Câu nào dưới đây sử dụng từ \"quả\" theo nghĩa gốc?",
+    [
+     "Em ăn một quả táo.",
+     "Quả cảm là đức tính tốt.",
+     "Cậu ấy ghi ba quả liền.",
+     "Nhà tôi có hai quả đồi."
+    ],
+    "\"Quả táo\" chỉ bộ phận của cây chứa hạt, đây là nghĩa gốc của từ \"quả\"."
+   ],
+   [
+    "Từ \"lá\" trong \"lá phổi\" được dùng theo nghĩa nào?",
+    [
+     "Nghĩa chuyển",
+     "Nghĩa gốc",
+     "Từ đồng âm",
+     "Từ đồng nghĩa"
+    ],
+    "\"Lá phổi\" dùng theo nghĩa chuyển, dựa trên hình dáng hoặc chức năng gợi liên tưởng đến chiếc lá cây."
+   ],
+   [
+    "Dòng nào nêu đúng nghĩa của từ \"vàng\" trong \"tấm lòng vàng\"?",
+    [
+     "Chỉ phẩm chất quý giá, tốt đẹp con người",
+     "Chỉ một kim loại quý có màu vàng",
+     "Chỉ màu sắc của ánh nắng",
+     "Chỉ một loại trang sức đắt tiền"
+    ],
+    "\"Tấm lòng vàng\" dùng từ \"vàng\" theo nghĩa chuyển để chỉ sự tốt đẹp, quý giá của con người."
+   ],
+   [
+    "Xác định từ đồng âm trong câu: \"Con ngựa đá con ngựa đá, đá không đá thì thôi.\"",
+    [
+     "đá",
+     "ngựa",
+     "con",
+     "thôi"
+    ],
+    "Từ \"đá\" xuất hiện nhiều lần với các từ loại và ý nghĩa hoàn toàn khác nhau, tạo nên hiện tượng đồng âm."
+   ],
+   [
+    "Từ \"chín\" trong câu \"Lúa ngoài đồng đã chín vàng.\" có nghĩa là gì?",
+    [
+     "Trạng thái đạt đến độ thu hoạch được của cây trồng",
+     "Số lượng đứng sau số tám",
+     "Suy nghĩ kỹ càng trước khi làm",
+     "Chín chắn trong tính cách"
+    ],
+    "Trong ngữ cảnh này, \"chín\" chỉ đặc điểm của lúa đã đến thời kỳ thu hoạch."
+   ],
+   [
+    "Từ \"bay\" trong câu nào dưới đây là từ nhiều nghĩa so với từ \"bay\" trong \"chim bay trên trời\"?",
+    [
+     "Mái nhà bị gió thổi bay đi.",
+     "Chim đang bay lượn.",
+     "Đàn cò bay lả bay la.",
+     "Những cánh én bay về."
+    ],
+    "\"Bay\" chỉ sự dịch chuyển của mái nhà dưới tác động của gió là nghĩa chuyển dựa trên hoạt động bay lượn."
+   ],
+   [
+    "Từ \"mũi\" trong câu nào dùng theo nghĩa gốc?",
+    [
+     "Mũi của bé rất cao và đẹp.",
+     "Mũi thuyền rẽ sóng ra khơi.",
+     "Mũi đất nhô ra biển lớn.",
+     "Trung đội trinh sát mũi nhọn."
+    ],
+    "\"Mũi\" chỉ bộ phận trên khuôn mặt để thở và ngửi là nghĩa gốc."
+   ],
+   [
+    "Trong câu \"Bác nông dân đang cày ruộng bằng con trâu.\", từ \"cày\" thuộc từ loại gì?",
+    [
+     "Động từ",
+     "Danh từ",
+     "Tính từ",
+     "Quan hệ từ"
+    ],
+    "\"Cày\" chỉ hoạt động lao động sản xuất của bác nông dân."
+   ],
+   [
+    "Tìm từ đồng âm với từ \"tư\" trong \"ngày tư ngày tết\"?",
+    [
+     "số tư",
+     "tư tưởng",
+     "tư gia",
+     "tư duy"
+    ],
+    "\"Tư\" trong \"ngày tư ngày tết\" đồng âm với \"tư\" trong số đếm (số 4)."
+   ],
+   [
+    "Từ \"đi\" trong câu \"Bé tập đi.\" và từ \"đi\" trong \"Đồng hồ đang đi.\" quan hệ với nhau thế nào?",
+    [
+     "Là từ nhiều nghĩa",
+     "Là từ đồng âm",
+     "Là từ đồng nghĩa",
+     "Là từ trái nghĩa"
+    ],
+    "Hoạt động di chuyển của kim đồng hồ gọi là \"đi\" dựa trên sự chuyển động, đây là hiện tượng từ nhiều nghĩa."
+   ],
+   [
+    "Trường hợp nào dưới đây các từ in đậm là từ đồng âm?",
+    [
+     "Hòn đá và đá bóng",
+     "Bàn ghế và bàn bài",
+     "Tay áo và tay người",
+     "Mắt bão và mắt người"
+    ],
+    "\"Hòn đá\" (danh từ chỉ vật) và \"đá bóng\" (động từ chỉ hành động) là hai từ đồng âm khác từ loại."
+   ],
+   [
+    "Xác định nghĩa của từ \"vai\" trong \"vai áo\" và \"vai trò\".",
+    [
+     "Vai áo là nghĩa gốc, vai trò là nghĩa chuyển",
+     "Vai áo là nghĩa chuyển, vai trò là nghĩa gốc",
+     "Cả hai đều là nghĩa gốc",
+     "Cả hai đều là nghĩa chuyển"
+    ],
+    "\"Vai áo\" là vị trí trên cơ thể (nghĩa gốc), \"vai trò\" là vị trí, nhiệm vụ (nghĩa chuyển)."
+   ],
+   [
+    "Vì sao các từ \"mắt\" (mắt người, mắt na, mắt tre) lại được gọi là từ nhiều nghĩa?",
+    [
+     "Vì các nghĩa của chúng có mối liên hệ mật thiết với nhau, dựa trên sự tương đồng về hình thức.",
+     "Vì chúng có cách phát âm hoàn toàn giống nhau nhưng không liên quan gì đến nghĩa.",
+     "Vì chúng do nhiều người đặt ra trong các vùng miền khác nhau.",
+     "Vì chúng có chung một từ loại là danh từ."
+    ],
+    "Hiện tượng từ nhiều nghĩa là các nghĩa sau có sự liên tưởng, tương đồng với nghĩa gốc ban đầu."
+   ],
+   [
+    "Từ \"bàn\" nào dưới đây là từ nhiều nghĩa so với các từ còn lại?",
+    [
+     "bàn giải pháp cho công việc",
+     "cái bàn học bằng gỗ",
+     "bàn ghế trong phòng khách",
+     "bàn làm việc của bố"
+    ],
+    "Từ \"bàn\" trong \"bàn giải pháp\" mang nghĩa chuyển (trao đổi, thảo luận), khác với nghĩa gốc chỉ đồ vật."
+   ],
+   [
+    "Dòng nào dưới đây gồm các từ đồng âm?",
+    [
+     "đường (đường đi) và đường (đường kính)",
+     "bạc (bạc tiền) và bạc (tóc bạc)",
+     "ăn (ăn cơm) và ăn (ăn ảnh)",
+     "chân (chân bàn) và chân (chân người)"
+    ],
+    "Đường đi (chỉ lối đi) và đường kính (chất ngọt) là hai từ đồng âm vì vỏ âm thanh giống nhau nhưng nghĩa hoàn toàn khác nhau."
+   ],
+   [
+    "Từ \"vạt\" trong câu nào dưới đây mang nghĩa gốc?",
+    [
+     "Vạt áo dài của cô giáo phất phơ trong gió.",
+     "Vạt đất trống này được dùng để trồng hoa.",
+     "Cả nhà đang ngồi nghỉ mát dưới vạt rừng thông.",
+     "Những vạt mây trắng bay lững lờ trên đỉnh núi."
+    ],
+    "Từ \"vạt\" chỉ phần dưới của áo dài là nghĩa gốc, các trường hợp khác dùng theo nghĩa chuyển."
+   ],
+   [
+    "Trong câu \"Mùa hè, hoa phượng nở đỏ rực sân trường.\", từ \"đỏ\" thuộc loại từ nào?",
+    [
+     "Từ đơn",
+     "Từ ghép",
+     "Từ láy",
+     "Từ đồng âm"
+    ],
+    "\"Đỏ\" là từ chỉ màu sắc, chỉ gồm một tiếng có nghĩa tạo thành nên là từ đơn."
+   ],
+   [
+    "Xác định nghĩa của từ \"tay\" trong câu \"Cậu ấy là tay vợt xuất sắc nhất giải đấu.\"",
+    [
+     "Chỉ người chuyên làm một công việc hoặc có tài năng nào đó.",
+     "Bộ phận phía trên của cơ thể dùng để cầm nắm.",
+     "Phần nối tiếp của áo ôm sát lấy cánh tay.",
+     "Công cụ dùng để chơi thể thao."
+    ],
+    "Từ \"tay\" ở đây được dùng theo nghĩa chuyển để chỉ con người (người chơi thể thao giỏi)."
+   ],
+   [
+    "Từ \"nặng\" trong câu nào dưới đây mang nghĩa chuyển?",
+    [
+     "Bức tranh này mang nặng nghĩa tình của quê hương.",
+     "Hòn đá này rất nặng, em không khiêng nổi.",
+     "Chiếc ba lô đựng đầy sách vở nên rất nặng.",
+     "Cân nặng của em bé năm nay là ba mươi ki-lô-gam."
+    ],
+    "\"Nặng\" trong \"nặng nghĩa tình\" chỉ mức độ sâu sắc, lớn lao, là nghĩa chuyển."
+   ],
+   [
+    "Cặp từ nào dưới đây có quan hệ từ nhiều nghĩa?",
+    [
+     "tai (tai người) và tai (tai nấm)",
+     "bà (bà ngoại) và bà (bà nội)",
+     "sao (ngôi sao) và sao (sao chép)",
+     "nam (miền Nam) and nam (nam giới)"
+    ],
+    "\"Tai\" người và \"tai\" nấm có nét nghĩa chung là bộ phận mọc chìa ra ở hai bên nên là từ nhiều nghĩa."
+   ],
+   [
+    "Từ \"vàng\" trong câu nào dưới đây chỉ màu sắc?",
+    [
+     "Những chiếc lá bàng chuyển sang màu vàng khi thu đến.",
+     "Mẹ mua cho em một chỉ vàng để dành.",
+     "Huy chương vàng là phần thưởng cao quý cho đội tuyển.",
+     "Anh ấy có một tấm lòng vàng luôn giúp đỡ mọi người."
+    ],
+    "\"Vàng\" chỉ màu sắc của lá cây vào mùa thu, là nghĩa gốc phổ biến nhất của từ này."
+   ],
+   [
+    "Từ \"chạy\" trong câu nào dưới đây được dùng theo nghĩa gốc?",
+    [
+     "Chú chó đang chạy nhảy tung tăng trên bãi cỏ.",
+     "Đoàn tàu đang chạy băng băng trên đường ray.",
+     "Mẹ đang tất bật chạy chợ buổi sáng.",
+     "Chiếc đồng hồ treo tường này chạy rất đúng giờ."
+    ],
+    "Chú chó chạy bằng chân là hoạt động di chuyển của cơ thể sinh vật, đó là nghĩa gốc."
+   ],
+   [
+    "Từ \"mũi\" trong câu nào dưới đây là từ nhiều nghĩa so với từ \"mũi\" chỉ bộ phận trên khuôn mặt?",
+    [
+     "Mũi thuyền rẽ sóng ra khơi.",
+     "Bạn Nam bị sổ mũi vì thời tiết thay đổi.",
+     "Cậu bé có chiếc mũi cao và dọc dừa.",
+     "Hít một hơi thật sâu bằng mũi rồi thở ra."
+    ],
+    "\"Mũi thuyền\" là nghĩa chuyển dựa trên hình dáng nhọn nhô ra giống mũi người."
+   ],
+   [
+    "Xác định từ loại của từ \"bơi\" trong câu \"Cá bơi lội tung tăng dưới nước.\"",
+    [
+     "Động từ",
+     "Danh từ",
+     "Tính từ",
+     "Đại từ"
+    ],
+    "\"Bơi\" chỉ hoạt động di chuyển của con vật dưới nước nên là động từ."
+   ],
+   [
+    "Từ \"cứng\" trong trường hợp nào dưới đây mang nghĩa chuyển?",
+    [
+     "Lời nói của bác ấy rất cứng rắn và quyết đoán.",
+     "Viên đá này rất cứng, không thể đập vỡ bằng tay.",
+     "Thanh sắt này rất cứng và chắc chắn.",
+     "Mặt bàn làm bằng gỗ lim nên rất cứng."
+    ],
+    "\"Cứng\" trong \"cứng rắn\" chỉ tính cách kiên quyết, không nhượng bộ, là nghĩa chuyển."
+   ],
+   [
+    "Đâu không phải là từ đồng âm trong tiếng Việt?",
+    [
+     "học tập và học hỏi",
+     "hè (mùa hè) và hè (hè đường)",
+     "bàn (cái bàn) và bàn (bàn bạc)",
+     "sao (trên trời) và sao (sao lục)"
+    ],
+    "\"Học tập\" và \"học hỏi\" là hai từ ghép khác nhau, không phải là từ đồng âm."
+   ],
+   [
+    "Trong câu \"Bé ngậm kẹo ngọt.\", từ \"ngọt\" được dùng theo nghĩa nào?",
+    [
+     "Nghĩa gốc chỉ vị giác (vị như vị của đường, mật).",
+     "Nghĩa chuyển chỉ âm thanh nghe êm tai.",
+     "Nghĩa chuyển chỉ lời nói dịu dàng, dễ nghe.",
+     "Nghĩa chuyển chỉ tình cảm sâu đậm."
+    ],
+    "\"Ngọt\" trong kẹo ngọt là vị giác cơ bản, đây là nghĩa gốc của từ này."
+   ],
+   [
+    "Cặp từ nào dưới đây là từ đồng âm?",
+    [
+     "bóng (quả bóng) và bóng (cái bóng)",
+     "sáng (buổi sáng) và sáng (tươi sáng)",
+     "lành (hiền lành) và lành (lành lặn)",
+     "nhanh (nhanh chóng) và nhanh (mau lẹ)"
+    ],
+    "\"Bóng\" (vật thể tròn để đá) và \"bóng\" (hình ảnh phản chiếu) là hai từ có vỏ âm thanh giống nhau hoàn toàn nhưng không liên quan gì đến nghĩa, là từ đồng âm."
+   ],
+   [
+    "Xác định nghĩa của từ \"đứng\" trong câu \"Đồng hồ treo tường đã đứng kim.\"",
+    [
+     "Ngừng hoạt động, không chạy nữa.",
+     "Giữ cho cơ thể ở tư thế chân đặt trên mặt đất.",
+     "Tồn tại vững vàng trước thử thách.",
+     "Dừng lại để chờ đợi một việc gì đó."
+    ],
+    "\"Đứng\" ở đây chỉ trạng thái ngừng chuyển động của kim đồng hồ, là nghĩa chuyển."
+   ],
+   [
+    "Trong câu \"Cây bút này viết rất êm.\", từ \"viết\" được dùng để chỉ điều gì?",
+    [
+     "Chỉ hoạt động của chiếc bút khi được sử dụng trên giấy.",
+     "Chỉ hành động của học sinh khi làm bài tập.",
+     "Chỉ tên gọi của một loại đồ dùng học tập.",
+     "Chỉ cấu tạo bên ngoài của cây bút."
+    ],
+    "Câu này dùng hiện tượng chuyển nghĩa (lấy công cụ chỉ hoạt động hoặc ngược lại) để diễn tả đặc điểm của cây bút."
+   ],
+   [
+    "Dòng nào dưới đây gồm các từ là từ nhiều nghĩa?",
+    [
+     "Ăn (ăn cơm, ăn ảnh, ăn cưới)",
+     "Đá (hòn đá, đá bóng, đá gà)",
+     "Ba (bố, ba người, ba ba)",
+     "Sao (ngôi sao, sao bài, sao chép)"
+    ],
+    "Từ"
+   ],
+   [
+    "Từ",
+    [
+     "Nghĩa chuyển",
+     "Nghĩa gốc",
+     "Từ đồng âm",
+     "Từ đồng nghĩa"
+    ],
+    "Từ"
+   ],
+   [
+    "Cặp từ nào dưới đây có quan hệ đồng âm?",
+    [
+     "Đàn (đàn gà) và đàn (đàn ốc)",
+     "Ăn (ăn cơm) và ăn (ăn gian)",
+     "Tay (tay người) và tay (tay áo)",
+     "Chạy (chạy bộ) và chạy (chạy máy)"
+    ],
+    "Đàn (đàn gà) chỉ số lượng loài vật và đàn (đàn ốc) là nhạc cụ (hoặc ngược lại, hai từ hoàn toàn khác nghĩa, vỏ âm thanh trùng nhau là đồng âm)."
+   ],
+   [
+    "Trong câu",
+    [
+     "Nghĩa chuyển",
+     "Nghĩa gốc",
+     "Từ đồng âm",
+     "Từ nhiều nghĩa"
+    ],
+    "Từ"
+   ],
+   [
+    "Dòng nào dưới đây gồm các từ có quan hệ đồng âm với nhau?",
+    [
+     "Hòn đá, đá bóng",
+     "Tay áo, tay bàn",
+     "Mũi Cà Mau, mũi dao",
+     "Lá phổi, lá thư"
+    ],
+    "Hòn đá (danh từ chỉ vật thể) và đá bóng (động từ chỉ hành động) là hai từ có vỏ âm thanh giống nhau nhưng ý nghĩa khác hẳn nhau, đây là từ đồng âm."
+   ]
+  ]
+ }
+}

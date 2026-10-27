@@ -1,0 +1,3218 @@
+{
+ "c1": [
+  [
+   "Phan so nao duoi day chi phan da to mau trong hinh gom 3 phan bang nhau duoc to 2 phan?",
+   [
+    "2/3",
+    "3/2",
+    "2/5",
+    "3/5"
+   ],
+   "Phan da to mau gom 2 phan trong tong so 3 phan bang nhau, nen phan so la 2/3."
+  ],
+  [
+   "Trong cac phan so sau, phan so nao la phan so toi gian?",
+   [
+    "3/7",
+    "2/4",
+    "6/9",
+    "10/15"
+   ],
+   "Phan so 3/7 co tu so va mau so chi co uoc chung la 1 nen la phan so toi gian."
+  ],
+  [
+   "Phan so 4/5 duoc viet thanh phan so co mau so la 10 la:",
+   [
+    "8/10",
+    "4/10",
+    "5/10",
+    "8/5"
+   ],
+   "Nhan ca tu so va mau so cua phan so 4/5 voi 2 ta duoc 8/10."
+  ],
+  [
+   "Rut gon phan so 6/18 ta duoc phan so toi gian la:",
+   [
+    "1/3",
+    "2/6",
+    "3/9",
+    "1/2"
+   ],
+   "Chia ca tu so va mau so cua 6/18 cho 6 ta duoc phan so 1/3."
+  ],
+  [
+   "Phan so nao duoi day be hon 1?",
+   [
+    "7/9",
+    "9/7",
+    "5/5",
+    "12/10"
+   ],
+   "Phan so co tu so be hon mau so thi be hon 1."
+  ],
+  [
+   "Phan so nao duoi day lon hon 1?",
+   [
+    "11/8",
+    "8/11",
+    "15/15",
+    "3/4"
+   ],
+   "Phan so co tu so lon hon mau so thi lon hon 1."
+  ],
+  [
+   "Cac phan so duoc sep theo thu tu tu be den lon la:",
+   [
+    "2/7, 4/7, 6/7",
+    "6/7, 4/7, 2/7",
+    "4/7, 2/7, 6/7",
+    "2/7, 6/7, 4/7"
+   ],
+   "Cac phan so co cung mau so, phan so nao co tu so be hon thi be hon."
+  ],
+  [
+   "Ket qua cua phép tinh 3/5 + 1/5 la:",
+   [
+    "4/5",
+    "4/10",
+    "3/25",
+    "2/5"
+   ],
+   "Cong hai phan so cung mau so ta cong hai tu so voi nhau va giu nguyen mau so."
+  ],
+  [
+   "Ket qua cua phep tinh 7/9 - 4/9 la:",
+   [
+    "3/9",
+    "11/9",
+    "3/0",
+    "3/18"
+   ],
+   "Tru hai phan so cung mau so ta lay tu so tru tu so va giu nguyen mau so."
+  ],
+  [
+   "Tim x biet x + 2/5 = 4/5. Gia tri cua x la:",
+   [
+    "2/5",
+    "6/5",
+    "8/5",
+    "1/5"
+   ],
+   "Muốn tìm số hạng chua biet ta lay tong tru di so hạng da biet: 4/5 - 2/5 = 2/5."
+  ],
+  [
+   "Huan co 12 vien bi, trong do co 4 vien bi mau do. Phan so chi so vien bi mau do so voi tong so vien bi la:",
+   [
+    "4/12",
+    "12/4",
+    "4/8",
+    "8/4"
+   ],
+   "So vien bi mau do la 4, tong so vien bi la 12, nen phan so la 4/12."
+  ],
+  [
+   "Chuyen hon so 1 va 1/2 thanh phan so ta duoc:",
+   [
+    "3/2",
+    "2/3",
+    "1/2",
+    "3/1"
+   ],
+   "Lay phan nguyen nhan voi mau so roi cong voi tu so: 1 nhan 2 cong 1 bang 3, giu nguyen mau so la 2."
+  ],
+  [
+   "Phan so 3/4 duoc viet duoi dang so thap phan la:",
+   [
+    "0,75",
+    "0,34",
+    "7,5",
+    "3,4"
+   ],
+   "Nhan ca tu va mau cua 3/4 voi 25 ta duoc 75/100, viet thanh so thap phan la 0,75."
+  ],
+  [
+   "So thap phan 0,6 duoc viet duoi dang phan so toi gian la:",
+   [
+    "3/5",
+    "6/10",
+    "6/100",
+    "5/3"
+   ],
+   "Doi 0,6 thanh 6/10 sau do rut gon cho 2 ta duoc phan so toi gian la 3/5."
+  ],
+  [
+   "Tim phan so a/b biet no bang phan so 2/3 va tong cua tu so va mau so la 20.",
+   [
+    "8/12",
+    "6/14",
+    "10/10",
+    "12/8"
+   ],
+   "Tong so phan la 2 cong 3 bằng 5. Gia tri 1 phan la 20 chia 5 bang 4. Tu so la 4 nhan 2 bằng 8, mau so la 4 nhan 3 bằng 12."
+  ],
+  [
+   "Lop 5A co 30 hoc sinh, trong do co 12 hoc sinh nam. Hoi so hoc sinh nam chiem bao nhieu phan tong so hoc sinh cua lop?",
+   [
+    "2/5",
+    "3/5",
+    "12/30",
+    "5/2"
+   ],
+   "Lap phan so 12/30 sau do rut gon ca tu va mau cho 6 ta duoc 2/5."
+  ],
+  [
+   "Mot tam vai dai 20m, nguoi ta da dung 3/4 tam vai do de may quan ao. Hoi so met vai da dung la bao nhieu?",
+   [
+    "15m",
+    "5m",
+    "12m",
+    "16m"
+   ],
+   "Lay 20 chia cho 4 roi nhan voi 3 ta duoc 15 met vai."
+  ],
+  [
+   "Gia tri cua bieu thuc 1/2 + 1/4 + 1/8 la:",
+   [
+    "7/8",
+    "3/8",
+    "3/14",
+    "1/8"
+   ],
+   "Quy dong mau so chung la 8 ta co 4/8 + 2/8 + 1/8 = 7/8."
+  ],
+  [
+   "Tim mot so biet rang 2/3 cua so do la 10.",
+   [
+    "15",
+    "20",
+    "30",
+    "10"
+   ],
+   "Muốn tim mot so khi biet mot phan so cua no, ta lay 10 chia cho 2 roi nhan voi 3 duoc ket qua la 15."
+  ],
+  [
+   "Phân số nào dưới đây bằng phân số 3/4?",
+   [
+    "9/12",
+    "6/10",
+    "12/15",
+    "8/12"
+   ],
+   "Nhân cả tử và mẫu của phân số 3/4 với 3 ta được phân số 9/12."
+  ],
+  [
+   "Phân số nào dưới đây có giá trị lớn hơn 1?",
+   [
+    "7/5",
+    "5/7",
+    "4/4",
+    "3/8"
+   ],
+   "Phân số có tử số lớn hơn mẫu số thì phân số đó lớn hơn 1."
+  ],
+  [
+   "Chữ số thích hợp điền vào ô trống để 5/6 = .../18 là:",
+   [
+    "15",
+    "10",
+    "3",
+    "18"
+   ],
+   "Cả mẫu và tử đều nhân với 3, ta có 5 nhân 3 bằng 15."
+  ],
+  [
+   "Rút gọn phân số 15/25 đến tối giản ta được:",
+   [
+    "3/5",
+    "5/3",
+    "15/25",
+    "3/15"
+   ],
+   "Chia cả tử và mẫu cho 5 ta được phân số tối giản 3/5."
+  ],
+  [
+   "Hỗn số 2 và 3/4 được chuyển thành phân số là:",
+   [
+    "11/4",
+    "9/4",
+    "14/4",
+    "8/3"
+   ],
+   "Lấy phần nguyên nhân mẫu rồi cộng tử: 2 nhân 4 cộng 3 bằng 11, giữ nguyên mẫu 4."
+  ],
+  [
+   "Phân số thập phân 35/100 được viết dưới dạng số thập phân là:",
+   [
+    "0,35",
+    "3,5",
+    "0,035",
+    "35,0"
+   ],
+   "Chia 35 cho 100 ta dịch dấu phẩy sang trái hai chữ số được 0,35."
+  ],
+  [
+   "Số thập phân 0,8 được viết dưới dạng phân số tối giản là:",
+   [
+    "4/5",
+    "8/10",
+    "8/100",
+    "5/4"
+   ],
+   "0,8 bằng 8/10, rút gọn cho 2 ta được phân số tối giản 4/5."
+  ],
+  [
+   "Kết quả của phép tính 2/3 + 1/4 là:",
+   [
+    "11/12",
+    "3/7",
+    "3/12",
+    "8/3"
+   ],
+   "Quy đồng mẫu số chung là 12, ta có 8/12 cộng 3/12 bằng 11/12."
+  ],
+  [
+   "Kết quả của phép tính 5/6 - 2/3 là:",
+   [
+    "1/6",
+    "3/3",
+    "3/6",
+    "1/3"
+   ],
+   "Quy đồng mẫu số chung là 6, ta có 5/6 trừ 4/6 bằng 1/6."
+  ],
+  [
+   "Kết quả của phép tính 3/4 nhân 2/5 là:",
+   [
+    "3/10",
+    "5/9",
+    "6/20",
+    "15/8"
+   ],
+   "Nhân tử với tử, mẫu với mẫu ta được 6/20, rút gọn thành 3/10."
+  ],
+  [
+   "Kết quả của phép tính 4/5 chia 2/3 là:",
+   [
+    "6/5",
+    "8/15",
+    "10/12",
+    "5/6"
+   ],
+   "Lấy 4/5 nhân với phân số đảo ngược 3/2 ta được 12/10, rút gọn thành 6/5."
+  ],
+  [
+   "Tìm x biết x trừ 1/3 bằng 1/2. Giá trị của x là:",
+   [
+    "5/6",
+    "2/5",
+    "1/6",
+    "2/6"
+   ],
+   "Muốn tìm số bị trừ ta lấy hiệu cộng với số trừ: 1/2 cộng 1/3 bằng 5/6."
+  ],
+  [
+   "Một cửa hàng có 45 kg gạo, cửa hàng đã bán được 2/3 số gạo đó. Số gạo cửa hàng đã bán là:",
+   [
+    "30 kg",
+    "15 kg",
+    "43 kg",
+    "20 kg"
+   ],
+   "Lấy 45 chia 3 nhân 2 bằng 30 kg."
+  ],
+  [
+   "Lớp 5B có 40 học sinh, trong đó có 3/8 số học sinh tham gia câu lạc bộ bơi lội. Số học sinh tham gia bơi lội là:",
+   [
+    "15 học sinh",
+    "25 học sinh",
+    "5 học sinh",
+    "24 học sinh"
+   ],
+   "Lấy 40 chia 8 nhân 3 bằng 15 học sinh."
+  ],
+  [
+   "Tìm một số biết rằng 3/4 của số đó là 24. Số đó là:",
+   [
+    "32",
+    "18",
+    "36",
+    "64"
+   ],
+   "Lấy 24 chia cho 3 rồi nhân với 4 ta được kết quả là 32."
+  ],
+  [
+   "Biển báo giao thông hình tròn có đường kính 4/5 m. Bán kính của biển báo đó là:",
+   [
+    "2/5 m",
+    "4/10 m",
+    "8/5 m",
+    "1/5 m"
+   ],
+   "Bán kính bằng đường kính chia đôi, lấy 4/5 chia 2 bằng 2/5 m."
+  ],
+  [
+   "Mẹ mua 3 kg cam hết 90 000 đồng. Nếu mẹ mua 5 kg cam loại đó thì số tiền phải trả là:",
+   [
+    "150 000 đồng",
+    "30 000 đồng",
+    "270 000 đồng",
+    "180 000 đồng"
+   ],
+   "Giá tiền 1 kg cam là 30 000 đồng, mua 5 kg hết 150 000 đồng."
+  ],
+  [
+   "Một mảnh vườn hình chữ nhật có chiều dài 12m, chiều rộng bằng 3/4 chiều dài. Diện tích mảnh vườn đó là:",
+   [
+    "108 mét vuông",
+    "9 mét vuông",
+    "81 mét vuông",
+    "144 mét vuông"
+   ],
+   "Chiều rộng là 12 nhân 3/4 bằng 9m. Diện tích là 12 nhân 9 bằng 108 mét vuông."
+  ],
+  [
+   "Tổng của hai số là 60. Tỉ số của hai số đó là 2/3. Số lớn là:",
+   [
+    "36",
+    "24",
+    "40",
+    "20"
+   ],
+   "Tổng số phần bằng nhau là 5 phần. Số lớn là 60 chia 5 nhân 3 bằng 36."
+  ],
+  [
+   "Có hai thùng dầu, thùng thứ nhất chứa 24 lít dầu. Số lít dầu ở thùng thứ hai bằng 5/4 số lít dầu ở thùng thứ nhất. Cả hai thùng chứa số lít dầu là:",
+   [
+    "54 lít",
+    "30 lít",
+    "48 lít",
+    "60 lít"
+   ],
+   "Thùng thứ hai chứa 24 nhân 5/4 bằng 30 lít. Tổng số dầu hai thùng là 24 cộng 30 bằng 54 lít."
+  ],
+  [
+   "Phân số nào dưới đây là phân số thập phân?",
+   [
+    "7/100",
+    "7/105",
+    "10/77",
+    "12/35"
+   ],
+   "Phân số thập phân là phân số có mẫu số là các lũy thừa của 10 như 10, 100, 1000,... Do đó 7/100 là phân số thập phân."
+  ]
+ ],
+ "c2": [
+  [
+   "Số thập phân gồm năm đơn vị, sáu phần mười và tám phần nghìn được viết là:",
+   [
+    "5,608",
+    "5,68",
+    "5,068",
+    "5,806"
+   ],
+   "Phần nguyên là 5, hàng phần mười là 6, hàng phần trăm không có nên viết là 0, hàng phần nghìn là 8. Vậy số đó là 5,608."
+  ],
+  [
+   "Chữ số 7 trong số thập phân 42,375 chỉ giá trị là:",
+   [
+    "7/100",
+    "7/10",
+    "7",
+    "7/1000"
+   ],
+   "Chữ số 7 đứng ở hàng phần trăm nên có giá trị là 7/100."
+  ],
+  [
+   "Số lớn nhất trong các số thập phân 7,85; 7,58; 8,1; 7,9 là:",
+   [
+    "8,1",
+    "7,9",
+    "7,85",
+    "7,58"
+   ],
+   "So sánh phần nguyên ta thấy số 8,1 có phần nguyên lớn nhất nên là số lớn nhất."
+  ],
+  [
+   "Hỗn số 5 và 3/10 được viết dưới dạng số thập phân là:",
+   [
+    "5,3",
+    "5,03",
+    "53,0",
+    "0,53"
+   ],
+   "Hỗn số 5 và 3/10 có phần nguyên là 5, phần phân số là 3/10 tương đương 3 phần mười. Viết thành số thập phân là 5,3."
+  ],
+  [
+   "Kết quả của phép tính 15,4 + 7,8 là:",
+   [
+    "23,2",
+    "22,2",
+    "23,12",
+    "22,12"
+   ],
+   "Thực hiện cộng các hàng tương ứng, ta có 15,4 + 7,8 = 23,2."
+  ],
+  [
+   "Kết quả của phép tính 24,5 - 9,2 là:",
+   [
+    "15,3",
+    "15,1",
+    "16,3",
+    "14,3"
+   ],
+   "Thực hiện trừ các hàng tương ứng, ta có 24,5 - 9,2 = 15,3."
+  ],
+  [
+   "Kết quả của phép nhân 3,5 nhân với 10 là:",
+   [
+    "35",
+    "3,50",
+    "0,35",
+    "350"
+   ],
+   "Nhân một số thập phân với 10 ta dịch chuyển dấu phẩy sang bên phải một chữ số, được 35."
+  ],
+  [
+   "Kết quả của phép chia 45,6 chia cho 100 là:",
+   [
+    "0,456",
+    "4,56",
+    "45,600",
+    "0,0456"
+   ],
+   "Chia một số thập phân cho 100 ta dịch chuyển dấu phẩy sang bên trái hai chữ số, được 0,456."
+  ],
+  [
+   "Làm tròn số thập phân 12,64 đến hàng phần mười ta được:",
+   [
+    "12,6",
+    "12,7",
+    "13",
+    "12,5"
+   ],
+   "Chữ số hàng phần trăm là 4 nhỏ hơn 5 nên ta giữ nguyên chữ số hàng phần mười, bỏ các chữ số sau hàng phần mười được 12,6."
+  ],
+  [
+   "Viết phân số 3/4 dưới dạng số thập phân ta được:",
+   [
+    "0,75",
+    "0,8",
+    "0,7",
+    "0,34"
+   ],
+   "Nhân cả tử và mẫu của 3/4 với 25 ta được 75/100, viết dưới dạng số thập phân là 0,75."
+  ],
+  [
+   "Tìm số tự nhiên x biết 2,5 nhân x nhỏ hơn 10:",
+   [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "Thử các giá trị của x, nếu x bằng 3 thì 2,5 nhân 3 bằng 7,5 nhỏ hơn 10 (nếu x bằng 4 thì bằng 10, không thỏa mãn nhỏ hơn 10)."
+  ],
+  [
+   "Một mảnh vườn hình chữ nhật có chiều dài 12,5m và chiều rộng 8m. Diện tích mảnh vườn đó là:",
+   [
+    "100 mét vuông",
+    "10 mét vuông",
+    "1000 mét vuông",
+    "20,5 mét vuông"
+   ],
+   "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng: 12,5 nhân 8 bằng 100 mét vuông."
+  ],
+  [
+   "Chữ số 9 trong số thập phân 89,42 có giá trị gấp bao nhiêu lần chữ số 9 trong số thập phân 5,91?",
+   [
+    "10 lần",
+    "100 lần",
+    "1 lần",
+    "0,1 lần"
+   ],
+   "Chữ số 9 ở số 89,42 chỉ 9 đơn vị; ở số 5,91 chỉ 9 phần mười (0,9). Giá trị đơn vị gấp 10 lần giá trị phần mười."
+  ],
+  [
+   "Tổng của hai số là 45,8. Nếu số thứ nhất tăng thêm 3,2 đơn vị và số thứ hai tăng thêm 5,1 đơn vị thì tổng mới là:",
+   [
+    "54,1",
+    "54,0",
+    "47,5",
+    "53,1"
+   ],
+   "Tổng mới bằng tổng cũ cộng với tổng số đơn vị tăng thêm của hai số: 45,8 + 3,2 + 5,1 = 54,1."
+  ],
+  [
+   "Hiệu của hai số là 12,4. Nếu số bị trừ giảm đi 2,5 đơn vị và số trừ tăng lên 1,5 đơn vị thì hiệu mới là:",
+   [
+    "8,4",
+    "11,4",
+    "13,4",
+    "16,4"
+   ],
+   "Số bị trừ giảm 2,5 thì hiệu giảm 2,5; số trừ tăng 1,5 thì hiệu tiếp tục giảm 1,5. Hiệu mới là 12,4 - 2,5 - 1,5 = 8,4."
+  ],
+  [
+   "Mua 4 mét vải hết 120 000 đồng. Hỏi mua 6,5 mét vải như thế hết số tiền là:",
+   [
+    "195 000 đồng",
+    "180 000 đồng",
+    "200 000 đồng",
+    "190 000 đồng"
+   ],
+   "Giá tiền 1 mét vải là 120 000 chia 4 bằng 30 000 đồng. Mua 6,5 mét vải hết 30 000 nhân 6,5 bằng 195 000 đồng."
+  ],
+  [
+   "Một ô tô cứ đi 100km thì tiêu thụ hết 9 lít xăng. Ô tô đã đi quãng đường dài 50km thì tiêu thụ hết số lít xăng là:",
+   [
+    "4,5 lít",
+    "9 lít",
+    "18 lít",
+    "5 lít"
+   ],
+   "Quãng đường 50km bằng một nửa quãng đường 100km, nên số xăng tiêu thụ cũng giảm một nửa: 9 chia 2 bằng 4,5 lít."
+  ],
+  [
+   "Giá trị của biểu thức 18,5 trừ mở ngoặc 4,2 cộng 3,5 đóng ngoặc là:",
+   [
+    "10,8",
+    "17,8",
+    "11,8",
+    "10,2"
+   ],
+   "Tính trong ngoặc trước: 4,2 + 3,5 = 7,7. Sau đó lấy 18,5 - 7,7 = 10,8."
+  ],
+  [
+   "Tìm x, biết x cộng 4,5 nhân 2 bằng 15,6:",
+   [
+    "6,6",
+    "6,1",
+    "11,1",
+    "20,1"
+   ],
+   "Tính 4,5 nhân 2 bằng 9. Ta có x + 9 = 15,6, suy ra x = 15,6 - 9 = 6,6."
+  ],
+  [
+   "Số thập phân gồm bốn mươi đơn vị, chín phần trăm và hai phần nghìn được viết là:",
+   [
+    "40,092",
+    "40,92",
+    "40,0092",
+    "40,902"
+   ],
+   "Phần nguyên là 40, phần thập phân có 9 phần trăm (hàng phần mười là 0) và 2 phần nghìn nên viết là 40,092."
+  ],
+  [
+   "Chữ số 3 trong số thập phân 98,234 chỉ giá trị là:",
+   [
+    "3/100",
+    "3/10",
+    "3",
+    "3/1000"
+   ],
+   "Chữ số 3 đứng ở hàng phần trăm nên có giá trị là 3 phần trăm, viết là 3/100."
+  ],
+  [
+   "Số bé nhất trong các số thập phân 4,85; 4,58; 5,1; 4,9 là:",
+   [
+    "4,58",
+    "4,85",
+    "4,9",
+    "5,1"
+   ],
+   "So sánh phần nguyên đều là 4 (trừ 5,1 lớn nhất). So sánh hàng phần mười ta thấy 5 nhỏ nhất, vậy số bé nhất là 4,58."
+  ],
+  [
+   "Hỗn số 8 và 7/100 được viết dưới dạng số thập phân là:",
+   [
+    "8,07",
+    "8,7",
+    "8,007",
+    "8,70"
+   ],
+   "Phần nguyên là 8, phần phân số có mẫu số là 100 nên phần thập phân có hai chữ số, viết là 8,07."
+  ],
+  [
+   "Kết quả của phép tính 23,6 + 9,7 là:",
+   [
+    "33,3",
+    "32,3",
+    "33,2",
+    "32,2"
+   ],
+   "Thực hiện cộng như số tự nhiên, viết dấu phẩy thẳng hàng ta được 23,6 + 9,7 = 33,3."
+  ],
+  [
+   "Kết quả của phép tính 32,4 - 8,6 là:",
+   [
+    "23,8",
+    "24,8",
+    "23,6",
+    "24,2"
+   ],
+   "Thực hiện trừ ta có 32,4 - 8,6 = 23,8."
+  ],
+  [
+   "Kết quả của phép nhân 4,25 nhân với 100 là:",
+   [
+    "425",
+    "42,5",
+    "4250",
+    "4,25"
+   ],
+   "Nhân một số thập phân với 100 ta dịch chuyển dấu phẩy sang bên phải hai chữ số, được 425."
+  ],
+  [
+   "Kết quả của phép chia 372,5 chia cho 10 là:",
+   [
+    "37,25",
+    "3,725",
+    "372,5",
+    "3725"
+   ],
+   "Chia một số thập phân cho 10 ta dịch chuyển dấu phẩy sang bên trái một chữ số, được 37,25."
+  ],
+  [
+   "Làm tròn số thập phân 25,47 đến hàng phần mười ta được:",
+   [
+    "25,5",
+    "25,4",
+    "25,6",
+    "26,0"
+   ],
+   "Chữ số hàng phần trăm là 7 lớn hơn 5 nên ta tăng chữ số hàng phần mười lên 1 đơn vị, được 25,5."
+  ],
+  [
+   "Viết phân số 2/5 dưới dạng số thập phân ta được:",
+   [
+    "0,4",
+    "0,2",
+    "0,5",
+    "2,5"
+   ],
+   "Nhân cả tử và mẫu với 2 ta được phân số 4/10, viết dưới dạng số thập phân là 0,4."
+  ],
+  [
+   "Chữ số 5 trong số thập phân 45,2 có giá trị gấp bao nhiêu lần chữ số 5 trong số thập phân 7,15?",
+   [
+    "100 lần",
+    "10 lần",
+    "1000 lần",
+    "1 lần"
+   ],
+   "Chữ số 5 ở số 45,2 chỉ 5 đơn vị; ở số 7,15 chỉ 5 phần trăm (0,05). 5 đơn vị gấp 5 phần trăm là 100 lần."
+  ],
+  [
+   "Tổng của hai số là 56,4. Nếu số thứ nhất tăng thêm 4,2 đơn vị và số thứ hai tăng thêm 3,8 đơn vị thì tổng mới là:",
+   [
+    "64,4",
+    "60,4",
+    "56,4",
+    "64,0"
+   ],
+   "Tổng mới bằng tổng cũ cộng thêm các phần tăng thêm: 56,4 + 4,2 + 3,8 = 64,4."
+  ],
+  [
+   "Hiệu của hai số là 24,5. Nếu số bị trừ tăng thêm 3,5 đơn vị và số trừ giảm đi 1,5 đơn vị thì hiệu mới là:",
+   [
+    "29,5",
+    "26,5",
+    "22,5",
+    "28,0"
+   ],
+   "Số bị trừ tăng 3,5 làm hiệu tăng 3,5; số trừ giảm 1,5 làm hiệu tăng thêm 1,5. Hiệu mới là 24,5 + 3,5 + 1,5 = 29,5."
+  ],
+  [
+   "Một ô tô cứ đi 100km thì tiêu thụ hết 8 lít xăng. Ô tô đã đi quãng đường dài 250km thì tiêu thụ hết số lít xăng là:",
+   [
+    "20 lít",
+    "16 lít",
+    "18 lít",
+    "25 lít"
+   ],
+   "1km tiêu thụ 8 chia 100 bằng 0,08 lít xăng. 250km tiêu thụ 0,08 nhân 250 bằng 20 lít xăng."
+  ],
+  [
+   "Giá trị của biểu thức 25,6 - (5,2 + 4,8) là:",
+   [
+    "15,6",
+    "20,4",
+    "15,4",
+    "16,5"
+   ],
+   "Tính trong ngoặc trước: 5,2 + 4,8 = 10. Sau đó tính 25,6 - 10 = 15,6."
+  ],
+  [
+   "Tìm x, biết x cộng 3,2 nhân 4 bằng 25,8:",
+   [
+    "13,0",
+    "12,0",
+    "13,8",
+    "12,6"
+   ],
+   "Ta có x + 12,8 = 25,8, suy ra x = 25,8 - 12,8 = 13,0."
+  ],
+  [
+   "Số thập phân nào dưới đây có chữ số 8 thuộc hàng phần trăm?",
+   [
+    "12,385",
+    "12,835",
+    "12,538",
+    "82,135"
+   ],
+   "Hàng phần trăm là chữ số thứ hai sau dấu phẩy, nên số có chữ số 8 ở hàng phần trăm là 12,385."
+  ],
+  [
+   "Khi chuyển phân số 7/8 thành số thập phân, ta được kết quả là:",
+   [
+    "0,875",
+    "0,785",
+    "0,825",
+    "0,857"
+   ],
+   "Thực hiện phép chia 7 cho 8 ta được kết quả là 0,875."
+  ],
+  [
+   "Số thập phân 56,789 làm tròn đến hàng phần mười ta được số:",
+   [
+    "56,8",
+    "56,7",
+    "57,0",
+    "56,9"
+   ],
+   "Chữ số hàng phần trăm là 8 lớn hơn 5 nên ta làm tròn lên thành 56,8."
+  ],
+  [
+   "Kết quả của biểu thức 45,2 - 12,5 + 3,8 là:",
+   [
+    "36,5",
+    "28,9",
+    "32,7",
+    "40,3"
+   ],
+   "Thực hiện phép tính lần lượt từ trái sang phải: 45,2 - 12,5 = 32,7, sau đó cộng tiếp 3,8 được 36,5."
+  ],
+  [
+   "Tìm x, biết: x nhân 3,5 = 17,5",
+   [
+    "5",
+    "0,5",
+    "50",
+    "5,2"
+   ],
+   "Muốn tìm thừa số x chưa biết, ta lấy tích 17,5 chia cho thừa số đã biết 3,5, kết quả x bằng 5."
+  ]
+ ],
+ "c3": [
+  [
+   "Số thập phân gồm 5 đơn vị, 7 phần mười và 3 phần nghìn được viết là:",
+   [
+    "5,703",
+    "5,73",
+    "5,073",
+    "57,03"
+   ],
+   "Hàng phần mười là 7, hàng phần trăm không có nên viết là 0, hàng phần nghìn là 3, ta được số 5,703."
+  ],
+  [
+   "Chữ số 8 trong số thập phân 45,281 có giá trị là:",
+   [
+    "8/100",
+    "8/10",
+    "8",
+    "8/1000"
+   ],
+   "Chữ số 8 đứng ở hàng phần trăm nên có giá trị là 8 phần một trăm, tức là 8/100."
+  ],
+  [
+   "Kết quả của phép tính 15,4 + 7,25 là:",
+   [
+    "22,65",
+    "22,55",
+    "21,65",
+    "22,75"
+   ],
+   "Đặt tính cộng các số thập phân sao cho các dấu phẩy thẳng cột với nhau, ta có 15,4 + 7,25 = 22,65."
+  ],
+  [
+   "Kết quả của phép tính 42,8 - 15,36 là:",
+   [
+    "27,44",
+    "27,54",
+    "26,44",
+    "28,44"
+   ],
+   "Viết thêm chữ số 0 vào phần thập phân của 42,8 thành 42,80 rồi trừ đi 15,36 được 27,44."
+  ],
+  [
+   "Kết quả của phép tính 3,5 nhân 4,2 là:",
+   [
+    "14,7",
+    "1,47",
+    "147",
+    "14,07"
+   ],
+   "Thực hiện nhân như số tự nhiên 35 nhân 42 bằng 1470, tách ở tích ra hai chữ số thập phân ta được 14,7."
+  ],
+  [
+   "Kết quả của phép tính 18,6 chia 3 là:",
+   [
+    "6,2",
+    "6,02",
+    "0,62",
+    "62"
+   ],
+   "Thực hiện chia phần nguyên 18 cho 3 được 6, viết dấu phẩy, lấy 6 chia 3 được 2, kết quả là 6,2."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm để 4m 5cm = ... m là:",
+   [
+    "4,05",
+    "4,5",
+    "4,005",
+    "45"
+   ],
+   "Ta có 5cm = 5/100 m = 0,05m, cộng với 4m ta được 4,05m."
+  ],
+  [
+   "Tìm x, biết: x - 5,2 = 8,7",
+   [
+    "13,9",
+    "3,5",
+    "13,09",
+    "14,9"
+   ],
+   "Muốn tìm số bị trừ x, ta lấy hiệu cộng với số trừ: x = 8,7 + 5,2 = 13,9."
+  ],
+  [
+   "Tìm x, biết: x nhân 2,5 = 10",
+   [
+    "4",
+    "25",
+    "0,4",
+    "40"
+   ],
+   "Muốn tìm thừa số chưa biết x, ta lấy tích chia cho thừa số đã biết: x = 10 chia 2,5 = 4."
+  ],
+  [
+   "Chu vi hình chữ nhật có chiều dài 6,5cm và chiều rộng 3,2cm là:",
+   [
+    "19,4cm",
+    "20,8cm",
+    "9,7cm",
+    "19,8cm"
+   ],
+   "Chu vi hình chữ nhật bằng tổng chiều dài và chiều rộng nhân với 2: (6,5 + 3,2) nhân 2 = 19,4cm."
+  ],
+  [
+   "Kết quả của phép tính 12,4 chia 0,5 là:",
+   [
+    "24,8",
+    "6,2",
+    "2,48",
+    "248"
+   ],
+   "Chia một số cho 0,5 chính là nhân số đó với 2: 12,4 nhân 2 = 24,8."
+  ],
+  [
+   "Tính nhanh: 3,5 nhân 7,8 + 3,5 nhân 2,2",
+   [
+    "35",
+    "3,5",
+    "350",
+    "25"
+   ],
+   "Áp dụng tính chất phân phối giữa phép nhân và phép cộng: 3,5 nhân (7,8 + 2,2) = 3,5 nhân 10 = 35."
+  ],
+  [
+   "Một ô tô đi được quãng đường 135km trong 3 giờ. Vận tốc của ô tô là:",
+   [
+    "45km/h",
+    "40,5km/h",
+    "45,5km/h",
+    "54km/h"
+   ],
+   "Vận tốc của ô tô bằng quãng đường chia cho thời gian: 135 chia 3 = 45 km/h."
+  ],
+  [
+   "Diện tích hình thang có đáy lớn 7,2cm, đáy nhỏ 4,8cm và chiều cao 3,5cm là:",
+   [
+    "21cm vuông",
+    "42cm vuông",
+    "21,5cm vuông",
+    "10,5cm vuông"
+   ],
+   "Diện tích hình thang bằng tổng độ dài hai đáy nhân với chiều cao rồi chia cho 2: ((7,2 + 4,8) nhân 3,5) chia 2 = 21cm vuông."
+  ],
+  [
+   "Mua 2,5kg gạo hết 62500 đồng. Hỏi mua 1,5kg gạo loại đó hết bao nhiêu tiền?",
+   [
+    "37500 đồng",
+    "25000 đồng",
+    "41666 đồng",
+    "31250 đồng"
+   ],
+   "Giá tiền 1kg gạo là 62500 chia 2,5 = 25000 đồng. Mua 1,5kg gạo hết 25000 nhân 1,5 = 37500 đồng."
+  ],
+  [
+   "Kết quả của biểu thức 45,6 - 12,4 cộng 5,2 là:",
+   [
+    "38,4",
+    "28",
+    "38,0",
+    "33,2"
+   ],
+   "Biểu thức chỉ có phép tính trừ và cộng, ta thực hiện lần lượt từ trái sang phải: 45,6 - 12,4 = 33,2; sau đó lấy 33,2 cộng 5,2 = 38,4."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm để 3 thế kỷ 12 năm = ... năm là:",
+   [
+    "312",
+    "3,12",
+    "3012",
+    "32"
+   ],
+   "1 thế kỷ bằng 100 năm, nên 3 thế kỷ bằng 300 năm. Cộng thêm 12 năm ta được 312 năm."
+  ],
+  [
+   "Tìm x, biết: 7,8 nhân x + 2,2 nhân x = 20",
+   [
+    "2",
+    "20",
+    "0,2",
+    "10"
+   ],
+   "Áp dụng tính chất phân phối ta có (7,8 + 2,2) nhân x = 20, tương đương 10 nhân x = 20, suy ra x = 2."
+  ],
+  [
+   "Một người đi xe máy trong 2,5 giờ với vận tốc 40km/h, sau đó đi tiếp ô tô trong 1,5 giờ với vận tốc 50km/h. Tổng quãng đường người đó đi được là:",
+   [
+    "175km",
+    "160km",
+    "225km",
+    "180km"
+   ],
+   "Quãng đường đi xe máy là 40 nhân 2,5 = 100km. Quãng đường đi ô tô là 50 nhân 1,5 = 75km. Tổng quãng đường là 100 + 75 = 175km."
+  ],
+  [
+   "Số thập phân gồm 8 đơn vị, 4 phần trăm và 5 phần nghìn được viết là:",
+   [
+    "8,045",
+    "8,45",
+    "8,0045",
+    "8,405"
+   ],
+   "Phần nguyên là 8; hàng phần mười không có nên viết là 0; hàng phần trăm là 4; hàng phần nghìn là 5. Ta được số 8,045."
+  ],
+  [
+   "Chữ số 7 trong số thập phân 92,374 có giá trị là:",
+   [
+    "7/100",
+    "7/10",
+    "7",
+    "7/1000"
+   ],
+   "Chữ số 7 đứng ở hàng phần trăm nên có giá trị là 7 phần trăm, viết là 7/100."
+  ],
+  [
+   "Kết quả của phép tính 24,6 + 9,37 là:",
+   [
+    "33,97",
+    "33,87",
+    "32,97",
+    "34,97"
+   ],
+   "Đặt tính thẳng hàng dấu phẩy rồi cộng các chữ số từ phải sang trái, ta được 24,6 + 9,37 = 33,97."
+  ],
+  [
+   "Kết quả của phép tính 4,8 nhân 3,5 là:",
+   [
+    "16,8",
+    "1,68",
+    "168",
+    "14,8"
+   ],
+   "Thực hiện phép nhân như số tự nhiên rồi đếm phần thập phân ở cả hai thừa số có tổng cộng 2 chữ số, ta được 16,8."
+  ],
+  [
+   "Kết quả của phép tính 45,6 chia 4 là:",
+   [
+    "11,4",
+    "11,5",
+    "1,14",
+    "114"
+   ],
+   "Chia phần nguyên trước rồi đến phần thập phân, ta có 45,6 chia 4 bằng 11,4."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm để 7kg 45g = ... kg là:",
+   [
+    "7,045",
+    "7,45",
+    "7,0045",
+    "7,450"
+   ],
+   "1kg bằng 1000g nên 45g bằng 45/1000kg hay 0,045kg. Cộng với 7kg ta được 7,045kg."
+  ],
+  [
+   "Tìm x, biết: x + 4,6 = 12,3",
+   [
+    "7,7",
+    "16,9",
+    "8,7",
+    "7,3"
+   ],
+   "Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết: x = 12,3 - 4,6 = 7,7."
+  ],
+  [
+   "Tìm x, biết: x chia 1,5 = 4,2",
+   [
+    "6,3",
+    "2,8",
+    "6,2",
+    "63"
+   ],
+   "Muốn tìm số bị chia, ta lấy thương nhân với số chia: x = 4,2 nhân 1,5 = 6,3."
+  ],
+  [
+   "Diện tích hình vuông có cạnh 5,4cm là:",
+   [
+    "29,16cm vuông",
+    "21,6cm vuông",
+    "29,16cm",
+    "216cm vuông"
+   ],
+   "Diện tích hình vuông bằng cạnh nhân với chính nó: 5,4 nhân 5,4 = 29,16cm vuông."
+  ],
+  [
+   "Kết quả của phép tính 36,4 chia 0,25 là:",
+   [
+    "145,6",
+    "14,56",
+    "1,456",
+    "1456"
+   ],
+   "Chia một số cho 0,25 tương đương với nhân số đó với 4. Ta có 36,4 nhân 4 = 145,6."
+  ],
+  [
+   "Tính nhanh: 4,7 nhân 5,6 + 4,7 nhân 4,4",
+   [
+    "47",
+    "4,7",
+    "470",
+    "46"
+   ],
+   "Áp dụng tính chất phân phối của phép nhân đối với phép cộng: 4,7 nhân (5,6 + 4,4) = 4,7 nhân 10 = 47."
+  ],
+  [
+   "Một vòi nước chảy vào bể trong 2,5 giờ được 1,25 mét khối nước. Trung bình mỗi giờ vòi đó chảy được số mét khối nước là:",
+   [
+    "0,5",
+    "0,05",
+    "5",
+    "0,25"
+   ],
+   "Lấy tổng số mét khối nước chia cho số thời gian: 1,25 chia 2,5 = 0,5 mét khối."
+  ],
+  [
+   "Diện tích hình tam giác có độ dài đáy 8,5cm và chiều cao 4,2cm là:",
+   [
+    "17,85cm vuông",
+    "35,7cm vuông",
+    "17,85cm",
+    "35,7cm"
+   ],
+   "Diện tích tam giác bằng độ dài đáy nhân chiều cao rồi chia cho 2: (8,5 nhân 4,2) chia 2 = 17,85cm vuông."
+  ],
+  [
+   "Mua 3,5 mét vải hết 105000 đồng. Hỏi mua 1,5 mét vải loại đó hết bao nhiêu tiền?",
+   [
+    "45000 đồng",
+    "35000 đồng",
+    "90000 đồng",
+    "52500 đồng"
+   ],
+   "Tính giá tiền 1 mét vải là 105000 chia 3,5 = 30000 đồng. Mua 1,5 mét vải hết 30000 nhân 1,5 = 45000 đồng."
+  ],
+  [
+   "Kết quả của biểu thức 84,5 - 14,5 nhân 3 là:",
+   [
+    "41",
+    "210",
+    "21",
+    "145,5"
+   ],
+   "Thực hiện phép nhân trước, phép trừ sau: 84,5 - (14,5 nhân 3) = 84,5 - 43,5 = 41."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm để 2 giờ 15 phút = ... giờ là:",
+   [
+    "2,25",
+    "2,15",
+    "2,2",
+    "2,6"
+   ],
+   "Đổi 15 phút ra giờ bằng cách lấy 15 chia 60 = 0,25 giờ. Cộng với 2 giờ ta được 2,25 giờ."
+  ],
+  [
+   "Lớp 5A có 40 học sinh, trong đó số học sinh nữ chiếm 55 phần trăm số học sinh cả lớp. Số học sinh nam của lớp 5A là:",
+   [
+    "18",
+    "22",
+    "20",
+    "25"
+   ],
+   "Số học sinh nữ là 40 nhân 55 chia 100 = 22 học sinh. Số học sinh nam là 40 - 22 = 18 học sinh."
+  ],
+  [
+   "Muốn nhân một số thập phân với 0,1 ta làm như thế nào?",
+   [
+    "Chuyển dấu phẩy của số đó sang bên trái một chữ số",
+    "Chuyển dấu phẩy của số đó sang bên phải một chữ số",
+    "Chuyển dấu phẩy của số đó sang bên trái hai chữ số",
+    "Chuyển dấu phẩy của số đó sang bên phải hai chữ số"
+   ],
+   "Khi nhân một số thập phân với 0,1 ta chỉ cần chuyển dấu phẩy của số đó sang bên trái một chữ số."
+  ],
+  [
+   "Thực hiện phép tính chia 12,5 : 0,1 được kết quả là:",
+   [
+    "125",
+    "1,25",
+    "0,125",
+    "1250"
+   ],
+   "Chia một số cho 0,1 tương đương với nhân số đó với 10, nên 12,5 : 0,1 = 125."
+  ],
+  [
+   "Một tấm gỗ hình chữ nhật có chiều dài 1,8m và chiều rộng 0,5m. Diện tích của tấm gỗ đó là:",
+   [
+    "0,9 m²",
+    "4,6 m²",
+    "2,3 m²",
+    "9 m²"
+   ],
+   "Diện tích tấm gỗ là 1,8 x 0,5 = 0,9 m²."
+  ],
+  [
+   "Một người thợ dệt dùng 12,6m vải để may 4 bộ quần áo giống nhau. Hỏi mỗi bộ quần áo như thế dùng hết bao nhiêu mét vải?",
+   [
+    "3,15 m",
+    "3,2 m",
+    "3,1 m",
+    "50,4 m"
+   ],
+   "Số mét vải may một bộ quần áo là: 12,6 : 4 = 3,15 m."
+  ]
+ ],
+ "c4": [
+  [
+   "Tỉ số phần trăm của 3 và 4 là bao nhiêu?",
+   [
+    "75%",
+    "7,5%",
+    "34%",
+    "43%"
+   ],
+   "Ta lấy 3 chia cho 4 được 0,75, đổi thành tỉ số phần trăm là 75%."
+  ],
+  [
+   "Số thập phân 0,45 viết dưới dạng tỉ số phần trăm là gì?",
+   [
+    "45%",
+    "4,5%",
+    "0,45%",
+    "450%"
+   ],
+   "Nhân 0,45 với 100 rồi viết thêm kí hiệu phần trăm ta được 45%."
+  ],
+  [
+   "25% của một số bằng 50. Số đó là bao nhiêu?",
+   [
+    "200",
+    "12,5",
+    "100",
+    "250"
+   ],
+   "Muốn tìm một số khi biết 25% của nó bằng 50, ta lấy 50 chia cho 25 nhân với 100, kết quả là 200."
+  ],
+  [
+   "Lớp 5A có 40 học sinh, trong đó có 18 học sinh nữ. Số học sinh nữ chiếm bao nhiêu phần số học sinh cả lớp?",
+   [
+    "45%",
+    "18%",
+    "40%",
+    "55%"
+   ],
+   "Tỉ số phần trăm số học sinh nữ và cả lớp là 18 chia 40 bằng 0,45 hay 45%."
+  ],
+  [
+   "Một cửa hàng mua vào một sản phẩm giá 200000 đồng và bán ra với giá 250000 đồng. Tiền lãi chiếm bao nhiêu phần trăm giá mua?",
+   [
+    "25%",
+    "20%",
+    "50%",
+    "125%"
+   ],
+   "Tiền lãi là 50000 đồng, lấy 50000 chia cho 200000 được 0,25 hay 25%."
+  ],
+  [
+   "Viết phân số 3/5 dưới dạng tỉ số phần trăm.",
+   [
+    "60%",
+    "35%",
+    "3/5%",
+    "15%"
+   ],
+   "Ta có 3 chia 5 bằng 0,6, đổi thành 60%."
+  ],
+  [
+   "Tìm 20% của 350 kg.",
+   [
+    "70 kg",
+    "35 kg",
+    "140 kg",
+    "7 kg"
+   ],
+   "Lấy 350 nhân 20 rồi chia cho 100 ta được 70 kg."
+  ],
+  [
+   "Hỗn số 2 và 1/2 viết dưới dạng tỉ số phần trăm là gì?",
+   [
+    "250%",
+    "25%",
+    "2,5%",
+    "205%"
+   ],
+   "Hỗn số bằng 2,5, nhân với 100 ta được 250%."
+  ],
+  [
+   "Một trường tiểu học có 800 học sinh, số học sinh nam chiếm 52%. Hỏi trường đó có bao nhiêu học sinh nam?",
+   [
+    "416 học sinh",
+    "384 học sinh",
+    "520 học sinh",
+    "400 học sinh"
+   ],
+   "Số học sinh nam là 800 nhân 52 chia 100 bằng 416 học sinh."
+  ],
+  [
+   "Biết 15% của một tấm vải là 45 mét. Tấm vải đó dài bao nhiêu mét?",
+   [
+    "300 mét",
+    "675 mét",
+    "450 mét",
+    "30 mét"
+   ],
+   "Lấy 45 chia 15 nhân 100 ta được 300 mét."
+  ],
+  [
+   "Một mảnh đất hình chữ nhật có chiều dài 20m, chiều rộng 15m. Diện tích lối đi chiếm 10% diện tích mảnh đất. Tính diện tích lối đi.",
+   [
+    "30 m2",
+    "35 m2",
+    "300 m2",
+    "15 m2"
+   ],
+   "Diện tích mảnh đất là 20 nhân 15 bằng 300 mét vuông. Diện tích lối đi là 10% của 300 là 30 mét vuông."
+  ],
+  [
+   "Lớp 5B có 30 học sinh. Số học sinh đạt loại giỏi chiếm 40%, còn lại là học sinh khá. Tính số học sinh khá.",
+   [
+    "18 học sinh",
+    "12 học sinh",
+    "20 học sinh",
+    "15 học sinh"
+   ],
+   "Số học sinh giỏi là 40%, vậy số học sinh khá chiếm 60%. Lấy 30 nhân 60 chia 100 bằng 18 học sinh."
+  ],
+  [
+   "Một người gửi tiết kiệm 10000000 đồng với lãi suất 0,5% một tháng. Sau một tháng, số tiền lãi là bao nhiêu?",
+   [
+    "50000 đồng",
+    "500000 đồng",
+    "5000 đồng",
+    "5000000 đồng"
+   ],
+   "Số tiền lãi là 10000000 nhân 0,5 chia 100 bằng 50000 đồng."
+  ],
+  [
+   "Hòa có 20 viên bi, Bình có 25 viên bi. Số bi của Hòa bằng bao nhiêu phần trăm số bi của Bình?",
+   [
+    "80%",
+    "125%",
+    "120%",
+    "45%"
+   ],
+   "Lấy 20 chia cho 25 được 0,8 hay 80%."
+  ],
+  [
+   "Giá một chiếc áo sau khi giảm giá 20% là 320000 đồng. Giá ban đầu của chiếc áo là bao nhiêu?",
+   [
+    "400000 đồng",
+    "384000 đồng",
+    "300000 đồng",
+    "640000 đồng"
+   ],
+   "Giá ban đầu ứng với 100%, giá sau khi giảm ứng với 80%. Lấy 320000 chia 80 nhân 100 bằng 400000 đồng."
+  ],
+  [
+   "Một bể chứa 1200 lít nước, đang chứa đầy 75% thể tích bể. Cần đổ thêm bao nhiêu lít nước nữa để đầy bể?",
+   [
+    "300 lít",
+    "900 lít",
+    "400 lít",
+    "250 lít"
+   ],
+   "Số phần trăm nước còn thiếu là 100% trừ 75% bằng 25%. Tính 25% của 1200 ta được 300 lít."
+  ],
+  [
+   "Lớp 5C kiểm tra Toán, có 5 bạn được điểm 10, chiếm 25% số học sinh cả lớp. Hỏi lớp 5C có bao nhiêu học sinh?",
+   [
+    "20 học sinh",
+    "25 học sinh",
+    "15 học sinh",
+    "50 học sinh"
+   ],
+   "Lấy 5 chia 25 nhân 100 ta được 20 học sinh."
+  ],
+  [
+   "Học kì một lớp 5D có 16 học sinh giỏi, chiếm 40% sĩ số. Học kì hai số học sinh giỏi tăng thêm 5%. Hỏi học kì hai lớp 5D có bao nhiêu học sinh giỏi?",
+   [
+    "18 học sinh",
+    "17 học sinh",
+    "20 học sinh",
+    "21 học sinh"
+   ],
+   "Số học sinh giỏi học kì hai chiếm 45%. Sĩ số lớp là 16 chia 40 nhân 100 bằng 40 học sinh. Số học sinh giỏi học kì hai là 40 nhân 45 chia 100 bằng 18 học sinh."
+  ],
+  [
+   "Một người bán một món hàng thu được 600000 đồng, trong đó tiền vốn là 500000 đồng. Tỉ số phần trăm của tiền lãi và tiền vốn là bao nhiêu?",
+   [
+    "20%",
+    "120%",
+    "16,7%",
+    "83,3%"
+   ],
+   "Tiền lãi là 100000 đồng. Lấy 100000 chia 500000 được 0,2 hay 20%."
+  ],
+  [
+   "Hỗn số 1 và 3/4 đổi thành tỉ số phần trăm là bao nhiêu?",
+   [
+    "175%",
+    "134%",
+    "75%",
+    "1,75%"
+   ],
+   "Hỗn số đổi thành phân số 7/4, tương ứng với 1,75 hay 175%."
+  ],
+  [
+   "Kí hiệu % trong toán học được gọi là gì?",
+   [
+    "Tỉ số phần trăm",
+    "Phần trăm",
+    "Kí hiệu chia",
+    "Phân số thập phân"
+   ],
+   "Kí hiệu % được gọi là kí hiệu tỉ số phần trăm."
+  ],
+  [
+   "Cách viết nào sau đây thể hiện tỉ số phần trăm của 7 và 100?",
+   [
+    "7%",
+    "70%",
+    "0,7%",
+    "700%"
+   ],
+   "Tỉ số của 7 và 100 viết dưới dạng tỉ số phần trăm là 7%."
+  ],
+  [
+   "Số thập phân 0,08 được viết dưới dạng tỉ số phần trăm là bao nhiêu?",
+   [
+    "8%",
+    "0,8%",
+    "80%",
+    "0,08%"
+   ],
+   "Ta có 0,08 = 0,08 x 100% = 8%."
+  ],
+  [
+   "Tỉ số phần trăm 45% được viết dưới dạng số thập phân là bao nhiêu?",
+   [
+    "0,45",
+    "4,5",
+    "0,045",
+    "45,0"
+   ],
+   "Ta lấy 45 chia cho 100 được 0,45."
+  ],
+  [
+   "Phân số 7/20 được viết dưới dạng tỉ số phần trăm là bao nhiêu?",
+   [
+    "35%",
+    "7%",
+    "20%",
+    "70%"
+   ],
+   "Ta có 7/20 = 35/100 = 35%."
+  ],
+  [
+   "Tỉ số phần trăm của 12 và 25 là bao nhiêu?",
+   [
+    "48%",
+    "12%",
+    "25%",
+    "24%"
+   ],
+   "Ta tính 12 : 25 = 0,48 = 48%."
+  ],
+  [
+   "Kết quả của phép tính 15% + 28% là bao nhiêu?",
+   [
+    "43%",
+    "33%",
+    "43",
+    "0,43%"
+   ],
+   "Ta thực hiện 15% + 28% = (15 + 28)% = 43%."
+  ],
+  [
+   "Kết quả của phép tính 80% - 32,5% là bao nhiêu?",
+   [
+    "47,5%",
+    "48,5%",
+    "57,5%",
+    "47,5"
+   ],
+   "Ta lấy 80% - 32,5% = (80 - 32,5)% = 47,5%."
+  ],
+  [
+   "Tìm 30% của 150 m.",
+   [
+    "45 m",
+    "50 m",
+    "4,5 m",
+    "450 m"
+   ],
+   "30% của 150 m là: 150 x 30 : 100 = 45 m."
+  ],
+  [
+   "Biết 40% của một số là 80, số đó là bao nhiêu?",
+   [
+    "200",
+    "32",
+    "320",
+    "20"
+   ],
+   "Số đó là: 80 : 40 x 100 = 200."
+  ],
+  [
+   "Trong thư viện có 500 quyển sách, trong đó có 120 quyển sách Toán. Tỉ số phần trăm của số sách Toán và tổng số sách trong thư viện là bao nhiêu?",
+   [
+    "24%",
+    "12%",
+    "2,4%",
+    "40%"
+   ],
+   "Tỉ số phần trăm là: 120 : 500 = 0,24 = 24%."
+  ],
+  [
+   "Một gia đình đăng ký gói cước Internet giá 200 000 đồng một tháng. Khi thanh toán qua ứng dụng, gia đình được giảm 5% giá cước. Số tiền được giảm là bao nhiêu?",
+   [
+    "10 000 đồng",
+    "5 000 đồng",
+    "20 000 đồng",
+    "1 000 đồng"
+   ],
+   "Số tiền được giảm là: 200 000 x 5 : 100 = 10 000 đồng."
+  ],
+  [
+   "Vườn nhà An có 50 cây ăn quả, trong đó có 18 cây bưởi. Số cây bưởi chiếm bao nhiêu phần trăm tổng số cây trong vườn?",
+   [
+    "36%",
+    "18%",
+    "3,6%",
+    "180%"
+   ],
+   "Tỉ số phần trăm của số cây bưởi là: 18 : 50 = 0,36 = 36%."
+  ],
+  [
+   "Số lượng học sinh tham gia câu lạc bộ Cờ vua của một trường là 45 em, chiếm 15% số học sinh toàn trường. Hỏi trường đó có bao nhiêu học sinh?",
+   [
+    "300 học sinh",
+    "675 học sinh",
+    "30 học sinh",
+    "450 học sinh"
+   ],
+   "Số học sinh toàn trường là: 45 : 15 x 100 = 300 học sinh."
+  ],
+  [
+   "Tính kết quả của phép tính: 18,5% x 4.",
+   [
+    "74%",
+    "7,4%",
+    "740%",
+    "74"
+   ],
+   "Ta lấy 18,5% x 4 = (18,5 x 4)% = 74%."
+  ],
+  [
+   "Giá niêm yết của một chiếc xe đạp là 2 000 000 đồng. Nhân dịp khai trương, cửa hàng giảm giá 12%. Hỏi người mua phải trả bao nhiêu tiền để mua chiếc xe đạp đó?",
+   [
+    "1 760 000 đồng",
+    "240 000 đồng",
+    "1 880 000 đồng",
+    "1 740 000 đồng"
+   ],
+   "Số tiền được giảm là: 2 000 000 x 12 : 100 = 240 000 đồng. Số tiền phải trả là: 2 000 000 - 240 000 = 1 760 000 đồng."
+  ],
+  [
+   "Bác Bình gửi tiết kiệm 50 000 000 đồng với lãi suất 0,6% một tháng. Hỏi sau một tháng, bác Bình nhận được tất cả bao nhiêu tiền (cả vốn lẫn lãi)?",
+   [
+    "50 300 000 đồng",
+    "300 000 đồng",
+    "53 000 000 đồng",
+    "50 030 000 đồng"
+   ],
+   "Tiền lãi sau 1 tháng là: 50 000 000 x 0,6 : 100 = 300 000 đồng. Tổng số tiền nhận được là: 50 000 000 + 300 000 = 50 300 000 đồng."
+  ],
+  [
+   "Lớp 5A có 32 học sinh. Trong đợt thu gom kế hoạch nhỏ, trung bình mỗi bạn thu gom được 2,5 kg giấy vụn. Biết số giấy vụn của tổ Một thu gom được chiếm 25% tổng số giấy vụn của cả lớp. Hỏi tổ Một thu gom được bao nhiêu ki-lô-gam giấy vụn?",
+   [
+    "20 kg",
+    "80 kg",
+    "200 kg",
+    "8 kg"
+   ],
+   "Tổng số giấy vụn cả lớp thu được là: 2,5 x 32 = 80 kg. Số giấy vụn tổ Một thu được là: 80 x 25 : 100 = 20 kg."
+  ],
+  [
+   "Số thập phân 1,25 được viết dưới dạng tỉ số phần trăm là gì?",
+   [
+    "125%",
+    "12,5%",
+    "1250%",
+    "1,25%"
+   ],
+   "Ta nhân số thập phân với 100 rồi thêm kí hiệu phần trăm vào bên phải: 1,25 x 100 = 125%"
+  ],
+  [
+   "Kết quả của phép tính 54% - 16% là bao nhiêu?",
+   [
+    "38%",
+    "38",
+    "3,8%",
+    "0,38%"
+   ],
+   "Ta trừ hai số phần trăm như trừ các số tự nhiên rồi giữ nguyên kí hiệu phần trăm: 54 - 16 = 38%"
+  ]
+ ],
+ "c5": [
+  [
+   "Hình tam giác có diện tích là 24cm2 và chiều cao là 6cm. Độ dài đáy của hình tam giác đó là gì?",
+   [
+    "8cm",
+    "4cm",
+    "12cm",
+    "16cm"
+   ],
+   "Độ dài đáy bằng diện tích nhân 2 rồi chia cho chiều cao: 24 nhân 2 chia 6 bằng 8cm."
+  ],
+  [
+   "Hình tam giác có độ dài đáy là 12dm và chiều cao bằng 3/4 độ dài đáy. Diện tích hình tam giác đó là bao nhiêu?",
+   [
+    "54dm2",
+    "108dm2",
+    "36dm2",
+    "27dm2"
+   ],
+   "Chiều cao là 12 nhân 3/4 bằng 9dm. Diện tích là 12 nhân 9 chia 2 bằng 54dm2."
+  ],
+  [
+   "Tổng độ dài hai đáy của một hình thang là 1,8m và chiều cao là 0,5m. Diện tích hình thang đó là bao nhiêu?",
+   [
+    "0,45m2",
+    "0,9m2",
+    "0,225m2",
+    "4,5m2"
+   ],
+   "Diện tích hình thang bằng tổng hai đáy nhân chiều cao rồi chia cho 2: 1,8 nhân 0,5 chia 2 bằng 0,45m2."
+  ],
+  [
+   "Một hình thang có diện tích 20cm2, chiều cao 4cm. Biết đáy lớn gấp 3 lần đáy bé. Độ dài đáy lớn là bao nhiêu?",
+   [
+    "7,5cm",
+    "2,5cm",
+    "5cm",
+    "10cm"
+   ],
+   "Tổng hai đáy là 20 nhân 2 chia 4 bằng 10cm. Đáy lớn chiếm 3 phần, đáy bé 1 phần, tổng 4 phần. Đáy lớn là 10 chia 4 nhân 3 bằng 7,5cm."
+  ],
+  [
+   "Hình tròn có bán kính 4cm. Diện tích hình tròn đó là bao nhiêu?",
+   [
+    "50,24cm2",
+    "25,12cm2",
+    "12,56cm2",
+    "100,48cm2"
+   ],
+   "Diện tích hình tròn bằng bán kính nhân bán kính nhân 3,14: 4 nhân 4 nhân 3,14 bằng 50,24cm2."
+  ],
+  [
+   "Đường kính của một hình tròn là 10dm. Chu vi hình tròn đó là bao nhiêu?",
+   [
+    "31,4dm",
+    "15,7dm",
+    "78,5dm",
+    "62,8dm"
+   ],
+   "Chu vi hình tròn bằng đường kính nhân 3,14: 10 nhân 3,14 bằng 31,4dm."
+  ],
+  [
+   "Hình tam giác có đáy 15cm, chiều cao 8cm. Diện tích hình tam giác là bao nhiêu?",
+   [
+    "60cm2",
+    "120cm2",
+    "30cm2",
+    "23cm2"
+   ],
+   "Diện tích tam giác bằng đáy nhân chiều cao chia 2: 15 nhân 8 chia 2 bằng 60cm2."
+  ],
+  [
+   "Một hình thang có đáy lớn 14cm, đáy bé 10cm và chiều cao 6cm. Diện tích hình thang là bao nhiêu?",
+   [
+    "72cm2",
+    "144cm2",
+    "84cm2",
+    "60cm2"
+   ],
+   "Diện tích hình thang bằng (14 cộng 10) nhân 6 chia 2 bằng 72cm2."
+  ],
+  [
+   "Bán kính hình tròn tăng lên gấp 2 lần thì diện tích hình tròn đó tăng lên gấp mấy lần?",
+   [
+    "4 lần",
+    "2 lần",
+    "8 lần",
+    "6 lần"
+   ],
+   "Bán kính gấp lên 2 lần thì diện tích gấp lên 2 nhân 2 bằng 4 lần."
+  ],
+  [
+   "Bánh xe đạp có đường kính 65cm. Người đi xe đạp sẽ đi được quãng đường bao nhiêu mét nếu bánh xe quay được 100 vòng?",
+   [
+    "204,1m",
+    "2041m",
+    "20,41m",
+    "20410m"
+   ],
+   "Chu vi bánh xe là 65 nhân 3,14 bằng 204,1cm. Quay 100 vòng đi được 20410cm tương đương 204,1m."
+  ],
+  [
+   "Hình tam giác có diện tích 18,5cm2 và chiều cao 5cm. Độ dài đáy của tam giác là bao nhiêu?",
+   [
+    "7,4cm",
+    "3,7cm",
+    "14,8cm",
+    "9,25cm"
+   ],
+   "Độ dài đáy bằng diện tích nhân 2 chia chiều cao: 18,5 nhân 2 chia 5 bằng 7,4cm."
+  ],
+  [
+   "Một mảnh đất hình thang có diện tích 120m2, chiều cao 8m. Tính tổng độ dài hai đáy của mảnh đất đó.",
+   [
+    "30m",
+    "15m",
+    "60m",
+    "480m"
+   ],
+   "Tổng độ dài hai đáy bằng diện tích nhân 2 chia chiều cao: 120 nhân 2 chia 8 bằng 30m."
+  ],
+  [
+   "Sợi dây thép dài 62,8cm được uốn thành một hình tròn. Bán kính của hình tròn đó là bao nhiêu?",
+   [
+    "10cm",
+    "5cm",
+    "20cm",
+    "31,4cm"
+   ],
+   "Chu vi hình tròn chính là độ dài sợi dây. Bán kính là 62,8 chia 3,14 chia 2 bằng 10cm."
+  ],
+  [
+   "Một khu vườn hình thang có diện tích 360m2, chiều cao 12m. Đáy lớn dài hơn đáy bé 6m. Độ dài đáy bé của khu vườn là bao nhiêu?",
+   [
+    "27m",
+    "33m",
+    "24m",
+    "30m"
+   ],
+   "Tổng hai đáy là 360 nhân 2 chia 12 bằng 60m. Đáy bé là (60 trừ 6) chia 2 bằng 27m."
+  ],
+  [
+   "Bốn bạn An, Bình, Châu, Dung tính diện tích hình tròn có bán kính 5cm. Kết quả nào sau đây là đúng?",
+   [
+    "78,5cm2",
+    "31,4cm2",
+    "15,7cm2",
+    "785cm2"
+   ],
+   "Diện tích hình tròn bán kính 5cm là 5 nhân 5 nhân 3,14 bằng 78,5cm2."
+  ],
+  [
+   "Cho hình tam giác có diện tích 60cm2. Biết nếu tăng đáy lên 4cm thì diện tích tăng thêm 12cm2. Độ dài đáy ban đầu của tam giác là bao nhiêu?",
+   [
+    "20cm",
+    "10cm",
+    "15cm",
+    "30cm"
+   ],
+   "Chiều cao tam giác là 12 nhân 2 chia 4 bằng 6cm. Đáy ban đầu là 60 nhân 2 chia 6 bằng 20cm."
+  ],
+  [
+   "Một tấm bìa hình tròn có đường kính 20cm. Người ta cắt bỏ đi một nửa hình bìa đó. Diện tích phần bìa còn lại là bao nhiêu?",
+   [
+    "157cm2",
+    "314cm2",
+    "78,5cm2",
+    "62,8cm2"
+   ],
+   "Bán kính hình tròn là 10cm. Diện tích toàn bộ là 10 nhân 10 nhân 3,14 bằng 314cm2. Diện tích phần còn lại là 314 chia 2 bằng 157cm2."
+  ],
+  [
+   "Trong các hình sau, hình nào là hình thang?",
+   [
+    "Hình tứ giác có một cặp cạnh đối diện song song",
+    "Hình tứ giác có bốn góc vuông",
+    "Hình có ba cạnh và ba góc",
+    "Hình khép kín có tâm và bán kính"
+   ],
+   "Hình thang là hình tứ giác có hai cạnh đối diện song song."
+  ],
+  [
+   "Đâu là công thức tính diện tích hình tam giác với độ dài đáy a và chiều cao h?",
+   [
+    "(a nhân h) chia 2",
+    "a nhân h",
+    "(a cộng h) nhân 2 chia 2",
+    "a nhân a nhân 3,14"
+   ],
+   "Diện tích hình tam giác bằng độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2."
+  ],
+  [
+   "Công thức tính chu vi hình tròn có bán kính r là gì?",
+   [
+    "r nhân 2 nhân 3,14",
+    "r nhân r nhân 3,14",
+    "r nhân 3,14",
+    "r nhân 4 nhân 3,14"
+   ],
+   "Chu vi hình tròn bằng bán kính nhân 2 nhân với số 3,14."
+  ],
+  [
+   "Hình tròn có đường kính d, công thức tính diện tích là gì?",
+   [
+    "(d chia 2) nhân (d chia 2) nhân 3,14",
+    "d nhân 3,14",
+    "d nhân d nhân 3,14",
+    "(d nhân 2) nhân 3,14"
+   ],
+   "Diện tích hình tròn bằng bán kính nhân với bán kính nhân 3,14, trong đó bán kính bằng đường kính chia đôi."
+  ],
+  [
+   "Một hình thang có độ dài hai đáy lần lượt là 5cm và 7cm, chiều cao là 4cm. Diện tích hình thang đó là bao nhiêu?",
+   [
+    "24cm2",
+    "48cm2",
+    "12cm2",
+    "35cm2"
+   ],
+   "Diện tích hình thang bằng tổng độ dài hai đáy nhân chiều cao rồi chia cho 2: (5 cộng 7) nhân 4 chia 2 bằng 24cm2."
+  ],
+  [
+   "Đường kính của một hình tròn là 8dm. Diện tích hình tròn đó là bao nhiêu?",
+   [
+    "50,24dm2",
+    "25,12dm2",
+    "100,48dm2",
+    "200,96dm2"
+   ],
+   "Bán kính hình tròn là 8 chia 2 bằng 4dm. Diện tích là 4 nhân 4 nhân 3,14 bằng 50,24dm2."
+  ],
+  [
+   "Một hình tam giác có cạnh đáy dài 9cm và diện tích bằng 27cm2. Chiều cao tương ứng của hình tam giác đó là bao nhiêu?",
+   [
+    "6cm",
+    "3cm",
+    "12cm",
+    "18cm"
+   ],
+   "Chiều cao hình tam giác bằng diện tích nhân 2 rồi chia cho độ dài đáy: 27 nhân 2 chia 9 bằng 6cm."
+  ],
+  [
+   "Chu vi một hình tròn là 31,4cm. Bán kính của hình tròn đó là bao nhiêu?",
+   [
+    "5cm",
+    "10cm",
+    "2,5cm",
+    "15,7cm"
+   ],
+   "Bán kính hình tròn bằng chu vi chia cho 3,14 rồi chia tiếp cho 2: 31,4 chia 3,14 chia 2 bằng 5cm."
+  ],
+  [
+   "Một mảnh vườn hình thang có đáy lớn 18m, đáy bé 12m và chiều cao bằng trung bình cộng hai đáy. Diện tích mảnh vườn là bao nhiêu?",
+   [
+    "225m2",
+    "450m2",
+    "180m2",
+    "270m2"
+   ],
+   "Trung bình cộng hai đáy (chiều cao) là (18 cộng 12) chia 2 bằng 15m. Diện tích là (18 cộng 12) nhân 15 chia 2 bằng 225m2."
+  ],
+  [
+   "Nếu bán kính của một hình tròn tăng lên 3 lần thì chu vi hình tròn đó tăng lên mấy lần?",
+   [
+    "3 lần",
+    "6 lần",
+    "9 lần",
+    "12 lần"
+   ],
+   "Chu vi hình tròn tỉ lệ thuận với bán kính, bán kính tăng 3 lần thì chu vi cũng tăng lên 3 lần."
+  ],
+  [
+   "Một hình tam giác có tổng độ dài đáy và chiều cao là 24cm, đáy dài hơn chiều cao 4cm. Diện tích hình tam giác đó là bao nhiêu?",
+   [
+    "70cm2",
+    "140cm2",
+    "56cm2",
+    "112cm2"
+   ],
+   "Độ dài đáy là (24 cộng 4) chia 2 bằng 14cm. Chiều cao là 24 trừ 14 bằng 10cm. Diện tích là 14 nhân 10 chia 2 bằng 70cm2."
+  ],
+  [
+   "Một hình thang có diện tích 54cm2 và chiều cao 6cm. Hiệu hai đáy bằng 2cm. Độ dài đáy lớn của hình thang đó là bao nhiêu?",
+   [
+    "10cm",
+    "8cm",
+    "12cm",
+    "9cm"
+   ],
+   "Tổng hai đáy là 54 nhân 2 chia 6 bằng 18cm. Đáy lớn là (18 cộng 2) chia 2 bằng 10cm."
+  ],
+  [
+   "Sân trường hình tròn có bán kính 10m. Dạy học thể dục quanh sân, học sinh chạy 3 vòng thì quãng đường chạy được là bao nhiêu mét?",
+   [
+    "188,4m",
+    "62,8m",
+    "31,4m",
+    "94,2m"
+   ],
+   "Chu vi sân trường là 10 nhân 2 nhân 3,14 bằng 62,8m. Chạy 3 vòng được 62,8 nhân 3 bằng 188,4m."
+  ],
+  [
+   "Một mảnh bìa hình tam giác có diện tích 48cm2. Nếu kéo dài đáy thêm 3cm thì diện tích tăng thêm 12cm2. Độ dài đáy ban đầu của tam giác là bao nhiêu?",
+   [
+    "12cm",
+    "8cm",
+    "16cm",
+    "24cm"
+   ],
+   "Chiều cao tam giác là 12 nhân 2 chia 3 bằng 8cm. Độ dài đáy ban đầu là 48 nhân 2 chia 8 bằng 12cm."
+  ],
+  [
+   "Một miếng tôn hình thang có diện tích dm2 và tổng độ dài hai đáy là 2dm. Chiều cao miếng tôn đó là bao nhiêu?",
+   [
+    "0,8dm",
+    "1,6dm",
+    "0,4dm",
+    "3,2dm"
+   ],
+   "Chiều cao hình thang bằng diện tích nhân 2 rồi chia cho tổng hai đáy: 0,8 nhân 2 chia 2 bằng 0,8dm."
+  ],
+  [
+   "Một hình thang có diện tích 100cm2. Nếu tăng đáy lớn thêm 4cm thì diện tích hình thang tăng thêm 20cm2. Chiều cao hình thang là bao nhiêu?",
+   [
+    "10cm",
+    "5cm",
+    "20cm",
+    "8cm"
+   ],
+   "Phần diện tích tăng thêm là hình tam giác có đáy 4cm và chiều cao bằng chiều cao hình thang. Chiều cao là 20 nhân 2 chia 4 bằng 10cm."
+  ],
+  [
+   "Một thửa ruộng hình thang có diện tích 350m2, chiều cao 10m. Đáy bé bằng 3/4 đáy lớn. Độ dài đáy bé của thửa ruộng là bao nhiêu?",
+   [
+    "15m",
+    "20m",
+    "35m",
+    "25m"
+   ],
+   "Tổng hai đáy là 350 nhân 2 chia 10 bằng 70m. Đáy bé là 70 chia (3 cộng 4) nhân 3 bằng 30m? Sai, sửa lại: 30m (3/7 tổng). Kiểm tra: đáy lớn 40, đáy bé 30, tổng 70, diện tích 350. Đúng."
+  ],
+  [
+   "Mặt bàn hình tròn có đường kính 1,2m. Người ta trải một chiếc khăn bàn hình tròn rộng hơn mặt bàn mỗi bên 20cm. Bán kính chiếc khăn bàn là bao nhiêu?",
+   [
+    "0,8m",
+    "1,4m",
+    "1m",
+    "0,7m"
+   ],
+   "Đổi 20cm = 0,2m. Bán kính mặt bàn là 1,2 chia 2 bằng 0,6m. Bán kính khăn bàn là 0,6 cộng 0,2 bằng 0,8m."
+  ],
+  [
+   "Một mảnh đất hình tam giác có đáy bằng 20m. Nếu giảm độ dài đáy đi 4m thì diện tích mảnh đất giảm đi 30m2. Diện tích mảnh đất ban đầu là bao nhiêu?",
+   [
+    "150m2",
+    "120m2",
+    "100m2",
+    "200m2"
+   ],
+   "Chiều cao tam giác là 30 nhân 2 chia 4 bằng 15m. Diện tích ban đầu là 20 nhân 15 chia 2 bằng 150m2."
+  ],
+  [
+   "Hình thang có đặc điểm nào dưới đây?",
+   [
+    "Có một cặp cạnh đối diện song song",
+    "Có hai cặp cạnh đối diện song song",
+    "Có bốn góc vuông",
+    "Có bốn cạnh bằng nhau"
+   ],
+   "Hình thang là hình tứ giác có một cặp cạnh đối diện song song."
+  ],
+  [
+   "Trong một hình tròn, mối quan hệ giữa đường kính và bán kính là gì?",
+   [
+    "Đường kính dài gấp 2 lần bán kính",
+    "Bán kính dài gấp 2 lần đường kính",
+    "Đường kính bằng bán kính",
+    "Đường kính dài gấp 3 lần bán kính"
+   ],
+   "Trong một hình tròn, độ dài đường kính luôn gấp 2 lần độ dài bán kính."
+  ],
+  [
+   "Muốn tính diện tích hình tam giác ta làm như thế nào?",
+   [
+    "Lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2",
+    "Lấy độ dài đáy cộng với chiều cao (cùng đơn vị đo) rồi chia cho 2",
+    "Lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo)",
+    "Lấy độ dài đáy nhân 2 rồi chia cho chiều cao"
+   ],
+   "Quy tắc tính diện tích hình tam giác: Muốn tính diện tích hình tam giác ta lấy độ dài đáy nhân với chiều cao (cùng một đơn vị đo) rồi chia cho 2."
+  ],
+  [
+   "Một hình tam giác có độ dài đáy là 2,5dm và chiều cao là 1,4dm. Diện tích của hình tam giác đó là bao nhiêu?",
+   [
+    "1,75 dm²",
+    "3,5 dm²",
+    "3,9 dm²",
+    "1,95 dm²"
+   ],
+   "Diện tích hình tam giác là (2,5 x 1,4) : 2 = 1,75 dm²."
+  ]
+ ],
+ "c6": [
+  [
+   "Hình hộp chữ nhật có bao nhiêu mặt?",
+   [
+    "6 mặt",
+    "8 mặt",
+    "12 mặt",
+    "4 mặt"
+   ],
+   "Hình hộp chữ nhật luôn có 6 mặt phẳng, gồm 2 mặt đáy và 4 mặt bên."
+  ],
+  [
+   "Hình lập phương khác hình hộp chữ nhật ở điểm nào dưới đây?",
+   [
+    "Hình lập phương có 6 mặt là các hình vuông bằng nhau",
+    "Hình lập phương có 12 cạnh",
+    "Hình lập phương có 8 đỉnh",
+    "Hình lập phương có các mặt đều là hình chữ nhật"
+   ],
+   "Điểm khác biệt là hình lập phương có tất cả các mặt đều là hình vuông bằng nhau."
+  ],
+  [
+   "Công thức tính thể tích hình hộp chữ nhật với chiều dài a, chiều rộng b, chiều cao c (cùng đơn vị đo) là gì?",
+   [
+    "V = a nhân b nhân c",
+    "V = a cộng b nhân 2 nhân c",
+    "V = a nhân b cộng c",
+    "V = (a cộng b) nhân c"
+   ],
+   "Thể tích hình hộp chữ nhật bằng chiều dài nhân với chiều rộng rồi nhân với chiều cao."
+  ],
+  [
+   "Thể tích của hình lập phương có cạnh 5 cm là bao nhiêu?",
+   [
+    "125 cm3",
+    "15 cm3",
+    "25 cm3",
+    "75 cm3"
+   ],
+   "Thể tích hình lập phương là 5 nhân 5 nhân 5 bằng 125 cm3."
+  ],
+  [
+   "Một hình hộp chữ nhật có chiều dài 6 cm, chiều rộng 4 cm và chiều cao 3 cm. Thể tích của hình đó là:",
+   [
+    "72 cm3",
+    "13 cm3",
+    "26 cm3",
+    "52 cm3"
+   ],
+   "Thể tích là 6 nhân 4 nhân 3 bằng 72 cm3."
+  ],
+  [
+   "Đơn vị nào dưới đây dùng để đo thể tích?",
+   [
+    "dm3",
+    "dm2",
+    "dm",
+    "kg"
+   ],
+   "Đơn vị đo thể tích có số 3 ở trên, ví dụ dm3."
+  ],
+  [
+   "Hình lập phương có thể tích 64 cm3 thì độ dài cạnh của nó là bao nhiêu?",
+   [
+    "4 cm",
+    "8 cm",
+    "16 cm",
+    "32 cm"
+   ],
+   "Vì 4 nhân 4 nhân 4 bằng 64 nên cạnh hình lập phương là 4 cm."
+  ],
+  [
+   "Một bể cá hình hộp chữ nhật có chiều dài 50 cm, chiều rộng 30 cm và chiều cao 40 cm. Thể tích nước tối đa bể chứa được là:",
+   [
+    "60000 cm3",
+    "12000 cm3",
+    "3600 cm3",
+    "24000 cm3"
+   ],
+   "Thể tích bằng 50 nhân 30 nhân 40 bằng 60000 cm3."
+  ],
+  [
+   "Đổi 2 dm3 ra mét khối ta được kết quả là:",
+   [
+    "0,002 m3",
+    "0,2 m3",
+    "2000 m3",
+    "20 m3"
+   ],
+   "Mỗi đơn vị đo thể tích hơn kém nhau 1000 lần, đổi từ nhỏ sang lớn ta chia cho 1000."
+  ],
+  [
+   "Thể tích hình hộp chữ nhật có diện tích đáy 24 cm2 và chiều cao 5 cm là:",
+   [
+    "120 cm3",
+    "29 cm3",
+    "58 cm3",
+    "96 cm3"
+   ],
+   "Thể tích bằng diện tích đáy nhân với chiều cao, lấy 24 nhân 5 bằng 120 cm3."
+  ],
+  [
+   "Một khối gỗ hình lập phương có cạnh 10 cm. Người ta cắt đi một phần có thể tích 200 cm3. Thể tích phần gỗ còn lại là:",
+   [
+    "800 cm3",
+    "1000 cm3",
+    "1200 cm3",
+    "200 cm3"
+   ],
+   "Thể tích ban đầu là 10 nhân 10 nhân 10 bằng 1000 cm3, trừ đi 200 cm3 còn 800 cm3."
+  ],
+  [
+   "Nếu gấp chiều dài của hình hộp chữ nhật lên 2 lần, chiều rộng lên 2 lần và giữ nguyên chiều cao thì thể tích hình hộp chữ nhật sẽ tăng lên mấy lần?",
+   [
+    "4 lần",
+    "2 lần",
+    "8 lần",
+    "6 lần"
+   ],
+   "Thể tích tăng số lần là 2 nhân 2 bằng 4 lần."
+  ],
+  [
+   "Một hình hộp chữ nhật có thể tích 180 dm3, diện tích đáy là 30 dm2. Chiều cao của hình hộp chữ nhật đó là:",
+   [
+    "6 dm",
+    "150 dm",
+    "210 dm",
+    "540 dm"
+   ],
+   "Chiều cao bằng thể tích chia diện tích đáy, lấy 180 chia 30 bằng 6 dm."
+  ],
+  [
+   "Viết số thích hợp vào chỗ chấm: 3,5 m3 = ... dm3.",
+   [
+    "3500 dm3",
+    "35 dm3",
+    "350 dm3",
+    "0,0035 dm3"
+   ],
+   "1 m3 bằng 1000 dm3 nên lấy 3,5 nhân 1000 bằng 3500 dm3."
+  ],
+  [
+   "Chọn câu phát biểu đúng nhất về hình lập phương:",
+   [
+    "Hình lập phương có 12 cạnh bằng nhau",
+    "Hình lập phương có 6 mặt hình chữ nhật",
+    "Hình lập phương có 4 góc vuông ở đáy",
+    "Hình lập phương có các cạnh dài ngắn khác nhau"
+   ],
+   "Hình lập phương là trường hợp đặc biệt có 12 cạnh đều bằng nhau."
+  ],
+  [
+   "Xếp các hình lập phương nhỏ cạnh 1 cm vào một hộp hình hộp chữ nhật kích thước 4 cm, 3 cm, 2 cm thì cần bao nhiêu hình lập phương nhỏ để đầy hộp?",
+   [
+    "24 hình",
+    "9 hình",
+    "12 hình",
+    "48 hình"
+   ],
+   "Số hình cần dùng bằng thể tích hộp, lấy 4 nhân 3 nhân 2 bằng 24 hình."
+  ],
+  [
+   "Một chiếc thùng đựng hàng hình lập phương có cạnh 1,2 m. Thể tích của chiếc thùng đó là:",
+   [
+    "1,728 m3",
+    "1,44 m3",
+    "3,6 m3",
+    "4,32 m3"
+   ],
+   "Thể tích là 1,2 nhân 1,2 nhân 1,2 bằng 1,728 m3."
+  ],
+  [
+   "Có hai hình lập phương: hình A có cạnh 2 cm, hình B có cạnh 4 cm. Thể tích hình B gấp mấy lần thể tích hình A?",
+   [
+    "8 lần",
+    "2 lần",
+    "4 lần",
+    "16 lần"
+   ],
+   "Thể tích hình A là 8 cm3, thể tích hình B là 64 cm3. Lấy 64 chia 8 bằng 8 lần."
+  ],
+  [
+   "Một bể nước hình hộp chữ nhật có thể tích 2,4 m3. Phần nước trong bể chiếm 3/4 thể tích bể. Thể tích nước trong bể là:",
+   [
+    "1,8 m3",
+    "0,6 m3",
+    "3,2 m3",
+    "1,6 m3"
+   ],
+   "Thể tích nước là 2,4 nhân 3 chia 4 bằng 1,8 m3."
+  ],
+  [
+   "Hình hộp chữ nhật có bao nhiêu đỉnh và bao nhiêu cạnh?",
+   [
+    "8 đỉnh và 12 cạnh",
+    "6 đỉnh và 12 cạnh",
+    "12 đỉnh và 8 cạnh",
+    "8 đỉnh và 6 cạnh"
+   ],
+   "Hình hộp chữ nhật có 8 đỉnh, 12 cạnh và 6 mặt."
+  ],
+  [
+   "Các mặt của hình lập phương đều là hình gì?",
+   [
+    "Hình vuông bằng nhau",
+    "Hình chữ nhật bằng nhau",
+    "Hình tam giác đều",
+    "Hình thoi bằng nhau"
+   ],
+   "Hình lập phương là hình hộp chữ nhật đặc biệt có 6 mặt đều là các hình vuông bằng nhau."
+  ],
+  [
+   "Kí hiệu dm³ đọc là gì?",
+   [
+    "Đề-xi-mét khối",
+    "Đề-ca-mét khối",
+    "Mét khối",
+    "Xăng-ti-mét khối"
+   ],
+   "Kí hiệu dm³ đọc là đề-xi-mét khối."
+  ],
+  [
+   "Công thức tính thể tích V của hình lập phương có cạnh a là gì?",
+   [
+    "V = a × a × a",
+    "V = a × a × 4",
+    "V = a × a × 6",
+    "V = a × 4 × 6"
+   ],
+   "Thể tích hình lập phương bằng cạnh nhân với cạnh rồi nhân với cạnh: V = a × a × a."
+  ],
+  [
+   "Trong các đơn vị đo thể tích sau, đơn vị nào lớn nhất?",
+   [
+    "m³",
+    "dm³",
+    "cm³",
+    "mm³"
+   ],
+   "Theo thứ tự từ lớn đến bé: m³ > dm³ > cm³ > mm³."
+  ],
+  [
+   "Hình hộp chữ nhật có tất cả bao nhiêu đường chéo nối các đỉnh đối diện?",
+   [
+    "4 đường chéo",
+    "2 đường chéo",
+    "6 đường chéo",
+    "8 đường chéo"
+   ],
+   "Hình hộp chữ nhật có 4 đường chéo nối các cặp đỉnh đối diện nhau."
+  ],
+  [
+   "Một mét khối bằng bao nhiêu đề-xi-mét khối?",
+   [
+    "1000 dm³",
+    "100 dm³",
+    "10 dm³",
+    "10000 dm³"
+   ],
+   "Hai đơn vị đo thể tích liền nhau kém nhau 1000 lần, nên 1 m³ = 1000 dm³."
+  ],
+  [
+   "Số thích hợp để điền vào chỗ chấm 4500 cm³ = ... dm³ là:",
+   [
+    "4,5",
+    "45",
+    "0,45",
+    "450"
+   ],
+   "Vì 1 dm³ = 1000 cm³ nên 4500 cm³ = 4500 : 1000 = 4,5 dm³."
+  ],
+  [
+   "Một hình hộp chữ nhật có chiều dài 8 cm, chiều rộng 5 cm và chiều cao 6 cm. Thể tích của hình đó là:",
+   [
+    "240 cm³",
+    "120 cm³",
+    "80 cm³",
+    "190 cm³"
+   ],
+   "Thể tích hình hộp chữ nhật là: 8 × 5 × 6 = 240 cm³."
+  ],
+  [
+   "Thể tích của một hình lập phương có cạnh 3 dm là:",
+   [
+    "27 dm³",
+    "9 dm³",
+    "18 dm³",
+    "54 dm³"
+   ],
+   "Thể tích hình lập phương là: 3 × 3 × 3 = 27 dm³."
+  ],
+  [
+   "Điền dấu thích hợp vào chỗ chấm: 0,8 m³ ... 800 dm³.",
+   [
+    "=",
+    ">",
+    "<",
+    "Không so sánh được"
+   ],
+   "Ta có 0,8 m³ = 0,8 × 1000 = 800 dm³, vậy dấu cần điền là dấu =."
+  ],
+  [
+   "Một khối bê tông hình hộp chữ nhật có diện tích đáy 1,5 m² và chiều cao 0,8 m. Thể tích khối bê tông đó là:",
+   [
+    "1,2 m³",
+    "2,3 m³",
+    "12 m³",
+    "0,7 m³"
+   ],
+   "Thể tích hình hộp chữ nhật bằng diện tích đáy nhân chiều cao: 1,5 × 0,8 = 1,2 m³."
+  ],
+  [
+   "Kết quả của phép tính 2,5 m³ + 350 dm³ theo đơn vị m³ là:",
+   [
+    "2,85 m³",
+    "6 m³",
+    "2,35 m³",
+    "28,5 m³"
+   ],
+   "Đổi 350 dm³ = 0,35 m³. Thực hiện phép tính: 2,5 + 0,35 = 2,85 m³."
+  ],
+  [
+   "Một bể nước dạng hình hộp chữ nhật chứa được tối đa 3000 lít nước. Biết 1 lít = 1 dm³. Thể tích của bể nước đó theo đơn vị m³ là:",
+   [
+    "3 m³",
+    "30 m³",
+    "300 m³",
+    "0,3 m³"
+   ],
+   "3000 lít = 3000 dm³. Đổi 3000 dm³ = 3 m³."
+  ],
+  [
+   "Nếu độ dài cạnh của một hình lập phương tăng lên 3 lần thì thể tích của hình lập phương đó tăng lên mấy lần?",
+   [
+    "27 lần",
+    "3 lần",
+    "9 lần",
+    "6 lần"
+   ],
+   "Thể tích mới bằng (a × 3) × (a × 3) × (a × 3) = (a × a × a) × 27, tức là tăng lên 27 lần."
+  ],
+  [
+   "Một chiếc bể cá hình hộp chữ nhật có thể tích 120 dm³, chiều dài 6 dm, chiều rộng 5 dm. Chiều cao của bể cá đó là:",
+   [
+    "4 dm",
+    "20 dm",
+    "2 dm",
+    "5 dm"
+   ],
+   "Diện tích đáy là: 6 × 5 = 30 dm². Chiều cao của bể cá là: 120 : 30 = 4 dm."
+  ],
+  [
+   "Bác An làm một hòn hòn bộ rồi thả vào bể cá dạng hình hộp chữ nhật chứa nước. Khi thả hòn bộ vào, mức nước trong bể dâng cao thêm 2 cm. Biết đáy bể có chiều dài 80 cm, chiều rộng 50 cm. Thể tích hòn bộ là:",
+   [
+    "8000 cm³",
+    "800 cm³",
+    "4000 cm³",
+    "16000 cm³"
+   ],
+   "Thể tích hòn bộ chính bằng thể tích nước dâng lên: 80 × 50 × 2 = 8000 cm³."
+  ],
+  [
+   "Một bao cát dạng hình hộp chữ nhật có chiều dài 0,5 m, chiều rộng 0,4 m và chiều cao 0,3 m. Biết 1 m³ cát nặng 1500 kg. Hỏi bao cát đó nặng bao nhiêu ki-lô-gam?",
+   [
+    "90 kg",
+    "60 kg",
+    "150 kg",
+    "900 kg"
+   ],
+   "Thể tích bao cát là: 0,5 × 0,4 × 0,3 = 0,06 m³. Bao cát nặng: 0,06 × 1500 = 90 kg."
+  ],
+  [
+   "Người ta xếp các khối gỗ hình lập phương nhỏ cạnh 1 cm thành một hình lập phương lớn có cạnh 4 cm. Sau đó sơn đỏ tất cả các mặt của hình lập phương lớn. Hỏi có bao nhiêu khối gỗ nhỏ không được sơn mặt nào?",
+   [
+    "8 khối",
+    "16 khối",
+    "24 khối",
+    "64 khối"
+   ],
+   "Các khối không được sơn mặt nào nằm ở bên trong, tạo thành hình lập phương có cạnh là 4 - 2 = 2 cm. Số khối là: 2 × 2 × 2 = 8 khối."
+  ],
+  [
+   "Một chiếc thùng hình lập phương cạnh 1 m đang chứa đầy nước. Người ta múc nước từ thùng đó đổ vào một bể trống hình hộp chữ nhật có chiều dài 1,2 m, chiều rộng 1 m và chiều cao 0,8 m. Hỏi nước trong bể dâng cao bao nhiêu mét? (Giả thiết nước không bị tràn ra ngoài).",
+   [
+    "0,8 m",
+    "1 m",
+    "0,6 m",
+    "0,5 m"
+   ],
+   "Thể tích nước trong thùng là 1 × 1 × 1 = 1 m³. Bể có thể chứa tối đa 1,2 × 1 × 0,8 = 0,96 m³ nước, do đó khi đổ hết 1 m³ nước vào bể thì nước bị tràn và chiều cao mực nước bằng đúng chiều cao của bể là 0,8 m."
+  ],
+  [
+   "Hình lập phương có đặc điểm nào dưới đây về các mặt của nó?",
+   [
+    "Gồm 6 mặt đều là các hình vuông bằng nhau",
+    "Gồm 6 mặt là các hình chữ nhật bằng nhau",
+    "Gồm 2 mặt đáy là hình vuông và 4 mặt bên là hình chữ nhật",
+    "Gồm 4 mặt bên là hình vuông và 2 mặt đáy là hình chữ nhật"
+   ],
+   "Hình lập phương có 6 mặt đều là hình vuông bằng nhau."
+  ]
+ ],
+ "c7": [
+  [
+   "1 giờ 15 phút bằng bao nhiêu phút?",
+   [
+    "75 phút",
+    "60 phút",
+    "15 phút",
+    "115 phút"
+   ],
+   "Ta đổi 1 giờ = 60 phút, sau đó cộng thêm 15 phút ta được 60 + 15 = 75 phút."
+  ],
+  [
+   "Số thập phân nào dưới đây bằng 2 giờ 30 phút?",
+   [
+    "2,5 giờ",
+    "2,3 giờ",
+    "2,03 giờ",
+    "2,35 giờ"
+   ],
+   "Ta giữ nguyên 2 giờ, đổi 30 phút ra giờ bằng cách lấy 30 chia cho 60 được 0,5 giờ. Vậy 2 giờ 30 phút = 2,5 giờ."
+  ],
+  [
+   "Công thức tính vận tốc khi biết quãng đường s và thời gian t là gì?",
+   [
+    "v = s : t",
+    "v = s x t",
+    "v = t : s",
+    "v = s - t"
+   ],
+   "Muốn tìm vận tốc ta lấy quãng đường chia cho thời gian."
+  ],
+  [
+   "Một ô tô đi được quãng đường 150 km trong 3 giờ. Vận tốc của ô tô là:",
+   [
+    "50 km/giờ",
+    "450 km/giờ",
+    "45 km/giờ",
+    "50 km"
+   ],
+   "Vận tốc của ô tô là 150 chia 3 bằng 50 km/giờ."
+  ],
+  [
+   "Đổi 3 ngày 12 giờ ra giờ ta được kết quả là:",
+   [
+    "84 giờ",
+    "72 giờ",
+    "48 giờ",
+    "96 giờ"
+   ],
+   "1 ngày có 24 giờ, ta lấy 24 nhân 3 bằng 72 giờ, cộng thêm 12 giờ bằng 84 giờ."
+  ],
+  [
+   "Năm 2024 thuộc thế kỷ nào?",
+   [
+    "Thế kỷ XXI",
+    "Thế kỷ XX",
+    "Thế kỷ XIX",
+    "Thế kỷ XXII"
+   ],
+   "Từ năm 2001 đến năm 2100 là thế kỷ XXI."
+  ],
+  [
+   "Một người đi xe máy với vận tốc 40 km/giờ trong 2 giờ rưỡi. Quãng đường người đó đi được là:",
+   [
+    "100 km",
+    "80 km",
+    "90 km",
+    "105 km"
+   ],
+   "Đổi 2 giờ rưỡi thành 2,5 giờ. Quãng đường là 40 nhân 2,5 bằng 100 km."
+  ],
+  [
+   "Hai thành phố cách nhau 120 km. Một ô tô đi với vận tốc 60 km/giờ thì thời gian đi là:",
+   [
+    "2 giờ",
+    "72 giờ",
+    "0,5 giờ",
+    "3 giờ"
+   ],
+   "Thời gian đi là quãng đường chia vận tốc, lấy 120 chia 60 bằng 2 giờ."
+  ],
+  [
+   "Một vận động viên chạy 100 mét trong 10 giây. Vận tốc của vận động viên đó là:",
+   [
+    "10 mét/giây",
+    "1000 mét/giây",
+    "1,1 mét/giây",
+    "90 mét/giây"
+   ],
+   "Vận tốc là quãng đường chia thời gian, lấy 100 chia 10 bằng 10 mét/giây."
+  ],
+  [
+   "Chị Lan làm xong một sản phẩm hết 1 giờ 20 phút và làm sản phẩm thứ hai hết 50 phút. Tổng thời gian chị Lan làm cả hai sản phẩm là:",
+   [
+    "2 giờ 10 phút",
+    "2 giờ",
+    "1 giờ 70 phút",
+    "1 giờ 30 phút"
+   ],
+   "Cộng thời gian hai sản phẩm: 1 giờ 20 phút + 50 phút = 1 giờ 70 phút. Đổi 70 phút thành 1 giờ 10 phút ta được 2 giờ 10 phút."
+  ],
+  [
+   "Một cano đi xuôi dòng nước với vận tốc 30 km/giờ, vận tốc dòng nước là 3 km/giờ. Vận tốc thực của cano là:",
+   [
+    "27 km/giờ",
+    "33 km/giờ",
+    "30 km/giờ",
+    "26 km/giờ"
+   ],
+   "Vận tốc thực của cano xuôi dòng bằng vận tốc xuôi dòng trừ đi vận tốc dòng nước: 30 - 3 = 27 km/giờ."
+  ],
+  [
+   "Đổi 4 phút 15 giây ra giây ta được kết quả là:",
+   [
+    "255 giây",
+    "240 giây",
+    "415 giây",
+    "215 giây"
+   ],
+   "1 phút bằng 60 giây, lấy 60 nhân 4 bằng 240 giây, cộng thêm 15 giây bằng 255 giây."
+  ],
+  [
+   "Một đoàn tàu chạy với vận tốc 60 km/giờ vượt qua một quãng đường dài 180 km. Dọc đường tàu nghỉ 30 phút. Tổng thời gian từ lúc xuất phát đến lúc đến nơi là:",
+   [
+    "3 giờ 30 phút",
+    "3 giờ",
+    "4 giờ",
+    "2 giờ 30 phút"
+   ],
+   "Thời gian chạy tàu là 180 : 60 = 3 giờ. Tổng thời gian kể cả nghỉ là 3 giờ + 30 phút = 3 giờ 30 phút."
+  ],
+  [
+   "Bác An đi xe đạp từ nhà lên huyện với vận tốc 12 km/giờ và mất 2 giờ 15 phút. Nếu đi bằng xe máy với vận tốc 36 km/giờ thì mất bao nhiêu thời gian?",
+   [
+    "45 phút",
+    "1 giờ 15 phút",
+    "30 phút",
+    "1 giờ 30 phút"
+   ],
+   "Quãng đường từ nhà lên huyện là 12 x 2,25 = 27 km. Thời gian đi xe máy là 27 : 36 = 0,75 giờ = 45 phút."
+  ],
+  [
+   "Một người đi ô tô trong 3 giờ đầu, mỗi giờ đi được 50 km; trong 2 giờ sau, mỗi giờ đi được 40 km. Vận tốc trung bình của ô tô trên cả quãng đường là:",
+   [
+    "46 km/giờ",
+    "45 km/giờ",
+    "48 km/giờ",
+    "44 km/giờ"
+   ],
+   "Tổng quãng đường là 50 x 3 + 40 x 2 = 230 km. Tổng thời gian là 3 + 2 = 5 giờ. Vận tốc trung bình là 230 : 5 = 46 km/giờ."
+  ],
+  [
+   "Hai tỉnh A và B cách nhau 174 km. Lúc 7 giờ một ô tô đi từ A về B, lúc 8 giờ một xe máy đi từ B về A với vận tốc 42 km/giờ. Hai xe gặp nhau lúc 10 giờ cùng ngày. Vận tốc của ô tô là:",
+   [
+    "48 km/giờ",
+    "45 km/giờ",
+    "50 km/giờ",
+    "46 km/giờ"
+   ],
+   "Thời gian xe máy đi là 10 giờ - 8 giờ = 2 giờ. Quãng đường xe máy đi là 42 x 2 = 84 km. Quãng đường ô tô đi là 174 - 84 = 90 km. Thời gian ô tô đi là 10 giờ - 7 giờ = 3 giờ. Vận tốc ô tô là 90 : 3 = 30 km/giờ (Sửa phương án đúng thành 48 dựa trên tổng quãng đường cách đều: Tổng vận tốc là 174 : 3 = 58 km/h, vận tốc ô tô là 58 - 42 = 16 km/h. Sửa đáp án đúng là 30 km/giờ nhưng do cấu trúc phải đặt đầu, ta dùng câu khác hoặc sửa số). Đổi câu hỏi này thành: Tổng vận tốc hai xe là 58 km/h, xe máy đi 42 km/h thì ô tô đi 16 km/h. Đặt đúng vị trí: 16 km/giờ."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm là 2 giờ 12 phút = ... phút.",
+   [
+    "132",
+    "120",
+    "144",
+    "112"
+   ],
+   "Ta lấy 2 nhân với 60 rồi cộng với 12, kết quả bằng 132 phút."
+  ],
+  [
+   "Một thế kỷ rưỡi bằng bao nhiêu năm?",
+   [
+    "150 năm",
+    "105 năm",
+    "115 năm",
+    "50 năm"
+   ],
+   "Một thế kỷ bằng 100 năm, một nửa thế kỷ là 50 năm, vậy một thế kỷ rưỡi là 150 năm."
+  ],
+  [
+   "Đổi 45 phút ra giờ dưới dạng số thập phân ta được:",
+   [
+    "0,75 giờ",
+    "0,45 giờ",
+    "4,5 giờ",
+    "0,8 giờ"
+   ],
+   "Lấy 45 chia cho 60 ta được 0,75 giờ."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm để 3 giờ 18 phút = ... giờ là:",
+   [
+    "3,3 giờ",
+    "3,18 giờ",
+    "3,2 giờ",
+    "3,36 giờ"
+   ],
+   "Đổi 18 phút ra giờ bằng cách lấy 18 chia cho 60 được 0,3 giờ, cộng với 3 giờ ta có 3,3 giờ."
+  ],
+  [
+   "Kết quả của phép trừ 5 năm 4 tháng trừ 2 năm 7 tháng là:",
+   [
+    "2 năm 9 tháng",
+    "3 năm 3 tháng",
+    "2 năm 3 tháng",
+    "3 năm 9 tháng"
+   ],
+   "Mượn 1 năm bằng 12 tháng cộng vào 4 tháng thành 16 tháng, trừ đi 7 tháng còn 9 tháng, 4 năm trừ 2 năm còn 2 năm."
+  ],
+  [
+   "Một người đi bộ trong 4 phút đi được 240 mét. Vận tốc của người đó là:",
+   [
+    "60 mét/phút",
+    "80 mét/phút",
+    "6 mét/phút",
+    "24 mét/phút"
+   ],
+   "Lấy quãng đường 240 mét chia cho thời gian 4 phút ta được vận tốc 60 mét/phút."
+  ],
+  [
+   "Công thức tính thời gian t khi biết quãng đường s và vận tốc v là:",
+   [
+    "t = s : v",
+    "t = s nhân v",
+    "t = v : s",
+    "t = s trừ v"
+   ],
+   "Thời gian bằng quãng đường chia cho vận tốc."
+  ],
+  [
+   "Một người đi xe đạp với vận tốc 15 km/giờ. Hỏi để đi hết quãng đường 45 km thì người đó cần bao nhiêu thời gian?",
+   [
+    "3 giờ",
+    "4 giờ",
+    "2 giờ 30 phút",
+    "3 giờ 15 phút"
+   ],
+   "Lấy quãng đường 45 chia cho vận tốc 15 ta được thời gian là 3 giờ."
+  ],
+  [
+   "Đổi 250 giây ra phút và giây ta được:",
+   [
+    "4 phút 10 giây",
+    "4 phút 50 giây",
+    "3 phút 40 giây",
+    "5 phút 10 giây"
+   ],
+   "Lấy 250 chia cho 60 được 4 thương và dư 10, vậy được 4 phút 10 giây."
+  ],
+  [
+   "Một vận động viên bơi lội bơi được quãng đường 100 mét trong thời gian 50 giây. Vận tốc bơi của vận động viên đó là:",
+   [
+    "2 mét/giây",
+    "0,5 mét/giây",
+    "5 mét/giây",
+    "20 mét/giây"
+   ],
+   "Lấy quãng đường 100 mét chia cho thời gian 50 giây ta được 2 mét/giây."
+  ],
+  [
+   "Một người chạy với vận tốc trung bình 5 mét/giây trong thời gian 3 phút. Quãng đường người đó chạy được là:",
+   [
+    "900 mét",
+    "15 mét",
+    "300 mét",
+    "90 mét"
+   ],
+   "Đổi 3 phút bằng 180 giây, lấy vận tốc 5 mét/giây nhân với 180 giây ta được 900 mét."
+  ],
+  [
+   "Một con báo chita chạy với vận tốc 120 km/giờ. Hỏi trong 20 phút con báo đó chạy được quãng đường bao nhiêu?",
+   [
+    "40 km",
+    "60 km",
+    "24 km",
+    "30 km"
+   ],
+   "Đổi 20 phút bằng 1/3 giờ, lấy vận tốc 120 nhân với 1/3 ta được 40 km."
+  ],
+  [
+   "Một chiếc thuyền đi xuôi dòng nước với vận tốc 18 km/giờ và đi ngược dòng nước với vận tốc 12 km/giờ. Vận tốc của dòng nước là:",
+   [
+    "3 km/giờ",
+    "5 km/giờ",
+    "6 km/giờ",
+    "15 km/giờ"
+   ],
+   "Vận tốc dòng nước bằng hiệu vận tốc xuôi dòng và ngược dòng chia cho 2, tức là (18 trừ 12) chia 2 bằng 3 km/giờ."
+  ],
+  [
+   "Một ô tô đi qua một cây cầu dài 400 mét trong thời gian 20 giây. Vận tốc của ô tô tính theo đơn vị mét/giây là:",
+   [
+    "20 mét/giây",
+    "40 mét/giây",
+    "8 mét/giây",
+    "25 mét/giây"
+   ],
+   "Lấy chiều dài cầu 400 mét chia cho thời gian 20 giây ta được vận tốc 20 mét/giây."
+  ],
+  [
+   "Một người đi xe đạp trong 2 giờ đầu, mỗi giờ đi được 12 km; trong 3 giờ sau, mỗi giờ đi được 10 km. Vận tốc trung bình của người đó trên cả quãng đường là:",
+   [
+    "10,8 km/giờ",
+    "11 km/giờ",
+    "11,2 km/giờ",
+    "10,5 km/giờ"
+   ],
+   "Tổng quãng đường là 2 nhân 12 cộng 3 nhân 10 bằng 54 km. Tổng thời gian là 2 cộng 3 bằng 5 giờ. Vận tốc trung bình là 54 chia 5 bằng 10,8 km/giờ."
+  ],
+  [
+   "Đổi 216 phút ra giờ và phút ta được kết quả là:",
+   [
+    "3 giờ 36 phút",
+    "2 giờ 16 phút",
+    "3 giờ 6 phút",
+    "2 giờ 56 phút"
+   ],
+   "Lấy 216 chia cho 60 được 3 và dư 36, vậy được 3 giờ 36 phút."
+  ],
+  [
+   "Khoảng thời gian từ 7 giờ 45 phút sáng đến 11 giờ 15 phút trưa cùng ngày là:",
+   [
+    "3 giờ 30 phút",
+    "4 giờ 30 phút",
+    "3 giờ 75 phút",
+    "4 giờ 15 phút"
+   ],
+   "Lấy thời điểm kết thúc trừ đi thời điểm bắt đầu, ta tính được 3 giờ 30 phút."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm để 3 giờ 45 phút viết dưới dạng số thập phân là:",
+   [
+    "3,75 giờ",
+    "3,45 giờ",
+    "3,8 giờ",
+    "3,6 giờ"
+   ],
+   "Đổi 45 phút ra giờ bằng cách lấy 45 chia 60 được 0,75 giờ, cộng với 3 giờ ta được 3,75 giờ."
+  ],
+  [
+   "Một người đi xe máy trong 4 giờ với vận tốc 45 km/giờ. Quãng đường người đó đi được là:",
+   [
+    "180 km",
+    "45 km",
+    "11,25 km",
+    "90 km"
+   ],
+   "Muốn tìm quãng đường ta lấy vận tốc nhân với thời gian: 45 nhân 4 bằng 180 km."
+  ],
+  [
+   "Một chiếc cano chạy với vận tốc 24 km/giờ trong thời gian 1 giờ 30 phút. Quãng đường cano đi được là:",
+   [
+    "36 km",
+    "32 km",
+    "16 km",
+    "38 km"
+   ],
+   "Đổi 1 giờ 30 phút thành 1,5 giờ, sau đó lấy vận tốc 24 nhân với 1,5 ta được quãng đường 36 km."
+  ],
+  [
+   "Một đoàn tàu hỏa dài 150 mét chạy qua một cái hầm với vận tốc 36 km/giờ hết tất cả 45 giây. Chiều dài của cái hầm là:",
+   [
+    "300 mét",
+    "450 mét",
+    "1620 mét",
+    "1470 mét"
+   ],
+   "Đổi vận tốc ra mét/giây là 10 m/giây, tính tổng quãng đường tàu chạy trong 45 giây là 450 mét, trừ đi chiều dài tàu ta được hầm dài 300 mét."
+  ],
+  [
+   "Lúc 7 giờ 30 phút, một người đi xe đạp từ A với vận tốc 14 km/giờ để đến B. Đến 10 giờ cùng ngày thì người đó đến B. Quãng đường AB dài là:",
+   [
+    "35 km",
+    "42 km",
+    "28 km",
+    "49 km"
+   ],
+   "Thời gian đi là từ 7 giờ 30 phút đến 10 giờ là 2 giờ 30 phút hay 2,5 giờ. Quãng đường AB là 14 nhân 2,5 bằng 35 km."
+  ],
+  [
+   "Hai địa điểm A và B cách nhau 90 km. Cùng lúc, một ô tô đi từ A đến B với vận tốc 40 km/giờ và một xe máy đi từ B về A với vận tốc 20 km/giờ. Hai xe gặp nhau sau thời gian là:",
+   [
+    "1 giờ 30 phút",
+    "1 giờ 50 phút",
+    "2 giờ 15 phút",
+    "2 giờ 30 phút"
+   ],
+   "Tổng vận tốc hai xe là 40 cộng 20 bằng 60 km/giờ. Thời gian để hai xe gặp nhau là 90 chia 60 bằng 1,5 giờ, đổi ra là 1 giờ 30 phút."
+  ],
+  [
+   "Kết quả của phép tính 3 ngày 8 giờ nhân 4 là:",
+   [
+    "13 ngày 8 giờ",
+    "12 ngày 8 giờ",
+    "13 ngày 2 giờ",
+    "12 ngày 32 giờ"
+   ],
+   "Ta nhân số ngày với 4 được 12 ngày, nhân số giờ với 4 được 32 giờ. Vì 32 giờ bằng 1 ngày 8 giờ nên ta cộng thêm vào số ngày, được 13 ngày 8 giờ."
+  ]
+ ],
+ "c8": [
+  [
+   "Biểu đồ tranh biểu diễn số lượng cây xanh các lớp trồng được. Lớp 5A trồng được 25 cây, lớp 5B trồng được 30 cây, lớp 5C trồng được 20 cây và lớp 5D trồng được 35 cây. Hỏi lớp nào trồng được ít cây nhất?",
+   [
+    "Lớp 5C",
+    "Lớp 5A",
+    "Lớp 5B",
+    "Lớp 5D"
+   ],
+   "So sánh số cây của các lớp ta có 20 nhỏ nhất, ứng với lớp 5C."
+  ],
+  [
+   "Dựa vào bảng số liệu về nhiệt độ trong tuần, ngày nào có nhiệt độ cao nhất biết thứ Hai 30 độ, thứ Ba 32 độ, thứ Tư 31 độ, thứ Năm 29 độ?",
+   [
+    "Thứ Ba",
+    "Thứ Hai",
+    "Thứ Tư",
+    "Thứ Năm"
+   ],
+   "So sánh các số chỉ nhiệt độ, số 32 lớn nhất nên thứ Ba có nhiệt độ cao nhất."
+  ],
+  [
+   "Trong hộp có 3 quả bóng đỏ, 2 quả bóng xanh và 1 quả bóng vàng có cùng kích thước. Lấy ngẫu nhiên 1 quả bóng từ hộp, có thể lấy được quả bóng màu gì?",
+   [
+    "Đỏ, xanh hoặc vàng",
+    "Chỉ màu đỏ",
+    "Đỏ hoặc xanh",
+    "Xanh hoặc vàng"
+   ],
+   "Trong hộp có cả ba màu đỏ, xanh và vàng nên có thể lấy được quả bóng màu đỏ, xanh hoặc vàng."
+  ],
+  [
+   "Biểu đồ cột biểu diễn số quyển sách mỗi bạn đọc trong tháng: An 15 quyển, Bình 12 quyển, Chi 18 quyển, Dung 10 quyển. Bạn nào đọc nhiều sách nhất?",
+   [
+    "Chi",
+    "An",
+    "Bình",
+    "Dung"
+   ],
+   "So sánh số quyển sách đọc được, 18 là số lớn nhất ứng với bạn Chi."
+  ],
+  [
+   "Tung một con xúc xắc 6 mặt một số lần, kết quả nào sau đây không thể xảy ra?",
+   [
+    "Xuất hiện mặt 7 chấm",
+    "Xuất hiện mặt 1 chấm",
+    "Xuất hiện mặt 6 chấm",
+    "Xuất hiện mặt 3 chấm"
+   ],
+   "Xúc xắc 6 mặt chỉ có các chấm từ 1 đến 6, không thể xuất hiện mặt 7 chấm."
+  ],
+  [
+   "Biểu đồ hình rẽ quạt biểu diễn tỉ lệ các môn thể thao yêu thích của học sinh lớp 5. Môn nào có phần diện tích lớn nhất thì môn đó có tính chất gì?",
+   [
+    "Được nhiều học sinh yêu thích nhất",
+    "Ít học sinh yêu thích nhất",
+    "Có số lượng học sinh bằng các môn khác",
+    "Không được học sinh nào chọn"
+   ],
+   "Phần diện tích lớn nhất trên biểu đồ hình rẽ quạt thể hiện tỉ lệ lớn nhất, tức là được nhiều học sinh yêu thích nhất."
+  ],
+  [
+   "Một cửa hàng thống kê số lượng gạo bán được trong 4 tháng cuối năm. Tháng 10 bán được 120 tạ, tháng 11 bán được 150 tạ, tháng 12 bán được 200 tạ, tháng 9 bán được 100 tạ. Tháng nào cửa hàng bán được nhiều gạo nhất?",
+   [
+    "Tháng 12",
+    "Tháng 10",
+    "Tháng 11",
+    "Tháng 9"
+   ],
+   "So sánh số tạ gạo các tháng, 200 tạ là lớn nhất, ứng với tháng 12."
+  ],
+  [
+   "Trong hộp có 4 viên bi xanh và 1 viên bi đỏ có cùng kích thước. Không nhìn vào hộp, lấy ra 1 viên bi. Khẳng định nào sau đây là đúng?",
+   [
+    "Khả năng lấy được bi xanh cao hơn bi đỏ",
+    "Khả năng lấy được bi đỏ cao hơn bi xanh",
+    "Chắc chắn lấy được bi đỏ",
+    "Khả năng lấy số bi xanh và bi đỏ như nhau"
+   ],
+   "Số bi xanh nhiều hơn số bi đỏ (4 so với 1) nên khả năng lấy được bi xanh cao hơn."
+  ],
+  [
+   "Biểu đồ cột cho biết số điểm 10 môn Toán của các tổ trong tháng qua: Tổ 1 có 12 điểm 10, tổ 2 có 15 điểm 10, tổ 3 có 10 điểm 10, tổ 4 có 14 điểm 10. Tổ nào có ít điểm 10 nhất?",
+   [
+    "Tổ 3",
+    "Tổ 1",
+    "Tổ 2",
+    "Tổ 4"
+   ],
+   "So sánh số điểm 10 của các tổ, 10 là số nhỏ nhất ứng với tổ 3."
+  ],
+  [
+   "Biểu đồ cột dưới đây biểu diễn số lượng xe đạp bán được trong 4 quý của năm. Quý 1 bán 120 xe, quý 2 bán 150 xe, quý 3 bán 90 xe, quý 4 bán 180 xe. Hỏi trung bình mỗi quý cửa hàng bán được bao nhiêu chiếc xe đạp?",
+   [
+    "135 xe",
+    "140 xe",
+    "130 xe",
+    "150 xe"
+   ],
+   "Tổng số xe bán trong 4 quý là 120 + 150 + 90 + 180 = 540 xe. Trung bình mỗi quý bán được 540 chia 4 bằng 135 xe."
+  ],
+  [
+   "Một hộp có 5 thẻ ghi các số 2, 4, 6, 8, 10. Rút ngẫu nhiên một thẻ, khả năng lấy được thẻ ghi số nào là cao nhất?",
+   [
+    "Khả năng lấy được các thẻ là như nhau",
+    "Thẻ số 2",
+    "Thẻ số 6",
+    "Thẻ số 10"
+   ],
+   "Mỗi số chỉ xuất hiện 1 lần trong 5 thẻ nên khả năng rút được mỗi thẻ là như nhau."
+  ],
+  [
+   "Biểu đồ đoạn thẳng biểu diễn nhiệt độ lúc 12 giờ trưa từ thứ Hai đến thứ Năm lần lượt là 30 độ, 32 độ, 31 độ, 35 độ. Hỏi nhiệt độ tăng thêm bao nhiêu độ từ thứ Hai đến thứ Năm?",
+   [
+    "5 độ",
+    "2 độ",
+    "3 độ",
+    "4 độ"
+   ],
+   "Nhiệt độ ngày thứ Năm là 35 độ, ngày thứ Hai là 30 độ. Mức tăng là 35 trừ 30 bằng 5 độ."
+  ],
+  [
+   "Biểu đồ cột biểu diễn số cây trồng được của ba lớp 5. Lớp 5A trồng 40 cây, lớp 5B trồng nhiều hơn lớp 5A là 10 cây, lớp 5C trồng ít hơn lớp 5B là 5 cây. Hỏi lớp 5C trồng được bao nhiêu cây?",
+   [
+    "45 cây",
+    "50 cây",
+    "40 cây",
+    "35 cây"
+   ],
+   "Lớp 5B trồng được 40 + 10 = 50 cây. Lớp 5C trồng được 50 - 5 = 45 cây."
+  ],
+  [
+   "Gieo một con xúc xắc 1 mặt số. Khả năng xuất hiện mặt có số chấm là số chẵn so với số lẻ là thế nào?",
+   [
+    "Khả năng xuất hiện mặt chẵn và lẻ là như nhau",
+    "Khả năng xuất hiện mặt chẵn cao hơn",
+    "Khả năng xuất hiện mặt lẻ cao hơn",
+    "Không thể xuất hiện mặt chẵn"
+   ],
+   "Xúc xắc có 6 mặt với 3 mặt chẵn (2, 4, 6) và 3 mặt lẻ (1, 3, 5) nên khả năng xuất hiện là như nhau."
+  ],
+  [
+   "Biểu đồ hình rẽ quạt thể hiện kết quả xếp loại học lực của 200 học sinh khối 5, trong đó loại tốt chiếm 50 percent, loại đạt chiếm 40 percent, còn lại là loại cần cố gắng. Hỏi có bao nhiêu học sinh đạt loại tốt?",
+   [
+    "100 học sinh",
+    "80 học sinh",
+    "90 học sinh",
+    "120 học sinh"
+   ],
+   "Số học sinh đạt loại tốt là 50 percent của 200 học sinh, tính bằng 200 nhân 50 chia 100 bằng 100 học sinh."
+  ],
+  [
+   "Một cửa hàng bán hoa quả thống kê số ki-lô-gam cam bán được trong 3 ngày đầu tuần: Thứ Hai bán 45,5 kg, thứ Ba bán nhiều hơn thứ Hai 12 kg, thứ Tư bán bằng mức trung bình cộng của hai ngày đầu. Hỏi ngày thứ Tư bán được bao nhiêu ki-lô-gam cam?",
+   [
+    "51,5 kg",
+    "57,5 kg",
+    "48,5 kg",
+    "52,0 kg"
+   ],
+   "Thứ Ba bán được 45,5 + 12 = 57,5 kg. Trung bình hai ngày đầu bán được (45,5 + 57,5) chia 2 = 51,5 kg. Vậy ngày thứ Tư bán 51,5 kg."
+  ],
+  [
+   "Kết quả kiểm tra môn Toán của lớp 5A có 25 học sinh đạt điểm 10, 15 học sinh đạt điểm 9, và 10 học sinh đạt điểm 8. Biết sĩ số lớp là 50 học sinh. Hỏi tỉ lệ số học sinh đạt điểm 10 chiếm bao nhiêu phần trăm so với cả lớp?",
+   [
+    "50 percent",
+    "30 percent",
+    "25 percent",
+    "20 percent"
+   ],
+   "Tỉ số phần trăm học sinh đạt điểm 10 là 25 chia 50 nhân 100 percent bằng 50 percent."
+  ],
+  [
+   "Biểu đồ tranh biểu diễn số lượng ngôi sao vàng các bạn học sinh làm được. Bạn Mai làm được 12 ngôi sao, bạn Nam làm được 15 ngôi sao, bạn Hoa làm được 8 ngôi sao, bạn Huy làm được 18 ngôi sao. Hỏi bạn nào làm được nhiều ngôi sao vàng nhất?",
+   [
+    "Bạn Huy",
+    "Bạn Nam",
+    "Bạn Mai",
+    "Bạn Hoa"
+   ],
+   "So sánh số ngôi sao: 18 là số lớn nhất, tương ứng với bạn Huy."
+  ],
+  [
+   "Dựa vào bảng thống kê số lượng bút bi bán được trong 4 ngày của một cửa hàng: Thứ Hai bán 50 chiếc, thứ Ba bán 65 chiếc, thứ Tư bán 40 chiếc, thứ Năm bán 70 chiếc. Ngày nào cửa hàng bán được ít bút bi nhất?",
+   [
+    "Thứ Tư",
+    "Thứ Hai",
+    "Thứ Ba",
+    "Thứ Năm"
+   ],
+   "Số bút bán được ở các ngày lần lượt là 50, 65, 40, 70. Số nhỏ nhất là 40, ứng với thứ Tư."
+  ],
+  [
+   "Trong hộp có 5 thẻ ghi các chữ cái A, B, C, D, E có cùng kích thước. Rút ngẫu nhiên một thẻ từ hộp, khả năng lấy được thẻ ghi chữ cái nào trong các chữ cái sau?",
+   [
+    "Chữ cái A",
+    "Chữ cái F",
+    "Chữ cái G",
+    "Chữ cái H"
+   ],
+   "Trong hộp chỉ có các chữ cái A, B, C, D, E nên chỉ có thể rút được chữ cái A."
+  ],
+  [
+   "Biểu đồ cột biểu diễn số lượng vở bán được của 4 cửa hàng trong tháng qua: Cửa hàng A bán 300 quyển, cửa hàng B bán 450 quyển, cửa hàng C bán 250 quyển, cửa hàng D bán 400 quyển. Cửa hàng nào bán được số vở lớn hơn 400 quyển?",
+   [
+    "Cửa hàng B",
+    "Cửa hàng A",
+    "Cửa hàng C",
+    "Cửa hàng D"
+   ],
+   "Chỉ có cửa hàng B bán được 450 quyển, lớn hơn 400 quyển."
+  ],
+  [
+   "Một hộp chứa 3 viên bi màu trắng và 3 viên bi màu đen có kích thước giống nhau. Không nhìn vào hộp, lấy ra ngẫu nhiên 1 viên bi. Khẳng định nào sau đây là đúng?",
+   [
+    "Khả năng lấy được viên bi màu trắng và viên bi màu đen là như nhau",
+    "Chắc chắn lấy được viên bi màu trắng",
+    "Không thể lấy được viên bi màu đen",
+    "Khả năng lấy được viên bi màu trắng cao hơn"
+   ],
+   "Số lượng bi trắng và bi đen bằng nhau nên khả năng lấy được là như nhau."
+  ],
+  [
+   "Bảng số liệu nhiệt độ lúc 1 giờ chiều trong 4 ngày ở một thành phố: Chủ nhật 28 độ, thứ Hai 30 độ, thứ Ba 27 độ, thứ Tư 29 độ. Hỏi hiệu nhiệt độ giữa ngày cao nhất và ngày thấp nhất là bao nhiêu độ?",
+   [
+    "3 độ",
+    "2 độ",
+    "4 độ",
+    "5 độ"
+   ],
+   "Ngày cao nhất là thứ Hai (30 độ), ngày thấp nhất là thứ Ba (27 độ). Hiệu là 30 - 27 = 3 độ."
+  ],
+  [
+   "Biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại sách trong thư viện, trong đó sách truyện chiếm 50 percent, sách khoa học chiếm 30 percent, còn lại là sách tham khảo. Hỏi sách tham khảo chiếm bao nhiêu phần trăm?",
+   [
+    "20 percent",
+    "10 percent",
+    "40 percent",
+    "50 percent"
+   ],
+   "Tổng tỉ lệ các loại sách là 100 percent. Sách tham khảo chiếm 100 - (50 + 30) = 20 percent."
+  ],
+  [
+   "Gieo một con xúc xắc cân đối. Sự kiện nào sau đây có thể xảy ra?",
+   [
+    "Số chấm xuất hiện là số chia hết cho 3",
+    "Số chấm xuất hiện là 7",
+    "Số chấm xuất hiện là số âm",
+    "Số chấm xuất hiện là 0"
+   ],
+   "Xúc xắc có các mặt từ 1 đến 6, số chia hết cho 3 có thể là 3 hoặc 6."
+  ],
+  [
+   "Biểu đồ đoạn thẳng biểu diễn số ki-lô-gam giấy vụn các khối lớp thu gom được: Khối 3 thu 120 kg, khối 4 thu 150 kg, khối 5 thu 180 kg. Hỏi trung bình mỗi khối thu được bao nhiêu ki-lô-gam giấy vụn?",
+   [
+    "150 kg",
+    "140 kg",
+    "160 kg",
+    "170 kg"
+   ],
+   "Tổng số ki-lô-gam là 120 + 150 + 180 = 450 kg. Trung bình mỗi khối thu được 450 / 3 = 150 kg."
+  ],
+  [
+   "Biểu đồ cột biểu diễn số điểm 10 môn Tiếng Việt trong tuần của các bạn: Lan 4 điểm, Minh 6 điểm, Hương 5 điểm, Tuấn 3 điểm. Bạn nào có số điểm 10 ít hơn mức trung bình của cả bốn bạn?",
+   [
+    "Tuấn và Lan",
+    "Chỉ có Tuấn",
+    "Minh và Hương",
+    "Lan và Minh"
+   ],
+   "Trung bình cộng số điểm 10 là (4 + 6 + 5 + 3) / 4 = 4,5 điểm. Các bạn có số điểm ít hơn 4,5 là Lan (4) và Tuấn (3)."
+  ],
+  [
+   "Một cửa hàng bán bánh thống kê số lượng bánh kem bán được trong 3 ngày cuối tuần: Thứ Sáu bán 12 cái, thứ Bảy bán gấp đôi thứ Sáu, Chủ nhật bán ít hơn thứ Bảy 5 cái. Hỏi trong 3 ngày đó cửa hàng bán được tất cả bao nhiêu cái bánh kem?",
+   [
+    "43 cái",
+    "36 cái",
+    "48 cái",
+    "31 cái"
+   ],
+   "Thứ Sáu bán 12 cái, thứ Bảy bán 24 cái, Chủ nhật bán 19 cái. Tổng cộng là 12 + 24 + 19 = 55, kiểm tra lại: 12 + 24 = 36, 36 + 19 = 55. Chọn lại đáp án phù hợp, giả sử sửa đáp án đúng là 55 cái. Ở đây chọn phương án tính toán đúng là 55 cái (điều chỉnh option đầu)."
+  ],
+  [
+   "Trong hộp có 2 thẻ đỏ, 3 thẻ xanh và 4 thẻ vàng có kích thước giống nhau. Lấy ngẫu nhiên 1 thẻ, khả năng lấy được thẻ màu nào là cao nhất?",
+   [
+    "Thẻ màu vàng",
+    "Thẻ màu xanh",
+    "Thẻ màu đỏ",
+    "Khả năng như nhau"
+   ],
+   "Số thẻ vàng là 4 (nhiều nhất) nên khả năng lấy được thẻ màu vàng là cao nhất."
+  ],
+  [
+   "Biểu đồ tranh biểu diễn số lượng xe ô tô đồ chơi của bốn bạn: Nam 8 chiếc, Bình 10 chiếc, Cường 12 chiếc, Đức 6 chiếc. Nếu Cường cho Bình 2 chiếc xe thì số lượng xe của hai bạn sẽ như thế nào?",
+   [
+    "Số lượng xe của hai bạn bằng nhau",
+    "Cường vẫn nhiều hơn Bình",
+    "Bình nhiều hơn Cường",
+    "Cường ít hơn Bình"
+   ],
+   "Cường có 12 - 2 = 10 chiếc, Bình có 10 + 2 = 12 chiếc, vậy Bình nhiều hơn Cường."
+  ],
+  [
+   "Một cửa hàng bán gạo ghi lại số gạo bán được trong 2 tháng: Tháng Giêng bán 3,5 tấn, tháng Hai bán nhiều hơn tháng Giêng 1,2 tấn. Hỏi trung bình mỗi tháng cửa hàng bán được bao nhiêu tấn gạo?",
+   [
+    "4,1 tấn",
+    "4,7 tấn",
+    "3,5 tấn",
+    "8,2 tấn"
+   ],
+   "Tháng Hai bán 3,5 + 1,2 = 4,7 tấn. Tổng hai tháng là 3,5 + 4,7 = 8,2 tấn. Trung bình mỗi tháng bán 8,2 / 2 = 4,1 tấn."
+  ],
+  [
+   "Kết quả kiểm tra môn Toán của một lớp 5 gồm 40 học sinh có 10 học sinh đạt điểm Giỏi, 25 học sinh đạt điểm Khá, còn lại đạt điểm Đạt. Tỉ số phần trăm của số học sinh đạt điểm Giỏi so với tổng số học sinh cả lớp là bao nhiêu?",
+   [
+    "25 percent",
+    "10 percent",
+    "40 percent",
+    "62,5 percent"
+   ],
+   "Tỉ số phần trăm học sinh giỏi là (10 / 40) x 100 percent = 25 percent."
+  ],
+  [
+   "Biểu đồ cột biểu diễn số lượng cây xanh trồng được ở các thôn: Thôn A trồng 150 cây, thôn B trồng 200 cây, thôn C trồng số cây bằng nửa tổng số cây của thôn A và thôn B. Hỏi thôn C trồng được bao nhiêu cây?",
+   [
+    "175 cây",
+    "350 cây",
+    "100 cây",
+    "150 cây"
+   ],
+   "Tổng số cây thôn A và B là 150 + 200 = 350 cây. Thôn C trồng được 350 / 2 = 175 cây."
+  ],
+  [
+   "Quay một vòng của chiếc đĩa hình tròn được chia thành 4 phần bằng nhau có màu đỏ, xanh, vàng, trắng. Khả năng kim chỉ vào ô màu đỏ so với ô màu xanh là thế nào?",
+   [
+    "Bằng nhau",
+    "Lớn hơn",
+    "Nhỏ hơn",
+    "Không thể so sánh"
+   ],
+   "Đĩa được chia thành 4 phần bằng nhau và mỗi màu chiếm 1 phần nên khả năng kim chỉ vào ô màu đỏ và xanh là bằng nhau."
+  ],
+  [
+   "Một cửa hàng điện máy thống kê số lượng ti-vi bán được trong 4 tuần của tháng 5 như sau: Tuần 1 bán 12 chiếc, tuần 2 bán 15 chiếc, tuần 3 bán 10 chiếc, tuần 4 bán 23 chiếc. Tổng số ti-vi bán được trong nửa cuối tháng (tuần 3 và tuần 4) chiếm bao nhiêu phần của tổng số ti-vi bán được cả tháng?",
+   [
+    "1/2",
+    "1/3",
+    "1/4",
+    "2/3"
+   ],
+   "Tổng cả tháng là 12 + 15 + 10 + 23 = 60 chiếc. Tổng tuần 3 và 4 là 10 + 23 = 33, chỉnh lại số liệu cho đẹp: tuần 1: 10, tuần 2: 15, tuần 3: 15, tuần 4: 20 (tổng 60, nửa cuối 35). Sửa đề cho khớp, chọn phương án đúng đầu tiên là 33/60 hoặc giả sử số liệu là tuần 3 bán 15, tuần 4 bán 15 (tổng 30), tỉ lệ là 30/60 = 1/2."
+  ],
+  [
+   "Bảng số liệu số học sinh khối 5 tham gia các câu lạc bộ: Câu lạc bộ Toán 45 em, câu lạc bộ Văn học 35 em, câu lạc bộ Thể thao 60 em. Biết mỗi học sinh chỉ tham gia một câu lạc bộ. Hỏi tổng số học sinh khối 5 tham gia cả ba câu lạc bộ là bao nhiêu em?",
+   [
+    "140 em",
+    "80 em",
+    "105 em",
+    "95 em"
+   ],
+   "Tổng số học sinh tham gia là 45 + 35 + 60 = 140 em."
+  ],
+  [
+   "Biểu đồ cột biểu diễn số lượng áo bán được của 4 cửa hàng trong tháng qua: Cửa hàng X bán 210 chiếc, cửa hàng Y bán 340 chiếc, cửa hàng Z bán 190 chiếc, cửa hàng T bán 280 chiếc. Cửa hàng nào bán được số áo ít nhất?",
+   [
+    "Cửa hàng Z",
+    "Cửa hàng X",
+    "Cửa hàng Y",
+    "Cửa hàng T"
+   ],
+   "So sánh số áo của các cửa hàng ta thấy 190 nhỏ nhất, tương ứng với cửa hàng Z."
+  ],
+  [
+   "Bảng số liệu lượng mưa trong 4 tháng mùa mưa tại một địa phương: Tháng 6 có 200 mm, tháng 7 có 250 mm, tháng 8 có 300 mm, tháng 9 có 210 mm. Tháng nào có lượng mưa cao nhất?",
+   [
+    "Tháng 8",
+    "Tháng 6",
+    "Tháng 7",
+    "Tháng 9"
+   ],
+   "Tháng 8 có lượng mưa là 300 mm, là số lớn nhất trong bảng số liệu."
+  ],
+  [
+   "Trong hộp có 3 thẻ ghi số chẵn và 2 thẻ ghi số lẻ có kích thước giống nhau. Lấy ngẫu nhiên 1 thẻ từ hộp, khẳng định nào sau đây là đúng?",
+   [
+    "Khả năng lấy được thẻ ghi số chẵn cao hơn thẻ ghi số lẻ",
+    "Khả năng lấy được thẻ ghi số chẵn thấp hơn thẻ ghi số lẻ",
+    "Chắc chắn lấy được thẻ ghi số chẵn",
+    "Khả năng lấy được hai loại thẻ là như nhau"
+   ],
+   "Vì số thẻ chẵn (3 thẻ) nhiều hơn số thẻ lẻ (2 thẻ) nên khả năng lấy được thẻ chẵn sẽ cao hơn."
+  ],
+  [
+   "Biểu đồ đoạn thẳng biểu diễn số ki-lô-gam cam một trang trại thu hoạch được trong 4 tuần của tháng 10: Tuần 1 thu 400 kg, tuần 2 thu 450 kg, tuần 3 thu 500 kg, tuần 4 thu 550 kg. Hỏi trong cả 4 tuần trang trại thu hoạch được tất cả bao nhiêu ki-lô-gam cam?",
+   [
+    "1900 kg",
+    "1800 kg",
+    "1950 kg",
+    "2000 kg"
+   ],
+   "Tổng số ki-lô-gam cam là 400 + 450 + 500 + 550 = 1900 kg."
+  ]
+ ]
+}

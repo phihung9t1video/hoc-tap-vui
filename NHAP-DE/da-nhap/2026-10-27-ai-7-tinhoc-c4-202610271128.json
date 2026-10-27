@@ -1,0 +1,206 @@
+{
+ "7-tinhoc": {
+  "c4": [
+   [
+    "Trong phần mềm Microsoft PowerPoint, để tạo mới một bài trình chiếu trống, em thường chọn lệnh nào sau đây",
+    [
+     "Blank Presentation",
+     "New Slide",
+     "Open Presentation",
+     "Save As"
+    ],
+    "Lệnh Blank Presentation dùng để khởi tạo một tệp trình chiếu hoàn toàn mới và trống."
+   ],
+   [
+    "Phát biểu nào sau đây là NHẬN BIẾT ĐÚNG về khái niệm trang chiếu trong phần mềm trình chiếu",
+    [
+     "Trang chiếu là một trang màn hình đơn lẻ chứa nội dung của bài trình chiếu",
+     "Trang chiếu là một văn bản dài nhiều trang giống như trong phần mềm soạn thảo",
+     "Trang chiếu là một bảng tính gồm các hàng và cột để tính toán số liệu",
+     "Trang chiếu là một đoạn video ngắn dùng để chèn vào phần mở đầu"
+    ],
+    "Mỗi màn hình nội dung riêng biệt trong bài trình chiếu được gọi là một trang chiếu hay slide."
+   ],
+   [
+    "Khi muốn xóa một trang chiếu không cần thiết khỏi bài trình chiếu, em nháy chuột phải vào trang chiếu đó ở khung bên trái và chọn lệnh nào",
+    [
+     "Delete Slide",
+     "Remove Page",
+     "Clear Content",
+     "Cut Slide"
+    ],
+    "Lệnh Delete Slide trong menu chuột phải giúp em xóa bỏ hoàn toàn trang chiếu đã chọn."
+   ],
+   [
+    "Đâu là thành phần cơ bản thường có trên một trang chiếu tiêu đề của bài thuyết trình",
+    [
+     "Tiêu đề chính và tiêu đề phụ",
+     "Công thức toán học phức tạp",
+     "Hàm tính toán tổng giá trị",
+     "Đoạn mã lập trình hệ thống"
+    ],
+    "Trang tiêu đề thường chứa thông tin giới thiệu chính bao gồm tiêu đề bài học và tên người trình bày."
+   ],
+   [
+    "Phát biểu nào sau đây thể hiện SỰ THÔNG HIỂU về vai trò của bố cục (Layout) trên trang chiếu",
+    [
+     "Bố cục giúp sắp xếp các thành phần như tiêu đề, văn bản, hình ảnh một cách hợp lý và cân đối",
+     "Bố cục chỉ dùng để quy định màu sắc và phông chữ mặc định cho toàn bộ tệp",
+     "Bố cục là công cụ tự động tạo hiệu ứng chuyển động cho các đối tượng",
+     "Bố cục quyết định số lượng trang chiếu tối đa được phép tạo trong bài"
+    ],
+    "Bố cục định vị sẵn các hộp văn bản và khung chứa giúp người dùng trình bày nội dung khoa học."
+   ],
+   [
+    "Khi em muốn áp dụng một mẫu thiết kế màu sắc và hình nền có sẵn cho toàn bộ bài trình chiếu, em chọn thẻ nào trên dải lệnh",
+    [
+     "Design",
+     "Insert",
+     "Transition",
+     "Animation"
+    ],
+    "Thẻ Design cung cấp các mẫu giao diện, màu sắc và hình nền thống nhất cho toàn bộ bài thuyết trình."
+   ],
+   [
+    "Hành động nào sau đây giúp người xem dễ dàng đọc và nắm bắt thông tin trên trang chiếu",
+    [
+     "Sử dụng cỡ chữ đủ lớn và kết hợp màu chữ tương phản tốt với màu nền",
+     "Dùng toàn bộ văn bản dài chi tiết để người xem tự đọc",
+     "Chọn phông chữ trang trí cực kỳ uốn lượn cho mọi nội dung",
+     "Trộn lẫn quá nhiều màu sắc khác nhau trong cùng một câu"
+    ],
+    "Sự tương phản màu tốt và cỡ chữ to giúp người ở xa vẫn quan sát rõ nội dung."
+   ],
+   [
+    "Khi cần bổ sung một bảng số liệu gồm các hàng và cột vào trang chiếu để so sánh, em chọn lệnh nào trong thẻ Insert",
+    [
+     "Table",
+     "Picture",
+     "Shape",
+     "Chart"
+    ],
+    "Lệnh Table cho phép chèn bảng biểu dạng lưới ô để trình bày dữ liệu dạng bảng."
+   ],
+   [
+    "Ý nghĩa nào sau đây là ĐÚNG khi nói về hiệu ứng xuất hiện (Animation) của các đối tượng trên trang chiếu",
+    [
+     "Giúp từng đối tượng như chữ hoặc hình ảnh xuất hiện theo ý đồ trình bày của người nói",
+     "Làm cho toàn bộ trang chiếu lật qua trang chiếu khác một cách mượt mà",
+     "Tự động phát âm thanh lớn ở mỗi khi chuyển sang trang mới",
+     "Thay đổi kích thước trang chiếu từ khổ dọc sang khổ ngang"
+    ],
+    "Hiệu ứng Animation tác động vào từng thành phần nhỏ bên trong một trang chiếu."
+   ],
+   [
+    "Bạn Nam muốn trình bày các bước thực hiện một quy trình theo dạng sơ đồ khối mũi tên xuôi chiều. Nam nên chọn công cụ nào trong thẻ Insert",
+    [
+     "SmartArt",
+     "WordArt",
+     "Shapes",
+     "Screen Recording"
+    ],
+    "SmartArt cung cấp các mẫu sơ đồ cấu trúc sẵn giúp thể hiện quy trình và chuỗi bước rất trực quan."
+   ],
+   [
+    "Tình huống nào sau đây thể hiện sự VẬN DỤNG hợp lý phần mềm trình chiếu trong học tập môn Lịch sử",
+    [
+     "Tạo bài trình chiếu gồm các hình ảnh tư liệu, mốc thời gian và bản đồ để thuyết trình về chiến thắng Điện Biên Phủ",
+     "Dùng phần mềm trình chiếu để viết tiểu luận dài mười trang về nhân vật lịch sử",
+     "Nhập số liệu điểm số các môn học vào bảng tính để tính điểm trung bình",
+     "Lập danh sách quản lý mượn sách thư viện của toàn trường"
+    ],
+    "Trình chiếu rất phù hợp cho việc thuyết trình trực quan các sự kiện lịch sử có hình ảnh và sơ đồ."
+   ],
+   [
+    "Em hãy xác định bước nào là QUAN TRỌNG NHẤT trước khi bắt tay vào thiết kế bài trình chiếu trên máy tính",
+    [
+     "Xác định rõ mục đích, chủ đề và tìm kiếm thu thập thông tin nội dung cần trình bày",
+     "Mở ngay phần mềm và chọn hiệu ứng chuyển trang phức tạp nhất",
+     "Chèn thật nhiều hình ảnh động không liên quan để tạo sự chú ý",
+     "Chọn phông chữ nhỏ nhất để chứa được nhiều chữ nhất có thể"
+    ],
+    "Việc chuẩn bị ý tưởng và nội dung kỹ càng giúp bài trình chiếu mạch lạc và đạt hiệu quả cao."
+   ],
+   [
+    "Khi bạn Lan đưa quá nhiều chữ chi tiết vào một trang chiếu và đọc nguyên văn từng câu, điều này sẽ dẫn đến kết quả gì",
+    [
+     "Người nghe cảm thấy nhàm chán, mệt mỏi và không tập trung theo dõi",
+     "Bài thuyết trình trở nên vô cùng sinh động và chuyên nghiệp",
+     "Người xem dễ dàng ghi nhớ mọi kiến thức trong thời gian ngắn",
+     "Giáo viên đánh giá cao vì sự chăm chỉ chép sách giáo khoa"
+    ],
+    "Slide chứa quá nhiều chữ biến bài thuyết trình thành một văn bản đọc gây buồn ngủ cho người xem."
+   ],
+   [
+    "Bạn Huy muốn điều chỉnh thời gian tự động chuyển sang trang chiếu tiếp theo mà không cần nhấn phím chuột. Huy cần thiết lập tính năng nào",
+    [
+     "Trong thẻ Transition, chỉnh mục After ở phần Advance Slide",
+     "Trong thẻ Animation, chọn lệnh Duration",
+     "Trong thẻ Design, chọn lệnh Background Style",
+     "Trong thẻ Insert, chọn lệnh Audio"
+    ],
+    "Mục After trong thẻ Transition cho phép cài đặt thời gian tự động chuyển trang chính xác."
+   ],
+   [
+    "Để chèn một đoạn âm thanh giọng đọc thuyết minh vào bài trình chiếu, em chọn nhóm lệnh nào trong thẻ Insert",
+    [
+     "Media",
+     "Text",
+     "Images",
+     "Illustrations"
+    ],
+    "Nhóm lệnh Media chứa các công cụ cho phép chèn tệp âm thanh Audio và video vào trang chiếu."
+   ],
+   [
+    "Khi đang ở chế độ chỉnh sửa, thao tác nào giúp em nhanh chóng xem lại bài trình chiếu từ chính trang chiếu hiện tại đang làm việc",
+    [
+     "Nhấn phím F5 kết hợp tổ hợp phím hoặc chọn biểu tượng Slide Show ở góc dưới",
+     "Nhấn phím Delete trên bàn phím",
+     "Nhấn tổ hợp phím Ctrl và phím S",
+     "Nhấn phím Esc nhiều lần liên tục"
+    ],
+    "Phím F5 chiếu từ đầu, trong khi biểu tượng Slide Show ở thanh trạng thái giúp chiếu từ trang hiện tại."
+   ],
+   [
+    "Hành động nào sau đây là KHÔNG NÊN KHI thiết kế một trang chiếu có chèn hình ảnh minh họa",
+    [
+     "Phóng to thu nhỏ hình ảnh quá mức làm mờ nhòe và che khuất đi các hộp chữ nội dung",
+     "Chọn hình ảnh có nội dung liên quan trực tiếp đến vấn đề đang thuyết trình",
+     "Cân đối kích thước hình ảnh vừa vặn với không gian trống trên trang",
+     "Sử dụng hình ảnh có độ sắc nét cao để người xem quan sát rõ"
+    ],
+    "Hình ảnh bị mờ hoặc che mất nội dung chữ sẽ làm giảm chất lượng và tính thẩm mỹ của bài."
+   ],
+   [
+    "Trong một buổi báo cáo dự án học tập, nếu bạn thuyết trình chỉ nói những ý chính cốt lõi và kết hợp minh họa bằng slide ngắn gọn, điều này thể hiện điều gì",
+    [
+     "Kỹ năng trình bày khoa học, chuyên nghiệp và thu hút người nghe",
+     "Sự thiếu chuẩn bị nội dung kiến thức chuyên sâu",
+     "Sự lười biếng trong việc viết văn bản dài",
+     "Việc sử dụng sai hoàn toàn mục đích của phần mềm trình chiếu"
+    ],
+    "Slide chỉ nên chứa từ khóa và ý chính để hỗ trợ người thuyết trình truyền đạt nội dung."
+   ],
+   [
+    "Khi làm việc nhóm thiết kế bài trình chiếu, để thống nhất phông chữ và cỡ chữ cho toàn bộ các trang do nhiều thành viên làm khác nhau, nhóm nên sử dụng công cụ nào",
+    [
+     "Sử dụng chung một mẫu Slide Master chuẩn của nhóm",
+     "Mỗi người tự do chọn phông chữ mình thích rồi ghép lại",
+     "Chỉ dùng duy nhất một trang chiếu duy nhất cho cả bài",
+     "In tất cả nội dung ra giấy rồi đọc thay cho trình chiếu"
+    ],
+    "Slide Master giúp quản lý định dạng chung cho toàn bộ các trang chiếu trong toàn bộ tệp."
+   ],
+   [
+    "Tình huống nào sau đây cho thấy việc sử dụng hiệu ứng chuyển động (Animation và Transition) là PHẢN TÁC DỤNG",
+    [
+     "Dùng quá nhiều hiệu ứng bay lượn phức tạp, chớp nháy liên tục cho mọi đối tượng nhỏ",
+     "Áp dụng một kiểu chuyển trang đơn giản, nhẹ nhàng giữa các slide",
+     "Cho xuất hiện từng dòng nội dung theo nhịp độ giải thích của người nói",
+     "Chọn thời gian chuyển trang vừa đủ để người xem kịp đọc tiêu đề"
+    ],
+    "Lạm dụng quá nhiều hiệu ứng rườm rà sẽ gây mất tập trung và làm mỏi mắt người theo dõi."
+   ]
+  ]
+ }
+}

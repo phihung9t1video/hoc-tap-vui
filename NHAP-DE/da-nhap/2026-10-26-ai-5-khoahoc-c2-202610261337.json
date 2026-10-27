@@ -1,0 +1,406 @@
+{
+ "5-khoahoc": {
+  "c2": [
+   [
+    "Nguồn năng lượng nào sau đây được sử dụng chủ yếu để làm khô nông sản ngoài trời?",
+    [
+     "Năng lượng mặt trời",
+     "Năng lượng gió",
+     "Năng lượng nước chảy",
+     "Năng lượng điện"
+    ],
+    "Năng lượng mặt trời cung cấp nhiệt lượng và ánh sáng giúp làm khô nông sản một cách tự nhiên."
+   ],
+   [
+    "Vật nào sau đây biến đổi điện năng thành nhiệt năng khi hoạt động?",
+    [
+     "Bàn là điện",
+     "Quạt điện",
+     "Bóng đèn LED",
+     "Đài phát thanh"
+    ],
+    "Bàn là điện sử dụng dòng điện để làm nóng mặt đế, phục vụ việc là quần áo."
+   ],
+   [
+    "Khi pin trong điều khiển từ xa của TV hết điện, điều đó có nghĩa là gì?",
+    [
+     "Pin đã chuyển hoá hết năng lượng lưu trữ thành các dạng năng lượng khác",
+     "Pin đã tự sản sinh ra năng lượng mới",
+     "Pin không cần thiết cho điều khiển",
+     "Pin chỉ lưu trữ năng lượng ánh sáng"
+    ],
+    "Pin chứa năng lượng dạng hoá năng, khi dùng sẽ chuyển hoá dần thành các dạng năng lượng khác và cạn kiệt."
+   ],
+   [
+    "Hành động nào sau đây giúp tiết kiệm năng lượng điện trong gia đình?",
+    [
+     "Tắt các thiết bị điện khi không sử dụng",
+     "Bật quạt trần ở tất cả các phòng dù không có người",
+     "Mở tủ lạnh liên tục để xem đồ ăn",
+     "Để tivi chạy suốt đêm khi đi ngủ"
+    ],
+    "Tắt thiết bị khi không dùng là cách hiệu quả nhất để tránh lãng phí điện năng."
+   ],
+   [
+    "Trong các nguồn năng lượng sau, nguồn năng lượng nào là năng lượng sạch và vô tận?",
+    [
+     "Năng lượng mặt trời",
+     "Than đá",
+     "Dầu mỏ",
+     "Khí đốt tự nhiên"
+    ],
+    "Năng lượng mặt trời là nguồn năng lượng tái tạo, sạch và không bao giờ cạn kiệt."
+   ],
+   [
+    "Bộ phận nào của pin mặt trời làm nhiệm vụ thu nhận ánh sáng và chuyển hoá thành điện năng?",
+    [
+     "Tấm quang điện",
+     "Lõi dây đồng",
+     "Vỏ nhựa bên ngoài",
+     "Cực âm bằng kẽm"
+    ],
+    "Tấm quang điện (solar panel) có khả năng hấp thụ ánh sáng mặt trời và tạo ra dòng điện."
+   ],
+   [
+    "Khi cọ xát hai bàn tay vào nhau, ta thấy tay ấm lên. Hiện tượng này thể hiện sự chuyển hoá năng lượng nào?",
+    [
+     "Cơ năng thành nhiệt năng",
+     "Nhiệt năng thành điện năng",
+     "Điện năng thành cơ năng",
+     "Quang năng thành nhiệt năng"
+    ],
+    "Hoạt động cọ xát là cơ năng, làm tay ấm lên là nhiệt năng."
+   ],
+   [
+    "Vật nào dưới đây không sử dụng năng lượng điện để hoạt động?",
+    [
+     "Bếp củi truyền thống",
+     "Nồi cơm điện",
+     "Bếp từ",
+     "Lò vi sóng"
+    ],
+    "Bếp củi sử dụng năng lượng chất đốt từ củi gỗ, không dùng điện."
+   ],
+   [
+    "Vì sao chúng ta không nên lạm dụng các nguồn năng lượng hoá học như than đá, dầu mỏ?",
+    [
+     "Vì chúng có hạn và gây ô nhiễm môi trường",
+     "Vì chúng có giá thành quá rẻ",
+     "Vì chúng không sinh ra nhiệt lượng",
+     "Vì chúng làm giảm lượng mưa"
+    ],
+    "Năng lượng hoá thạch là tài nguyên không tái tạo và khi đốt cháy sinh ra khí thải gây ô nhiễm."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về vai trò của năng lượng trong đời sống?",
+    [
+     "Mọi hoạt động của con người và sinh vật đều cần đến năng lượng",
+     "Năng lượng chỉ cần thiết cho các cỗ máy hoạt động",
+     "Con người có thể tồn tại mà không cần năng lượng",
+     "Năng lượng chỉ tồn tại ở dạng ánh sáng"
+    ],
+    "Mọi sinh vật và máy móc muốn hoạt động, sinh trưởng đều phải tiêu thụ năng lượng."
+   ],
+   [
+    "Bạn Nam dùng một chiếc đèn pin chạy bằng pin để soi đường vào ban đêm. Các dạng năng lượng xuất hiện theo thứ tự từ nguồn điện đến khi phát ra ánh sáng là:",
+    [
+     "Hoá năng - Điện năng - Quang năng",
+     "Quang năng - Điện năng - Hoá năng",
+     "Cơ năng - Nhiệt năng - Quang năng",
+     "Điện năng - Hoá năng - Cơ năng"
+    ],
+    "Pin chứa hoá năng chuyển thành điện năng trong mạch, rồi bóng đèn biến điện năng thành quang năng."
+   ],
+   [
+    "Một gia đình sử dụng bóng đèn sợi đốt cũ thường tốn nhiều tiền điện hơn so với việc dùng bóng đèn LED hiện đại vì:",
+    [
+     "Bóng đèn sợi đốt biến đổi phần lớn điện năng thành nhiệt năng thay vì quang năng",
+     "Bóng đèn sợi đốt tạo ra quá nhiều ánh sáng",
+     "Bóng đèn LED tiêu thụ nhiều điện hơn",
+     "Bóng đèn LED không phát ra ánh sáng"
+    ],
+    "Đèn sợi đốt tỏa rất nhiều nhiệt, phần điện năng chuyển thành ánh sáng rất ít nên lãng phí điện."
+   ],
+   [
+    "Vào những ngày nắng gắt, phơi quần áo ngoài sân sẽ khô rất nhanh. Yếu tố chủ yếu tác động quá trình này là:",
+    [
+     "Nhiệt độ cao và bức xạ từ năng lượng mặt trời",
+     "Áp suất không khí giảm mạnh",
+     "Độ ẩm không khí tăng cao đột ngột",
+     "Gió thổi từ hướng bắc vào nam"
+    ],
+    "Năng lượng mặt trời cung cấp nhiệt làm nước trong quần áo bay hơi nhanh hơn."
+   ],
+   [
+    "Khi một chiếc ô tô đang chạy trên đường phanh gấp để dừng lại, cơ năng của xe đã chuyển hoá chủ yếu thành dạng năng lượng nào ở má phanh và mặt đường?",
+    [
+     "Nhiệt năng",
+     "Quang năng",
+     "Điện năng",
+     "Hoá năng"
+    ],
+    "Do ma sát mạnh khi phanh, cơ năng chuyển thành nhiệt năng làm nóng má phanh và lốp xe."
+   ],
+   [
+    "Việc xây dựng các nhà máy thủy điện mang lại lợi ích lớn về kinh tế nhưng cần lưu ý điều gì quan trọng nhất đối với môi trường?",
+    [
+     "Ảnh hưởng đến dòng chảy tự nhiên và hệ sinh thái vùng hạ lưu",
+     "Làm tăng lượng khí thải carbon dioxide",
+     "Gây cạn kiệt nguồn nước ngầm ngay lập tức",
+     "Làm thay đổi màu sắc của nước biển"
+    ],
+    "Thủy điện làm thay đổi dòng chảy sông ngòi và ảnh hưởng lớn đến môi trường sinh thái thủy sinh."
+   ],
+   [
+    "Nếu gia đình em sử dụng máy nước nóng năng lượng mặt trời thay cho bình nóng lạnh chạy bằng điện vào những ngày nắng, điều này giúp:",
+    [
+     "Tiết kiệm một lượng lớn điện năng và bảo vệ môi trường",
+     "Làm cho nước nóng lên chậm hơn rất nhiều",
+     "Tăng chi phí tiền điện hàng tháng cho gia đình",
+     "Làm hỏng hệ thống đường ống nước trong nhà"
+    ],
+    "Máy nước nóng năng lượng mặt trời tận dụng nhiệt lượng tự nhiên giúp tiết kiệm điện hiệu quả."
+   ],
+   [
+    "Khi đun nước bằng ấm nhôm trên bếp gas, năng lượng nhiệt đã truyền từ đâu đến đâu?",
+    [
+     "Từ ngọn lửa qua đáy ấm làm nước trong ấm nóng lên",
+     "Từ nước bên trong truyền ngược ra ngọn lửa bên ngoài",
+     "Từ không khí xung quanh truyền vào đáy ấm nhôm",
+     "Từ tay người cầm ấm truyền vào nước bên trong"
+    ],
+    "Nhiệt truyền từ nguồn nhiệt có nhiệt độ cao hơn (ngọn lửa) qua vật dẫn nhiệt (đáy ấm) vào nước."
+   ],
+   [
+    "Một chiếc đồng hồ treo tường chạy bằng pin sau nhiều tháng thì kim giây dừng lại. Nguyên nhân là do:",
+    [
+     "Năng lượng hoá học trong pin đã bị cạn kiệt hoàn toàn",
+     "Đồng hồ đã hấp thụ hết ánh sáng trong phòng",
+     "Các bánh xe bên trong tự động biến mất",
+     "Pin đã tự động sạc đầy lại năng lượng"
+    ],
+    "Pin cung cấp hoá năng để chạy đồng hồ, khi hết thì đồng hồ ngừng hoạt động."
+   ],
+   [
+    "Cây xanh có khả năng hấp thụ năng lượng ánh sáng mặt trời để thực hiện quá trình quang hợp. Năng lượng ánh sáng đã chuyển hoá thành dạng năng lượng nào được lưu trữ trong thân, lá, củ?",
+    [
+     "Hoá năng",
+     "Nhiệt năng",
+     "Cơ năng",
+     "Điện năng"
+    ],
+    "Quang hợp lưu trữ năng lượng mặt trời thành các chất hữu cơ, đó chính là dạng hoá năng."
+   ],
+   [
+    "Tại sao các nhà khoa học luôn khuyến khích người dân sử dụng phương tiện giao thông công cộng hoặc xe đạp thay cho xe máy cá nhân?",
+    [
+     "Giảm thiểu lượng khí thải và tiết kiệm nguồn nhiên liệu hoá thạch",
+     "Giúp người dân di chuyển với tốc độ nhanh hơn nhiều lần",
+     "Loại bỏ hoàn toàn tiếng ồn trong các thành phố lớn",
+     "Làm cho đường xá không bao giờ bị ùn tắc nữa"
+    ],
+    "Hành động này giúp tiết kiệm nhiên liệu không tái tạo và giảm ô nhiễm môi trường không khí."
+   ],
+   [
+    "Nguồn năng lượng tự nhiên nào cung cấp ánh sáng và nhiệt lượng lớn nhất cho Trái Đất?",
+    [
+     "Mặt Trời",
+     "Mặt Trăng",
+     "Ngôi sao",
+     "Trái Đất"
+    ],
+    "Mặt Trời là ngôi sao lớn cung cấp nguồn năng lượng ánh sáng và nhiệt lượng khổng lồ cho sự sống trên Trái Đất."
+   ],
+   [
+    "Vật nào dưới đây là nguồn phát ra cả ánh sáng và nhiệt lượng?",
+    [
+     "Ngọn nến đang cháy",
+     "Chiếc gương soi",
+     "Quyển sách giáo khoa",
+     "Mặt bàn gỗ"
+    ],
+    "Ngọn nến khi cháy vừa tỏa ra ánh sáng để nhìn rõ vừa tỏa ra nhiệt lượng làm ấm không gian xung quanh."
+   ],
+   [
+    "Trong các vật dụng sau, vật nào sử dụng năng lượng gió để hoạt động?",
+    [
+     "Thuyền buồm",
+     "Xe đạp",
+     "Máy bay phản lực",
+     "Tàu hỏa chạy điện"
+    ],
+    "Thuyền buồm di chuyển được nhờ sức gió thổi vào cánh buồm để đẩy thuyền đi trên mặt nước."
+   ],
+   [
+    "Khi nước trong ấm đang sôi, hơi nước bốc lên làm nắp ấm dao động bập bênh. Năng lượng nào đã tạo ra hiện tượng đó?",
+    [
+     "Năng lượng nhiệt của hơi nước",
+     "Năng lượng ánh sáng của lửa",
+     "Điện năng từ ổ cắm",
+     "Năng lượng gió ngoài trời"
+    ],
+    "Nhiệt độ cao làm nước bay hơi mạnh, tạo ra áp suất và năng lượng nhiệt đẩy nắp ấm chuyển động."
+   ],
+   [
+    "Để nấu chín thức ăn, bếp từ hoạt động bằng cách biến đổi dạng năng lượng nào thành nhiệt năng?",
+    [
+     "Điện năng",
+     "Quang năng",
+     "Hóa năng",
+     "Cơ năng"
+    ],
+    "Bếp từ cần cắm điện để hoạt động, nghĩa là nó đã biến đổi điện năng thành nhiệt năng để làm nóng nồi."
+   ],
+   [
+    "Viên pin dùng trong điều khiển ti vi lưu trữ dạng năng lượng nào?",
+    [
+     "Hóa năng",
+     "Quang năng",
+     "Cơ năng",
+     "Nhiệt năng"
+    ],
+    "Bên trong pin chứa các chất hóa học, do đó pin dự trữ năng lượng dưới dạng hóa năng."
+   ],
+   [
+    "Khi con người ăn uống, cơ thể hấp thụ thức ăn và chuyển hóa thành năng lượng để chạy nhảy, làm việc. Dạng năng lượng ban đầu có trong thức ăn là:",
+    [
+     "Hóa năng",
+     "Nhiệt năng",
+     "Điện năng",
+     "Quang năng"
+    ],
+    "Thức ăn chứa các chất dinh dưỡng, mang năng lượng dưới dạng hóa năng được giải phóng khi cơ thể tiêu hóa."
+   ],
+   [
+    "Động cơ của một chiếc xe máy đang chạy đã chuyển hóa phần lớn hóa năng của xăng thành:",
+    [
+     "Cơ năng",
+     "Quang năng",
+     "Điện năng",
+     "Năng lượng gió"
+    ],
+    "Xăng là nhiên liệu chứa hóa năng, khi đốt cháy trong động cơ sẽ sinh ra công làm xe chuyển động, tức là cơ năng."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện rõ nhất việc sử dụng tiết kiệm năng lượng điện trong nhà trường?",
+    [
+     "Tắt quạt và đèn khi ra về khỏi phòng học",
+     "Mở cửa sổ rộng và bật quạt số lớn nhất",
+     "Bật đèn phòng học suốt cả những giờ có nắng",
+     "Sử dụng nhiều máy điều hòa cùng một lúc"
+    ],
+    "Tắt các thiết bị điện khi không sử dụng hoặc khi rời khỏi phòng là cách làm thiết thực nhất để tiết kiệm điện."
+   ],
+   [
+    "Nhà máy thủy điện sản xuất ra điện dựa vào nguồn năng lượng chủ yếu nào của dòng nước?",
+    [
+     "Cơ năng",
+     "Hóa năng",
+     "Nhiệt năng",
+     "Quang năng"
+    ],
+    "Nước chảy từ trên cao xuống với tốc độ lớn tạo ra cơ năng (động năng và thế năng) để quay tuabin phát điện."
+   ],
+   [
+    "Vì sao người ta thường sơn các thùng chứa nước hoặc mái nhà bằng màu trắng hoặc màu sáng thay vì màu đen bóng?",
+    [
+     "Để hạn chế hấp thụ năng lượng nhiệt từ ánh sáng mặt trời",
+     "Để thu hút nhiều ánh sáng hơn vào ban đêm",
+     "Để tăng cường tối đa năng lượng nhiệt làm nóng nước",
+     "Để giúp nước bên trong bay hơi nhanh hơn"
+    ],
+    "Màu sáng ít hấp thụ nhiệt từ ánh sáng mặt trời hơn màu tối, giúp giữ cho nước hoặc không gian bên trong mát mẻ."
+   ],
+   [
+    "Một chiếc quạt máy đang chạy, nếu chúng ta chạm tay vào lồng quạt phía sau sau một thời gian dài, ta thấy lồng quạt hơi ấm. Điều này cho thấy:",
+    [
+     "Một phần điện năng đã bị chuyển hóa thành nhiệt năng do ma sát",
+     "Quạt máy đang tạo ra năng lượng ánh sáng",
+     "Quạt máy hoàn toàn không tiêu hao năng lượng",
+     "Điện năng đã được biến đổi hoàn toàn thành cơ năng"
+    ],
+    "Trong quá trình quạt chạy, một phần điện năng bị hao phí chuyển hóa thành nhiệt năng ở các bộ phận chuyển động."
+   ],
+   [
+    "Khi chúng ta thả một quả bóng từ trên cao xuống đất, quả bóng nảy lên rồi dừng lại. Năng lượng của quả bóng đã đi đâu khi nó dừng hẳn?",
+    [
+     "Chuyển hóa thành nhiệt năng và âm năng truyền vào không khí và mặt đất",
+     "Bị biến mất hoàn toàn vào không trung",
+     "Chuyển hóa ngược lại thành hóa năng trong quả bóng",
+     "Biến thành năng lượng ánh sáng chói lọi"
+    ],
+    "Theo định luật bảo toàn năng lượng, năng lượng không mất đi mà chuyển hóa thành nhiệt và âm thanh do va chạm."
+   ],
+   [
+    "Hành động nào sau đây góp phần tích cực vào việc sử dụng nguồn năng lượng tái tạo và bảo vệ môi trường?",
+    [
+     "Lắp đặt các tấm pin năng lượng mặt trời để đun nước",
+     "Sử dụng than đá để sưởi ấm vào mùa đông",
+     "Đốt rơm rạ ngay trên cánh đồng sau khi thu hoạch",
+     "Dùng ô tô chạy bằng xăng cho quãng đường ngắn"
+    ],
+    "Pin năng lượng mặt trời khai thác nguồn năng lượng sạch, vô tận từ thiên nhiên, không gây ô nhiễm môi trường."
+   ],
+   [
+    "Tại sao các thiết bị như tủ lạnh, điều hòa nhiệt độ đời mới thường được dán nhãn năng lượng có nhiều sao xanh?",
+    [
+     "Vì chúng tiết kiệm điện năng hơn so với các thiết bị ít sao",
+     "Vì chúng làm lạnh nhanh hơn nhưng tốn nhiều điện hơn",
+     "Vì chúng sử dụng năng lượng mặt trời trực tiếp",
+     "Vì chúng có giá thành rẻ nhất trên thị trường"
+    ],
+    "Số sao trên nhãn năng lượng càng nhiều chứng tỏ thiết bị đó có hiệu suất cao và tiết kiệm điện năng tốt hơn."
+   ],
+   [
+    "Bạn An dùng tay quay của một chiếc đèn pin nhỏ không dùng pin, ánh sáng phát ra từ bóng đèn là kết quả của quá trình chuyển hóa:",
+    [
+     "Cơ năng thành điện năng rồi thành quang năng",
+     "Hóa năng thành nhiệt năng rồi thành quang năng",
+     "Nhiệt năng thành cơ năng rồi thành điện năng",
+     "Quang năng thành cơ năng rồi thành hóa năng"
+    ],
+    "Tay quay tạo ra cơ năng, làm quay bộ phận phát điện để tạo ra điện năng, sau đó dòng điện làm sáng bóng đèn (quang năng)."
+   ],
+   [
+    "Vì sao các nhà máy nhiệt điện sử dụng than đá hoặc khí đốt thường gây ảnh hưởng lớn đến môi trường không khí?",
+    [
+     "Vì quá trình đốt nhiên liệu thải ra nhiều khí độc hại và khói bụi",
+     "Vì chúng làm cạn kiệt nguồn nước ngọt trong các con sông",
+     "Vì chúng sử dụng quá nhiều năng lượng gió của tự nhiên",
+     "Vì chúng tạo ra tiếng ồn lớn làm ảnh hưởng đến động vật"
+    ],
+    "Đốt các nhiên liệu hóa học như than đá tạo ra khí thải carbon dioxide và bụi gây ô nhiễm không khí, hiệu ứng nhà kính."
+   ],
+   [
+    "Khi sử dụng bếp hồng ngoại để nấu chín thức ăn, dạng năng lượng ban đầu nào được cung cấp cho bếp?",
+    [
+     "Điện năng",
+     "Năng lượng mặt trời",
+     "Hóa năng từ khí gas",
+     "Cơ năng từ tay người"
+    ],
+    "Bếp hồng ngoại là thiết bị dùng điện, nhận điện năng và chuyển hóa thành nhiệt năng để nấu nướng."
+   ],
+   [
+    "Trường hợp nào dưới đây cho thấy sự chuyển hóa từ quang năng thành hóa năng trong tự nhiên?",
+    [
+     "Cây xanh hấp thụ ánh sáng mặt trời để tổng hợp chất dinh dưỡng",
+     "Mặt trời chiếu sáng làm khô quần áo phơi ngoài sân",
+     "Tấm pin mặt trời thu ánh sáng để thắp sáng bóng đèn LED",
+     "Nước biển hấp thụ nhiệt làm nước bay hơi tạo thành mây"
+    ],
+    "Quá trình quang hợp của cây xanh đã lấy năng lượng ánh sáng (quang năng) để tạo ra chất hữu cơ tích trữ hóa năng."
+   ],
+   [
+    "Khi đạp xe đạp vào ban đêm, bộ phận nào trên xe giúp biến đổi cơ năng của người thành điện năng rồi thành quang năng để chiếu sáng?",
+    [
+     "Đinamô (bộ phận phát điện gắn ở bánh xe)",
+     "Xích xe và líp xe ở phía giữa khung",
+     "Lốp xe làm bằng cao su đàn hồi tốt",
+     "Tay phanh xe giúp dừng bánh xe lại"
+    ],
+    "Đinamô quay nhờ lực của bánh xe (cơ năng), sinh ra dòng điện thắp sáng đèn gắn ở đầu xe (quang năng)."
+   ]
+  ]
+ }
+}

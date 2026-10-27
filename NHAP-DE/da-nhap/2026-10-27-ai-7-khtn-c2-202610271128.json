@@ -1,0 +1,206 @@
+{
+ "7-khtn": {
+  "c2": [
+   [
+    "Chất nào sau đây là đơn chất kim loại ở điều kiện thường?",
+    [
+     "Đồng (Cu)",
+     "Khí oxygen (O₂)",
+     "Khí nitrogen (N₂)",
+     "Lưu huỳnh (S)"
+    ],
+    "Đồng là đơn chất kim loại, còn oxygen, nitrogen và lưu huỳnh là các đơn chất phi kim."
+   ],
+   [
+    "Trong các chất sau đây, chất nào là hợp chất?",
+    [
+     "Carbon dioxide (CO₂)",
+     "Khí hydrogen (H₂)",
+     "Khí chlorine (Cl₂)",
+     "Kim loại sắt (Fe)"
+    ],
+    "Carbon dioxide là hợp chất vì được tạo nên từ hai nguyên tố hóa học là C và O."
+   ],
+   [
+    "Khái niệm nào sau đây mô tả đúng về phân tử?",
+    [
+     "Hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hóa học của chất.",
+     "Hạt mang điện tích dương nằm ở tâm của nguyên tử.",
+     "Tập hợp các nguyên tử cùng loại có cùng số proton.",
+     "Hạt vô cùng nhỏ không thể chia nhỏ hơn nữa trong phản ứng hóa học."
+    ],
+    "Phân tử là hạt đại diện cho chất, gồm các nguyên tử liên kết với nhau và mang đầy đủ tính chất hóa học của chất đó."
+   ],
+   [
+    "Nguyên tử của nguyên tố nào sau đây có lớp vỏ ngoài cùng đã đạt trạng thái bền vững của khí hiếm?",
+    [
+     "Argon (Ar)",
+     "Sodium (Na)",
+     "Chlorine (Cl)",
+     "Oxygen (O)"
+    ],
+    "Argon là nguyên tố khí hiếm có lớp vỏ ngoài cùng chứa 8 electron bền vững."
+   ],
+   [
+    "Khi nguyên tử kim loại nhường electron lớp vỏ ngoài cùng, nguyên tử đó sẽ biến thành:",
+    [
+     "Ion mang điện tích dương.",
+     "Ion mang điện tích âm.",
+     "Phân tử trung hòa về điện.",
+     "Nguyên tử khí hiếm."
+    ],
+    "Khi mất bớt electron (mảnh mang điện âm), nguyên tử trở thành ion mang điện tích dương."
+   ],
+   [
+    "Liên kết cộng hóa trị được hình thành giữa các nguyên tử bằng cách nào?",
+    [
+     "Dùng chung một hay nhiều cặp electron.",
+     "Nhường và nhận electron để tạo thành các ion.",
+     "Lực hút tĩnh điện giữa các hạt proton.",
+     "Sự trao đổi neutron trong hạt nhân."
+    ],
+    "Liên kết cộng hóa trị là liên kết được hình thành giữa các nguyên tử bằng một hay nhiều cặp electron dùng chung."
+   ],
+   [
+    "Tính khối lượng phân tử của nước cất, biết phân tử gồm 2 nguyên tử H và 1 nguyên tử O (H = 1, O = 16).",
+    [
+     "18 amu",
+     "17 amu",
+     "33 amu",
+     "34 amu"
+    ],
+    "Khối lượng phân tử nước = 2 × 1 + 16 = 18 amu."
+   ],
+   [
+    "Mô hình phân tử nào sau đây mô tả một liên kết ion?",
+    [
+     "Sự kết hợp giữa ion Na⁺ và ion Cl⁻ trong muối ăn.",
+     "Hai nguyên tử H chia sẻ một cặp electron.",
+     "Một nguyên tử C dùng chung electron với hai nguyên tử O.",
+     "Hai nguyên tử N góp chung ba cặp electron."
+    ],
+    "Liên kết ion được hình thành do lực hút tĩnh điện giữa các ion trái dấu như Na⁺ và Cl⁻."
+   ],
+   [
+    "Biết nguyên tố Silicon có kí hiệu Si. Khối lượng phân tử của silicon dioxide (SiO₂) là bao nhiêu? (Si = 28, O = 16)",
+    [
+     "60 amu",
+     "44 amu",
+     "76 amu",
+     "100 amu"
+    ],
+    "Khối lượng phân tử SiO₂ = 28 + 16 × 2 = 60 amu."
+   ],
+   [
+    "Phân tử ethanol (cồn y tế) chứa 2 nguyên tử C, 6 nguyên tử H và 1 nguyên tử O. Khối lượng phân tử của ethanol là: (C = 12, H = 1, O = 16)",
+    [
+     "46 amu",
+     "30 amu",
+     "29 amu",
+     "60 amu"
+    ],
+    "Khối lượng phân tử ethanol = 12 × 2 + 1 × 6 + 16 = 46 amu."
+   ],
+   [
+    "Công thức hóa học nào sau đây biểu diễn một đơn chất phi kim?",
+    [
+     "O₃",
+     "Fe",
+     "KCl",
+     "MgO"
+    ],
+    "O₃ (ozone) được tạo nên từ duy nhất một nguyên tố phi kim là oxygen nên là đơn chất phi kim."
+   ],
+   [
+    "Cho công thức hóa học của magnesium oxide là MgO. Ý nghĩa nào sau đây là ĐÚNG?",
+    [
+     "Hợp chất gồm 2 nguyên tố Mg và O, tỉ lệ số nguyên tử Mg : O là 1 : 1.",
+     "Hợp chất tạo bởi 1 nguyên tử Mg và 1 phân tử O₂.",
+     "Đơn chất gồm 2 nguyên tử Mg và O liên kết với nhau.",
+     "Khối lượng phân tử của chất là 24 amu."
+    ],
+    "Công thức MgO cho biết hợp chất tạo từ 2 nguyên tố Mg và O với tỉ lệ nguyên tử tương ứng là 1 : 1."
+   ],
+   [
+    "Tính hóa trị của nguyên tố Carbon trong hợp chất methane (CH₄), biết H có hóa trị I.",
+    [
+     "IV",
+     "II",
+     "I",
+     "III"
+    ],
+    "Gọi hóa trị của C là a. Ta có a × 1 = I × 4 ⇒ a = IV."
+   ],
+   [
+    "Công thức hóa học của hợp chất tạo bởi nguyên tố Phosphorus (hóa trị V) và nguyên tố Oxygen (hóa trị II) là:",
+    [
+     "P₂O₅",
+     "PO₅",
+     "P₅O₂",
+     "P₂O₃"
+    ],
+    "Áp dụng quy tắc hóa trị x × V = y × II ⇒ x/y = 2/5. Công thức là P₂O₅."
+   ],
+   [
+    "Khi hình thành liên kết ion trong phân tử magnesium chloride (MgCl₂), nguyên tử Mg đã thực hiện quá trình nào?",
+    [
+     "Nhường 2 electron để tạo thành ion Mg²⁺.",
+     "Nhận 2 electron để tạo thành ion Mg²⁻.",
+     "Góp chung 2 electron với nguyên tử Cl.",
+     "Nhường 1 electron cho mỗi nguyên tử Cl để thành ion Mg⁺."
+    ],
+    "Nguyên tử Mg có 2 electron ở lớp ngoài cùng nên sẽ nhường 2 electron để đạt cấu hình bền vững, tạo ion Mg²⁺."
+   ],
+   [
+    "Phát biểu nào sau đây đúng về sự khác nhau giữa đơn chất và hợp chất?",
+    [
+     "Đơn chất tạo nên từ 1 nguyên tố hóa học, hợp chất tạo nên từ 2 nguyên tố hóa học trở lên.",
+     "Đơn chất luôn ở thể khí, hợp chất luôn ở thể rắn.",
+     "Đơn chất có chứa liên kết ion, hợp chất chỉ chứa liên kết cộng hóa trị.",
+     "Đơn chất không có khối lượng phân tử, hợp chất có khối lượng phân tử."
+    ],
+    "Đơn chất được tạo thành từ 1 nguyên tố hóa học, còn hợp chất được tạo thành từ từ 2 nguyên tố hóa học trở lên."
+   ],
+   [
+    "Một phân tử X gồm 1 nguyên tử nguyên tố A liên kết với 3 nguyên tử hydrogen. Biết khối lượng phân tử của X là 17 amu và H = 1. Nguyên tố A là:",
+    [
+     "Nitrogen (N = 14)",
+     "Carbon (C = 12)",
+     "Oxygen (O = 16)",
+     "Sulfur (S = 32)"
+    ],
+    "Ta có A + 3 × 1 = 17 ⇒ A = 14. Vậy nguyên tố A là Nitrogen."
+   ],
+   [
+    "Một oxide của carbon có khối lượng phân tử là 28 amu. Biết C = 12, O = 16. Công thức hóa học của oxide đó là:",
+    [
+     "CO",
+     "CO₂",
+     "C₂O",
+     "CO₃"
+    ],
+    "Khối lượng phân tử CO = 12 + 16 = 28 amu."
+   ],
+   [
+    "Phân tử đường sucrose có công thức hóa học C₁₂H₂₂O₁₁. Phần trăm khối lượng của nguyên tố Carbon trong sucrose gần nhất với giá trị nào? (C = 12, H = 1, O = 16)",
+    [
+     "42,1%",
+     "51,5%",
+     "6,4%",
+     "36,8%"
+    ],
+    "Khối lượng phân tử = 12×12 + 1×22 + 16×11 = 342 amu. %C = (144 / 342) × 100% ≈ 42,1%."
+   ],
+   [
+    "Hợp chất B chứa 75% carbon và 25% hydrogen về khối lượng. Tỉ lệ số nguyên tử C và H trong phân tử hợp chất B là bao nhiêu? (C = 12, H = 1)",
+    [
+     "1 : 4",
+     "1 : 3",
+     "2 : 3",
+     "1 : 2"
+    ],
+    "Tỉ lệ số nguyên tử C : H = 75/12 : 25/1 = 6,25 : 25 = 1 : 4."
+   ]
+  ]
+ }
+}

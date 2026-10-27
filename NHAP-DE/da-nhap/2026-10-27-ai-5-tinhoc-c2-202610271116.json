@@ -1,0 +1,406 @@
+{
+ "5-tinhoc": {
+  "c2": [
+   [
+    "Công cụ nào sau đây được sử dụng phổ biến nhất để tìm kiếm thông tin trên Internet?",
+    [
+     "Máy tìm kiếm",
+     "Phần mềm soạn thảo văn bản",
+     "Phần mềm luyện gõ bàn phím",
+     "Phần mềm vẽ tranh"
+    ],
+    "Máy tìm kiếm là công cụ giúp người dùng tìm kiếm thông tin trên Internet một cách nhanh chóng và hiệu quả."
+   ],
+   [
+    "Địa chỉ website nào sau đây là một máy tìm kiếm thông dụng?",
+    [
+     "www.google.com",
+     "www.vtv.vn",
+     "www.hoctot.vn",
+     "www.wikipedia.org"
+    ],
+    "Google (www.google.com) là một trong những máy tìm kiếm phổ biến nhất hiện nay."
+   ],
+   [
+    "Khi muốn tìm kiếm thông tin bằng máy tìm kiếm, em cần nhập từ khóa vào đâu?",
+    [
+     "Ô tìm kiếm",
+     "Thanh địa chỉ của trang web",
+     "Màn hình chính của máy tính",
+     "Cửa sổ dòng lệnh"
+    ],
+    "Em cần gõ từ khóa vào ô tìm kiếm trên trang web tìm kiếm để máy tiến hành tra cứu."
+   ],
+   [
+    "Từ khóa trong tìm kiếm thông tin là gì?",
+    [
+     "Từ hoặc cụm từ thể hiện nội dung cần tìm",
+     "Tên của trình duyệt web em đang dùng",
+     "Mật khẩu để đăng nhập vào máy tính",
+     "Địa chỉ email của người gửi thông tin"
+    ],
+    "Từ khóa là từ hoặc cụm từ ngắn gọn chứa nội dung chính mà em muốn tìm kiếm."
+   ],
+   [
+    "Kết quả tìm kiếm bằng máy tìm kiếm thường hiển thị dưới dạng nào?",
+    [
+     "Danh sách các liên kết kèm đoạn văn bản tóm tắt",
+     "Một tệp tài liệu Word chứa toàn bộ thông tin",
+     "Một video tự động phát trên màn hình",
+     "Một thư mục chứa các tệp ảnh"
+    ],
+    "Máy tìm kiếm sẽ trả về danh sách các liên kết đến các trang web liên quan kèm một đoạn tóm tắt ngắn."
+   ],
+   [
+    "Khi có quá nhiều kết quả tìm kiếm không đúng ý muốn, em nên làm gì để thu hẹp phạm vi tìm kiếm?",
+    [
+     "Chọn từ khóa cụ thể và rõ ràng hơn",
+     "Gõ thật nhanh từ khóa cũ nhiều lần",
+     "Tắt máy tính và khởi động lại",
+     "Xóa bớt các ứng dụng trên máy tính"
+    ],
+    "Sử dụng từ khóa cụ thể, chính xác hơn sẽ giúp máy tìm kiếm trả về kết quả sát với nhu cầu của em."
+   ],
+   [
+    "Thông tin nào sau đây được coi là tin cậy và nên chọn lọc khi thu thập kiến thức?",
+    [
+     "Thông tin từ website chính thức của các cơ quan nhà nước, giáo dục",
+     "Thông tin từ trang cá nhân không rõ danh tính trên mạng xã hội",
+     "Thông tin từ các quảng cáo giật gân trên mạng",
+     "Thông tin từ các diễn đàn giải trí không có người kiểm duyệt"
+    ],
+    "Website của cơ quan nhà nước, tổ chức giáo dục là những nguồn thông tin chính thống và đáng tin cậy."
+   ],
+   [
+    "Tại sao chúng ta cần phải chọn lọc thông tin trước khi sử dụng?",
+    [
+     "Vì thông tin trên Internet rất phong phú nhưng không phải thông tin nào cũng đúng",
+     "Vì nếu không chọn lọc thì máy tính sẽ bị nhiễm virus",
+     "Vì máy tìm kiếm sẽ bắt chúng ta trả tiền nếu chọn sai",
+     "Vì dung lượng máy tính không đủ chứa tất cả thông tin"
+    ],
+    "Internet có nhiều thông tin sai lệch hoặc chưa kiểm chứng, do đó cần chọn lọc thông tin chính xác."
+   ],
+   [
+    "Dấu hiệu nào cho thấy một trang web có thể chứa thông tin KHÔNG tin cậy?",
+    [
+     "Nội dung giật gân, sai sự thật, không ghi rõ tác giả hay nguồn trích dẫn",
+     "Giao diện trình bày sạch sẽ, không có quảng cáo",
+     "Có ghi rõ họ tên tác giả và ngày đăng bài",
+     "Địa chỉ website kết thúc bằng tên miền .edu.vn"
+    ],
+    "Thông tin không rõ nguồn gốc, tác giả và tiêu đề giật gân thường là thông tin thiếu tin cậy."
+   ],
+   [
+    "Để tìm thông tin về “chiến thắng Điện Biên Phủ”, từ khóa nào sau đây sẽ cho kết quả chính xác nhất?",
+    [
+     "“Lịch sử chiến thắng Điện Biên Phủ”",
+     "“Lịch sử Việt Nam”",
+     "“Chiến thắng”",
+     "“Các trận đánh nổi tiếng”"
+    ],
+    "Từ khóa “Lịch sử chiến thắng Điện Biên Phủ” rất cụ thể, giúp máy tìm kiếm đưa ra thông tin đúng chủ đề nhất."
+   ],
+   [
+    "Nếu em muốn tìm kiếm thông tin hình ảnh về loài hoa sen, em nên chọn mục nào trên trang tìm kiếm Google?",
+    [
+     "Hình ảnh",
+     "Tin tức",
+     "Sách",
+     "Bản đồ"
+    ],
+    "Mục “Hình ảnh” (Images) giúp lọc và hiển thị kết quả tìm kiếm dưới dạng các tệp ảnh."
+   ],
+   [
+    "Khi tìm kiếm thông tin để làm bài tập Lịch sử, bạn Minh thấy hai trang web có thông tin trái ngược nhau. Minh nên làm gì?",
+    [
+     "So sánh với sách giáo khoa hoặc hỏi thầy cô giáo để xác minh",
+     "Chọn trang web có hình ảnh đẹp hơn để chép vào bài",
+     "Chọn trang web xuất hiện ở vị trí đầu tiên",
+     "Tự nghĩ ra một kết quả khác không theo trang nào"
+    ],
+    "Khi có sự bất đồng thông tin, em nên đối chiếu với sách giáo khoa hoặc nhờ sự trợ giúp của thầy cô."
+   ],
+   [
+    "Bạn An muốn tìm tài liệu học tập môn Toán lớp 5 dạng tệp PDF. Từ khóa nào sau đây là phù hợp nhất?",
+    [
+     "“Bài tập Toán lớp 5 pdf”",
+     "“Toán”",
+     "“Lớp 5 có những môn gì”",
+     "“Tài liệu học tập”"
+    ],
+    "Từ khóa có chứa tên môn, lớp và định dạng tệp “pdf” giúp thu hẹp đúng kết quả cần tìm."
+   ],
+   [
+    "Ý nào sau đây mô tả đúng nhất về việc “chọn lọc thông tin”?",
+    [
+     "Đánh giá, so sánh và lựa chọn những thông tin đúng, phù hợp với mục đích",
+     "Tải về tất cả các bài viết tìm được trên Internet",
+     "Chỉ đọc câu đầu tiên của các kết quả tìm kiếm",
+     "Lưu tất cả các hình ảnh tìm được vào máy tính"
+    ],
+    "Chọn lọc thông tin là quá trình xem xét, so sánh để giữ lại thông tin chính xác và hữu ích nhất."
+   ],
+   [
+    "Khi nhận được thông tin từ một tin nhắn lạ trên mạng thông báo em trúng thưởng quà tặng lớn, em nên làm gì?",
+    [
+     "Không tin ngay, hỏi ý kiến bố mẹ hoặc người lớn trước khi thực hiện thao tác nào",
+     "Nhấp vào liên kết ngay để nhận quà kẻo hết hạn",
+     "Gửi thông tin cá nhân và tài khoản của bố mẹ cho người gửi",
+     "Chia sẻ tin nhắn đó cho tất cả bạn bè trong lớp"
+    ],
+    "Đây thường là tin nhắn lừa đảo, em cần giữ cảnh giác và tham khảo ý kiến người lớn."
+   ],
+   [
+    "Bạn Bình gõ từ khóa “Hoa” nhưng kết quả trả về quá rộng (hoa lan, hoa hồng, hoa thanh liễu,...). Để tìm riêng hoa lan hồ điệp, Bình nên gõ từ khóa nào?",
+    [
+     "“Hoa lan hồ điệp”",
+     "“Các loại hoa đẹp”",
+     "“Hoa cây cảnh”",
+     "“Trồng hoa”"
+    ],
+    "Thêm các từ bổ nghĩa cụ thể như “lan hồ điệp” giúp kết quả chính xác đúng loài hoa cần tìm."
+   ],
+   [
+    "Hành vi nào sau đây thể hiện thói quen TỐT khi sử dụng thông tin tìm được trên Internet?",
+    [
+     "Ghi rõ nguồn trích dẫn khi sử dụng thông tin, hình ảnh của người khác",
+     "Chép nguyên văn bài làm của người khác rồi nhận là của mình",
+     "Sử dụng thông tin chưa kiểm chứng để đăng lên mạng xã hội",
+     "Chỉnh sửa nội dung thông tin sai lệch rồi gửi cho bạn bè"
+    ],
+    "Tôn trọng bản quyền và ghi rõ nguồn trích dẫn là thói quen văn minh, đúng quy định khi dùng thông tin trên mạng."
+   ],
+   [
+    "Khi tìm kiếm thông tin về thời tiết ngày mai tại Hà Nội, cách đặt từ khóa nào sau đây giúp tìm kiếm nhanh nhất?",
+    [
+     "“Thời tiết Hà Nội ngày mai”",
+     "“Mặt trời hôm nay thế nào”",
+     "“Hà Nội có đẹp không”",
+     "“Thời tiết”"
+    ],
+    "Từ khóa “Thời tiết Hà Nội ngày mai” chứa đầy đủ yếu tố chủ đề, địa điểm và thời gian."
+   ],
+   [
+    "Em đang chuẩn bị bài thuyết trình về “Bảo vệ môi trường biển”. Nguồn thông tin nào sau đây KHÔNG NÊN dùng làm tài liệu tham khảo chính?",
+    [
+     "Các bình luận không rõ tên tuổi dưới một bài đăng trên mạng xã hội",
+     "Bài viết trên website của Bộ Tài nguyên và Môi trường",
+     "Sách khoa học về đại dương dành cho lứa tuổi học sinh",
+     "Chương trình thời sự của Đài Truyền hình Việt Nam"
+    ],
+    "Các bình luận vô danh trên mạng xã hội không có căn cứ khoa học và thiếu độ tin cậy."
+   ],
+   [
+    "Thao tác nào dưới đây giúp em mở một trang web từ danh sách kết quả tìm kiếm?",
+    [
+     "Nhấp chuột vào tiêu đề màu xanh của kết quả đó",
+     "Gõ lại tiêu đề đó vào ô tìm kiếm",
+     "Nhấn phím Delete trên bàn phím",
+     "Kéo thả kết quả đó vào thùng rác"
+    ],
+    "Tiêu đề các kết quả tìm kiếm là đường liên kết, nhấp chuột vào đó sẽ mở ra trang web tương ứng."
+   ],
+   [
+    "Nút lệnh nào trên trang web tìm kiếm thường có biểu tượng hình kính phóng đại (kính lúp)?",
+    [
+     "Nút Tìm kiếm",
+     "Nút Cài đặt",
+     "Nút Chia sẻ",
+     "Nút Đăng nhập"
+    ],
+    "Biểu tượng hình kính lúp đại diện cho chức năng Tìm kiếm trên các trang web."
+   ],
+   [
+    "Sau khi gõ từ khóa vào ô tìm kiếm, em cần nhấn phím nào trên bàn phím để bắt đầu tìm kiếm?",
+    [
+     "Phím Enter",
+     "Phím Space",
+     "Phím Shift",
+     "Phím Caps Lock"
+    ],
+    "Nhấn phím Enter giúp gửi yêu cầu tìm kiếm đến máy tìm kiếm."
+   ],
+   [
+    "Để tìm kiếm thông tin bằng giọng nói trên máy tính hoặc điện thoại, em cần nhấp vào biểu tượng nào?",
+    [
+     "Biểu tượng chiếc micro",
+     "Biểu tượng chiếc loa",
+     "Biểu tượng bàn phím",
+     "Biểu tượng camera"
+    ],
+    "Biểu tượng chiếc micro cho phép em nói từ khóa thay vì gõ chữ."
+   ],
+   [
+    "Các văn bản màu xanh dương có gạch chân trong trang kết quả tìm kiếm được gọi là gì?",
+    [
+     "Liên kết (hay đường dẫn)",
+     "Từ khóa chính",
+     "Tên người tìm kiếm",
+     "Quảng cáo bắt buộc"
+    ],
+    "Các dòng chữ màu xanh dương có gạch chân là các liên kết, nhấp vào đó sẽ mở ra trang web tương ứng."
+   ],
+   [
+    "Mục đích chính của việc chọn lọc thông tin sau khi tìm kiếm là gì?",
+    [
+     "Tìm ra thông tin chính xác, phù hợp và tin cậy nhất",
+     "Xóa bớt các trang web trên Internet",
+     "Tăng tốc độ kết nối mạng Internet",
+     "Để máy tính không bị virus tấn công"
+    ],
+    "Chọn lọc thông tin giúp em lấy được kiến thức đúng đắn và hữu ích, loại bỏ thông tin sai lệch."
+   ],
+   [
+    "Thông tin nào sau đây có độ tin cậy cao nhất khi em tìm hiểu về dịch bệnh?",
+    [
+     "Thông báo từ Cổng thông tin điện tử của Bộ Y tế",
+     "Bài đăng của một tài khoản cá nhân trên mạng xã hội",
+     "Tin đồn truyền miệng từ người lạ",
+     "Bình luận dưới một video giải trí"
+    ],
+    "Thông tin từ cơ quan nhà nước chuyên ngành như Bộ Y tế luôn có độ chính xác và tin cậy cao nhất."
+   ],
+   [
+    "Khi tìm kiếm thông tin, nếu từ khóa quá ngắn hoặc chung chung thì điều gì sẽ xảy ra?",
+    [
+     "Kết quả trả về rất nhiều nhưng không đúng trọng tâm",
+     "Máy tìm kiếm sẽ báo lỗi và không hoạt động",
+     "Trang web tự động tắt máy tính",
+     "Kết quả trả về chỉ toàn là hình ảnh"
+    ],
+    "Từ khóa quá chung chung làm cho máy tìm kiếm đưa ra hàng triệu kết quả đa dạng, khó tìm đúng ý."
+   ],
+   [
+    "Đoạn văn ngắn nằm ngay bên dưới tiêu đề trang web trong kết quả tìm kiếm có tác dụng gì?",
+    [
+     "Mô tả tóm tắt nội dung của trang web đó",
+     "Cho biết giá tiền để xem trang web",
+     "Hiển thị mật khẩu của trang web",
+     "Cung cấp danh sách các từ khóa liên quan"
+    ],
+    "Đoạn tóm tắt giúp người dùng xem nhanh nội dung trang web trước khi quyết định bấm vào."
+   ],
+   [
+    "Khi tìm kiếm thông tin về lịch thi đấu bóng đá, yếu tố nào dưới đây thể hiện thông tin em tìm được đã cũ và không còn hữu ích?",
+    [
+     "Thời gian đăng bài là từ 3 năm trước",
+     "Trang web có nhiều hình ảnh đẹp",
+     "Tên cầu thủ được viết hoa",
+     "Nội dung bài viết ngắn gọn"
+    ],
+    "Thông tin về lịch thi đấu cần mang tính thời sự, bài đăng từ 3 năm trước là thông tin đã cũ."
+   ],
+   [
+    "Muốn tìm các video hướng dẫn làm đồ chơi gấp giấy Origami, em nên chọn tab (thẻ) nào trên trang tìm kiếm?",
+    [
+     "Video",
+     "Hình ảnh",
+     "Tin tức",
+     "Bản đồ"
+    ],
+    "Chuyển sang tab Video sẽ lọc ra các kết quả chỉ bao gồm đoạn phim hướng dẫn."
+   ],
+   [
+    "Vì sao em không nên tin tưởng ngay vào mọi thông tin tìm thấy trên mạng xã hội?",
+    [
+     "Vì ai cũng có thể tự do đăng bài mà không qua kiểm duyệt",
+     "Vì mạng xã hội chỉ chứa các tệp văn bản PDF",
+     "Vì các trang mạng xã hội không có ô tìm kiếm",
+     "Vì mạng xã hội chỉ hoạt động vào ban đêm"
+    ],
+    "Mạng xã hội cho phép người dùng tự do chia sẻ thông tin nên có thể chứa tin đồn hoặc thông tin sai sự thật."
+   ],
+   [
+    "Khi đọc một bài viết trên mạng, chi tiết nào giúp em xác định được tính cập nhật của thông tin?",
+    [
+     "Ngày, tháng, năm xuất bản bài viết",
+     "Số lượng từ trong bài viết",
+     "Màu sắc của nền trang web",
+     "Font chữ được dùng trong bài"
+    ],
+    "Ngày tháng xuất bản giúp em biết thông tin đó mới hay cũ."
+   ],
+   [
+    "Bạn Mai muốn tìm bài hát “Tiến quân ca” dạng tệp âm thanh nghe nhạc, Mai nên chọn mục tìm kiếm nào?",
+    [
+     "Âm thanh (hoặc Audio/Zing MP3)",
+     "Bản đồ",
+     "Sách",
+     "Sản phẩm"
+    ],
+    "Lựa chọn chuyên mục Âm thanh/Audio giúp tìm chính xác các tệp nhạc để nghe."
+   ],
+   [
+    "Nguồn thông tin nào dưới đây thường chứa các thông tin giật gân, thiếu căn cứ nhằm thu hút lượt xem?",
+    [
+     "Các trang mạng tin tức lá cải, trang tin không rõ nguồn gốc",
+     "Website của Báo Thiếu niên Tiền phong",
+     "Trang web của các trường đại học lớn",
+     "Cổng thông tin của Chính phủ"
+    ],
+    "Các trang tin lá cải hay dùng tiêu đề giật gân, thông tin bịa đặt để thu hút người bấm vào xem."
+   ],
+   [
+    "Để đánh giá một thông tin trên mạng có đáng tin hay không, em KHÔNG nên dựa vào tiêu chí nào?",
+    [
+     "Giao diện trang web có nhiều màu sắc sặc sỡ hay không",
+     "Tác giả bài viết là ai, có chuyên môn không",
+     "Thông tin có thời gian xuất bản rõ ràng không",
+     "Nội dung có khớp với thông tin trên báo chính thống không"
+    ],
+    "Màu sắc sặc sỡ chỉ là hình thức trang trí, không phản ánh độ chính xác hay tin cậy của thông tin."
+   ],
+   [
+    "Bạn Nam tìm kiếm thông tin về “Vườn quốc gia Cúc Phương” nhưng lại nhận được trang web giới thiệu tour du lịch giá rẻ. Nam nên làm gì?",
+    [
+     "Quay lại trang kết quả và chọn một liên kết khác phù hợp hơn",
+     "Tiếp tục đọc hết trang web bán tour du lịch đó",
+     "Tắt máy tính và không làm bài tập nữa",
+     "Gửi tin nhắn mắng nhiếc chủ trang web đó"
+    ],
+    "Quay lại danh sách kết quả và chọn đúng trang web cung cấp kiến thức địa lí sẽ giúp Nam hoàn thành bài tập."
+   ],
+   [
+    "Bạn Lan muốn tìm hiểu về tác dụng của vitamin C đối với sức khỏe. Hai trang web đưa ra thông tin trái ngược nhau: một trang nói rất tốt, một trang nói gây hại. Lan nên chọn cách xử lí nào?",
+    [
+     "Tìm thêm thông tin từ website của Y tế hoặc hỏi ý kiến bác sĩ, người lớn",
+     "Tin ngay vào trang web xuất hiện đầu tiên",
+     "Chọn trang web có nhiều hình ảnh đẹp hơn",
+     "Tự đoán xem trang nào đúng theo ý thích của mình"
+    ],
+    "Khi gặp thông tin mâu thuẫn, em cần đối chiếu với các nguồn uy tín hoặc hỏi người có chuyên môn."
+   ],
+   [
+    "Bạn Đức cần tìm thông tin về địa chỉ và đường đi đến “Bảo tàng Dân tộc học Việt Nam”. Đức nên sử dụng tính năng tìm kiếm nào là thuận tiện nhất?",
+    [
+     "Bản đồ (Google Maps)",
+     "Hình ảnh",
+     "Tin tức",
+     "Mua sắm"
+    ],
+    "Tính năng Bản đồ giúp tìm vị trí địa lí, chỉ đường và hiển thị địa chỉ chính xác."
+   ],
+   [
+    "Phương muốn tìm kiếm thông tin về “Lịch sử nhà Trần” để làm báo tường. Sau khi gõ từ khóa, bạn thấy trang web “Chủ đề Lịch sử lớp 5 - Cổng thông tin Bộ Giáo dục và Đào tạo”. Phương có nên sử dụng thông tin này không?",
+    [
+     "Có, vì đây là trang web chính thống của cơ quan giáo dục nên rất tin cậy",
+     "Không, vì bài viết này không có nhiều quảng cáo",
+     "Không, vì thông tin giáo dục thường không chính xác",
+     "Có, nhưng chỉ đọc chứ không thể dùng làm bài"
+    ],
+    "Website của Bộ Giáo dục và Đào tạo là nguồn thông tin chuẩn xác và chuẩn mực dành cho học sinh."
+   ],
+   [
+    "Lớp em đang làm dự án tìm hiểu về các loài động vật quý hiếm ở Việt Nam. Em thu thập được thông tin từ 4 nguồn dưới đây, nguồn nào em nên LOẠI BỎ?",
+    [
+     "Bài viết cá nhân không rõ tác giả trên một diễn đàn game",
+     "Sách Sách Đỏ Việt Nam bản điện tử của Viện Sinh thái",
+     "Bài báo trên Báo Nhân Dân điện tử",
+     "Thông tin từ trang web của Sách Kỷ lục Việt Nam"
+    ],
+    "Bài viết không rõ tác giả trên diễn đàn giải trí có độ tin cậy rất thấp, không nên đưa vào bài nghiên cứu."
+   ]
+  ]
+ }
+}

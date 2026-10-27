@@ -1,0 +1,206 @@
+{
+ "7-toan": {
+  "c10": [
+   [
+    "Hình lăng trụ đứng tam giác có các mặt bên là hình gì?",
+    [
+     "Hình chữ nhật",
+     "Hình tam giác",
+     "Hình vuông",
+     "Hình thang"
+    ],
+    "Các mặt bên của hình lăng trụ đứng tam giác luôn là hình chữ nhật."
+   ],
+   [
+    "Hình hộp chữ nhật có bao nhiêu đỉnh?",
+    [
+     "8 đỉnh",
+     "6 đỉnh",
+     "12 đỉnh",
+     "4 đỉnh"
+    ],
+    "Hình hộp chữ nhật có 8 đỉnh."
+   ],
+   [
+    "Hình lăng trụ đứng tứ giác có các mặt đáy là hình gì?",
+    [
+     "Hình tứ giác",
+     "Hình chữ nhật",
+     "Hình vuông",
+     "Hình tam giác"
+    ],
+    "Hai mặt đáy của hình lăng trụ đứng tứ giác là hình tứ giác."
+   ],
+   [
+    "Hình lập phương có diện tích một mặt là 25 cm². Diện tích toàn phần của hình lập phương đó là:",
+    [
+     "150 cm²",
+     "100 cm²",
+     "125 cm²",
+     "50 cm²"
+    ],
+    "Diện tích toàn phần hình lập phương bằng diện tích một mặt nhân với 6, lấy 25 nhân 6 bằng 150 cm²."
+   ],
+   [
+    "Một hình lăng trụ đứng có chiều cao 10 cm và diện tích đáy 15 cm². Thể tích của hình lăng trụ đó là:",
+    [
+     "150 cm³",
+     "15 cm³",
+     "25 cm³",
+     "75 cm³"
+    ],
+    "Thể tích lăng trụ đứng bằng diện tích đáy nhân chiều cao, lấy 15 nhân 10 bằng 150 cm³."
+   ],
+   [
+    "Hình hộp chữ nhật có chiều dài 7 cm, chiều rộng 4 cm và chiều cao 3 cm. Diện tích xung quanh của hình hộp chữ nhật đó là:",
+    [
+     "66 cm²",
+     "84 cm²",
+     "42 cm²",
+     "132 cm²"
+    ],
+    "Diện tích xung quanh bằng chu vi đáy nhân chiều cao, lấy (7 cộng 4) nhân 2 rồi nhân 3 bằng 66 cm²."
+   ],
+   [
+    "Một chiếc thùng hình lập phương có cạnh 5 dm. Thể tích nước tối đa mà thùng chứa được là:",
+    [
+     "125 dm³",
+     "25 dm³",
+     "150 dm³",
+     "100 dm³"
+    ],
+    "Thể tích hình lập phương bằng cạnh nhân cạnh nhân cạnh, lấy 5 nhân 5 nhân 5 bằng 125 dm³."
+   ],
+   [
+    "Hình lăng trụ đứng tam giác có chiều cao 8 cm và chu vi đáy bằng 12 cm. Diện tích xung quanh của hình lăng trụ đó là:",
+    [
+     "96 cm²",
+     "48 cm²",
+     "20 cm²",
+     "32 cm²"
+    ],
+    "Diện tích xung quanh lăng trụ đứng bằng chu vi đáy nhân chiều cao, lấy 12 nhân 8 bằng 96 cm²."
+   ],
+   [
+    "Một hình hộp chữ nhật có thể tích 120 cm³, chiều dài 6 cm và chiều cao 4 cm. Chiều rộng của hình hộp chữ nhật đó là:",
+    [
+     "5 cm",
+     "10 cm",
+     "20 cm",
+     "2 cm"
+    ],
+    "Chiều rộng bằng thể tích chia cho tích của chiều dài và chiều cao, lấy 120 chia cho (6 nhân 4) bằng 5 cm."
+   ],
+   [
+    "Cho hình lăng trụ đứng tứ giác có đáy là hình vuông cạnh 3 cm, chiều cao 7 cm. Thể tích hình lăng trụ đó là:",
+    [
+     "63 cm³",
+     "42 cm³",
+     "21 cm³",
+     "84 cm³"
+    ],
+    "Diện tích đáy là 3 nhân 3 bằng 9 cm², thể tích là 9 nhân 7 bằng 63 cm³."
+   ],
+   [
+    "Một chiếc hộp đựng quà hình hộp chữ nhật có kích thước chiều dài 15 cm, chiều rộng 10 cm và chiều cao 8 cm. Người ta muốn dán giấy màu toàn bộ các mặt ngoài của hộp (không tính mép dán). Diện tích giấy màu cần dùng là:",
+    [
+     "700 cm²",
+     "350 cm²",
+     "1200 cm²",
+     "600 cm²"
+    ],
+    "Diện tích toàn phần là 2 nhân với (15 nhân 10 cộng 15 nhân 8 cộng 10 nhân 8), kết quả bằng 700 cm²."
+   ],
+   [
+    "Bể cá nhà Nam có dạng hình lăng trụ đứng tam giác với diện tích đáy là 240 cm² và chiều cao bể là 50 cm. Lượng nước đổ đầy bể có thể tích là:",
+    [
+     "12000 cm³",
+     "290 cm³",
+     "6000 cm³",
+     "1200 cm³"
+    ],
+    "Thể tích nước bằng diện tích đáy nhân chiều cao bể, lấy 240 nhân 50 bằng 12000 cm³."
+   ],
+   [
+    "Một khối gỗ hình lập phương có tổng độ dài tất cả các cạnh là 72 cm. Thể tích của khối gỗ đó là:",
+    [
+     "216 cm³",
+     "512 cm³",
+     "36 cm³",
+     "1296 cm³"
+    ],
+    "Hình lập phương có 12 cạnh nên độ dài một cạnh là 72 chia 12 bằng 6 cm. Thể tích là 6 nhân 6 nhân 6 bằng 216 cm³."
+   ],
+   [
+    "Phòng học của lớp 7A có dạng hình hộp chữ nhật với chiều dài 8 m, chiều rộng 6 m và chiều cao 3,5 m. Người ta quét vôi tường xung quanh và trần nhà (bên trong phòng). Biết tổng diện tích các cửa là 12 m². Diện tích cần quét vôi là:",
+    [
+     "134 m²",
+     "146 m²",
+     "96 m²",
+     "158 m²"
+    ],
+    "Diện tích xung quanh là 2 nhân (8 cộng 6) nhân 3,5 bằng 98 m². Diện tích trần là 8 nhân 6 bằng 48 m². Tổng diện tích quét vôi trừ đi cửa là 98 cộng 48 trừ 12 bằng 134 m²."
+   ],
+   [
+    "Một xà gồ gỗ có dạng hình lăng trụ đứng tam giác có chiều dài 4 m, hai cạnh góc vuông của đáy tam giác là 0,3 m và 0,4 m, cạnh huyền là 0,5 m. Thể tích của thanh xà gồ gỗ đó là:",
+    [
+     "0,24 m³",
+     "0,30 m³",
+     "0,48 m³",
+     "0,60 m³"
+    ],
+    "Diện tích đáy tam giác vuông là 0,5 nhân 0,3 nhân 0,4 bằng 0,06 m². Thể tích là 0,06 nhân 4 bằng 0,24 m³."
+   ],
+   [
+    "Hình lăng trụ đứng tứ giác có các mặt bên là hình gì?",
+    [
+     "Hình chữ nhật",
+     "Hình vuông",
+     "Hình bình hành",
+     "Hình thang"
+    ],
+    "Theo tính chất của hình lăng trụ đứng, các mặt bên của nó luôn là các hình chữ nhật."
+   ],
+   [
+    "Cho hình lăng trụ đứng tam giác có diện tích đáy bằng 10 cm² và thể tích bằng 70 cm³. Chiều cao của hình lăng trụ đó là:",
+    [
+     "7 cm",
+     "60 cm",
+     "700 cm",
+     "14 cm"
+    ],
+    "Thể tích hình lăng trụ đứng bằng diện tích đáy nhân với chiều cao, nên chiều cao bằng 70 chia cho 10 bằng 7 cm."
+   ],
+   [
+    "Một bể kính nuôi cá có dạng hình hộp chữ nhật với chiều dài 50 cm, chiều rộng 30 cm và chiều cao 40 cm. Thể tích nước tối đa mà bể có thể chứa là:",
+    [
+     "60000 cm³",
+     "12000 cm³",
+     "24000 cm³",
+     "48000 cm³"
+    ],
+    "Thể tích hình hộp chữ nhật tính bằng tích ba kích thước: 50 nhân 30 nhân 40 bằng 60000 cm³."
+   ],
+   [
+    "Hình lập phương có tổng diện tích các mặt là 150 cm². Diện tích của một mặt hình lập phương đó là:",
+    [
+     "25 cm²",
+     "30 cm²",
+     "50 cm²",
+     "75 cm²"
+    ],
+    "Hình lập phương có 6 mặt bằng nhau, nên diện tích một mặt bằng tổng diện tích các mặt chia cho 6, tức là 150 chia cho 6 bằng 25 cm²."
+   ],
+   [
+    "Một khối gỗ dạng hình hộp chữ nhật có diện tích xung quanh 140 cm², chiều cao 5 cm và chiều dài 9 cm. Chiều rộng của khối gỗ đó là:",
+    [
+     "5 cm",
+     "14 cm",
+     "28 cm",
+     "4 cm"
+    ],
+    "Diện tích xung quanh bằng chu vi đáy nhân chiều cao. Chu vi đáy là 140 chia cho 5 bằng 28 cm. Nửa chu vi đáy là 14 cm, suy ra chiều rộng bằng 14 trừ 9 bằng 5 cm."
+   ]
+  ]
+ }
+}

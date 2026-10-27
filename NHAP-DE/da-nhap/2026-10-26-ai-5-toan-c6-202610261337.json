@@ -1,0 +1,406 @@
+{
+ "5-toan": {
+  "c6": [
+   [
+    "Hình hộp chữ nhật có bao nhiêu mặt?",
+    [
+     "6 mặt",
+     "8 mặt",
+     "12 mặt",
+     "4 mặt"
+    ],
+    "Hình hộp chữ nhật luôn có 6 mặt phẳng, gồm 2 mặt đáy và 4 mặt bên."
+   ],
+   [
+    "Hình lập phương khác hình hộp chữ nhật ở điểm nào dưới đây?",
+    [
+     "Hình lập phương có 6 mặt là các hình vuông bằng nhau",
+     "Hình lập phương có 12 cạnh",
+     "Hình lập phương có 8 đỉnh",
+     "Hình lập phương có các mặt đều là hình chữ nhật"
+    ],
+    "Điểm khác biệt là hình lập phương có tất cả các mặt đều là hình vuông bằng nhau."
+   ],
+   [
+    "Công thức tính thể tích hình hộp chữ nhật với chiều dài a, chiều rộng b, chiều cao c (cùng đơn vị đo) là gì?",
+    [
+     "V = a nhân b nhân c",
+     "V = a cộng b nhân 2 nhân c",
+     "V = a nhân b cộng c",
+     "V = (a cộng b) nhân c"
+    ],
+    "Thể tích hình hộp chữ nhật bằng chiều dài nhân với chiều rộng rồi nhân với chiều cao."
+   ],
+   [
+    "Thể tích của hình lập phương có cạnh 5 cm là bao nhiêu?",
+    [
+     "125 cm3",
+     "15 cm3",
+     "25 cm3",
+     "75 cm3"
+    ],
+    "Thể tích hình lập phương là 5 nhân 5 nhân 5 bằng 125 cm3."
+   ],
+   [
+    "Một hình hộp chữ nhật có chiều dài 6 cm, chiều rộng 4 cm và chiều cao 3 cm. Thể tích của hình đó là:",
+    [
+     "72 cm3",
+     "13 cm3",
+     "26 cm3",
+     "52 cm3"
+    ],
+    "Thể tích là 6 nhân 4 nhân 3 bằng 72 cm3."
+   ],
+   [
+    "Đơn vị nào dưới đây dùng để đo thể tích?",
+    [
+     "dm3",
+     "dm2",
+     "dm",
+     "kg"
+    ],
+    "Đơn vị đo thể tích có số 3 ở trên, ví dụ dm3."
+   ],
+   [
+    "Hình lập phương có thể tích 64 cm3 thì độ dài cạnh của nó là bao nhiêu?",
+    [
+     "4 cm",
+     "8 cm",
+     "16 cm",
+     "32 cm"
+    ],
+    "Vì 4 nhân 4 nhân 4 bằng 64 nên cạnh hình lập phương là 4 cm."
+   ],
+   [
+    "Một bể cá hình hộp chữ nhật có chiều dài 50 cm, chiều rộng 30 cm và chiều cao 40 cm. Thể tích nước tối đa bể chứa được là:",
+    [
+     "60000 cm3",
+     "12000 cm3",
+     "3600 cm3",
+     "24000 cm3"
+    ],
+    "Thể tích bằng 50 nhân 30 nhân 40 bằng 60000 cm3."
+   ],
+   [
+    "Đổi 2 dm3 ra mét khối ta được kết quả là:",
+    [
+     "0,002 m3",
+     "0,2 m3",
+     "2000 m3",
+     "20 m3"
+    ],
+    "Mỗi đơn vị đo thể tích hơn kém nhau 1000 lần, đổi từ nhỏ sang lớn ta chia cho 1000."
+   ],
+   [
+    "Thể tích hình hộp chữ nhật có diện tích đáy 24 cm2 và chiều cao 5 cm là:",
+    [
+     "120 cm3",
+     "29 cm3",
+     "58 cm3",
+     "96 cm3"
+    ],
+    "Thể tích bằng diện tích đáy nhân với chiều cao, lấy 24 nhân 5 bằng 120 cm3."
+   ],
+   [
+    "Một khối gỗ hình lập phương có cạnh 10 cm. Người ta cắt đi một phần có thể tích 200 cm3. Thể tích phần gỗ còn lại là:",
+    [
+     "800 cm3",
+     "1000 cm3",
+     "1200 cm3",
+     "200 cm3"
+    ],
+    "Thể tích ban đầu là 10 nhân 10 nhân 10 bằng 1000 cm3, trừ đi 200 cm3 còn 800 cm3."
+   ],
+   [
+    "Nếu gấp chiều dài của hình hộp chữ nhật lên 2 lần, chiều rộng lên 2 lần và giữ nguyên chiều cao thì thể tích hình hộp chữ nhật sẽ tăng lên mấy lần?",
+    [
+     "4 lần",
+     "2 lần",
+     "8 lần",
+     "6 lần"
+    ],
+    "Thể tích tăng số lần là 2 nhân 2 bằng 4 lần."
+   ],
+   [
+    "Một hình hộp chữ nhật có thể tích 180 dm3, diện tích đáy là 30 dm2. Chiều cao của hình hộp chữ nhật đó là:",
+    [
+     "6 dm",
+     "150 dm",
+     "210 dm",
+     "540 dm"
+    ],
+    "Chiều cao bằng thể tích chia diện tích đáy, lấy 180 chia 30 bằng 6 dm."
+   ],
+   [
+    "Viết số thích hợp vào chỗ chấm: 3,5 m3 = ... dm3.",
+    [
+     "3500 dm3",
+     "35 dm3",
+     "350 dm3",
+     "0,0035 dm3"
+    ],
+    "1 m3 bằng 1000 dm3 nên lấy 3,5 nhân 1000 bằng 3500 dm3."
+   ],
+   [
+    "Chọn câu phát biểu đúng nhất về hình lập phương:",
+    [
+     "Hình lập phương có 12 cạnh bằng nhau",
+     "Hình lập phương có 6 mặt hình chữ nhật",
+     "Hình lập phương có 4 góc vuông ở đáy",
+     "Hình lập phương có các cạnh dài ngắn khác nhau"
+    ],
+    "Hình lập phương là trường hợp đặc biệt có 12 cạnh đều bằng nhau."
+   ],
+   [
+    "Xếp các hình lập phương nhỏ cạnh 1 cm vào một hộp hình hộp chữ nhật kích thước 4 cm, 3 cm, 2 cm thì cần bao nhiêu hình lập phương nhỏ để đầy hộp?",
+    [
+     "24 hình",
+     "9 hình",
+     "12 hình",
+     "48 hình"
+    ],
+    "Số hình cần dùng bằng thể tích hộp, lấy 4 nhân 3 nhân 2 bằng 24 hình."
+   ],
+   [
+    "Một chiếc thùng đựng hàng hình lập phương có cạnh 1,2 m. Thể tích của chiếc thùng đó là:",
+    [
+     "1,728 m3",
+     "1,44 m3",
+     "3,6 m3",
+     "4,32 m3"
+    ],
+    "Thể tích là 1,2 nhân 1,2 nhân 1,2 bằng 1,728 m3."
+   ],
+   [
+    "Có hai hình lập phương: hình A có cạnh 2 cm, hình B có cạnh 4 cm. Thể tích hình B gấp mấy lần thể tích hình A?",
+    [
+     "8 lần",
+     "2 lần",
+     "4 lần",
+     "16 lần"
+    ],
+    "Thể tích hình A là 8 cm3, thể tích hình B là 64 cm3. Lấy 64 chia 8 bằng 8 lần."
+   ],
+   [
+    "Một bể nước hình hộp chữ nhật có thể tích 2,4 m3. Phần nước trong bể chiếm 3/4 thể tích bể. Thể tích nước trong bể là:",
+    [
+     "1,8 m3",
+     "0,6 m3",
+     "3,2 m3",
+     "1,6 m3"
+    ],
+    "Thể tích nước là 2,4 nhân 3 chia 4 bằng 1,8 m3."
+   ],
+   [
+    "Hình hộp chữ nhật có bao nhiêu đỉnh và bao nhiêu cạnh?",
+    [
+     "8 đỉnh và 12 cạnh",
+     "6 đỉnh và 12 cạnh",
+     "12 đỉnh và 8 cạnh",
+     "8 đỉnh và 6 cạnh"
+    ],
+    "Hình hộp chữ nhật có 8 đỉnh, 12 cạnh và 6 mặt."
+   ],
+   [
+    "Các mặt của hình lập phương đều là hình gì?",
+    [
+     "Hình vuông bằng nhau",
+     "Hình chữ nhật bằng nhau",
+     "Hình tam giác đều",
+     "Hình thoi bằng nhau"
+    ],
+    "Hình lập phương là hình hộp chữ nhật đặc biệt có 6 mặt đều là các hình vuông bằng nhau."
+   ],
+   [
+    "Kí hiệu dm³ đọc là gì?",
+    [
+     "Đề-xi-mét khối",
+     "Đề-ca-mét khối",
+     "Mét khối",
+     "Xăng-ti-mét khối"
+    ],
+    "Kí hiệu dm³ đọc là đề-xi-mét khối."
+   ],
+   [
+    "Công thức tính thể tích V của hình lập phương có cạnh a là gì?",
+    [
+     "V = a × a × a",
+     "V = a × a × 4",
+     "V = a × a × 6",
+     "V = a × 4 × 6"
+    ],
+    "Thể tích hình lập phương bằng cạnh nhân với cạnh rồi nhân với cạnh: V = a × a × a."
+   ],
+   [
+    "Trong các đơn vị đo thể tích sau, đơn vị nào lớn nhất?",
+    [
+     "m³",
+     "dm³",
+     "cm³",
+     "mm³"
+    ],
+    "Theo thứ tự từ lớn đến bé: m³ > dm³ > cm³ > mm³."
+   ],
+   [
+    "Hình hộp chữ nhật có tất cả bao nhiêu đường chéo nối các đỉnh đối diện?",
+    [
+     "4 đường chéo",
+     "2 đường chéo",
+     "6 đường chéo",
+     "8 đường chéo"
+    ],
+    "Hình hộp chữ nhật có 4 đường chéo nối các cặp đỉnh đối diện nhau."
+   ],
+   [
+    "Một mét khối bằng bao nhiêu đề-xi-mét khối?",
+    [
+     "1000 dm³",
+     "100 dm³",
+     "10 dm³",
+     "10000 dm³"
+    ],
+    "Hai đơn vị đo thể tích liền nhau kém nhau 1000 lần, nên 1 m³ = 1000 dm³."
+   ],
+   [
+    "Số thích hợp để điền vào chỗ chấm 4500 cm³ = ... dm³ là:",
+    [
+     "4,5",
+     "45",
+     "0,45",
+     "450"
+    ],
+    "Vì 1 dm³ = 1000 cm³ nên 4500 cm³ = 4500 : 1000 = 4,5 dm³."
+   ],
+   [
+    "Một hình hộp chữ nhật có chiều dài 8 cm, chiều rộng 5 cm và chiều cao 6 cm. Thể tích của hình đó là:",
+    [
+     "240 cm³",
+     "120 cm³",
+     "80 cm³",
+     "190 cm³"
+    ],
+    "Thể tích hình hộp chữ nhật là: 8 × 5 × 6 = 240 cm³."
+   ],
+   [
+    "Thể tích của một hình lập phương có cạnh 3 dm là:",
+    [
+     "27 dm³",
+     "9 dm³",
+     "18 dm³",
+     "54 dm³"
+    ],
+    "Thể tích hình lập phương là: 3 × 3 × 3 = 27 dm³."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 0,8 m³ ... 800 dm³.",
+    [
+     "=",
+     ">",
+     "<",
+     "Không so sánh được"
+    ],
+    "Ta có 0,8 m³ = 0,8 × 1000 = 800 dm³, vậy dấu cần điền là dấu =."
+   ],
+   [
+    "Một khối bê tông hình hộp chữ nhật có diện tích đáy 1,5 m² và chiều cao 0,8 m. Thể tích khối bê tông đó là:",
+    [
+     "1,2 m³",
+     "2,3 m³",
+     "12 m³",
+     "0,7 m³"
+    ],
+    "Thể tích hình hộp chữ nhật bằng diện tích đáy nhân chiều cao: 1,5 × 0,8 = 1,2 m³."
+   ],
+   [
+    "Kết quả của phép tính 2,5 m³ + 350 dm³ theo đơn vị m³ là:",
+    [
+     "2,85 m³",
+     "6 m³",
+     "2,35 m³",
+     "28,5 m³"
+    ],
+    "Đổi 350 dm³ = 0,35 m³. Thực hiện phép tính: 2,5 + 0,35 = 2,85 m³."
+   ],
+   [
+    "Một bể nước dạng hình hộp chữ nhật chứa được tối đa 3000 lít nước. Biết 1 lít = 1 dm³. Thể tích của bể nước đó theo đơn vị m³ là:",
+    [
+     "3 m³",
+     "30 m³",
+     "300 m³",
+     "0,3 m³"
+    ],
+    "3000 lít = 3000 dm³. Đổi 3000 dm³ = 3 m³."
+   ],
+   [
+    "Nếu độ dài cạnh của một hình lập phương tăng lên 3 lần thì thể tích của hình lập phương đó tăng lên mấy lần?",
+    [
+     "27 lần",
+     "3 lần",
+     "9 lần",
+     "6 lần"
+    ],
+    "Thể tích mới bằng (a × 3) × (a × 3) × (a × 3) = (a × a × a) × 27, tức là tăng lên 27 lần."
+   ],
+   [
+    "Một chiếc bể cá hình hộp chữ nhật có thể tích 120 dm³, chiều dài 6 dm, chiều rộng 5 dm. Chiều cao của bể cá đó là:",
+    [
+     "4 dm",
+     "20 dm",
+     "2 dm",
+     "5 dm"
+    ],
+    "Diện tích đáy là: 6 × 5 = 30 dm². Chiều cao của bể cá là: 120 : 30 = 4 dm."
+   ],
+   [
+    "Bác An làm một hòn hòn bộ rồi thả vào bể cá dạng hình hộp chữ nhật chứa nước. Khi thả hòn bộ vào, mức nước trong bể dâng cao thêm 2 cm. Biết đáy bể có chiều dài 80 cm, chiều rộng 50 cm. Thể tích hòn bộ là:",
+    [
+     "8000 cm³",
+     "800 cm³",
+     "4000 cm³",
+     "16000 cm³"
+    ],
+    "Thể tích hòn bộ chính bằng thể tích nước dâng lên: 80 × 50 × 2 = 8000 cm³."
+   ],
+   [
+    "Một bao cát dạng hình hộp chữ nhật có chiều dài 0,5 m, chiều rộng 0,4 m và chiều cao 0,3 m. Biết 1 m³ cát nặng 1500 kg. Hỏi bao cát đó nặng bao nhiêu ki-lô-gam?",
+    [
+     "90 kg",
+     "60 kg",
+     "150 kg",
+     "900 kg"
+    ],
+    "Thể tích bao cát là: 0,5 × 0,4 × 0,3 = 0,06 m³. Bao cát nặng: 0,06 × 1500 = 90 kg."
+   ],
+   [
+    "Người ta xếp các khối gỗ hình lập phương nhỏ cạnh 1 cm thành một hình lập phương lớn có cạnh 4 cm. Sau đó sơn đỏ tất cả các mặt của hình lập phương lớn. Hỏi có bao nhiêu khối gỗ nhỏ không được sơn mặt nào?",
+    [
+     "8 khối",
+     "16 khối",
+     "24 khối",
+     "64 khối"
+    ],
+    "Các khối không được sơn mặt nào nằm ở bên trong, tạo thành hình lập phương có cạnh là 4 - 2 = 2 cm. Số khối là: 2 × 2 × 2 = 8 khối."
+   ],
+   [
+    "Một chiếc thùng hình lập phương cạnh 1 m đang chứa đầy nước. Người ta múc nước từ thùng đó đổ vào một bể trống hình hộp chữ nhật có chiều dài 1,2 m, chiều rộng 1 m và chiều cao 0,8 m. Hỏi nước trong bể dâng cao bao nhiêu mét? (Giả thiết nước không bị tràn ra ngoài).",
+    [
+     "0,8 m",
+     "1 m",
+     "0,6 m",
+     "0,5 m"
+    ],
+    "Thể tích nước trong thùng là 1 × 1 × 1 = 1 m³. Bể có thể chứa tối đa 1,2 × 1 × 0,8 = 0,96 m³ nước, do đó khi đổ hết 1 m³ nước vào bể thì nước bị tràn và chiều cao mực nước bằng đúng chiều cao của bể là 0,8 m."
+   ],
+   [
+    "Hình lập phương có đặc điểm nào dưới đây về các mặt của nó?",
+    [
+     "Gồm 6 mặt đều là các hình vuông bằng nhau",
+     "Gồm 6 mặt là các hình chữ nhật bằng nhau",
+     "Gồm 2 mặt đáy là hình vuông và 4 mặt bên là hình chữ nhật",
+     "Gồm 4 mặt bên là hình vuông và 2 mặt đáy là hình chữ nhật"
+    ],
+    "Hình lập phương có 6 mặt đều là hình vuông bằng nhau."
+   ]
+  ]
+ }
+}

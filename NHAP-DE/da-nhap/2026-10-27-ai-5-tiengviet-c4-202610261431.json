@@ -1,0 +1,406 @@
+{
+ "5-tiengviet": {
+  "c4": [
+   [
+    "Câu nào dưới đây là câu ghép?",
+    [
+     "Mặt trời mọc và sương mù tan dần.",
+     "Những bông hoa hồng khoe sắc thắm trong vườn.",
+     "Đàn cò trắng bay lượn trên cánh đồng lúa chín.",
+     "Bầu trời mùa thu cao và trong xanh."
+    ],
+    "Câu này có hai vế câu: vế 1 'Mặt trời mọc', vế 2 'sương mù tan dần' do quan hệ từ 'và' nối, cấu tạo từ hai cụm chủ - vị độc lập."
+   ],
+   [
+    "Dòng nào nêu đúng định nghĩa về câu ghép?",
+    [
+     "Câu do nhiều vế câu ghép lại, mỗi vế thường có cấu tạo chủ - vị.",
+     "Câu chỉ có một cụm chủ - vị làm nòng cốt.",
+     "Câu được cấu tạo bởi một từ đơn và nhiều từ phức.",
+     "Câu không có chủ ngữ nhưng có vị ngữ chỉ hoạt động."
+    ],
+    "Câu ghép là câu do nhiều vế câu ghép lại, mỗi vế câu thường có cấu tạo một cụm chủ - vị thể hiện một ý có quan hệ chặt chẽ với nhau."
+   ],
+   [
+    "Trong câu 'Trời mưa to nên đường trơn trượt.', hai vế câu được nối với nhau bằng cách nào?",
+    [
+     "Dùng quan hệ từ.",
+     "Dùng dấu phẩy trực tiếp.",
+     "Dùng cặp từ hô ứng.",
+     "Dùng đại từ thay thế."
+    ],
+    "Hai vế câu được nối với nhau bằng quan hệ từ 'nên' thể hiện quan hệ nguyên nhân - kết quả."
+   ],
+   [
+    "Câu nào dưới đây KHÔNG phải là câu ghép?",
+    [
+     "Gió thổi lồng lộng và làm mát dịu cả buổi chiều hè.",
+     "Trời chưa sáng nhưng bác nông dân đã ra đồng.",
+     "Hễ em chăm chỉ thì kết quả học tập sẽ tiến bộ.",
+     "Mưa rạt rạt, gió thổi ào ào."
+    ],
+    "Đây là câu đơn có một chủ ngữ 'Gió' và có vị ngữ mở rộng gồm hai cụm từ 'thổi lồng lộng' và 'làm mát dịu...' được nối bằng 'và'."
+   ],
+   [
+    "Xác định các vế câu trong câu ghép: 'Tuy hoàn cảnh khó khăn nhưng bạn Nam vẫn đạt danh hiệu học sinh xuất sắc.'",
+    [
+     "Vế 1: Hoàn cảnh khó khăn; Vế 2: Bạn Nam vẫn đạt danh hiệu học sinh xuất sắc.",
+     "Vế 1: Tuy hoàn cảnh khó khăn; Vế 2: nhưng bạn Nam vẫn đạt danh hiệu.",
+     "Vế 1: Hoàn cảnh; Vế 2: Bạn Nam vẫn đạt danh hiệu học sinh xuất sắc.",
+     "Vế 1: Tuy hoàn cảnh khó khăn nhưng; Vế 2: bạn Nam vẫn đạt danh hiệu học sinh xuất sắc."
+    ],
+    "Vế thứ nhất có chủ - vị là 'hoàn cảnh / khó khăn', vế thứ hai có chủ - vị là 'bạn Nam / vẫn đạt danh hiệu học sinh xuất sắc'."
+   ],
+   [
+    "Cặp quan hệ từ trong câu 'Chẳng những em ngoan ngoãn mà em còn học rất giỏi.' biểu thị quan hệ gì?",
+    [
+     "Quan hệ tăng tiến.",
+     "Quan hệ nguyên nhân - kết quả.",
+     "Quan hệ giả thiết - kết quả.",
+     "Quan hệ tương phản."
+    ],
+    "Cặp quan hệ từ 'chẳng những... mà... còn' dùng để biểu thị quan hệ tăng tiến giữa các vế câu."
+   ],
+   [
+    "Để nối hai vế câu có quan hệ tương phản, ta có thể dùng cặp quan hệ từ nào?",
+    [
+     "Tuy... nhưng...",
+     "Vì... nên...",
+     "Nếu... thì...",
+     "Chẳng những... mà..."
+    ],
+    "Cặp quan hệ từ 'tuy... nhưng...' chuyên dùng để biểu thị quan hệ tương phản giữa các vế trong câu ghép."
+   ],
+   [
+    "Điền cặp quan hệ từ thích hợp vào chỗ trống: '... em hoàn thành bài tập về nhà, ... cô giáo sẽ biểu dương em.'",
+    [
+     "Nếu... thì...",
+     "Tuy... nhưng...",
+     "Vì... nên...",
+     "Không những... mà..."
+    ],
+    "Hai vế câu thể hiện điều kiện (giả thiết) và kết quả nên ta dùng cặp quan hệ từ 'nếu... thì...'."
+   ],
+   [
+    "Câu ghép nào dưới đây thể hiện quan hệ nguyên nhân - kết quả?",
+    [
+     "Vì các bạn giữ vệ sinh chung nên lớp học luôn sạch sẽ.",
+     "Dù trời nắng gắt nhưng nông dân vẫn miệt mài ngoài đồng.",
+     "Nếu ngày mai trời đẹp thì chúng ta sẽ đi cắm trại.",
+     "Chẳng những gió thổi mạnh mà trời còn đổ mưa giông."
+    ],
+    "Câu này sử dụng cặp quan hệ từ 'vì... nên...' để chỉ rõ nguyên nhân ở vế một và kết quả ở vế hai."
+   ],
+   [
+    "Trong câu ghép 'Hoa hồng nở rộ, hương thơm ngào ngạt lan tỏa khắp khu vườn.', các vế câu được nối với nhau bằng cách nào?",
+    [
+     "Dùng dấu phẩy.",
+     "Dùng quan hệ từ.",
+     "Dùng cặp từ hô ứng.",
+     "Dùng dấu hai chấm."
+    ],
+    "Hai vế câu 'Hoa hồng nở rộ' và 'hương thơm ngào ngạt lan tỏa khắp khu vườn' được nối trực tiếp với nhau bằng dấu phẩy."
+   ],
+   [
+    "Tìm vế câu thích hợp để điền vào chỗ trống tạo thành câu ghép chỉ quan hệ tương phản: 'Mặc dù mùa đông năm nay rất lạnh, ...'",
+    [
+     "... những chú chim vẫn bay lượn trên bầu trời và cây cối vẫn đâm chồi nảy lộc.",
+     "... nên em phải mặc áo ấm khi đi học.",
+     "... thì chúng em sẽ được nghỉ học.",
+     "... và em rất thích chơi đùa ngoài trời."
+    ],
+    "Vế thứ hai phải nêu một sự việc trái ngược với sự việc ở vế một (lạnh nhưng cây cối vẫn đâm chồi hoặc chim vẫn bay)."
+   ],
+   [
+    "Xác định chủ ngữ của vế câu thứ hai trong câu ghép: 'Mặt trời vừa lên, sương mù trên núi tan biến.'",
+    [
+     "Sương mù trên núi",
+     "Sương mù",
+     "Mặt trời",
+     "Tan biến"
+    ],
+    "Vế câu thứ hai là 'sương mù trên núi tan biến', trong đó 'sương mù trên núi' là bộ phận đóng vai trò làm chủ ngữ."
+   ],
+   [
+    "Cặp từ hô ứng nào dưới đây thường được dùng để nối các vế câu ghép?",
+    [
+     "Vừa... đã...",
+     "Vì... nên...",
+     "Tuy... nhưng...",
+     "Nếu... thì..."
+    ],
+    "Các cặp từ như 'vừa... đã...', 'chưa... đã...', 'đâu... đấy...' là các cặp từ hô ứng dùng để nối trực tiếp các vế câu ghép."
+   ],
+   [
+    "Câu ghép nào dưới đây sử dụng sai quan hệ từ hoặc cặp quan hệ từ?",
+    [
+     "Tuy trời rất rét nhưng bạn Mai vẫn mặc rất phong phanh đi học.",
+     "Vì chăm chỉ luyện tập nên đội bóng đã giành cúp vô địch.",
+     "Nếu em tập trung nghe giảng thì em sẽ hiểu bài ngay.",
+     "Chẳng những trời đổ mưa to mà đường phố còn bị ngập nước."
+    ],
+    "Trời rét thì phải mặc áo ấm, dùng từ 'phong phanh' là không hợp nghĩa thực tế và logic trong ngữ cảnh giao tiếp thông thường."
+   ],
+   [
+    "Thêm một vế câu vào chỗ trống để tạo thành câu ghép hoàn chỉnh: 'Trời đổ mưa rào, ...'",
+    [
+     "... cây cối trong vườn như được tắm mát.",
+     "... nên cây cối tươi tỉnh hẳn lên.",
+     "... vì cây cối rất khát nước.",
+     "... và làm cho cây cối tươi tỉnh."
+    ],
+    "Vì vế đầu dùng dấu phẩy nối trực tiếp, vế sau cần là một cụm chủ - vị độc lập có quan hệ ý nghĩa phù hợp, ví dụ 'cây cối trong vườn như được tắm mát'."
+   ],
+   [
+    "Phân tích cấu tạo câu: 'Gió càng thổi mạnh, lửa trong bếp càng bùng cháy.' Cho biết đây là câu gì và sử dụng cặp từ nào?",
+    [
+     "Câu ghép, sử dụng cặp từ hô ứng 'càng... càng...'.",
+     "Câu đơn, sử dụng cặp quan hệ từ tăng tiến.",
+     "Câu ghép, sử dụng cặp quan hệ từ nguyên nhân - kết quả.",
+     "Câu đơn mở rộng thành phần trạng ngữ."
+    ],
+    "Câu này có hai vế cấu tạo chủ - vị, sử dụng cặp từ hô ứng 'càng... càng...' để chỉ mức độ tăng tiến đồng thời của hai sự việc."
+   ],
+   [
+    "Trong các câu sau, câu nào là câu ghép có quan hệ điều kiện - kết quả (giả thiết - kết quả)?",
+    [
+     "Hễ em hoàn thành tốt nhiệm vụ thì lớp mình sẽ giành điểm thi đua cao.",
+     "Vì em hoàn thành tốt nhiệm vụ nên lớp mình giành điểm thi đua cao.",
+     "Tuy em hoàn thành tốt nhiệm vụ nhưng lớp mình chưa đạt điểm cao.",
+     "Em hoàn thành tốt nhiệm vụ và lớp mình giành điểm thi đua cao."
+    ],
+    "Câu sử dụng cặp quan hệ từ 'hễ... thì...' biểu thị rõ quan hệ điều kiện (giả thiết) và kết quả."
+   ],
+   [
+    "Xác định số lượng vế câu trong câu ghép sau: 'Mùa xuân đến, hoa mai nở vàng rực, chim chóc hót líu lo trên cành.'",
+    [
+     "3 vế câu",
+     "2 vế câu",
+     "4 vế câu",
+     "1 vế câu"
+    ],
+    "Câu gồm 3 vế câu ngăn cách nhau bằng dấu phẩy: Vế 1 'Mùa xuân đến', Vế 2 'hoa mai nở vàng rực', Vế 3 'chim chóc hót líu lo trên cành'."
+   ],
+   [
+    "Biến đổi câu đơn sau thành câu ghép bằng cách thêm một vế câu phù hợp: 'Em rất thích đọc sách.'",
+    [
+     "Em rất thích đọc sách và mẹ vừa mua cho em một cuốn truyện hay.",
+     "Em rất thích đọc sách khoa học trong thư viện trường.",
+     "Em rất thích đọc sách cùng các bạn trong giờ ra chơi.",
+     "Em và các bạn cùng nhau đọc sách ở góc thư viện."
+    ],
+    "Phương án đầu tiên tạo ra một câu ghép gồm hai vế có chủ - vị rõ ràng nối bằng quan hệ từ 'và', các phương án còn lại chỉ là câu đơn có thành phần được mở rộng."
+   ],
+   [
+    "Em hãy nhận xét về câu văn sau: 'Bởi vì chú bé dũng cảm.' Đây là loại câu gì?",
+    [
+     "Đây là một câu chưa hoàn chỉnh (thiếu vế kết quả), không phải là câu ghép hoàn chỉnh.",
+     "Đây là một câu ghép đúng cấu trúc nguyên nhân - kết quả.",
+     "Đây là câu đơn có trạng ngữ chỉ nguyên nhân.",
+     "Đây là câu hỏi tu từ rất hay."
+    ],
+    "Câu này mới chỉ có vế chỉ nguyên nhân bắt đầu bằng 'bởi vì' nhưng chưa có vế chỉ kết quả đi kèm nên chưa phải là một câu ghép trọn vẹn ý nghĩa."
+   ],
+   [
+    "Cau nao duoi day co cau tao gom hai ve cau?",
+    [
+     "Mua ve, nhung con chim en lai bay di phuong Nam.",
+     "Tieng mua roi tap te tren mai la.",
+     "Nhung canh hoa phuong do ruc trong nang he.",
+     "Con meo muop nam suoi nang truoc san nha."
+    ],
+    "Day la cau ghép co hai ve cau noi voi nhau bang quan he tu nhung."
+   ],
+   [
+    "Trong cau “Mặt trời lặn, màn đêm buông xuống.”, hai vế câu được nối với nhau bằng cách nào?",
+    [
+     "Dung dau phay de noi truc tiep.",
+     "Dung quan he tu.",
+     "Dung cap quan hệ từ.",
+     "Dung cap tu ho ung."
+    ],
+    "Hai vế câu trong câu được ngăn cách trực tiếp với nhau chỉ bằng dấu phẩy."
+   ],
+   [
+    "Dòng nào dưới đây nêu đúng đặc điểm của câu ghép?",
+    [
+     "La cau do nhieu vế cau gop lai, moi ve cau thuong co cau tao giong mot cau don.",
+     "La cau chi co mot cum chu - vi lam nong cot.",
+     "La cau chi gom mot ve cau duy nhat.",
+     "La cau khong the tach roi cac bo phận trong câu."
+    ],
+    "Câu ghép là câu do từ hai vế câu trở lên ghép lại, mỗi vế thường có cấu tạo chủ ngữ - vị ngữ."
+   ],
+   [
+    "Cau nao duoi day la cau ghep chi quan he nguyen nhan - ket qua?",
+    [
+     "Vi troi mua rat to nen duong ngap lut.",
+     "Neu em cham chi hoc tap thi ket qua se tot hon.",
+     "Tuy troi ret buot nhung cac ban van den lop deu.",
+     "Chua den tet ma hoa dao da no ro."
+    ],
+    "Cau dung cap quan he tu Vi - nen de chi nguyen nhan va ket qua."
+   ],
+   [
+    "Xac dinh chu ngu cua ve cau thuong trong cau ghep: “Gios thoi vut vut, cay coi nga nghieng.”",
+    [
+     "Cay coi",
+     "Gios",
+     "Thoi vut vut",
+     "Nga nghieng"
+    ],
+    "Ve thu hai la Cay coi nga nghieng, chu ngu la Cay coi."
+   ],
+   [
+    "Them vế câu nào vào chỗ trống để được câu ghép chỉ quan hệ điều kiện - kết quả: “... thì chúng em se co gang hon nua.”",
+    [
+     "Neu co giao nhac nho chung em",
+     "Mac du co giao nhac nho chung em",
+     "Vi co giao nhac nho chung em",
+     "Tuy co giao nhac nho chung em"
+    ],
+    "Cap quan he Neu - thi bieu thi quan he dieu kien - ket qua."
+   ],
+   [
+    "Cau ghep nao duoi day co dung cap tu ho ung?",
+    [
+     "Mua cang to, gio cang thoi manh.",
+     "Mua to nen duong tron.",
+     "Neu mua to thi duong tron.",
+     "Tuy mua to nhung duong khong tron."
+    ],
+    "Cau su dung cap tu ho ung cang - cang de noi hai ve cau."
+   ],
+   [
+    "Trang thai cua hai ve cau trong “Trang vua len, sao da day troi.” duoc noi bang cach nao?",
+    [
+     "Dung cap tu ho ung vua - da",
+     "Dung cap quan he tu",
+     "Dung dau cham phay",
+     "Dung quan he tu va"
+    ],
+    "Cap tu vua - da duoc dung de noi va lien ket hai ve cau trong cau ghep nay."
+   ],
+   [
+    "Xac dinh so luong ve cau trong cau: “Chim hot tren canh, hoa no trong vuon, ong buom bay luon.”",
+    [
+     "Ba ve cau",
+     "Hai ve cau",
+     "Bon ve cau",
+     "Mot cau don"
+    ],
+    "Cau tren gom ba cum chu - vi gop lai, tuong ung voi ba ve cau."
+   ],
+   [
+    "Cau nao duoi day la cau ghep chi quan he tang tien?",
+    [
+     "Chang nhung troi mua to ma gio con thoi manh.",
+     "Troi mua to nen chung em di hoc muon.",
+     "Tuy troi mua to nhung chung em van den lop.",
+     "Neu troi mua to thi chung ta se nghi hoc."
+    ],
+    "Cau su dung cap quan he tu chang nhung - ma con de bieu thi quan he tang tien."
+   ],
+   [
+    "Dien tu thich hop vao cho trong de tao cau ghep: “... hoa hong no ro, ... khu vuong tran ngap huong thom.”",
+    [
+     "Khi - thi",
+     "Vi - nen",
+     "Tuy - nhung",
+     "Neu - thi"
+    ],
+    "Cap tu Khi - thi bieu thi quan he ve thoi gian giua hai ve cau."
+   ],
+   [
+    "Cau ghep “Trời chưa sáng, mọi người đã thức dậy.” biểu thị quan hệ gì giữa các vế câu?",
+    [
+     "Quan he thoi gian",
+     "Quan he nguyen nhan",
+     "Quan he nhuong bo",
+     "Quan he dieu kien"
+    ],
+    "Hai ve cau dien ta hai su viec dien ra noi tiep nhau theo thoi gian."
+   ],
+   [
+    "Xac dinh vi ngu cua ve cau thuong trong cau ghep: “Gios thoang qua, huong lua dua trong gio.”",
+    [
+     "dua trong gio",
+     "huong lua",
+     "gio thoang qua",
+     "thoang qua"
+    ],
+    "Ve thu hai la huong lua dua trong gio, co vi ngu la dua trong gio."
+   ],
+   [
+    "Tim cau ghep dung trong cac cau sau:",
+    [
+     "Mua xuong, nuoc song dang cao.",
+     "Cai but nay rat dep.",
+     "Chiec cap sach cua em mau xanh.",
+     "Nhung chu ong cham chi hut mat hoa."
+    ],
+    "Chi co cau Mua xuong, nuoc song dang cao la cau ghep gom hai ve noi bang dau phay."
+   ],
+   [
+    "Cau ghep “Neu em dat diem muoi, bo me se thuong em.” co cau tao nhu the nao?",
+    [
+     "Gom hai ve cau noi bang cap quan he tu Neu - thi.",
+     "Gom hai ve cau noi truc tiep bang dau phay.",
+     "Gom mot chu ngu va hai vi ngu.",
+     "Gom hai chu ngu va mot vi ngu."
+    ],
+    "Cau duoc tao thanh tu hai ve cau va lien ket voi nhau boi cap quan he tu Neu - thi."
+   ],
+   [
+    "Dat them mot ve cau vao cho trong de tao thanh cau ghep hoan chinh: “Mua xuan den, ...”",
+    [
+     "cay la dam choi nay loc.",
+     "la mot mua trong nam.",
+     "rat dep de di cho hoa.",
+     "la thoi gian em thich nhat."
+    ],
+    "Them mot ve cau co day du chu ngu va vi ngu de tao thanh cau ghep."
+   ],
+   [
+    "Cau nao duoi day KHÔNG phai la cau don?",
+    [
+     "Mua xuon den va tram hoa dua no.",
+     "Em la hoc sinh lop 5.",
+     "Me nau com cho em an.",
+     "Chim bay ve to."
+    ],
+    "Cau Mua xuan den va tram hoa dua no la cau ghep, cac cau con lai la cau don."
+   ],
+   [
+    "Trong cau ghep “Tuy nha o xa, Nam van di hoc dung gio.”, neu thay tu “Tuy” bang tu “Mac du” thi y nghia cua cau the nao?",
+    [
+     "Y nghia cua cau khong thay doi.",
+     "Y nghia cua cau bi dao nguoc hoan toan.",
+     "Cau tro thanh sai ngu phap.",
+     "Cau chuyen sang quan he nguyen nhan."
+    ],
+    "Tuy va mac du deu la quan he tu chi quan he tuong phan, co the thay the cho nhau."
+   ],
+   [
+    "Cau nao duoi day la cau ghep co quan he tang tien?",
+    [
+     "Chang nhung troi mua to ma gio con thoi rat manh.",
+     "Neu troi mua to thi chung ta se nghi hoc.",
+     "Tuy troi mua to nhung chung ta van den truong dung gio.",
+     "Vi troi mua to nen duong ngap nuoc."
+    ],
+    "Day la cau ghep co quan he tang tien vi su dung cap quan he tu chang nhung... ma... de nhan manh them muc do cua su viec o ve sau."
+   ],
+   [
+    "Trong cau ghep “Gios cang thoi manh, ngon lua trong bep cang bung chay.”, hai ve cau duoc noi voi nhau bang cach nao?",
+    [
+     "Dung cap tu ho ung cang... cang...",
+     "Dung mot quan he tu.",
+     "Dung dau phay noi truc tiep.",
+     "Dung cap quan he tu nguyen nhan - ket qua."
+    ],
+    "Hai ve cau duoc noi truc tiep bang cap tu ho ung cang... cang... de chi su bien doi dong thieu cua hai su viec."
+   ]
+  ]
+ }
+}

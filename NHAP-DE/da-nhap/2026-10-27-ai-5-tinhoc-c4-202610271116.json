@@ -1,0 +1,406 @@
+{
+ "5-tinhoc": {
+  "c4": [
+   [
+    "Để mở một văn bản đã có sẵn trên máy tính, em sử dụng lệnh nào trong dải lệnh File?",
+    [
+     "Open",
+     "New",
+     "Save",
+     "Close"
+    ],
+    "Lệnh Open dùng để mở tệp văn bản đã được lưu trước đó trên máy tính."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, tổ hợp phím nào được dùng nhanh để lưu tệp văn bản?",
+    [
+     "Ctrl + S",
+     "Ctrl + N",
+     "Ctrl + O",
+     "Ctrl + P"
+    ],
+    "Tổ hợp phím Ctrl + S là phím tắt phổ biến dùng để lưu văn bản."
+   ],
+   [
+    "Biểu tượng hình đĩa mềm (hoặc trang giấy có mũi tên) ở góc trên bên trái cửa sổ Word dùng để làm gì?",
+    [
+     "Lưu văn bản",
+     "Tạo văn bản mới",
+     "In văn bản",
+     "Mở văn bản"
+    ],
+    "Biểu tượng này đại diện cho lệnh Save, dùng để lưu nội dung em vừa soạn thảo."
+   ],
+   [
+    "Khi muốn tạo một trang văn bản mới hoàn toàn, em chọn lệnh nào?",
+    [
+     "New",
+     "Open",
+     "Save As",
+     "Exit"
+    ],
+    "Lệnh New trong dải lệnh File giúp em tạo một tệp văn bản mới."
+   ],
+   [
+    "Đâu là phần mở rộng thường thấy của tệp soạn thảo văn bản tạo bằng Microsoft Word phiên bản mới?",
+    [
+     ".docx",
+     ".pptx",
+     ".xlsx",
+     ".mp3"
+    ],
+    "Phần mở rộng .docx là định dạng mặc định của tệp văn bản Word."
+   ],
+   [
+    "Để gõ chữ cái in hoa có dấu hoặc các ký tự trên của phím, em cần kết hợp phím nào?",
+    [
+     "Shift",
+     "Ctrl",
+     "Alt",
+     "Tab"
+    ],
+    "Giữ phím Shift kết hợp gõ phím chữ sẽ giúp viết hoa, hoặc gõ ký tự phía trên của phím."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, con trỏ soạn thảo là gì?",
+    [
+     "Là một vạch đứng nhấp nháy trên màn hình",
+     "Là mũi tên màu trắng chỉ vị trí chuột",
+     "Là biểu tượng hình bàn tay",
+     "Là một ô vuông màu xanh"
+    ],
+    "Con trỏ soạn thảo là vạch đứng nhấp nháy cho biết vị trí ký tự tiếp theo sẽ xuất hiện khi gõ."
+   ],
+   [
+    "Khi gõ văn bản tiếng Việt, để sửa một lỗi gõ sai ngay bên trái con trỏ soạn thảo, em dùng phím nào?",
+    [
+     "Backspace",
+     "Delete",
+     "Enter",
+     "Spacebar"
+    ],
+    "Phím Backspace dùng để xóa ký tự đứng ngay trước con trỏ soạn thảo."
+   ],
+   [
+    "Phím nào dưới đây dùng để xuống dòng và bắt đầu một đoạn văn bản mới?",
+    [
+     "Enter",
+     "Shift",
+     "Caps Lock",
+     "Tab"
+    ],
+    "Mỗi lần nhấn Enter, con trỏ sẽ xuống dòng và tạo một đoạn văn bản mới."
+   ],
+   [
+    "Để chọn (bôi đen) toàn bộ văn bản trong trang, em dùng tổ hợp phím nào?",
+    [
+     "Ctrl + A",
+     "Ctrl + C",
+     "Ctrl + V",
+     "Ctrl + X"
+    ],
+    "Tổ hợp phím Ctrl + A giúp chọn tất cả nội dung có trong trang văn bản."
+   ],
+   [
+    "Em muốn đổi phông chữ cho một đoạn văn bản, em cần làm gì đầu tiên?",
+    [
+     "Chọn (bôi đen) đoạn văn bản đó",
+     "Nhấn phím Enter",
+     "Nhấn phím Delete",
+     "Nhấn tổ hợp phím Ctrl + P"
+    ],
+    "Muốn định dạng phần nào thì phải chọn (bôi đen) phần đó trước khi thực hiện lệnh."
+   ],
+   [
+    "Trong nhóm lệnh Font, các nút lệnh B, I, U có tác dụng gì?",
+    [
+     "Làm đậm, nghiêng, gạch chân chữ",
+     "Đổi màu chữ",
+     "Phóng to chữ",
+     "Căn lề đoạn văn"
+    ],
+    "B là Bold (đậm), I là Italic (nghiêng), U là Underline (gạch chân)."
+   ],
+   [
+    "Để sao chép một đoạn văn bản đã chọn sang vị trí khác, em dùng cặp lệnh nào?",
+    [
+     "Copy và Paste",
+     "Cut và Paste",
+     "Copy và Cut",
+     "Save và Open"
+    ],
+    "Lệnh Copy để sao chép và lệnh Paste để dán nội dung đến vị trí mới."
+   ],
+   [
+    "Khi em dùng lệnh Cut một đoạn văn bản, điều gì sẽ xảy ra?",
+    [
+     "Đoạn văn bản bị mất khỏi vị trí cũ và được lưu vào bộ nhớ tạm",
+     "Đoạn văn bản được nhân đôi ngay lập tức",
+     "Đoạn văn bản bị xóa vĩnh viễn không thể dán lại",
+     "Đoạn văn bản được đổi sang chữ in hoa"
+    ],
+    "Lệnh Cut (cắt) sẽ lấy đoạn văn bản đi và chuẩn bị cho việc di chuyển đến chỗ khác bằng lệnh Paste."
+   ],
+   [
+    "Nút lệnh nào sau đây dùng để căn lề giữa cho đoạn văn bản?",
+    [
+     "Center",
+     "Align Left",
+     "Align Right",
+     "Justify"
+    ],
+    "Nút lệnh Center giúp căn giữa các dòng văn bản trong trang."
+   ],
+   [
+    "Bạn An muốn chèn một hình ảnh có sẵn trong máy tính vào văn bản, bạn ấy cần chọn thẻ nào trên thanh bảng chọn?",
+    [
+     "Insert",
+     "Home",
+     "View",
+     "File"
+    ],
+    "Thẻ Insert chứa các lệnh dùng để chèn hình ảnh, bảng, hình khối vào văn bản."
+   ],
+   [
+    "Để chèn một bảng gồm 3 cột và 2 hàng vào trang văn bản, em chọn mục nào trong thẻ Insert?",
+    [
+     "Table",
+     "Picture",
+     "Shapes",
+     "Chart"
+    ],
+    "Mục Table trong thẻ Insert dùng để tạo và chèn bảng vào văn bản."
+   ],
+   [
+    "Khi đang gõ văn bản, nếu em muốn tạo khoảng cách vừa đúng một khoảng trắng giữa hai từ, em nhấn phím nào?",
+    [
+     "Phím cách (Spacebar)",
+     "Phím Tab",
+     "Phím Enter",
+     "Phím Shift"
+    ],
+    "Phím dài nhất ở hàng dưới cùng bàn phím là phím cách, dùng để tạo khoảng trắng."
+   ],
+   [
+    "Bạn Minh gõ từ “HÀ NỘI” nhưng quên chưa bật cáp lốc (Caps Lock), để sửa nhanh mà không phải xóa đi gõ lại, em khuyên Minh nên dùng tính năng nào?",
+    [
+     "Dùng nút lệnh đổi chữ hoa thường (Change Case)",
+     "Dùng lệnh Copy và Paste",
+     "Dùng lệnh tìm kiếm và thay thế",
+     "Dùng phím Delete để xóa từng chữ"
+    ],
+    "Tính năng Change Case trong nhóm Font giúp đổi nhanh chữ thường thành chữ hoa và ngược lại."
+   ],
+   [
+    "Em soạn thảo một bài thơ gồm 4 khổ, em muốn căn chỉnh toàn bộ bài thơ nằm ở giữa trang giấy thì cách làm nào nhanh và đúng nhất?",
+    [
+     "Chọn toàn bộ bài thơ và nhấn nút căn giữa (Center)",
+     "Nhấn phím Spacebar thật nhiều lần cho mỗi dòng dịch vào giữa",
+     "Nhấn phím Tab ở đầu mỗi dòng",
+     "Dùng lệnh chèn bảng để căn chỉnh"
+    ],
+    "Chọn toàn bộ văn bản rồi bấm nút căn giữa là cách làm chuẩn xác và nhanh chóng nhất."
+   ],
+   [
+    "Để đổi cỡ chữ cho một đoạn văn bản đã chọn trong phần mềm soạn thảo, em sử dụng ô nào trong nhóm lệnh Font của thẻ Home?",
+    [
+     "Ô chứa các số chỉ cỡ chữ và mũi tên xổ xuống",
+     "Ô chứa tên phông chữ như Arial hoặc Times New Roman",
+     "Nút lệnh có chữ A lớn và A nhỏ cạnh nhau",
+     "Nút lệnh B dùng để in đậm văn bản"
+    ],
+    "Ô chứa các số chỉ cỡ chữ giúp em chọn hoặc nhập kích thước chữ phù hợp cho đoạn văn bản."
+   ],
+   [
+    "Khi muốn phóng to hoặc thu nhỏ vùng hiển thị trang văn bản trên màn hình mà không làm thay đổi kích thước chữ khi in ra, em sử dụng công cụ nào ở góc dưới bên phải màn hình?",
+    [
+     "Thanh trượt phóng to thu nhỏ (Zoom)",
+     "Nút lệnh Print để in trang văn bản",
+     "Lệnh Save để lưu lại thay đổi của tệp",
+     "Dải lệnh View trên thanh bảng chọn"
+    ],
+    "Thanh trượt Zoom ở góc dưới bên phải giúp em thay đổi tỉ lệ hiển thị văn bản lớn hơn hoặc nhỏ hơn rất dễ dàng."
+   ],
+   [
+    "Bạn Bình muốn thay đổi lề trái của toàn bộ trang văn bản rộng hơn một chút, bạn ấy nên tìm các lệnh căn chỉnh lề trang ở thẻ nào?",
+    [
+     "Thẻ Layout hoặc Page Layout",
+     "Thẻ Home",
+     "Thẻ Insert",
+     "Thẻ View"
+    ],
+    "Các lệnh thiết lập lề trang, hướng giấy nằm trong thẻ Layout hoặc Page Layout."
+   ],
+   [
+    "Khi em đang gõ văn bản và con trỏ soạn thảo đang ở cuối dòng, nếu em muốn sang dòng tiếp theo nhưng vẫn thuộc cùng một đoạn văn thì em dùng tổ hợp phím nào?",
+    [
+     "Shift và Enter",
+     "Phím Enter",
+     "Phím Spacebar",
+     "Phím Tab"
+    ],
+    "Tổ hợp phím Shift và Enter giúp ngắt dòng thủ công mà không tạo ra đoạn văn bản mới."
+   ],
+   [
+    "Để gõ thụt lề dòng đầu tiên của một đoạn văn bản nhanh chóng, học sinh thường dùng phím nào trên bàn phím khi con trỏ ở đầu dòng?",
+    [
+     "Phím Tab",
+     "Phím Caps Lock",
+     "Phím Shift",
+     "Phím Backspace"
+    ],
+    "Phím Tab tạo ra khoảng trống thụt đầu dòng chuẩn xác cho đoạn văn bản."
+   ],
+   [
+    "Khi em chọn một đoạn văn bản rồi nhấn phím Delete, kết quả sẽ là gì?",
+    [
+     "Đoạn văn bản đó bị xóa khỏi trang soạn thảo",
+     "Đoạn văn bản được sao chép vào bộ nhớ tạm",
+     "Đoạn văn bản tự động chuyển sang chữ in nghiêng",
+     "Đoạn văn bản được đổi sang phông chữ khác"
+    ],
+    "Phím Delete có tác dụng xóa các ký tự hoặc khối văn bản đang được chọn."
+   ],
+   [
+    "Để tạo một tiêu đề trang văn bản nổi bật với các hiệu ứng nghệ thuật đẹp mắt như chữ uốn lượn, đổi màu sắc, em chọn công cụ nào trong thẻ Insert?",
+    [
+     "WordArt",
+     "Picture",
+     "Table",
+     "Shapes"
+    ],
+    "WordArt là công cụ chuyên dùng để tạo chữ nghệ thuật trang trí tiêu đề."
+   ],
+   [
+    "Khi em muốn thêm một hàng mới vào phía dưới cùng của một bảng có sẵn trong văn bản, thao tác nào là nhanh nhất?",
+    [
+     "Nháy chuột vào ô cuối cùng của bảng rồi nhấn phím Tab",
+     "Nhấn phím Enter nhiều lần trên bàn phím",
+     "Chọn lệnh Delete trong thẻ Insert",
+     "Nhấn tổ hợp phím Ctrl và N"
+    ],
+    "Khi con trỏ ở ô cuối cùng của bảng, nhấn phím Tab sẽ tự động sinh thêm một hàng mới ở dưới."
+   ],
+   [
+    "Em đã kẻ một bảng gồm 4 cột và 3 hàng. Em muốn gộp toàn bộ các ô của hàng đầu tiên lại thành một ô duy nhất để viết tiêu đề bảng, em dùng lệnh nào?",
+    [
+     "Merge Cells",
+     "Split Cells",
+     "Delete Table",
+     "Insert Above"
+    ],
+    "Lệnh Merge Cells dùng để gộp các ô được chọn thành một ô duy nhất trong bảng."
+   ],
+   [
+    "Em muốn vẽ nhanh một mũi tên chỉ hướng trên trang văn bản để làm sơ đồ tư duy, em cần vào thẻ Insert và chọn mục gì?",
+    [
+     "Shapes",
+     "Table",
+     "Picture",
+     "Header"
+    ],
+    "Mục Shapes trong thẻ Insert chứa rất nhiều hình khối vẽ sẵn như hình vuông, đường thẳng, mũi tên."
+   ],
+   [
+    "Trong quá trình soạn thảo, nếu em vô tình xóa nhầm một đoạn văn bản quan trọng, em có thể lấy lại ngay lập tức bằng tổ hợp phím nào?",
+    [
+     "Ctrl và phím Z",
+     "Ctrl và phím Y",
+     "Ctrl và phím X",
+     "Ctrl và phím A"
+    ],
+    "Tổ hợp phím Ctrl và Z giúp hoàn tác lại thao tác vừa thực hiện trước đó."
+   ],
+   [
+    "Bạn Linh muốn chèn số trang vào góc dưới bên phải của tất cả các trang trong báo cáo nhiều trang, bạn ấy nên chọn tính năng nào trong thẻ Insert?",
+    [
+     "Page Number",
+     "WordArt",
+     "Symbol",
+     "Text Box"
+    ],
+    "Tính năng Page Number trong thẻ Insert giúp tự động đánh số trang cho toàn bộ tài liệu."
+   ],
+   [
+    "Khi đoạn văn bản quá dài, em muốn căn chỉnh sao cho cả lề trái và lề phải đều thẳng tắp đẹp đẽ giống như trên sách báo, em chọn nút lệnh căn lề nào?",
+    [
+     "Căn đều hai bên (Justify)",
+     "Căn lề trái (Align Left)",
+     "Căn giữa (Center)",
+     "Căn lề phải (Align Right)"
+    ],
+    "Nút lệnh Justify giúp căn đều cả hai bên lề trái và lề phải cho đoạn văn bản."
+   ],
+   [
+    "Cô giáo yêu cầu em gõ công thức hóa học của nước là H2O với số 2 nhỏ nằm ở phía dưới chân chữ H, em cần sử dụng nút lệnh nào trong nhóm Font?",
+    [
+     "Subscript",
+     "Superscript",
+     "Strikethrough",
+     "Change Case"
+    ],
+    "Nút lệnh Subscript giúp hạ nhỏ ký tự xuống phía dưới dòng chữ."
+   ],
+   [
+    "Khi em muốn đổi toàn bộ các chữ cái thường trong một đoạn văn thành chữ in hoa hoàn toàn mà không phải gõ lại, em chọn công cụ nào trong nhóm Font?",
+    [
+     "Change Case",
+     "Text Highlight Color",
+     "Font Color",
+     "Clear All Formatting"
+    ],
+    "Công cụ Change Case cho phép em chuyển đổi nhanh giữa chữ hoa, chữ thường và các kiểu chữ khác."
+   ],
+   [
+    "Em muốn tạo một danh sách liệt kê các đồ dùng học tập có các dấu chấm tròn nhỏ ở đầu mỗi dòng, em chọn nút lệnh nào trong thẻ Home?",
+    [
+     "Bullets",
+     "Numbering",
+     "Multilevel List",
+     "Shading"
+    ],
+    "Nút lệnh Bullets giúp tạo danh sách liệt kê dạng ký hiệu chấm tròn hoặc biểu tượng."
+   ],
+   [
+    "Để sao chép định dạng (phông chữ, cỡ chữ, màu sắc) từ một từ này sang một từ khác mà không phải chỉnh sửa thủ công nhiều lần, em dùng công cụ nào?",
+    [
+     "Format Painter",
+     "Paste Special",
+     "Find and Replace",
+     "Text Box"
+    ],
+    "Công cụ chổi vẽ Format Painter giúp sao chép nhanh định dạng từ đoạn này sang đoạn khác."
+   ],
+   [
+    "Bạn Nam muốn chèn một biểu tượng ký tự đặc biệt không có sẵn trên bàn phím như hình ngôi sao hoặc nốt nhạc vào văn bản, bạn ấy chọn lệnh nào trong thẻ Insert?",
+    [
+     "Symbol",
+     "Shapes",
+     "SmartArt",
+     "Chart"
+    ],
+    "Lệnh Symbol trong thẻ Insert cho phép em chèn các ký tự đặc biệt và biểu tượng phong phú."
+   ],
+   [
+    "Khi lưu một tệp văn bản mới lần đầu tiên, nếu em chọn lệnh Save As thay vì lệnh Save thì điều gì sẽ xảy ra?",
+    [
+     "Hệ thống sẽ mở ra cửa sổ cho phép em chọn vị trí lưu và đặt tên mới cho tệp",
+     "Tệp văn bản sẽ tự động đóng lại ngay lập tức",
+     "Tệp văn bản bị xóa mất nội dung vừa gõ",
+     "Tệp sẽ được lưu đè lên một tệp cũ bất kỳ trên máy tính"
+    ],
+    "Lệnh Save As luôn yêu cầu em chọn thư mục lưu và đặt tên tệp, rất hữu ích khi muốn tạo bản sao."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, để gõ các ký tự trên của phím đôi (như dấu hỏi, dấu ngoặc kép), em cần nhấn giữ phím nào trong khi gõ phím ký tự?",
+    [
+     "Phím Shift",
+     "Phím Ctrl",
+     "Phím Alt",
+     "Phím Enter"
+    ],
+    "Phím Shift được sử dụng kết hợp với các phím số hoặc phím ký tự để gõ các ký tự ở phía trên của phím đó."
+   ]
+  ]
+ }
+}

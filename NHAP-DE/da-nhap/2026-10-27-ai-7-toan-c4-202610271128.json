@@ -1,0 +1,206 @@
+{
+ "7-toan": {
+  "c4": [
+   [
+    "Cho tam giác ABC bằng tam giác MNP. Biết góc A bằng 60 độ, góc N bằng 70 độ. Số đo góc P là",
+    [
+     "50 độ",
+     "60 độ",
+     "70 độ",
+     "80 độ"
+    ],
+    "Vì tam giác ABC bằng tam giác MNP nên góc P bằng góc C. Xét tam giác MNP có tổng ba góc bằng 180 độ, suy ra góc P bằng 180 độ trừ đi 60 độ trừ đi 70 độ bằng 50 độ."
+   ],
+   [
+    "Cho tam giác DEF và tam giác HIK có DE = HI, góc E bằng góc I. Cần thêm điều kiện nào để hai tam giác bằng nhau theo trường hợp cạnh - góc - cạnh",
+    [
+     "EF = IK",
+     "DF = HK",
+     "góc D bằng góc H",
+     "FE = KH"
+    ],
+    "Để hai tam giác bằng nhau theo trường hợp c.g.c thì góc bằng nhau phải là góc xen giữa hai cặp cạnh bằng nhau. Góc xen giữa DE và EF là góc E, góc xen giữa HI và IK là góc I."
+   ],
+   [
+    "Cho tam giác ABC bằng tam giác DEG. Biết AB = 4 cm, BC = 5 cm, CA = 6 cm. Chu vi tam giác DEG là",
+    [
+     "15 cm",
+     "14 cm",
+     "12 cm",
+     "10 cm"
+    ],
+    "Vì tam giác ABC bằng tam giác DEG nên các cạnh tương ứng bằng nhau: DE = AB = 4 cm, EG = BC = 5 cm, GD = CA = 6 cm. Chu vi tam giác DEG là 4 + 5 + 6 = 15 cm."
+   ],
+   [
+    "Hai tam giác vuông có bao nhiêu cặp cạnh huyền tương ứng bằng nhau và một cặp cạnh góc vuông tương ứng bằng nhau thì bằng nhau",
+    [
+     "1 cặp cạnh huyền và 1 cặp cạnh góc vuông",
+     "2 cặp cạnh huyền",
+     "2 cặp cạnh góc vuông",
+     "1 cặp cạnh huyền và 2 cặp cạnh góc vuông"
+    ],
+    "Theo trường hợp bằng nhau về cạnh huyền và cạnh góc vuông của tam giác vuông, hai tam giác vuông bằng nhau nếu có cạnh huyền và một cạnh góc vuông bằng nhau."
+   ],
+   [
+    "Cho tam giác ABC có AB = AC và M là trung điểm của BC. Khẳng định nào sau đây là sai",
+    [
+     "AM vuông góc với AB",
+     "tam giác AMB bằng tam giác AMC",
+     "AM là phân giác góc BAC",
+     "AM vuông góc với BC"
+    ],
+    "Tam giác ABC cân tại A có AM là đường trung tuyến đồng thời là đường cao và phân giác. Do đó AM vuông góc với BC, tam giác AMB bằng tam giác AMC và AM là phân giác. Khẳng định AM vuông góc với AB là sai."
+   ],
+   [
+    "Cho tam giác ABC bằng tam giác MNP. Biết góc A bằng 70 độ, góc P bằng 50 độ. Số đo góc B là",
+    [
+     "60 độ",
+     "70 độ",
+     "50 độ",
+     "80 độ"
+    ],
+    "Vì tam giác ABC bằng tam giác MNP nên góc C bằng góc P bằng 50 độ và góc A bằng góc M bằng 70 độ. Góc B bằng 180 độ trừ đi 70 độ trừ đi 50 độ bằng 60 độ."
+   ],
+   [
+    "Cho tam giác ABC và tam giác DEF có AB = DE, AC = DF. Cần thêm điều kiện gì để hai tam giác bằng nhau theo trường hợp cạnh - cạnh - cạnh",
+    [
+     "BC = EF",
+     "góc A bằng góc D",
+     "BC = DE",
+     "góc B bằng góc E"
+    ],
+    "Trường hợp c.c.c yêu cầu ba cặp cạnh tương ứng phải bằng nhau. Đã có AB = DE và AC = DF, ta cần thêm BC = EF."
+   ],
+   [
+    "Cho tam giác ABC và tam giác MNP có góc A bằng góc M, góc C bằng góc P. Cần thêm điều kiện gì để hai tam giác bằng nhau theo trường hợp góc - cạnh - góc",
+    [
+     "AC = MP",
+     "AB = MN",
+     "BC = NP",
+     "AC = MN"
+    ],
+    "Hai cặp góc đã bằng nhau là góc A và M, góc C và P. Cạnh kề với hai góc này là cạnh AC và MP, do đó cần thêm điều kiện AC = MP."
+   ],
+   [
+    "Cho tam giác ABC bằng tam giác KHI. Biết góc B bằng 55 độ, góc I bằng 75 độ. Số đo góc A là",
+    [
+     "50 độ",
+     "55 độ",
+     "75 độ",
+     "65 độ"
+    ],
+    "Tam giác ABC bằng tam giác KHI nên góc B bằng góc H bằng 55 độ, góc C bằng góc I bằng 75 độ. Góc A bằng 180 độ trừ đi 55 độ trừ đi 75 độ bằng 50 độ."
+   ],
+   [
+    "Cho hai tam giác vuông ABC và MNP có góc vuông tại A và M. Biết AB = MN và góc B bằng góc N. Hai tam giác này bằng nhau theo trường hợp",
+    [
+     "g.c.g",
+     "c.g.c",
+     "c.c.c",
+     "cạnh huyền góc nhọn"
+    ],
+    "Xét tam giác ABC và MNP có cạnh góc vuông AB = MN, kề với góc nhọn B bằng góc N nên hai tam giác bằng nhau theo trường hợp góc - cạnh - góc."
+   ],
+   [
+    "Cho tam giác ABC có AB = AC. Lấy điểm D trên cạnh AB, điểm E trên cạnh AC sao cho AD = AE. Khẳng định nào sau đây là đúng",
+    [
+     "tam giác ABE bằng tam giác ACD",
+     "tam giác ABD bằng tam giác ACE",
+     "tam giác ABC bằng tam giác ADE",
+     "tam giác ABE bằng tam giác ABC"
+    ],
+    "Xét tam giác ABE và tam giác ACD có góc A chung, AB = AC và AE = AD nên tam giác ABE bằng tam giác ACD theo trường hợp c.g.c."
+   ],
+   [
+    "Cho tam giác ABC và tam giác MNP có AB = MN, AC = MP. Để tam giác ABC bằng tam giác MNP theo trường hợp cạnh - góc - cạnh thì cần thêm điều kiện",
+    [
+     "góc A bằng góc M",
+     "góc B bằng góc N",
+     "góc C bằng góc P",
+     "BC = NP"
+    ],
+    "Hai cặp cạnh đã bằng nhau là AB, MN và AC, MP. Góc xen giữa hai cặp cạnh này là góc A và góc M, vậy cần thêm góc A bằng góc M."
+   ],
+   [
+    "Cho tam giác ABC vuông tại A có AB bằng 3 cm, AC bằng 4 cm. Tam giác MNP vuông tại M có MN bằng 3 cm, MP bằng 4 cm. Khẳng định nào sau đây là đúng",
+    [
+     "tam giác ABC bằng tam giác MNP",
+     "tam giác ABC lớn hơn tam giác MNP",
+     "tam giác ABC bằng tam giác PMN",
+     "tam giác ABC không bằng tam giác MNP"
+    ],
+    "Hai tam giác vuông có hai cặp cạnh góc vuông tương ứng bằng nhau là AB = MN = 3 cm và AC = MP = 4 cm nên hai tam giác bằng nhau theo trường hợp hai cạnh góc vuông."
+   ],
+   [
+    "Cho góc xOy khác góc bẹt, vẽ tia phân giác Oz. Lấy điểm M trên Oz, kẻ MA vuông góc với Ox tại A, MB vuông góc với Oy tại B. Khẳng định nào sau đây là sai",
+    [
+     "MA khác MB",
+     "tam giác OAM bằng tam giác OBM",
+     "OA bằng OB",
+     "góc OMA bằng góc OMB"
+    ],
+    "Theo tính chất tia phân giác, điểm nằm trên tia phân giác cách đều hai cạnh của góc nên MA bằng MB. Khẳng định MA khác MB là sai."
+   ],
+   [
+    "Cho tam giác ABC cân tại A. Trên tia đối của tia BC lấy điểm M, trên tia đối của tia CB lấy điểm N sao cho BM = CN. Khẳng định nào sau đây là đúng",
+    [
+     "tam giác AMN là tam giác cân",
+     "tam giác AMN là tam giác vuông",
+     "tam giác AMN là tam giác đều",
+     "tam giác AMN là tam giác nhọn"
+    ],
+    "Tam giác ABC cân tại A nên góc ABC bằng góc ACB, suy ra góc ABM bằng góc ACN. Tam giác ABM bằng tam giác ACN theo trường hợp c.g.c nên AM = AN, do đó tam giác AMN cân tại A."
+   ],
+   [
+    "Cho tam giác ABC có AB bằng AC. Kẻ BD vuông góc với AC tại D, CE vuông góc với AB tại E. Gọi O là giao điểm của BD và CE. Khẳng định nào sau đây là đúng",
+    [
+     "tam giác OBC là tam giác cân",
+     "tam giác OBC là tam giác đều",
+     "tam giác OBC là tam giác vuông",
+     "tam giác OBC là tam giác tù"
+    ],
+    "Chứng minh được tam giác ABD bằng tam giác ACE suy ra góc B bằng góc C, do đó tam giác OBC có góc OCB bằng góc OBC nên là tam giác cân tại O."
+   ],
+   [
+    "Cho tam giác ABC bằng tam giác DEF. Biết AB = 5 cm, BC = 7 cm, DF = 6 cm. Độ dài cạnh AC là bao nhiêu?",
+    [
+     "6 cm",
+     "5 cm",
+     "7 cm",
+     "18 cm"
+    ],
+    "Vì tam giác ABC bằng tam giác DEF nên hai cạnh tương ứng AC và DF bằng nhau, do đó AC = DF = 6 cm."
+   ],
+   [
+    "Nếu tam giác PQR bằng tam giác XYZ thì cặp góc nào sau đây là hai góc tương ứng bằng nhau?",
+    [
+     "Góc P và góc X",
+     "Góc P và góc Y",
+     "Góc Q và góc X",
+     "Góc R và góc Y"
+    ],
+    "Từ kí hiệu hai tam giác bằng nhau ΔPQR = ΔXYZ, các đỉnh tương ứng là P với X, Q với Y, R với Z. Do đó góc P = góc X."
+   ],
+   [
+    "Cho tam giác ABC và tam giác GHK có AB = GH, BC = HK, AC = GK. Cách viết nào sau đây thể hiện đúng sự bằng nhau của hai tam giác?",
+    [
+     "ΔABC = ΔGHK",
+     "ΔABC = ΔHGK",
+     "ΔABC = ΔKHG",
+     "ΔBAC = ΔGHK"
+    ],
+    "Dựa vào các cặp cạnh bằng nhau, ta có đỉnh A tương ứng với G, B tương ứng với H, C tương ứng với K. Vậy ΔABC = ΔGHK."
+   ],
+   [
+    "Cho tam giác MNP vuông tại M và tam giác STU vuông tại S. Biết NP = TU và góc N = góc T. Hai tam giác này bằng nhau theo trường hợp nào?",
+    [
+     "Cạnh huyền - góc nhọn",
+     "Cạnh góc vuông - góc nhọn kề",
+     "Cạnh huyền - cạnh góc vuông",
+     "Góc - cạnh - góc"
+    ],
+    "Tam giác MNP và STU vuông tại M và S có NP = TU (hai cạnh huyền bằng nhau) và góc N = góc T (hai góc nhọn tương ứng bằng nhau), nên bằng nhau theo trường hợp cạnh huyền - góc nhọn."
+   ]
+  ]
+ }
+}

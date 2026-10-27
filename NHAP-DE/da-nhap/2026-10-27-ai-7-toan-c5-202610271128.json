@@ -1,0 +1,206 @@
+{
+ "7-toan": {
+  "c5": [
+   [
+    "Phương pháp nào sau đây là phương pháp thu thập dữ liệu gián tiếp?",
+    [
+     "Sưu tầm từ sách báo hoặc internet",
+     "Làm thí nghiệm trong phòng thực hành",
+     "Phỏng vấn trực tiếp học sinh trong trường",
+     "Đo chiều cao của các học sinh trong lớp"
+    ],
+    "Sưu tầm từ nguồn có sẵn như sách báo hay internet là thu thập gián tiếp, còn phỏng vấn, đo đạc, làm thí nghiệm là thu thập trực tiếp."
+   ],
+   [
+    "Trong các dãy dữ liệu sau, dãy nào là dữ liệu số?",
+    [
+     "Số học sinh vắng mặt trong 5 ngày: 1, 0, 2, 1, 3",
+     "Xếp loại học lực: Tốt, Khá, Đạt, Tốt, Khá",
+     "Nơi sinh của học sinh: Hà Nội, Huế, Đà Nẵng, Cần Thơ",
+     "Thủ đô các nước: Hà Nội, Viêng Chăn, Bang Cốc"
+    ],
+    "Dãy số học sinh vắng mặt gồm các số cụ thể (1, 0, 2, 1, 3) nên là dữ liệu số (định lượng)."
+   ],
+   [
+    "Cho các dữ liệu sau: “Biển số xe: 29A-12345, 30F-67890”. Dữ liệu này thuộc loại nào?",
+    [
+     "Dữ liệu không là số",
+     "Dữ liệu số",
+     "Dữ liệu số nguyên dương",
+     "Dữ liệu số thực"
+    ],
+    "Biển số xe có chứa các chữ cái và kí tự đặc biệt, không phản ánh số đo hay số lượng nên là dữ liệu không là số."
+   ],
+   [
+    "Muốn biết mức độ chênh lệch năng suất lúa giữa các tỉnh miền Tây, dữ liệu thu thập được nên trình bày ở dạng nào là hợp lí nhất?",
+    [
+     "Bảng thống kê",
+     "Một câu văn miêu tả dài",
+     "Dạng danh sách họ tên",
+     "Mô tả bằng hình ảnh minh họa"
+    ],
+    "Bảng thống kê giúp sắp xếp các số liệu năng suất lúa từng tỉnh một cách rõ ràng, trực quan để dễ so sánh."
+   ],
+   [
+    "Một góc ở tâm trên biểu đồ hình quạt tròn có số đo là 180°. Phần này chiếm bao nhiêu phần trăm tổng thể?",
+    [
+     "50%",
+     "100%",
+     "25%",
+     "75%"
+    ],
+    "Góc 180° bằng một nửa góc cả đường tròn (360°), tương ứng với 50% tổng thể."
+   ],
+   [
+    "Nút tròn (điểm) trên biểu đồ đoạn thẳng thường dùng để biểu diễn giá trị nào?",
+    [
+     "Giá trị của dữ liệu tại thời điểm tương ứng",
+     "Tỉ lệ phần trăm so với tổng thể",
+     "Số lượng các tiêu chí thống kê",
+     "Tốc độ tăng trưởng trung bình"
+    ],
+    "Mỗi nút tròn trên biểu đồ đoạn thẳng biểu diễn giá trị số liệu thu được tại một thời điểm hoặc mốc xác định."
+   ],
+   [
+    "Bộ phận kiểm tra chất lượng của một nhà máy muốn biết tỉ lệ sản phẩm bị lỗi trong ngày. Cách thu thập dữ liệu nào sau đây là tiêu biểu và tiết kiệm chi phí?",
+    [
+     "Lấy ngẫu nhiên 100 sản phẩm trong ngày để kiểm tra",
+     "Kiểm tra tất cả sản phẩm sản xuất trong một năm",
+     "Đo chiều dài của các thiết bị sản xuất",
+     "Hỏi ý kiến của người tiêu dùng về màu sắc sản phẩm"
+    ],
+    "Lấy mẫu ngẫu nhiên 100 sản phẩm trong ngày giúp đại diện cho chất lượng sản phẩm ngày đó mà không tốn quá nhiều thời gian, chi phí."
+   ],
+   [
+    "Cho bảng dữ liệu ghi lại số tiền tiêu xài hàng tuần (đơn vị: nghìn đồng) của 4 học sinh: 50, 70, 60, 200. Dữ liệu nào có vẻ không hợp lí đối với học sinh THCS?",
+    [
+     "200",
+     "50",
+     "70",
+     "60"
+    ],
+    "Giá trị 200 nghìn đồng quá lệch so với mặt bằng chung (50, 60, 70 nghìn đồng) nên là dữ liệu không hợp lí cần xác minh lại."
+   ],
+   [
+    "Một quạt tròn được chia thành 4 phần ứng với các tỉ lệ 10%, 20%, 30%, 40%. Góc ở tâm ứng với phần 10% có số đo là bao nhiêu?",
+    [
+     "36°",
+     "10°",
+     "18°",
+     "72°"
+    ],
+    "Số đo góc ở tâm tương ứng là 10% x 360° = 36°."
+   ],
+   [
+    "Khi muốn biểu diễn xu hướng tăng hoặc giảm lượng mưa trung bình các tháng trong năm, loại biểu đồ nào là thích hợp nhất?",
+    [
+     "Biểu đồ đoạn thẳng",
+     "Biểu đồ hình quạt tròn",
+     "Biểu đồ cột đôi",
+     "Biểu đồ tranh"
+    ],
+    "Biểu đồ đoạn thẳng rất phù hợp để thể hiện sự thay đổi, xu hướng tăng giảm của một đại lượng theo thời gian."
+   ],
+   [
+    "Số lượng xe máy bán được trong 4 tháng cuối năm của một cửa hàng tăng liên tục. Nếu vẽ biểu đồ đoạn thẳng thể hiện số xe bán được, đường nối các điểm sẽ có xu hướng như thế nào từ trái sang phải?",
+    [
+     "Đi lên",
+     "Đi xuống",
+     "Nằm ngang",
+     "Lên xuống thất thường"
+    ],
+    "Vì số lượng xe bán được tăng liên tục qua các tháng nên đoạn thẳng nối các điểm theo thời gian sẽ đi lên từ trái sang phải."
+   ],
+   [
+    "Kết quả khảo sát loại nước uống yêu thích của 200 học sinh cho thấy nước cam chiếm 35%. Số học sinh thích nước cam là bao nhiêu?",
+    [
+     "70 học sinh",
+     "35 học sinh",
+     "60 học sinh",
+     "100 học sinh"
+    ],
+    "Số học sinh thích nước cam là 200 x 35% = 70 học sinh."
+   ],
+   [
+    "Bạn An ghi lại nhiệt độ lúc 12 giờ trưa trong 5 ngày liên tiếp thu được các số liệu: 28°C, 29°C, 31°C, 100°C, 30°C. Dữ liệu nào không hợp lý?",
+    [
+     "100°C",
+     "28°C",
+     "31°C",
+     "30°C"
+    ],
+    "Nhiệt độ môi trường thực tế không thể đạt 100°C, do đó giá trị 100°C là không hợp lí."
+   ],
+   [
+    "Biểu đồ hình quạt tròn thể hiện kết quả bình chọn cán bộ lớp. Nếu bạn Nam nhận được góc ở tâm là 90°, hỏi bạn Nam nhận được bao nhiêu phần trăm số phiếu?",
+    [
+     "25%",
+     "90%",
+     "50%",
+     "30%"
+    ],
+    "Tỉ lệ phần trăm phiếu của bạn Nam là (90° / 360°) x 100% = 25%."
+   ],
+   [
+    "Một biểu đồ đoạn thẳng biểu diễn số học sinh giỏi của một trường qua 3 năm: Năm 1 (50 học sinh), Năm 2 (80 học sinh), Năm 3 (100 học sinh). Số học sinh giỏi Năm 3 tăng bao nhiêu so với Năm 1?",
+    [
+     "50 học sinh",
+     "30 học sinh",
+     "20 học sinh",
+     "100 học sinh"
+    ],
+    "Số học sinh giỏi tăng từ Năm 1 đến Năm 3 là 100 - 50 = 50 học sinh."
+   ],
+   [
+    "Thống kê phương tiện đi học của 50 học sinh lớp 7A thu được: 20 bạn đi xe đạp, 15 bạn được bố mẹ chở, 10 bạn đi bộ, còn lại đi xe buýt. Tỉ lệ học sinh đi xe buýt là bao nhiêu?",
+    [
+     "10%",
+     "5%",
+     "20%",
+     "15%"
+    ],
+    "Số học sinh đi xe buýt là 50 - (20 + 15 + 10) = 5 bạn. Tỉ lệ đi xe buýt là 5/50 = 10%."
+   ],
+   [
+    "Góc ở tâm đại diện cho lượng điện tiêu thụ quý 1 của một gia đình trên biểu đồ quạt tròn là 108°. Hỏi lượng điện quý 1 chiếm bao nhiêu phần trăm cả năm?",
+    [
+     "30%",
+     "25%",
+     "36%",
+     "40%"
+    ],
+    "Tỉ lệ phần trăm là (108° / 360°) x 100% = 30%."
+   ],
+   [
+    "Khảo sát 120 học sinh khối 7 về môn thể thao yêu thích thu được kết quả: Cầu lông chiếm 40%, Bóng đá chiếm 35%, còn lại là Bóng rổ. Số học sinh thích Bóng rổ là bao nhiêu?",
+    [
+     "30 học sinh",
+     "25 học sinh",
+     "48 học sinh",
+     "42 học sinh"
+    ],
+    "Tỉ lệ học sinh thích Bóng rổ là 100% - 40% - 35% = 25%. Số học sinh thích Bóng rổ là 120 x 25% = 30 học sinh."
+   ],
+   [
+    "Doanh thu của một cửa hàng trong 4 tháng đầu năm lần lượt là: 12 triệu, 15 triệu, 14 triệu, 19 triệu. Doanh thu trung bình mỗi tháng là bao nhiêu?",
+    [
+     "15 triệu",
+     "14 triệu",
+     "16 triệu",
+     "12 triệu"
+    ],
+    "Doanh thu trung bình mỗi tháng là (12 + 15 + 14 + 19) / 4 = 60 / 4 = 15 triệu."
+   ],
+   [
+    "Để tìm hiểu về thể loại sách yêu thích của các bạn học sinh khối 7, phương pháp thu thập dữ liệu nào sau đây là trực tiếp?",
+    [
+     "Phát phiếu hỏi và thu lại trực tiếp từ các bạn học sinh.",
+     "Đọc báo cáo thống kê của thư viện trường năm trước.",
+     "Xem danh sách mượn sách trên hệ thống máy tính của trường.",
+     "Thống kê số lượng sách bán được từ nhà sách ngoài cổng trường."
+    ],
+    "Phát phiếu hỏi là phương pháp thu thập dữ liệu trực tiếp từ đối tượng khảo sát."
+   ]
+  ]
+ }
+}

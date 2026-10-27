@@ -1,0 +1,406 @@
+{
+ "5-toan": {
+  "c4": [
+   [
+    "Tỉ số phần trăm của 3 và 4 là bao nhiêu?",
+    [
+     "75%",
+     "7,5%",
+     "34%",
+     "43%"
+    ],
+    "Ta lấy 3 chia cho 4 được 0,75, đổi thành tỉ số phần trăm là 75%."
+   ],
+   [
+    "Số thập phân 0,45 viết dưới dạng tỉ số phần trăm là gì?",
+    [
+     "45%",
+     "4,5%",
+     "0,45%",
+     "450%"
+    ],
+    "Nhân 0,45 với 100 rồi viết thêm kí hiệu phần trăm ta được 45%."
+   ],
+   [
+    "25% của một số bằng 50. Số đó là bao nhiêu?",
+    [
+     "200",
+     "12,5",
+     "100",
+     "250"
+    ],
+    "Muốn tìm một số khi biết 25% của nó bằng 50, ta lấy 50 chia cho 25 nhân với 100, kết quả là 200."
+   ],
+   [
+    "Lớp 5A có 40 học sinh, trong đó có 18 học sinh nữ. Số học sinh nữ chiếm bao nhiêu phần số học sinh cả lớp?",
+    [
+     "45%",
+     "18%",
+     "40%",
+     "55%"
+    ],
+    "Tỉ số phần trăm số học sinh nữ và cả lớp là 18 chia 40 bằng 0,45 hay 45%."
+   ],
+   [
+    "Một cửa hàng mua vào một sản phẩm giá 200000 đồng và bán ra với giá 250000 đồng. Tiền lãi chiếm bao nhiêu phần trăm giá mua?",
+    [
+     "25%",
+     "20%",
+     "50%",
+     "125%"
+    ],
+    "Tiền lãi là 50000 đồng, lấy 50000 chia cho 200000 được 0,25 hay 25%."
+   ],
+   [
+    "Viết phân số 3/5 dưới dạng tỉ số phần trăm.",
+    [
+     "60%",
+     "35%",
+     "3/5%",
+     "15%"
+    ],
+    "Ta có 3 chia 5 bằng 0,6, đổi thành 60%."
+   ],
+   [
+    "Tìm 20% của 350 kg.",
+    [
+     "70 kg",
+     "35 kg",
+     "140 kg",
+     "7 kg"
+    ],
+    "Lấy 350 nhân 20 rồi chia cho 100 ta được 70 kg."
+   ],
+   [
+    "Hỗn số 2 và 1/2 viết dưới dạng tỉ số phần trăm là gì?",
+    [
+     "250%",
+     "25%",
+     "2,5%",
+     "205%"
+    ],
+    "Hỗn số bằng 2,5, nhân với 100 ta được 250%."
+   ],
+   [
+    "Một trường tiểu học có 800 học sinh, số học sinh nam chiếm 52%. Hỏi trường đó có bao nhiêu học sinh nam?",
+    [
+     "416 học sinh",
+     "384 học sinh",
+     "520 học sinh",
+     "400 học sinh"
+    ],
+    "Số học sinh nam là 800 nhân 52 chia 100 bằng 416 học sinh."
+   ],
+   [
+    "Biết 15% của một tấm vải là 45 mét. Tấm vải đó dài bao nhiêu mét?",
+    [
+     "300 mét",
+     "675 mét",
+     "450 mét",
+     "30 mét"
+    ],
+    "Lấy 45 chia 15 nhân 100 ta được 300 mét."
+   ],
+   [
+    "Một mảnh đất hình chữ nhật có chiều dài 20m, chiều rộng 15m. Diện tích lối đi chiếm 10% diện tích mảnh đất. Tính diện tích lối đi.",
+    [
+     "30 m2",
+     "35 m2",
+     "300 m2",
+     "15 m2"
+    ],
+    "Diện tích mảnh đất là 20 nhân 15 bằng 300 mét vuông. Diện tích lối đi là 10% của 300 là 30 mét vuông."
+   ],
+   [
+    "Lớp 5B có 30 học sinh. Số học sinh đạt loại giỏi chiếm 40%, còn lại là học sinh khá. Tính số học sinh khá.",
+    [
+     "18 học sinh",
+     "12 học sinh",
+     "20 học sinh",
+     "15 học sinh"
+    ],
+    "Số học sinh giỏi là 40%, vậy số học sinh khá chiếm 60%. Lấy 30 nhân 60 chia 100 bằng 18 học sinh."
+   ],
+   [
+    "Một người gửi tiết kiệm 10000000 đồng với lãi suất 0,5% một tháng. Sau một tháng, số tiền lãi là bao nhiêu?",
+    [
+     "50000 đồng",
+     "500000 đồng",
+     "5000 đồng",
+     "5000000 đồng"
+    ],
+    "Số tiền lãi là 10000000 nhân 0,5 chia 100 bằng 50000 đồng."
+   ],
+   [
+    "Hòa có 20 viên bi, Bình có 25 viên bi. Số bi của Hòa bằng bao nhiêu phần trăm số bi của Bình?",
+    [
+     "80%",
+     "125%",
+     "120%",
+     "45%"
+    ],
+    "Lấy 20 chia cho 25 được 0,8 hay 80%."
+   ],
+   [
+    "Giá một chiếc áo sau khi giảm giá 20% là 320000 đồng. Giá ban đầu của chiếc áo là bao nhiêu?",
+    [
+     "400000 đồng",
+     "384000 đồng",
+     "300000 đồng",
+     "640000 đồng"
+    ],
+    "Giá ban đầu ứng với 100%, giá sau khi giảm ứng với 80%. Lấy 320000 chia 80 nhân 100 bằng 400000 đồng."
+   ],
+   [
+    "Một bể chứa 1200 lít nước, đang chứa đầy 75% thể tích bể. Cần đổ thêm bao nhiêu lít nước nữa để đầy bể?",
+    [
+     "300 lít",
+     "900 lít",
+     "400 lít",
+     "250 lít"
+    ],
+    "Số phần trăm nước còn thiếu là 100% trừ 75% bằng 25%. Tính 25% của 1200 ta được 300 lít."
+   ],
+   [
+    "Lớp 5C kiểm tra Toán, có 5 bạn được điểm 10, chiếm 25% số học sinh cả lớp. Hỏi lớp 5C có bao nhiêu học sinh?",
+    [
+     "20 học sinh",
+     "25 học sinh",
+     "15 học sinh",
+     "50 học sinh"
+    ],
+    "Lấy 5 chia 25 nhân 100 ta được 20 học sinh."
+   ],
+   [
+    "Học kì một lớp 5D có 16 học sinh giỏi, chiếm 40% sĩ số. Học kì hai số học sinh giỏi tăng thêm 5%. Hỏi học kì hai lớp 5D có bao nhiêu học sinh giỏi?",
+    [
+     "18 học sinh",
+     "17 học sinh",
+     "20 học sinh",
+     "21 học sinh"
+    ],
+    "Số học sinh giỏi học kì hai chiếm 45%. Sĩ số lớp là 16 chia 40 nhân 100 bằng 40 học sinh. Số học sinh giỏi học kì hai là 40 nhân 45 chia 100 bằng 18 học sinh."
+   ],
+   [
+    "Một người bán một món hàng thu được 600000 đồng, trong đó tiền vốn là 500000 đồng. Tỉ số phần trăm của tiền lãi và tiền vốn là bao nhiêu?",
+    [
+     "20%",
+     "120%",
+     "16,7%",
+     "83,3%"
+    ],
+    "Tiền lãi là 100000 đồng. Lấy 100000 chia 500000 được 0,2 hay 20%."
+   ],
+   [
+    "Hỗn số 1 và 3/4 đổi thành tỉ số phần trăm là bao nhiêu?",
+    [
+     "175%",
+     "134%",
+     "75%",
+     "1,75%"
+    ],
+    "Hỗn số đổi thành phân số 7/4, tương ứng với 1,75 hay 175%."
+   ],
+   [
+    "Kí hiệu % trong toán học được gọi là gì?",
+    [
+     "Tỉ số phần trăm",
+     "Phần trăm",
+     "Kí hiệu chia",
+     "Phân số thập phân"
+    ],
+    "Kí hiệu % được gọi là kí hiệu tỉ số phần trăm."
+   ],
+   [
+    "Cách viết nào sau đây thể hiện tỉ số phần trăm của 7 và 100?",
+    [
+     "7%",
+     "70%",
+     "0,7%",
+     "700%"
+    ],
+    "Tỉ số của 7 và 100 viết dưới dạng tỉ số phần trăm là 7%."
+   ],
+   [
+    "Số thập phân 0,08 được viết dưới dạng tỉ số phần trăm là bao nhiêu?",
+    [
+     "8%",
+     "0,8%",
+     "80%",
+     "0,08%"
+    ],
+    "Ta có 0,08 = 0,08 x 100% = 8%."
+   ],
+   [
+    "Tỉ số phần trăm 45% được viết dưới dạng số thập phân là bao nhiêu?",
+    [
+     "0,45",
+     "4,5",
+     "0,045",
+     "45,0"
+    ],
+    "Ta lấy 45 chia cho 100 được 0,45."
+   ],
+   [
+    "Phân số 7/20 được viết dưới dạng tỉ số phần trăm là bao nhiêu?",
+    [
+     "35%",
+     "7%",
+     "20%",
+     "70%"
+    ],
+    "Ta có 7/20 = 35/100 = 35%."
+   ],
+   [
+    "Tỉ số phần trăm của 12 và 25 là bao nhiêu?",
+    [
+     "48%",
+     "12%",
+     "25%",
+     "24%"
+    ],
+    "Ta tính 12 : 25 = 0,48 = 48%."
+   ],
+   [
+    "Kết quả của phép tính 15% + 28% là bao nhiêu?",
+    [
+     "43%",
+     "33%",
+     "43",
+     "0,43%"
+    ],
+    "Ta thực hiện 15% + 28% = (15 + 28)% = 43%."
+   ],
+   [
+    "Kết quả của phép tính 80% - 32,5% là bao nhiêu?",
+    [
+     "47,5%",
+     "48,5%",
+     "57,5%",
+     "47,5"
+    ],
+    "Ta lấy 80% - 32,5% = (80 - 32,5)% = 47,5%."
+   ],
+   [
+    "Tìm 30% của 150 m.",
+    [
+     "45 m",
+     "50 m",
+     "4,5 m",
+     "450 m"
+    ],
+    "30% của 150 m là: 150 x 30 : 100 = 45 m."
+   ],
+   [
+    "Biết 40% của một số là 80, số đó là bao nhiêu?",
+    [
+     "200",
+     "32",
+     "320",
+     "20"
+    ],
+    "Số đó là: 80 : 40 x 100 = 200."
+   ],
+   [
+    "Trong thư viện có 500 quyển sách, trong đó có 120 quyển sách Toán. Tỉ số phần trăm của số sách Toán và tổng số sách trong thư viện là bao nhiêu?",
+    [
+     "24%",
+     "12%",
+     "2,4%",
+     "40%"
+    ],
+    "Tỉ số phần trăm là: 120 : 500 = 0,24 = 24%."
+   ],
+   [
+    "Một gia đình đăng ký gói cước Internet giá 200 000 đồng một tháng. Khi thanh toán qua ứng dụng, gia đình được giảm 5% giá cước. Số tiền được giảm là bao nhiêu?",
+    [
+     "10 000 đồng",
+     "5 000 đồng",
+     "20 000 đồng",
+     "1 000 đồng"
+    ],
+    "Số tiền được giảm là: 200 000 x 5 : 100 = 10 000 đồng."
+   ],
+   [
+    "Vườn nhà An có 50 cây ăn quả, trong đó có 18 cây bưởi. Số cây bưởi chiếm bao nhiêu phần trăm tổng số cây trong vườn?",
+    [
+     "36%",
+     "18%",
+     "3,6%",
+     "180%"
+    ],
+    "Tỉ số phần trăm của số cây bưởi là: 18 : 50 = 0,36 = 36%."
+   ],
+   [
+    "Số lượng học sinh tham gia câu lạc bộ Cờ vua của một trường là 45 em, chiếm 15% số học sinh toàn trường. Hỏi trường đó có bao nhiêu học sinh?",
+    [
+     "300 học sinh",
+     "675 học sinh",
+     "30 học sinh",
+     "450 học sinh"
+    ],
+    "Số học sinh toàn trường là: 45 : 15 x 100 = 300 học sinh."
+   ],
+   [
+    "Tính kết quả của phép tính: 18,5% x 4.",
+    [
+     "74%",
+     "7,4%",
+     "740%",
+     "74"
+    ],
+    "Ta lấy 18,5% x 4 = (18,5 x 4)% = 74%."
+   ],
+   [
+    "Giá niêm yết của một chiếc xe đạp là 2 000 000 đồng. Nhân dịp khai trương, cửa hàng giảm giá 12%. Hỏi người mua phải trả bao nhiêu tiền để mua chiếc xe đạp đó?",
+    [
+     "1 760 000 đồng",
+     "240 000 đồng",
+     "1 880 000 đồng",
+     "1 740 000 đồng"
+    ],
+    "Số tiền được giảm là: 2 000 000 x 12 : 100 = 240 000 đồng. Số tiền phải trả là: 2 000 000 - 240 000 = 1 760 000 đồng."
+   ],
+   [
+    "Bác Bình gửi tiết kiệm 50 000 000 đồng với lãi suất 0,6% một tháng. Hỏi sau một tháng, bác Bình nhận được tất cả bao nhiêu tiền (cả vốn lẫn lãi)?",
+    [
+     "50 300 000 đồng",
+     "300 000 đồng",
+     "53 000 000 đồng",
+     "50 030 000 đồng"
+    ],
+    "Tiền lãi sau 1 tháng là: 50 000 000 x 0,6 : 100 = 300 000 đồng. Tổng số tiền nhận được là: 50 000 000 + 300 000 = 50 300 000 đồng."
+   ],
+   [
+    "Lớp 5A có 32 học sinh. Trong đợt thu gom kế hoạch nhỏ, trung bình mỗi bạn thu gom được 2,5 kg giấy vụn. Biết số giấy vụn của tổ Một thu gom được chiếm 25% tổng số giấy vụn của cả lớp. Hỏi tổ Một thu gom được bao nhiêu ki-lô-gam giấy vụn?",
+    [
+     "20 kg",
+     "80 kg",
+     "200 kg",
+     "8 kg"
+    ],
+    "Tổng số giấy vụn cả lớp thu được là: 2,5 x 32 = 80 kg. Số giấy vụn tổ Một thu được là: 80 x 25 : 100 = 20 kg."
+   ],
+   [
+    "Số thập phân 1,25 được viết dưới dạng tỉ số phần trăm là gì?",
+    [
+     "125%",
+     "12,5%",
+     "1250%",
+     "1,25%"
+    ],
+    "Ta nhân số thập phân với 100 rồi thêm kí hiệu phần trăm vào bên phải: 1,25 x 100 = 125%"
+   ],
+   [
+    "Kết quả của phép tính 54% - 16% là bao nhiêu?",
+    [
+     "38%",
+     "38",
+     "3,8%",
+     "0,38%"
+    ],
+    "Ta trừ hai số phần trăm như trừ các số tự nhiên rồi giữ nguyên kí hiệu phần trăm: 54 - 16 = 38%"
+   ]
+  ]
+ }
+}

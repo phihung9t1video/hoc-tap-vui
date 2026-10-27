@@ -1,0 +1,406 @@
+{
+ "5-tinhoc": {
+  "c3": [
+   [
+    "Thư mục trong máy tính dùng để làm gì?",
+    [
+     "Chứa và quản lý các tệp hoặc thư mục con.",
+     "Xóa bỏ các dữ liệu không cần thiết.",
+     "Kết nối máy tính với mạng Internet.",
+     "Hiển thị hình ảnh trên màn hình."
+    ],
+    "Thư mục là nơi lưu trữ và giúp sắp xếp, quản lý các tệp và thư mục con một cách gọn gàng."
+   ],
+   [
+    "Trong máy tính, tệp được tạo ra khi nào?",
+    [
+     "Khi em lưu lại kết quả làm việc từ một phần mềm.",
+     "Khi em mở máy tính lên.",
+     "Khi em ngắt kết nối mạng Internet.",
+     "Khi em bật công tắc màn hình."
+    ],
+    "Tệp được tạo ra khi em thực hiện thao tác lưu nội dung công việc (văn bản, hình ảnh, âm thanh,...) trong các phần mềm."
+   ],
+   [
+    "Biểu tượng của thư mục trong hệ điều hành Windows thường có màu gì?",
+    [
+     "Màu vàng.",
+     "Màu xanh lá cây.",
+     "Màu đỏ.",
+     "Màu tím."
+    ],
+    "Trạng thái mặc định của thư mục trong hệ điều hành Windows thường có hình kẹp giấy hoặc cặp hồ sơ màu vàng."
+   ],
+   [
+    "Thành phần nào sau đây nằm trong thư mục?",
+    [
+     "Tệp và thư mục con.",
+     "Cáp nguồn máy tính.",
+     "Bàn phím và chuột.",
+     "Màn hình hiển thị."
+    ],
+    "Một thư mục có thể chứa các tệp tin và các thư mục con khác."
+   ],
+   [
+    "Hành vi nào sau đây là ứng xử lịch sự, văn minh khi truyền thông qua mạng?",
+    [
+     "Gửi lời cảm ơn khi nhận được sự giúp đỡ từ người khác.",
+     "Sử dụng ngôn ngữ thô tục khi trò chuyện.",
+     "Đăng thông tin sai sự thật về bạn bè lên mạng.",
+     "Tự ý chia sẻ thông tin cá nhân của người khác khi chưa xin phép."
+    ],
+    "Tôn trọng và nói lời cảm ơn khi nhận sự giúp đỡ thể hiện thái độ lịch sự, văn minh khi tương tác trên mạng."
+   ],
+   [
+    "Đâu là việc làm KHÔNG nên thực hiện khi giao tiếp trên mạng?",
+    [
+     "Mở bài viết hoặc tệp đính kèm từ người lạ không rõ nguồn gốc.",
+     "Nói lời hay, ý đẹp với bạn bè.",
+     "Hỏi ý kiến cha mẹ trước khi đăng ảnh lên mạng.",
+     "Bảo vệ mật khẩu tài khoản cá nhân."
+    ],
+    "Không nên mở tệp hay liên kết từ người lạ vì có thể chứa vi-rút hoặc mã độc hại."
+   ],
+   [
+    "Khi thấy một bài viết có nội dung xấu, nói xấu bạn bè trên mạng, em nên làm gì?",
+    [
+     "Báo cho thầy cô giáo hoặc cha mẹ biết để xử lý.",
+     "Bình luận tham gia nói xấu cùng các bạn.",
+     "Chia sẻ bài viết đó rộng rãi cho mọi người xem.",
+     "Nhắn tin đe dọa người đã đăng bài."
+    ],
+    "Khi gặp nội dung xấu hoặc vi phạm, em cần báo cho người lớn đáng tin cậy để được hỗ trợ giải quyết."
+   ],
+   [
+    "Sắp xếp thông tin trong máy tính theo dạng cây thư mục giúp chúng ta điều gì?",
+    [
+     "Tìm kiếm và quản lý tệp, dữ liệu nhanh chóng, dễ dàng hơn.",
+     "Giúp máy tính chạy nhanh hơn gấp hai lần.",
+     "Giúp tăng dung lượng bộ nhớ của máy tính.",
+     "Tự động sửa lỗi chính tả trong văn bản."
+    ],
+    "Tổ chức dữ liệu theo cây thư mục hợp lý giúp việc tìm kiếm tệp và quản lý thông tin thuận tiện, nhanh chóng."
+   ],
+   [
+    "Hình thức lưu trữ dạng cây thư mục bao gồm những phần nào?",
+    [
+     "Thư mục gốc, các thư mục con và tệp.",
+     "Chỉ gồm các tệp văn bản.",
+     "Chỉ gồm các tệp hình ảnh.",
+     "Màn hình nền và thanh công cụ."
+    ],
+    "Cấu trúc cây thư mục gồm thư mục gốc ở cấp cao nhất, bên trong chứa các thư mục con và các tệp."
+   ],
+   [
+    "Tại sao em không nên tùy tiện đăng tải thông tin cá nhân (như địa chỉ nhà, số điện thoại) lên mạng xã hội?",
+    [
+     "Vì kẻ xấu có thể lợi dụng thông tin đó để gây hại cho em và gia đình.",
+     "Vì làm như vậy sẽ làm máy tính bị hỏng.",
+     "Vì đăng thông tin sẽ làm mất kết nối Internet.",
+     "Vì thông tin đó sẽ bị xóa tự động sau một ngày."
+    ],
+    "Bảo vệ thông tin cá nhân giúp em tránh khỏi rủi ro bị kẻ xấu lừa đảo hoặc xâm phạm đời tư."
+   ],
+   [
+    "Giả sử em muốn nhận xét bài trình chiếu của bạn trên mạng, em nên chọn cách nào sau đây?",
+    [
+     "Khen ngợi điểm tốt và góp ý nhẹ nhàng, chân thành ở những điểm cần hoàn thiện.",
+     "Dùng lời lẽ chế giễu vì bài của bạn làm chưa đẹp.",
+     "Chê bai nặng lời để bạn sợ.",
+     "Đăng bài viết lên mạng để nhờ mọi người cùng vào chê."
+    ],
+    "Khi nhận xét công công khai hay riêng tư, em cần dùng ngôn ngữ lịch sự, mang tính xây dựng và tôn trọng bạn."
+   ],
+   [
+    "Thư mục cha là gì?",
+    [
+     "Là thư mục chứa thư mục đang xét bên trong nó.",
+     "Là tệp nằm trong một thư mục.",
+     "Là thư mục nằm bên trong một thư mục khác.",
+     "Là thư mục không chứa bất kỳ tệp nào."
+    ],
+    "Thư mục bao bọc trực tiếp một thư mục con bên trong được gọi là thư mục cha."
+   ],
+   [
+    "Nếu em nhận được tin nhắn từ một tài khoản lạ yêu cầu gửi ảnh thông tin căn cước công dân của bố mẹ, em sẽ làm gì?",
+    [
+     "Tuyệt đối không gửi và báo ngay cho bố mẹ biết.",
+     "Chụp ảnh gửi ngay vì tưởng đó là người quen của bố mẹ.",
+     "Gửi ảnh và xin người đó một ít tiền.",
+     "Chửi mắng người nhắn tin lại."
+    ],
+    "Không bao giờ cung cấp thông tin cá nhân của người thân cho người lạ và cần báo ngay cho cha mẹ."
+   ],
+   [
+    "Khi đặt tên cho thư mục và tệp, em nên đặt như thế nào?",
+    [
+     "Đặt tên rõ ràng, gợi nhớ đến nội dung bên trong.",
+     "Đặt tên thật dài chứa các ký tự đặc biệt.",
+     "Đặt tên giống nhau cho tất cả các thư mục.",
+     "Chỉ dùng các con số ngẫu nhiên không có ý nghĩa."
+    ],
+    "Đặt tên gợi nhớ giúp em dễ dàng nhận biết và tìm kiếm tệp, thư mục khi cần thiết."
+   ],
+   [
+    "Hành vi nào sau đây thể hiện sự tôn trọng quyền sở hữu trí tuệ khi sử dụng thông tin trên mạng?",
+    [
+     "Ghi rõ nguồn hoặc tác giả khi trích dẫn bài viết, hình ảnh.",
+     "Tự nhận bài viết của người khác là của mình.",
+     "Sao chép toàn bộ nội dung của người khác mà không xin phép.",
+     "Chỉnh sửa tên tác giả thành tên của mình rồi đăng tải."
+    ],
+    "Ghi rõ nguồn hoặc tác giả là thể hiện sự tôn trọng bản quyền và ứng xử chuẩn mực trên môi trường số."
+   ],
+   [
+    "Bạn An tạo cấu trúc thư mục để quản lý học tập lớp 5 như sau: Thư mục gốc “HOC TAP”, bên trong có các thư mục con “MON TOAN”, “MON TIN HOC”, “MON TIENG VIET”. Trong thư mục “MON TIN HOC”, An lưu tệp “Bài tập 1.docx”. Tệp “Bài tập 1.docx” nằm trong thư mục nào?",
+    [
+     "Thư mục “MON TIN HOC”.",
+     "Thư mục “MON TOAN”.",
+     "Thư mục “MON TIENG VIET”.",
+     "Thư mục gốc “HOC TAP”."
+    ],
+    "Theo cách sắp xếp của An, tệp “Bài tập 1.docx” được lưu trực tiếp bên trong thư mục “MON TIN HOC”."
+   ],
+   [
+    "Lớp 5A muốn lưu trữ các bức ảnh kỉ niệm chuyến tham quan theo các môn học và hoạt động. Cách tổ chức thư mục nào sau đây là hợp lý nhất?",
+    [
+     "Tạo thư mục “KI NIEM LOP 5A”, bên trong tạo các thư mục con “THAM QUAN”, “VAN NGHANH”, “THE THAO”.",
+     "Lưu tất cả ảnh ra màn hình nền không qua thư mục nào.",
+     "Tạo mỗi bức ảnh một thư mục riêng biệt.",
+     "Đặt tất cả ảnh vào một thư mục có tên “New Folder”."
+    ],
+    "Tạo thư mục chung rồi chia thành các thư mục con theo chủ đề cụ thể giúp quản lý ảnh khoa học và dễ tìm kiếm."
+   ],
+   [
+    "Trong lúc thảo luận nhóm trên mạng, bạn Minh đưa ra ý kiến khác với em. Em nên ứng xử như thế nào?",
+    [
+     "Lắng nghe ý kiến của bạn, cùng thảo luận để đưa ra thống nhất chung.",
+     "Rời khỏi nhóm trò chuyện và không chơi với bạn nữa.",
+     "Chê bai ý kiến của bạn là sai lầm và vô lý.",
+     "Yêu cầu các bạn khác đuổi Minh ra khỏi nhóm."
+    ],
+    "Tôn trọng ý kiến khác biệt và thảo luận ôn hòa là kỹ năng ứng xử văn minh trong làm việc nhóm trên mạng."
+   ],
+   [
+    "Bình vẽ một bức tranh rất đẹp bằng phần mềm Tập vẽ và muốn lưu lại để buổi sau mở ra vẽ tiếp. Bình nên thực hiện thao tác nào?",
+    [
+     "Chọn lệnh Lưu (Save) và đặt tên tệp gợi nhớ trong thư mục lưu trữ.",
+     "Tắt máy tính ngay lập tức.",
+     "Nhấn nút đóng phần mềm mà không bấm lưu.",
+     "Rút dây cắm điện của máy tính."
+    ],
+    "Để giữ lại kết quả làm việc, cần chọn lệnh Save và lưu vào thư mục phù hợp trước khi thoát phần mềm."
+   ],
+   [
+    "Khi tham gia một diễn đàn học tập trực tuyến, em thấy một người bạn liên tục gửi các tin nhắn rác, quảng cáo làm phiền mọi người. Em nên làm gì?",
+    [
+     "Báo cáo (Report) vi phạm cho quản trị viên của diễn đàn.",
+     "Gửi lại thật nhiều tin nhắn rác để trả đũa bạn đó.",
+     "Nói xấu bạn đó với tất cả các thành viên khác.",
+     "Tắt máy tính và không bao giờ học trực tuyến nữa."
+    ],
+    "Báo cáo cho quản trị viên là giải pháp đúng đắn để xử lý các hành vi làm phiền và giữ gìn môi trường mạng sạch đẹp."
+   ],
+   [
+    "Thư mục không chứa thư mục nào khác bên trong nó được gọi là gì?",
+    [
+     "Thư mục rỗng",
+     "Thư mục cha",
+     "Thư mục gốc",
+     "Tệp dữ liệu"
+    ],
+    "Thư mục không chứa thêm bất kỳ thư mục con hay tệp nào bên trong được gọi là thư mục rỗng."
+   ],
+   [
+    "Tệp hình ảnh thường có phần mở rộng nào sau đây?",
+    [
+     ".png",
+     ".docx",
+     ".mp3",
+     ".pptx"
+    ],
+    "Đuôi .png là phần mở rộng phổ biến của tệp hình ảnh, trong khi .docx là văn bản, .mp3 là âm thanh."
+   ],
+   [
+    "Trong máy tính, tệp bài trình chiếu PowerPoint thường có phần mở rộng là gì?",
+    [
+     ".pptx",
+     ".txt",
+     ".jpg",
+     ".mp4"
+    ],
+    "Các tệp được tạo bằng phần mềm trình chiếu PowerPoint thường có đuôi phần mở rộng là .pptx."
+   ],
+   [
+    "Khi em tạo một văn bản mới bằng phần mềm Soạn thảo văn bản và lưu lại, sản phẩm thu được trong máy tính là gì?",
+    [
+     "Một tệp",
+     "Một thư mục",
+     "Một ổ đĩa",
+     "Một phần mềm"
+    ],
+    "Khi lưu nội dung làm việc từ các phần mềm ứng dụng, máy tính sẽ tạo ra một tệp dữ liệu."
+   ],
+   [
+    "Việc gửi những lời chúc mừng sinh nhật lịch sự cho bạn bè trên mạng xã hội thể hiện nét đẹp nào?",
+    [
+     "Ứng xử văn minh trên không gian mạng",
+     "Bảo vệ dữ liệu cá nhân",
+     "Tôn trọng bản quyền tác giả",
+     "Tổ chức lưu trữ thông tin khoa học"
+    ],
+    "Gửi lời chúc mừng lịch sự và tôn trọng người khác là biểu hiện của ứng xử văn minh khi tham gia môi trường mạng."
+   ],
+   [
+    "Hành vi nào sau đây là vi phạm quy tắc ứng xử an toàn trên mạng?",
+    [
+     "Chia sẻ mật khẩu tài khoản học trực tuyến cho người lạ",
+     "Thoát tài khoản cá nhân sau khi sử dụng máy tính công cộng",
+     "Hỏi ý kiến bố mẹ trước khi tải một phần mềm mới",
+     "Từ chối kết bạn với những tài khoản không quen biết"
+    ],
+    "Chia sẻ mật khẩu với người lạ làm lộ thông tin cá nhân và nguy cơ bị mất tài khoản."
+   ],
+   [
+    "Khi muốn sao chép một đoạn thông tin trên mạng vào bài làm của mình, em cần thực hiện điều gì để tôn trọng tác giả?",
+    [
+     "Trích dẫn nguồn thông tin rõ ràng",
+     "Chỉnh sửa lại vài từ và coi là của mình",
+     "Xóa tên tác giả gốc để không ai biết",
+     "Sao chép toàn bộ mà không ghi nguồn"
+    ],
+    "Trích dẫn rõ nguồn gốc thông tin thể hiện sự tôn trọng quyền tác giả và tính trung thực."
+   ],
+   [
+    "Trong một thư mục chứa các tệp: “LichSu5.docx”, “DiaLy5.docx”, “Toan5.docx”. Điểm chung của các tệp này là gì?",
+    [
+     "Đều là các tệp văn bản",
+     "Đều là các tệp hình ảnh",
+     "Đều là các tệp âm thanh",
+     "Đều là các tệp video"
+    ],
+    "Các tệp có phần mở rộng .docx đều là tệp dữ liệu dạng soạn thảo văn bản."
+   ],
+   [
+    "Nếu thư mục “LỚP 5A” chứa thư mục “TỔ 1”, thì thư mục “LỚP 5A” được gọi là gì đối với thư mục “TỔ 1”?",
+    [
+     "Thư mục cha",
+     "Thư mục con",
+     "Thư mục rỗng",
+     "Tệp dữ liệu"
+    ],
+    "Thư mục bao chứa một thư mục khác trực tiếp bên trong nó được gọi là thư mục cha."
+   ],
+   [
+    "Bạn Hà muốn lưu trữ tệp bài hát “Tiến quân ca.mp3”. Hà nên lưu tệp này vào thư mục nào là hợp lí nhất?",
+    [
+     "Thư mục “AM THANH”",
+     "Thư mục “HINH ANH”",
+     "Thư mục “VAN BAN”",
+     "Thư mục “PHAN MEM”"
+    ],
+    "Tệp đuôi .mp3 là tệp âm thanh, nên lưu vào thư mục “AM THANH” để dễ quản lý và tìm kiếm."
+   ],
+   [
+    "Khi nhận được một email từ địa chỉ lạ có đính kèm tệp tin nghi vấn, em nên xử lý thế nào?",
+    [
+     "Không mở tệp đính kèm và báo cho người lớn biết",
+     "Mở tệp đính kèm ra xem ngay xem có gì bên trong",
+     "Chuyển tiếp email đó cho tất cả bạn bè trong lớp",
+     "Tải tệp đính kèm về máy tính rồi lưu vào thư mục cá nhân"
+    ],
+    "Tệp đính kèm từ thư lạ có thể chứa vi-rút gây hại máy tính, em không nên mở và cần báo cho người lớn."
+   ],
+   [
+    "Tại sao chúng ta nên sử dụng ngôn ngữ rõ ràng, hòa nhã khi nhắn tin trong nhóm học tập trực tuyến?",
+    [
+     "Để tránh gây hiểu nhầm và thể hiện sự tôn trọng các bạn",
+     "Để tin nhắn gửi đi nhanh hơn",
+     "Để máy tính không bị nhiễm vi-rút",
+     "Để tăng dung lượng lưu trữ của máy tính"
+    ],
+    "Giao tiếp hòa nhã, lịch sự giúp xây dựng môi trường học tập vui vẻ và tránh những tranh cãi không đáng có."
+   ],
+   [
+    "Khi em thấy bạn cùng lớp đăng một bức ảnh dẹp của em lên mạng xã hội mà chưa hỏi ý kiến, em nên nói gì với bạn?",
+    [
+     "Nhắc bạn nhẹ nhàng lần sau nhớ hỏi ý kiến em trước khi đăng",
+     "Đăng lại ảnh xấu của bạn lên mạng để trả đũa",
+     "Viết những lời tức giận, xúc phạm bạn bên dưới bài đăng",
+     "Nói xấu bạn với các bạn khác trong lớp"
+    ],
+    "Góp ý nhẹ nhàng và chân thành giúp bạn hiểu nguyên tắc tôn trọng riêng tư mà không làm ảnh hưởng tình bạn."
+   ],
+   [
+    "Đâu là ưu điểm nổi bật của việc tổ chức lưu trữ thông tin theo dạng cây thư mục?",
+    [
+     "Giúp tìm kiếm thông tin nhanh chóng và dễ dàng",
+     "Tự động sửa lỗi chính tả trong văn bản",
+     "Tăng tốc độ kết nối Mạng Internet",
+     "Giúp máy tính không bị hỏng hóc phần cứng"
+    ],
+    "Cây thư mục giúp phân loại thông tin rõ ràng, từ đó hỗ trợ tìm kiếm tài liệu nhanh chóng."
+   ],
+   [
+    "Một cây thư mục có cấu trúc: Thư mục gốc “GIAI TRI”, bên trong có hai thư mục con là “PHIM HOAT HINH” và “AM NHAC”. Trong “AM NHAC” có tệp “Thieu nhi.mp3”. Đường dẫn đến tệp này là gì?",
+    [
+     "GIAI TRI \\ AM NHAC \\ Thieu nhi.mp3",
+     "GIAI TRI \\ PHIM HOAT HINH \\ Thieu nhi.mp3",
+     "AM NHAC \\ GIAI TRI \\ Thieu nhi.mp3",
+     "Thieu nhi.mp3 \\ AM NHAC \\ GIAI TRI"
+    ],
+    "Đường dẫn đi từ thư mục gốc “GIAI TRI” đến thư mục con “AM NHAC” rồi đến tệp “Thieu nhi.mp3”."
+   ],
+   [
+    "Bạn Hoa có các tệp: “Bài 1.docx”, “Hoa.jpg”, “Bài 2.docx”, “Meo.jpg”. Để thư mục gọn gàng, Hoa nên làm gì?",
+    [
+     "Tạo 2 thư mục “VAN BAN” và “HINHANH” để phân loại tệp",
+     "Xóa bớt các tệp đuôi .jpg đi",
+     "Đổi tên tất cả các tệp thành tên giống nhau",
+     "Gộp tất cả nội dung vào một tệp duy nhất"
+    ],
+    "Tạo các thư mục con theo thể loại tệp (văn bản, hình ảnh) giúp việc quản lý dữ liệu ngăn nắp hơn."
+   ],
+   [
+    "Bạn Nam chụp được nhiều ảnh trong chuyến dã ngoại và muốn chia sẻ lên nhóm lớp. Nam nên làm gì để ứng xử văn minh?",
+    [
+     "Lựa chọn những bức ảnh đẹp, lịch sự và phù hợp để đăng",
+     "Đăng toàn bộ ảnh kể cả những ảnh dìm, dở khóc dở cười của bạn",
+     "Đăng ảnh kèm theo các lời bình luận chê bai trang phục của bạn",
+     "Tự ý gắn thẻ tài khoản của người lạ vào các bức ảnh"
+    ],
+    "Chọn lọc hình ảnh đẹp, tôn trọng hình ảnh cá nhân của bạn bè là hành vi văn minh trên mạng."
+   ],
+   [
+    "Trong máy tính, nếu em vô tình xóa một tệp quan trọng, tệp đó thường được đưa vào đâu trước khi bị xóa vĩnh viễn?",
+    [
+     "Thùng rác (Recycle Bin)",
+     "Thư mục My Documents",
+     "Ổ đĩa C",
+     "Mạng Internet"
+    ],
+    "Khi bị xóa thông thường trên hệ điều hành Windows, tệp sẽ chuyển vào Thùng rác (Recycle Bin) để có thể khôi phục khi cần."
+   ],
+   [
+    "Lan nhận được lời mời tham gia một nhóm trên mạng chuyên chia sẻ đáp án các bài kiểm tra. Lan nên xử lý thế nào?",
+    [
+     "Từ chối tham gia và khuyên các bạn tự giác học tập",
+     "Tham gia ngay để chép đáp án cho nhanh",
+     "Rủ thêm thật nhiều bạn trong lớp cùng tham gia",
+     "Đón nhận và chia sẻ rộng rãi lên trang cá nhân"
+    ],
+    "Gian lận trong học tập là hành vi không tốt, từ chối và giữ tính trung thực là cách ứng xử đúng đắn."
+   ],
+   [
+    "Khi tạo một thư mục mới để lưu bài tập môn Tin học lớp 5, tên thư mục nào sau đây là hợp lí nhất?",
+    [
+     "Bai tap Tin hoc 5",
+     "Thumuccuatoi123456",
+     "???",
+     "Document1"
+    ],
+    "Tên thư mục nên rõ ràng, gợi nhớ nội dung chứa bên trong và không chứa các ký tự đặc biệt như dấu chấm hỏi."
+   ]
+  ]
+ }
+}

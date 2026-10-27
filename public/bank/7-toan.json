@@ -1603,6 +1603,206 @@
     "90°"
    ],
    "Hai góc đối đỉnh thì bằng nhau."
+  ],
+  [
+   "Trong các khẳng định sau, khẳng định nào đúng về hai góc đối đỉnh?",
+   [
+    "Hai góc đối đỉnh là hai góc mà mỗi cạnh của góc này là tia đối của một cạnh thuộc góc kia.",
+    "Hai góc có số đo bằng nhau thì luôn đối đỉnh với nhau.",
+    "Hai góc có chung đỉnh và số đo bằng nhau là hai góc đối đỉnh.",
+    "Hai góc đối đỉnh thì luôn kề bù với nhau."
+   ],
+   "Định nghĩa hai góc đối đỉnh là hai góc mà mỗi cạnh của góc này là tia đối của một cạnh thuộc góc kia."
+  ],
+  [
+   "Cho hai góc ∠aOb và ∠bOc kề bù với nhau. Khẳng định nào sau đây diễn tả đúng tính chất của hai góc này?",
+   [
+    "Hai góc ∠aOb và ∠bOc có một cạnh chung O b và hai cạnh O a, O c là hai tia đối nhau.",
+    "Hai góc ∠aOb và ∠bOc có tổng số đo bằng 90°.",
+    "Hai góc ∠aOb và ∠bOc không có điểm trong chung.",
+    "Hai góc ∠aOb và ∠bOc bằng nhau."
+   ],
+   "Hai góc kề bù vừa kề nhau vừa bù nhau, nên có một cạnh chung và hai cạnh còn lại là hai tia đối nhau."
+  ],
+  [
+   "Cho góc ∠mOn = 70°. Vẽ tia Oz là tia phân giác của góc ∠mOn. Tính số đo góc ∠zOn.",
+   [
+    "35°",
+    "140°",
+    "70°",
+    "110°"
+   ],
+   "Tia Oz là tia phân giác của ∠mOn nên ∠zOn = ∠mOn / 2 = 70° / 2 = 35°."
+  ],
+  [
+   "Quan sát hai đường thẳng a và b cắt nhau tại O. Nếu biết góc ∠O1 = 45° thì góc kề bù với ∠O1 có số đo bằng bao nhiêu?",
+   [
+    "135°",
+    "45°",
+    "90°",
+    "180°"
+   ],
+   "Hai góc kề bù có tổng số đo bằng 180°, nên góc kề bù với ∠O1 bằng 180° - 45° = 135°."
+  ],
+  [
+   "Trong các câu sau, câu nào là một phát biểu đúng của định lí?",
+   [
+    "Định lí là một khẳng định được suy ra từ những khẳng định được coi là đúng.",
+    "Định lí là một câu hỏi chưa có lời giải đáp.",
+    "Định lí là giả thiết không cần chứng minh.",
+    "Định lí là một phép đo đạc thực nghiệm trong hình học."
+   ],
+   "Định lí là một khẳng định được suy ra từ những khẳng định đúng thông qua chứng minh."
+  ],
+  [
+   "Trong chứng minh định lí, phần “Giả thiết” (GT) là gì?",
+   [
+    "Những điều cho biết ban đầu.",
+    "Những điều cần phải kết luận.",
+    "Tất cả các góc trong hình vẽ.",
+    "Điều khẳng định cuối cùng."
+   ],
+   "Giả thiết của định lí là những điều đã cho biết ban đầu."
+  ],
+  [
+   "Chọn phát biểu ĐÚNG trong các phát biểu sau:",
+   [
+    "Đường trung trực của một đoạn thẳng là đường thẳng vuông góc với đoạn thẳng đó tại trung điểm của nó.",
+    "Đường trung trực của một đoạn thẳng đi qua một đầu mút của đoạn thẳng đó.",
+    "Đường trung trực là đường thẳng song song với đoạn thẳng.",
+    "Đoạn thẳng nào cũng có vô số đường trung trực."
+   ],
+   "Đường trung trực của đoạn thẳng là đường thẳng vuông góc với đoạn thẳng tại trung điểm của đoạn thẳng đó."
+  ],
+  [
+   "Cho đường thẳng c cắt hai đường thẳng a và b. Điều kiện nào sau đây KHÔNG đủ để kết luận a song song với b?",
+   [
+    "Hai góc kề bù có số đo bằng nhau.",
+    "Một cặp góc so le trong bằng nhau.",
+    "Một cặp góc đồng vị bằng nhau.",
+    "Một cặp góc trong cùng phía bù nhau."
+   ],
+   "Hai góc kề bù bằng nhau chỉ cho biết mỗi góc bằng 90°, không hề chứng tỏ hai đường thẳng a và b song song."
+  ],
+  [
+   "Cho hai góc ∠xOy và ∠yOz kề nhau, biết ∠xOy = 40° và ∠xOz = 100°. Số đo của góc ∠yOz là bao nhiêu?",
+   [
+    "60°",
+    "140°",
+    "50°",
+    "80°"
+   ],
+   "Vì ∠xOy và ∠yOz kề nhau và ∠xOz = 100° nên ∠yOz = ∠xOz - ∠xOy = 100° - 40° = 60°."
+  ],
+  [
+   "Hai đường thẳng xx' và yy' cắt nhau tại I tạo thành góc ∠xIy = 50°. Tính tổng số đo của hai góc ∠xIy' và ∠x'Iy.",
+   [
+    "260°",
+    "130°",
+    "100°",
+    "180°"
+   ],
+   "Góc ∠xIy' và ∠x'Iy đều kề bù với góc ∠xIy = 50° nên ∠xIy' = ∠x'Iy = 180° - 50° = 130°. Tổng hai góc là 130° + 130° = 260°."
+  ],
+  [
+   "Cho góc ∠AOB = 110°. Tia OC nằm trong góc ∠AOB sao cho ∠AOC = 55°. Chọn khẳng định đúng.",
+   [
+    "OC là tia phân giác của góc ∠AOB.",
+    "OC không phải là tia phân giác của góc ∠AOB.",
+    "Góc ∠BOC = 65°.",
+    "Góc ∠AOC lớn hơn góc ∠BOC."
+   ],
+   "Vì OC nằm trong góc ∠AOB và ∠AOC = 55° = 110° / 2 nên OC là tia phân giác của góc ∠AOB."
+  ],
+  [
+   "Hai đường thẳng a và b song song với nhau. Một đường thẳng c cắt a tại A và cắt b tại B. Biết một góc so le trong tại A bằng 50°. Tính góc trong cùng phía với góc đó tại đỉnh B.",
+   [
+    "130°",
+    "50°",
+    "40°",
+    "100°"
+   ],
+   "Hai góc trong cùng phía có tổng số đo bằng 180°, nên góc còn lại bằng 180° - 50° = 130°."
+  ],
+  [
+   "Cho đoạn thẳng AB dài 6 cm. Gọi I là trung điểm của AB, d là đường trung trực của AB. Khoảng cách từ I đến mỗi điểm A, B là:",
+   [
+    "3 cm",
+    "6 cm",
+    "12 cm",
+    "1,5 cm"
+   ],
+   "I là trung điểm của AB nên IA = IB = AB / 2 = 6 / 2 = 3 cm."
+  ],
+  [
+   "Cho phát biểu: “Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc đồng vị...”. Từ thích hợp điền vào chỗ trống là:",
+   [
+    "bằng nhau",
+    "bù nhau",
+    "phụ nhau",
+    "kề nhau"
+   ],
+   "Theo tính chất của hai đường thẳng song song, nếu một đường thẳng cắt hai đường thẳng song song thì hai góc đồng vị bằng nhau."
+  ],
+  [
+   "Nếu hai đường thẳng m và n song song với nhau, đường thẳng p vuông góc với m thì đường thẳng p và n có quan hệ gì?",
+   [
+    "p vuông góc với n",
+    "p song song với n",
+    "p trùng với n",
+    "p không cắt n"
+   ],
+   "Một đường thẳng vuông góc với một trong hai đường thẳng song song thì nó cũng vuông góc với đường thẳng còn lại."
+  ],
+  [
+   "Cho ba đường thẳng a, b, c. Biết a // b và b // c. Khẳng định nào sau đây là đúng?",
+   [
+    "a // c",
+    "a ⊥ c",
+    "a cắt c",
+    "a trùng c"
+   ],
+   "Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì chúng song song với nhau."
+  ],
+  [
+   "Cho hai góc kề bù ∠AOB và ∠BOC. Biết tia Om là phân giác của ∠AOB, tia On là phân giác của ∠BOC. Số đo góc ∠mOn bằng:",
+   [
+    "90°",
+    "180°",
+    "45°",
+    "60°"
+   ],
+   "Hai tia phân giác của hai góc kề bù luôn vuông góc với nhau, nên ∠mOn = 90°."
+  ],
+  [
+   "Trong các khẳng định về định lí “Hai góc đối đỉnh thì bằng nhau”, giả thiết của định lí này là gì?",
+   [
+    "Hai góc là hai góc đối đỉnh.",
+    "Hai góc bằng nhau.",
+    "Hai góc kề bù.",
+    "Hai góc cùng chung đỉnh."
+   ],
+   "Giả thiết là điều kiện ban đầu cho trước: “Hai góc là hai góc đối đỉnh”."
+  ],
+  [
+   "Cho hình vẽ có hai đường thẳng x và y song song. Đường thẳng z cắt x và y lần lượt tại A và B. Biết góc đồng vị ∠A1 = 2x + 10° và góc đồng vị ∠B1 = 70°. Giá trị của x là:",
+   [
+    "30",
+    "40",
+    "35",
+    "60"
+   ],
+   "Vì x // y nên hai góc đồng vị bằng nhau: 2x + 10° = 70° suy ra 2x = 60° hay x = 30."
+  ],
+  [
+   "Cho hai đường thẳng cắt nhau tạo thành một góc bằng 55 độ. Số đo của góc đối đỉnh với góc đó là:",
+   [
+    "55 độ",
+    "125 độ",
+    "35 độ",
+    "90 độ"
+   ],
+   "Hai góc đối đỉnh thì bằng nhau nên góc đối đỉnh với góc 55 độ cũng có số đo bằng 55 độ."
   ]
  ],
  "c4": [
@@ -2005,6 +2205,206 @@
     "Có một cạnh bằng nhau"
    ],
    "Cạnh – cạnh – cạnh."
+  ],
+  [
+   "Cho tam giác ABC bằng tam giác MNP. Biết góc A bằng 60 độ, góc N bằng 70 độ. Số đo góc P là",
+   [
+    "50 độ",
+    "60 độ",
+    "70 độ",
+    "80 độ"
+   ],
+   "Vì tam giác ABC bằng tam giác MNP nên góc P bằng góc C. Xét tam giác MNP có tổng ba góc bằng 180 độ, suy ra góc P bằng 180 độ trừ đi 60 độ trừ đi 70 độ bằng 50 độ."
+  ],
+  [
+   "Cho tam giác DEF và tam giác HIK có DE = HI, góc E bằng góc I. Cần thêm điều kiện nào để hai tam giác bằng nhau theo trường hợp cạnh - góc - cạnh",
+   [
+    "EF = IK",
+    "DF = HK",
+    "góc D bằng góc H",
+    "FE = KH"
+   ],
+   "Để hai tam giác bằng nhau theo trường hợp c.g.c thì góc bằng nhau phải là góc xen giữa hai cặp cạnh bằng nhau. Góc xen giữa DE và EF là góc E, góc xen giữa HI và IK là góc I."
+  ],
+  [
+   "Cho tam giác ABC bằng tam giác DEG. Biết AB = 4 cm, BC = 5 cm, CA = 6 cm. Chu vi tam giác DEG là",
+   [
+    "15 cm",
+    "14 cm",
+    "12 cm",
+    "10 cm"
+   ],
+   "Vì tam giác ABC bằng tam giác DEG nên các cạnh tương ứng bằng nhau: DE = AB = 4 cm, EG = BC = 5 cm, GD = CA = 6 cm. Chu vi tam giác DEG là 4 + 5 + 6 = 15 cm."
+  ],
+  [
+   "Hai tam giác vuông có bao nhiêu cặp cạnh huyền tương ứng bằng nhau và một cặp cạnh góc vuông tương ứng bằng nhau thì bằng nhau",
+   [
+    "1 cặp cạnh huyền và 1 cặp cạnh góc vuông",
+    "2 cặp cạnh huyền",
+    "2 cặp cạnh góc vuông",
+    "1 cặp cạnh huyền và 2 cặp cạnh góc vuông"
+   ],
+   "Theo trường hợp bằng nhau về cạnh huyền và cạnh góc vuông của tam giác vuông, hai tam giác vuông bằng nhau nếu có cạnh huyền và một cạnh góc vuông bằng nhau."
+  ],
+  [
+   "Cho tam giác ABC có AB = AC và M là trung điểm của BC. Khẳng định nào sau đây là sai",
+   [
+    "AM vuông góc với AB",
+    "tam giác AMB bằng tam giác AMC",
+    "AM là phân giác góc BAC",
+    "AM vuông góc với BC"
+   ],
+   "Tam giác ABC cân tại A có AM là đường trung tuyến đồng thời là đường cao và phân giác. Do đó AM vuông góc với BC, tam giác AMB bằng tam giác AMC và AM là phân giác. Khẳng định AM vuông góc với AB là sai."
+  ],
+  [
+   "Cho tam giác ABC bằng tam giác MNP. Biết góc A bằng 70 độ, góc P bằng 50 độ. Số đo góc B là",
+   [
+    "60 độ",
+    "70 độ",
+    "50 độ",
+    "80 độ"
+   ],
+   "Vì tam giác ABC bằng tam giác MNP nên góc C bằng góc P bằng 50 độ và góc A bằng góc M bằng 70 độ. Góc B bằng 180 độ trừ đi 70 độ trừ đi 50 độ bằng 60 độ."
+  ],
+  [
+   "Cho tam giác ABC và tam giác DEF có AB = DE, AC = DF. Cần thêm điều kiện gì để hai tam giác bằng nhau theo trường hợp cạnh - cạnh - cạnh",
+   [
+    "BC = EF",
+    "góc A bằng góc D",
+    "BC = DE",
+    "góc B bằng góc E"
+   ],
+   "Trường hợp c.c.c yêu cầu ba cặp cạnh tương ứng phải bằng nhau. Đã có AB = DE và AC = DF, ta cần thêm BC = EF."
+  ],
+  [
+   "Cho tam giác ABC và tam giác MNP có góc A bằng góc M, góc C bằng góc P. Cần thêm điều kiện gì để hai tam giác bằng nhau theo trường hợp góc - cạnh - góc",
+   [
+    "AC = MP",
+    "AB = MN",
+    "BC = NP",
+    "AC = MN"
+   ],
+   "Hai cặp góc đã bằng nhau là góc A và M, góc C và P. Cạnh kề với hai góc này là cạnh AC và MP, do đó cần thêm điều kiện AC = MP."
+  ],
+  [
+   "Cho tam giác ABC bằng tam giác KHI. Biết góc B bằng 55 độ, góc I bằng 75 độ. Số đo góc A là",
+   [
+    "50 độ",
+    "55 độ",
+    "75 độ",
+    "65 độ"
+   ],
+   "Tam giác ABC bằng tam giác KHI nên góc B bằng góc H bằng 55 độ, góc C bằng góc I bằng 75 độ. Góc A bằng 180 độ trừ đi 55 độ trừ đi 75 độ bằng 50 độ."
+  ],
+  [
+   "Cho hai tam giác vuông ABC và MNP có góc vuông tại A và M. Biết AB = MN và góc B bằng góc N. Hai tam giác này bằng nhau theo trường hợp",
+   [
+    "g.c.g",
+    "c.g.c",
+    "c.c.c",
+    "cạnh huyền góc nhọn"
+   ],
+   "Xét tam giác ABC và MNP có cạnh góc vuông AB = MN, kề với góc nhọn B bằng góc N nên hai tam giác bằng nhau theo trường hợp góc - cạnh - góc."
+  ],
+  [
+   "Cho tam giác ABC có AB = AC. Lấy điểm D trên cạnh AB, điểm E trên cạnh AC sao cho AD = AE. Khẳng định nào sau đây là đúng",
+   [
+    "tam giác ABE bằng tam giác ACD",
+    "tam giác ABD bằng tam giác ACE",
+    "tam giác ABC bằng tam giác ADE",
+    "tam giác ABE bằng tam giác ABC"
+   ],
+   "Xét tam giác ABE và tam giác ACD có góc A chung, AB = AC và AE = AD nên tam giác ABE bằng tam giác ACD theo trường hợp c.g.c."
+  ],
+  [
+   "Cho tam giác ABC và tam giác MNP có AB = MN, AC = MP. Để tam giác ABC bằng tam giác MNP theo trường hợp cạnh - góc - cạnh thì cần thêm điều kiện",
+   [
+    "góc A bằng góc M",
+    "góc B bằng góc N",
+    "góc C bằng góc P",
+    "BC = NP"
+   ],
+   "Hai cặp cạnh đã bằng nhau là AB, MN và AC, MP. Góc xen giữa hai cặp cạnh này là góc A và góc M, vậy cần thêm góc A bằng góc M."
+  ],
+  [
+   "Cho tam giác ABC vuông tại A có AB bằng 3 cm, AC bằng 4 cm. Tam giác MNP vuông tại M có MN bằng 3 cm, MP bằng 4 cm. Khẳng định nào sau đây là đúng",
+   [
+    "tam giác ABC bằng tam giác MNP",
+    "tam giác ABC lớn hơn tam giác MNP",
+    "tam giác ABC bằng tam giác PMN",
+    "tam giác ABC không bằng tam giác MNP"
+   ],
+   "Hai tam giác vuông có hai cặp cạnh góc vuông tương ứng bằng nhau là AB = MN = 3 cm và AC = MP = 4 cm nên hai tam giác bằng nhau theo trường hợp hai cạnh góc vuông."
+  ],
+  [
+   "Cho góc xOy khác góc bẹt, vẽ tia phân giác Oz. Lấy điểm M trên Oz, kẻ MA vuông góc với Ox tại A, MB vuông góc với Oy tại B. Khẳng định nào sau đây là sai",
+   [
+    "MA khác MB",
+    "tam giác OAM bằng tam giác OBM",
+    "OA bằng OB",
+    "góc OMA bằng góc OMB"
+   ],
+   "Theo tính chất tia phân giác, điểm nằm trên tia phân giác cách đều hai cạnh của góc nên MA bằng MB. Khẳng định MA khác MB là sai."
+  ],
+  [
+   "Cho tam giác ABC cân tại A. Trên tia đối của tia BC lấy điểm M, trên tia đối của tia CB lấy điểm N sao cho BM = CN. Khẳng định nào sau đây là đúng",
+   [
+    "tam giác AMN là tam giác cân",
+    "tam giác AMN là tam giác vuông",
+    "tam giác AMN là tam giác đều",
+    "tam giác AMN là tam giác nhọn"
+   ],
+   "Tam giác ABC cân tại A nên góc ABC bằng góc ACB, suy ra góc ABM bằng góc ACN. Tam giác ABM bằng tam giác ACN theo trường hợp c.g.c nên AM = AN, do đó tam giác AMN cân tại A."
+  ],
+  [
+   "Cho tam giác ABC có AB bằng AC. Kẻ BD vuông góc với AC tại D, CE vuông góc với AB tại E. Gọi O là giao điểm của BD và CE. Khẳng định nào sau đây là đúng",
+   [
+    "tam giác OBC là tam giác cân",
+    "tam giác OBC là tam giác đều",
+    "tam giác OBC là tam giác vuông",
+    "tam giác OBC là tam giác tù"
+   ],
+   "Chứng minh được tam giác ABD bằng tam giác ACE suy ra góc B bằng góc C, do đó tam giác OBC có góc OCB bằng góc OBC nên là tam giác cân tại O."
+  ],
+  [
+   "Cho tam giác ABC bằng tam giác DEF. Biết AB = 5 cm, BC = 7 cm, DF = 6 cm. Độ dài cạnh AC là bao nhiêu?",
+   [
+    "6 cm",
+    "5 cm",
+    "7 cm",
+    "18 cm"
+   ],
+   "Vì tam giác ABC bằng tam giác DEF nên hai cạnh tương ứng AC và DF bằng nhau, do đó AC = DF = 6 cm."
+  ],
+  [
+   "Nếu tam giác PQR bằng tam giác XYZ thì cặp góc nào sau đây là hai góc tương ứng bằng nhau?",
+   [
+    "Góc P và góc X",
+    "Góc P và góc Y",
+    "Góc Q và góc X",
+    "Góc R và góc Y"
+   ],
+   "Từ kí hiệu hai tam giác bằng nhau ΔPQR = ΔXYZ, các đỉnh tương ứng là P với X, Q với Y, R với Z. Do đó góc P = góc X."
+  ],
+  [
+   "Cho tam giác ABC và tam giác GHK có AB = GH, BC = HK, AC = GK. Cách viết nào sau đây thể hiện đúng sự bằng nhau của hai tam giác?",
+   [
+    "ΔABC = ΔGHK",
+    "ΔABC = ΔHGK",
+    "ΔABC = ΔKHG",
+    "ΔBAC = ΔGHK"
+   ],
+   "Dựa vào các cặp cạnh bằng nhau, ta có đỉnh A tương ứng với G, B tương ứng với H, C tương ứng với K. Vậy ΔABC = ΔGHK."
+  ],
+  [
+   "Cho tam giác MNP vuông tại M và tam giác STU vuông tại S. Biết NP = TU và góc N = góc T. Hai tam giác này bằng nhau theo trường hợp nào?",
+   [
+    "Cạnh huyền - góc nhọn",
+    "Cạnh góc vuông - góc nhọn kề",
+    "Cạnh huyền - cạnh góc vuông",
+    "Góc - cạnh - góc"
+   ],
+   "Tam giác MNP và STU vuông tại M và S có NP = TU (hai cạnh huyền bằng nhau) và góc N = góc T (hai góc nhọn tương ứng bằng nhau), nên bằng nhau theo trường hợp cạnh huyền - góc nhọn."
   ]
  ],
  "c5": [
@@ -2407,6 +2807,206 @@
     "4"
    ],
    "Tổng 25 chia 5 = 5."
+  ],
+  [
+   "Phương pháp nào sau đây là phương pháp thu thập dữ liệu gián tiếp?",
+   [
+    "Sưu tầm từ sách báo hoặc internet",
+    "Làm thí nghiệm trong phòng thực hành",
+    "Phỏng vấn trực tiếp học sinh trong trường",
+    "Đo chiều cao của các học sinh trong lớp"
+   ],
+   "Sưu tầm từ nguồn có sẵn như sách báo hay internet là thu thập gián tiếp, còn phỏng vấn, đo đạc, làm thí nghiệm là thu thập trực tiếp."
+  ],
+  [
+   "Trong các dãy dữ liệu sau, dãy nào là dữ liệu số?",
+   [
+    "Số học sinh vắng mặt trong 5 ngày: 1, 0, 2, 1, 3",
+    "Xếp loại học lực: Tốt, Khá, Đạt, Tốt, Khá",
+    "Nơi sinh của học sinh: Hà Nội, Huế, Đà Nẵng, Cần Thơ",
+    "Thủ đô các nước: Hà Nội, Viêng Chăn, Bang Cốc"
+   ],
+   "Dãy số học sinh vắng mặt gồm các số cụ thể (1, 0, 2, 1, 3) nên là dữ liệu số (định lượng)."
+  ],
+  [
+   "Cho các dữ liệu sau: “Biển số xe: 29A-12345, 30F-67890”. Dữ liệu này thuộc loại nào?",
+   [
+    "Dữ liệu không là số",
+    "Dữ liệu số",
+    "Dữ liệu số nguyên dương",
+    "Dữ liệu số thực"
+   ],
+   "Biển số xe có chứa các chữ cái và kí tự đặc biệt, không phản ánh số đo hay số lượng nên là dữ liệu không là số."
+  ],
+  [
+   "Muốn biết mức độ chênh lệch năng suất lúa giữa các tỉnh miền Tây, dữ liệu thu thập được nên trình bày ở dạng nào là hợp lí nhất?",
+   [
+    "Bảng thống kê",
+    "Một câu văn miêu tả dài",
+    "Dạng danh sách họ tên",
+    "Mô tả bằng hình ảnh minh họa"
+   ],
+   "Bảng thống kê giúp sắp xếp các số liệu năng suất lúa từng tỉnh một cách rõ ràng, trực quan để dễ so sánh."
+  ],
+  [
+   "Một góc ở tâm trên biểu đồ hình quạt tròn có số đo là 180°. Phần này chiếm bao nhiêu phần trăm tổng thể?",
+   [
+    "50%",
+    "100%",
+    "25%",
+    "75%"
+   ],
+   "Góc 180° bằng một nửa góc cả đường tròn (360°), tương ứng với 50% tổng thể."
+  ],
+  [
+   "Nút tròn (điểm) trên biểu đồ đoạn thẳng thường dùng để biểu diễn giá trị nào?",
+   [
+    "Giá trị của dữ liệu tại thời điểm tương ứng",
+    "Tỉ lệ phần trăm so với tổng thể",
+    "Số lượng các tiêu chí thống kê",
+    "Tốc độ tăng trưởng trung bình"
+   ],
+   "Mỗi nút tròn trên biểu đồ đoạn thẳng biểu diễn giá trị số liệu thu được tại một thời điểm hoặc mốc xác định."
+  ],
+  [
+   "Bộ phận kiểm tra chất lượng của một nhà máy muốn biết tỉ lệ sản phẩm bị lỗi trong ngày. Cách thu thập dữ liệu nào sau đây là tiêu biểu và tiết kiệm chi phí?",
+   [
+    "Lấy ngẫu nhiên 100 sản phẩm trong ngày để kiểm tra",
+    "Kiểm tra tất cả sản phẩm sản xuất trong một năm",
+    "Đo chiều dài của các thiết bị sản xuất",
+    "Hỏi ý kiến của người tiêu dùng về màu sắc sản phẩm"
+   ],
+   "Lấy mẫu ngẫu nhiên 100 sản phẩm trong ngày giúp đại diện cho chất lượng sản phẩm ngày đó mà không tốn quá nhiều thời gian, chi phí."
+  ],
+  [
+   "Cho bảng dữ liệu ghi lại số tiền tiêu xài hàng tuần (đơn vị: nghìn đồng) của 4 học sinh: 50, 70, 60, 200. Dữ liệu nào có vẻ không hợp lí đối với học sinh THCS?",
+   [
+    "200",
+    "50",
+    "70",
+    "60"
+   ],
+   "Giá trị 200 nghìn đồng quá lệch so với mặt bằng chung (50, 60, 70 nghìn đồng) nên là dữ liệu không hợp lí cần xác minh lại."
+  ],
+  [
+   "Một quạt tròn được chia thành 4 phần ứng với các tỉ lệ 10%, 20%, 30%, 40%. Góc ở tâm ứng với phần 10% có số đo là bao nhiêu?",
+   [
+    "36°",
+    "10°",
+    "18°",
+    "72°"
+   ],
+   "Số đo góc ở tâm tương ứng là 10% x 360° = 36°."
+  ],
+  [
+   "Khi muốn biểu diễn xu hướng tăng hoặc giảm lượng mưa trung bình các tháng trong năm, loại biểu đồ nào là thích hợp nhất?",
+   [
+    "Biểu đồ đoạn thẳng",
+    "Biểu đồ hình quạt tròn",
+    "Biểu đồ cột đôi",
+    "Biểu đồ tranh"
+   ],
+   "Biểu đồ đoạn thẳng rất phù hợp để thể hiện sự thay đổi, xu hướng tăng giảm của một đại lượng theo thời gian."
+  ],
+  [
+   "Số lượng xe máy bán được trong 4 tháng cuối năm của một cửa hàng tăng liên tục. Nếu vẽ biểu đồ đoạn thẳng thể hiện số xe bán được, đường nối các điểm sẽ có xu hướng như thế nào từ trái sang phải?",
+   [
+    "Đi lên",
+    "Đi xuống",
+    "Nằm ngang",
+    "Lên xuống thất thường"
+   ],
+   "Vì số lượng xe bán được tăng liên tục qua các tháng nên đoạn thẳng nối các điểm theo thời gian sẽ đi lên từ trái sang phải."
+  ],
+  [
+   "Kết quả khảo sát loại nước uống yêu thích của 200 học sinh cho thấy nước cam chiếm 35%. Số học sinh thích nước cam là bao nhiêu?",
+   [
+    "70 học sinh",
+    "35 học sinh",
+    "60 học sinh",
+    "100 học sinh"
+   ],
+   "Số học sinh thích nước cam là 200 x 35% = 70 học sinh."
+  ],
+  [
+   "Bạn An ghi lại nhiệt độ lúc 12 giờ trưa trong 5 ngày liên tiếp thu được các số liệu: 28°C, 29°C, 31°C, 100°C, 30°C. Dữ liệu nào không hợp lý?",
+   [
+    "100°C",
+    "28°C",
+    "31°C",
+    "30°C"
+   ],
+   "Nhiệt độ môi trường thực tế không thể đạt 100°C, do đó giá trị 100°C là không hợp lí."
+  ],
+  [
+   "Biểu đồ hình quạt tròn thể hiện kết quả bình chọn cán bộ lớp. Nếu bạn Nam nhận được góc ở tâm là 90°, hỏi bạn Nam nhận được bao nhiêu phần trăm số phiếu?",
+   [
+    "25%",
+    "90%",
+    "50%",
+    "30%"
+   ],
+   "Tỉ lệ phần trăm phiếu của bạn Nam là (90° / 360°) x 100% = 25%."
+  ],
+  [
+   "Một biểu đồ đoạn thẳng biểu diễn số học sinh giỏi của một trường qua 3 năm: Năm 1 (50 học sinh), Năm 2 (80 học sinh), Năm 3 (100 học sinh). Số học sinh giỏi Năm 3 tăng bao nhiêu so với Năm 1?",
+   [
+    "50 học sinh",
+    "30 học sinh",
+    "20 học sinh",
+    "100 học sinh"
+   ],
+   "Số học sinh giỏi tăng từ Năm 1 đến Năm 3 là 100 - 50 = 50 học sinh."
+  ],
+  [
+   "Thống kê phương tiện đi học của 50 học sinh lớp 7A thu được: 20 bạn đi xe đạp, 15 bạn được bố mẹ chở, 10 bạn đi bộ, còn lại đi xe buýt. Tỉ lệ học sinh đi xe buýt là bao nhiêu?",
+   [
+    "10%",
+    "5%",
+    "20%",
+    "15%"
+   ],
+   "Số học sinh đi xe buýt là 50 - (20 + 15 + 10) = 5 bạn. Tỉ lệ đi xe buýt là 5/50 = 10%."
+  ],
+  [
+   "Góc ở tâm đại diện cho lượng điện tiêu thụ quý 1 của một gia đình trên biểu đồ quạt tròn là 108°. Hỏi lượng điện quý 1 chiếm bao nhiêu phần trăm cả năm?",
+   [
+    "30%",
+    "25%",
+    "36%",
+    "40%"
+   ],
+   "Tỉ lệ phần trăm là (108° / 360°) x 100% = 30%."
+  ],
+  [
+   "Khảo sát 120 học sinh khối 7 về môn thể thao yêu thích thu được kết quả: Cầu lông chiếm 40%, Bóng đá chiếm 35%, còn lại là Bóng rổ. Số học sinh thích Bóng rổ là bao nhiêu?",
+   [
+    "30 học sinh",
+    "25 học sinh",
+    "48 học sinh",
+    "42 học sinh"
+   ],
+   "Tỉ lệ học sinh thích Bóng rổ là 100% - 40% - 35% = 25%. Số học sinh thích Bóng rổ là 120 x 25% = 30 học sinh."
+  ],
+  [
+   "Doanh thu của một cửa hàng trong 4 tháng đầu năm lần lượt là: 12 triệu, 15 triệu, 14 triệu, 19 triệu. Doanh thu trung bình mỗi tháng là bao nhiêu?",
+   [
+    "15 triệu",
+    "14 triệu",
+    "16 triệu",
+    "12 triệu"
+   ],
+   "Doanh thu trung bình mỗi tháng là (12 + 15 + 14 + 19) / 4 = 60 / 4 = 15 triệu."
+  ],
+  [
+   "Để tìm hiểu về thể loại sách yêu thích của các bạn học sinh khối 7, phương pháp thu thập dữ liệu nào sau đây là trực tiếp?",
+   [
+    "Phát phiếu hỏi và thu lại trực tiếp từ các bạn học sinh.",
+    "Đọc báo cáo thống kê của thư viện trường năm trước.",
+    "Xem danh sách mượn sách trên hệ thống máy tính của trường.",
+    "Thống kê số lượng sách bán được từ nhà sách ngoài cổng trường."
+   ],
+   "Phát phiếu hỏi là phương pháp thu thập dữ liệu trực tiếp từ đối tượng khảo sát."
   ]
  ],
  "c6": [
@@ -2809,6 +3409,206 @@
     "2 115 đồng"
    ],
    "Mỗi phần 470 đồng; bạn thứ nhất 3 phần = 1 410 đồng."
+  ],
+  [
+   "Từ đẳng thức 3 . 8 = 4 . 6, ta có thể lập được tỉ lệ thức nào sau đây?",
+   [
+    "3/4 = 6/8",
+    "3/6 = 8/4",
+    "3/8 = 4/6",
+    "4/3 = 8/6"
+   ],
+   "Tích của ngoại tỉ bằng tích của trung tỉ: 3 . 8 = 4 . 6 nên tỉ lệ thức đúng là 3/4 = 6/8."
+  ],
+  [
+   "Cho tỉ lệ thức x/15 = -4/5. Giá trị của x là:",
+   [
+    "-12",
+    "12",
+    "-3",
+    "3"
+   ],
+   "Ta có x = (15 . (-4)) / 5 = -60 / 5 = -12."
+  ],
+  [
+   "Nếu hai đại lượng x và y tỉ lệ nghịch với nhau theo công thức y = a/x (a ≠ 0) thì tích x . y bằng:",
+   [
+    "a",
+    "1/a",
+    "-a",
+    "2a"
+   ],
+   "Từ công thức y = a/x ta nhân cả hai tế với x được x . y = a."
+  ],
+  [
+   "Cho x và y là hai đại lượng tỉ lệ thuận. Biết rằng khi x = -2 thì y = 8. Công thức biểu diễn y theo x là:",
+   [
+    "y = -4x",
+    "y = 4x",
+    "y = -1/4 x",
+    "y = -16x"
+   ],
+   "Hệ số tỉ lệ k = y/x = 8/(-2) = -4. Do đó y = -4x."
+  ],
+  [
+   "Thay tỉ số 1,2 : 2,8 bằng tỉ số giữa các số nguyên ta được:",
+   [
+    "3 : 7",
+    "3 : 14",
+    "6 : 7",
+    "1 : 2"
+   ],
+   "Ta có 1,2 : 2,8 = 12 : 28, rút gọn cho 4 ta được 3 : 7."
+  ],
+  [
+   "Cho ba số a, b, c tỉ lệ với các số 3; 5; 7. Dãy tỉ số bằng nhau nào sau đây là đúng?",
+   [
+    "a/3 = b/5 = c/7",
+    "a/7 = b/5 = c/3",
+    "3/a = 5/b = 7/c",
+    "a/3 = c/5 = b/7"
+   ],
+   "Ba số a, b, c tỉ lệ với 3; 5; 7 nghĩa là a/3 = b/5 = c/7."
+  ],
+  [
+   "Từ dãy tỉ số bằng nhau x/4 = y/5 = z/6, áp dụng tính chất dãy tỉ số bằng nhau ta có:",
+   [
+    "x/4 = y/5 = z/6 = (x - y + z)/(4 - 5 + 6)",
+    "x/4 = y/5 = z/6 = (x - y + z)/(4 + 5 + 6)",
+    "x/4 = y/5 = z/6 = (x + y - z)/(4 - 5 + 6)",
+    "x/4 = y/5 = z/6 = (x - y - z)/(4 - 5 + 6)"
+   ],
+   "Áp dụng tính chất dãy tỉ số bằng nhau: x/4 = y/5 = z/6 = (x - y + z)/(4 - 5 + 6)."
+  ],
+  [
+   "Cho đại lượng y tỉ lệ thuận với đại lượng x theo hệ số tỉ lệ k = -2. Hỏi x tỉ lệ thuận với y theo hệ số tỉ lệ nào?",
+   [
+    "-1/2",
+    "-2",
+    "1/2",
+    "2"
+   ],
+   "Nếu y tỉ lệ thuận với x theo hệ số k thì x tỉ lệ thuận với y theo hệ số 1/k = -1/2."
+  ],
+  [
+   "Cặp tỉ số nào sau đây lập thành một tỉ lệ thức?",
+   [
+    "2/5 và 6/15",
+    "1/3 và 3/1",
+    "(-2)/3 và 4/6",
+    "4/5 và 5/4"
+   ],
+   "Ta thấy 2 . 15 = 30 và 5 . 6 = 30 nên 2/5 = 6/15 lập thành một tỉ lệ thức."
+  ],
+  [
+   "Biết x/(-3) = (-12)/x. Giá trị của x có thể là:",
+   [
+    "6 hoặc -6",
+    "6",
+    "-6",
+    "36"
+   ],
+   "x . x = (-3) . (-12) => x² = 36 => x = 6 hoặc x = -6."
+  ],
+  [
+   "Cho x/4 = y/9 và x . y = 144 (với x, y > 0). Giá trị của x là:",
+   [
+    "8",
+    "18",
+    "12",
+    "16"
+   ],
+   "Đặt x/4 = y/9 = k (k > 0) => x = 4k, y = 9k. Khi đó x . y = 36k² = 144 => k² = 4 => k = 2. Vậy x = 4 . 2 = 8."
+  ],
+  [
+   "Để pha nước cam ngon, người ta pha nước cốt cam và nước lọc theo tỉ lệ 1 : 4. Nếu dùng 200 ml nước cốt cam thì cần bao nhiêu ml nước lọc?",
+   [
+    "800 ml",
+    "500 ml",
+    "600 ml",
+    "1000 ml"
+   ],
+   "Số ml nước lọc cần dùng là 200 . 4 = 800 ml."
+  ],
+  [
+   "Cho biết x và y là hai đại lượng tỉ lệ nghịch. Khi x1 = 2, x2 = 5 thì tổng hai giá trị tương ứng y1 + y2 = 14. Giá trị của y1 là:",
+   [
+    "10",
+    "4",
+    "20",
+    "8"
+   ],
+   "Vì x, y tỉ lệ nghịch nên x1.y1 = x2.y2 => 2y1 = 5y2 => y1/5 = y2/2 = (y1 + y2)/(5 + 2) = 14/7 = 2. Do đó y1 = 5 . 2 = 10."
+  ],
+  [
+   "Độ dài ba cạnh của một tam giác tỉ lệ với 3; 4; 5 và chu vi tam giác đó bằng 36 cm. Độ dài cạnh ngắn nhất của tam giác là:",
+   [
+    "9 cm",
+    "12 cm",
+    "15 cm",
+    "6 cm"
+   ],
+   "Gọi ba cạnh là a, b, c. Ta có a/3 = b/4 = c/5 = (a + b + c)/(3 + 4 + 5) = 36/12 = 3. Cạnh ngắn nhất là a = 3 . 3 = 9 cm."
+  ],
+  [
+   "Một xưởng may dùng 15 m vải thì may được 6 bộ quần áo giống nhau. Hỏi muốn may 10 bộ quần áo như thế thì cần bao nhiêu mét vải?",
+   [
+    "25 m",
+    "20 m",
+    "30 m",
+    "18 m"
+   ],
+   "Số mét vải tỉ lệ thuận với số bộ quần áo. May 10 bộ cần 10 . (15 / 6) = 25 m vải."
+  ],
+  [
+   "Hai lớp 7A và 7B tham gia trồng cây. Biết tỉ số giữa số cây lớp 7A và 7B trồng được là 4 : 5 và lớp 7B trồng nhiều hơn lớp 7A là 8 cây. Số cây lớp 7A trồng được là:",
+   [
+    "32 cây",
+    "40 cây",
+    "36 cây",
+    "24 cây"
+   ],
+   "Gọi số cây của 7A và 7B lần lượt là x và y. Ta có x/4 = y/5 và y - x = 8. Suy ra x/4 = y/5 = (y - x)/(5 - 4) = 8. Vậy x = 32."
+  ],
+  [
+   "Biết 5 mét dây điện nặng 120 gam. Hỏi 12 mét dây điện cùng loại nặng bao nhiêu gam?",
+   [
+    "288 gam",
+    "240 gam",
+    "300 gam",
+    "144 gam"
+   ],
+   "Khối lượng tỉ lệ thuận với chiều dài. 12 mét dây điện nặng 12 . (120 / 5) = 288 gam."
+  ],
+  [
+   "Một đội công nhân gồm 10 người dự định làm xong một đoạn đường trong 12 ngày. Muốn làm xong đoạn đường đó sớm hơn 2 ngày thì cần thêm bao nhiêu công nhân? (Năng suất như nhau)",
+   [
+    "2 công nhân",
+    "12 công nhân",
+    "3 công nhân",
+    "15 công nhân"
+   ],
+   "Thời gian hoàn thành mới là 12 - 2 = 10 ngày. Số công nhân cần có là (10 . 12) / 10 = 12 người. Vậy cần thêm 12 - 10 = 2 công nhân."
+  ],
+  [
+   "Ba đội máy cày cùng cày ba thửa ruộng có cùng diện tích. Đội thứ nhất hoàn thành trong 3 ngày, đội thứ hai trong 4 ngày và đội thứ ba trong 6 ngày. Hỏi đội thứ nhất có bao nhiêu máy, biết đội thứ nhất nhiều hơn đội thứ ba là 4 máy? (Năng suất các máy như nhau)",
+   [
+    "8 máy",
+    "4 máy",
+    "6 máy",
+    "12 máy"
+   ],
+   "Số máy và thời gian hoàn thành là hai đại lượng tỉ lệ nghịch. Gọi số máy 3 đội là x, y, z ta có 3x = 4y = 6z => x/(1/3) = z/(1/6) = (x - z)/(1/3 - 1/6) = 4 / (1/6) = 24. Suy ra x = 24 . (1/3) = 8 máy."
+  ],
+  [
+   "Từ đẳng thức a . d = b . c (với a, b, c, d khác 0), ta không thể lập được tỉ lệ thức nào sau đây?",
+   [
+    "a/c = d/b",
+    "a/b = c/d",
+    "a/c = b/d",
+    "d/b = c/a"
+   ],
+   "Từ a . d = b . c ta có các tỉ lệ thức đúng như a/b = c/d, a/c = b/d, d/b = c/a. Tỉ lệ thức a/c = d/b suy ra a . b = c . d (sai với đẳng thức ban đầu)."
   ]
  ],
  "c7": [
@@ -3211,6 +4011,206 @@
     "x = −6"
    ],
    "-5x − 35 = 0 ⇒ x = −7."
+  ],
+  [
+   "Biểu thức đại số biểu thị tổng bình phương của hai số a và b là:",
+   [
+    "a² + b²",
+    "(a + b)²",
+    "2a + 2b",
+    "a²b²"
+   ],
+   "Tổng bình phương của hai số a và b tức là lấy bình phương của a cộng với bình phương của b, ta được a² + b²."
+  ],
+  [
+   "Trong các biểu thức sau, biểu thức nào là đa thức một biến?",
+   [
+    "3x³ − 2x + 1",
+    "2x + 3/y",
+    "x² + y² − 1",
+    "√x + 5"
+   ],
+   "Đa thức một biến là tổng của những đơn thức của cùng một biến. Biểu thức 3x³ − 2x + 1 chỉ chứa biến x."
+  ],
+  [
+   "Hệ số cao nhất của đa thức G(x) = −7x³ + 8x² − 10x + 2 là:",
+   [
+    "−7",
+    "8",
+    "3",
+    "2"
+   ],
+   "Hạng tử có số mũ cao nhất là −7x³ với số mũ là 3, nên hệ số cao nhất là −7."
+  ],
+  [
+   "Hệ số tự do của đa thức A(x) = −x⁵ + 3x³ − 12 là:",
+   [
+    "−12",
+    "12",
+    "−1",
+    "0"
+   ],
+   "Hệ số tự do là hạng tử không chứa biến x, ở đây là −12."
+  ],
+  [
+   "Sắp xếp đa thức H(x) = 4 − 2x³ + x² − 5x⁴ theo lũy thừa giảm dần của biến, ta được:",
+   [
+    "H(x) = −5x⁴ − 2x³ + x² + 4",
+    "H(x) = −5x⁴ − 2x³ + x² − 4",
+    "H(x) = 5x⁴ − 2x³ + x² + 4",
+    "H(x) = 4 + x² − 2x³ − 5x⁴"
+   ],
+   "Sắp xếp theo số mũ giảm dần từ 4 xuống 0 ta được H(x) = −5x⁴ − 2x³ + x² + 4."
+  ],
+  [
+   "Bậc của đa thức Q(x) = 2x⁵ − 3x² + 7 − 2x⁵ + x là:",
+   [
+    "2",
+    "5",
+    "1",
+    "0"
+   ],
+   "Thu gọn Q(x) = (2x⁵ − 2x⁵) − 3x² + x + 7 = −3x² + x + 7. Bậc của Q(x) là 2."
+  ],
+  [
+   "Cho đa thức M(x) = x⁴ − 2x² + 5. Giá trị của M(−2) là:",
+   [
+    "13",
+    "5",
+    "21",
+    "1"
+   ],
+   "Thay x = −2 vào M(x): M(−2) = (−2)⁴ − 2.(−2)² + 5 = 16 − 8 + 5 = 13."
+  ],
+  [
+   "Số x = −1 là nghiệm của đa thức nào sau đây?",
+   [
+    "P(x) = x³ + 1",
+    "Q(x) = x² − 1",
+    "R(x) = x² + 1",
+    "S(x) = x + 2"
+   ],
+   "Thay x = −1 vào P(x) ta có P(−1) = (−1)³ + 1 = −1 + 1 = 0, vậy x = −1 là nghiệm của P(x)."
+  ],
+  [
+   "Kết quả của phép tính (2x³ − 5x²) + (x³ + 3x² − 4) là:",
+   [
+    "3x³ − 2x² − 4",
+    "3x³ − 8x² − 4",
+    "3x³ + 2x² − 4",
+    "x³ − 2x² − 4"
+   ],
+   "Cộng các hạng tử đồng dạng: (2x³ + x³) + (−5x² + 3x²) − 4 = 3x³ − 2x² − 4."
+  ],
+  [
+   "Phép trừ hai đa thức (5x² − 3x + 2) − (2x² − 3x − 4) cho kết quả là:",
+   [
+    "3x² + 6",
+    "3x² − 6x − 2",
+    "3x² − 2",
+    "7x² − 6x − 2"
+   ],
+   "Bỏ dấu ngoặc có dấu trừ đằng trước: 5x² − 3x + 2 − 2x² + 3x + 4 = (5x² − 2x²) + (−3x + 3x) + (2 + 4) = 3x² + 6."
+  ],
+  [
+   "Thực hiện phép nhân (−3x) · (2x² − 4x + 1) ta thu được:",
+   [
+    "−6x³ + 12x² − 3x",
+    "−6x³ − 12x² − 3x",
+    "−6x³ + 12x² + 1",
+    "6x³ − 12x² + 3x"
+   ],
+   "Nhân đơn thức với từng hạng tử: (−3x).(2x²) + (−3x).(−4x) + (−3x).1 = −6x³ + 12x² − 3x."
+  ],
+  [
+   "Tích của hai đa thức (x + 3) và (2x − 1) là:",
+   [
+    "2x² + 5x − 3",
+    "2x² − 5x − 3",
+    "2x² + 5x + 3",
+    "2x² + 6x − 3"
+   ],
+   "Thực hiện phép nhân: x(2x − 1) + 3(2x − 1) = 2x² − x + 6x − 3 = 2x² + 5x − 3."
+  ],
+  [
+   "Kết quả của phép chia (8x⁴ − 12x³ + 4x²) : (−4x²) là:",
+   [
+    "−2x² + 3x − 1",
+    "−2x² − 3x + 1",
+    "2x² − 3x + 1",
+    "−2x² + 3x"
+   ],
+   "Chia từng hạng tử cho (−4x²): 8x⁴ : (−4x²) − 12x³ : (−4x²) + 4x² : (−4x²) = −2x² + 3x − 1."
+  ],
+  [
+   "Cho phép chia đa thức (x² + 5x + 6) : (x + 2). Thương của phép chia là:",
+   [
+    "x + 3",
+    "x − 3",
+    "x + 2",
+    "x + 4"
+   ],
+   "Ta có (x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6. Do đó thương là x + 3."
+  ],
+  [
+   "Tập hợp tất cả các nghiệm của đa thức K(x) = x³ − 9x là:",
+   [
+    "{0; 3; −3}",
+    "{3; −3}",
+    "{0; 9}",
+    "{0; 3}"
+   ],
+   "Giải K(x) = 0 ⇔ x(x² − 9) = 0 ⇔ x = 0 hoặc x² = 9 ⇔ x = 0, x = 3, x = −3."
+  ],
+  [
+   "Một hình chữ nhật có chiều rộng là x (cm) và chiều dài hơn chiều rộng 4 cm. Biểu thức đại số biểu thị diện tích hình chữ nhật đó là:",
+   [
+    "x² + 4x",
+    "x² + 4",
+    "2x + 4",
+    "4x²"
+   ],
+   "Chiều dài hình chữ nhật là x + 4 (cm). Diện tích là S = x(x + 4) = x² + 4x (cm²)."
+  ],
+  [
+   "Bạn An mua 3 quyển vở giá x đồng mỗi quyển và 2 chiếc bút giá y đồng mỗi chiếc. Bạn An đưa cô bán hàng tờ tiền 100 000 đồng. Biểu thức đại số biểu thị số tiền thừa bạn An nhận lại là:",
+   [
+    "100000 − (3x + 2y)",
+    "100000 − 3x + 2y",
+    "3x + 2y − 100000",
+    "100000 − 5(x + y)"
+   ],
+   "Tổng số tiền An mua hàng là 3x + 2y (đồng). Số tiền thừa nhận lại là 100 000 − (3x + 2y) đồng."
+  ],
+  [
+   "Đa thức F(x) = x² + 4x + 5 có bao nhiêu nghiệm thực?",
+   [
+    "0",
+    "1",
+    "2",
+    "Vô số"
+   ],
+   "Ta có F(x) = (x + 2)² + 1. Vì (x + 2)² ≥ 0 với mọi x nên F(x) ≥ 1 > 0 với mọi x. Đa thức không có nghiệm thực."
+  ],
+  [
+   "Cho đa thức A(x) = 2x² − 3x + 1 và B(x) sao cho A(x) + B(x) = x³ − x + 3. Đa thức B(x) là:",
+   [
+    "B(x) = x³ − 2x² + 2x + 2",
+    "B(x) = x³ + 2x² − 4x + 2",
+    "B(x) = −x³ + 2x² − 2x − 2",
+    "B(x) = x³ − 2x² + 2x + 4"
+   ],
+   "B(x) = (x³ − x + 3) − (2x² − 3x + 1) = x³ − 2x² + (−x + 3x) + (3 − 1) = x³ − 2x² + 2x + 2."
+  ],
+  [
+   "Biểu thức đại số nào sau đây biểu thị chu vi của một hình chữ nhật có chiều dài là a và chiều rộng là b?",
+   [
+    "2(a + b)",
+    "a + b",
+    "a · b",
+    "2a + b"
+   ],
+   "Chu vi hình chữ nhật bằng tổng chiều dài và chiều rộng rồi nhân 2, nên biểu thức đúng là 2(a + b)."
   ]
  ],
  "c8": [
@@ -3613,6 +4613,206 @@
     "1"
    ],
    "Có 5 kết quả thuận lợi trên 8: 5/8."
+  ],
+  [
+   "Trong các biến cố sau, biến cố nào là biến cố không?",
+   [
+    "Khi quay một vòng của đĩa tròn chia làm 4 phần bằng nhau được đánh số từ 1 đến 4, kim chỉ vào ô số 5",
+    "Ngày mai mặt trời mọc ở hướng đông",
+    "Gieo một con xúc xắc thấy xuất hiện mặt có số chấm là một số tự nhiên nhỏ hơn 7",
+    "Tháng một có 31 ngày"
+   ],
+   "Đĩa tròn chỉ có các số từ 1 đến 4 nên kim không thể chỉ vào ô số 5, do đó đây là biến cố không."
+  ],
+  [
+   "Một hộp chứa các thẻ ghi số 10, 12, 14, 16, 18, 20. Rút ngẫu nhiên một thẻ, biến cố nào sau đây là biến cố chắc chắn?",
+   [
+    "Số trên thẻ được rút là một số chẵn",
+    "Số trên thẻ được rút là số chia hết cho 4",
+    "Số trên thẻ được rút là số có hai chữ số khác nhau",
+    "Số trên thẻ được rút là số chia hết cho 5"
+   ],
+   "Tất cả các số trong hộp đều là số chẵn nên khi rút ngẫu nhiên một thẻ chắc chắn sẽ được số chẵn."
+  ],
+  [
+   "Biến cố nào sau đây là biến cố ngẫu nhiên khi tung một đồng xu cân đối?",
+   [
+    "Xuất hiện mặt sấp",
+    "Kết quả thu được là mặt sấp hoặc mặt ngửa",
+    "Kết quả thu được là mặt tam giác",
+    "Đồng xu biến mất sau khi tung"
+   ],
+   "Khi tung đồng xu, ta không thể biết trước chắc chắn ra mặt sấp hay mặt ngửa nên đó là biến cố ngẫu nhiên."
+  ],
+  [
+   "Một hộp có 5 chiếc thẻ được đánh số 1, 3, 5, 7, 9. Rút ngẫu nhiên 1 thẻ, xác suất để rút được thẻ ghi số chia hết cho 3 là:",
+   [
+    "2/5",
+    "1/5",
+    "3/5",
+    "4/5"
+   ],
+   "Trong các số trên, có 2 số chia hết cho 3 là số 3 và số 9. Vậy xác suất là 2/5."
+  ],
+  [
+   "Bạn An quay một vòng quay có 8 ô số bằng nhau được đánh số từ 1 đến 8. Xác suất để mũi tên dừng lại ở ô ghi số là ước của 8 là:",
+   [
+    "1/2",
+    "3/8",
+    "5/8",
+    "3/4"
+   ],
+   "Các ước của 8 từ 1 đến 8 là 1, 2, 4, 8 (có 4 số). Xác suất là 4/8 rút gọn thành 1/2."
+  ],
+  [
+   "Một tổ có 4 học sinh nam và 6 học sinh nữ. Chọn ngẫu nhiên một học sinh để tham gia trực nhật, xác suất để chọn được học sinh nam là:",
+   [
+    "2/5",
+    "3/5",
+    "4/9",
+    "1/2"
+   ],
+   "Tổng số học sinh là 4 cộng 6 bằng 10 em. Số học sinh nam là 4 em, vậy xác suất chọn nam là 4/10 rút gọn thành 2/5."
+  ],
+  [
+   "Một hộp chứa các viên kẹo chỉ khác nhau về màu sắc, gồm 3 kẹo vị dâu, 5 kẹo vị táo và 2 kẹo vị nho. Lấy ngẫu nhiên 1 viên kẹo, xác suất lấy được viên kẹo không phải vị dâu là:",
+   [
+    "7/10",
+    "3/10",
+    "1/2",
+    "2/5"
+   ],
+   "Tổng số kẹo là 3 cộng 5 cộng 2 bằng 10 viên. Số kẹo không phải vị dâu gồm 5 kẹo táo và 2 kẹo nho là 7 viên. Xác suất là 7/10."
+  ],
+  [
+   "Trong bình có một số viên bi xanh và 4 viên bi vàng. Biết rằng số bi vàng chiếm 2/5 tổng số bi trong bình. Hỏi tổng số bi trong bình là bao nhiêu?",
+   [
+    "10",
+    "8",
+    "12",
+    "20"
+   ],
+   "Vì 2/5 tổng số bi ứng với 4 viên bi vàng, nên tổng số bi trong bình là 4 chia 2 nhân 5 bằng 10 viên."
+  ],
+  [
+   "Một cửa hàng bán trà sữa thống kê trong 50 ngày có 35 ngày bán được hơn 100 cốc. Dựa trên dữ liệu quá khứ, xác suất ngày mai cửa hàng bán được hơn 100 cốc trà sữa là khoảng bao nhiêu?",
+   [
+    "0,7",
+    "0,35",
+    "0,5",
+    "0,3"
+   ],
+   "Xác suất thực nghiệm được tính bằng số ngày bán được hơn 100 cốc chia cho tổng số ngày thống kê: 35 chia 50 bằng 0,7."
+  ],
+  [
+   "Đội bóng đá trường THCS tham gia 20 trận, trong đó có 12 trận thắng, 5 trận hòa và 3 trận thua. Chọn ngẫu nhiên một kết quả của trận đấu, xác suất đội bóng không thua trận đấu đó là:",
+   [
+    "17/20",
+    "3/20",
+    "12/20",
+    "1/2"
+   ],
+   "Số trận không thua gồm trận thắng và trận hòa là 12 cộng 5 bằng 17 trận. Xác suất là 17/20."
+  ],
+  [
+   "Một lớp học có 40 học sinh gồm các mức học lực Giỏi, Khá, Trung bình. Biết số học sinh Giỏi là 10 em, số học sinh Khá là 22 em, còn lại là học sinh Trung bình. Chọn ngẫu nhiên một học sinh trong lớp, xác suất chọn được học sinh Trung bình là:",
+   [
+    "1/5",
+    "1/4",
+    "3/10",
+    "2/5"
+   ],
+   "Số học sinh Trung bình là 40 trừ 10 trừ 22 bằng 8 em. Xác suất chọn học sinh Trung bình là 8/40 rút gọn thành 1/5."
+  ],
+  [
+   "Bạn Mai gieo một con xúc xắc 50 lần và ghi lại số chấm xuất hiện ở mặt trên. Kết quả mặt 6 chấm xuất hiện 10 lần. Xác suất thực nghiệm xuất hiện mặt 6 chấm là:",
+   [
+    "1/5",
+    "1/6",
+    "1/10",
+    "2/5"
+   ],
+   "Xác suất thực nghiệm bằng số lần xuất hiện mặt 6 chấm chia cho tổng số lần gieo: 10 chia 50 bằng 1/5."
+  ],
+  [
+   "Một chiếc hộp đựng 2 viên bi đỏ, 3 viên bi xanh và một số viên bi vàng. Biết tổng số bi là 10 viên. Lấy ngẫu nhiên một viên bi, xác suất để lấy được viên bi không phải màu xanh là:",
+   [
+    "7/10",
+    "3/10",
+    "1/2",
+    "2/5"
+   ],
+   "Số bi không phải màu xanh gồm bi đỏ và bi vàng. Số bi vàng là 10 trừ 2 trừ 3 bằng 5 viên. Tổng bi không xanh là 2 cộng 5 bằng 7 viên, xác suất là 7/10."
+  ],
+  [
+   "Lớp 7A có 40 học sinh tham gia bình chọn lớp trưởng. Bạn Nam nhận được 24 phiếu bầu. Chọn ngẫu nhiên một phiếu bầu trong hộp phiếu, xác suất để phiếu bầu đó không bầu cho bạn Nam là:",
+   [
+    "2/5",
+    "3/5",
+    "1/2",
+    "3/8"
+   ],
+   "Số phiếu không bầu cho Nam là 40 trừ 24 bằng 16 phiếu. Xác suất là 16/40 rút gọn thành 2/5."
+  ],
+  [
+   "Gieo đồng thời hai con xúc xắc cân đối. Xác suất của biến cố “Tổng số chấm xuất hiện ở hai con xúc xắc lớn hơn 1” là:",
+   [
+    "1",
+    "0",
+    "1/2",
+    "1/36"
+   ],
+   "Tổng số chấm nhỏ nhất khi gieo hai con xúc xắc là 1 cộng 1 bằng 2, luôn lớn hơn 1. Do đó đây là biến cố chắc chắn và có xác suất bằng 1."
+  ],
+  [
+   "Trong các sự kiện sau, sự kiện nào mô tả một biến cố ngẫu nhiên?",
+   [
+    "Ngày mai trời sẽ có mưa tại Hà Nội.",
+    "Mặt Trời mọc ở hướng Đông.",
+    "Số chấm xuất hiện khi gieo con xúc xắc cân đối là số lớn hơn 0.",
+    "Tổng độ dài hai cạnh bất kỳ của một tam giác luôn bé hơn cạnh thứ ba."
+   ],
+   "Trời có mưa hay không vào ngày mai là sự kiện không thể biết trước chắc chắn nên là biến cố ngẫu nhiên."
+  ],
+  [
+   "Một hộp kín chứa 12 chiếc thẻ cùng loại, được đánh số từ 1 đến 12. Rút ngẫu nhiên một thẻ. Biến cố nào sau đây là biến cố không thể?",
+   [
+    "Rút được thẻ ghi số 15.",
+    "Rút được thẻ ghi số chẵn.",
+    "Rút được thẻ ghi số chia hết cho 5.",
+    "Rút được thẻ ghi số nhỏ hơn 13."
+   ],
+   "Trong hộp chỉ có các thẻ từ 1 đến 12 nên không thể rút được thẻ ghi số 15."
+  ],
+  [
+   "Trong một hộp có 3 viên bi đen và 7 viên bi trắng có kích thước giống nhau. Lấy ngẫu nhiên 1 viên bi. Xác suất để lấy được viên bi màu trắng là:",
+   [
+    "7/10",
+    "3/10",
+    "3/7",
+    "7/3"
+   ],
+   "Tổng số bi là 3 + 7 = 10 viên. Số bi trắng là 7 nên xác suất chọn được bi trắng là 7/10."
+  ],
+  [
+   "Một xưởng sản xuất kiểm tra 100 sản phẩm ngẫu nhiên và phát hiện có 4 sản phẩm bị lỗi. Xác suất thực nghiệm của biến cố “Sản phẩm được chọn không bị lỗi” là:",
+   [
+    "96/100",
+    "4/100",
+    "4/96",
+    "96/4"
+   ],
+   "Số sản phẩm không bị lỗi là 100 - 4 = 96. Do đó xác suất thực nghiệm là 96/100."
+  ],
+  [
+   "Có 10 tấm thẻ được đánh số từ 1 đến 10. Chọn ngẫu nhiên một tấm thẻ. Xác suất để chọn được tấm thẻ ghi số bội của 4 là:",
+   [
+    "1/5",
+    "3/10",
+    "2/5",
+    "1/10"
+   ],
+   "Các số từ 1 đến 10 là bội của 4 gồm 4 và 8 (có 2 số). Xác suất là 2/10 = 1/5."
   ]
  ],
  "c9": [
@@ -4015,6 +5215,206 @@
     "Không xác định được"
    ],
    "Vi phạm bất đẳng thức tam giác (tổng hai cạnh nhỏ không lớn hơn cạnh lớn nhất)."
+  ],
+  [
+   "Trong tam giác MNP, cạnh đối diện với góc M là",
+   [
+    "NP",
+    "MP",
+    "MN",
+    "PM"
+   ],
+   "Cạnh đối diện với góc M của tam giác MNP là cạnh nằm nối hai đỉnh N và P, đó là cạnh NP."
+  ],
+  [
+   "Cho tam giác PQR có góc P = 70°, góc Q = 50°. Khẳng định nào sau đây đúng về các cạnh của tam giác PQR?",
+   [
+    "QR > PR > PQ",
+    "PQ > PR > QR",
+    "PR > QR > PQ",
+    "PQ > QR > PR"
+   ],
+   "Tính được góc R = 60°. Do góc P > góc R > góc Q nên QR > PQ > PR, sắp xếp lại theo thứ tự từ lớn đến bé là QR > PR > PQ."
+  ],
+  [
+   "Điểm đồng quy của ba đường trung trực trong tam giác có tính chất gì?",
+   [
+    "Cách đều ba đỉnh của tam giác",
+    "Cách đều ba cạnh của tam giác",
+    "Cách đều ba góc của tam giác",
+    "Cách đều hai đầu mút mỗi cạnh"
+   ],
+   "Giao điểm của ba đường trung trực là tâm đường tròn ngoại tiếp nên cách đều ba đỉnh của tam giác."
+  ],
+  [
+   "Cho tam giác DEF có DE = 4 cm, EF = 9 cm. Độ dài cạnh DF có thể nhận giá trị nào sau đây?",
+   [
+    "6 cm",
+    "4 cm",
+    "5 cm",
+    "13 cm"
+   ],
+   "Áp dụng bất đẳng thức tam giác, cạnh DF phải lớn hơn 9 - 4 = 5 cm và nhỏ hơn 9 + 4 = 13 cm, nên chỉ có 6 cm thỏa mãn."
+  ],
+  [
+   "Khoảng cách từ một điểm nằm trên tia phân giác của một góc đến hai cạnh của góc đó có quan hệ như thế nào?",
+   [
+    "Bằng nhau",
+    "Cạnh này gấp đôi cạnh kia",
+    "Cạnh này lớn hơn cạnh kia",
+    "Không so sánh được"
+   ],
+   "Tính chất tia phân giác của một góc là điểm nằm trên tia phân giác thì cách đều hai cạnh của góc đó."
+  ],
+  [
+   "Tam giác ABC có chu vi bằng 20 cm, biết AB = 6 cm, BC = 8 cm. So sánh các góc của tam giác ABC ta được",
+   [
+    "góc A > góc C > góc B",
+    "góc B > góc C > góc A",
+    "góc C > góc B > góc A",
+    "góc A > góc B > góc C"
+   ],
+   "Tính được AC = 20 - 6 - 8 = 6 cm. Tam giác cân tại A có AB = AC = 6 cm nên góc B = góc C lớn hơn góc A."
+  ],
+  [
+   "Ba đường cao của tam giác không có tính chất nào sau đây?",
+   [
+    "Cắt nhau tại một điểm cách đều ba đỉnh",
+    "Cùng đi qua một điểm",
+    "Có thể nằm ngoài tam giác (đối với tam giác tù)",
+    "Đoạn thẳng nối từ đỉnh vuông góc với cạnh đối diện"
+   ],
+   "Giao điểm ba đường cao cách đều ba đỉnh là tính chất của đường trung trực, không phải đường cao."
+  ],
+  [
+   "Cho tam giác ABC vuông tại A có góc B = 55°. Số đo góc C là",
+   [
+    "35°",
+    "45°",
+    "55°",
+    "90°"
+   ],
+   "Trong tam giác vuông, hai góc nhọn phụ nhau nên góc C = 90° - 55° = 35°."
+  ],
+  [
+   "Điểm đồng quy của ba đường phân giác trong tam giác có tính chất gì?",
+   [
+    "Cách đều ba cạnh của tam giác",
+    "Cách đều ba đỉnh của tam giác",
+    "Là trọng tâm của tam giác",
+    "Cách đều hai đầu mút của cạnh đáy"
+   ],
+   "Giao điểm ba đường phân giác là tâm đường tròn nội tiếp nên cách đều ba cạnh của tam giác."
+  ],
+  [
+   "Cho tam giác ABC cân tại A có góc A = 50°. Số đo góc B là",
+   [
+    "65°",
+    "50°",
+    "75°",
+    "40°"
+   ],
+   "Góc B bằng góc C và bằng (180° - 50°) / 2 = 65°."
+  ],
+  [
+   "Cho tam giác ABC có trọng tâm G, đường trung tuyến AD. Tỷ số độ dài GA / GD bằng bao nhiêu?",
+   [
+    "2",
+    "1/2",
+    "3",
+    "1/3"
+   ],
+   "Trọng tâm cách đỉnh một khoảng bằng 2/3 độ dài đường trung tuyến và cách đáy một khoảng bằng 1/3, nên GA / GD = 2."
+  ],
+  [
+   "Cho tam giác MNP có chu vi 24 cm, độ dài hai cạnh là 7 cm và 9 cm. Tam giác MNP là tam giác gì?",
+   [
+    "Tam giác cân",
+    "Tam giác đều",
+    "Tam giác vuông",
+    "Tam giác tù"
+   ],
+   "Cạnh thứ ba là 24 - 7 - 9 = 8 cm. Tam giác có các cạnh 7 cm, 8 cm, 9 cm không phải tam giác cân."
+  ],
+  [
+   "Cho điểm M nằm ngoài đường thẳng a. Từ M vẽ đường vuông góc MH và các đường xiên MK, MI đến đường thẳng a. Khẳng định nào sau đây đúng?",
+   [
+    "MH < MK < MI",
+    "MH > MK > MI",
+    "MK < MH < MI",
+    "MI < MK < MH"
+   ],
+   "Đường vuông góc luôn ngắn hơn bất kỳ đường xiên nào kẻ từ cùng một điểm đó đến đường thẳng."
+  ],
+  [
+   "Cho tam giác ABC có AB = 8 cm, AC = 15 cm. Độ dài cạnh BC có thể là số nguyên nào nhỏ nhất để tam giác là tam giác nhọn?",
+   [
+    "13",
+    "8",
+    "15",
+    "7"
+   ],
+   "Áp dụng định lý Pythagoras đảo và bất đẳng thức tam giác, cạnh BC = 13 cm giúp tam giác thỏa mãn là tam giác nhọn."
+  ],
+  [
+   "Cho tam giác ABC có góc A = 100°. Các cạnh của tam giác này thỏa mãn điều kiện nào?",
+   [
+    "Cạnh BC lớn nhất",
+    "Cạnh AB lớn nhất",
+    "Cạnh AC lớn nhất",
+    "Cạnh BC nhỏ nhất"
+   ],
+   "Góc A là góc tù và là góc lớn nhất nên cạnh đối diện với nó là BC là cạnh lớn nhất trong tam giác."
+  ],
+  [
+   "Cho tam giác ABC có AB = 3 cm, AC = 4 cm. Độ dài cạnh BC không thể nhận giá trị nào sau đây?",
+   [
+    "8 cm",
+    "2 cm",
+    "5 cm",
+    "6 cm"
+   ],
+   "Độ dài cạnh BC phải thỏa mãn 4 - 3 < BC < 4 + 3 hay 1 < BC < 7, nên 8 cm nằm ngoài khoảng này."
+  ],
+  [
+   "Trong tam giác đều, giao điểm của ba đường trung trực, ba đường trung tuyến, ba đường phân giác và ba đường cao có đặc điểm gì?",
+   [
+    "Trùng nhau",
+    "Không liên quan gì đến nhau",
+    "Chỉ có đường trung trực và trung tuyến trùng nhau",
+    "Nằm ngoài tam giác"
+   ],
+   "Trong tam giác đều, bốn loại đường đặc biệt này đồng quy tại một điểm duy nhất."
+  ],
+  [
+   "Cho tam giác ABC, điểm O nằm trong tam giác và cách đều ba cạnh của tam giác. Điểm O là giao điểm của",
+   [
+    "ba đường phân giác",
+    "ba đường trung trực",
+    "ba đường trung tuyến",
+    "ba đường cao"
+   ],
+   "Điểm cách đều ba cạnh của tam giác là giao điểm của ba đường phân giác trong tam giác đó."
+  ],
+  [
+   "Cho tam giác ABC có đường trung tuyến AM và G là trọng tâm. Biết AG = 6 cm. Độ dài đoạn thẳng GM là",
+   [
+    "3 cm",
+    "6 cm",
+    "12 cm",
+    "9 cm"
+   ],
+   "Trọng tâm G chia đường trung tuyến AM thành hai phần sao cho AG = 2GM, do đó GM = AG / 2 = 3 cm."
+  ],
+  [
+   "Trong một tam giác, đối diện với góc lớn nhất là",
+   [
+    "cạnh lớn nhất",
+    "cạnh nhỏ nhất",
+    "góc nhỏ nhất",
+    "đường cao ngắn nhất"
+   ],
+   "Theo quan hệ giữa góc và cạnh đối diện trong tam giác, cạnh đối diện với góc lớn hơn là cạnh lớn hơn, do đó đối diện với góc lớn nhất là cạnh lớn nhất."
   ]
  ],
  "c10": [
@@ -4417,6 +5817,206 @@
     "50 cm³"
    ],
    "V = S đáy · h = 36 · 14 = 504 cm³."
+  ],
+  [
+   "Hình lăng trụ đứng tam giác có các mặt bên là hình gì?",
+   [
+    "Hình chữ nhật",
+    "Hình tam giác",
+    "Hình vuông",
+    "Hình thang"
+   ],
+   "Các mặt bên của hình lăng trụ đứng tam giác luôn là hình chữ nhật."
+  ],
+  [
+   "Hình hộp chữ nhật có bao nhiêu đỉnh?",
+   [
+    "8 đỉnh",
+    "6 đỉnh",
+    "12 đỉnh",
+    "4 đỉnh"
+   ],
+   "Hình hộp chữ nhật có 8 đỉnh."
+  ],
+  [
+   "Hình lăng trụ đứng tứ giác có các mặt đáy là hình gì?",
+   [
+    "Hình tứ giác",
+    "Hình chữ nhật",
+    "Hình vuông",
+    "Hình tam giác"
+   ],
+   "Hai mặt đáy của hình lăng trụ đứng tứ giác là hình tứ giác."
+  ],
+  [
+   "Hình lập phương có diện tích một mặt là 25 cm². Diện tích toàn phần của hình lập phương đó là:",
+   [
+    "150 cm²",
+    "100 cm²",
+    "125 cm²",
+    "50 cm²"
+   ],
+   "Diện tích toàn phần hình lập phương bằng diện tích một mặt nhân với 6, lấy 25 nhân 6 bằng 150 cm²."
+  ],
+  [
+   "Một hình lăng trụ đứng có chiều cao 10 cm và diện tích đáy 15 cm². Thể tích của hình lăng trụ đó là:",
+   [
+    "150 cm³",
+    "15 cm³",
+    "25 cm³",
+    "75 cm³"
+   ],
+   "Thể tích lăng trụ đứng bằng diện tích đáy nhân chiều cao, lấy 15 nhân 10 bằng 150 cm³."
+  ],
+  [
+   "Hình hộp chữ nhật có chiều dài 7 cm, chiều rộng 4 cm và chiều cao 3 cm. Diện tích xung quanh của hình hộp chữ nhật đó là:",
+   [
+    "66 cm²",
+    "84 cm²",
+    "42 cm²",
+    "132 cm²"
+   ],
+   "Diện tích xung quanh bằng chu vi đáy nhân chiều cao, lấy (7 cộng 4) nhân 2 rồi nhân 3 bằng 66 cm²."
+  ],
+  [
+   "Một chiếc thùng hình lập phương có cạnh 5 dm. Thể tích nước tối đa mà thùng chứa được là:",
+   [
+    "125 dm³",
+    "25 dm³",
+    "150 dm³",
+    "100 dm³"
+   ],
+   "Thể tích hình lập phương bằng cạnh nhân cạnh nhân cạnh, lấy 5 nhân 5 nhân 5 bằng 125 dm³."
+  ],
+  [
+   "Hình lăng trụ đứng tam giác có chiều cao 8 cm và chu vi đáy bằng 12 cm. Diện tích xung quanh của hình lăng trụ đó là:",
+   [
+    "96 cm²",
+    "48 cm²",
+    "20 cm²",
+    "32 cm²"
+   ],
+   "Diện tích xung quanh lăng trụ đứng bằng chu vi đáy nhân chiều cao, lấy 12 nhân 8 bằng 96 cm²."
+  ],
+  [
+   "Một hình hộp chữ nhật có thể tích 120 cm³, chiều dài 6 cm và chiều cao 4 cm. Chiều rộng của hình hộp chữ nhật đó là:",
+   [
+    "5 cm",
+    "10 cm",
+    "20 cm",
+    "2 cm"
+   ],
+   "Chiều rộng bằng thể tích chia cho tích của chiều dài và chiều cao, lấy 120 chia cho (6 nhân 4) bằng 5 cm."
+  ],
+  [
+   "Cho hình lăng trụ đứng tứ giác có đáy là hình vuông cạnh 3 cm, chiều cao 7 cm. Thể tích hình lăng trụ đó là:",
+   [
+    "63 cm³",
+    "42 cm³",
+    "21 cm³",
+    "84 cm³"
+   ],
+   "Diện tích đáy là 3 nhân 3 bằng 9 cm², thể tích là 9 nhân 7 bằng 63 cm³."
+  ],
+  [
+   "Một chiếc hộp đựng quà hình hộp chữ nhật có kích thước chiều dài 15 cm, chiều rộng 10 cm và chiều cao 8 cm. Người ta muốn dán giấy màu toàn bộ các mặt ngoài của hộp (không tính mép dán). Diện tích giấy màu cần dùng là:",
+   [
+    "700 cm²",
+    "350 cm²",
+    "1200 cm²",
+    "600 cm²"
+   ],
+   "Diện tích toàn phần là 2 nhân với (15 nhân 10 cộng 15 nhân 8 cộng 10 nhân 8), kết quả bằng 700 cm²."
+  ],
+  [
+   "Bể cá nhà Nam có dạng hình lăng trụ đứng tam giác với diện tích đáy là 240 cm² và chiều cao bể là 50 cm. Lượng nước đổ đầy bể có thể tích là:",
+   [
+    "12000 cm³",
+    "290 cm³",
+    "6000 cm³",
+    "1200 cm³"
+   ],
+   "Thể tích nước bằng diện tích đáy nhân chiều cao bể, lấy 240 nhân 50 bằng 12000 cm³."
+  ],
+  [
+   "Một khối gỗ hình lập phương có tổng độ dài tất cả các cạnh là 72 cm. Thể tích của khối gỗ đó là:",
+   [
+    "216 cm³",
+    "512 cm³",
+    "36 cm³",
+    "1296 cm³"
+   ],
+   "Hình lập phương có 12 cạnh nên độ dài một cạnh là 72 chia 12 bằng 6 cm. Thể tích là 6 nhân 6 nhân 6 bằng 216 cm³."
+  ],
+  [
+   "Phòng học của lớp 7A có dạng hình hộp chữ nhật với chiều dài 8 m, chiều rộng 6 m và chiều cao 3,5 m. Người ta quét vôi tường xung quanh và trần nhà (bên trong phòng). Biết tổng diện tích các cửa là 12 m². Diện tích cần quét vôi là:",
+   [
+    "134 m²",
+    "146 m²",
+    "96 m²",
+    "158 m²"
+   ],
+   "Diện tích xung quanh là 2 nhân (8 cộng 6) nhân 3,5 bằng 98 m². Diện tích trần là 8 nhân 6 bằng 48 m². Tổng diện tích quét vôi trừ đi cửa là 98 cộng 48 trừ 12 bằng 134 m²."
+  ],
+  [
+   "Một xà gồ gỗ có dạng hình lăng trụ đứng tam giác có chiều dài 4 m, hai cạnh góc vuông của đáy tam giác là 0,3 m và 0,4 m, cạnh huyền là 0,5 m. Thể tích của thanh xà gồ gỗ đó là:",
+   [
+    "0,24 m³",
+    "0,30 m³",
+    "0,48 m³",
+    "0,60 m³"
+   ],
+   "Diện tích đáy tam giác vuông là 0,5 nhân 0,3 nhân 0,4 bằng 0,06 m². Thể tích là 0,06 nhân 4 bằng 0,24 m³."
+  ],
+  [
+   "Hình lăng trụ đứng tứ giác có các mặt bên là hình gì?",
+   [
+    "Hình chữ nhật",
+    "Hình vuông",
+    "Hình bình hành",
+    "Hình thang"
+   ],
+   "Theo tính chất của hình lăng trụ đứng, các mặt bên của nó luôn là các hình chữ nhật."
+  ],
+  [
+   "Cho hình lăng trụ đứng tam giác có diện tích đáy bằng 10 cm² và thể tích bằng 70 cm³. Chiều cao của hình lăng trụ đó là:",
+   [
+    "7 cm",
+    "60 cm",
+    "700 cm",
+    "14 cm"
+   ],
+   "Thể tích hình lăng trụ đứng bằng diện tích đáy nhân với chiều cao, nên chiều cao bằng 70 chia cho 10 bằng 7 cm."
+  ],
+  [
+   "Một bể kính nuôi cá có dạng hình hộp chữ nhật với chiều dài 50 cm, chiều rộng 30 cm và chiều cao 40 cm. Thể tích nước tối đa mà bể có thể chứa là:",
+   [
+    "60000 cm³",
+    "12000 cm³",
+    "24000 cm³",
+    "48000 cm³"
+   ],
+   "Thể tích hình hộp chữ nhật tính bằng tích ba kích thước: 50 nhân 30 nhân 40 bằng 60000 cm³."
+  ],
+  [
+   "Hình lập phương có tổng diện tích các mặt là 150 cm². Diện tích của một mặt hình lập phương đó là:",
+   [
+    "25 cm²",
+    "30 cm²",
+    "50 cm²",
+    "75 cm²"
+   ],
+   "Hình lập phương có 6 mặt bằng nhau, nên diện tích một mặt bằng tổng diện tích các mặt chia cho 6, tức là 150 chia cho 6 bằng 25 cm²."
+  ],
+  [
+   "Một khối gỗ dạng hình hộp chữ nhật có diện tích xung quanh 140 cm², chiều cao 5 cm và chiều dài 9 cm. Chiều rộng của khối gỗ đó là:",
+   [
+    "5 cm",
+    "14 cm",
+    "28 cm",
+    "4 cm"
+   ],
+   "Diện tích xung quanh bằng chu vi đáy nhân chiều cao. Chu vi đáy là 140 chia cho 5 bằng 28 cm. Nửa chu vi đáy là 14 cm, suy ra chiều rộng bằng 14 trừ 9 bằng 5 cm."
   ]
  ],
  "tong-hop": [

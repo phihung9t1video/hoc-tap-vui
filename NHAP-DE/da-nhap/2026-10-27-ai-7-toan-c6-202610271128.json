@@ -1,0 +1,206 @@
+{
+ "7-toan": {
+  "c6": [
+   [
+    "Từ đẳng thức 3 . 8 = 4 . 6, ta có thể lập được tỉ lệ thức nào sau đây?",
+    [
+     "3/4 = 6/8",
+     "3/6 = 8/4",
+     "3/8 = 4/6",
+     "4/3 = 8/6"
+    ],
+    "Tích của ngoại tỉ bằng tích của trung tỉ: 3 . 8 = 4 . 6 nên tỉ lệ thức đúng là 3/4 = 6/8."
+   ],
+   [
+    "Cho tỉ lệ thức x/15 = -4/5. Giá trị của x là:",
+    [
+     "-12",
+     "12",
+     "-3",
+     "3"
+    ],
+    "Ta có x = (15 . (-4)) / 5 = -60 / 5 = -12."
+   ],
+   [
+    "Nếu hai đại lượng x và y tỉ lệ nghịch với nhau theo công thức y = a/x (a ≠ 0) thì tích x . y bằng:",
+    [
+     "a",
+     "1/a",
+     "-a",
+     "2a"
+    ],
+    "Từ công thức y = a/x ta nhân cả hai tế với x được x . y = a."
+   ],
+   [
+    "Cho x và y là hai đại lượng tỉ lệ thuận. Biết rằng khi x = -2 thì y = 8. Công thức biểu diễn y theo x là:",
+    [
+     "y = -4x",
+     "y = 4x",
+     "y = -1/4 x",
+     "y = -16x"
+    ],
+    "Hệ số tỉ lệ k = y/x = 8/(-2) = -4. Do đó y = -4x."
+   ],
+   [
+    "Thay tỉ số 1,2 : 2,8 bằng tỉ số giữa các số nguyên ta được:",
+    [
+     "3 : 7",
+     "3 : 14",
+     "6 : 7",
+     "1 : 2"
+    ],
+    "Ta có 1,2 : 2,8 = 12 : 28, rút gọn cho 4 ta được 3 : 7."
+   ],
+   [
+    "Cho ba số a, b, c tỉ lệ với các số 3; 5; 7. Dãy tỉ số bằng nhau nào sau đây là đúng?",
+    [
+     "a/3 = b/5 = c/7",
+     "a/7 = b/5 = c/3",
+     "3/a = 5/b = 7/c",
+     "a/3 = c/5 = b/7"
+    ],
+    "Ba số a, b, c tỉ lệ với 3; 5; 7 nghĩa là a/3 = b/5 = c/7."
+   ],
+   [
+    "Từ dãy tỉ số bằng nhau x/4 = y/5 = z/6, áp dụng tính chất dãy tỉ số bằng nhau ta có:",
+    [
+     "x/4 = y/5 = z/6 = (x - y + z)/(4 - 5 + 6)",
+     "x/4 = y/5 = z/6 = (x - y + z)/(4 + 5 + 6)",
+     "x/4 = y/5 = z/6 = (x + y - z)/(4 - 5 + 6)",
+     "x/4 = y/5 = z/6 = (x - y - z)/(4 - 5 + 6)"
+    ],
+    "Áp dụng tính chất dãy tỉ số bằng nhau: x/4 = y/5 = z/6 = (x - y + z)/(4 - 5 + 6)."
+   ],
+   [
+    "Cho đại lượng y tỉ lệ thuận với đại lượng x theo hệ số tỉ lệ k = -2. Hỏi x tỉ lệ thuận với y theo hệ số tỉ lệ nào?",
+    [
+     "-1/2",
+     "-2",
+     "1/2",
+     "2"
+    ],
+    "Nếu y tỉ lệ thuận với x theo hệ số k thì x tỉ lệ thuận với y theo hệ số 1/k = -1/2."
+   ],
+   [
+    "Cặp tỉ số nào sau đây lập thành một tỉ lệ thức?",
+    [
+     "2/5 và 6/15",
+     "1/3 và 3/1",
+     "(-2)/3 và 4/6",
+     "4/5 và 5/4"
+    ],
+    "Ta thấy 2 . 15 = 30 và 5 . 6 = 30 nên 2/5 = 6/15 lập thành một tỉ lệ thức."
+   ],
+   [
+    "Biết x/(-3) = (-12)/x. Giá trị của x có thể là:",
+    [
+     "6 hoặc -6",
+     "6",
+     "-6",
+     "36"
+    ],
+    "x . x = (-3) . (-12) => x² = 36 => x = 6 hoặc x = -6."
+   ],
+   [
+    "Cho x/4 = y/9 và x . y = 144 (với x, y > 0). Giá trị của x là:",
+    [
+     "8",
+     "18",
+     "12",
+     "16"
+    ],
+    "Đặt x/4 = y/9 = k (k > 0) => x = 4k, y = 9k. Khi đó x . y = 36k² = 144 => k² = 4 => k = 2. Vậy x = 4 . 2 = 8."
+   ],
+   [
+    "Để pha nước cam ngon, người ta pha nước cốt cam và nước lọc theo tỉ lệ 1 : 4. Nếu dùng 200 ml nước cốt cam thì cần bao nhiêu ml nước lọc?",
+    [
+     "800 ml",
+     "500 ml",
+     "600 ml",
+     "1000 ml"
+    ],
+    "Số ml nước lọc cần dùng là 200 . 4 = 800 ml."
+   ],
+   [
+    "Cho biết x và y là hai đại lượng tỉ lệ nghịch. Khi x1 = 2, x2 = 5 thì tổng hai giá trị tương ứng y1 + y2 = 14. Giá trị của y1 là:",
+    [
+     "10",
+     "4",
+     "20",
+     "8"
+    ],
+    "Vì x, y tỉ lệ nghịch nên x1.y1 = x2.y2 => 2y1 = 5y2 => y1/5 = y2/2 = (y1 + y2)/(5 + 2) = 14/7 = 2. Do đó y1 = 5 . 2 = 10."
+   ],
+   [
+    "Độ dài ba cạnh của một tam giác tỉ lệ với 3; 4; 5 và chu vi tam giác đó bằng 36 cm. Độ dài cạnh ngắn nhất của tam giác là:",
+    [
+     "9 cm",
+     "12 cm",
+     "15 cm",
+     "6 cm"
+    ],
+    "Gọi ba cạnh là a, b, c. Ta có a/3 = b/4 = c/5 = (a + b + c)/(3 + 4 + 5) = 36/12 = 3. Cạnh ngắn nhất là a = 3 . 3 = 9 cm."
+   ],
+   [
+    "Một xưởng may dùng 15 m vải thì may được 6 bộ quần áo giống nhau. Hỏi muốn may 10 bộ quần áo như thế thì cần bao nhiêu mét vải?",
+    [
+     "25 m",
+     "20 m",
+     "30 m",
+     "18 m"
+    ],
+    "Số mét vải tỉ lệ thuận với số bộ quần áo. May 10 bộ cần 10 . (15 / 6) = 25 m vải."
+   ],
+   [
+    "Hai lớp 7A và 7B tham gia trồng cây. Biết tỉ số giữa số cây lớp 7A và 7B trồng được là 4 : 5 và lớp 7B trồng nhiều hơn lớp 7A là 8 cây. Số cây lớp 7A trồng được là:",
+    [
+     "32 cây",
+     "40 cây",
+     "36 cây",
+     "24 cây"
+    ],
+    "Gọi số cây của 7A và 7B lần lượt là x và y. Ta có x/4 = y/5 và y - x = 8. Suy ra x/4 = y/5 = (y - x)/(5 - 4) = 8. Vậy x = 32."
+   ],
+   [
+    "Biết 5 mét dây điện nặng 120 gam. Hỏi 12 mét dây điện cùng loại nặng bao nhiêu gam?",
+    [
+     "288 gam",
+     "240 gam",
+     "300 gam",
+     "144 gam"
+    ],
+    "Khối lượng tỉ lệ thuận với chiều dài. 12 mét dây điện nặng 12 . (120 / 5) = 288 gam."
+   ],
+   [
+    "Một đội công nhân gồm 10 người dự định làm xong một đoạn đường trong 12 ngày. Muốn làm xong đoạn đường đó sớm hơn 2 ngày thì cần thêm bao nhiêu công nhân? (Năng suất như nhau)",
+    [
+     "2 công nhân",
+     "12 công nhân",
+     "3 công nhân",
+     "15 công nhân"
+    ],
+    "Thời gian hoàn thành mới là 12 - 2 = 10 ngày. Số công nhân cần có là (10 . 12) / 10 = 12 người. Vậy cần thêm 12 - 10 = 2 công nhân."
+   ],
+   [
+    "Ba đội máy cày cùng cày ba thửa ruộng có cùng diện tích. Đội thứ nhất hoàn thành trong 3 ngày, đội thứ hai trong 4 ngày và đội thứ ba trong 6 ngày. Hỏi đội thứ nhất có bao nhiêu máy, biết đội thứ nhất nhiều hơn đội thứ ba là 4 máy? (Năng suất các máy như nhau)",
+    [
+     "8 máy",
+     "4 máy",
+     "6 máy",
+     "12 máy"
+    ],
+    "Số máy và thời gian hoàn thành là hai đại lượng tỉ lệ nghịch. Gọi số máy 3 đội là x, y, z ta có 3x = 4y = 6z => x/(1/3) = z/(1/6) = (x - z)/(1/3 - 1/6) = 4 / (1/6) = 24. Suy ra x = 24 . (1/3) = 8 máy."
+   ],
+   [
+    "Từ đẳng thức a . d = b . c (với a, b, c, d khác 0), ta không thể lập được tỉ lệ thức nào sau đây?",
+    [
+     "a/c = d/b",
+     "a/b = c/d",
+     "a/c = b/d",
+     "d/b = c/a"
+    ],
+    "Từ a . d = b . c ta có các tỉ lệ thức đúng như a/b = c/d, a/c = b/d, d/b = c/a. Tỉ lệ thức a/c = d/b suy ra a . b = c . d (sai với đẳng thức ban đầu)."
+   ]
+  ]
+ }
+}

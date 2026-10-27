@@ -1,0 +1,206 @@
+{
+ "7-toan": {
+  "c8": [
+   [
+    "Trong các biến cố sau, biến cố nào là biến cố không?",
+    [
+     "Khi quay một vòng của đĩa tròn chia làm 4 phần bằng nhau được đánh số từ 1 đến 4, kim chỉ vào ô số 5",
+     "Ngày mai mặt trời mọc ở hướng đông",
+     "Gieo một con xúc xắc thấy xuất hiện mặt có số chấm là một số tự nhiên nhỏ hơn 7",
+     "Tháng một có 31 ngày"
+    ],
+    "Đĩa tròn chỉ có các số từ 1 đến 4 nên kim không thể chỉ vào ô số 5, do đó đây là biến cố không."
+   ],
+   [
+    "Một hộp chứa các thẻ ghi số 10, 12, 14, 16, 18, 20. Rút ngẫu nhiên một thẻ, biến cố nào sau đây là biến cố chắc chắn?",
+    [
+     "Số trên thẻ được rút là một số chẵn",
+     "Số trên thẻ được rút là số chia hết cho 4",
+     "Số trên thẻ được rút là số có hai chữ số khác nhau",
+     "Số trên thẻ được rút là số chia hết cho 5"
+    ],
+    "Tất cả các số trong hộp đều là số chẵn nên khi rút ngẫu nhiên một thẻ chắc chắn sẽ được số chẵn."
+   ],
+   [
+    "Biến cố nào sau đây là biến cố ngẫu nhiên khi tung một đồng xu cân đối?",
+    [
+     "Xuất hiện mặt sấp",
+     "Kết quả thu được là mặt sấp hoặc mặt ngửa",
+     "Kết quả thu được là mặt tam giác",
+     "Đồng xu biến mất sau khi tung"
+    ],
+    "Khi tung đồng xu, ta không thể biết trước chắc chắn ra mặt sấp hay mặt ngửa nên đó là biến cố ngẫu nhiên."
+   ],
+   [
+    "Một hộp có 5 chiếc thẻ được đánh số 1, 3, 5, 7, 9. Rút ngẫu nhiên 1 thẻ, xác suất để rút được thẻ ghi số chia hết cho 3 là:",
+    [
+     "2/5",
+     "1/5",
+     "3/5",
+     "4/5"
+    ],
+    "Trong các số trên, có 2 số chia hết cho 3 là số 3 và số 9. Vậy xác suất là 2/5."
+   ],
+   [
+    "Bạn An quay một vòng quay có 8 ô số bằng nhau được đánh số từ 1 đến 8. Xác suất để mũi tên dừng lại ở ô ghi số là ước của 8 là:",
+    [
+     "1/2",
+     "3/8",
+     "5/8",
+     "3/4"
+    ],
+    "Các ước của 8 từ 1 đến 8 là 1, 2, 4, 8 (có 4 số). Xác suất là 4/8 rút gọn thành 1/2."
+   ],
+   [
+    "Một tổ có 4 học sinh nam và 6 học sinh nữ. Chọn ngẫu nhiên một học sinh để tham gia trực nhật, xác suất để chọn được học sinh nam là:",
+    [
+     "2/5",
+     "3/5",
+     "4/9",
+     "1/2"
+    ],
+    "Tổng số học sinh là 4 cộng 6 bằng 10 em. Số học sinh nam là 4 em, vậy xác suất chọn nam là 4/10 rút gọn thành 2/5."
+   ],
+   [
+    "Một hộp chứa các viên kẹo chỉ khác nhau về màu sắc, gồm 3 kẹo vị dâu, 5 kẹo vị táo và 2 kẹo vị nho. Lấy ngẫu nhiên 1 viên kẹo, xác suất lấy được viên kẹo không phải vị dâu là:",
+    [
+     "7/10",
+     "3/10",
+     "1/2",
+     "2/5"
+    ],
+    "Tổng số kẹo là 3 cộng 5 cộng 2 bằng 10 viên. Số kẹo không phải vị dâu gồm 5 kẹo táo và 2 kẹo nho là 7 viên. Xác suất là 7/10."
+   ],
+   [
+    "Trong bình có một số viên bi xanh và 4 viên bi vàng. Biết rằng số bi vàng chiếm 2/5 tổng số bi trong bình. Hỏi tổng số bi trong bình là bao nhiêu?",
+    [
+     "10",
+     "8",
+     "12",
+     "20"
+    ],
+    "Vì 2/5 tổng số bi ứng với 4 viên bi vàng, nên tổng số bi trong bình là 4 chia 2 nhân 5 bằng 10 viên."
+   ],
+   [
+    "Một cửa hàng bán trà sữa thống kê trong 50 ngày có 35 ngày bán được hơn 100 cốc. Dựa trên dữ liệu quá khứ, xác suất ngày mai cửa hàng bán được hơn 100 cốc trà sữa là khoảng bao nhiêu?",
+    [
+     "0,7",
+     "0,35",
+     "0,5",
+     "0,3"
+    ],
+    "Xác suất thực nghiệm được tính bằng số ngày bán được hơn 100 cốc chia cho tổng số ngày thống kê: 35 chia 50 bằng 0,7."
+   ],
+   [
+    "Đội bóng đá trường THCS tham gia 20 trận, trong đó có 12 trận thắng, 5 trận hòa và 3 trận thua. Chọn ngẫu nhiên một kết quả của trận đấu, xác suất đội bóng không thua trận đấu đó là:",
+    [
+     "17/20",
+     "3/20",
+     "12/20",
+     "1/2"
+    ],
+    "Số trận không thua gồm trận thắng và trận hòa là 12 cộng 5 bằng 17 trận. Xác suất là 17/20."
+   ],
+   [
+    "Một lớp học có 40 học sinh gồm các mức học lực Giỏi, Khá, Trung bình. Biết số học sinh Giỏi là 10 em, số học sinh Khá là 22 em, còn lại là học sinh Trung bình. Chọn ngẫu nhiên một học sinh trong lớp, xác suất chọn được học sinh Trung bình là:",
+    [
+     "1/5",
+     "1/4",
+     "3/10",
+     "2/5"
+    ],
+    "Số học sinh Trung bình là 40 trừ 10 trừ 22 bằng 8 em. Xác suất chọn học sinh Trung bình là 8/40 rút gọn thành 1/5."
+   ],
+   [
+    "Bạn Mai gieo một con xúc xắc 50 lần và ghi lại số chấm xuất hiện ở mặt trên. Kết quả mặt 6 chấm xuất hiện 10 lần. Xác suất thực nghiệm xuất hiện mặt 6 chấm là:",
+    [
+     "1/5",
+     "1/6",
+     "1/10",
+     "2/5"
+    ],
+    "Xác suất thực nghiệm bằng số lần xuất hiện mặt 6 chấm chia cho tổng số lần gieo: 10 chia 50 bằng 1/5."
+   ],
+   [
+    "Một chiếc hộp đựng 2 viên bi đỏ, 3 viên bi xanh và một số viên bi vàng. Biết tổng số bi là 10 viên. Lấy ngẫu nhiên một viên bi, xác suất để lấy được viên bi không phải màu xanh là:",
+    [
+     "7/10",
+     "3/10",
+     "1/2",
+     "2/5"
+    ],
+    "Số bi không phải màu xanh gồm bi đỏ và bi vàng. Số bi vàng là 10 trừ 2 trừ 3 bằng 5 viên. Tổng bi không xanh là 2 cộng 5 bằng 7 viên, xác suất là 7/10."
+   ],
+   [
+    "Lớp 7A có 40 học sinh tham gia bình chọn lớp trưởng. Bạn Nam nhận được 24 phiếu bầu. Chọn ngẫu nhiên một phiếu bầu trong hộp phiếu, xác suất để phiếu bầu đó không bầu cho bạn Nam là:",
+    [
+     "2/5",
+     "3/5",
+     "1/2",
+     "3/8"
+    ],
+    "Số phiếu không bầu cho Nam là 40 trừ 24 bằng 16 phiếu. Xác suất là 16/40 rút gọn thành 2/5."
+   ],
+   [
+    "Gieo đồng thời hai con xúc xắc cân đối. Xác suất của biến cố “Tổng số chấm xuất hiện ở hai con xúc xắc lớn hơn 1” là:",
+    [
+     "1",
+     "0",
+     "1/2",
+     "1/36"
+    ],
+    "Tổng số chấm nhỏ nhất khi gieo hai con xúc xắc là 1 cộng 1 bằng 2, luôn lớn hơn 1. Do đó đây là biến cố chắc chắn và có xác suất bằng 1."
+   ],
+   [
+    "Trong các sự kiện sau, sự kiện nào mô tả một biến cố ngẫu nhiên?",
+    [
+     "Ngày mai trời sẽ có mưa tại Hà Nội.",
+     "Mặt Trời mọc ở hướng Đông.",
+     "Số chấm xuất hiện khi gieo con xúc xắc cân đối là số lớn hơn 0.",
+     "Tổng độ dài hai cạnh bất kỳ của một tam giác luôn bé hơn cạnh thứ ba."
+    ],
+    "Trời có mưa hay không vào ngày mai là sự kiện không thể biết trước chắc chắn nên là biến cố ngẫu nhiên."
+   ],
+   [
+    "Một hộp kín chứa 12 chiếc thẻ cùng loại, được đánh số từ 1 đến 12. Rút ngẫu nhiên một thẻ. Biến cố nào sau đây là biến cố không thể?",
+    [
+     "Rút được thẻ ghi số 15.",
+     "Rút được thẻ ghi số chẵn.",
+     "Rút được thẻ ghi số chia hết cho 5.",
+     "Rút được thẻ ghi số nhỏ hơn 13."
+    ],
+    "Trong hộp chỉ có các thẻ từ 1 đến 12 nên không thể rút được thẻ ghi số 15."
+   ],
+   [
+    "Trong một hộp có 3 viên bi đen và 7 viên bi trắng có kích thước giống nhau. Lấy ngẫu nhiên 1 viên bi. Xác suất để lấy được viên bi màu trắng là:",
+    [
+     "7/10",
+     "3/10",
+     "3/7",
+     "7/3"
+    ],
+    "Tổng số bi là 3 + 7 = 10 viên. Số bi trắng là 7 nên xác suất chọn được bi trắng là 7/10."
+   ],
+   [
+    "Một xưởng sản xuất kiểm tra 100 sản phẩm ngẫu nhiên và phát hiện có 4 sản phẩm bị lỗi. Xác suất thực nghiệm của biến cố “Sản phẩm được chọn không bị lỗi” là:",
+    [
+     "96/100",
+     "4/100",
+     "4/96",
+     "96/4"
+    ],
+    "Số sản phẩm không bị lỗi là 100 - 4 = 96. Do đó xác suất thực nghiệm là 96/100."
+   ],
+   [
+    "Có 10 tấm thẻ được đánh số từ 1 đến 10. Chọn ngẫu nhiên một tấm thẻ. Xác suất để chọn được tấm thẻ ghi số bội của 4 là:",
+    [
+     "1/5",
+     "3/10",
+     "2/5",
+     "1/10"
+    ],
+    "Các số từ 1 đến 10 là bội của 4 gồm 4 và 8 (có 2 số). Xác suất là 2/10 = 1/5."
+   ]
+  ]
+ }
+}
