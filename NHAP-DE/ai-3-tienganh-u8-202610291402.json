@@ -1,0 +1,206 @@
+{
+ "3-tienganh": {
+  "u8": [
+   [
+    "Which word means \"cái bảng\" in English?",
+    [
+     "board",
+     "book",
+     "bag",
+     "box"
+    ],
+    "Board là từ chỉ cái bảng trong lớp học."
+   ],
+   [
+    "Choose the correct word: \"Đây là cái bút mực của tôi.\"",
+    [
+     "This is my pen.",
+     "This is my pencil.",
+     "This is my ruler.",
+     "This is my book."
+    ],
+    "Pen có nghĩa là bút mực."
+   ],
+   [
+    "What is missing? \"I have ___ eraser.\"",
+    [
+     "an",
+     "a",
+     "some",
+     "two"
+    ],
+    "Eraser bắt đầu bằng nguyên âm e nên ta dùng an."
+   ],
+   [
+    "Find the misspelled word.",
+    [
+     "pencill",
+     "pencil",
+     "pen",
+     "book"
+    ],
+    "Pencil viết đúng chỉ có một chữ l ở cuối."
+   ],
+   [
+    "Choose the correct question for the answer: \"Yes, I do.\"",
+    [
+     "Do you have a notebook?",
+     "What do you have?",
+     "Is this a pen?",
+     "How are you?"
+    ],
+    "Câu hỏi bắt đầu bằng Do you... thì trả lời Yes, I do hoặc No, I don't."
+   ],
+   [
+    "Complete the sentence: \"I have three ___.\"",
+    [
+     "books",
+     "book",
+     "a book",
+     "an book"
+    ],
+    "Số từ three chỉ số nhiều nên danh từ book phải thêm s thành books."
+   ],
+   [
+    "Which word is the odd one out?",
+    [
+     "apple",
+     "pen",
+     "pencil",
+     "ruler"
+    ],
+    "Apple là quả táo, các từ còn lại là đồ dùng học tập."
+   ],
+   [
+    "What colour is a typical school board?",
+    [
+     "green",
+     "red",
+     "yellow",
+     "pink"
+    ],
+    "Bảng ở lớp thường có màu xanh lá cây (green)."
+   ],
+   [
+    "Choose the correct sentence.",
+    [
+     "I have a yellow school bag.",
+     "I have yellow a school bag.",
+     "A school bag I have yellow.",
+     "School bag I yellow have."
+    ],
+    "Tính từ chỉ màu sắc đứng trước danh từ và mạo từ a đứng đầu cụm danh từ."
+   ],
+   [
+    "Translate into English: \"Kia là cái gì?\"",
+    [
+     "What is that?",
+     "What is this?",
+     "Who is that?",
+     "Where is that?"
+    ],
+    "Kia là that, cái gì là what."
+   ],
+   [
+    "Choose the correct answer: \"Is that your pencil case? – No, ___.\"",
+    [
+     "it isn't",
+     "it is",
+     "I am not",
+     "they aren't"
+    ],
+    "Hỏi Is that... thì trả lời phủ định là No, it isn't."
+   ],
+   [
+    "Look and choose: \"What do you have?\" - \"I have a pen and two ___.\"",
+    [
+     "rulers",
+     "ruler",
+     "a ruler",
+     "an ruler"
+    ],
+    "Số từ two đi với danh từ số nhiều thêm s."
+   ],
+   [
+    "Find the word with the correct spelling for \"cục tẩy\".",
+    [
+     "eraser",
+     "erazer",
+     "erraser",
+     "erasor"
+    ],
+    "Eraser là cách viết đúng của cục tẩy."
+   ],
+   [
+    "Choose the correct meaning of \"colourful crayon\".",
+    [
+     "bút sáp màu sặc sỡ",
+     "cục tẩy màu đen",
+     "quyển vở màu xanh",
+     "cái thước kẻ dài"
+    ],
+    "Colourful nghĩa là sặc sỡ, crayon nghĩa là bút sáp màu."
+   ],
+   [
+    "Complete the dialogue: \"Do you have a rubber? – No, I ___.\"",
+    [
+     "don't",
+     "do",
+     "am not",
+     "is not"
+    ],
+    "Câu trả lời bắt đầu bằng No thì phải dùng trợ động từ phủ định don't."
+   ],
+   [
+    "Which school thing do you use to draw lines?",
+    [
+     "ruler",
+     "pen",
+     "book",
+     "eraser"
+    ],
+    "Thước kẻ (ruler) dùng để kẻ đường thẳng."
+   ],
+   [
+    "Choose the correct plural form of \"pencil case\".",
+    [
+     "pencil cases",
+     "pencils case",
+     "pencils cases",
+     "pencil case"
+    ],
+    "Khi đổi sang số nhiều, ta thêm s vào cuối từ case thành pencil cases."
+   ],
+   [
+    "Read and count: \"I have one desk, two chairs and four books.\" How many desks are there?",
+    [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "Câu văn nêu rõ \"one desk\" nghĩa là có 1 cái bàn học."
+   ],
+   [
+    "Choose the sentence that matches the picture of a school bag.",
+    [
+     "This is my school bag.",
+     "This is my pencil case.",
+     "This is my notebook.",
+     "This is my desk."
+    ],
+    "School bag là cặp sách."
+   ],
+   [
+    "Choose the correct sentence to ask about a school thing far away.",
+    [
+     "What is that?",
+     "What are that?",
+     "What is this?",
+     "What are those?"
+    ],
+    "Dùng 'What is that?' để hỏi về một đồ vật ở xa (số ít). Các phương án khác sai ngữ pháp."
+   ]
+  ]
+ }
+}

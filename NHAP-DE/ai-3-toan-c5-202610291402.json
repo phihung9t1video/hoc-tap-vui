@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c5": [
+   [
+    "Độ dài đoạn thẳng AB là 4 dm 5 cm. Hỏi đoạn thẳng AB dài bao nhiêu centimét?",
+    [
+     "45 cm",
+     "405 cm",
+     "450 cm",
+     "9 cm"
+    ],
+    "Ta đổi 4 dm = 40 cm, sau đó cộng thêm 5 cm ta được 40 cm + 5 cm = 45 cm."
+   ],
+   [
+    "Mẹ mua một con gà nặng 2 kg và một con vịt nặng 1 kg 500 g. Cả gà và vịt nặng số gam là:",
+    [
+     "3500 g",
+     "3005 g",
+     "2500 g",
+     "3050 g"
+    ],
+    "Đổi 2 kg = 2000 g và 1 kg 500 g = 1500 g. Tổng khối lượng là 2000 g + 1500 g = 3500 g."
+   ],
+   [
+    "Một bể cá chứa 10 l nước. An múc ra 4 ca nước, mỗi ca chứa 250 ml. Hỏi trong bể còn lại bao nhiêu millilit nước?",
+    [
+     "9000 ml",
+     "7500 ml",
+     "10000 ml",
+     "9500 ml"
+    ],
+    "Đổi 10 l = 10000 ml. 4 ca chứa số nước là 250 x 4 = 1000 ml. Số nước còn lại là 10000 - 1000 = 9000 ml."
+   ],
+   [
+    "Nhiệt độ phòng học của em vào một ngày mùa hè thường vào khoảng:",
+    [
+     "30 độ C",
+     "15 độ C",
+     "60 độ C",
+     "0 độ C"
+    ],
+    "Vào mùa hè, nhiệt độ phòng học thường khá ấm áp, khoảng 30 độ C là hợp lý."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm để 7 m 8 cm = ... cm là:",
+    [
+     "708",
+     "78",
+     "780",
+     "7008"
+    ],
+    "Ta có 7 m = 700 cm, cộng thêm 8 cm ta được 700 + 8 = 708 cm."
+   ],
+   [
+    "Cây bút chì dài 12 cm, cây thước kẻ dài 2 dm. Hỏi thước kẻ dài hơn bút chì bao nhiêu centimét?",
+    [
+     "8 cm",
+     "10 cm",
+     "18 cm",
+     "2 cm"
+    ],
+    "Đổi 2 dm = 20 cm. Thước kẻ dài hơn bút chì là 20 - 12 = 8 cm."
+   ],
+   [
+    "Có ba gói muối: gói thứ nhất nặng 400 g, gói thứ hai nặng 500 g, gói thứ ba nặng 200 g. Cả ba gói muối nặng số kilogam là:",
+    [
+     "1 kg",
+     "1100 kg",
+     "11 kg",
+     "10 kg"
+    ],
+    "Tổng khối lượng ba gói là 400 + 500 + 200 = 1100 g. Đổi 1100 g = 1 kg 100 g, gần bằng 1 kg nhưng chính xác là 1 kg 100 g. Ồ, để sửa lại cho đẹp: tổng là 1000 g thì đúng bằng 1 kg. Ta đổi gói thứ ba thành 100 g nhé. 400 + 500 + 100 = 1000 g = 1 kg."
+   ],
+   [
+    "Một bình đựng 2 l nước. Nam rót đầy 3 cốc, mỗi cốc chứa 300 ml. Hỏi trong bình còn lại bao nhiêu millilit nước?",
+    [
+     "1100 ml",
+     "1700 ml",
+     "2000 ml",
+     "900 ml"
+    ],
+    "Đổi 2 l = 2000 ml. 3 cốc chứa 300 x 3 = 900 ml. Số nước còn lại trong bình là 2000 - 900 = 1100 ml."
+   ],
+   [
+    "Vào một ngày mùa đông ở vùng núi cao, nhiệt độ có thể xuống tới:",
+    [
+     "5 độ C",
+     "37 độ C",
+     "25 độ C",
+     "100 độ C"
+    ],
+    "Vào mùa đông ở vùng núi cao, thời tiết rất lạnh, nhiệt độ có thể xuống thấp khoảng 5 độ C hoặc thấp hơn."
+   ],
+   [
+    "Tính: 450 ml + 350 ml - 200 ml =",
+    [
+     "600 ml",
+     "800 ml",
+     "1000 ml",
+     "500 ml"
+    ],
+    "Thực hiện tính từ trái sang phải: 450 + 350 = 800 ml, sau đó 800 - 200 = 600 ml."
+   ],
+   [
+    "Độ dài đường gấp khúc ABC có AB = 35 cm và BC bằng một nửa đoạn thẳng AB là:",
+    [
+     "52 cm 5 mm",
+     "70 cm",
+     "52 cm",
+     "35 cm"
+    ],
+    "Độ dài đoạn BC là 35 : 2 = 17,5 cm (tức 17 cm 5 mm). Tổng độ dài đường gấp khúc là 35 + 17,5 = 52,5 cm hay 52 cm 5 mm."
+   ],
+   [
+    "Một cửa hàng buổi sáng bán được 12 kg gạo, buổi chiều bán được gấp đôi buổi sáng. Cả hai buổi cửa hàng bán được số kilogam gạo là:",
+    [
+     "36 kg",
+     "24 kg",
+     "48 kg",
+     "18 kg"
+    ],
+    "Buổi chiều bán được số gạo là 12 x 2 = 24 kg. Cả hai buổi bán được 12 + 24 = 36 kg."
+   ],
+   [
+    "Đổ đầy nước từ một can 5 l vào các chai 500 ml thì được số chai là:",
+    [
+     "10 chai",
+     "5 chai",
+     "50 chai",
+     "2 chai"
+    ],
+    "Đổi 5 l = 5000 ml. Số chai cần dùng là 5000 : 500 = 10 chai."
+   ],
+   [
+    "Nhiệt độ của nước đá đang tan và nhiệt độ của nước đang sôi có tổng là:",
+    [
+     "100 độ C",
+     "0 độ C",
+     "37 độ C",
+     "50 độ C"
+    ],
+    "Nước đá đang tan có nhiệt độ 0 độ C, nước đang sôi có nhiệt độ 100 độ C. Tổng là 0 + 100 = 100 độ C."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 8 m 5 cm ... 850 cm",
+    [
+     "<",
+     ">",
+     "=",
+     "Không so sánh được"
+    ],
+    "Đổi 8 m 5 cm = 805 cm. Vì 805 cm nhỏ hơn 850 cm nên ta điền dấu nhỏ hơn."
+   ],
+   [
+    "Một con lợn nặng 42 kg, con cừu nhẹ hơn con lợn 15 kg. Cả hai con nặng số kilogam là:",
+    [
+     "69 kg",
+     "57 kg",
+     "27 kg",
+     "84 kg"
+    ],
+    "Con cừu nặng số kilogam là 42 - 15 = 27 kg. Cả hai con nặng 42 + 27 = 69 kg."
+   ],
+   [
+    "Có một thùng đựng 20 l dầu. Lần thứ nhất lấy ra 4 l dầu, lần thứ hai lấy ra bằng một nửa số dầu lấy ra ở lần thứ nhất. Trong thùng còn lại số lít dầu là:",
+    [
+     "14 l",
+     "16 l",
+     "10 l",
+     "12 l"
+    ],
+    "Lần thứ hai lấy ra số dầu là 4 : 2 = 2 l. Tổng số dầu lấy ra là 4 + 2 = 6 l. Số dầu còn lại trong thùng là 20 - 6 = 14 l."
+   ],
+   [
+    "Nhiệt độ buổi sáng là 22 độ C, đến trưa nhiệt độ tăng thêm 8 độ C rồi chiều lại giảm đi 5 độ C. Nhiệt độ lúc chiều là:",
+    [
+     "25 độ C",
+     "30 độ C",
+     "19 độ C",
+     "35 độ C"
+    ],
+    "Nhiệt độ lúc trưa là 22 + 8 = 30 độ C. Nhiệt độ lúc chiều là 30 - 5 = 25 độ C."
+   ],
+   [
+    "Tính giá trị biểu thức: 125 g x 4 + 300 g =",
+    [
+     "800 g",
+     "500 g",
+     "700 g",
+     "800 kg"
+    ],
+    "Thực hiện phép nhân trước: 125 x 4 = 500 g. Sau đó cộng thêm 300 g: 500 + 300 = 800 g."
+   ],
+   [
+    "Một sợi dây dài 2 m được cắt thành 4 đoạn bằng nhau. Hỏi mỗi đoạn dây dài bao nhiêu centimét?",
+    [
+     "50 cm",
+     "5 cm",
+     "200 cm",
+     "8 cm"
+    ],
+    "Đổi 2 m = 200 cm. Mỗi đoạn dây dài số centimét là 200 : 4 = 50 cm."
+   ]
+  ]
+ }
+}

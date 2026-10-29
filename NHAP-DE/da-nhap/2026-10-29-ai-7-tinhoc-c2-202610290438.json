@@ -1,0 +1,406 @@
+{
+ "7-tinhoc": {
+  "c2": [
+   [
+    "Mạng xã hội là gì theo chương trình Tin học lớp 7?",
+    [
+     "Nền tảng trực tuyến giúp người dùng kết nối, chia sẻ thông tin và trò chuyện với nhau",
+     "Chỉ là một trang web dùng để xem phim và nghe nhạc trực tuyến",
+     "Phần mềm dùng để soạn thảo văn bản và tính toán bảng biểu",
+     "Hệ điều hành giúp máy tính hoạt động và kết nối Internet"
+    ],
+    "Mạng xã hội là nền tảng trực tuyến phục vụ cho việc kết nối và giao tiếp giữa nhiều người dùng."
+   ],
+   [
+    "Đâu là một ứng dụng phổ biến đóng vai trò là mạng xã hội tại Việt Nam?",
+    [
+     "Facebook",
+     "Google Chrome",
+     "Microsoft Word",
+     "Paint"
+    ],
+    "Facebook là mạng xã hội rất phổ biến dùng để kết nối và chia sẻ thông tin."
+   ],
+   [
+    "Khi tạo tài khoản mạng xã hội, điều kiện quan trọng về độ tuổi của học sinh lớp 7 là gì?",
+    [
+     "Phần lớn các mạng xã hội yêu cầu người dùng phải từ đủ 13 tuổi trở lên",
+     "Học sinh ở mọi lứa tuổi đều được đăng ký tự do không cần giới hạn",
+     "Chỉ cần đủ 6 tuổi là có thể tạo tài khoản cá nhân",
+     "Phải là người từ 18 tuổi trở lên mới được phép sử dụng"
+    ],
+    "Hầu hết các mạng xã hội uy tín đều quy định độ tuổi tối thiểu là 13 để tham gia."
+   ],
+   [
+    "Hành vi nào dưới đây thể hiện việc bảo vệ thông tin cá nhân trên mạng xã hội?",
+    [
+     "Chỉ chia sẻ ngày sinh và số điện thoại với bạn bè thân thiết, không để chế độ công khai",
+     "Đăng tải căn cước công dân và địa chỉ nhà lên trang cá nhân để mọi người cùng biết",
+     "Cung cấp mật khẩu cho bạn bè mượn để chơi chung tài khoản",
+     "Công khai toàn bộ danh bạ điện thoại lên dòng thời gian"
+    ],
+    "Việc hạn chế công khai thông tin riêng tư giúp em tránh được các rủi ro lừa đảo."
+   ],
+   [
+    "Giao tiếp qua mạng xã hội có đặc điểm nổi bật nào so với giao tiếp trực tiếp?",
+    [
+     "Có thể kết nối với mọi người ở khoảng cách xa nhưng thiếu đi biểu cảm khuôn mặt và giọng nói",
+     "Giúp người dùng nhìn thấy rõ cảm xúc thật của đối phương ngay lập tức",
+     "Luôn luôn an toàn tuyệt đối vì không thể xảy ra hiện tượng lừa đảo",
+     "Chỉ diễn ra được vào ban đêm khi có kết nối mạng ổn định"
+    ],
+    "Giao tiếp qua mạng giúp vượt qua khoảng cách địa lý nhưng lại hạn chế về mặt cảm xúc trực quan."
+   ],
+   [
+    "Khi sử dụng mạng xã hội, thế nào là một mật khẩu mạnh?",
+    [
+     "Gồm chữ hoa, chữ thường, số và ký tự đặc biệt, có độ dài hợp lý",
+     "Sử dụng ngày tháng năm sinh của bản thân để dễ nhớ",
+     "Dùng dãy số từ 1 đến 8 liên tiếp nhau",
+     "Dùng đúng tên của mình kèm theo số lớp"
+    ],
+    "Mật khẩu mạnh cần có sự kết hợp đa dạng các ký tự để tránh bị kẻ gian dò tìm."
+   ],
+   [
+    "Hành động nào sau đây thể hiện văn hóa ứng xử kém khi tham gia bình luận trên mạng?",
+    [
+     "Dùng lời lẽ khiếm nhã, xúc phạm người khác vì không cùng quan điểm",
+     "Góp ý lịch sự và đưa ra lập luận rõ ràng để tranh luận",
+     "Thả biểu tượng cảm xúc đồng tình với bài viết",
+     "Chia sẻ bài viết hữu ích về trang cá nhân"
+    ],
+    "Sử dụng từ ngữ xúc phạm người khác trên không gian mạng là hành vi thiếu văn hóa và vi phạm quy tắc ứng xử."
+   ],
+   [
+    "Vì sao học sinh không nên nhắn tin làm quen với người lạ hoàn toàn không quen biết trên mạng?",
+    [
+     "Vì có thể gặp phải kẻ xấu giả mạo danh tính để dụ dỗ, lừa đảo",
+     "Vì làm tốn dung lượng pin của điện thoại",
+     "Vì hệ thống mạng xã hội sẽ tự động khóa tài khoản",
+     "Vì người lạ không bao giờ biết sử dụng tiếng Việt"
+    ],
+    "Người lạ trên mạng có thể ẩn giấu thân phận thật và có ý đồ xấu với học sinh."
+   ],
+   [
+    "Khi thấy một tin tức có nội dung giật gân, chưa rõ thực hư được chia sẻ rất nhiều trên mạng, em nên làm gì?",
+    [
+     "Không chia sẻ và tìm đọc ở các nguồn báo chí chính thống để kiểm chứng",
+     "Ngay lập tức bấm chia sẻ cho nhiều người cùng xem",
+     "Bình luận thêm những thông tin phóng đại cho bài viết hấp dẫn hơn",
+     "Tự tạo ra một câu chuyện khác tương tự để đăng lên"
+    ],
+    "Em cần giữ sự tỉnh táo, không lan truyền tin giả chưa được kiểm chứng."
+   ],
+   [
+    "Lợi ích lớn nhất của việc tham gia các nhóm học tập trên mạng xã hội là gì?",
+    [
+     "Dễ dàng trao đổi bài vở, thảo luận bài tập nhóm và hỗ trợ nhau học tập mọi lúc",
+     "Giúp học sinh chơi game trực tuyến mượt mà hơn",
+     "Thay thế hoàn toàn việc đến trường học trực tiếp",
+     "Giúp tăng số lượng người theo dõi trang cá nhân nhanh chóng"
+    ],
+    "Nhóm học tập trên mạng hỗ trợ đắc lực cho việc trao đổi kiến thức và làm bài tập chung."
+   ],
+   [
+    "Đâu là biểu hiện của việc nghiện mạng xã hội ở lứa tuổi học sinh?",
+    [
+     "Dành toàn bộ thời gian rảnh rỗi để lướt bảng tin, xao nhãng việc học và ăn uống",
+     "Chỉ sử dụng mạng xã hội trong 30 phút mỗi ngày sau khi đã hoàn thành bài tập",
+     "Dùng mạng xã hội để tra cứu tài liệu học tập theo đúng thời gian biểu",
+     "Chủ động khóa tài khoản khi có kỳ thi quan trọng"
+    ],
+    "Việc lạm dụng mạng xã hội đến mức bỏ bê học tập và sinh hoạt là dấu hiệu của sự nghiện ngập."
+   ],
+   [
+    "Khi nhận được những tin nhắn đe dọa hoặc làm nhục mình trên mạng xã hội, em nên xử lý thế nào?",
+    [
+     "Lưu lại bằng chứng và báo ngay cho cha mẹ hoặc thầy cô giáo biết",
+     "Nhắn tin lại với lời lẽ cay nghiệt hơn để chửi mắng lại",
+     "Tự chịu đựng một mình và xóa tài khoản ngay lập tức",
+     "Làm theo mọi yêu cầu của người đó để được yên thân"
+    ],
+    "Chia sẻ với người lớn (cha mẹ, thầy cô) là cách tốt nhất để nhận sự bảo vệ và giải quyết."
+   ],
+   [
+    "Hành vi nào vi phạm bản quyền khi đăng bài trên mạng xã hội?",
+    [
+     "Lấy bài viết hoặc hình ảnh của người khác nhận là của mình mà không ghi nguồn",
+     "Chia sẻ lại bài viết công khai kèm theo đường link gốc của tác giả",
+     "Tự viết một bài văn ngắn do chính mình suy nghĩ để đăng lên",
+     "Đăng bức ảnh chụp phong cảnh do chính em tự chụp"
+    ],
+    "Sao chép tác phẩm của người khác mà không xin phép hoặc trích dẫn nguồn là vi phạm bản quyền."
+   ],
+   [
+    "Vì sao không nên bật chế độ công khai vị trí thực tế trên các bài đăng ảnh cá nhân hàng ngày?",
+    [
+     "Vì kẻ gian có thể nắm được lịch trình di chuyển và biết em đang ở đâu để thực hiện ý đồ xấu",
+     "Vì làm như vậy sẽ tốn rất nhiều cước phí kết nối internet của gia đình",
+     "Vì ứng dụng mạng xã hội sẽ bị lỗi không tải được ảnh lên",
+     "Vì điện thoại sẽ nhanh bị hết pin hơn bình thường"
+    ],
+    "Việc lộ vị trí liên tục giúp kẻ xấu dễ theo dõi lịch sinh hoạt, gây mất an toàn cá nhân."
+   ],
+   [
+    "Minh muốn đăng bài hỏi bài tập khó lên nhóm học tập. Cách làm nào là lịch sự và hiệu quả?",
+    [
+     "Đăng ảnh chụp đề bài rõ nét, nói lời xin lỗi vì làm phiền và cảm ơn mọi người đã giúp đỡ",
+     "Nhắn tin dồn dập vào trang cá nhân của tất cả các bạn trong lớp đòi giải hộ ngay",
+     "Đăng bài với những từ ngữ ra lệnh cộc lốc bắt các bạn phải giải nhanh",
+     "Đăng một biểu tượng trống không kèm theo dấu chấm hỏi"
+    ],
+    "Cách ứng xử lễ phép, rõ ràng giúp Minh nhận được sự giúp đỡ nhiệt tình từ các bạn."
+   ],
+   [
+    "Khi sử dụng máy tính công cộng ở thư viện để truy cập mạng xã hội, việc làm nào sau đây là an toàn?",
+    [
+     "Đăng xuất tài khoản và xóa lịch sử duyệt web trước khi rời đi",
+     "Để nguyên trạng thái đăng nhập để lần sau đỡ mất công gõ lại",
+     "Lưu lại mật khẩu vào trình duyệt của máy tính đó",
+     "Cho phép máy tính ghi nhớ tên đăng nhập vĩnh viễn"
+    ],
+    "Đăng xuất tài khoản giúp em tránh bị người sử dụng máy tính sau chiếm đoạt tài khoản."
+   ],
+   [
+    "Hành động nào thể hiện sự đồng cảm đúng đắn trên không gian mạng?",
+    [
+     "Nhắn tin động viên, chia sẻ khi biết một bạn học sinh đang gặp chuyện buồn",
+     "Vào hùa cùng đám đông để chê bai khi thấy một bài viết phê phán người khác",
+     "Đọc xong rồi im lặng bỏ đi không quan tâm đến cảm xúc của ai",
+     "Thả biểu tượng vui vẻ vào bài viết kể về hoàn cảnh khó khăn của người khác"
+    ],
+    "Lời động viên kịp thời thể hiện sự quan tâm và lòng nhân ái đúng mực trong môi trường mạng."
+   ],
+   [
+    "Em hiểu thế nào về dấu hiệu nhận biết một tài khoản mạng xã hội giả mạo (nick ảo)?",
+    [
+     "Thường dùng ảnh đại diện lấy trên mạng, có rất ít bạn bè và ít tương tác bài viết thật",
+     "Có đầy đủ hình ảnh sinh hoạt đời thực và tương tác thường xuyên với người thân",
+     "Được cấp tích xanh xác nhận danh tính từ nhà quản lý mạng xã hội",
+     "Có thông tin tiểu sử rõ ràng về trường lớp và thầy cô giáo"
+    ],
+    "Tài khoản giả mạo thường thiếu thông tin xác thực, ảnh đại diện không rõ ràng và ít hoạt động tự nhiên."
+   ],
+   [
+    "Để bảo vệ thị lực và sức khỏe khi sử dụng mạng xã hội, học sinh lớp 7 nên tuân thủ điều gì?",
+    [
+     "Sử dụng có thời gian hợp lý, nghỉ ngơi sau mỗi 45 phút và không dùng trong phòng tối",
+     "Dùng liên tục nhiều giờ liền cho đến khi màn hình điện thoại tự sập nguồn",
+     "Vừa nằm trùm chăn vừa lướt mạng xã hội xuyên đêm để không bị ai phát hiện",
+     "Để độ sáng màn hình ở mức tối đa liên tục suốt cả ngày"
+    ],
+    "Điều tiết thời gian sử dụng và giữ khoảng cách hợp lý giúp bảo vệ mắt và sức khỏe tổng thể."
+   ],
+   [
+    "Khi phát hiện một trang web hoặc tài khoản mạng xã hội chuyên đăng tải nội dung độc hại, bạo lực, em cần vận dụng kỹ năng số ra sao?",
+    [
+     "Sử dụng tính năng báo cáo (report) vi phạm có sẵn trên nền tảng mạng xã hội",
+     "Tải toàn bộ các nội dung đó về máy tính cá nhân để lưu trữ",
+     "Bình luận khen ngợi để trang web đó tiếp tục phát triển",
+     "Chia sẻ thật nhanh cho tất cả bạn bè trong trường cùng xem"
+    ],
+    "Sử dụng tính năng báo cáo giúp nhà quản lý xử lý kịp thời các nội dung xấu, độc trên mạng."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện việc tận dụng đúng đắn tính năng chia sẻ của mạng xã hội trong học tập?",
+    [
+     "Đăng tải sơ đồ tư duy tổng kết kiến thức lịch sử do chính em tự vẽ lên nhóm học tập của lớp.",
+     "Sao chép toàn bộ lời giải bài tập trên mạng rồi nhận là của mình để đăng lên khoe với bạn bè.",
+     "Chia sẻ lại một đường liên kết không rõ nguồn gốc chứa tệp tin lạ vào nhóm của trường.",
+     "Quay lén video trong giờ học rồi đăng lên trang cá nhân kèm theo lời chê bai giáo viên."
+    ],
+    "Chia sẻ sản phẩm học tập tự làm giúp lan tỏa kiến thức bổ ích và xây dựng cộng đồng học tập tích cực."
+   ],
+   [
+    "Khi tham gia một câu lạc bộ trực tuyến trên mạng xã hội, quy tắc ứng xử nào cần được đặt lên hàng đầu?",
+    [
+     "Tôn trọng ý kiến của các thành viên khác ngay cả khi có tranh luận.",
+     "Cố gắng tranh cãi đến cùng để chứng minh mình luôn đúng.",
+     "Chỉ tương tác với những người có ngoại hình đẹp hoặc nổi tiếng.",
+     "Đăng thật nhiều bài viết không liên quan để thu hút sự chú ý."
+    ],
+    "Tôn trọng người khác là nền tảng cốt lõi trong văn hóa giao tiếp và ứng xử trên không gian mạng."
+   ],
+   [
+    "Phát biểu nào dưới đây chính xác nhất khi nói về bản chất của các mối quan hệ trên mạng xã hội?",
+    [
+     "Có sự kết nối rộng nhưng phần lớn là quan hệ ảo, cần cẩn trọng khi chia sẻ thông tin riêng tư.",
+     "Các mối quan hệ trên mạng đều chân thực và đáng tin cậy như ngoài đời thực.",
+     "Kết bạn càng nhiều trên mạng xã hội thì cuộc sống ngoài đời càng trở nên an toàn hơn.",
+     "Không thể tìm thấy bất kỳ tri thức hay bạn bè tốt nào thông qua mạng xã hội."
+    ],
+    "Mạng xã hội giúp mở rộng giao lưu nhưng các mối quan hệ trực tuyến thường ẩn chứa rủi ro, đòi hỏi sự cẩn trọng."
+   ],
+   [
+    "Vì sao việc bình luận (comment) những từ ngữ khiếm nhã vào bài viết của người khác lại là hành vi vi phạm đạo đức số?",
+    [
+     "Vì nó gây tổn thương tâm lý cho người nhận và làm ô nhiễm môi trường mạng lành mạnh.",
+     "Vì hành động đó sẽ lập tức làm hỏng thiết bị điện tử của người bị bình luận.",
+     "Vì tính năng bình luận chỉ được phép dùng để thả biểu tượng cảm xúc.",
+     "Vì mạng xã hội cấm tuyệt đối mọi người không được bất đồng quan điểm với nhau."
+    ],
+    "Ngôn từ thô lỗ trên mạng có sức sát thương lớn, ảnh hưởng nghiêm trọng đến tinh thần người khác."
+   ],
+   [
+    "Hành vi nào dưới đây thể hiện rõ nhất thái độ thiếu văn hóa khi tham gia vào các buổi học trực tuyến hoặc thảo luận nhóm?",
+    [
+     "Liên tục bật micro gây tiếng ồn và ngắt lời khi người khác đang phát biểu.",
+     "Tắt camera khi giáo viên yêu cầu điểm danh đầu giờ học.",
+     "Chủ động gửi câu hỏi liên quan đến bài học vào phần khung chat.",
+     "Tham gia đúng giờ và mặc trang phục gọn gàng khi họp nhóm."
+    ],
+    "Ngắt lời và gây tiếng ồn làm gián đoạn buổi học, thể hiện sự thiếu tôn trọng tập thể."
+   ],
+   [
+    "Khi vô tình đọc được một bài viết gây tranh cãi gay gắt trên mạng xã hội nhưng chưa rõ nguyên nhân, em nên chọn cách ứng xử nào?",
+    [
+     "Giữ bình tĩnh, không hùa theo đám đông chửi bới hay chia sẻ bài viết đó.",
+     "Lập tức viết một bài dài lăng mạ tác giả bài viết để thể hiện thái độ.",
+     "Chia sẻ ngay lên trang cá nhân kèm theo lời khẳng định chắc như đinh đóng cột.",
+     "Nhắn tin trực tiếp đe dọa người vừa đăng bài viết gây tranh cãi."
+    ],
+    "Giữ sự tỉnh táo giúp em tránh bị cuốn vào các thông tin tiêu cực hoặc bạo lực mạng."
+   ],
+   [
+    "Việc sử dụng các biểu tượng cảm xúc (emoji) trong giao tiếp qua tin nhắn cần lưu ý điều gì để tránh hiểu lầm?",
+    [
+     "Dùng phù hợp với ngữ cảnh và đối tượng để thể hiện đúng sắc thái tình cảm.",
+     "Dùng thật nhiều biểu tượng giận dữ hoặc khóc lóc trong mọi cuộc trò chuyện vui vẻ.",
+     "Không bao giờ được sử dụng emoji vì chúng làm mất đi sự trang trọng của tiếng Việt.",
+     "Chỉ dùng duy nhất một loại emoji trong suốt quá trình nhắn tin với bạn bè."
+    ],
+    "Emoji giúp làm rõ cảm xúc nhưng nếu dùng sai ngữ cảnh có thể gây hiểu lầm hoặc phản cảm."
+   ],
+   [
+    "Đâu là biểu hiện của việc quản lý thời gian sử dụng mạng xã hội thông minh ở học sinh?",
+    [
+     "Đặt giới hạn thời gian mỗi ngày cho việc lướt mạng và hoàn thành xong bài tập mới giải trí.",
+     "Cố gắng thức trắng đêm để chơi game và đọc truyện tranh trên mạng xã hội.",
+     "Điện thoại luôn mở thông báo và kiểm tra tin nhắn ngay cả khi đang ăn cơm hay ngủ.",
+     "Bỏ bê việc nhà và các hoạt động thể thao ngoài trời để ngồi máy tính cả ngày."
+    ],
+    "Quản lý thời gian hợp lý giúp cân bằng giữa việc học, giải trí và bảo vệ sức khỏe."
+   ],
+   [
+    "Khi lập một nhóm chat học tập chung với các bạn trong lớp, lớp trưởng nên thiết lập quy định gì để nhóm hoạt động hiệu quả?",
+    [
+     "Quy định rõ mục đích chính của nhóm là trao đổi bài tập và giữ thái độ lịch sự.",
+     "Cho phép tất cả thành viên được đăng bán hàng và quảng cáo thoải mái.",
+     "Cấm tuyệt đối mọi người không được hỏi bài nhau khi ở nhà.",
+     "Khuyến khích các thành viên tranh cãi thật gay gắt về các chủ đề ngoài lề."
+    ],
+    "Quy tắc rõ ràng giúp nhóm học tập tập trung vào chuyên môn và duy trì sự đoàn kết."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện sự tôn trọng bản quyền tác giả khi em muốn đăng lại một bức ảnh đẹp trên mạng?",
+    [
+     "Ghi rõ tên tác giả hoặc nguồn sưu tầm bức ảnh đó trong phần chú thích.",
+     "Xóa chữ ký của tác giả trên ảnh rồi đăng lên nhận là do mình chụp.",
+     "Cắt bỏ một góc bức ảnh để người khác tưởng là ảnh độc quyền của mình.",
+     "Đăng ảnh thoải mái mà không cần bận tâm ai là người đã tạo ra nó."
+    ],
+    "Tôn trọng bản quyền thể hiện qua việc ghi nguồn, ghi nhận công sức của người sáng tạo."
+   ],
+   [
+    "Tình huống nào sau đây cho thấy học sinh biết vận dụng kỹ năng số để giải quyết vấn đề thực tế?",
+    [
+     "Thấy bạn trong lớp bị kẻ xấu lập nick giả mạo để bêu xấu, em liền báo ngay cho thầy cô và gia đình.",
+     "Hùa theo nhóm bạn trên mạng để lập tài khoản ảo vào trêu chọc người khác cho vui.",
+     "Tự ý lấy số điện thoại của bạn thân đăng lên hội nhóm công khai để trêu đùa.",
+     "Xóa toàn bộ tài khoản mạng xã hội của mình vì sợ không dám giao tiếp với ai nữa."
+    ],
+    "Báo cáo sự việc cho người lớn thể hiện tư duy xử lý tình huống an toàn khi gặp rắc rối trên mạng."
+   ],
+   [
+    "Vì sao việc lạm dụng quá mức các trò chơi trực tuyến kết hợp mạng xã hội lại gây hại cho học sinh lớp 7?",
+    [
+     "Gây sa sút kết quả học tập, mỏi mắt, cong vẹo cột sống và suy giảm kỹ năng giao tiếp thực tế.",
+     "Giúp học sinh thông minh hơn, phản xạ nhanh nhạy hơn trong mọi tình huống đời sống.",
+     "Làm tăng thể lực và giúp phát triển chiều cao vượt trội nhờ ngồi máy tính nhiều.",
+     "Không gây ra bất kỳ ảnh hưởng nào nếu em vừa chơi vừa ăn uống đầy đủ."
+    ],
+    "Lạm dụng mạng xã hội và game dẫn đến nghiện, ảnh hưởng xấu đến sức khỏe thể chất và tinh thần."
+   ],
+   [
+    "Khi nhận được một lời mời kết bạn từ một người dùng có tên tài khoản toàn ký tự lạ, không có ảnh thật, em nên làm gì?",
+    [
+     "Từ chối hoặc phớt lờ lời mời để đảm bảo an toàn cho bản thân.",
+     "Đồng ý ngay lập tức vì nghĩ rằng kết bạn càng đông càng vui.",
+     "Nhắn tin hỏi số căn cước công dân và địa chỉ nhà của người đó.",
+     "Gửi toàn bộ mật khẩu tài khoản của mình cho họ kiểm tra độ tin cậy."
+    ],
+    "Tài khoản không rõ danh tính tiềm ẩn nguy cơ lừa đảo, phát tán mã độc hoặc quấy rối."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi bàn về trách nhiệm của công dân khi đăng thông tin lên mạng xã hội?",
+    [
+     "Phải chịu trách nhiệm trước pháp luật về tính xác thực của thông tin do mình đăng tải.",
+     "Có thể tha hồ bịa đặt câu chuyện để câu lượt thích mà không sợ bị xử lý.",
+     "Chỉ cần thông tin đó hay và thu hút nhiều người xem là không cần kiểm chứng.",
+     "Mạng xã hội là thế giới ảo nên mọi hành vi phát ngôn đều không có hậu quả thật."
+    ],
+    "Mỗi cá nhân phải chịu trách nhiệm pháp lý và đạo đức đối với những nội dung mình đưa lên mạng."
+   ],
+   [
+    "Khi tham gia thảo luận bài tập nhóm trên không gian mạng, nếu phát hiện ý kiến của bạn khác chưa chính xác, em nên góp ý thế nào?",
+    [
+     "Nhắn tin nhẹ nhàng chỉ ra điểm chưa đúng và gợi ý cách chỉnh sửa mang tính xây dựng.",
+     "Chụp ảnh màn hình câu trả lời của bạn rồi đăng lên nhóm chung để chế giễu.",
+     "Dùng những từ ngữ nặng nề mắng bạn vì tội không biết làm bài tập.",
+     "Lập tức thoát khỏi nhóm chat và từ chối hợp tác với bạn đó trong mọi bài tập sau."
+    ],
+    "Góp ý khéo léo, lịch sự giúp bạn tiến bộ và giữ gìn tình bạn trong học tập."
+   ],
+   [
+    "Hành vi nào dưới đây thể hiện sự thiếu an toàn khi sử dụng thiết bị di động truy cập mạng xã hội ở nơi công cộng?",
+    [
+     "Bật chế độ tự động kết nối vào các mạng Wi-Fi miễn phí không có mật khẩu.",
+     "Tắt tính năng định vị GPS khi không thực sự cần thiết sử dụng bản đồ.",
+     "Khóa màn hình điện thoại bằng mã PIN hoặc vân tay khi không cầm máy.",
+     "Đăng xuất tài khoản ngay sau khi sử dụng chung máy tính ở phòng thực hành."
+    ],
+    "Wi-Fi công cộng miễn phí không bảo mật rất dễ bị hacker đánh cắp dữ liệu cá nhân."
+   ],
+   [
+    "Vì sao học sinh không nên chia sẻ hình ảnh vé máy bay, vé tàu xe có ghi rõ thông tin cá nhân lên mạng xã hội?",
+    [
+     "Vì kẻ gian có thể lợi dụng mã vạch hoặc thông tin trên vé để đánh cắp dữ liệu hoặc chiếm đoạt vé.",
+     "Vì làm như vậy sẽ khiến chuyến đi bị chậm giờ so với lịch trình dự kiến.",
+     "Vì hãng hàng không sẽ phạt tiền nếu hành khách khoe vé lên mạng.",
+     "Vì vé tàu xe là tài sản bí mật quốc gia không được phép chụp ảnh."
+    ],
+    "Thông tin trên vé có chứa mã vạch và dữ liệu cá nhân, dễ bị kẻ xấu lợi dụng trục lợi."
+   ],
+   [
+    "Khi gặp phải tình trạng bắt nạt trên không gian mạng (cyberbullying), em nên thực hiện bước đầu tiên nào để tự bảo vệ?",
+    [
+     "Lưu lại bằng chứng (chụp màn hình), chặn tài khoản kẻ bắt nạt và báo cho người lớn.",
+     "Tự mình lập chục tài khoản ảo vào chửi bới lại để trả thù cho bõ tức.",
+     "Xóa ngay ứng dụng mạng xã hội và ôm nỗi ấm ức không nói với ai.",
+     "Làm theo mọi yêu cầu của kẻ bắt nạt để chúng buông tha cho mình."
+    ],
+    "Lưu bằng chứng và báo người lớn giúp xử lý triệt để kẻ bắt nạt mà không chịu tổn thương thêm."
+   ],
+   [
+    "Đâu là biểu hiện của việc sử dụng mạng xã hội có văn hóa khi tham gia vào các diễn đàn trực tuyến?",
+    [
+     "Sử dụng ngôn từ chuẩn mực, lịch sự, không xúc phạm hay miệt thị người khác.",
+     "Dùng các từ viết tắt tục tĩu để tỏ ra mình là người sành điệu, bắt kịp xu hướng.",
+     "Cố tình tạo ra các tin giả gây hoang mang để xem phản ứng của mọi người.",
+     "Chỉ trích bất kỳ ai có quan điểm chính trị hoặc sở thích khác với mình."
+    ],
+    "Ngôn từ chuẩn mực và lịch sự là thước đo văn hóa của người sử dụng mạng xã hội."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện việc ứng phó thông minh khi đọc được một bài viết quảng cáo trúng thưởng lớn trên mạng xã hội?",
+    [
+     "Bỏ qua và không nhấp vào đường liên kết lạ vì biết đây là chiêu trò lừa đảo.",
+     "Điền ngay thông tin họ tên, số điện thoại và địa chỉ nhà để nhận quà.",
+     "Chuyển khoản một khoản tiền nhỏ theo yêu cầu để làm thủ tục nhận thưởng.",
+     "Chia sẻ bài viết đó lên tường nhà của tất cả bạn bè trong danh sách."
+    ],
+    "Cảnh giác trước các chiêu trò trúng thưởng giúp tránh bị lừa đảo chiếm đoạt tài sản hoặc thông tin."
+   ]
+  ]
+ }
+}

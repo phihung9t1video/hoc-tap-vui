@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c14": [
+   [
+    "Kết quả của phép tính 11 204 nhân 3 là gì?",
+    [
+     "33 612",
+     "33 602",
+     "33 512",
+     "32 612"
+    ],
+    "Ta đặt tính nhân từ phải sang trái, 4 nhân 3 bằng 12 viết 2 nhớ 1, 0 nhân 3 bằng 0 thêm 1 là 1, 2 nhân 3 bằng 6, 1 nhân 3 bằng 3, 1 nhân 3 bằng 3, kết quả là 33 612."
+   ],
+   [
+    "Tính giá trị biểu thức 23 102 nhân 4.",
+    [
+     "92 408",
+     "92 402",
+     "92 308",
+     "91 408"
+    ],
+    "Thực hiện nhân lần lượt từng chữ số với 4 từ phải sang trái ta được kết quả là 92 408."
+   ],
+   [
+    "Phép chia 48 360 chia cho 4 có thương là bao nhiêu?",
+    [
+     "12 090",
+     "12 90",
+     "12 009",
+     "12 900"
+    ],
+    "Ta chia lần lượt từ trái sang phải: 4 chia 4 được 1, 8 chia 4 được 2, 3 chia 4 được 0 viết 0, hạ 6 được 36 chia 4 được 9, 0 chia 4 được 0, kết quả là 12 090."
+   ],
+   [
+    "Kết quả của phép tính 35 000 chia cho 5 là:",
+    [
+     "7 000",
+     "700",
+     "70 000",
+     "6 000"
+    ],
+    "Lấy 35 chia cho 5 được 7, giữ nguyên ba chữ số 0 tận cùng ta được 7 000."
+   ],
+   [
+    "13 042 nhân 2 bằng bao nhiêu?",
+    [
+     "26 084",
+     "26 84",
+     "26 840",
+     "25 084"
+    ],
+    "Nhân lần lượt từng hàng: 2 nhân 2 bằng 4, 4 nhân 2 bằng 8, 0 nhân 2 bằng 0, 3 nhân 2 bằng 6, 1 nhân 2 bằng 2, được 26 084."
+   ],
+   [
+    "Thương của 56 420 và 2 là:",
+    [
+     "28 210",
+     "28 110",
+     "28 201",
+     "27 210"
+    ],
+    "Thực hiện phép chia theo thứ tự từ trái sang phải, ta có 56 chia 2 được 28, 4 chia 2 được 2, 2 chia 2 được 1, 0 chia 2 được 0, kết quả là 28 210."
+   ],
+   [
+    "Tính nhẩm nhanh: 14 000 nhân 6 bằng mấy?",
+    [
+     "84 000",
+     "840 000",
+     "8 400",
+     "74 000"
+    ],
+    "Ta tính 14 nhân 6 bằng 84, sau đó viết thêm ba chữ số 0 vào bên phải được 84 000."
+   ],
+   [
+    "Kết quả của phép chia 96 369 chia cho 3 là:",
+    [
+     "32 123",
+     "32 103",
+     "32 132",
+     "31 123"
+    ],
+    "Chia lần lượt từng chữ số cho 3: 9 chia 3 được 3, 6 chia 3 được 2, 3 chia 3 được 1, 6 chia 3 được 2, 9 chia 3 được 3, ta được 32 123."
+   ],
+   [
+    "Mua 4 chiếc thước kẻ, mỗi chiếc giá 11 500 đồng. Tổng số tiền phải trả là:",
+    [
+     "46 000 đồng",
+     "45 000 đồng",
+     "46 500 đồng",
+     "44 000 đồng"
+    ],
+    "Lấy giá tiền một chiếc thước nhân với 4: 11 500 nhân 4 bằng 46 000 đồng."
+   ],
+   [
+    "Một xưởng may dùng hết 21 302 mét vải để may quần áo trong 2 tuần. Hỏi trung bình mỗi tuần xưởng dùng bao nhiêu mét vải?",
+    [
+     "10 651 mét",
+     "10 601 mét",
+     "11 651 mét",
+     "10 551 mét"
+    ],
+    "Lấy tổng số mét vải chia cho số tuần: 21 302 chia 2 bằng 10 651 mét."
+   ],
+   [
+    "Tìm x biết: x chia cho 4 bằng 13 021.",
+    [
+     "52 084",
+     "52 081",
+     "52 840",
+     "51 084"
+    ],
+    "Muốn tìm số bị chia ta lấy thương nhân với số chia: 13 021 nhân 4 bằng 52 084."
+   ],
+   [
+    "Giá trị của biểu thức 15 200 nhân 3 trừ 5 000 là:",
+    [
+     "40 600",
+     "45 600",
+     "41 600",
+     "39 600"
+    ],
+    "Thực hiện phép nhân trước: 15 200 nhân 3 bằng 45 600, sau đó thực hiện phép trừ: 45 600 trừ 5 000 bằng 40 600."
+   ],
+   [
+    "Một chuyến xe chở 3 200 kg hàng hóa. Hỏi 5 chuyến xe như thế chở được tất cả bao nhiêu ki-lô-gam hàng hóa?",
+    [
+     "16 000 kg",
+     "15 000 kg",
+     "160 000 kg",
+     "15 500 kg"
+    ],
+    "Lấy số ki-lô-gam hàng một chuyến nhân với 5: 3 200 nhân 5 bằng 16 000 kg."
+   ],
+   [
+    "Có 72 360 lít nước được đóng đều vào 6 thùng. Mỗi thùng có số lít nước là:",
+    [
+     "12 060 lít",
+     "12 600 lít",
+     "12 006 lít",
+     "11 060 lít"
+    ],
+    "Lấy tổng số lít nước chia cho 6 thùng: 72 360 chia 6 bằng 12 060 lít."
+   ],
+   [
+    "Tính giá trị biểu thức: 24 120 cộng 12 400 nhân 2.",
+    [
+     "48 920",
+     "73 040",
+     "49 920",
+     "48 240"
+    ],
+    "Thực hiện phép nhân trước: 12 400 nhân 2 bằng 24 800, sau đó thực hiện phép cộng: 24 120 cộng 24 800 bằng 48 920."
+   ],
+   [
+    "Tìm x biết: x nhân 5 bằng 45 050.",
+    [
+     "9 010",
+     "9 100",
+     "9 001",
+     "8 010"
+    ],
+    "Muốn tìm thừa số chưa biết ta lấy tích chia cho thừa số đã biết: 45 050 chia 5 bằng 9 010."
+   ],
+   [
+    "Một đội công nhân làm đường, tuần đầu làm được 11 250 mét đường. Tuần thứ hai làm gấp đôi tuần đầu. Hỏi trong tuần thứ hai đội đó làm được bao nhiêu mét đường?",
+    [
+     "22 500 mét",
+     "22 000 mét",
+     "22 550 mét",
+     "21 500 mét"
+    ],
+    "Vì tuần thứ hai làm gấp đôi tuần đầu nên ta lấy số mét đường tuần đầu nhân với 2: 11 250 nhân 2 bằng 22 500 mét."
+   ],
+   [
+    "Bác An mua 3 hộp bánh hết 75 000 đồng. Hỏi nếu bác An mua 5 hộp bánh như thế thì hết bao nhiêu tiền?",
+    [
+     "125 000 đồng",
+     "150 000 đồng",
+     "120 000 đồng",
+     "135 000 đồng"
+    ],
+    "Tính giá tiền một hộp bánh là 75 000 chia 3 bằng 25 000 đồng, sau đó nhân với 5 hộp ta được 125 000 đồng."
+   ],
+   [
+    "Một cửa hàng có 93 600 kg gạo, cửa hàng đã bán đi 1/3 số gạo đó. Hỏi cửa hàng đã bán bao nhiêu ki-lô-gam gạo?",
+    [
+     "31 200 kg",
+     "31 020 kg",
+     "32 100 kg",
+     "30 200 kg"
+    ],
+    "Để tìm số gạo đã bán, ta lấy tổng số gạo chia cho 3: 93 600 chia 3 bằng 31 200 kg."
+   ],
+   [
+    "Kết quả của phép tính 14 102 × 5 là:",
+    [
+     "70 510",
+     "70 500",
+     "50 510",
+     "70 110"
+    ],
+    "Ta thực hiện nhân lần lượt từ phải sang trái: 14 102 × 5 = 70 510."
+   ]
+  ]
+ }
+}

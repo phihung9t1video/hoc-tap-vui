@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c8": [
+   [
+    "Trong các phát biểu sau, phát biểu nào định nghĩa đúng về biến cố ngẫu nhiên trong môn Toán lớp 7?",
+    [
+     "Biến cố ngẫu nhiên là biến cố có thể xảy ra hoặc không thể xảy ra khi thực hiện một phép thử.",
+     "Biến cố ngẫu nhiên là biến cố chắc chắn xảy ra khi thực hiện một phép thử.",
+     "Biến cố ngẫu nhiên là biến cố không bao giờ xảy ra trong mọi trường hợp.",
+     "Biến cố ngẫu nhiên là biến cố chỉ xảy ra đúng một lần duy nhất."
+    ],
+    "Theo chương trình, biến cố ngẫu nhiên là biến cố mà ta không thể biết trước nó có xảy ra hay không khi thực hiện phép thử."
+   ],
+   [
+    "Một hộp có 5 chiếc thẻ cùng loại ghi các số 2, 4, 6, 8, 10. Lấy ngẫu nhiên 1 thẻ, biến cố nào sau đây là biến cố chắc chắn?",
+    [
+     "“Số ghi trên thẻ là một số chẵn”",
+     "“Số ghi trên thẻ là số chia hết cho 4”",
+     "“Số ghi trên thẻ là số lớn hơn 5”",
+     "“Số ghi trên thẻ là một số lẻ”"
+    ],
+    "Tất cả các thẻ trong hộp đều mang số chẵn nên khi rút ngẫu nhiên, ta chắc chắn nhận được số chẵn."
+   ],
+   [
+    "Trong các câu sau, câu nào mô tả một biến cố không thể?",
+    [
+     "“Tháng hai dương lịch có 35 ngày”",
+     "“Gieo một con xúc xắc xuất hiện mặt có số chấm nhỏ hơn 7”",
+     "“Mặt trời mọc ở hướng Đông mỗi buổi sáng”",
+     "“Hôm nay là thứ Hai thì ngày mai là thứ Ba”"
+    ],
+    "Tháng hai dương lịch tối đa chỉ có 29 ngày, do đó biến cố này không bao giờ xảy ra."
+   ],
+   [
+    "Gieo một con xúc xắc cân đối và đồng chất. Xác suất của biến cố “Số chấm xuất hiện là số chia hết cho 7” là:",
+    [
+     "0",
+     "1",
+     "1/2",
+     "1/6"
+    ],
+    "Con xúc xắc chỉ có các mặt từ 1 đến 6 nên không có mặt nào chia hết cho 7, do đó xác suất bằng 0."
+   ],
+   [
+    "Một hộp chứa 5 quả cầu trắng và 5 quả cầu đen có kích thước như nhau. Lấy ngẫu nhiên 1 quả cầu. Xác suất để lấy được quả cầu trắng là:",
+    [
+     "1/2",
+     "1/5",
+     "1/10",
+     "1"
+    ],
+    "Tổng số quả cầu là 10, số quả trắng là 5 nên xác suất là 5/10 rút gọn thành 1/2."
+   ],
+   [
+    "Gieo một đồng xu cân đối và đồng chất 2 lần liên tiếp. Xác suất của biến cố “Cả 2 lần gieo đều xuất hiện mặt sấp” là:",
+    [
+     "1/4",
+     "1/2",
+     "3/4",
+     "1/6"
+    ],
+    "Không gian mẫu gồm 4 kết quả (SS, SN, NS, NN). Biến cố cả hai lần sấp chỉ có 1 kết quả (SS), nên xác suất là 1/4."
+   ],
+   [
+    "Một hộp đựng 4 viên bi màu đỏ, 5 viên bi màu xanh và 3 viên bi màu vàng có kích thước giống nhau. Lấy ngẫu nhiên 1 viên bi, xác suất lấy được viên bi không phải màu đỏ là:",
+    [
+     "2/3",
+     "1/3",
+     "5/12",
+     "1/4"
+    ],
+    "Tổng số bi là 12 viên. Số bi không phải màu đỏ (xanh và vàng) là 8 viên. Xác suất là 8/12 = 2/3."
+   ],
+   [
+    "Lớp 7B có 45 học sinh, trong đó có 18 học sinh nữ. Chọn ngẫu nhiên một học sinh của lớp để tham gia đội văn nghệ, xác suất để chọn được học sinh nam là:",
+    [
+     "3/5",
+     "2/5",
+     "1/2",
+     "2/3"
+    ],
+    "Số học sinh nam là 45 - 18 = 27 em. Xác suất chọn học sinh nam là 27/45 = 3/5."
+   ],
+   [
+    "Một hộp kín chứa các thẻ màu xanh, đỏ, vàng bằng nhau. Biết xác suất rút được thẻ màu đỏ là 1/4, xác suất rút được thẻ màu xanh là 1/2. Xác suất rút được thẻ màu vàng là:",
+    [
+     "1/4",
+     "1/3",
+     "3/4",
+     "1/2"
+    ],
+    "Tổng xác suất các biến cố bằng 1. Xác suất màu vàng là 1 - (1/4 + 1/2) = 1/4."
+   ],
+   [
+    "Một cửa hàng giày dép thống kê trong tháng bán được 200 đôi giày size 39. Tính xác suất thực nghiệm của biến cố “Khách hàng tiếp theo mua giày size 39” nếu trong tháng đó cửa hàng bán tổng cộng 800 đôi giày các loại?",
+    [
+     "1/4",
+     "1/5",
+     "1/8",
+     "3/8"
+    ],
+    "Xác suất thực nghiệm là 200/800 = 1/4."
+   ],
+   [
+    "Gieo đồng thời hai con xúc xắc cân đối. Xác suất để tổng số chấm xuất hiện ở hai con xúc xắc bằng 2 là:",
+    [
+     "1/36",
+     "1/18",
+     "1/12",
+     "1/6"
+    ],
+    "Tổng số chấm bằng 2 chỉ xảy ra khi cả hai con xúc xắc đều xuất hiện mặt 1 chấm (1 trường hợp trong tổng số 36 kết quả)."
+   ],
+   [
+    "Trong một bình có một số viên bi xanh và 6 viên bi đỏ. Biết xác suất lấy ngẫu nhiên được viên bi đỏ là 3/5. Tổng số viên bi trong bình là:",
+    [
+     "10",
+     "15",
+     "12",
+     "20"
+    ],
+    "Gọi tổng số bi là x. Ta có 6/x = 3/5 suy ra x = (6 x 5) / 3 = 10 viên."
+   ],
+   [
+    "Một giải bóng đá có 4 đội A, B, C, D thi đấu vòng tròn một lượt. Giả sử khả năng chiến thắng của các đội là như nhau. Xác suất để đội A giành vị trí quán quân (nhiều điểm nhất) là:",
+    [
+     "1/4",
+     "1/3",
+     "1/2",
+     "1"
+    ],
+    "Vì có 4 đội và khả năng như nhau nên xác suất để đội A thắng giải là 1/4."
+   ],
+   [
+    "Một hộp chứa các thẻ ghi số từ 1 đến 50. Chọn ngẫu nhiên một thẻ. Xác suất để thẻ được chọn ghi số chia hết cho cả 2 và 3 là:",
+    [
+     "4/25",
+     "8/25",
+     "1/6",
+     "3/25"
+    ],
+    "Số chia hết cho cả 2 và 3 là số chia hết cho 6. Từ 1 đến 50 có các số: 6, 12, 18, 24, 30, 36, 42, 48 (8 số). Xác suất là 8/50 = 4/25."
+   ],
+   [
+    "Biết rằng xác suất bắn trúng hồng tâm của một vận động viên bắn cung là 0,8. Tính số lần bắn trúng hồng tâm dự kiến nếu vận động viên đó thực hiện 150 lần bắn.",
+    [
+     "120",
+     "100",
+     "130",
+     "140"
+    ],
+    "Số lần bắn trúng dự kiến là 150 x 0,8 = 120 lần."
+   ],
+   [
+    "Trong các phát biểu sau, phát biểu nào đúng khi nói về biến cố chắc chắn?",
+    [
+     "Là biến cố luôn xảy ra trong mọi trường hợp của thực nghiệm.",
+     "Là biến cố có thể xảy ra hoặc không xảy ra trong thực nghiệm.",
+     "Là biến cố không bao giờ xảy ra trong bất kỳ thực nghiệm nào.",
+     "Là biến cố có xác suất xảy ra bằng 0."
+    ],
+    "Theo định nghĩa, biến cố chắc chắn là biến cố luôn xảy ra khi thực hiện thực nghiệm."
+   ],
+   [
+    "Gieo một con xúc xắc cân đối 6 mặt. Trong các biến cố sau, biến cố nào là biến cố ngẫu nhiên?",
+    [
+     "Mặt xuất hiện có số chấm là số lẻ.",
+     "Mặt xuất hiện có số chấm lớn hơn 0.",
+     "Mặt xuất hiện có số chấm bằng 8.",
+     "Mặt xuất hiện có số chấm nhỏ hơn 7."
+    ],
+    "Số chấm xuất hiện trên mặt con xúc xắc có thể là số lẻ (1, 3, 5) hoặc không (2, 4, 6), nên đây là biến cố ngẫu nhiên."
+   ],
+   [
+    "Một chiếc hộp chứa 6 quả bóng bàn có màu xanh hoặc màu vàng. Biết rằng bạn An lấy ngẫu nhiên 1 quả bóng thì luôn thu được bóng màu xanh. Biến cố “Lấy được quả bóng màu đỏ” là biến cố gì?",
+    [
+     "Biến cố không thể.",
+     "Biến cố chắc chắn.",
+     "Biến cố ngẫu nhiên.",
+     "Biến cố thực nghiệm."
+    ],
+    "Trong hộp chỉ có bóng xanh và vàng nên không thể lấy được bóng màu đỏ."
+   ],
+   [
+    "Một túi đựng 15 viên bi có cùng kích thước, trong đó gồm 5 bi xanh, 4 bi đỏ và 6 bi vàng. Rút ngẫu nhiên một viên bi từ túi. Xác suất lấy được viên bi màu xanh là:",
+    [
+     "1/3",
+     "5/10",
+     "1/5",
+     "2/3"
+    ],
+    "Xác suất lấy được bi xanh là 5/15 = 1/3."
+   ],
+   [
+    "Trong một đợt kiểm tra sức khỏe của 60 học sinh, có 15 học sinh bị cận thị. Chọn ngẫu nhiên một học sinh trong số đó, xác suất để chọn được học sinh không bị cận thị là:",
+    [
+     "3/4",
+     "1/4",
+     "1/3",
+     "2/3"
+    ],
+    "Số học sinh không cận thị là 60 - 15 = 45. Xác suất là 45/60 = 3/4."
+   ],
+   [
+    "Bạn Minh gieo một con xúc xắc 40 lần và thấy mặt 3 chấm xuất hiện 8 lần. Xác suất thực nghiệm của biến cố “Mặt xuất hiện không phải là mặt 3 chấm” là:",
+    [
+     "4/5",
+     "1/5",
+     "3/5",
+     "1/4"
+    ],
+    "Số lần xuất hiện mặt không phải 3 chấm là 40 - 8 = 32. Xác suất thực nghiệm là 32/40 = 4/5."
+   ],
+   [
+    "Có 20 tấm thẻ được đánh số từ 1 đến 20. Rút ngẫu nhiên 1 tấm thẻ. Biến cố nào sau đây là biến cố chắc chắn?",
+    [
+     "Thẻ rút được ghi số nhỏ hơn 25.",
+     "Thẻ rút được ghi số chia hết cho 5.",
+     "Thẻ rút được ghi số chẵn.",
+     "Thẻ rút được ghi số lớn hơn 10."
+    ],
+    "Các thẻ được đánh số từ 1 đến 20 nên luôn nhỏ hơn 25, do đó biến cố này luôn xảy ra."
+   ],
+   [
+    "Một hộp kín chứa 3 chiếc bút mực xanh và 3 chiếc bút mực đen có dáng vẻ giống hệt nhau. Rút ngẫu nhiên cùng lúc 2 chiếc bút. Biến cố nào sau đây là biến cố ngẫu nhiên?",
+    [
+     "Rút được 2 chiếc bút cùng màu xanh.",
+     "Rút được ít nhất 1 chiếc bút.",
+     "Rút được 2 chiếc bút màu đỏ.",
+     "Rút được nhiều nhất 2 chiếc bút."
+    ],
+    "Việc rút được 2 bút màu xanh có thể xảy ra hoặc không xảy ra nên là biến cố ngẫu nhiên."
+   ],
+   [
+    "Chọn ngẫu nhiên một số tự nhiên có một chữ số. Xác suất để chọn được một số chính phương là:",
+    [
+     "3/10",
+     "4/10",
+     "3/9",
+     "4/9"
+    ],
+    "Các số tự nhiên có một chữ số là 0, 1, 2, ..., 9 (gồm 10 số). Các số chính phương là 0, 1, 4, 9 (gồm 4 số). Xác suất là 4/10 = 2/5 (ở đây ghi dạng chưa rút gọn 4/10 là sai, 3/10 sai; các số chính phương là 0, 1, 4, 9 có 4 số nên 4/10 chưa rút gọn là đúng)."
+   ],
+   [
+    "Một hộp chứa các tấm thẻ màu xanh và đỏ. Biết xác suất lấy được thẻ màu xanh là 3/8. Hỏi xác suất lấy được thẻ màu đỏ là bao nhiêu?",
+    [
+     "5/8",
+     "3/5",
+     "2/8",
+     "1/8"
+    ],
+    "Tổng xác suất của hai biến cố lấy được thẻ xanh và thẻ đỏ là 1. Xác suất lấy thẻ đỏ là 1 - 3/8 = 5/8."
+   ],
+   [
+    "Gieo một con xúc xắc 6 mặt cân đối 100 lần, thu được kết quả mặt 1 chấm xuất hiện 18 lần, mặt 2 chấm xuất hiện 14 lần. Xác suất thực nghiệm của biến cố “Mặt xuất hiện có số chấm nhỏ hơn 3” là:",
+    [
+     "8/25",
+     "9/50",
+     "7/50",
+     "4/25"
+    ],
+    "Số lần xuất hiện mặt 1 hoặc 2 chấm là 18 + 14 = 32. Xác suất thực nghiệm là 32/100 = 8/25."
+   ],
+   [
+    "Một người quay một đĩa tròn được chia thành 12 phần bằng nhau ghi các số từ 1 đến 12. Xác suất để mũi tên chỉ vào ô ghi số chia hết cho 4 là:",
+    [
+     "1/4",
+     "1/3",
+     "1/6",
+     "5/12"
+    ],
+    "Các số chia hết cho 4 từ 1 đến 12 là 4, 8, 12 (gồm 3 số). Xác suất là 3/12 = 1/4."
+   ],
+   [
+    "Trong một trò chơi dân gian, người ta gieo một đồng xu cân đối. Xác suất của biến cố “Mặt xuất hiện là mặt sấp hoặc mặt ngửa” là:",
+    [
+     "1",
+     "1/2",
+     "0",
+     "1/4"
+    ],
+    "Đây là biến cố chắc chắn vì gieo đồng xu thì luôn xuất hiện mặt sấp hoặc mặt ngửa, do đó xác suất bằng 1."
+   ],
+   [
+    "Số học sinh tham gia câu lạc bộ Toán học của một trường là 50 em, trong đó có 30 em học sinh khối 7. Chọn ngẫu nhiên 1 học sinh trong câu lạc bộ, xác suất chọn được học sinh không thuộc khối 7 là:",
+    [
+     "2/5",
+     "3/5",
+     "1/5",
+     "4/5"
+    ],
+    "Số học sinh không thuộc khối 7 là 50 - 30 = 20. Xác suất chọn được là 20/50 = 2/5."
+   ],
+   [
+    "Một nhà máy thực hiện kiểm tra chất lượng 200 thiết bị điện tử và ghi nhận có 8 thiết bị gặp sự cố. Nếu kiểm tra ngẫu nhiên 1 thiết bị tiếp theo, xác suất thực nghiệm để thiết bị đó hoạt động tốt là:",
+    [
+     "0,96",
+     "0,04",
+     "0,92",
+     "0,80"
+    ],
+    "Số thiết bị hoạt động tốt là 200 - 8 = 192. Xác suất thực nghiệm là 192/200 = 0,96."
+   ],
+   [
+    "Gieo đồng thời hai đồng xu cân đối và đồng chất. Xác suất để có ít nhất một đồng xu xuất hiện mặt sấp là:",
+    [
+     "3/4",
+     "1/2",
+     "1/4",
+     "1"
+    ],
+    "Các kết quả có thể là (S,S), (S,N), (N,S), (N,N). Có 3 kết quả có ít nhất một mặt sấp. Xác suất là 3/4."
+   ],
+   [
+    "Một nhóm bạn gồm 4 nam và 4 nữ cùng tham gia trò chơi. Chọn ngẫu nhiên 2 bạn để làm đội trưởng và đội phó. Biến cố “Hai bạn được chọn đều là nam” là biến cố:",
+    [
+     "Ngẫu nhiên.",
+     "Chắc chắn.",
+     "Không thể.",
+     "Không xác định."
+    ],
+    "Vì nhóm có 4 bạn nam nên việc chọn được 2 bạn nam hoàn toàn có thể xảy ra hoặc không xảy ra, đây là biến cố ngẫu nhiên."
+   ],
+   [
+    "Trong các phát biểu sau, phát biểu nào mô tả một biến cố chắc chắn trong môn Toán lớp 7?",
+    [
+     "Khi thả một quả táo bọc vỏ xuống đất, quả táo sẽ rơi xuống đất.",
+     "Ngày mai trời sẽ đổ mưa.",
+     "Gieo một con xúc xắc được mặt 6 chấm.",
+     "Ngày mai mặt trời sẽ mọc ở hướng tây."
+    ],
+    "Biến cố chắc chắn là biến cố luôn luôn xảy ra khi thực hiện thí nghiệm hoặc quan sát."
+   ],
+   [
+    "Trong các phát biểu sau, phát biểu nào mô tả một biến cố không thể?",
+    [
+     "Tháng Hai dương lịch có 31 ngày.",
+     "Năm nay em được học sinh giỏi.",
+     "Gieo một con xúc xắc được mặt số chấm nhỏ hơn 7.",
+     "Hôm nay trời có mây."
+    ],
+    "Tháng Hai dương lịch chỉ có tối đa 29 ngày, nên việc tháng Hai có 31 ngày là không thể xảy ra."
+   ],
+   [
+    "Một hộp chứa 4 thẻ ghi các số 1, 3, 5, 7. Rút ngẫu nhiên một thẻ, xác suất để thẻ rút được ghi số 5 là:",
+    [
+     "1/4",
+     "1/3",
+     "1/2",
+     "3/4"
+    ],
+    "Hộp có 4 thẻ và chỉ có 1 thẻ ghi số 5, nên xác suất là 1 chia cho 4."
+   ],
+   [
+    "Gieo một con xúc xắc 6 mặt cân đối. Xác suất của biến cố “Số chấm xuất hiện là số nguyên tố” là:",
+    [
+     "1/2",
+     "1/3",
+     "2/3",
+     "1/6"
+    ],
+    "Các số nguyên tố từ 1 đến 6 là 2, 3, 5 (có 3 số). Xác suất là 3/6 rút gọn thành 1/2."
+   ],
+   [
+    "Một hộp có 5 chiếc thẻ cùng loại ghi các số 10, 12, 14, 16, 18. Lấy ngẫu nhiên 1 thẻ, xác suất để thẻ lấy được ghi số chia hết cho 4 là:",
+    [
+     "3/5",
+     "2/5",
+     "4/5",
+     "1/5"
+    ],
+    "Trong các số trên, các số chia hết cho 4 là 12, 16 (có 2 số). Vậy xác suất là 2/5."
+   ],
+   [
+    "Bạn An tung một đồng xu 50 lần và ghi nhận có 28 lần xuất hiện mặt ngửa. Xác suất thực nghiệm của biến cố “Xuất hiện mặt sấp” là:",
+    [
+     "11/25",
+     "14/25",
+     "28/50",
+     "1/2"
+    ],
+    "Số lần xuất hiện mặt sấp là 50 trừ đi 28 bằng 22 lần. Xác suất thực nghiệm là 22/50 rút gọn thành 11/25."
+   ],
+   [
+    "Một đội bóng đá thi đấu 30 trận, trong đó có 12 trận thắng, 10 trận hòa và số trận còn lại là thua. Tính xác suất thực nghiệm của biến cố “Đội bóng không thua” trong các trận đấu đó.",
+    [
+     "22/30",
+     "12/30",
+     "10/30",
+     "8/30"
+    ],
+    "Số trận không thua gồm trận thắng và trận hòa là 12 cộng 10 bằng 22 trận. Xác suất thực nghiệm là 22/30."
+   ],
+   [
+    "Trong một hộp có các viên bi màu hồng và màu tím. Biết số bi tím gấp đôi số bi hồng. Lấy ngẫu nhiên 1 viên bi từ hộp, xác suất để lấy được viên bi màu hồng là:",
+    [
+     "1/3",
+     "1/2",
+     "2/3",
+     "1/4"
+    ],
+    "Giả sử số bi hồng là 1 phần thì số bi tím là 2 phần, tổng số bi là 3 phần. Xác suất lấy được bi hồng là 1/3."
+   ]
+  ]
+ }
+}

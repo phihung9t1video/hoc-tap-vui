@@ -1,0 +1,406 @@
+{
+ "7-khtn": {
+  "c6": [
+   [
+    "Phát biểu nào sau đây đúng khi nói về cực từ của thanh nam châm thẳng?",
+    [
+     "Mỗi thanh nam châm luôn có hai cực từ là cực Bắc và cực Nam.",
+     "Cực Nam của nam châm luôn hướng về phía Bắc địa lí.",
+     "Có thể chế tạo được một thanh nam châm chỉ có một cực duy nhất.",
+     "Các cực từ giống nhau thì hút nhau khi đặt gần nhau."
+    ],
+    "Nam châm nào cũng có hai cực là cực Bắc (N) và cực Nam (S), không thể tách rời chúng thành đơn cực."
+   ],
+   [
+    "Khi bẻ đôi một thanh nam châm thẳng thành hai đoạn ngắn, ta thu được kết quả gì?",
+    [
+     "Hai đoạn mới đều là các nam châm nhỏ có đủ hai cực Bắc và Nam.",
+     "Một đoạn chỉ có cực Bắc và một đoạn chỉ có cực Nam.",
+     "Cả hai đoạn đều mất hoàn toàn từ tính ban đầu.",
+     "Hai đoạn mới chỉ có từ tính ở chính giữa, hai đầu không có cực."
+    ],
+    "Khi bẻ đôi nam châm, mỗi mảnh vỡ lại trở thành một nam châm hoàn chỉnh có đủ hai cực Bắc và Nam."
+   ],
+   [
+    "Vật liệu nào sau đây thường được dùng để chế tạo nam châm vĩnh cửu có lực từ mạnh?",
+    [
+     "Hợp kim chứa sắt, niken hoặc cô-ban.",
+     "Nhôm nguyên chất và đồng thau.",
+     "Thủy tinh hữu cơ và nhựa dẻo.",
+     "Gỗ khô và cao su tự nhiên."
+    ],
+    "Nam châm vĩnh cửu mạnh thường được làm từ các hợp kim đặc biệt chứa sắt, niken, cô-ban hoặc các nguyên tố đất hiếm."
+   ],
+   [
+    "Hiện tượng nào sau đây cho thấy không gian xung quanh dòng điện có từ trường?",
+    [
+     "Kim la bàn đặt gần dây dẫn mang dòng điện bị lệch khỏi hướng Bắc - Nam.",
+     "Đoạn dây dẫn mang dòng điện bị nóng lên khi có dòng điện chạy qua.",
+     "Bóng đèn mắc trong mạch điện phát ra ánh sáng và tỏa nhiệt.",
+     "Dây dẫn điện bị đứt khi có dòng điện quá lớn chạy qua."
+    ],
+    "Từ trường của dòng điện làm lệch hướng kim nam châm (la bàn) đặt gần nó."
+   ],
+   [
+    "Đặc điểm nào của đường sức từ giúp ta nhận biết nơi nào từ trường mạnh, nơi nào từ trường yếu?",
+    [
+     "Nơi nào các đường sức từ vẽ dày thì từ trường mạnh, vẽ thưa thì từ trường yếu.",
+     "Nơi nào các đường sức từ dài hơn thì từ trường mạnh hơn.",
+     "Nơi nào các đường sức từ uốn cong nhiều thì từ trường yếu hơn.",
+     "Nơi nào các đường sức từ có màu sậm hơn thì từ trường mạnh hơn."
+    ],
+    "Mật độ đường sức từ biểu thị độ mạnh yếu của từ trường; chỗ dày đặc từ trường mạnh."
+   ],
+   [
+    "Quy ước chiều của đường sức từ ở bên ngoài thanh nam châm là đi ra từ cực nào và đi vào ở cực nào?",
+    [
+     "Đi ra từ cực Bắc và đi vào ở cực Nam.",
+     "Đi ra từ cực Nam và đi vào ở cực Bắc.",
+     "Đi ra từ chính giữa và đi vào ở hai đầu.",
+     "Đi vòng quanh theo chiều kim đồng hồ từ trái sang phải."
+    ],
+    "Quy ước chiều đường sức từ là hướng từ cực Bắc (N) ra và đi vào cực Nam (S) ở bên ngoài nam châm."
+   ],
+   [
+    "Cấu tạo cơ bản của một nam châm điện gồm những bộ phận chính nào?",
+    [
+     "Một ống dây dẫn quấn quanh lõi sắt mềm và được nối với nguồn điện.",
+     "Một thanh nam châm vĩnh cửu được bọc kín bởi lớp nhựa cách điện.",
+     "Một thanh kim loại bằng nhôm nối trực tiếp với hai cực của bóng đèn.",
+     "Một nguồn điện một chiều nối với một tấm kim loại phẳng bằng đồng."
+    ],
+    "Nam châm điện cấu tạo gồm cuộn dây dẫn và lõi sắt mềm bên trong để tăng cường từ tính khi có dòng điện chạy qua."
+   ],
+   [
+    "Khi đặt một kim nam châm thử tự do tại một điểm bất kì trong từ trường, kim nam châm sẽ dừng lại ở vị trí có đặc điểm gì?",
+    [
+     "Trục của kim nam châm trùng với hướng của đường sức từ đi qua điểm đó.",
+     "Trục của kim nam châm luôn vuông góc với hướng của đường sức từ.",
+     "Kim nam châm quay tròn liên tục không ngừng nghỉ.",
+     "Kim nam châm luôn hướng dọc theo chiều Đông - Tây."
+    ],
+    "Kim nam châm thử luôn định hướng sao cho trục của nó nằm dọc theo tiếp tuyến của đường sức từ tại điểm đó."
+   ],
+   [
+    "Phát biểu nào sau đây là đúng khi nói về lực tương tác giữa hai nam châm?",
+    [
+     "Các từ cực cùng tên thì đẩy nhau, các từ cực khác tên thì hút nhau.",
+     "Các từ cực cùng tên thì hút nhau, các từ cực khác tên thì đẩy nhau.",
+     "Các cực Bắc luôn đẩy nhau, còn các cực Nam luôn hút nhau.",
+     "Hai nam châm luôn hút nhau bất kể đặt ở chiều nào."
+    ],
+    "Đây là quy luật tương tác từ cơ bản: cùng tên đẩy, khác tên hút."
+   ],
+   [
+    "Phát biểu nào sau đây chính xác khi nói về từ trường của Trái Đất?",
+    [
+     "Trái Đất có từ trường và xung quanh nó có các đường sức từ bao phủ.",
+     "Trái Đất hoàn toàn không có từ trường vì nó chỉ là một hành tinh đá.",
+     "Từ trường Trái Đất chỉ tồn tại ở khu vực xích đạo và bằng không ở hai cực.",
+     "Từ trường Trái Đất do mặt trời sinh ra và không liên quan gì đến lõi Trái Đất."
+    ],
+    "Trái Đất cư xử như một nam châm khổng lồ, bao quanh bởi từ trường và các đường sức từ."
+   ],
+   [
+    "Một học sinh muốn làm cho nam châm điện của mình hút được nhiều đinh sắt hơn mà không thay đổi nguồn điện. Bạn ấy nên thực hiện thao tác nào sau đây?",
+    [
+     "Tăng thêm số vòng dây quấn quanh lõi sắt mềm.",
+     "Giảm bớt số vòng dây quấn quanh lõi sắt.",
+     "Rút lõi sắt mềm ra khỏi ống dây dẫn.",
+     "Thay lõi sắt mềm bằng một thanh nhựa cứng."
+    ],
+    "Lực từ của nam châm điện mạnh lên khi tăng cường độ dòng điện hoặc tăng số vòng dây của cuộn dây."
+   ],
+   [
+    "Tại sao kim la bàn luôn chỉ hướng Bắc - Nam khi đặt ở nơi không có vật cản từ?",
+    [
+     "Do kim la bàn tương tác với từ trường của Trái Đất.",
+     "Do kim la bàn bị hút bởi các ngôi sao trên bầu trời.",
+     "Do ảnh hưởng của ánh sáng mặt trời chiếu vào buổi sáng.",
+     "Do dòng điện ngầm dưới mặt đất tác dụng lên kim la bàn."
+    ],
+    "Kim la bàn là một nam châm nhẹ, chịu tác dụng của từ trường Trái Đất nên định hướng theo phương Bắc - Nam."
+   ],
+   [
+    "Khi đưa một đoạn dây dẫn thẳng có dòng điện chạy qua lại gần một kim nam châm, hiện tượng gì xảy ra với kim nam châm?",
+    [
+     "Kim nam châm bị lệch khỏi vị trí cân bằng ban đầu.",
+     "Kim nam châm quay tròn liên tục với tốc độ lớn.",
+     "Kim nam châm bị nóng lên và phát ra tia lửa điện.",
+     "Kim nam châm tự động dịch chuyển dời đi chỗ khác."
+    ],
+    "Dòng điện sinh ra từ trường xung quanh nó, từ trường này tác dụng lực làm lệch kim nam châm."
+   ],
+   [
+    "Hiện tượng từ hóa thể hiện rõ nhất qua thí nghiệm nào sau đây?",
+    [
+     "Đưa một đinh sắt lại gần nam châm thì đinh sắt có thể hút được các ghim kẹp giấy khác.",
+     "Cắm một đoạn dây dẫn vào nguồn điện thì dây dẫn bị nóng đỏ lên.",
+     "Cọ xát thước nhựa vào vải khô rồi đưa lại gần các mẩu giấy vụn.",
+     "Nhúng thanh kim loại vào cốc nước ấm thì nhiệt độ thanh kim loại tăng lên."
+    ],
+    "Vật liệu từ như sắt khi đặt trong từ trường sẽ bị nhiễm từ (từ hóa) và trở thành nam châm tạm thời."
+   ],
+   [
+    "Trong các thiết bị sau đây, thiết bị nào hoạt động dựa trên tác dụng của nam châm điện?",
+    [
+     "Chuông cửa điện.",
+     "Bóng đèn dây tóc.",
+     "Bếp hồng ngoại.",
+     "Nồi cơm điện."
+    ],
+    "Chuông cửa điện sử dụng nam châm điện để hút cần đánh chuông tạo ra âm thanh."
+   ],
+   [
+    "Một bạn học sinh dùng la bàn để xác định hướng đi trong khu vườn. Bỗng nhiên bạn ấy đặt la bàn sát cạnh một khung cửa sắt lớn thì thấy kim la bàn quay hỗn loạn, không chỉ đúng hướng Bắc - Nam nữa. Nguyên nhân chính là gì?",
+    [
+     "Vật bằng sắt lớn làm sai lệch từ trường cục bộ tác dụng lên kim la bàn.",
+     "Pin của la bàn đã bị cạn kiệt năng lượng hoàn toàn.",
+     "Ánh sáng mặt trời chiếu quá mạnh làm hỏng cấu trúc kim nam châm.",
+     "Không khí trong vườn bị nhiễm điện âm do ma sát với lá cây."
+    ],
+    "Các vật bằng sắt thép đặt gần la bàn sẽ làm biến dạng từ trường ở đó, khiến la bàn chỉ sai hướng."
+   ],
+   [
+    "Bạn Minh có một thanh nam châm thẳng bị mất dấu ký hiệu hai cực N và S. Để xác định lại tên các cực của thanh nam châm này một cách nhanh chóng, Minh nên làm gì?",
+    [
+     "Dùng một chiếc la bàn chuẩn hoặc treo thanh nam châm bằng một sợi chỉ mảnh ở trung điểm.",
+     "Nhúng thanh nam châm vào chậu nước xem cực nào nổi lên trước.",
+     "Dùng tay sờ vào hai đầu nam châm xem đầu nào ấm hơn.",
+     "Hơ thanh nam châm trên ngọn lửa đèn cồn cho đến khi nóng đỏ."
+    ],
+    "Treo nam châm bằng chỉ hoặc dùng la bàn sẽ giúp nó xoay tự do và chỉ đúng hướng theo từ trường Trái Đất."
+   ],
+   [
+    "Trong quá trình chế tạo cần cẩu dùng điện để dọn dẹp sắt vụn, người kỹ sư cần điều chỉnh thiết bị như thế nào để cần cẩu có thể nhấc được khối lượng sắt vụn lớn hơn trong một lần?",
+    [
+     "Tăng cường độ dòng điện chạy qua cuộn dây của nam châm điện.",
+     "Giảm cường độ dòng điện chạy qua cuộn dây của nam châm điện.",
+     "Thay lõi nam châm điện bằng một thanh gỗ có kích thước lớn hơn.",
+     "Giảm số vòng dây quấn quanh lõi sắt của nam châm điện."
+    ],
+    "Lực từ của nam châm điện tỷ lệ thuận với cường độ dòng điện và số vòng dây; tăng dòng điện giúp nam châm khỏe hơn."
+   ],
+   [
+    "Vì sao các dụng cụ như tua-vít vặn ốc hạn chế sử dụng chất liệu bị nhiễm từ mạnh đối với một số công việc sửa chữa thiết bị điện tử nhạy cảm?",
+    [
+     "Vì vật liệu nhiễm từ có thể hút các linh kiện nhỏ hoặc gây nhiễu mạch điện tử.",
+     "Vì tua-vít làm từ vật liệu nhiễm từ rất dễ bị tan chảy khi gặp nhiệt độ cao.",
+     "Vì chúng có trọng lượng quá nặng khiến người thợ khó cầm nắm.",
+     "Vì chúng làm tiêu hao lượng điện năng lớn từ các thiết bị."
+    ],
+    "Vật liệu từ dễ hút các chi tiết sắt thép nhỏ hoặc tạo từ trường ảnh hưởng tới linh kiện vi mạch nhạy cảm."
+   ],
+   [
+    "Một học sinh quấn 30 vòng dây quanh một chiếc đinh sắt và nối vào một viên pin để làm nam châm điện. Bạn ấy muốn giữ nguyên lực từ nhưng muốn tiết kiệm dây dẫn và dòng điện, theo em bạn ấy có thể thay đổi cấu trúc nào của lõi?",
+    [
+     "Thay đinh sắt thường bằng một lõi sắt mềm có chất lượng tốt hơn để tăng hiệu quả từ hóa.",
+     "Thay đinh sắt bằng một khúc gỗ khô có cùng kích thước.",
+     "Cắt ngắn bớt chiều dài dây dẫn nhưng vẫn giữ nguyên số vòng dây.",
+     "Sử dụng thêm nhiều bóng đèn mắc nối tiếp vào mạch điện."
+    ],
+    "Sắt mềm có độ từ thẩm cao, giúp tập trung đường sức từ tốt hơn, tăng lực từ mà không cần tăng thêm dòng hay số vòng."
+   ],
+   [
+    "Không gian xung quanh nam châm có tính chất nào sau đây?",
+    [
+     "Tác dụng lực từ lên vật có tính chất từ đặt trong nó.",
+     "Tác dụng lực điện lên mọi vật đặt gần nó.",
+     "Phát ra ánh sáng có thể nhìn thấy bằng mắt thường.",
+     "Làm nóng các vật bằng kim loại ở xung quanh."
+    ],
+    "Xung quanh nam châm luôn tồn tại từ trường, tính chất cơ bản của từ trường là tác dụng lực từ lên vật có tính chất từ đặt trong đó."
+   ],
+   [
+    "Để nhận biết sự tồn tại của từ trường ở một điểm trong không gian, người ta thường dùng dụng cụ nào?",
+    [
+     "Một kim nam châm thử đặt tự do.",
+     "Một chiếc nhiệt kế thủy ngân.",
+     "Một đoạn dây đồng dài không có dòng điện.",
+     "Một chiếc thước nhựa đã nhiễm điện."
+    ],
+    "Kim nam châm thử đặt tự do sẽ chịu tác dụng của lực từ và quay theo hướng của từ trường, giúp ta nhận biết từ trường."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về đường sức từ xung quanh thanh nam châm thẳng?",
+    [
+     "Các đường sức từ là những đường cong khép kín đi ra từ cực Bắc và đi vào ở cực Nam.",
+     "Các đường sức từ là những đường thẳng song song cách đều nhau.",
+     "Các đường sức từ bắt đầu từ cực Nam và kết thúc ở cực Bắc.",
+     "Các đường sức từ chỉ xuất hiện ở hai đầu của thanh nam châm."
+    ],
+    "Theo quy ước, ở bên ngoài thanh nam châm, các đường sức từ có chiều đi ra từ cực Bắc và đi vào ở cực Nam."
+   ],
+   [
+    "Nơi nào trên thanh nam châm thẳng có các đường sức từ dày đặc nhất và từ trường mạnh nhất?",
+    [
+     "Ở hai khu vực từ cực của thanh nam châm.",
+     "Ở chính giữa trung điểm của thanh nam châm.",
+     "Ở khoảng không gian cách xa nam châm nhất.",
+     "Ở bất kỳ điểm nào xung quanh nam châm vì từ trường đồng đều."
+    ],
+    "Nơi các đường sức từ dày đặc nhất chính là các cực của nam châm, đây cũng là nơi từ trường có độ mạnh lớn nhất."
+   ],
+   [
+    "Đại lượng nào đặc trưng cho hướng và độ mạnh yếu của từ trường tại mỗi điểm?",
+    [
+     "Đường sức từ.",
+     "Nhiệt độ từ.",
+     "Khối lượng riêng.",
+     "Điện áp."
+    ],
+    "Đường sức từ được vẽ sao cho hướng của nó tại mỗi điểm cho biết hướng của từ trường, mật độ đường sức cho biết độ mạnh yếu."
+   ],
+   [
+    "Hiện tượng một vật bằng sắt bị nhiễm từ khi đặt gần nam châm vĩnh cửu được gọi là gì?",
+    [
+     "Hiện tượng từ hóa.",
+     "Hiện tượng cảm ứng điện từ.",
+     "Hiện tượng phóng điện.",
+     "Hiện tượng dính bám cơ học."
+    ],
+    "Khi đưa vật bằng sắt lại gần nam châm, vật đó bị nhiễm từ và trở thành một nam châm tạm thời, gọi là hiện tượng từ hóa."
+   ],
+   [
+    "Tại sao lõi của nam châm điện thường làm bằng sắt mềm chứ không làm bằng thép?",
+    [
+     "Vì sắt mềm dễ nhiễm từ mạnh nhưng cũng dễ mất hết từ tính khi ngắt dòng điện.",
+     "Vì thép giữ được từ tính vĩnh viễn không bao giờ mất.",
+     "Vì sắt mềm có giá thành đắt hơn và bền hơn thép rất nhiều.",
+     "Vì thép không thể dẫn điện được như sắt mềm."
+    ],
+    "Sắt mềm giúp nam châm điện có từ tính mạnh khi có dòng điện và nhanh chóng mất từ tính khi ngắt dòng điện, rất tiện lợi khi sử dụng."
+   ],
+   [
+    "Để làm tăng độ lớn của lực từ do nam châm điện tác dụng lên một vật, ta có thể thực hiện cách nào sau đây?",
+    [
+     "Tăng số vòng dây quấn quanh lõi sắt.",
+     "Giảm bớt số vòng dây quấn quanh lõi sắt.",
+     "Rút lõi sắt mềm ra khỏi ống dây dẫn.",
+     "Giảm cường độ dòng điện chạy qua ống dây."
+    ],
+    "Lực từ của nam châm điện mạnh lên khi tăng cường độ dòng điện chạy qua ống dây hoặc tăng số vòng dây của ống dây."
+   ],
+   [
+    "Nam châm Trái Đất có từ cực Bắc (S) nằm ở vị trí nào trên thực tế địa lý?",
+    [
+     "Nằm ở gần cực Nam địa lý của Trái Đất.",
+     "Nằm chính xác tại cực Bắc địa lý của Trái Đất.",
+     "Nằm ở đường xích đạo của Trái Đất.",
+     "Nằm ở tâm của lõi Trái Đất."
+    ],
+    "Từ cực Bắc của từ trường Trái Đất thực chất nằm ở khu vực gần cực Nam địa lý của Trái Đất."
+   ],
+   [
+    "La bàn hoạt động dựa trên ứng dụng của hiện tượng nào trong tự nhiên?",
+    [
+     "Tác dụng từ của từ trường Trái Đất lên kim nam châm.",
+     "Tác dụng lực đẩy tĩnh điện giữa các vật nhiễm điện.",
+     "Lực hấp dẫn giữa Trái Đất và các vật thể nhỏ.",
+     "Sự dãn nở vì nhiệt của kim loại theo thời tiết."
+    ],
+    "Kim la bàn là một nam châm nhẹ, chịu tác dụng của từ trường Trái Đất nên luôn định hướng theo phương Bắc - Nam."
+   ],
+   [
+    "Một học sinh muốn tạo ra một chiếc nam châm điện đơn giản để thí nghiệm ở nhà. Bạn ấy cần chuẩn bị những dụng cụ tối thiểu nào?",
+    [
+     "Dây dẫn có vỏ cách ly, một chiếc đinh sắt lớn và một nguồn điện như pin.",
+     "Một thanh gỗ dài, bóng đèn và một đoạn dây chun cao su.",
+     "Một thỏi nam châm vĩnh cửu và một cuộn chỉ màu trắng.",
+     "Một thanh thủy tinh và một mảnh lụa khô."
+    ],
+    "Nam châm điện cơ bản gồm một ống dây dẫn quấn quanh lõi sắt mềm và được nối với nguồn điện."
+   ],
+   [
+    "Khi cho dòng điện một chiều chạy qua một ống dây dẫn thẳng, không gian bên trong ống dây xuất hiện điều gì?",
+    [
+     "Xuất hiện một từ trường đều.",
+     "Xuất hiện một điện tích đứng yên.",
+     "Xuất hiện hiện tượng tản nhiệt lớn.",
+     "Xuất hiện dòng không khí chuyển động."
+    ],
+    "Dòng điện chạy qua ống dây sinh ra từ trường bên trong và xung quanh ống dây đó."
+   ],
+   [
+    "Nếu đảo ngược hai cực của nguồn điện mắc vào nam châm điện, hiện tượng gì sẽ xảy ra với các cực từ của nó?",
+    [
+     "Các cực từ của nam châm điện sẽ bị đổi chỗ cho nhau.",
+     "Nam châm điện sẽ hoàn toàn mất hết từ tính.",
+     "Cường độ dòng điện qua ống dây sẽ tự động giảm về 0.",
+     "Chiều các đường sức từ bên ngoài không thay đổi."
+    ],
+    "Khi đổi chiều dòng điện chạy qua ống dây, chiều của từ trường và các cực từ của nam châm điện cũng bị đảo ngược."
+   ],
+   [
+    "Đặc điểm nào giúp phân biệt giữa nam châm vĩnh cửu và nam châm điện?",
+    [
+     "Nam châm điện có thể bật tắt từ tính bằng cách đóng ngắt dòng điện, nam châm vĩnh cửu thì không.",
+     "Nam châm vĩnh cửu luôn có từ tính yếu hơn nam châm điện rất nhiều.",
+     "Nam châm điện làm bằng thép còn nam châm vĩnh cửu làm bằng sắt mềm.",
+     "Nam châm vĩnh cửu chỉ hút được nhôm và đồng."
+    ],
+    "Điểm ưu việt của nam châm điện là dễ dàng điều khiển từ tính thông qua nguồn điện, trong khi nam châm vĩnh cửu giữ từ tính liên tục."
+   ],
+   [
+    "Vì sao các nhà du hành vũ trụ khi bay vào không gian xa Trái Đất thấy la bàn không còn hoạt động chỉ hướng chính xác nữa?",
+    [
+     "Vì ở đó từ trường Trái Đất quá yếu hoặc không đáng kể.",
+     "Vì trong vũ trụ không có không khí để truyền sóng từ.",
+     "Vì lực hấp dẫn của các vì sao làm méo mó kim nam châm.",
+     "Vì nhiệt độ quá cao làm tan chảy vỏ la bàn."
+    ],
+    "La bàn hoạt động nhờ từ trường Trái Đất, khi ra xa Trái Đất, từ trường này suy giảm mạnh nên la bàn mất tác dụng."
+   ],
+   [
+    "Một học sinh dùng một thanh nam châm quẹt nhiều lần theo một chiều lên một chiếc kim khâu bằng thép. Chiếc kim khâu sẽ có hiện tượng gì?",
+    [
+     "Chiếc kim khâu bị nhiễm từ và trở thành một nam châm tạm thời.",
+     "Chiếc kim khâu bị nóng chảy do ma sát liên tục.",
+     "Chiếc kim khâu bị nhiễm điện âm mạnh.",
+     "Chiếc kim khâu bị biến đổi chất hóa học thành nhôm."
+    ],
+    "Quẹt nam châm lên thép theo một chiều là cách làm nhiễm từ (từ hóa) vật liệu từ cứng như thép."
+   ],
+   [
+    "Trong thiết bị chuông cửa điện thông thường, bộ phận chính nào đóng vai trò quan trọng nhất để tạo ra tiếng kêu?",
+    [
+     "Nam châm điện kết hợp với miếng gõ bằng kim loại đàn hồi.",
+     "Một thỏi nam châm vĩnh cửu hình móng ngựa lớn.",
+     "Một bóng đèn sợi đốt công suất nhỏ.",
+     "Một viên pin mặt trời thu năng lượng."
+    ],
+    "Chuông cửa điện hoạt động nhờ lực từ của nam châm điện hút cần gõ đập vào mặt chuông."
+   ],
+   [
+    "Khi chế tạo các loại loa phát thanh mini, người ta thường kết hợp giữa nam châm vĩnh cửu và linh kiện nào để màng loa dao động phát ra âm thanh?",
+    [
+     "Một ống dây có dòng điện âm tần chạy qua.",
+     "Một thanh thủy tinh cọ xát với vải khô.",
+     "Một bóng bán dẫn khuếch đại ánh sáng.",
+     "Một thỏi than chì dẫn điện tốt."
+    ],
+    "Loa hoạt động dựa trên lực từ tác dụng lên cuộn dây có dòng điện thay đổi đặt trong từ trường của nam châm vĩnh cửu, làm màng loa rung lên."
+   ],
+   [
+    "Bạn Nam có một thanh nam châm bị gãy đôi thành hai đoạn ngắn. Hỏi mỗi đoạn ngắn thu được sẽ có đặc điểm từ tính như thế nào?",
+    [
+     "Mỗi đoạn đều là một nam châm mới có đủ hai cực Bắc và Nam.",
+     "Một đoạn chỉ có cực Bắc, đoạn còn lại chỉ có cực Nam độc lập.",
+     "Cả hai đoạn đều mất hoàn toàn từ tính ban đầu.",
+     "Cả hai đoạn đều trở thành các vật bằng sắt không nhiễm từ."
+    ],
+    "Dù bẻ đôi nam châm đến mức nào thì mỗi mảnh nhỏ thu được vẫn luôn tồn tại đầy đủ hai cực từ khác nhau ở hai đầu."
+   ],
+   [
+    "Một cần cẩu điện dùng nam châm điện đang giữ một khối sắt thép nặng. Muốn thả khối sắt thép đó xuống đúng vị trí mong muốn, người công nhân cần làm gì?",
+    [
+     "Ngắt mạch điện cung cấp cho nam châm điện.",
+     "Tăng gấp đôi cường độ dòng điện trong ống dây.",
+     "Đảo chiều dòng điện chạy qua nam châm điện.",
+     "Dùng thêm một nam châm vĩnh cửu áp sát vào."
+    ],
+    "Khi ngắt điện, nam châm điện mất từ tính ngay lập tức và thả rơi vật nặng đang hút."
+   ]
+  ]
+ }
+}

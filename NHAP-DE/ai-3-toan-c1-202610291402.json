@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c1": [
+   [
+    "Số liền sau của số 789 là số nào?",
+    [
+     "790",
+     "788",
+     "799",
+     "800"
+    ],
+    "Muốn tìm số liền sau của số 789, ta lấy 789 cộng thêm 1: 789 + 1 = 790."
+   ],
+   [
+    "Số tròn chục bé nhất có ba chữ số là số nào?",
+    [
+     "100",
+     "110",
+     "101",
+     "990"
+    ],
+    "Số tròn chục bé nhất có ba chữ số là 100."
+   ],
+   [
+    "Số gồm 8 trăm, 0 chục và 5 đơn vị được viết là:",
+    [
+     "805",
+     "850",
+     "85",
+     "8005"
+    ],
+    "Số gồm 8 trăm, 0 chục và 5 đơn vị gồm các chữ số theo thứ tự từ trái sang phải là 8, 0, 5 nên được viết là 805."
+   ],
+   [
+    "Chữ số 6 trong số 462 có giá trị là bao nhiêu?",
+    [
+     "60",
+     "600",
+     "6",
+     "460"
+    ],
+    "Trong số 462, chữ số 6 ở hàng chục nên có giá trị là 60."
+   ],
+   [
+    "Kết quả của phép tính 425 + 341 là bao nhiêu?",
+    [
+     "766",
+     "764",
+     "756",
+     "666"
+    ],
+    "Đặt tính rồi tính: 425 + 341 = 766."
+   ],
+   [
+    "Thừa số thứ nhất là 5, thừa số thứ hai là 6. Tích là bao nhiêu?",
+    [
+     "30",
+     "11",
+     "35",
+     "25"
+    ],
+    "Tích của hai số là 5 × 6 = 30."
+   ],
+   [
+    "Thương của phép chia 36 : 4 là bao nhiêu?",
+    [
+     "9",
+     "8",
+     "7",
+     "6"
+    ],
+    "Ta có 4 × 9 = 36 nên 36 : 4 = 9."
+   ],
+   [
+    "Độ dài đường gấp khúc ABCD gồm ba đoạn thẳng AB = 12 cm, BC = 15 cm, CD = 18 cm là:",
+    [
+     "45 cm",
+     "35 cm",
+     "40 cm",
+     "55 cm"
+    ],
+    "Độ dài đường gấp khúc ABCD là 12 + 15 + 18 = 45 cm."
+   ],
+   [
+    "Trong các số 645, 564, 456, 654, số bé nhất là:",
+    [
+     "456",
+     "564",
+     "645",
+     "654"
+    ],
+    "So sánh các chữ số hàng trăm: 4 < 5 < 6 nên số 456 là số bé nhất."
+   ],
+   [
+    "Kết quả của phép tính 872 − 435 là bao nhiêu?",
+    [
+     "437",
+     "447",
+     "433",
+     "443"
+    ],
+    "Đặt tính rồi tính: 872 − 435 = 437."
+   ],
+   [
+    "Khang có 45 viên bi, Khang chia đều vào 5 hộp. Hỏi mỗi hộp có bao nhiêu viên bi?",
+    [
+     "9 viên bi",
+     "8 viên bi",
+     "7 viên bi",
+     "10 viên bi"
+    ],
+    "Mỗi hộp có số viên bi là 45 : 5 = 9 viên bi."
+   ],
+   [
+    "Một xưởng sản xuất, ngày thứ nhất làm được 320 sản phẩm. Ngày thứ hai làm được ít hơn ngày thứ nhất 50 sản phẩm. Hỏi ngày thứ hai xưởng đó làm được bao nhiêu sản phẩm?",
+    [
+     "270 sản phẩm",
+     "370 sản phẩm",
+     "280 sản phẩm",
+     "330 sản phẩm"
+    ],
+    "Ngày thứ hai xưởng làm được số sản phẩm là: 320 − 50 = 270 sản phẩm."
+   ],
+   [
+    "Hình tam giác ABC có độ dài ba cạnh lần lượt là 15 cm, 20 cm, 25 cm. Chu vi của hình tam giác ABC là:",
+    [
+     "60 cm",
+     "50 cm",
+     "55 cm",
+     "65 cm"
+    ],
+    "Chu vi hình tam giác ABC là: 15 + 20 + 25 = 60 cm."
+   ],
+   [
+    "Cho phép nhân 4 × x = 28. Giá trị của x là:",
+    [
+     "7",
+     "6",
+     "8",
+     "32"
+    ],
+    "Muốn tìm thừa số chưa biết ta lấy tích chia cho thừa số đã biết: x = 28 : 4 = 7."
+   ],
+   [
+    "Mẹ sinh Nam khi mẹ 26 tuổi. Năm nay Nam 9 tuổi. Hỏi năm nay mẹ bao nhiêu tuổi?",
+    [
+     "35 tuổi",
+     "17 tuổi",
+     "34 tuổi",
+     "36 tuổi"
+    ],
+    "Năm nay tuổi của mẹ là: 26 + 9 = 35 tuổi."
+   ],
+   [
+    "Tổng của số lớn nhất có hai chữ số và số nhỏ nhất có ba chữ số là:",
+    [
+     "199",
+     "109",
+     "190",
+     "200"
+    ],
+    "Số lớn nhất có hai chữ số là 99, số nhỏ nhất có ba chữ số là 100. Tổng là: 99 + 100 = 199."
+   ],
+   [
+    "Số gồm 5 trăm và 3 chục lớn hơn số nào dưới đây?",
+    [
+     "529",
+     "530",
+     "531",
+     "540"
+    ],
+    "Số gồm 5 trăm và 3 chục là 530. Ta có 530 > 529."
+   ],
+   [
+    "Trong thư viện có 240 cuốn sách toán và 180 cuốn sách tiếng Việt. Hỏi sách toán nhiều hơn sách tiếng Việt bao nhiêu cuốn?",
+    [
+     "60 cuốn",
+     "70 cuốn",
+     "420 cuốn",
+     "80 cuốn"
+    ],
+    "Sách toán nhiều hơn sách tiếng Việt số cuốn là: 240 − 180 = 60 cuốn."
+   ],
+   [
+    "Có 30 cái bánh đem xếp đều vào các hộp, mỗi hộp 5 cái. Hỏi xếp được bao nhiêu hộp bánh như thế?",
+    [
+     "6 hộp",
+     "5 hộp",
+     "7 hộp",
+     "8 hộp"
+    ],
+    "Số hộp bánh xếp được là: 30 : 5 = 6 hộp."
+   ],
+   [
+    "An nghĩ ra một số, lấy số đó cộng với 150 rồi trừ đi 80 thì được 220. Số An đã nghĩ là:",
+    [
+     "150",
+     "290",
+     "350",
+     "130"
+    ],
+    "Số An nghĩ là: 220 + 80 − 150 = 150."
+   ]
+  ]
+ }
+}

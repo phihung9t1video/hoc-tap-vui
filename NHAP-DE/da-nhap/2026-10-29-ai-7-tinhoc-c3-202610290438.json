@@ -1,0 +1,416 @@
+{
+ "7-tinhoc": {
+  "c3": [
+   [
+    "Để tính tổng các giá trị trong khối từ A1 đến A5, công thức nào sau đây được viết đúng cú pháp nhất?",
+    [
+     "=SUM(A1:A5)",
+     "=TOTAL(A1:A5)",
+     "=ADD(A1:A5)",
+     "=SUM(A1,A5)"
+    ],
+    "Hàm SUM dùng để tính tổng và cú pháp đúng cho một vùng dữ liệu liên tục là dùng dấu hai chấm."
+   ],
+   [
+    "Khi khởi động một bảng tính mới trong phần mềm bảng tính điện tử, trang tính mặc định thường có tên là gì?",
+    [
+     "Sheet1",
+     "Book1",
+     "Table1",
+     "Document1"
+    ],
+    "Trang tính mặc định khi mở một tệp mới được đặt tên là Sheet1."
+   ],
+   [
+    "Phát biểu nào sau đây mô tả đúng nhất về địa chỉ ô trong bảng tính?",
+    [
+     "Được xác định bởi tên cột và tên hàng giao nhau, ví dụ B5.",
+     "Được xác định bởi số thứ tự của ô tính tính từ góc trái trên.",
+     "Luôn bắt đầu bằng dấu bằng trước khi viết tên ô.",
+     "Chỉ gồm các chữ số đại diện cho vị trí hàng."
+    ],
+    "Địa chỉ ô được tạo bởi tên cột (chữ cái) ghép với tên hàng (số), ví dụ ô ở cột B hàng 5 có địa chỉ là B5."
+   ],
+   [
+    "Khi bạn nhập số 125,5 vào ô tính, mặc định phần mềm sẽ căn lề dữ liệu này như thế nào?",
+    [
+     "Căn lề phải",
+     "Căn lề trái",
+     "Căn giữa",
+     "Không căn lề"
+    ],
+    "Dữ liệu kiểu số trong bảng tính điện tử mặc định sẽ được căn lề phải."
+   ],
+   [
+    "Để tìm giá trị lớn nhất trong khối ô từ C1 đến C10, bạn sử dụng hàm nào sau đây?",
+    [
+     "=MAX(C1:C10)",
+     "=MIN(C1:C10)",
+     "=LARGE(C1:C10)",
+     "=HIGH(C1:C10)"
+    ],
+    "Hàm MAX được sử dụng để tìm giá trị lớn nhất trong một vùng dữ liệu."
+   ],
+   [
+    "Cho ô A1 chứa số 15 và ô B1 chứa số 3. Kết quả của công thức =MOD(A1, B1) là gì?",
+    [
+     "0",
+     "5",
+     "3",
+     "2"
+    ],
+    "Hàm MOD trả về số dư của phép chia. 15 chia cho 3 dư 0 nên kết quả là 0."
+   ],
+   [
+    "Thao tác nào sau đây giúp chọn đồng thời các cột không nằm liền kề nhau trong bảng tính?",
+    [
+     "Nhấn giữ phím Ctrl và lần lượt nhấp chuột vào các tiêu đề cột.",
+     "Nhấn giữ phím Shift và nhấp chuột vào cột đầu và cột cuối.",
+     "Nhấp đúp chuột vào giữa hai cột cần chọn.",
+     "Sử dụng tổ hợp phím Ctrl và mũi tên chỉ hướng."
+    ],
+    "Để chọn các đối tượng rời rạc, ta giữ phím Ctrl kết hợp nhấp chuột."
+   ],
+   [
+    "Để tìm giá trị nhỏ nhất trong khối ô B2:B8, công thức nào sau đây cho kết quả chính xác?",
+    [
+     "=MIN(B2:B8)",
+     "=LOW(B2:B8)",
+     "=SMALL(B2:B8)",
+     "=MINIMUM(B2:B8)"
+    ],
+    "Hàm MIN là hàm chuẩn để tìm giá trị nhỏ nhất trong vùng dữ liệu."
+   ],
+   [
+    "Khi gõ công thức =2 + 3 * 4 vào ô tính và nhấn Enter, kết quả hiển thị là bao nhiêu?",
+    [
+     "14",
+     "20",
+     "24",
+     "9"
+    ],
+    "Phần mềm thực hiện phép nhân trước, cộng sau: 3 nhân 4 bằng 12, cộng 2 bằng 14."
+   ],
+   [
+    "Phát biểu nào sau đây là ĐÚNG khi nói về đặc điểm của dữ liệu kí tự trong bảng tính?",
+    [
+     "Dữ liệu kí tự mặc định được căn lề trái trong ô tính.",
+     "Dữ liệu kí tự có thể dùng trực tiếp để thực hiện các phép tính số học.",
+     "Dữ liệu kí tự luôn bắt đầu bằng các chữ số từ 0 đến 9.",
+     "Dữ liệu kí tự khi nhập vào luôn tự động chuyển sang màu đỏ."
+    ],
+    "Dữ liệu kí tự (chữ viết, kí hiệu) mặc định được căn lề trái và không dùng được cho phép tính số học."
+   ],
+   [
+    "Cho các ô A1, A2, A3 lần lượt chứa các giá trị 4, 6, 8. Biểu thức =AVERAGE(A1:A3) sẽ trả về kết quả bằng bao nhiêu?",
+    [
+     "6",
+     "18",
+     "5",
+     "7"
+    ],
+    "Hàm AVERAGE tính trung bình cộng: tổng các số là 18, chia cho 3 số được kết quả là 6."
+   ],
+   [
+    "Để ẩn một hàng bất kỳ trong trang tính, sau khi nhấp chuột phải vào tên hàng đó, bạn chọn lệnh nào?",
+    [
+     "Hide",
+     "Delete",
+     "Clear",
+     "Remove"
+    ],
+    "Lệnh Hide dùng để ẩn hàng hoặc cột đang được chọn."
+   ],
+   [
+    "Khi bạn nhìn thấy trong ô tính xuất hiện dãy kí tự lỗi “#####”, nguyên nhân phổ biến nhất là gì?",
+    [
+     "Cột quá hẹp không đủ hiển thị hết chiều dài của số.",
+     "Công thức bị sai tên hàm hoặc sai cú pháp.",
+     "Phép toán có lỗi chia cho số 0.",
+     "Dữ liệu nhập vào là kí tự nhưng lại đem đi tính toán."
+    ],
+    "Lỗi năm dấu thăng xuất hiện khi độ rộng của cột quá nhỏ so với giá trị số bên trong."
+   ],
+   [
+    "Để thay đổi tên của một trang tính (Sheet), thao tác nhanh và thông dụng nhất là gì?",
+    [
+     "Nhấp đúp chuột vào tên trang tính hiện tại rồi gõ tên mới.",
+     "Nhấn phím F1 rồi chọn đổi tên.",
+     "Nhấp chuột phải vào vùng trống của trang tính và chọn New.",
+     "Vào thẻ File và chọn Save As."
+    ],
+    "Nhấp đúp chuột vào tên Sheet là cách nhanh nhất để kích hoạt chế độ đổi tên."
+   ],
+   [
+    "Kết quả của biểu thức =POWER(3, 2) trong bảng tính điện tử là bao nhiêu?",
+    [
+     "9",
+     "6",
+     "5",
+     "8"
+    ],
+    "Hàm POWER dùng để tính lũy thừa, POWER(3, 2) nghĩa là 3 mũ 2 bằng 9."
+   ],
+   [
+    "Để di chuyển nội dung từ ô A1 sang ô B1 thay vì sao chép, bạn sử dụng cặp lệnh nào sau đây?",
+    [
+     "Cut và Paste",
+     "Copy và Paste",
+     "Fill và Paste",
+     "Move và Copy"
+    ],
+    "Lệnh Cut dùng để cắt (di chuyển) dữ liệu, kết hợp với Paste để đưa đến vị trí mới."
+   ],
+   [
+    "Khi bạn nhập công thức =10/0 vào một ô tính, phần mềm sẽ hiển thị thông báo lỗi nào?",
+    [
+     "#DIV/0!",
+     "#VALUE!",
+     "#NAME?",
+     "#REF!"
+    ],
+    "Lỗi #DIV/0! xuất hiện khi có phép chia cho số 0 hoặc chia cho ô trống."
+   ],
+   [
+    "Cho biết kết quả của biểu thức logic sau: =OR(3>5, 10>8)",
+    [
+     "TRUE",
+     "FALSE",
+     "0",
+     "1"
+    ],
+    "Hàm OR trả về TRUE nếu có ít nhất một điều kiện đúng. Ở đây 10>8 là đúng nên kết quả là TRUE."
+   ],
+   [
+    "Để chèn thêm một hàm tính toán có sẵn vào ô tính, ngoài cách gõ trực tiếp bạn có thể dùng nút lệnh nào trên thanh công thức?",
+    [
+     "Nút lệnh Insert Function có kí hiệu fx",
+     "Nút lệnh AutoSum có kí hiệu chữ cái Hy Lạp sigma",
+     "Nút lệnh Sort & Filter",
+     "Nút lệnh Conditional Formatting"
+    ],
+    "Nút fx (Insert Function) hỗ trợ người dùng tìm kiếm và chèn hàm vào công thức một cách dễ dàng."
+   ],
+   [
+    "Khi muốn xóa toàn bộ định dạng lẫn nội dung của một khối ô đã chọn, bạn sử dụng tính năng nào trong nhóm Editing?",
+    [
+     "Clear Formats",
+     "Delete Cells",
+     "Cut",
+     "Reset"
+    ],
+    "Lệnh Clear (với tùy chọn Clear All hoặc Clear Formats) trong nhóm Editing dùng để xóa định dạng hoặc nội dung."
+   ],
+   [
+    "Phát biểu nào sau đây mô tả đúng nhất về thành phần của một bảng tính điện tử?",
+    [
+     "Bảng tính gồm các hàng, các cột và giao nhau tạo thành các ô tính.",
+     "Bảng tính chỉ gồm các trang văn bản giống như phần mềm soạn thảo.",
+     "Bảng tính chỉ chứa các biểu đồ và không thể nhập dữ liệu dạng chữ.",
+     "Bảng tính chỉ cho phép thực hiện các phép tính cộng trừ đơn giản."
+    ],
+    "Cấu trúc cơ bản của bảng tính điện tử là các hàng và cột giao nhau tạo thành các ô tính để lưu trữ và xử lý dữ liệu."
+   ],
+   [
+    "Khi bạn nhập một dãy số điện thoại bắt đầu bằng số 0 vào ô tính, phần mềm thường tự động bỏ số 0 ở đầu. Để khắc phục điều này, bạn cần làm gì trước khi nhập?",
+    [
+     "Nhập thêm dấu nháy đơn trước dãy số hoặc định dạng ô tính thành dạng Text.",
+     "Sử dụng hàm toán học để tự động thêm số 0 vào trước.",
+     "Nhấn phím cách liên tục trước khi gõ số 0.",
+     "Thay đổi kích thước cột rộng hơn để hiển thị số 0."
+    ],
+    "Dữ liệu số mặc định sẽ mất số 0 ở đầu, vì vậy cần định dạng Text hoặc thêm dấu nháy đơn để phần mềm hiểu đây là kí tự."
+   ],
+   [
+    "Để chọn một khối ô bắt đầu từ ô B2 đến ô E5, thao tác chuột nào sau đây là nhanh và chính xác nhất?",
+    [
+     "Nhấp chuột chọn ô B2, nhấn giữ phím chuột trái và kéo đến ô E5 rồi thả ra.",
+     "Nhấp đúp chuột liên tục vào ô B2 cho đến khi xuất hiện ô E5.",
+     "Nhấp chọn ô B2 sau đó nhấp tiếp vào ô E5 mà không cần giữ phím nào.",
+     "Nhấn phím Enter nhiều lần cho đến khi vùng chọn di chuyển đến ô E5."
+    ],
+    "Cách chọn khối ô nhanh nhất là nhấp chuột tại ô góc trên bên trái, kéo và thả chuột tại ô góc dưới bên phải."
+   ],
+   [
+    "Khi gõ công thức =20 - 4 * 2 vào ô tính và nhấn Enter, kết quả hiển thị trên màn hình là bao nhiêu?",
+    [
+     "12",
+     "32",
+     "16",
+     "24"
+    ],
+    "Phần mềm tính toán theo quy tắc nhân chia trước, cộng trừ sau, tức là 20 - (4 * 2) = 20 - 8 = 12."
+   ],
+   [
+    "Để tính tổng các giá trị nằm ở các ô A1, B1 và C1, cách viết công thức nào sau đây là đúng chuẩn và ngắn gọn nhất?",
+    [
+     "=SUM(A1:C1)",
+     "=TOTAL(A1, B1, C1)",
+     "=ADD(A1:C1)",
+     "=A1+B1+C1+SUM"
+    ],
+    "Hàm SUM dùng để tính tổng các ô liên tiếp trong một khối, viết gọn là =SUM(A1:C1)."
+   ],
+   [
+    "Cho các ô A1, A2, A3 lần lượt chứa các số 2, 5, 8. Kết quả của hàm =COUNTA(A1:A3) là gì?",
+    [
+     "3",
+     "15",
+     "5",
+     "8"
+    ],
+    "Hàm COUNTA đếm tất cả các ô có chứa dữ liệu trong vùng được chọn, ở đây có 3 ô chứa số."
+   ],
+   [
+    "Chức năng chính của nút lệnh AutoSum trên thanh công cụ là gì?",
+    [
+     "Tự động tạo nhanh công thức tính tổng cho một khối ô được chọn.",
+     "Tự động xóa bỏ các dữ liệu trùng lặp trong bảng tính.",
+     "Tự động sắp xếp dữ liệu theo thứ tự tăng dần.",
+     "Tự động đổi màu nền cho các ô có chứa số."
+    ],
+    "Nút lệnh AutoSum giúp người dùng chèn nhanh hàm tính tổng SUM mà không cần gõ thủ công."
+   ],
+   [
+    "Khi bạn sao chép công thức chứa địa chỉ tương đối từ ô A2 có công thức =B1+5 sang ô A3, công thức mới tại ô A3 sẽ là gì?",
+    [
+     "=B2+5",
+     "=B1+5",
+     "=C1+5",
+     "=A2+5"
+    ],
+    "Địa chỉ tương đối sẽ tự động thay đổi theo khoảng cách dịch chuyển hàng, từ hàng 1 xuống hàng 2 thành B2."
+   ],
+   [
+    "Để biểu diễn dữ liệu dạng phần trăm đóng góp của từng thành phần so với tổng thể, dạng biểu đồ nào là phù hợp nhất?",
+    [
+     "Biểu đồ hình tròn",
+     "Biểu đồ cột",
+     "Biểu đồ đường gấp khúc",
+     "Biểu đồ dạng bảng"
+    ],
+    "Biểu đồ hình tròn rất trực quan trong việc thể hiện tỉ lệ phần trăm của các phần so với toàn bộ tổng thể."
+   ],
+   [
+    "Khi bạn muốn đổi tên một trang tính thành “DiemLop7”, thao tác đơn giản nào nên được thực hiện đầu tiên?",
+    [
+     "Nhấp đúp chuột vào thẻ tên trang tính cần đổi ở phía dưới màn hình.",
+     "Nhấp chuột phải vào một ô bất kỳ trong trang tính rồi chọn Rename.",
+     "Vào thẻ File chọn Save As để đổi tên toàn bộ tệp.",
+     "Nhấn phím F1 trên bàn phím khi đang đứng ở trang tính."
+    ],
+    "Cách nhanh nhất để đổi tên Sheet là nhấp đúp chuột trực tiếp vào tên của Sheet đó ở thanh bên dưới."
+   ],
+   [
+    "Bạn muốn tìm kiếm một từ khóa xuất hiện trong trang tính để thay thế bằng từ khóa khác, bạn sử dụng tổ hợp phím tắt nào?",
+    [
+     "Ctrl + H",
+     "Ctrl + F",
+     "Ctrl + C",
+     "Ctrl + V"
+    ],
+    "Tổ hợp phím Ctrl + H mở hộp thoại Find and Replace giúp tìm kiếm và thay thế nhanh chóng."
+   ],
+   [
+    "Hành động nào sau đây giúp bạn xem trước trang tính trông như thế nào trước khi đem đi in ra giấy?",
+    [
+     "Chọn lệnh Print trong thẻ File để xem trang thái Print Preview.",
+     "Nhấp đúp chuột vào đường viền của tiêu đề cột.",
+     "Sử dụng công cụ Filter trên thanh tiêu đề.",
+     "Nhấn giữ phím Shift rồi nhấp chọn toàn bộ các ô."
+    ],
+    "Chế độ Print Preview trong mục Print giúp kiểm tra cách trang tính được chia trang trước khi in thực tế."
+   ],
+   [
+    "Khi thực hiện sắp xếp dữ liệu theo tiêu chí tăng dần, các dữ liệu kiểu chữ cái sẽ được sắp xếp theo quy tắc nào?",
+    [
+     "Theo thứ tự bảng chữ cái từ A đến Z.",
+     "Theo độ dài của từ từ ngắn đến dài.",
+     "Theo thứ tự bảng chữ cái ngược từ Z về A.",
+     "Theo số lượng kí tự nguyên âm có trong từ."
+    ],
+    "Thứ tự tăng dần đối với dữ liệu kí tự luôn tuân theo bảng chữ cái tiếng Anh từ A đến Z."
+   ],
+   [
+    "Để lọc ra 5 học sinh có điểm số cao nhất trong lớp, tính năng nào trong phần mềm bảng tính hỗ trợ tốt nhất?",
+    [
+     "Top 10 Filter trong danh sách bộ lọc của cột Điểm.",
+     "Sử dụng hàm AVERAGE kết hợp với hàm IF.",
+     "Dùng công cụ Sort để sắp xếp rồi xóa thủ công.",
+     "Tạo biểu đồ hình cột rồi chọn các cột cao nhất."
+    ],
+    "Tính năng Top 10 Filter cho phép lọc ra một số lượng hoặc tỉ lệ phần trăm các dòng có giá trị lớn nhất hoặc nhỏ nhất."
+   ],
+   [
+    "Nếu trong quá trình nhập công thức, bạn quên không gõ dấu bằng (=) ở đầu tiên, điều gì sẽ xảy ra?",
+    [
+     "Ô tính chỉ hiển thị nguyên văn chuỗi kí tự công thức đó chứ không tính toán kết quả.",
+     "Phần mềm sẽ tự động bổ sung dấu bằng và hiển thị kết quả đúng.",
+     "Ô tính sẽ tự động xuất hiện thông báo lỗi tràn bộ nhớ.",
+     "Phần mềm sẽ khóa tệp tin và yêu cầu khởi động lại."
+    ],
+    "Thiếu dấu bằng, phần mềm sẽ coi nội dung nhập vào là văn bản thông thường thay vì biểu thức tính toán."
+   ],
+   [
+    "Cho ô A1 chứa giá trị 10 và ô A2 chứa giá trị 0. Khi bạn nhập công thức =A1/A2 và nhấn Enter, thông báo lỗi nào sẽ xuất hiện?",
+    [
+     "#DIV/0!",
+     "#VALUE!",
+     "#NAME?",
+     "#REF!"
+    ],
+    "Lỗi chia một số cho số 0 hoặc cho ô trống trong bảng tính được ký hiệu là #DIV/0!."
+   ],
+   [
+    "Khi bạn cần xóa bỏ hoàn toàn một cột dữ liệu không còn dùng đến ra khỏi trang tính, thao tác nào là đúng?",
+    [
+     "Nhấp chuột phải vào tên cột cần xóa rồi chọn Delete.",
+     "Chọn toàn bộ cột đó rồi nhấn phím Space trên bàn phím.",
+     "Sử dụng tính năng Clear Contents trong thẻ Home.",
+     "Kéo thả cột đó ra ngoài vùng hiển thị của trang tính."
+    ],
+    "Để xóa hoàn toàn cột, nhấp chuột phải vào tiêu đề cột và chọn Delete để loại bỏ cả cấu trúc cột."
+   ],
+   [
+    "Công dụng của hàm COUNT trong bảng tính điện tử là gì?",
+    [
+     "Đếm số lượng các ô có chứa dữ liệu kiểu số trong vùng được chọn.",
+     "Đếm tổng số lượng tất cả các ô có chứa dữ liệu bất kỳ.",
+     "Tính tổng giá trị của các ô số trong vùng chọn.",
+     "Tìm giá trị trung bình cộng của các số."
+    ],
+    "Hàm COUNT chỉ thực hiện nhiệm vụ đếm các ô có chứa dữ liệu là số, bỏ qua ô chữ hoặc ô trống."
+   ],
+   [
+    "Để in một trang tính sao cho khổ giấy nằm ngang thay vì nằm dọc, bạn cần chỉnh thuộc tính nào trước khi in?",
+    [
+     "Chọn hướng giấy Landscape trong phần thiết lập trang in Page Setup.",
+     "Thay đổi kích thước chữ nhỏ lại bằng 5.",
+     "Thu hẹp chiều rộng của tất cả các cột trong bảng.",
+     "Đổi tên tệp tin sang định dạng văn bản ngang."
+    ],
+    "Landscape là tùy chọn thiết lập hướng trang in nằm ngang, phù hợp với các bảng tính có nhiều cột."
+   ],
+   [
+    "Bạn đã áp dụng bộ lọc (Filter) để xem danh sách học sinh đạt điểm giỏi, làm thế nào để tắt bộ lọc và hiển thị lại toàn bộ danh sách?",
+    [
+     "Nhấp lại vào biểu tượng bộ lọc trên tiêu đề cột hoặc nhấn nút Filter trên thẻ Data.",
+     "Nhấn tổ hợp phím Ctrl + Z nhiều lần cho đến khi bảng quay lại trạng thái cũ.",
+     "Đóng phần mềm bảng tính lại mà không cần lưu tệp.",
+     "Xóa toàn bộ dữ liệu của cột điểm rồi nhập lại từ đầu."
+    ],
+    "Nhấp lại vào biểu tượng Filter sẽ tắt chế độ lọc và đưa toàn bộ các hàng ẩn hiện trở lại bình thường."
+   ],
+   [
+    "Để cố định hàng đầu tiên của trang tính luôn hiển thị trên màn hình khi cuộn chuột xuống dưới, bạn sử dụng lệnh nào trong thẻ View?",
+    [
+     "Freeze Top Row",
+     "Freeze First Column",
+     "Split",
+     "Lock Sheet"
+    ],
+    "Lệnh Freeze Top Row trong thẻ View giúp cố định hàng đầu tiên giúp dễ theo dõi tiêu đề bảng khi cuộn trang."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c13": [
+   [
+    "Tháng nào trong năm có số ngày ít nhất?",
+    [
+     "Tháng 2",
+     "Tháng 4",
+     "Tháng 6",
+     "Tháng 9"
+    ],
+    "Tháng 2 chỉ có 28 hoặc 29 ngày, ít hơn tất cả các tháng còn lại trong năm."
+   ],
+   [
+    "Khoảng thời gian từ 8 giờ sáng đến 11 giờ trưa cùng ngày là mấy giờ?",
+    [
+     "3 giờ",
+     "2 giờ",
+     "4 giờ",
+     "19 giờ"
+    ],
+    "Lấy 11 trừ đi 8 bằng 3 giờ."
+   ],
+   [
+    "Đồng hồ chỉ 3 giờ kém 15 phút, khi đó kim phút đang chỉ vào số nào?",
+    [
+     "Số 9",
+     "Số 3",
+     "Số 6",
+     "Số 12"
+    ],
+    "3 giờ kém 15 phút là 2 giờ 45 phút, lúc này kim phút chỉ số 9."
+   ],
+   [
+    "Mẹ mua một hộp sữa giá 25 000 đồng và một gói bánh giá 35 000 đồng. Mẹ đưa cô bán hàng tờ 100 000 đồng. Số tiền cô bán hàng phải trả lại mẹ là:",
+    [
+     "40 000 đồng",
+     "60 000 đồng",
+     "50 000 đồng",
+     "30 000 đồng"
+    ],
+    "Tổng tiền mua hàng là 25 000 + 35 000 = 60 000 đồng. Tiền trả lại là 100 000 - 60 000 = 40 000 đồng."
+   ],
+   [
+    "Bốn năm liên tiếp (không có năm nhuận) có tổng cộng bao nhiêu ngày?",
+    [
+     "1460 ngày",
+     "1461 ngày",
+     "1456 ngày",
+     "1500 ngày"
+    ],
+    "Mỗi năm thường có 365 ngày. Lấy 365 nhân với 4 bằng 1460 ngày."
+   ],
+   [
+    "Có bao nhiêu tháng trong một năm có đúng 30 ngày?",
+    [
+     "4 tháng",
+     "7 tháng",
+     "5 tháng",
+     "6 tháng"
+    ],
+    "Các tháng có 30 ngày là tháng 4, tháng 6, tháng 9 và tháng 11 (tổng cộng có 4 tháng)."
+   ],
+   [
+    "Bố đi công tác trong 2 tuần lễ và 3 ngày. Bố đi công tác tất cả bao nhiêu ngày?",
+    [
+     "17 ngày",
+     "14 ngày",
+     "15 ngày",
+     "31 ngày"
+    ],
+    "Mỗi tuần có 7 ngày, 2 tuần lễ có 14 ngày. Thêm 3 ngày nữa là 14 + 3 = 17 ngày."
+   ],
+   [
+    "Em có một tờ 50 000 đồng và muốn đổi lấy các tờ 10 000 đồng. Em đổi được mấy tờ?",
+    [
+     "5 tờ",
+     "4 tờ",
+     "6 tờ",
+     "10 tờ"
+    ],
+    "Lấy 50 000 chia cho 10 000 bằng 5 tờ."
+   ],
+   [
+    "Hôm nay là thứ Ba, ngày 10 tháng 3. Hỏi thứ Ba tuần tới là ngày mấy tháng 3?",
+    [
+     "Ngày 17",
+     "Ngày 16",
+     "Ngày 18",
+     "Ngày 24"
+    ],
+    "Một tuần có 7 ngày, lấy 10 cộng thêm 7 bằng 17."
+   ],
+   [
+    "Kim giờ đang chỉ giữa số 4 và số 5, kim phút chỉ vào số 6. Đồng hồ chỉ mấy giờ?",
+    [
+     "4 giờ 30 phút",
+     "5 giờ 30 phút",
+     "4 giờ 6 phút",
+     "6 giờ 20 phút"
+    ],
+    "Kim giờ qua số 4 và kim phút chỉ số 6 nên đồng hồ chỉ 4 giờ 30 phút."
+   ],
+   [
+    "Cho dãy các tháng trong quý ba của năm: tháng 7, tháng 8, tháng 9. Hỏi tổng số ngày của ba tháng này là bao nhiêu?",
+    [
+     "92 ngày",
+     "91 ngày",
+     "90 ngày",
+     "93 ngày"
+    ],
+    "Tháng 7 có 31 ngày, tháng 8 có 31 ngày, tháng 9 có 30 ngày. Tổng cộng: 31 + 31 + 30 = 92 ngày."
+   ],
+   [
+    "An mua 4 cái bút chì, mỗi cái giá 8 000 đồng. An đưa cô bán hàng một tờ 50 000 đồng. Số tiền cô bán hàng thối lại cho An là:",
+    [
+     "18 000 đồng",
+     "12 000 đồng",
+     "22 000 đồng",
+     "32 000 đồng"
+    ],
+    "Tiền mua 4 cái bút là 8 000 nhân 4 bằng 32 000 đồng. Tiền thối lại là 50 000 - 32 000 = 18 000 đồng."
+   ],
+   [
+    "Một năm nhuận có bao nhiêu ngày?",
+    [
+     "366 ngày",
+     "365 ngày",
+     "364 ngày",
+     "367 ngày"
+    ],
+    "Năm nhuận tháng 2 có 29 ngày nên cả năm có 366 ngày."
+   ],
+   [
+    "Khoảng thời gian từ 7 giờ kém 10 phút đến 7 giờ đúng là bao nhiêu phút?",
+    [
+     "10 phút",
+     "20 phút",
+     "50 phút",
+     "60 phút"
+    ],
+    "7 giờ kém 10 phút là 6 giờ 50 phút, cách 7 giờ đúng là 10 phút."
+   ],
+   [
+    "Mẹ đi chợ mua thịt hết 45 000 đồng và mua rau hết 15 000 đồng. Mẹ đưa người bán hàng hai tờ 50 000 đồng. Hỏi người bán hàng phải trả lại mẹ bao nhiêu tiền?",
+    [
+     "40 000 đồng",
+     "30 000 đồng",
+     "50 000 đồng",
+     "60 000 đồng"
+    ],
+    "Mẹ đưa tổng cộng 100 000 đồng. Tiền mua hàng là 60 000 đồng. Tiền trả lại là 100 000 - 60 000 = 40 000 đồng."
+   ],
+   [
+    "Kim giờ chỉ đúng số 12, kim phút chỉ số 3. Đồng hồ chỉ mấy giờ?",
+    [
+     "12 giờ 15 phút",
+     "12 giờ 3 phút",
+     "3 giờ đúng",
+     "3 giờ 12 phút"
+    ],
+    "Kim giờ ở số 12 và kim phút ở số 3 ứng với 15 phút, tức là 12 giờ 15 phút."
+   ],
+   [
+    "Bạn Bình sinh vào ngày 29 tháng 2. Hỏi cứ mấy năm Bình mới được tổ chức sinh nhật đúng ngày sinh của mình một lần?",
+    [
+     "4 năm",
+     "1 năm",
+     "2 năm",
+     "3 năm"
+    ],
+    "Ngày 29 tháng 2 chỉ xuất hiện ở năm nhuận, cứ 4 năm mới có một năm nhuận."
+   ],
+   [
+    "Cửa hàng mở cửa từ 7 giờ sáng đến 9 giờ tối mỗi ngày. Hỏi cửa hàng mở cửa trong bao nhiêu giờ?",
+    [
+     "14 giờ",
+     "12 giờ",
+     "15 giờ",
+     "16 giờ"
+    ],
+    "9 giờ tối là 21 giờ. Lấy 21 trừ đi 7 bằng 14 giờ."
+   ],
+   [
+    "Tháng nào sau đây có số ngày nhiều nhất trong năm?",
+    [
+     "Tháng 1",
+     "Tháng 4",
+     "Tháng 6",
+     "Tháng 11"
+    ],
+    "Tháng 1 có 31 ngày, trong khi các tháng 4, 6 và 11 đều có 30 ngày."
+   ],
+   [
+    "Kim phút đang chỉ vào số 3, kim giờ chỉ quá số 2 một chút. Đồng hồ chỉ mấy giờ?",
+    [
+     "2 giờ 15 phút",
+     "3 giờ 10 phút",
+     "2 giờ 3 phút",
+     "3 giờ 15 phút"
+    ],
+    "Kim giờ qua số 2 là 2 giờ, kim phút chỉ số 3 ứng với 15 phút (vì mỗi số cách nhau 5 phút)."
+   ]
+  ]
+ }
+}

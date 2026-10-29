@@ -1,0 +1,206 @@
+{
+ "3-tienganh": {
+  "u13": [
+   [
+    "Which room is for sleeping?",
+    [
+     "bedroom",
+     "kitchen",
+     "bathroom",
+     "living room"
+    ],
+    "Bedroom là phòng ngủ, nơi dùng để ngủ."
+   ],
+   [
+    "Choose the correct spelling for 'phòng khách':",
+    [
+     "living room",
+     "livin room",
+     "living rom",
+     "liveng room"
+    ],
+    "Living room được viết đúng chính tả gồm hai từ."
+   ],
+   [
+    "Where is the ball? – It's ___ the table. (gầm bàn)",
+    [
+     "under",
+     "in",
+     "on",
+     "at"
+    ],
+    "Under dùng để chỉ vị trí ở phía dưới, bên dưới một vật."
+   ],
+   [
+    "What is 'gate' in Vietnamese?",
+    [
+     "cổng",
+     "cửa sổ",
+     "cửa ra vào",
+     "hàng rào"
+    ],
+    "Gate có nghĩa là cái cổng."
+   ],
+   [
+    "Complete the sentence: Is there ___ garden?",
+    [
+     "a",
+     "an",
+     "the",
+     "some"
+    ],
+    "Garden là danh từ đếm được số ít bắt đầu bằng phụ âm nên dùng mạo từ a."
+   ],
+   [
+    "Choose the word that means 'cửa sổ':",
+    [
+     "window",
+     "door",
+     "wall",
+     "floor"
+    ],
+    "Window có nghĩa là cửa sổ."
+   ],
+   [
+    "Rearrange the words to make a correct sentence: is / the / Where / bathroom / ?",
+    [
+     "Where is the bathroom?",
+     "Where the is bathroom?",
+     "Bathroom the where is?",
+     "Is where the bathroom?"
+    ],
+    "Cấu trúc hỏi vị trí: Where + is + the + tên phòng?"
+   ],
+   [
+    "What room do we cook meals in?",
+    [
+     "kitchen",
+     "bedroom",
+     "living room",
+     "bathroom"
+    ],
+    "Kitchen là nhà bếp, nơi dùng để nấu ăn."
+   ],
+   [
+    "Find the odd one out:",
+    [
+     "table",
+     "kitchen",
+     "bedroom",
+     "bathroom"
+    ],
+    "Table là đồ vật, trong khi các từ còn lại chỉ các phòng trong nhà."
+   ],
+   [
+    "Choose the correct sentence:",
+    [
+     "The chairs are in the living room.",
+     "The chairs is in the living room.",
+     "The chair are in the living room.",
+     "The chairs am in the living room."
+    ],
+    "Chairs là danh từ số nhiều nên đi với động từ to be là are."
+   ],
+   [
+    "What is 'wall' in Vietnamese?",
+    [
+     "tường nhà",
+     "sàn nhà",
+     "mái nhà",
+     "cửa nhà"
+    ],
+    "Wall có nghĩa là bức tường."
+   ],
+   [
+    "Complete the sentence: There ___ a big tree in the yard.",
+    [
+     "is",
+     "are",
+     "am",
+     "be"
+    ],
+    "A big tree là danh từ số ít nên dùng There is."
+   ],
+   [
+    "Choose the correct spelling:",
+    [
+     "bathroom",
+     "bathrom",
+     "bath room",
+     "bathrum"
+    ],
+    "Bathroom viết liền nhau thành một từ đúng chính tả."
+   ],
+   [
+    "Where is the cat? – It's ___ the tree. (trên cây)",
+    [
+     "in",
+     "on",
+     "at",
+     "under"
+    ],
+    "Đối với cây cối, ta dùng giới từ in (in the tree)."
+   ],
+   [
+    "Read and answer: 'My house is small, but it is nice.' Is the house big?",
+    [
+     "No, it isn't.",
+     "Yes, it is.",
+     "Yes, it does.",
+     "No, it doesn't."
+    ],
+    "Câu văn nói 'My house is small' (nhà tôi nhỏ), nên câu trả lời cho việc nhà có lớn không là No, it isn't."
+   ],
+   [
+    "What is 'door' in Vietnamese?",
+    [
+     "cửa ra vào",
+     "cửa sổ",
+     "cái cổng",
+     "bức tường"
+    ],
+    "Door có nghĩa là cửa ra vào."
+   ],
+   [
+    "Choose the correct question for the answer: 'It's in the garden.'",
+    [
+     "Where is the dog?",
+     "What is this?",
+     "Is it a garden?",
+     "How are you?"
+    ],
+    "Câu trả lời chỉ vị trí 'in the garden' nên câu hỏi phải bắt đầu bằng Where."
+   ],
+   [
+    "Find the misspelled word:",
+    [
+     "garnden",
+     "garden",
+     "kitchen",
+     "house"
+    ],
+    "Garnden viết sai chính tả, từ đúng là garden."
+   ],
+   [
+    "How many rooms are there? – There ___ three rooms.",
+    [
+     "are",
+     "is",
+     "am",
+     "be"
+    ],
+    "Three rooms là danh từ số nhiều nên đi với động từ to be là are."
+   ],
+   [
+    "Choose the correct sentence describing a house:",
+    [
+     "This is my house.",
+     "This are my house.",
+     "These is my house.",
+     "This am my house."
+    ],
+    "This dùng cho danh từ số ít (my house) và đi với to be là is."
+   ]
+  ]
+ }
+}

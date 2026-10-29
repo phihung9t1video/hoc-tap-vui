@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c4": [
+   [
+    "Kết quả của phép tính 24 × 4 là bao nhiêu?",
+    [
+     "96",
+     "86",
+     "92",
+     "88"
+    ],
+    "Ta tính 4 nhân 4 bằng 16, viết 6 nhớ 1; 4 nhân 2 bằng 8, thêm 1 bằng 9, kết quả là 96."
+   ],
+   [
+    "Kết quả của phép tính 18 × 5 là bao nhiêu?",
+    [
+     "90",
+     "85",
+     "95",
+     "80"
+    ],
+    "Ta tính 5 nhân 8 bằng 40, viết 0 nhớ 4; 5 nhân 1 bằng 5, thêm 4 bằng 9, kết quả là 90."
+   ],
+   [
+    "Kết quả của phép tính 68 : 2 là bao nhiêu?",
+    [
+     "34",
+     "33",
+     "35",
+     "43"
+    ],
+    "Ta lấy 6 chia 2 bằng 3, 8 chia 2 bằng 4, vậy 68 chia 2 bằng 34."
+   ],
+   [
+    "Kết quả của phép tính 42 : 3 là bao nhiêu?",
+    [
+     "14",
+     "13",
+     "15",
+     "12"
+    ],
+    "Ta nhẩm 42 tách thành 30 và 12, lấy 30 chia 3 bằng 10, 12 chia 3 bằng 4, 10 cộng 4 bằng 14."
+   ],
+   [
+    "Gấp 14 lên 6 lần ta được kết quả là:",
+    [
+     "84",
+     "74",
+     "86",
+     "64"
+    ],
+    "Muốn gấp một số lên nhiều lần, ta lấy số đó nhân với số lần: 14 × 6 = 84."
+   ],
+   [
+    "Giảm 63 đi 7 lần ta được kết quả là:",
+    [
+     "9",
+     "8",
+     "7",
+     "6"
+    ],
+    "Muốn giảm một số đi nhiều lần, ta lấy số đó chia cho số lần: 63 : 7 = 9."
+   ],
+   [
+    "Trong phép chia có dư với số chia là 8, số dư lớn nhất có thể là:",
+    [
+     "7",
+     "8",
+     "6",
+     "1"
+    ],
+    "Số dư trong phép chia bao giờ cũng phải nhỏ hơn số chia. Số chia là 8 thì số dư lớn nhất là 7."
+   ],
+   [
+    "Mai có 9 viên bi, số bi của Nam gấp 5 lần số bi của Mai. Nam có số viên bi là:",
+    [
+     "45",
+     "40",
+     "54",
+     "35"
+    ],
+    "Để tìm số bi của Nam, ta lấy số bi của Mai nhân với 5: 9 × 5 = 45 viên."
+   ],
+   [
+    "Một sợi dây dài 72 cm, được cắt thành 6 đoạn bằng nhau. Mỗi đoạn dài số xăng-ti-mét là:",
+    [
+     "12",
+     "11",
+     "13",
+     "14"
+    ],
+    "Để tìm độ dài mỗi đoạn dây, ta lấy tổng độ dài chia cho số đoạn: 72 : 6 = 12 cm."
+   ],
+   [
+    "Tìm x, biết: x : 4 = 15.",
+    [
+     "60",
+     "56",
+     "19",
+     "11"
+    ],
+    "Muốn tìm số bị chia, ta lấy thương nhân với số chia: x = 15 × 4, suy ra x = 60."
+   ],
+   [
+    "Tìm x, biết: 5 × x = 65.",
+    [
+     "13",
+     "12",
+     "14",
+     "60"
+    ],
+    "Muốn tìm thừa số chưa biết, ta lấy tích chia cho thừa số đã biết: x = 65 : 5, suy ra x = 13."
+   ],
+   [
+    "Cô giáo có 58 quyển vở, chia đều cho 5 bạn. Hỏi mỗi bạn được mấy quyển vở và thừa mấy quyển?",
+    [
+     "Mỗi bạn 11 quyển, thừa 3 quyển",
+     "Mỗi bạn 10 quyển, thừa 8 quyển",
+     "Mỗi bạn 11 quyển, thừa 2 quyển",
+     "Mỗi bạn 12 quyển, thừa 1 quyển"
+    ],
+    "Ta đặt tính chia 58 cho 5 được 11, dư 3. Vậy mỗi bạn được 11 quyển vở và thừa 3 quyển."
+   ],
+   [
+    "Có 42 học sinh xếp hàng tập thể dục, mỗi hàng có 6 học sinh. Hỏi có tất cả bao nhiêu hàng học sinh?",
+    [
+     "7",
+     "6",
+     "8",
+     "9"
+    ],
+    "Để tìm số hàng, ta lấy tổng số học sinh chia cho số học sinh ở mỗi hàng: 42 : 6 = 7 hàng."
+   ],
+   [
+    "Mẹ mua 3 hộp bánh, mỗi hộp có 15 chiếc bánh. Tổng số bánh mẹ mua là:",
+    [
+     "45",
+     "35",
+     "54",
+     "48"
+    ],
+    "Để tìm tổng số bánh, ta lấy số bánh trong một hộp nhân với số hộp: 15 × 3 = 45 chiếc."
+   ],
+   [
+    "Một cửa hàng có 84 kg gạo, đã bán đi 1/3 số gạo đó. Cửa hàng đã bán số ki-lô-gam gạo là:",
+    [
+     "28",
+     "24",
+     "31",
+     "42"
+    ],
+    "Để tìm 1/3 số gạo, ta lấy tổng số gạo chia cho 3: 84 : 3 = 28 kg."
+   ],
+   [
+    "Năm nay con 7 tuổi, tuổi mẹ gấp 4 lần tuổi con. Tổng số tuổi của hai mẹ con là:",
+    [
+     "35",
+     "28",
+     "42",
+     "32"
+    ],
+    "Tuổi mẹ là 7 × 4 = 28 tuổi. Tổng số tuổi hai mẹ con là 28 + 7 = 35 tuổi."
+   ],
+   [
+    "Có 56 lít dầu đựng đều vào các can, mỗi can chứa 7 lít. Hỏi có tất cả bao nhiêu can dầu?",
+    [
+     "8",
+     "7",
+     "9",
+     "6"
+    ],
+    "Để tìm số can dầu, ta lấy tổng số lít dầu chia cho số lít ở mỗi can: 56 : 7 = 8 can."
+   ],
+   [
+    "Cần ít nhất bao nhiêu chiếc xe chở khách 45 chỗ để chở hết 90 học sinh đi tham quan?",
+    [
+     "2",
+     "3",
+     "1",
+     "4"
+    ],
+    "Ta lấy tổng số học sinh chia cho số chỗ ngồi mỗi xe: 90 : 45 = 2 xe vừa đủ."
+   ],
+   [
+    "Một quầy hàng có 65 quả cam, đã bán được 1/5 số quả cam đó. Số quả cam còn lại là:",
+    [
+     "52",
+     "13",
+     "45",
+     "50"
+    ],
+    "Số cam đã bán là 65 : 5 = 13 quả. Số cam còn lại là 65 - 13 = 52 quả."
+   ],
+   [
+    "Kết quả của phép tính 36 nhân 3 là bao nhiêu?",
+    [
+     "108",
+     "98",
+     "118",
+     "96"
+    ],
+    "Ta đặt tính nhân từ phải sang trái: 6 nhân 3 bằng 18, viết 8 nhớ 1; 3 nhân 3 bằng 9, thêm 1 bằng 10, viết 10. Kết quả là 108."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c15": [
+   [
+    "Trong một tuần, số điểm mười của lớp 3B được ghi lại như sau: Thứ Hai: 4 điểm, Thứ Ba: 6 điểm, Thứ Tư: 5 điểm, Thứ Năm: 7 điểm, Thứ Sáu: 8 điểm. Ngày nào lớp đạt nhiều điểm mười nhất?",
+    [
+     "Thứ Sáu",
+     "Thứ Hai",
+     "Thứ Ba",
+     "Thứ Năm"
+    ],
+    "So sánh các số chỉ điểm mười, ta thấy 8 là số lớn nhất, ứng với ngày Thứ Sáu."
+   ],
+   [
+    "Cho dãy số thẻ ghi các số: 10, 15, 20, 25, 30. Rút ngẫu nhiên một thẻ, khả năng rút được thẻ ghi số nhỏ hơn 35 là:",
+    [
+     "Chắc chắn",
+     "Có thể",
+     "Không thể",
+     "Không xác định"
+    ],
+    "Tất cả các thẻ trong dãy đều nhỏ hơn 35 nên việc rút được thẻ nhỏ hơn 35 là chắc chắn xảy ra."
+   ],
+   [
+    "Một cửa hàng thống kê số lượng xe đạp bán được trong ba tháng: Tháng 4 bán 112 chiếc, Tháng 5 bán 145 chiếc, Tháng 6 bán 130 chiếc. Tháng bán được ít xe đạp nhất là:",
+    [
+     "Tháng 4",
+     "Tháng 5",
+     "Tháng 6",
+     "Tháng 4 và tháng 6"
+    ],
+    "So sánh số xe của các tháng: 112 nhỏ hơn 130 và 145, vậy tháng 4 bán ít nhất."
+   ],
+   [
+    "Trong hộp có 4 bút đỏ và 4 bút xanh. Không nhìn vào hộp, lấy ra ngẫu nhiên 1 bút. Khả năng lấy được bút màu đỏ là:",
+    [
+     "Có thể",
+     "Chắc chắn",
+     "Không thể",
+     "Không thể xảy ra"
+    ],
+    "Vì trong hộp có cả bút đỏ và bút xanh nên việc lấy được bút đỏ là có thể xảy ra."
+   ],
+   [
+    "Bạn An đếm số con vật nuôi ở nhà các bạn trong xóm và ghi chép lại: Chó: 8, Mèo: 6, Gà: 12, Chim: 4. Con vật nuôi ít nhất là:",
+    [
+     "Chim",
+     "Mèo",
+     "Chó",
+     "Gà"
+    ],
+    "Số lượng chim là 4, ít nhất trong các số 8, 6, 12, 4."
+   ],
+   [
+    "Túi vải có 5 tấm thẻ ghi các số lẻ từ 1 đến 9. Rút ngẫu nhiên 1 thẻ, khả năng rút được thẻ ghi số chẵn là:",
+    [
+     "Không thể",
+     "Có thể",
+     "Chắc chắn",
+     "Đương nhiên"
+    ],
+    "Các thẻ đều là số lẻ nên không thể rút được số chẵn."
+   ],
+   [
+    "Thầy giáo tung một đồng xu nhiều lần và kiểm tra mặt xuất hiện. Việc xuất hiện mặt sấp hay mặt ngửa là:",
+    [
+     "Có thể",
+     "Chắc chắn",
+     "Không thể",
+     "Vừa chắc chắn vừa không thể"
+    ],
+    "Mỗi lần tung đồng xu đều có khả năng xuất hiện mặt sấp hoặc mặt ngửa."
+   ],
+   [
+    "Hộp kín đựng các quả bóng chỉ có màu vàng và màu trắng. Lấy ra ngẫu nhiên 1 quả bóng, việc lấy được quả bóng màu đỏ là:",
+    [
+     "Không thể",
+     "Có thể",
+     "Chắc chắn",
+     "Hơi chắc chắn"
+    ],
+    "Trong hộp hoàn toàn không có bóng màu đỏ nên việc lấy được bóng đỏ là không thể."
+   ],
+   [
+    "Lớp 3A quyên góp sách vở ủng hộ vùng lũ lụt. Tổ 1 góp 18 quyển, tổ 2 góp 22 quyển, tổ 3 góp 15 quyển, tổ 4 góp 25 quyển. Tổ góp nhiều sách nhất là:",
+    [
+     "Tổ 4",
+     "Tổ 2",
+     "Tổ 1",
+     "Tổ 3"
+    ],
+    "So sánh các số 18, 22, 15, 25 thì 25 là lớn nhất, thuộc về tổ 4."
+   ],
+   [
+    "Gieo một con xúc xắc 6 mặt, việc xuất hiện mặt có số chấm là 7 là:",
+    [
+     "Không thể",
+     "Có thể",
+     "Chắc chắn",
+     "Luôn luôn"
+    ],
+    "Xúc xắc 6 mặt chỉ có số chấm từ 1 đến 6 nên không thể xuất hiện mặt 7 chấm."
+   ],
+   [
+    "Bảng thống kê số học sinh đi các phương tiện đến trường: Đi bộ: 15 bạn, Xe đạp: 20 bạn, Ô tô: 5 bạn, Xe máy: 10 bạn. Số học sinh đi xe đạp nhiều hơn đi bộ là:",
+    [
+     "5 bạn",
+     "10 bạn",
+     "15 bạn",
+     "20 bạn"
+    ],
+    "Lấy số học sinh đi xe đạp trừ đi số học sinh đi bộ: 20 - 15 = 5 bạn."
+   ],
+   [
+    "Trong hộp có 3 viên bi xanh, 3 viên bi đỏ và 3 viên bi vàng. Lấy ra ngẫu nhiên 1 viên bi, khả năng lấy được viên bi màu vàng là:",
+    [
+     "Có thể",
+     "Chắc chắn",
+     "Không thể",
+     "Tuyệt đối"
+    ],
+    "Trong hộp có chứa bi vàng nên việc lấy được bi vàng là có thể xảy ra."
+   ],
+   [
+    "Số lượng bút màu của bạn Mai trong hộp gồm: Bút đỏ: 7 cái, Bút xanh: 9 cái, Bút vàng: 4 cái. Tổng số bút màu của Mai là:",
+    [
+     "20 cái",
+     "19 cái",
+     "21 cái",
+     "18 cái"
+    ],
+    "Tổng số bút là 7 + 9 + 4 = 20 cái bút."
+   ],
+   [
+    "Một cửa hàng bán gạo thống kê số gạo bán trong ba ngày đầu tuần: Thứ Hai bán 100 kg, Thứ Ba bán 120 kg, Thứ Tư bán 90 kg. Ngày bán được ít gạo nhất là:",
+    [
+     "Thứ Tư",
+     "Thứ Hai",
+     "Thứ Ba",
+     "Thứ Hai và thứ Tư"
+    ],
+    "So sánh 100, 120 và 90, ta thấy 90 là nhỏ nhất, ứng với ngày Thứ Tư."
+   ],
+   [
+    "Cho các thẻ số: 2, 4, 6, 8. Rút ngẫu nhiên một thẻ, việc rút được thẻ ghi số chẵn là:",
+    [
+     "Chắc chắn",
+     "Có thể",
+     "Không thể",
+     "Không rõ"
+    ],
+    "Tất cả các thẻ trong bộ đều là số chẵn nên việc rút được số chẵn là chắc chắn."
+   ],
+   [
+    "Biển báo giao thông có hình tròn, hình tam giác và hình chữ nhật. Bạn Nam đếm được: 5 hình tròn, 3 hình tam giác, 7 hình chữ nhật. Tổng số hình Nam đếm được là:",
+    [
+     "15 hình",
+     "14 hình",
+     "16 hình",
+     "13 hình"
+    ],
+    "Tổng số hình là 5 + 3 + 7 = 15 hình."
+   ],
+   [
+    "Lớp 3D bình chọn môn học yêu thích: Toán: 14 bạn, Tiếng Việt: 12 bạn, Tự nhiên và xã hội: 8 bạn, Mỹ thuật: 10 bạn. Môn học được ít bạn thích nhất là:",
+    [
+     "Tự nhiên và xã hội",
+     "Mỹ thuật",
+     "Tiếng Việt",
+     "Toán"
+    ],
+    "Số bạn thích môn Tự nhiên và xã hội là 8, là số nhỏ nhất trong bảng thống kê."
+   ],
+   [
+    "Một cửa hàng bán đồ chơi ghi lại số ô tô đồ chơi bán được trong tháng: Tuần 1: 12 chiếc, Tuần 2: 15 chiếc, Tuần 3: 10 chiếc, Tuần 4: 18 chiếc. Tuần bán được nhiều ô tô nhất hơn tuần bán ít nhất bao nhiêu chiếc?",
+    [
+     "8 chiếc",
+     "6 chiếc",
+     "10 chiếc",
+     "18 chiếc"
+    ],
+    "Tuần nhiều nhất là tuần 4 (18 chiếc), tuần ít nhất là tuần 3 (10 chiếc). Hiệu là 18 - 10 = 8 chiếc."
+   ],
+   [
+    "Bảng kiểm đếm số hoa hồng cắm vào lọ của bốn bạn như sau: Hà cắm 8 bông, Lan cắm 12 bông, Minh cắm 10 bông, Trang cắm 6 bông. Lọ hoa của bạn nào cắm ít hoa nhất?",
+    [
+     "Trang",
+     "Lan",
+     "Hà",
+     "Minh"
+    ],
+    "So sánh số hoa của các bạn: 6 < 8 < 10 < 12. Vậy lọ hoa của Trang cắm ít hoa nhất."
+   ],
+   [
+    "Trong túi kín chỉ có 10 viên bi xanh. Bạn Nam không nhìn vào túi và lấy ra 1 viên bi. Khả năng lấy được viên bi màu vàng là:",
+    [
+     "Không thể xảy ra",
+     "Có thể xảy ra",
+     "Chắc chắn xảy ra",
+     "Không xác định"
+    ],
+    "Vì trong túi chỉ có bi xanh, không có bi vàng nên việc lấy được viên bi màu vàng là không thể xảy ra."
+   ]
+  ]
+ }
+}

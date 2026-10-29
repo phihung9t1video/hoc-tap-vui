@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c3": [
+   [
+    "Cho hai góc bù nhau, trong đó một góc có số đo bằng 65°. Số đo của góc còn lại là:",
+    [
+     "115°",
+     "25°",
+     "65°",
+     "125°"
+    ],
+    "Hai góc bù nhau có tổng số đo bằng 180°. Do đó, số đo góc còn lại là 180° - 65° = 115°."
+   ],
+   [
+    "Hai góc vừa kề nhau vừa bù nhau được gọi là:",
+    [
+     "Hai góc kề bù",
+     "Hai góc đối đỉnh",
+     "Hai góc phụ nhau",
+     "Hai góc đồng vị"
+    ],
+    "Theo định nghĩa, hai góc vừa kề nhau vừa bù nhau được gọi là hai góc kề bù."
+   ],
+   [
+    "Tia Pt là tia phân giác của góc ∠mPn khi:",
+    [
+     "Tia Pt nằm giữa hai tia Pm, Pn và ∠mPt = ∠tPn",
+     "∠mPt = ∠tPn",
+     "Tia Pt nằm giữa hai tia Pm và Pn",
+     "∠mPt + ∠tPn = ∠mPn"
+    ],
+    "Tia phân giác của một góc là tia nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau."
+   ],
+   [
+    "Nếu đường thẳng c cắt hai đường thẳng a và b sao cho có một cặp góc so le trong bằng nhau thì:",
+    [
+     "Đường thẳng a song song với đường thẳng b",
+     "Đường thẳng a vuông góc với đường thẳng b",
+     "Đường thẳng a cắt đường thẳng b",
+     "Đường thẳng a trùng với đường thẳng b"
+    ],
+    "Dấu hiệu nhận biết hai đường thẳng song song: Nếu đường thẳng c cắt hai đường thẳng a và b tạo thành một cặp góc so le trong bằng nhau thì a và b song song."
+   ],
+   [
+    "Khẳng định nào sau đây diễn tả đúng về đường trung trực của một đoạn thẳng?",
+    [
+     "Là đường thẳng vuông góc với đoạn thẳng tại trung điểm của đoạn thẳng đó",
+     "Là đường thẳng đi qua trung điểm của đoạn thẳng",
+     "Là đường thẳng vuông góc với đoạn thẳng",
+     "Là đoạn thẳng vuông góc với trung điểm của đoạn thẳng"
+    ],
+    "Đường trung trực của một đoạn thẳng là đường thẳng vuông góc với đoạn thẳng đó tại trung điểm của nó."
+   ],
+   [
+    "Trong các khẳng định sau, khẳng định nào đúng?",
+    [
+     "Hai góc đối đỉnh thì bằng nhau",
+     "Hai góc bằng nhau thì đối đỉnh",
+     "Hai góc kề bù thì bằng nhau",
+     "Hai góc bằng nhau thì kề bù"
+    ],
+    "Tính chất của hai góc đối đỉnh là hai góc đối đỉnh thì bằng nhau. Chiều ngược lại không đúng."
+   ],
+   [
+    "Trong một định lí, phần kết luận (KL) là:",
+    [
+     "Tính chất mới rút ra từ giả thiết",
+     "Điều cho biết ban đầu",
+     "Các phép suy luận hình học",
+     "Hình vẽ của định lí"
+    ],
+    "Kết luận của định lí là tính chất được rút ra từ giả thiết."
+   ],
+   [
+    "Cho hai góc kề nhau ∠xOy và ∠yOz. Biết ∠xOy = 35° và ∠xOz = 80°. Số đo của góc ∠yOz là:",
+    [
+     "45°",
+     "115°",
+     "55°",
+     "35°"
+    ],
+    "Vì ∠xOy và ∠yOz kề nhau nên ∠xOy + ∠yOz = ∠xOz, suy ra ∠yOz = 80° - 35° = 45°."
+   ],
+   [
+    "Qua một điểm M nằm ngoài đường thẳng d, vẽ được bao nhiêu đường thẳng song song với d?",
+    [
+     "Chỉ có 1 đường thẳng",
+     "Có 2 đường thẳng",
+     "Có vô số đường thẳng",
+     "Không có đường thẳng nào"
+    ],
+    "Theo Tiên đề Ơ-clít, qua một điểm ở ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó."
+   ],
+   [
+    "Cho hai đường thẳng a, b song song với nhau. Nếu đường thẳng c cắt a tại A và cắt b tại B thì cặp góc đồng vị thu được sẽ:",
+    [
+     "Bằng nhau",
+     "Bù nhau",
+     "Phụ nhau",
+     "Kề bù"
+    ],
+    "Tính chất của hai đường thẳng song song: Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc đồng vị bằng nhau."
+   ],
+   [
+    "Cho góc ∠aOb = 80°. Vẽ tia Oc là tia đối của tia Oa. Số đo của góc ∠bOc là:",
+    [
+     "100°",
+     "80°",
+     "180°",
+     "20°"
+    ],
+    "Vì Oc là tia đối của Oa nên ∠aOb và ∠bOc là hai góc kề bù. Do đó ∠bOc = 180° - 80° = 100°."
+   ],
+   [
+    "Cho góc ∠xOy = 140°. Tia Oz là tia phân giác của góc ∠xOy. Số đo của góc ∠xOz là:",
+    [
+     "70°",
+     "140°",
+     "280°",
+     "40°"
+    ],
+    "Vì Oz là tia phân giác của ∠xOy nên ∠xOz = ∠xOy / 2 = 140° / 2 = 70°."
+   ],
+   [
+    "Đoạn thẳng MN có độ dài 8 cm. Đường trung trực d của MN cắt MN tại I. Độ dài đoạn thẳng MI là:",
+    [
+     "4 cm",
+     "8 cm",
+     "16 cm",
+     "2 cm"
+    ],
+    "Vì d là đường trung trực của MN tại I nên I là trung điểm của MN. Do đó MI = MN / 2 = 8 / 2 = 4 cm."
+   ],
+   [
+    "Cho hai đường thẳng a và b. Nếu đường thẳng c cắt a và b tạo thành một cặp góc trong cùng phía bù nhau thì:",
+    [
+     "a song song với b",
+     "a cắt b",
+     "a vuông góc với b",
+     "a trùng với b"
+    ],
+    "Dấu hiệu nhận biết hai đường thẳng song song: Nếu hai góc trong cùng phía bù nhau thì hai đường thẳng đó song song."
+   ],
+   [
+    "Để chứng minh định lí “Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì song song với nhau”, ta cần chứng minh dựa vào:",
+    [
+     "Cặp góc so le trong bằng nhau và bằng 90°",
+     "Hai góc kề bù bằng 180°",
+     "Cặp góc đối đỉnh bằng nhau",
+     "Hai góc phụ nhau bằng 90°"
+    ],
+    "Khi hai đường thẳng cùng vuông góc với đường thẳng thứ ba, chúng tạo ra các góc đồng vị hoặc so le trong bằng 90°, do đó hai đường thẳng đó song song."
+   ],
+   [
+    "Cho hai đường thẳng x, y song song với nhau. Đường thẳng t cắt x tại A và cắt y tại B. Biết một góc trong cùng phía tại A bằng 110°. Góc trong cùng phía với nó tại B có số đo là:",
+    [
+     "70°",
+     "110°",
+     "180°",
+     "20°"
+    ],
+    "Vì hai đường thẳng song song nên hai góc trong cùng phía bù nhau (tổng bằng 180°). Góc tại B có số đo là 180° - 110° = 70°."
+   ],
+   [
+    "Cho hai góc kề bù ∠xOy và ∠yOz, biết ∠xOy = 3 * ∠yOz. Số đo của góc ∠yOz là:",
+    [
+     "45°",
+     "135°",
+     "60°",
+     "30°"
+    ],
+    "Vì ∠xOy và ∠yOz kề bù nên ∠xOy + ∠yOz = 180°. Thay ∠xOy = 3 * ∠yOz ta có 4 * ∠yOz = 180°, suy ra ∠yOz = 45°."
+   ],
+   [
+    "Cho tia Ot nằm trong góc ∠xOy sao cho ∠xOt = 30° và ∠yOt = 30°. Khẳng định nào sau đây đúng?",
+    [
+     "Ot là tia phân giác của góc ∠xOy",
+     "Ot không thể là tia phân giác của góc ∠xOy",
+     "Góc ∠xOy là góc vuông",
+     "Góc ∠xOy là góc tù"
+    ],
+    "Vì Ot nằm trong góc ∠xOy và tạo với hai cạnh Ox, Oy hai góc bằng nhau (cùng bằng 30°) nên Ot là tia phân giác của ∠xOy."
+   ],
+   [
+    "Cho ba đường thẳng d1, d2, d3. Biết d1 vuông góc với d2 và d2 vuông góc với d3. Mối quan hệ giữa d1 và d3 là:",
+    [
+     "d1 song song với d3",
+     "d1 vuông góc với d3",
+     "d1 cắt d3 nhưng không vuông góc",
+     "d1 trùng với d3"
+    ],
+    "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì song song với nhau."
+   ],
+   [
+    "Cho đường thẳng c cắt hai đường thẳng a, b song song. Biết tổng số đo của hai góc so le trong bằng 160°. Số đo của mỗi góc so le trong đó là:",
+    [
+     "80°",
+     "160°",
+     "100°",
+     "40°"
+    ],
+    "Khi a // b, hai góc so le trong bằng nhau. Do tổng số đo bằng 160° nên mỗi góc có số đo là 160° / 2 = 80°."
+   ],
+   [
+    "Cho hai góc ∠xOy và ∠zOt là hai góc đối đỉnh. Biết ∠xOy = 60°, số đo của góc ∠zOt là bao nhiêu?",
+    [
+     "60°",
+     "120°",
+     "30°",
+     "180°"
+    ],
+    "Hai góc đối đỉnh thì bằng nhau nên ∠zOt = ∠xOy = 60°."
+   ],
+   [
+    "Hình gồm hai góc có một cạnh chung và hai cạnh còn lại là hai tia đối nhau được gọi là:",
+    [
+     "Hai góc kề bù",
+     "Hai góc đối đỉnh",
+     "Hai góc đồng vị",
+     "Hai góc so le trong"
+    ],
+    "Theo định nghĩa, hai góc kề bù là hai góc vừa kề nhau vừa bù nhau (có một cạnh chung, hai cạnh còn lại là hai tia đối nhau)."
+   ],
+   [
+    "Cho hai đường thẳng a và b song song với nhau. Đường thẳng c cắt a tại A và cắt b tại B. Nếu một góc so le trong bằng 75° thì góc so le trong còn lại có số đo là:",
+    [
+     "75°",
+     "105°",
+     "150°",
+     "180°"
+    ],
+    "Vì a // b nên hai góc so le trong bằng nhau, do đó góc so le trong còn lại cũng bằng 75°."
+   ],
+   [
+    "Nếu tia Oc là tia phân giác của góc ∠aOb có số đo 120° thì số đo của góc ∠aOc bằng:",
+    [
+     "60°",
+     "120°",
+     "240°",
+     "30°"
+    ],
+    "Tia phân giác chia góc ∠aOb thành hai góc bằng nhau nên ∠aOc = ∠aOb / 2 = 120° / 2 = 60°."
+   ],
+   [
+    "Hai góc bù nhau có tổng số đo bằng bao nhiêu?",
+    [
+     "180°",
+     "90°",
+     "360°",
+     "100°"
+    ],
+    "Theo định nghĩa, hai góc bù nhau là hai góc có tổng số đo bằng 180°."
+   ],
+   [
+    "Số đường trung trực của một đoạn thẳng cho trước là:",
+    [
+     "1",
+     "2",
+     "3",
+     "Vô số"
+    ],
+    "Mỗi đoạn thẳng chỉ có duy nhất một đường trung trực đi qua trung điểm và vuông góc với đoạn thẳng đó."
+   ],
+   [
+    "Trong các phát biểu sau về Tiên đề Euclid, phát biểu nào đúng?",
+    [
+     "Qua một điểm nằm ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó",
+     "Qua một điểm nằm ngoài một đường thẳng có vô số đường thẳng song song với đường thẳng đó",
+     "Có ít nhất hai đường thẳng đi qua một điểm và song song với đường thẳng cho trước",
+     "Đường thẳng song song với đường thẳng cho trước luôn đi qua trung điểm của đoạn thẳng"
+    ],
+    "Nội dung tiên đề Euclid khẳng định qua một điểm nằm ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó."
+   ],
+   [
+    "Định lí “Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc đồng vị bằng nhau” có kết luận là:",
+    [
+     "Hai góc đồng vị bằng nhau",
+     "Một đường thẳng cắt hai đường thẳng song song",
+     "Hai đường thẳng đó song song",
+     "Hai góc so le trong bằng nhau"
+    ],
+    "Trong câu lệnh định lí “Nếu... thì...”, phần nằm sau từ “thì” chính là kết luận."
+   ],
+   [
+    "Cho đường thẳng d cắt đường thẳng m và n. Biết có một cặp góc đồng vị bằng nhau và bằng 45°. Mối quan hệ giữa m và n là:",
+    [
+     "m // n",
+     "m vuông góc với n",
+     "m trùng với n",
+     "m cắt n tại góc 45°"
+    ],
+    "Dấu hiệu nhận biết hai đường thẳng song song: Nếu đường thẳng cắt hai đường thẳng tạo thành một cặp góc đồng vị bằng nhau thì hai đường thẳng đó song song."
+   ],
+   [
+    "Cho góc ∠mOn = 80°. Lấy tia Ot sao cho góc ∠mOt = 40° và ∠tOn = 40°. Chọn phát biểu đúng.",
+    [
+     "Tia Ot là tia phân giác của góc ∠mOn",
+     "Tia Ot là tia đối của tia Om",
+     "Tia Om là tia phân giác của góc ∠tOn",
+     "Tia On là tia phân giác của góc ∠mOt"
+    ],
+    "Vì Ot nằm giữa Om, On và ∠mOt = ∠tOn = 40° nên Ot là tia phân giác của góc ∠mOn."
+   ],
+   [
+    "Cho đường thẳng c cắt hai đường thẳng a và b. Biết một góc so le trong bằng 50° và góc so le trong còn lại bằng 60°. Chọn kết luận đúng.",
+    [
+     "a và b không song song với nhau",
+     "a // b",
+     "a vuông góc với b",
+     "a trùng với b"
+    ],
+    "Nếu a // b thì hai góc so le trong phải bằng nhau. Do 50° ≠ 60° nên a và b cắt nhau (không song song)."
+   ],
+   [
+    "Cho hai góc kề bù ∠xOy và ∠yOz. Biết ∠xOy = 130°. Số đo góc ∠yOz là:",
+    [
+     "50°",
+     "130°",
+     "60°",
+     "180°"
+    ],
+    "Vì hai góc kề bù nên ∠xOy + ∠yOz = 180°, suy ra ∠yOz = 180° - 130° = 50°."
+   ],
+   [
+    "Nếu đường thẳng a vuông góc với đường thẳng b, đường thẳng b lại vuông góc với đường thẳng c thì mối quan hệ giữa a và c là:",
+    [
+     "a // c hoặc a trùng c",
+     "a vuông góc với c",
+     "a cắt c tại một góc nhọn",
+     "a trùng với b"
+    ],
+    "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì song song với nhau (trường hợp tổng quát là song song hoặc trùng nhau)."
+   ],
+   [
+    "Cho đoạn thẳng CD dài 10 cm. Đường trung trực d của CD cắt CD tại H. Độ dài đoạn CH là:",
+    [
+     "5 cm",
+     "10 cm",
+     "20 cm",
+     "2,5 cm"
+    ],
+    "Đường trung trực cắt đoạn thẳng tại trung điểm của nó, nên H là trung điểm của CD, CH = CD / 2 = 5 cm."
+   ],
+   [
+    "Cho hai đường thẳng a và b song song. Một đường thẳng c cắt a và b. Nếu số đo của một góc đồng vị là 110° thì số đo góc trong cùng phía với góc đồng vị đó là:",
+    [
+     "70°",
+     "110°",
+     "180°",
+     "90°"
+    ],
+    "Góc so le trong bằng góc đồng vị = 110°. Góc trong cùng phía bù với góc so le trong nên có số đo = 180° - 110° = 70°."
+   ],
+   [
+    "Tính góc ∠xOy khi biết tia Oy là tia phân giác của ∠xOz và góc ∠xOz = 150°.",
+    [
+     "75°",
+     "300°",
+     "150°",
+     "50°"
+    ],
+    "Tia Oy là tia phân giác của ∠xOz nên ∠xOy = ∠xOz / 2 = 150° / 2 = 75°."
+   ],
+   [
+    "Một học sinh chứng minh định lí bằng cách đi từ giả thiết, dùng các suy luận logic để đến kết luận. Quá trình này gọi là:",
+    [
+     "Chứng minh định lí",
+     "Phát biểu định lí",
+     "Tiên đề định lí",
+     "Vẽ hình định lí"
+    ],
+    "Chứng minh định lí là dùng suy luận để khẳng định kết luận đúng từ giả thiết đã cho."
+   ],
+   [
+    "Cho góc ∠xOy = 70°. Vẽ góc ∠yOz kề bù với ∠xOy. Vẽ tia Ot là tia phân giác của góc ∠yOz. Số đo góc ∠yOt là:",
+    [
+     "55°",
+     "110°",
+     "35°",
+     "70°"
+    ],
+    "Ta có ∠yOz = 180° - 70° = 110°. Do Ot là phân giác của ∠yOz nên ∠yOt = 110° / 2 = 55°."
+   ],
+   [
+    "Cho hai đường thẳng a // b. Đường thẳng c cắt a tại A và cắt b tại B. Tổng số đo của hai góc trong cùng phía tạo thành bằng:",
+    [
+     "180°",
+     "90°",
+     "360°",
+     "100°"
+    ],
+    "Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc trong cùng phía bù nhau (tổng số đo bằng 180°)."
+   ],
+   [
+    "Hai đường thẳng m và n cắt nhau tại điểm A tạo thành 4 góc. Biết tổng số đo của 3 trong 4 góc đó bằng 280°. Số đo góc còn lại là:",
+    [
+     "80°",
+     "100°",
+     "40°",
+     "120°"
+    ],
+    "Tổng 4 góc tạo thành tại đỉnh A bằng 360°. Do đó góc còn lại có số đo là 360° - 280° = 80°."
+   ]
+  ]
+ }
+}

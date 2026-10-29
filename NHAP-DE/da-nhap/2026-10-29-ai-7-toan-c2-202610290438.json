@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c2": [
+   [
+    "Số đối của số thực -2,5 là:",
+    [
+     "2,5",
+     "-2,5",
+     "0",
+     "1/2,5"
+    ],
+    "Số đối của một số thực a là -a, do đó số đối của -2,5 là 2,5."
+   ],
+   [
+    "Căn bậc hai số học của 81 là:",
+    [
+     "9",
+     "-9",
+     "81",
+     "18"
+    ],
+    "Căn bậc hai số học của một số không âm a là số không âm x sao cho x² = a. Vì 9² = 81 và 9 > 0 nên căn bậc hai số học của 81 là 9."
+   ],
+   [
+    "Trong các số sau, số nào là số hữu tỉ âm?",
+    [
+     "-3/4",
+     "0",
+     "√2",
+     "5/2"
+    ],
+    "Số -3/4 là phân số có giá trị âm nên đây là số hữu tỉ âm."
+   ],
+   [
+    "Điểm biểu diễn số thực -1,5 trên trục số nằm ở vị trí nào?",
+    [
+     "Bên trái gốc O và cách O một khoảng 1,5 đơn vị",
+     "Bên phải gốc O và cách O một khoảng 1,5 đơn vị",
+     "Trùng với gốc O",
+     "Bên phải gốc O và cách O một khoảng 2,5 đơn vị"
+    ],
+    "Số thực âm được biểu diễn bởi điểm nằm bên trái gốc O và khoảng cách từ gốc O đến điểm đó bằng giá trị tuyệt đối của số đó."
+   ],
+   [
+    "Kết quả của phép tính (-0,5)³ là:",
+    [
+     "-0,125",
+     "0,125",
+     "-1,5",
+     "1,5"
+    ],
+    "Ta có (-0,5)³ = (-0,5) × (-0,5) × (-0,5) = -0,125."
+   ],
+   [
+    "Thứ tự sắp xếp nào sau đây đúng với các số -2; 0; 1,5; -3,2 theo thứ tự tăng dần?",
+    [
+     "-3,2; -2; 0; 1,5",
+     "1,5; 0; -2; -3,2",
+     "-2; -3,2; 0; 1,5",
+     "0; -2; 1,5; -3,2"
+    ],
+    "So sánh các số âm trước (số nào có phần nguyên lớn hơn thì nhỏ hơn), ta được -3,2 < -2 < 0 < 1,5."
+   ],
+   [
+    "Giá trị của biểu thức A = √16 + √9 là:",
+    [
+     "7",
+     "5",
+     "25",
+     "1"
+    ],
+    "Ta có √16 = 4 và √9 = 3, suy ra A = 4 + 3 = 7."
+   ],
+   [
+    "Kết quả của phép tính 2⁴ × 2³ dưới dạng một lũy thừa là:",
+    [
+     "2⁷",
+     "2¹²",
+     "4⁷",
+     "2"
+    ],
+    "Khi nhân hai lũy thừa cùng cơ số, ta giữ nguyên cơ số và cộng các số mũ: 2⁴ × 2³ = 2^(4+3) = 2⁷."
+   ],
+   [
+    "Số thực x nào thỏa mãn x² = 16?",
+    [
+     "x = 4 hoặc x = -4",
+     "x = 4",
+     "x = -4",
+     "x = 8"
+    ],
+    "Vì 4² = 16 và (-4)² = 16 nên có hai số thực x thỏa mãn là 4 và -4."
+   ],
+   [
+    "Làm tròn số thực 12,3456 đến hàng phần trăm được kết quả là:",
+    [
+     "12,35",
+     "12,34",
+     "12,4",
+     "12,346"
+    ],
+    "Chữ số sau hàng phần trăm là 5 (ở hàng phần nghìn), ta cộng 1 vào chữ số hàng phần trăm và bỏ các chữ số sau nên được 12,35."
+   ],
+   [
+    "Tìm số thực x, biết: x + 3/4 = 5/4",
+    [
+     "x = 1/2",
+     "x = 2",
+     "x = 1",
+     "x = -1/2"
+    ],
+    "Ta có x = 5/4 - 3/4 = 2/4 = 1/2."
+   ],
+   [
+    "Cho biết x và y là hai đại lượng tỉ lệ thuận. Khi x = 3 thì y = 12. Hệ số tỉ lệ k của y đối với x là:",
+    [
+     "4",
+     "1/4",
+     "36",
+     "9"
+    ],
+    "Hệ số tỉ lệ k = y / x = 12 / 3 = 4."
+   ],
+   [
+    "Kết quả của phép tính |-7,5| - |2,5| là:",
+    [
+     "5",
+     "10",
+     "-5",
+     "-10"
+    ],
+    "Ta có |-7,5| = 7,5 và |2,5| = 2,5, do đó kết quả là 7,5 - 2,5 = 5."
+   ],
+   [
+    "Trong các số sau, số nào là số vô tỉ?",
+    [
+     "√5",
+     "3,14",
+     "2/3",
+     "√9"
+    ],
+    "Số √5 không thể viết dưới dạng phân số tối giản a/b với a, b là các số nguyên nên đây là số vô tỉ."
+   ],
+   [
+    "Giá trị của biểu thức B = 2 × √25 - 3² là:",
+    [
+     "1",
+     "19",
+     "-1",
+     "10"
+    ],
+    "Ta tính √25 = 5 và 3² = 9, thay vào biểu thức được B = 2 × 5 - 9 = 10 - 9 = 1."
+   ],
+   [
+    "Tìm x, biết: 2x - 1 = 3",
+    [
+     "x = 2",
+     "x = 1",
+     "x = 4",
+     "x = -2"
+    ],
+    "Ta có 2x = 3 + 1 = 4, suy ra x = 4 : 2 = 2."
+   ],
+   [
+    "Tính giá trị biểu thức M = (-1/2) + 3/4 × 2/3",
+    [
+     "0",
+     "1/2",
+     "-1/2",
+     "1"
+    ],
+    "Thực hiện phép nhân trước: 3/4 × 2/3 = 1/2, sau đó tính cộng: (-1/2) + 1/2 = 0."
+   ],
+   [
+    "Tìm x, biết: √x = 7",
+    [
+     "x = 49",
+     "x = 14",
+     "x = √7",
+     "x = -49"
+    ],
+    "Vì căn bậc hai số học của 49 là 7 nên x = 7² = 49."
+   ],
+   [
+    "Một hình vuông có diện tích bằng 36 cm². Độ dài cạnh của hình vuông đó là:",
+    [
+     "6 cm",
+     "18 cm",
+     "9 cm",
+     "12 cm"
+    ],
+    "Độ dài cạnh hình vuông là căn bậc hai số học của diện tích, tức là √36 = 6 cm."
+   ],
+   [
+    "Tìm giá trị lớn nhất của biểu thức P = -|x - 2| + 5",
+    [
+     "5",
+     "2",
+     "-2",
+     "0"
+    ],
+    "Vì |x - 2| >= 0 với mọi x, nên -|x - 2| <= 0. Do đó P <= 5, giá trị lớn nhất bằng 5 khi x = 2."
+   ],
+   [
+    "Khẳng định nào sau đây là đúng về tập hợp các số thực R?",
+    [
+     "Tập hợp số thực R bao gồm cả số hữu tỉ và số vô tỉ",
+     "Số thực chỉ bao gồm các số nguyên và số phân số",
+     "Số vô tỉ không phải là số thực",
+     "Mọi số thực đều viết được dưới dạng phân số a/b với a, b thuộc Z, b khác 0"
+    ],
+    "Tập hợp số thực R bao gồm hai bộ phận chính là tập hợp các số hữu tỉ Q và tập hợp các số vô tỉ I."
+   ],
+   [
+    "Số nào sau đây là số đối của số thực √5?",
+    [
+     "-√5",
+     "1/√5",
+     "5",
+     "-5"
+    ],
+    "Số đối của một số thực a là -a, do đó số đối của √5 là -√5."
+   ],
+   [
+    "Giá trị tuyệt đối của số thực -√3 là:",
+    [
+     "√3",
+     "-√3",
+     "3",
+     "-3"
+    ],
+    "Giá trị tuyệt đối của một số luôn là số không âm. Vì vậy |-√3| = √3."
+   ],
+   [
+    "Kí hiệu nào sau đây biểu thị tập hợp các số thực?",
+    [
+     "R",
+     "Q",
+     "Z",
+     "I"
+    ],
+    "Tập hợp các số thực được kí hiệu là chữ cái R."
+   ],
+   [
+    "Căn bậc hai số học của 49 là:",
+    [
+     "7",
+     "-7",
+     "7 và -7",
+     "49"
+    ],
+    "Căn bậc hai số học của số a không âm là số x không âm sao cho x² = a. Do 7² = 49 và 7 > 0 nên √49 = 7."
+   ],
+   [
+    "Biết √a = 9, giá trị của a là:",
+    [
+     "81",
+     "3",
+     "-3",
+     "18"
+    ],
+    "Từ √a = 9 ta suy ra a = 9² = 81."
+   ],
+   [
+    "Trong các số sau: √2; 0; -3,5; 4/7, số nào là số vô tỉ?",
+    [
+     "√2",
+     "0",
+     "-3,5",
+     "4/7"
+    ],
+    "Số √2 là số thập phân vô hạn không tuần hoàn nên là số vô tỉ."
+   ],
+   [
+    "So sánh hai số thực a = 3,14159... và b = 3,14259...",
+    [
+     "a < b",
+     "a > b",
+     "a = b",
+     "Không so sánh được"
+    ],
+    "So sánh từng hàng từ trái sang phải, ở hàng phần nghìn ta có 1 < 2 nên a < b."
+   ],
+   [
+    "Kết quả của phép tính | -4,2 | + | 3,8 | là:",
+    [
+     "8",
+     "0,4",
+     "-0,4",
+     "-8"
+    ],
+    "|-4,2| + |3,8| = 4,2 + 3,8 = 8."
+   ],
+   [
+    "Điểm nằm trên trục số biểu thị số -√2 nằm ở đâu so với gốc O?",
+    [
+     "Nằm bên trái gốc O",
+     "Nằm bên phải gốc O",
+     "Trùng với gốc O",
+     "Nằm trên gốc O 2 đơn vị"
+    ],
+    "Vì -√2 là số thực âm nên điểm biểu diễn số -√2 nằm bên trái gốc O trên trục số."
+   ],
+   [
+    "Cho x là một số thực thỏa mãn |x| = √7. Giá trị của x là:",
+    [
+     "√7 hoặc -√7",
+     "√7",
+     "-√7",
+     "7 hoặc -7"
+    ],
+    "Phương trình |x| = a (với a > 0) có hai nghiệm là x = a hoặc x = -a. Do đó x = √7 hoặc x = -√7."
+   ],
+   [
+    "Làm tròn số thập phân vô hạn không tuần hoàn 2,23606... đến hàng phần nghìn ta được:",
+    [
+     "2,236",
+     "2,237",
+     "2,24",
+     "2,23"
+    ],
+    "Chữ số sau hàng phần nghìn là 0 (< 5) nên ta giữ nguyên chữ số hàng phần nghìn: 2,236."
+   ],
+   [
+    "Tính giá trị của biểu thức P = √64 - |-5|",
+    [
+     "3",
+     "13",
+     "-3",
+     "59"
+    ],
+    "Ta có √64 = 8 và |-5| = 5. Do đó P = 8 - 5 = 3."
+   ],
+   [
+    "Một tấm bạt hình vuông có diện tích 5 m². Độ dài cạnh của tấm bạt đó là:",
+    [
+     "√5 m",
+     "2,5 m",
+     "25 m",
+     "√2,5 m"
+    ],
+    "Độ dài cạnh hình vuông có diện tích S là √S. Vậy cạnh tấm bạt là √5 m."
+   ],
+   [
+    "Khẳng định nào sau đây là ĐÚNG?",
+    [
+     "Nếu a thuộc N thì a thuộc R",
+     "Nếu a thuộc R thì a thuộc Q",
+     "Nếu a thuộc R thì a thuộc I",
+     "Số 0 không phải là số thực"
+    ],
+    "Tập số tự nhiên N là tập con của Q, mà Q là tập con của R nên mọi số thuộc N đều thuộc R."
+   ],
+   [
+    "Sắp xếp các số thực -√5; 0; 2,1; -2 theo thứ tự giảm dần:",
+    [
+     "2,1; 0; -2; -√5",
+     "-√5; -2; 0; 2,1",
+     "2,1; 0; -√5; -2",
+     "0; 2,1; -2; -√5"
+    ],
+    "Ta có √5 xấp xỉ 2,236 nên -√5 < -2 < 0 < 2,1. Thứ tự giảm dần là 2,1; 0; -2; -√5."
+   ],
+   [
+    "Kết quả của phép tính | -3,5 | × √4 - 1,2 là:",
+    [
+     "5,8",
+     "5,88",
+     "-8,2",
+     "1,8"
+    ],
+    "Ta có |-3,5| = 3,5 và √4 = 2. Phép tính trở thành 3,5 × 2 - 1,2 = 7 - 1,2 = 5,8."
+   ],
+   [
+    "Tìm số thực x không âm thỏa mãn x² - 11 = 0.",
+    [
+     "x = √11",
+     "x = 11",
+     "x = -√11",
+     "x = 121"
+    ],
+    "x² - 11 = 0 hay x² = 11. Do x không âm nên x = √11."
+   ],
+   [
+    "Độ dài bán kính của một hình tròn có diện tích bằng 9π cm² là:",
+    [
+     "3 cm",
+     "9 cm",
+     "4,5 cm",
+     "√3 cm"
+    ],
+    "Diện tích hình tròn S = π × r² = 9π suy ra r² = 9. Do bán kính r > 0 nên r = √9 = 3 cm."
+   ],
+   [
+    "Cho biểu thức H = 10 - √(x + 1). Giá trị lớn nhất của H là:",
+    [
+     "10",
+     "9",
+     "11",
+     "Không có giá trị lớn nhất"
+    ],
+    "Vì √(x + 1) ≥ 0 với mọi x ≥ -1 nên -√(x + 1) ≤ 0. Do đó H = 10 - √(x + 1) ≤ 10. Dấu '=' xảy ra khi x = -1."
+   ]
+  ]
+ }
+}

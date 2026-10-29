@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c3": [
+   [
+    "Hình nào dưới đây có 4 góc vuông và 2 cặp cạnh đối diện bằng nhau?",
+    [
+     "Hình chữ nhật",
+     "Hình tam giác",
+     "Hình tròn",
+     "Hình tứ giác bất kỳ"
+    ],
+    "Hình chữ nhật có 4 góc vuông và có các cặp cạnh đối diện bằng nhau."
+   ],
+   [
+    "Khối trụ có đặc điểm nào dưới đây?",
+    [
+     "Có 2 mặt đáy là hình tròn",
+     "Có 6 mặt đều là hình vuông",
+     "Có 8 đỉnh và 12 cạnh",
+     "Có 1 đỉnh nhọn ở trên cùng"
+    ],
+    "Khối trụ gồm có 2 mặt đáy là hai hình tròn bằng nhau."
+   ],
+   [
+    "Trong một hình tròn, độ dài đường kính gấp mấy lần độ dài bán kính?",
+    [
+     "2 lần",
+     "3 lần",
+     "4 lần",
+     "1,5 lần"
+    ],
+    "Đường kính của một hình tròn luôn dài gấp 2 lần bán kính của hình tròn đó."
+   ],
+   [
+    "Khối cầu có đặc điểm nào sau đây?",
+    [
+     "Lăn được về mọi phía",
+     "Có 6 mặt phẳng",
+     "Có 8 đỉnh",
+     "Chỉ lăn được về một hướng"
+    ],
+    "Khối cầu có bề mặt cong hoàn toàn nên có thể lăn được về mọi phía."
+   ],
+   [
+    "Một hình chữ nhật có chiều dài 12 cm, chiều rộng 8 cm. Chu vi của hình chữ nhật đó là:",
+    [
+     "40 cm",
+     "20 cm",
+     "96 cm",
+     "24 cm"
+    ],
+    "Chu vi hình chữ nhật bằng (12 + 8) × 2 = 40 cm."
+   ],
+   [
+    "Một hình vuông có cạnh dài 9 cm. Chu vi của hình vuông đó là:",
+    [
+     "36 cm",
+     "18 cm",
+     "81 cm",
+     "27 cm"
+    ],
+    "Chu vi hình vuông bằng độ dài một cạnh nhân với 4: 9 × 4 = 36 cm."
+   ],
+   [
+    "Đoạn thẳng MN dài 18 cm. Điểm K là trung điểm của đoạn thẳng MN. Độ dài đoạn thẳng KN là:",
+    [
+     "9 cm",
+     "36 cm",
+     "8 cm",
+     "6 cm"
+    ],
+    "Vì K là trung điểm của MN nên KN = 18 : 2 = 9 cm."
+   ],
+   [
+    "Khối hộp chữ nhật có tất cả bao nhiêu cạnh?",
+    [
+     "12 cạnh",
+     "6 cạnh",
+     "8 cạnh",
+     "10 cạnh"
+    ],
+    "Khối hộp chữ nhật có 6 mặt, 8 đỉnh và 12 cạnh."
+   ],
+   [
+    "Cho ba điểm I, K, H thẳng hàng theo thứ tự đó. Biết IK = 5 cm và KH = 5 cm. Khẳng định nào dưới đây là đúng?",
+    [
+     "K là trung điểm của đoạn thẳng IH",
+     "I là trung điểm của đoạn thẳng KH",
+     "H là trung điểm của đoạn thẳng IK",
+     "K không nằm giữa I và H"
+    ],
+    "Vì K nằm giữa I, H và IK = KH = 5 cm nên K là trung điểm của đoạn thẳng IH."
+   ],
+   [
+    "Chiếc lon sữa bò quen thuộc thường có dạng khối hình nào?",
+    [
+     "Khối trụ",
+     "Khối cầu",
+     "Khối lập phương",
+     "Khối hộp chữ nhật"
+    ],
+    "Vỏ lon sữa bò có hai đáy hình tròn và mặt xung quanh cong, đó là dạng khối trụ."
+   ],
+   [
+    "Hình tam giác ABC có độ dài ba cạnh lần lượt là 6 cm, 8 cm và 10 cm. Chu vi của hình tam giác ABC là:",
+    [
+     "24 cm",
+     "48 cm",
+     "14 cm",
+     "18 cm"
+    ],
+    "Chu vi hình tam giác bằng tổng độ dài ba cạnh: 6 + 8 + 10 = 24 cm."
+   ],
+   [
+    "Quả bóng đá dùng trong thi đấu thường có dạng khối hình nào?",
+    [
+     "Khối cầu",
+     "Khối trụ",
+     "Khối lập phương",
+     "Khối nón"
+    ],
+    "Quả bóng đá tròn và lăn được mọi hướng nên có dạng khối cầu."
+   ],
+   [
+    "Cho đoạn thẳng PQ dài 16 cm. Điểm E nằm giữa P và Q sao cho PE = 8 cm. Nhận xét nào sau đây đúng?",
+    [
+     "E là trung điểm của đoạn thẳng PQ",
+     "E không phải là điểm nằm giữa P và Q",
+     "EQ dài 16 cm",
+     "PE dài gấp đôi PQ"
+    ],
+    "Vì EQ = 16 - 8 = 8 cm, suy ra PE = EQ = 8 cm nên E là trung điểm của PQ."
+   ],
+   [
+    "Bác An dùng một sợi dây thép dài 28 cm để uốn thành một hình vuông. Độ dài cạnh hình vuông đó là:",
+    [
+     "7 cm",
+     "14 cm",
+     "8 cm",
+     "112 cm"
+    ],
+    "Độ dài sợi dây thép chính là chu vi hình vuông. Cạnh hình vuông là: 28 : 4 = 7 cm."
+   ],
+   [
+    "Một hình tròn có bán kính OM = 7 cm. Độ dài đường kính của hình tròn đó là:",
+    [
+     "14 cm",
+     "7 cm",
+     "21 cm",
+     "28 cm"
+    ],
+    "Đường kính gấp đôi bán kính nên độ dài đường kính là: 7 × 2 = 14 cm."
+   ],
+   [
+    "Bạn Bình xếp 8 khối lập phương nhỏ bằng nhau thành một khối lập phương lớn. Hỏi khối lập phương lớn đó có bao nhiêu đỉnh?",
+    [
+     "8 đỉnh",
+     "12 đỉnh",
+     "16 đỉnh",
+     "24 đỉnh"
+    ],
+    "Mọi khối lập phương dù lớn hay nhỏ đều luôn có 8 đỉnh."
+   ],
+   [
+    "Một khung bức tranh hình chữ nhật có chu vi là 30 cm, chiều rộng bằng 6 cm. Chiều dài của khung bức tranh đó là:",
+    [
+     "9 cm",
+     "24 cm",
+     "12 cm",
+     "18 cm"
+    ],
+    "Nửa chu vi hình chữ nhật là 30 : 2 = 15 cm. Chiều dài là 15 - 6 = 9 cm."
+   ],
+   [
+    "Hình nào dưới đây KHÔNG có góc vuông?",
+    [
+     "Hình tròn",
+     "Hình chữ nhật",
+     "Hình vuông",
+     "Hình tam giác vuông"
+    ],
+    "Hình tròn được tạo bởi đường cong kín nên không có đỉnh và không có góc vuông."
+   ],
+   [
+    "Một hình tam giác có 3 cạnh bằng nhau, chu vi bằng 27 cm. Độ dài mỗi cạnh của hình tam giác đó là:",
+    [
+     "9 cm",
+     "8 cm",
+     "7 cm",
+     "6 cm"
+    ],
+    "Độ dài mỗi cạnh của hình tam giác là: 27 : 3 = 9 cm."
+   ],
+   [
+    "Hộp bánh quy của mẹ có dạng khối hộp chữ nhật. Mẹ muốn dán nơ trang trí ở tất cả các đỉnh của hộp bánh. Mẹ cần chuẩn bị bao nhiêu chiếc nơ?",
+    [
+     "8 chiếc nơ",
+     "6 chiếc nơ",
+     "12 chiếc nơ",
+     "4 chiếc nơ"
+    ],
+    "Khối hộp chữ nhật có 8 đỉnh nên mẹ cần chuẩn bị 8 chiếc nơ."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c9": [
+   [
+    "Đơn vị Xăng-ti-mét vuông được viết tắt là gì?",
+    [
+     "cm²",
+     "cm",
+     "m²",
+     "mm²"
+    ],
+    "Xăng-ti-mét vuông được viết tắt là cm²."
+   ],
+   [
+    "Muốn tính chu vi của một hình tam giác, ta làm như thế nào?",
+    [
+     "Tính tổng độ dài các cạnh của hình tam giác đó",
+     "Lấy độ dài một cạnh nhân với 3",
+     "Lấy chiều dài cộng chiều rộng rồi nhân 2",
+     "Lấy độ dài các cạnh nhân với nhau"
+    ],
+    "Chu vi hình tam giác bằng tổng độ dài các cạnh của hình tam giác đó."
+   ],
+   [
+    "Một diện tích bằng bao nhiêu centimet vuông nếu nó gồm 4 ô vuông, mỗi ô vuông có diện tích 1 cm²?",
+    [
+     "4 cm²",
+     "1 cm²",
+     "8 cm²",
+     "16 cm²"
+    ],
+    "Diện tích hình đó là 1 x 4 = 4 cm²."
+   ],
+   [
+    "Hình nào sau đây có chu vi bằng tổng độ dài bốn cạnh của nó?",
+    [
+     "Hình tứ giác",
+     "Hình tam giác",
+     "Hình tròn",
+     "Hình cầu"
+    ],
+    "Chu vi của hình tứ giác là tổng độ dài bốn cạnh của hình đó."
+   ],
+   [
+    "Biết diện tích một ô vuông nhỏ là 1 cm². Hình A gồm 6 ô vuông nhỏ như thế. Diện tích hình A là:",
+    [
+     "6 cm²",
+     "12 cm²",
+     "5 cm²",
+     "36 cm²"
+    ],
+    "Diện tích hình A là 1 x 6 = 6 cm²."
+   ],
+   [
+    "Trong các đơn vị sau, đơn vị nào dùng để đo chu vi?",
+    [
+     "cm",
+     "cm²",
+     "m²",
+     "ki-lô-gam"
+    ],
+    "Chu vi là độ dài nên dùng đơn vị độ dài như cm, m, mm..."
+   ],
+   [
+    "Để tính diện tích hình chữ nhật, ta lấy:",
+    [
+     "Chiều dài nhân với chiều rộng (cùng đơn vị đo)",
+     "Chiều dài cộng chiều rộng rồi nhân 2",
+     "Chiều dài nhân 4",
+     "Chiều dài cộng chiều rộng"
+    ],
+    "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng (cùng đơn vị đo)."
+   ],
+   [
+    "Một hình tứ giác có độ dài các cạnh lần lượt là 7 cm, 8 cm, 10 cm và 5 cm. Chu vi của hình tứ giác đó là:",
+    [
+     "30 cm",
+     "30 cm²",
+     "20 cm",
+     "15 cm"
+    ],
+    "Chu vi hình tứ giác là 7 + 8 + 10 + 5 = 30 cm."
+   ],
+   [
+    "Một chiếc khăn quàng đỏ hình tam giác có độ dài ba cạnh đều bằng 30 cm. Chu vi của chiếc khăn đó là:",
+    [
+     "90 cm",
+     "60 cm",
+     "30 cm",
+     "90 cm²"
+    ],
+    "Chu vi chiếc khăn là 30 + 30 + 30 = 90 cm (hoặc 30 x 3 = 90 cm)."
+   ],
+   [
+    "Khung của một bức tranh hình chữ nhật có chiều dài 15 cm và chiều rộng 9 cm. Chu vi khung bức tranh đó là:",
+    [
+     "48 cm",
+     "24 cm",
+     "135 cm",
+     "48 cm²"
+    ],
+    "Chu vi khung bức tranh là (15 + 9) x 2 = 48 cm."
+   ],
+   [
+    "Một nhãn vở hình chữ nhật có chiều dài 9 cm, chiều rộng 5 cm. Diện tích của nhãn vở đó là:",
+    [
+     "45 cm²",
+     "28 cm²",
+     "14 cm²",
+     "45 cm"
+    ],
+    "Diện tích nhãn vở là 9 x 5 = 45 cm²."
+   ],
+   [
+    "Mặt một con tem hình vuông có cạnh dài 3 cm. Diện tích mặt con tem đó là:",
+    [
+     "9 cm²",
+     "12 cm²",
+     "6 cm²",
+     "9 cm"
+    ],
+    "Diện tích mặt con tem là 3 x 3 = 9 cm²."
+   ],
+   [
+    "Một chiếc đồng hồ treo tường hình vuông có cạnh 20 cm. Chu vi của chiếc đồng hồ đó là:",
+    [
+     "80 cm",
+     "400 cm²",
+     "40 cm",
+     "80 cm²"
+    ],
+    "Chu vi chiếc đồng hồ là 20 x 4 = 80 cm."
+   ],
+   [
+    "Hình chữ nhật M có chiều dài 10 cm, chiều rộng 4 cm. Hình vuông N có cạnh 7 cm. So sánh diện tích hai hình:",
+    [
+     "Diện tích hình N lớn hơn diện tích hình M",
+     "Diện tích hình M lớn hơn diện tích hình N",
+     "Diện tích hai hình bằng nhau",
+     "Không thể so sánh"
+    ],
+    "Diện tích hình M là 10 x 4 = 40 cm². Diện tích hình N là 7 x 7 = 49 cm². Vì 49 cm² > 40 cm² nên diện tích hình N lớn hơn."
+   ],
+   [
+    "Mặt bàn hình chữ nhật có chiều rộng 5 dm, chiều dài gấp 2 lần chiều rộng. Diện tích mặt bàn đó là:",
+    [
+     "50 dm²",
+     "10 dm²",
+     "30 dm²",
+     "25 dm²"
+    ],
+    "Chiều dài mặt bàn là 5 x 2 = 10 dm. Diện tích mặt bàn là 10 x 5 = 50 dm²."
+   ],
+   [
+    "Một tờ giấy hình vuông có chu vi 32 cm. Diện tích của tờ giấy đó là:",
+    [
+     "64 cm²",
+     "16 cm²",
+     "64 cm",
+     "128 cm²"
+    ],
+    "Độ dài cạnh tờ giấy là 32 : 4 = 8 cm. Diện tích tờ giấy là 8 x 8 = 64 cm²."
+   ],
+   [
+    "Bạn An cắt một mảnh bìa hình chữ nhật có chiều dài 14 cm, chiều rộng 6 cm thành hai hình chữ nhật nhỏ bằng nhau. Tổng diện tích hai hình chữ nhật nhỏ là:",
+    [
+     "84 cm²",
+     "42 cm²",
+     "40 cm²",
+     "168 cm²"
+    ],
+    "Tổng diện tích hai hình chữ nhật nhỏ chính bằng diện tích mảnh bìa ban đầu: 14 x 6 = 84 cm²."
+   ],
+   [
+    "Một cuốn sổ hình chữ nhật có diện tích 72 cm², chiều rộng 6 cm. Chu vi của cuốn sổ đó là:",
+    [
+     "36 cm",
+     "12 cm",
+     "18 cm",
+     "36 cm²"
+    ],
+    "Chiều dài cuốn sổ là 72 : 6 = 12 cm. Chu vi cuốn sổ là (12 + 6) x 2 = 36 cm."
+   ],
+   [
+    "Một miếng bìa hình chữ nhật có chiều dài 12 cm, chiều rộng 4 cm. Người ta cắt từ miếng bìa đó ra một hình vuông có cạnh 4 cm. Diện tích phần bìa còn lại là:",
+    [
+     "32 cm²",
+     "48 cm²",
+     "16 cm²",
+     "24 cm²"
+    ],
+    "Diện tích miếng bìa ban đầu là 12 x 4 = 48 cm². Diện tích hình vuông cắt đi là 4 x 4 = 16 cm². Diện tích còn lại là 48 - 16 = 32 cm²."
+   ],
+   [
+    "Ghép 3 gạch nhựa hình vuông cạnh 2 dm thành một đường thẳng để tạo thành một hình chữ nhật. Chu vi của hình chữ nhật tạo thành là:",
+    [
+     "16 dm",
+     "24 dm",
+     "12 dm",
+     "16 dm²"
+    ],
+    "Hình chữ nhật mới có chiều rộng 2 dm, chiều dài là 2 x 3 = 6 dm. Chu vi hình chữ nhật là (6 + 2) x 2 = 16 dm."
+   ]
+  ]
+ }
+}

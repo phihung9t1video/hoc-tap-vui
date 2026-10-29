@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c6": [
+   [
+    "Tỉ lệ thức là đẳng thức giữa hai:",
+    [
+     "tỉ số",
+     "tích số",
+     "hiệu số",
+     "thương của hai hiệu"
+    ],
+    "Theo định nghĩa, tỉ lệ thức là đẳng thức của hai tỉ số a/b = c/d."
+   ],
+   [
+    "Cho x và y là hai đại lượng tỉ lệ thuận theo công thức y = k . x (k ≠ 0). Đại lượng k được gọi là:",
+    [
+     "hệ số tỉ lệ",
+     "hằng số biến thiên",
+     "tỉ số nghịch đảo",
+     "số hạng tự do"
+    ],
+    "Trong công thức y = k . x, k được gọi là hệ số tỉ lệ của y đối với x."
+   ],
+   [
+    "Nếu đại lượng y tỉ lệ nghịch với đại lượng x theo hệ số tỉ lệ a (a ≠ 0) thì x tỉ lệ nghịch với y theo hệ số tỉ lệ là bao nhiêu?",
+    [
+     "a",
+     "1/a",
+     "-a",
+     "a²"
+    ],
+    "Nếu y = a/x thì x = a/y, do đó x tỉ lệ nghịch với y theo hệ số tỉ lệ a."
+   ],
+   [
+    "Từ tính chất của dãy tỉ số bằng nhau, khẳng định nào sau đây sai đối với a/x = b/y = c/z?",
+    [
+     "a/x = (a . b . c)/(x . y . z)",
+     "a/x = (a + b + c)/(x + y + z)",
+     "a/x = (a - b + c)/(x - y + z)",
+     "a/x = (a + b - c)/(x + y - z)"
+    ],
+    "Tính chất dãy tỉ số bằng nhau áp dụng cho tổng hoặc hiệu của các tử số và mẫu số tương ứng, không áp dụng cho phép nhân."
+   ],
+   [
+    "Cho đẳng thức 2 . 15 = 5 . 6. Tỉ lệ thức nào sau đây được lập đúng từ đẳng thức trên?",
+    [
+     "2/5 = 6/15",
+     "2/6 = 15/5",
+     "2/15 = 5/6",
+     "5/2 = 6/15"
+    ],
+    "Từ 2 . 15 = 5 . 6 ta suy ra tỉ lệ thức 2/5 = 6/15 (vì 2 . 15 = 5 . 6 = 30)."
+   ],
+   [
+    "Trong các cặp tỉ số sau, cặp tỉ số nào lập thành một tỉ lệ thức?",
+    [
+     "3/7 và 9/21",
+     "1/2 và 3/4",
+     "2/5 và 4/25",
+     "4/3 và 3/4"
+    ],
+    "Vì 3 . 21 = 63 và 7 . 9 = 63 nên 3/7 = 9/21 lập thành tỉ lệ thức."
+   ],
+   [
+    "Cho x và y là hai đại lượng tỉ lệ nghịch. Khi x = 5 thì y = 6. Hệ số tỉ lệ a là:",
+    [
+     "30",
+     "5/6",
+     "6/5",
+     "11"
+    ],
+    "Vì x và y tỉ lệ nghịch nên a = x . y = 5 . 6 = 30."
+   ],
+   [
+    "Cho ba đại lượng x, y, z tỉ lệ thuận với 2; 3; 5. Cách viết nào sau đây thể hiện đúng điều đó?",
+    [
+     "x/2 = y/3 = z/5",
+     "2/x = 3/y = 5/z",
+     "x/5 = y/3 = z/2",
+     "2 . x = 3 . y = 5 . z"
+    ],
+    "Ba số x, y, z tỉ lệ thuận với 2; 3; 5 nghĩa là ta có dãy tỉ số bằng nhau x/2 = y/3 = z/5."
+   ],
+   [
+    "Biết rằng x/9 = 4/3. Giá trị của x là:",
+    [
+     "12",
+     "27",
+     "108",
+     "3"
+    ],
+    "Ta có x = (9 . 4) / 3 = 36 / 3 = 12."
+   ],
+   [
+    "Viết tỉ số 0,6 : 1,5 thành tỉ số giữa các số nguyên ta được:",
+    [
+     "2/5",
+     "3/5",
+     "2/3",
+     "3/2"
+    ],
+    "Ta có 0,6 : 1,5 = 6/15 = 2/5."
+   ],
+   [
+    "Cho x và y là hai đại lượng tỉ lệ thuận. Biết khi x = 3 thì y = -9. Công thức biểu diễn y theo x là:",
+    [
+     "y = -3x",
+     "y = 3x",
+     "y = -1/3 x",
+     "y = -27x"
+    ],
+    "Hệ số tỉ lệ k = y/x = -9/3 = -3. Do đó y = -3x."
+   ],
+   [
+    "Cho x/7 = y/3 và x - y = 16. Giá trị của y là:",
+    [
+     "12",
+     "28",
+     "4",
+     "16"
+    ],
+    "Theo tính chất dãy tỉ số bằng nhau: x/7 = y/3 = (x - y)/(7 - 3) = 16/4 = 4. Do đó y = 3 . 4 = 12."
+   ],
+   [
+    "Hai người làm cùng một loại sản phẩm, năng suất như nhau. Người thứ nhất làm trong 4 giờ, người thứ hai làm trong 7 giờ. Tỉ số sản phẩm người thứ nhất làm được so với người thứ hai là:",
+    [
+     "4/7",
+     "7/4",
+     "1/4",
+     "1/7"
+    ],
+    "Vì năng suất như nhau nên số sản phẩm tỉ lệ thuận với thời gian làm việc, do đó tỉ số sản phẩm là 4/7."
+   ],
+   [
+    "Một ô tô chạy với vận tốc không đổi. Quãng đường s (km) đi được tỉ lệ thuận với thời gian t (giờ) theo công thức s = 60t. Nếu ô tô đi trong 2,5 giờ thì quãng đường đi được là:",
+    [
+     "150 km",
+     "120 km",
+     "24 km",
+     "180 km"
+    ],
+    "Quãng đường ô tô đi được là s = 60 . 2,5 = 150 km."
+   ],
+   [
+    "Số học sinh của ba lớp 7A, 7B, 7C tỉ lệ với các số 8; 9; 10. Biết tổng số học sinh của ba lớp là 108 học sinh. Số học sinh của lớp 7B là:",
+    [
+     "36 học sinh",
+     "32 học sinh",
+     "40 học sinh",
+     "27 học sinh"
+    ],
+    "Ta có x/8 = y/9 = z/10 = (x + y + z)/(8 + 9 + 10) = 108/27 = 4. Số học sinh lớp 7B là y = 9 . 4 = 36 học sinh."
+   ],
+   [
+    "Cho tỉ lệ thức (2x + 1)/5 = 3/2. Giá trị của x là:",
+    [
+     "3,25",
+     "3,5",
+     "6,5",
+     "7,5"
+    ],
+    "Ta có 2(2x + 1) = 5 . 3 hay 4x + 2 = 15, suy ra 4x = 13, vậy x = 13/4 = 3,25."
+   ],
+   [
+    "Hai hình chữ nhật có cùng diện tích. Chiều dài và chiều rộng của hình thứ nhất lần lượt là 16 cm và 9 cm. Chiều rộng của hình thứ hai là 12 cm. Chiều dài của hình thứ hai là:",
+    [
+     "12 cm",
+     "10 cm",
+     "14 cm",
+     "18 cm"
+    ],
+    "Vì diện tích không đổi nên chiều dài và chiều rộng tỉ lệ nghịch. Chiều dài hình thứ hai là (16 . 9) / 12 = 144 / 12 = 12 cm."
+   ],
+   [
+    "Cho x và y là hai đại lượng tỉ lệ nghịch. Biết x1, x2 là hai giá trị của x có tổng bằng 6; y1, y2 là hai giá trị tương ứng của y có y1 = 4, y2 = 8. Giá trị của x1 và x2 lần lượt là:",
+    [
+     "4 và 2",
+     "2 và 4",
+     "3 và 3",
+     "5 và 1"
+    ],
+    "Vì x và y tỉ lệ nghịch nên x1 . y1 = x2 . y2 hay x1 . 4 = x2 . 8, suy ra x1/2 = x2/1 = (x1 + x2)/(2 + 1) = 6/3 = 2. Vậy x1 = 4, x2 = 2."
+   ],
+   [
+    "Ba căn phòng có thể tích bằng nhau. Số lượng máy điều hòa cùng công suất cần dùng để làm mát ba phòng tỉ lệ nghịch với thời gian làm mát. Phòng thứ nhất làm mát mất 20 phút, phòng thứ hai mất 30 phút, phòng thứ ba mất 40 phút. Biết phòng thứ nhất dùng nhiều hơn phòng thứ ba 3 máy điều hòa. Tổng số máy điều hòa của cả ba phòng là:",
+    [
+     "13 máy",
+     "15 máy",
+     "18 máy",
+     "26 máy"
+    ],
+    "Gọi số máy ba phòng là x, y, z. Ta có 20x = 30y = 40z hay x/6 = y/4 = z/3. Do x - z = 3 nên x/6 = z/3 = (x - z)/(6 - 3) = 3/3 = 1. Suy ra x = 6, y = 4, z = 3. Tổng số máy là 6 + 4 + 3 = 13 máy."
+   ],
+   [
+    "Phát biểu nào sau đây đúng định nghĩa về tỉ lệ thức?",
+    [
+     "Tỉ lệ thức là đẳng thức của hai tỉ số a/b = c/d",
+     "Tỉ lệ thức là thương của hai phân số",
+     "Tỉ lệ thức là tổng của hai tỉ số bằng nhau",
+     "Tỉ lệ thức là phép chia hai số bất kì"
+    ],
+    "Tỉ lệ thức là đẳng thức của hai tỉ số a/b = c/d."
+   ],
+   [
+    "Cho tỉ lệ thức a/b = c/d. Đẳng thức nào sau đây đúng?",
+    [
+     "a . d = b . c",
+     "a . c = b . d",
+     "a . b = c . d",
+     "a + d = b + c"
+    ],
+    "Theo tính chất của tỉ lệ thức, tích ngoại tỉ bằng tích trung tỉ nên a . d = b . c."
+   ],
+   [
+    "Số trung tỉ của tỉ lệ thức 2/3 = 4/6 là những số nào?",
+    [
+     "3 và 4",
+     "2 và 6",
+     "2 và 4",
+     "3 và 6"
+    ],
+    "Trong tỉ lệ thức này, các số 3 và 4 nằm ở vị trí trung tỉ."
+   ],
+   [
+    "Cho biết y tỉ lệ thuận với x theo hệ số tỉ lệ k = -3. Công thức liên hệ giữa y và x là:",
+    [
+     "y = -3x",
+     "y = x / (-3)",
+     "x = -3y",
+     "y = 3x"
+    ],
+    "Đại lượng y tỉ lệ thuận với x theo hệ số k thì công thức là y = kx."
+   ],
+   [
+    "Cho x và y là hai đại lượng tỉ lệ nghịch với nhau. Biết khi x = 2 thì y = 8. Hệ số tỉ lệ a là:",
+    [
+     "16",
+     "4",
+     "6",
+     "10"
+    ],
+    "Hệ số tỉ lệ nghịch là a = x . y = 2 . 8 = 16."
+   ],
+   [
+    "Thay tỉ số 1,5 : 2 bằng tỉ số giữa các số nguyên ta được kết quả là:",
+    [
+     "3 : 4",
+     "5 : 4",
+     "15 : 2",
+     "3 : 2"
+    ],
+    "Nhân cả hai vế với 2 ta được 1,5 . 2 : 2 . 2 = 3 : 4."
+   ],
+   [
+    "Nếu x/5 = 4/10 thì giá trị của x là:",
+    [
+     "2",
+     "8",
+     "5",
+     "20"
+    ],
+    "Ta có x = (5 . 4) / 10 = 20 / 10 = 2."
+   ],
+   [
+    "Cho x và y là hai đại lượng tỉ lệ nghịch. Biết x = 4 thì y = -5. Khi x = -2 thì y bằng:",
+    [
+     "10",
+     "-10",
+     "8",
+     "-8"
+    ],
+    "Hệ số tỉ lệ a = 4 . (-5) = -20. Khi x = -2 thì y = -20 / (-2) = 10."
+   ],
+   [
+    "Cho biết x và y tỉ lệ thuận, khi x = -3 thì y = 9. Hệ số tỉ lệ k của y đối với x là:",
+    [
+     "-3",
+     "3",
+     "-6",
+     "6"
+    ],
+    "Hệ số tỉ lệ thuận k = y / x = 9 / (-3) = -3."
+   ],
+   [
+    "Tìm x biết x/(-4) = (-9)/x. Giá trị dương của x là:",
+    [
+     "6",
+     "4",
+     "9",
+     "12"
+    ],
+    "Ta có x² = (-4) . (-9) = 36, suy ra x = 6 hoặc x = -6."
+   ],
+   [
+    "Cho x/3 = y/5 và x + y = 16. Giá trị của x là:",
+    [
+     "6",
+     "10",
+     "8",
+     "24"
+    ],
+    "Áp dụng tính chất dãy tỉ số bằng nhau: x/3 = y/5 = (x + y)/(3 + 5) = 16/8 = 2. Suy ra x = 2 . 3 = 6."
+   ],
+   [
+    "Biết 3 lít mật ong nặng 3,9 kg. Hỏi 5 lít mật ong nặng bao nhiêu kilôgam?",
+    [
+     "6,5 kg",
+     "5,8 kg",
+     "6,2 kg",
+     "7,0 kg"
+    ],
+    "Khối lượng tỉ lệ thuận với thể tích nên 1 lít nặng 3,9 / 3 = 1,3 kg. Do đó 5 lít nặng 5 . 1,3 = 6,5 kg."
+   ],
+   [
+    "Một ô tô đi với vận tốc 60 km/h thì mất 3 giờ để hết quãng đường. Nếu ô tô đi với vận tốc 90 km/h thì mất thời gian là:",
+    [
+     "2 giờ",
+     "2,5 giờ",
+     "4 giờ",
+     "4,5 giờ"
+    ],
+    "Vận tốc và thời gian là hai đại lượng tỉ lệ nghịch. Ta có 60 . 3 = 90 . t, suy ra t = 180 / 90 = 2 giờ."
+   ],
+   [
+    "Chia số 24 thành ba phần tỉ lệ với các số 2; 3; 7. Phần lớn nhất trong ba số đó là:",
+    [
+     "14",
+     "12",
+     "10",
+     "6"
+    ],
+    "Gọi các phần là x, y, z tỉ lệ với 2, 3, 7. Tổng số phần bằng 12. Phần lớn nhất là (24 / 12) . 7 = 14."
+   ],
+   [
+    "Cho tỉ lệ thức (x - 1)/2 = 3/4. Giá trị của x là:",
+    [
+     "2,5",
+     "1,5",
+     "2",
+     "3"
+    ],
+    "Ta có x - 1 = (2 . 3) / 4 = 1,5, suy ra x = 1,5 + 1 = 2,5."
+   ],
+   [
+    "Ba đội công nhân làm ba khối lượng công việc như nhau. Đội một hoàn thành trong 4 ngày, đội hai trong 6 ngày, đội ba trong 12 ngày. Tính số máy của đội một biết tổng số máy của ba đội là 18 máy (năng suất như nhau).",
+    [
+     "9 máy",
+     "6 máy",
+     "3 máy",
+     "12 máy"
+    ],
+    "Số máy tỉ lệ nghịch với số ngày. Gọi số máy là x, y, z ta có 4x = 6y = 12z và x + y + z = 18. Suy ra x = 9."
+   ],
+   [
+    "Một đội 12 công nhân sửa xong một đoạn đường trong 6 ngày. Hỏi muốn hoàn thành đoạn đường đó trong 4 ngày thì cần bao nhiêu công nhân? (Năng suất mỗi người như nhau)",
+    [
+     "18 công nhân",
+     "8 công nhân",
+     "16 công nhân",
+     "24 công nhân"
+    ],
+    "Số công nhân và số ngày là hai đại lượng tỉ lệ nghịch. Số công nhân cần là (12 . 6) / 4 = 18 công nhân."
+   ],
+   [
+    "Biết x và y là hai đại lượng tỉ lệ nghịch. Khi x = 3, y = 4 thì khi x = -2, giá trị của y là:",
+    [
+     "-6",
+     "6",
+     "-4",
+     "4"
+    ],
+    "Hệ số tỉ lệ a = 3 . 4 = 12. Khi x = -2 thì y = 12 / (-2) = -6."
+   ],
+   [
+    "Cho x/5 = y/4 và x - y = 3. Giá trị của x và y lần lượt là:",
+    [
+     "15 và 12",
+     "12 và 15",
+     "20 và 16",
+     "10 và 8"
+    ],
+    "Áp dụng tính chất dãy tỉ số bằng nhau: x/5 = y/4 = (x - y)/(5 - 4) = 3/1 = 3. Suy ra x = 15, y = 12."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về tính chất cơ bản của tỉ lệ thức?",
+    [
+     "Nếu a/b = c/d thì a . d = b . c",
+     "Nếu a/b = c/d thì a . c = b . d",
+     "Nếu a/b = c/d thì a . b = c . d",
+     "Nếu a/b = c/d thì a + d = b + c"
+    ],
+    "Theo tính chất cơ bản của tỉ lệ thức, từ a/b = c/d ta nhân chéo được a . d = b . c."
+   ],
+   [
+    "Cho biết y tỉ lệ nghịch với x theo hệ số tỉ lệ a = -12. Khi x = -3 thì giá trị của y là bao nhiêu?",
+    [
+     "4",
+     "-4",
+     "36",
+     "-36"
+    ],
+    "Vì y tỉ lệ nghịch với x theo hệ số a nên y = a / x. Thay a = -12 và x = -3 ta được y = -12 / (-3) = 4."
+   ]
+  ]
+ }
+}

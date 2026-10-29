@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c11": [
+   [
+    "Số gồm 4 chục nghìn, 5 trăm và 3 đơn vị được viết là:",
+    [
+     "40 503",
+     "45 003",
+     "40 053",
+     "4 503"
+    ],
+    "Hàng nghìn và hàng chục không có nên ta viết chữ số 0 ở các hàng đó, số cần tìm là 40 503."
+   ],
+   [
+    "Trong số 74 129, chữ số nào ở hàng trăm?",
+    [
+     "1",
+     "2",
+     "4",
+     "7"
+    ],
+    "Từ phải sang trái, các hàng lần lượt là đơn vị, chục, trăm, nghìn, chục nghìn. Vậy chữ số ở hàng trăm là 1."
+   ],
+   [
+    "Số nào dưới đây có chữ số 5 ở hàng nghìn?",
+    [
+     "65 120",
+     "56 120",
+     "61 520",
+     "61 025"
+    ],
+    "Số 65 120 có chữ số 5 đứng ở vị trí thứ tư từ phải sang, tức là hàng nghìn."
+   ],
+   [
+    "Cách đọc số 50 409 là:",
+    [
+     "Năm mươi nghìn bốn trăm linh chín",
+     "Năm mươi nghìn bốn trăm chín",
+     "Năm nghìn bốn trăm linh chín",
+     "Năm mươi nghìn bốn mươi chín"
+    ],
+    "Số 50 409 gồm năm mươi nghìn, bốn trăm, linh chín đơn vị, đọc là năm mươi nghìn bốn trăm linh chín."
+   ],
+   [
+    "Số nhỏ nhất có năm chữ số khác nhau là:",
+    [
+     "10 234",
+     "10 000",
+     "12 345",
+     "10 235"
+    ],
+    "Số có năm chữ số bắt đầu từ hàng chục nghìn nhỏ nhất là 1, tiếp đến các hàng sau là các chữ số nhỏ nhất và khác nhau."
+   ],
+   [
+    "Làm tròn số 42 350 đến hàng nghìn ta được số:",
+    [
+     "42 000",
+     "43 000",
+     "42 400",
+     "40 000"
+    ],
+    "Chữ số sau hàng nghìn là 3 (nhỏ hơn 5) nên ta giữ nguyên chữ số hàng nghìn và thay các chữ số phía sau bằng số 0."
+   ],
+   [
+    "Số thích hợp điền vào dấu chấm để 73 481 > 73 ... 81 là:",
+    [
+     "3",
+     "5",
+     "6",
+     "7"
+    ],
+    "Hai số có hàng chục nghìn và hàng nghìn giống nhau. Để số bên trái lớn hơn thì chữ số hàng trăm bên trái phải lớn hơn bên phải, vậy chọn chữ số 3."
+   ],
+   [
+    "Cho dãy số: 12 000, 13 000, 14 000, ..., 16 000. Số thích hợp điền vào chỗ chấm là:",
+    [
+     "15 000",
+     "14 500",
+     "15 500",
+     "16 500"
+    ],
+    "Dãy số đếm thêm 1 000 mỗi lần, số liền sau 14 000 là 15 000."
+   ],
+   [
+    "Kết quả của phép tính 42 000 + 15 000 là:",
+    [
+     "57 000",
+     "56 000",
+     "57 100",
+     "55 000"
+    ],
+    "Cộng các nghìn với nhau: 42 cộng 15 bằng 57, viết thêm chữ số nghìn ta được 57 000."
+   ],
+   [
+    "Kết quả của phép tính 86 000 - 34 000 là:",
+    [
+     "52 000",
+     "53 000",
+     "54 000",
+     "62 000"
+    ],
+    "Trừ các nghìn với nhau: 86 trừ 34 bằng 52, viết thêm chữ số nghìn ta được 52 000."
+   ],
+   [
+    "Số liền trước của số 70 000 là:",
+    [
+     "69 999",
+     "70 001",
+     "69 000",
+     "69 990"
+    ],
+    "Số liền trước kém số đã cho 1 đơn vị, lấy 70 000 trừ đi 1 ta được 69 999."
+   ],
+   [
+    "Giá trị của chữ số 5 trong số 58 321 gấp lên bao nhiêu lần giá trị của chữ số 5 trong số 23 514?",
+    [
+     "100 lần",
+     "10 lần",
+     "1 000 lần",
+     "5 lần"
+    ],
+    "Trong 58 321, chữ số 5 ở hàng chục nghìn có giá trị là 50 000. Trong 23 514, chữ số 5 ở hàng trăm có giá trị là 500. 50 000 gấp 500 một trăm lần."
+   ],
+   [
+    "Làm tròn số 56 789 đến hàng trăm ta được số:",
+    [
+     "56 800",
+     "56 700",
+     "57 000",
+     "56 900"
+    ],
+    "Chữ số sau hàng trăm là 8 (lớn hơn hoặc bằng 5) nên ta tăng hàng trăm lên 1 đơn vị, thành 8 trăm và các chữ số sau đổi thành 0."
+   ],
+   [
+    "Tìm x, biết: x - 12 000 = 45 000",
+    [
+     "57 000",
+     "33 000",
+     "57 100",
+     "45 120"
+    ],
+    "Muốn tìm số bị trừ ta lấy hiệu cộng với số trừ, x = 45 000 + 12 000 = 57 000."
+   ],
+   [
+    "Mẹ mua một chiếc ti vi giá 24 000 đồng và một quạt điện giá 1 000 đồng. Tổng số tiền mẹ phải trả là:",
+    [
+     "25 000 đồng",
+     "24 100 đồng",
+     "34 000 đồng",
+     "25 100 đồng"
+    ],
+    "Cộng giá tiền hai món đồ lại: 24 000 + 1 000 = 25 000 đồng."
+   ],
+   [
+    "Sắp xếp các số sau theo thứ tự từ lớn đến bé: 45 210, 45 120, 45 201",
+    [
+     "45 210, 45 201, 45 120",
+     "45 120, 45 201, 45 210",
+     "45 210, 45 120, 45 201",
+     "45 201, 45 210, 45 120"
+    ],
+    "So sánh các chữ số hàng trăm và chục ta có 45 210 lớn nhất, tiếp đến 45 201 và nhỏ nhất là 45 120."
+   ],
+   [
+    "Bốn bạn An, Bình, Châu, Đạt có số điểm thi như sau: An (89 500 điểm), Bình (90 100 điểm), Châu (88 900 điểm), Đạt (90 050 điểm). Bạn có điểm thi cao nhất là:",
+    [
+     "Bình",
+     "Đạt",
+     "An",
+     "Châu"
+    ],
+    "So sánh các số điểm ta thấy 90 100 là số lớn nhất, tương ứng với số điểm của bạn Bình."
+   ],
+   [
+    "Một xưởng may tuần thứ nhất may được 14 000 cái áo, tuần thứ hai may được nhiều hơn tuần thứ nhất 2 000 cái áo. Hỏi tuần thứ hai xưởng may được bao nhiêu cái áo?",
+    [
+     "16 000 cái áo",
+     "12 000 cái áo",
+     "15 000 cái áo",
+     "28 000 cái áo"
+    ],
+    "Số áo tuần thứ hai là lấy số áo tuần thứ nhất cộng thêm 2 000: 14 000 + 2 000 = 16 000 cái áo."
+   ],
+   [
+    "Cho biểu thức: 54 000 - 12 000 + 5 000. Giá trị của biểu thức là:",
+    [
+     "47 000",
+     "37 000",
+     "42 000",
+     "59 000"
+    ],
+    "Biểu thức chỉ có phép tính trừ và cộng, ta thực hiện từ trái sang phải: 54 000 - 12 000 = 42 000, sau đó cộng 5 000 bằng 47 000."
+   ],
+   [
+    "Dùng bốn chữ số 2, 0, 5, 8 lập được số có bốn chữ số lớn nhất là (mỗi chữ số dùng một lần):",
+    [
+     "8 520",
+     "8 502",
+     "8 250",
+     "5 820"
+    ],
+    "Để được số lớn nhất thì chữ số hàng nghìn phải lớn nhất (8), tiếp đến hàng trăm (5), hàng chục (2) và hàng đơn vị (0)."
+   ]
+  ]
+ }
+}

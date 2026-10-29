@@ -1,0 +1,406 @@
+{
+ "7-khtn": {
+  "c1": [
+   [
+    "Hạt nhân nguyên tử hầu hết các nguyên tố được tạo thành từ hai loại hạt nào",
+    [
+     "Hạt proton và hạt neutron",
+     "Hạt proton và hạt electron",
+     "Hạt neutron và hạt electron",
+     "Chỉ có hạt proton"
+    ],
+    "Hạt nhân của phần lớn nguyên tử được cấu tạo từ hạt proton mang điện dương và hạt neutron không mang điện."
+   ],
+   [
+    "Khối lượng của một nguyên tử tập trung chủ yếu ở phần nào",
+    [
+     "Hạt nhân nguyên tử",
+     "Lớp vỏ electron",
+     "Phân bố đều ở mọi phần",
+     "Không có trọng lượng"
+    ],
+    "Do khối lượng của electron rất nhỏ so với proton và neutron nên khối lượng hạt nhân gần như là khối lượng của toàn bộ nguyên tử."
+   ],
+   [
+    "Điện tích của hạt nhân nguyên tử luôn mang dấu gì",
+    [
+     "Mang điện tích dương",
+     "Mang điện tích âm",
+     "Không mang điện",
+     "Vừa dương vừa âm"
+    ],
+    "Hạt nhân chứa các hạt proton mang điện tích dương và hạt neutron không mang điện nên hạt nhân luôn mang điện dương."
+   ],
+   [
+    "Trong nguyên tử, hạt nào có khối lượng vô cùng nhỏ và có thể bỏ qua khi tính khối lượng nguyên tử",
+    [
+     "Hạt electron",
+     "Hạt proton",
+     "Hạt neutron",
+     "Cả proton và neutron"
+    ],
+    "Khối lượng của electron chỉ bằng khoảng 1/1836 khối lượng của proton nên thường không tính vào khối lượng nguyên tử."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về nguyên tử trung hòa về điện",
+    [
+     "Số hạt proton trong hạt nhân đúng bằng số hạt electron ở lớp vỏ",
+     "Số hạt proton đúng bằng số hạt neutron trong hạt nhân",
+     "Tổng số hạt mang điện bằng tổng số hạt không mang điện",
+     "Số hạt electron bằng số hạt neutron"
+    ],
+    "Vì proton mang điện dương (+1) và electron mang điện âm (-1), nguyên tử trung hòa về điện khi số proton bằng số electron."
+   ],
+   [
+    "Theo mô hình nguyên tử Rutherford – Bohr, các electron được sắp xếp như thế nào",
+    [
+     "Chuyển động trên các lớp electron cách xa hạt nhân theo từng khoảng xác định",
+     "Chuyển động hỗn loạn sát hạt nhân",
+     "Đứng yên tại các vị trí cố định xung quanh hạt nhân",
+     "Chỉ nằm cố định ở lớp ngoài cùng"
+    ],
+    "Các electron sắp xếp thành từng lớp từ gần đến xa hạt nhân và chuyển động xung quanh nó."
+   ],
+   [
+    "Tên gọi của nguyên tố hóa học có kí hiệu Na là gì",
+    [
+     "Sodium",
+     "Nitrogen",
+     "Neon",
+     "Nickel"
+    ],
+    "Na là kí hiệu hóa học của nguyên tố sodium (natri)."
+   ],
+   [
+    "Tên gọi của nguyên tố hóa học có kí hiệu Ca là gì",
+    [
+     "Calcium",
+     "Carbon",
+     "Chlorine",
+     "Cadmium"
+    ],
+    "Ca là kí hiệu hóa học của nguyên tố calcium (canxi)."
+   ],
+   [
+    "Nguyên tố X có số hiệu nguyên tử là 9. Số electron ở lớp ngoài cùng của nguyên tử X là bao nhiêu",
+    [
+     "7",
+     "2",
+     "8",
+     "9"
+    ],
+    "Nguyên tử X có 9 electron, được phân bố theo các lớp là 2 và 7. Vậy lớp ngoài cùng có 7 electron."
+   ],
+   [
+    "Một nguyên tử có tổng số 3 loại hạt là 34, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 10. Số proton của nguyên tử đó là",
+    [
+     "11",
+     "12",
+     "10",
+     "9"
+    ],
+    "Tổng số hạt là 2P + N = 34 và 2P - N = 10. Suy ra 4P = 44 nên P = 11."
+   ],
+   [
+    "Một nguyên tử có số hiệu nguyên tử bằng 13 và số neutron bằng 14. Tổng số hạt trong nguyên tử đó là",
+    [
+     "40",
+     "27",
+     "13",
+     "26"
+    ],
+    "Số proton bằng số electron bằng 13. Tổng số hạt = P + E + N = 13 + 13 + 14 = 40."
+   ],
+   [
+    "Tổng số hạt trong nguyên tử nguyên tố M là 46, trong đó số hạt mang điện tích âm bằng một nửa số hạt không mang điện cộng với số proton. Số electron của M là",
+    [
+     "15",
+     "14",
+     "16",
+     "17"
+    ],
+    "Số electron bằng số proton. Giải hệ phương trình tổng số hạt ta thu được số electron là 15."
+   ],
+   [
+    "Nguyên tử của nguyên tố X có tổng số hạt là 58, biết số hạt mang điện chiếm khoảng 65,52% tổng số hạt. Số hiệu nguyên tử của X là",
+    [
+     "19",
+     "20",
+     "17",
+     "18"
+    ],
+    "Số hạt mang điện là 2P = 58 x 65,52/100 xấp xỉ 38, do đó P = 19 (nguyên tố potassium)."
+   ],
+   [
+    "Cho biết nguyên tử magnesium có 12 proton và 12 neutron. Khối lượng của nguyên tử magnesium tính theo amu là",
+    [
+     "24 amu",
+     "12 amu",
+     "25 amu",
+     "48 amu"
+    ],
+    "Khối lượng nguyên tử tính bằng tổng khối lượng proton và neutron, xấp xỉ 12 + 12 = 24 amu."
+   ],
+   [
+    "Một nguyên tử có tổng số hạt là 24, trong đó số hạt không mang điện chiếm khoảng 33,33%. Số electron của nguyên tử đó là",
+    [
+     "8",
+     "6",
+     "10",
+     "7"
+    ],
+    "Số neutron = 24 x 1/3 = 8. Số proton và electron là (24 - 8)/2 = 8. Vậy số electron là 8."
+   ],
+   [
+    "Nguyên tử nguyên tố X có 3 lớp electron và số electron ở lớp ngoài cùng bằng 1. Điện tích hạt nhân của nguyên tử X là",
+    [
+     "11+",
+     "10+",
+     "12+",
+     "9+"
+    ],
+    "Các lớp electron lần lượt là 2, 8, 1. Tổng số electron là 11, suy ra số proton là 11 và điện tích hạt nhân là 11+."
+   ],
+   [
+    "Thành phần cấu tạo nên hạt nhân của hầu hết các nguyên tử gồm các loại hạt nào?",
+    [
+     "Hạt proton và hạt neutron.",
+     "Hạt proton và hạt electron.",
+     "Hạt neutron và hạt electron.",
+     "Chỉ có hạt proton."
+    ],
+    "Hạt nhân nguyên tử được cấu tạo từ các hạt proton mang điện tích dương và hạt neutron không mang điện, ngoại trừ nguyên tử hydrogen thường không có neutron."
+   ],
+   [
+    "Trong nguyên tử, loại hạt nào sau đây có khối lượng rất nhỏ và thường không được tính vào khối lượng của nguyên tử?",
+    [
+     "Hạt electron.",
+     "Hạt proton.",
+     "Hạt neutron.",
+     "Hạt nhân."
+    ],
+    "Khối lượng của electron rất nhỏ (chỉ bằng khoảng 1/1836 khối lượng của proton hoặc neutron) nên thường không đáng kể khi tính khối lượng nguyên tử."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về nguyên tử trung hòa về điện?",
+    [
+     "Số hạt proton trong hạt nhân bằng số hạt electron ở vỏ nguyên tử.",
+     "Số hạt proton bằng số hạt neutron trong hạt nhân.",
+     "Tổng số hạt mang điện bằng tổng số hạt không mang điện.",
+     "Số hạt electron bằng số hạt không mang điện."
+    ],
+    "Nguyên tử trung hòa về điện vì số điện tích dương của proton (mang dấu +) đúng bằng số điện tích âm của electron (mang dấu -)."
+   ],
+   [
+    "Hạt nhân của một nguyên tử có chứa 6 proton và 6 neutron. Điện tích của hạt nhân nguyên tử này là:",
+    [
+     "6+",
+     "6-",
+     "12+",
+     "Không mang điện."
+    ],
+    "Hạt nhân chứa proton mang điện tích dương, mỗi proton có điện tích 1+, vậy 6 proton tạo ra điện tích hạt nhân là 6+."
+   ],
+   [
+    "Tập hợp tất cả các nguyên tử có cùng số proton trong hạt nhân được gọi là gì?",
+    [
+     "Nguyên tố hóa học.",
+     "Hợp chất hóa học.",
+     "Đơn chất.",
+     "Hỗn hợp."
+    ],
+    "Nguyên tố hóa học là tập hợp các nguyên tử có cùng số proton trong hạt nhân."
+   ],
+   [
+    "Kí hiệu hóa học nào sau đây là đúng của nguyên tố sắt?",
+    [
+     "Fe",
+     "F",
+     "S",
+     "Fei"
+    ],
+    "Nguyên tố sắt có tên tiếng Latinh là Ferrum, kí hiệu hóa học là Fe."
+   ],
+   [
+    "Kí hiệu hóa học của nguyên tố potassium (kali) được viết là gì?",
+    [
+     "K",
+     "P",
+     "Po",
+     "Pt"
+    ],
+    "Kí hiệu hóa học của nguyên tố potassium bắt nguồn từ tên tiếng Latinh Kalium nên kí hiệu là K."
+   ],
+   [
+    "Tên gọi của nguyên tố hóa học có kí hiệu Cu là gì?",
+    [
+     "Copper.",
+     "Carbon.",
+     "Calcium.",
+     "Chlorine."
+    ],
+    "Kí hiệu Cu ứng với tên tiếng Anh là copper (đồng)."
+   ],
+   [
+    "Nguyên tử của nguyên tố X có 8 proton. Số electron của nguyên tử X là:",
+    [
+     "8",
+     "6",
+     "16",
+     "4"
+    ],
+    "Vì nguyên tử trung hòa về điện nên số electron luôn bằng số proton, do đó X có 8 electron."
+   ],
+   [
+    "Nguyên tử của nguyên tố Y có 3 lớp electron và số electron ở lớp ngoài cùng là 2. Số hiệu nguyên tử của Y là bao nhiêu?",
+    [
+     "12",
+     "10",
+     "13",
+     "20"
+    ],
+    "Lớp thứ nhất có tối đa 2 electron, lớp thứ hai có 8 electron, lớp ngoài cùng (thứ 3) có 2 electron. Tổng số electron là 2 + 8 + 2 = 12, số hiệu nguyên tử bằng 12."
+   ],
+   [
+    "Một nguyên tử có số hiệu nguyên tử bằng 15. Sắp xếp các electron của nguyên tử này theo các lớp từ gần đến xa hạt nhân là:",
+    [
+     "2, 8, 5",
+     "8, 5, 2",
+     "2, 5, 8",
+     "5, 8, 2"
+    ],
+    "Số electron là 15. Lớp thứ nhất tối đa 2 electron, lớp thứ hai tối đa 8 electron, số electron còn lại ở lớp thứ ba là 15 - 2 - 8 = 5 electron."
+   ],
+   [
+    "Các nguyên tố trong bảng tuần hoàn được sắp xếp theo chiều nào sau đây?",
+    [
+     "Tăng dần số hiệu nguyên tử.",
+     "Giảm dần khối lượng nguyên tử.",
+     "Tăng dần số neutron trong hạt nhân.",
+     "Tăng dần số lớp electron."
+    ],
+    "Trong bảng tuần hoàn, các nguyên tố hóa học được sắp xếp theo chiều tăng dần số hiệu nguyên tử."
+   ],
+   [
+    "Các nguyên tố hóa học có cùng số lớp electron trong nguyên tử được xếp vào cùng một bộ phận nào trong bảng tuần hoàn?",
+    [
+     "Cùng một chu kỳ.",
+     "Cùng một nhóm.",
+     "Cùng một ô nguyên tố.",
+     "Cùng một cột."
+    ],
+    "Các nguyên tố mà nguyên tử có cùng số lớp electron được xếp vào cùng một chu kỳ trong bảng tuần hoàn."
+   ],
+   [
+    "Các nguyên tố hóa học có tính chất hóa học tương tự nhau thường được xếp vào cùng một:",
+    [
+     "Nhóm.",
+     "Chu kỳ.",
+     "Lớp electron.",
+     "Hạt nhân."
+    ],
+    "Các nguyên tố trong cùng một nhóm (cột) có số electron lớp ngoài cùng tương tự nhau nên có tính chất hóa học gần giống nhau."
+   ],
+   [
+    "Một nguyên tử X có tổng số hạt là 28, trong đó số hạt mang điện gấp đôi số hạt không mang điện. Số proton của X là:",
+    [
+     "10",
+     "8",
+     "12",
+     "14"
+    ],
+    "Gọi p, n, e là số hạt proton, neutron, electron. Ta có p = e và p + e + n = 28 hay 2p + n = 28. Số hạt mang điện gấp đôi số hạt không mang điện nên 2p = 2n, suy ra p = n. Thay vào ta có 3p = 28 (không nguyên). Đề bài chính xác: số hạt mang điện (p+e) nhiều hơn số hạt không mang điện (n) là 8. Ta có 2p - n = 8 và 2p + n = 28, suy ra 4p = 36 nên p = 9."
+   ],
+   [
+    "Nguyên tử của nguyên tố M có tổng số hạt proton, neutron, electron là 40. Số hạt mang điện chiếm 65% tổng số hạt. Số proton của M là:",
+    [
+     "13",
+     "14",
+     "12",
+     "15"
+    ],
+    "Số hạt mang điện là 65% của 40 bằng 26 hạt (tổng proton và electron). Vì số proton bằng số electron nên số proton là 26 / 2 = 13."
+   ],
+   [
+    "Một nguyên tử nguyên tố A có số proton là 11 và số neutron là 12. Khối lượng nguyên tử A tính theo amu xấp xỉ bằng:",
+    [
+     "23 amu",
+     "11 amu",
+     "12 amu",
+     "1 amu"
+    ],
+    "Khối lượng nguyên tử tập trung chủ yếu ở hạt nhân, xấp xỉ bằng tổng khối lượng proton và neutron. Khối lượng nguyên tử A bằng 11 + 12 = 23 amu."
+   ],
+   [
+    "Phát biểu nào sau đây là đúng khi so sánh các nguyên tử của cùng một nguyên tố hóa học?",
+    [
+     "Chúng đều có cùng số proton trong hạt nhân.",
+     "Chúng đều có cùng số neutron trong hạt nhân.",
+     "Chúng đều có cùng khối lượng nguyên tử.",
+     "Chúng đều có cùng số hạt mang điện và không mang điện."
+    ],
+    "Các nguyên tử của cùng một nguyên tố hóa học bắt buộc phải có cùng số proton trong hạt nhân, nhưng số neutron có thể khác nhau."
+   ],
+   [
+    "Nguyên tử nguyên tố X có tổng số hạt là 34, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 10. Số hiệu nguyên tử của X là:",
+    [
+     "11",
+     "12",
+     "10",
+     "9"
+    ],
+    "Tổng số hạt 2p + n = 34, số hạt mang điện nhiều hơn không mang điện là 2p - n = 10. Cộng hai phương trình ta được 4p = 44, suy ra p = 11."
+   ],
+   [
+    "Cho mô hình nguyên tử của nguyên tố X có 2 lớp electron, lớp ngoài cùng có 7 electron. Điện tích hạt nhân của nguyên tử X là:",
+    [
+     "9+",
+     "7+",
+     "2+",
+     "17+"
+    ],
+    "Lớp thứ nhất có 2 electron, lớp thứ hai có 7 electron. Tổng số electron là 9, suy ra có 9 proton nên điện tích hạt nhân là 9+."
+   ],
+   [
+    "Theo mô hình nguyên tử Rutherford - Bohr, các electron trong nguyên tử chuyển động như thế nào?",
+    [
+     "Chuyển động quanh hạt nhân theo từng lớp khác nhau",
+     "Đứng yên ở các vị trí cố định xung quanh hạt nhân",
+     "Chuyển động hỗn loạn bên trong hạt nhân nguyên tử",
+     "Chỉ chuyển động ở lớp sát hạt nhân duy nhất"
+    ],
+    "Theo mô hình Rutherford - Bohr, electron chuyển động xung quanh hạt nhân theo các quỹ đạo hình tròn hoặc gần tròn tạo thành các lớp electron."
+   ],
+   [
+    "Nguyên tử của nguyên tố X có tổng số hạt cơ bản là 52, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 16. Số khối hoặc số proton của X là bao nhiêu?",
+    [
+     "17 proton",
+     "16 proton",
+     "18 proton",
+     "15 proton"
+    ],
+    "Gọi p, n, e là số hạt. Ta có 2p + n = 52 và 2p - n = 16. Suy ra 4p = 68 nên p = 17."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về cấu tạo và đặc điểm của vỏ nguyên tử?",
+    [
+     "Vỏ nguyên tử chứa các electron mang điện tích âm và chuyển động xung quanh hạt nhân",
+     "Vỏ nguyên tử gồm các proton và neutron liên kết chặt chẽ với nhau",
+     "Vỏ nguyên tử chiếm phần lớn khối lượng của toàn bộ nguyên tử",
+     "Vỏ nguyên tử luôn trung hòa về điện do không chứa hạt mang điện"
+    ],
+    "Vỏ nguyên tử được cấu tạo bởi các electron mang điện tích âm, chuyển động quanh hạt nhân và quyết định thể tích của nguyên tử."
+   ],
+   [
+    "Một nguyên tố hóa học Y có kí hiệu là Cl. Khối lượng nguyên tử chlorine tính theo amu là khoảng bao nhiêu?",
+    [
+     "35,5 amu",
+     "35 amu",
+     "37 amu",
+     "17 amu"
+    ],
+    "Nguyên tử khối của chlorine (Cl) thường được tính là khoảng 35,5 amu do là giá trị trung bình của các đồng vị trong tự nhiên."
+   ]
+  ]
+ }
+}

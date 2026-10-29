@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c7": [
+   [
+    "Biểu thức nào sau đây biểu thị bình phương của tổng hai số x và y?",
+    [
+     "(x + y)²",
+     "x² + y²",
+     "x² + y",
+     "(x − y)²"
+    ],
+    "Bình phương của tổng hai số x và y được viết dưới dạng (x + y)²."
+   ],
+   [
+    "Trong các biểu thức đại số sau, biểu thức nào KHÔNG phải là đa thức một biến?",
+    [
+     "2x + 3y",
+     "5x² − 3x + 1",
+     "−7t³ + 2t",
+     "y⁴ − 9"
+    ],
+    "Biểu thức 2x + 3y chứa hai biến x và y nên không phải là đa thức một biến."
+   ],
+   [
+    "Cho đa thức P(y) = 9y³ − 4y⁵ + 2y + 6. Hệ số cao nhất của đa thức P(y) là:",
+    [
+     "−4",
+     "9",
+     "4",
+     "6"
+    ],
+    "Hạng tử có số mũ cao nhất là −4y⁵ (mũ 5), do đó hệ số cao nhất là −4."
+   ],
+   [
+    "Hệ số tự do của đa thức Q(x) = 3x⁴ − 8x² + 15x − 9 là:",
+    [
+     "−9",
+     "9",
+     "15",
+     "3"
+    ],
+    "Hạng tử không chứa biến x là −9, nên hệ số tự do của đa thức là −9."
+   ],
+   [
+    "Sắp xếp đa thức A(x) = −3x² + 5x⁴ − 1 + 2x theo lũy thừa tăng dần của biến, ta được:",
+    [
+     "−1 + 2x − 3x² + 5x⁴",
+     "5x⁴ − 3x² + 2x − 1",
+     "−1 + 2x + 3x² + 5x⁴",
+     "2x − 3x² + 5x⁴ − 1"
+    ],
+    "Theo lũy thừa tăng dần của biến, số mũ của x tăng từ 0 đến 4: −1 + 2x − 3x² + 5x⁴."
+   ],
+   [
+    "Bậc của đa thức N(x) = 4x⁶ − 2x³ + 8 − 4x⁶ + x² là:",
+    [
+     "3",
+     "6",
+     "2",
+     "1"
+    ],
+    "Thu gọn đa thức N(x) = (4x⁶ − 4x⁶) − 2x³ + x² + 8 = −2x³ + x² + 8. Bậc cao nhất là 3."
+   ],
+   [
+    "Biểu thức đại số biểu thị quãng đường một ô tô đi được trong t (giờ) với vận tốc 50 km/h là:",
+    [
+     "50t",
+     "50 : t",
+     "t : 50",
+     "50 + t"
+    ],
+    "Quãng đường bằng vận tốc nhân với thời gian, do đó biểu thức là 50t."
+   ],
+   [
+    "Kết quả của tổng hai đa thức P(x) = 4x² − 5x + 3 và Q(x) = −2x² + 5x − 7 là:",
+    [
+     "2x² − 4",
+     "2x² + 10x − 4",
+     "6x² − 10x + 10",
+     "2x² − 10x − 4"
+    ],
+    "P(x) + Q(x) = (4x² − 2x²) + (−5x + 5x) + (3 − 7) = 2x² − 4."
+   ],
+   [
+    "Cho hai đa thức f(x) = x³ − 3x + 2 và g(x) = x³ + 2x² − 3x − 1. Hiệu f(x) − g(x) bằng:",
+    [
+     "−2x² + 3",
+     "2x³ + 2x² − 6x + 1",
+     "−2x² − 6x + 3",
+     "2x² − 3"
+    ],
+    "f(x) − g(x) = (x³ − x³) − 2x² + (−3x + 3x) + (2 + 1) = −2x² + 3."
+   ],
+   [
+    "Tích của đơn thức −2x³ với đa thức 3x² − 4x + 5 là:",
+    [
+     "−6x⁵ + 8x⁴ − 10x³",
+     "−6x⁵ − 8x⁴ − 10x³",
+     "−6x⁶ + 8x⁴ − 10x³",
+     "6x⁵ − 8x⁴ + 10x³"
+    ],
+    "Ta có (−2x³) · (3x²) + (−2x³) · (−4x) + (−2x³) · 5 = −6x⁵ + 8x⁴ − 10x³."
+   ],
+   [
+    "Thực hiện phép tính nhân (x − 2)(x² + 2x + 4) ta thu được kết quả là:",
+    [
+     "x³ − 8",
+     "x³ + 8",
+     "x³ − 4x − 8",
+     "x³ + 4x² − 8"
+    ],
+    "Khai triển: x(x² + 2x + 4) − 2(x² + 2x + 4) = x³ + 2x² + 4x − 2x² − 4x − 8 = x³ − 8."
+   ],
+   [
+    "Chia đa thức (12x⁴ − 9x³ + 6x²) cho đơn thức 3x² ta được thương là:",
+    [
+     "4x² − 3x + 2",
+     "4x² − 3x + 2x",
+     "4x² − 3x",
+     "4x² + 3x − 2"
+    ],
+    "Lấy từng hạng tử chia cho 3x²: (12x⁴ : 3x²) − (9x³ : 3x²) + (6x² : 3x²) = 4x² − 3x + 2."
+   ],
+   [
+    "Một đa thức bậc 3 nhân với một đa thức bậc 2 sẽ thu được một đa thức có bậc là bao nhiêu?",
+    [
+     "5",
+     "6",
+     "1",
+     "3"
+    ],
+    "Bậc của tích hai đa thức khác 0 bằng tổng bậc của hai đa thức đó: 3 + 2 = 5."
+   ],
+   [
+    "Cho đa thức H(x) = x² − 16. Tập hợp tất cả các nghiệm của H(x) là:",
+    [
+     "{4; −4}",
+     "{4}",
+     "{16}",
+     "{16; −16}"
+    ],
+    "Cho H(x) = 0 suy ra x² = 16, do đó x = 4 hoặc x = −4."
+   ],
+   [
+    "Đa thức T(x) = x² + 9 có bao nhiêu nghiệm thực?",
+    [
+     "0",
+     "1",
+     "2",
+     "3"
+    ],
+    "Vì x² ≥ 0 với mọi x nên x² + 9 ≥ 9 > 0 với mọi x, do đó T(x) không có nghiệm thực."
+   ],
+   [
+    "Một hình lập phương có độ dài cạnh là a + 1 (cm). Biểu thức đại số biểu thị thể tích của hình lập phương đó là:",
+    [
+     "(a + 1)³",
+     "6(a + 1)²",
+     "3(a + 1)",
+     "(a + 1)²"
+    ],
+    "Thể tích hình lập phương bằng cạnh mũ 3, nên biểu thức là (a + 1)³."
+   ],
+   [
+    "Cho đa thức P(x) sao cho P(x) + (2x² − 3x + 1) = 5x² − 3x + 4. Đa thức P(x) là:",
+    [
+     "3x² + 3",
+     "3x² − 6x + 5",
+     "7x² − 6x + 5",
+     "3x² + 5"
+    ],
+    "P(x) = (5x² − 3x + 4) − (2x² − 3x + 1) = (5x² − 2x²) + (−3x + 3x) + (4 − 1) = 3x² + 3."
+   ],
+   [
+    "Biểu thức đại số biểu thị hiệu của x và y là:",
+    [
+     "x − y",
+     "x + y",
+     "x · y",
+     "x : y"
+    ],
+    "Hiệu của x và y được viết dưới dạng phép trừ x − y."
+   ],
+   [
+    "Trong các biểu thức đại số sau, biểu thức nào là biểu thức số?",
+    [
+     "2 · (5 + 3)",
+     "2x + 1",
+     "a + b",
+     "3y − 4"
+    ],
+    "Biểu thức số chỉ chứa các số và các phép tính, không chứa chữ đại diện cho số."
+   ],
+   [
+    "Trong các đa thức một biến sau, đa thức nào có bậc bằng 4?",
+    [
+     "A(x) = 3x⁴ − 2x + 1",
+     "B(x) = 2x³ + 4x − 5",
+     "C(x) = x⁵ − x⁴ + 2",
+     "D(x) = 4x² + 7"
+    ],
+    "Số mũ lớn nhất của biến x trong đa thức A(x) là 4 nên A(x) có bậc 4."
+   ],
+   [
+    "Đa thức nào sau đây là đa thức một biến đã được thu gọn?",
+    [
+     "P(x) = 2x³ − 5x + 1",
+     "Q(x) = x² + 3x − x² + 4",
+     "R(x) = 3x³ − 2x³ + 7",
+     "H(x) = 5x + 2x − 3"
+    ],
+    "Đa thức P(x) không còn hai hạng tử nào đồng dạng nên đã thu gọn."
+   ],
+   [
+    "Bậc của đa thức thu gọn 7x³ − 2x² + 9 là:",
+    [
+     "3",
+     "2",
+     "7",
+     "0"
+    ],
+    "Hạng tử có số mũ cao nhất của biến x là 7x³ có mũ 3, vậy bậc đa thức là 3."
+   ],
+   [
+    "Hệ số cao nhất của đa thức P(x) = −5x⁴ + 3x² − 2x + 1 là:",
+    [
+     "−5",
+     "5",
+     "1",
+     "4"
+    ],
+    "Hệ số của hạng tử có bậc cao nhất (−5x⁴) là −5."
+   ],
+   [
+    "Hệ số tự do của đa thức Q(x) = 2x³ − 7x² + 4x − 8 là:",
+    [
+     "−8",
+     "8",
+     "2",
+     "3"
+    ],
+    "Hệ số tự do là hạng tử không chứa biến x, ở đây là −8."
+   ],
+   [
+    "Giá trị của biểu thức A = 2x − 3y tại x = 2 và y = 1 là:",
+    [
+     "1",
+     "7",
+     "4",
+     "−1"
+    ],
+    "Thay x = 2 và y = 1 vào biểu thức ta có A = 2 · 2 − 3 · 1 = 4 − 3 = 1."
+   ],
+   [
+    "Số x = 2 là nghiệm của đa thức nào sau đây?",
+    [
+     "P(x) = 3x − 6",
+     "Q(x) = x + 2",
+     "R(x) = 2x + 4",
+     "H(x) = x² + 4"
+    ],
+    "Thay x = 2 vào P(x) ta được P(2) = 3 · 2 − 6 = 0, vậy x = 2 là nghiệm của P(x)."
+   ],
+   [
+    "Thu gọn đa thức A(x) = 3x² − 5x + 2x² + 5x − 4 ta được:",
+    [
+     "5x² − 4",
+     "x² − 4",
+     "5x² + 10x − 4",
+     "5x² − 10x − 4"
+    ],
+    "Ta nhóm các hạng tử đồng dạng: (3x² + 2x²) + (−5x + 5x) − 4 = 5x² − 4."
+   ],
+   [
+    "Sắp xếp đa thức B(x) = 2x − 5x³ + 3 + x² theo lũy thừa giảm dần của biến, ta được:",
+    [
+     "−5x³ + x² + 2x + 3",
+     "3 + 2x + x² − 5x³",
+     "−5x³ + x² + 3 + 2x",
+     "5x³ + x² + 2x + 3"
+    ],
+    "Thứ tự giảm dần của số mũ là 3, 2, 1, 0 nên ta viết −5x³ + x² + 2x + 3."
+   ],
+   [
+    "Tổng của hai đa thức A(x) = x² − 3x + 1 và B(x) = 2x² + 3x − 5 là:",
+    [
+     "3x² − 4",
+     "3x² + 6x − 4",
+     "3x² − 6x − 4",
+     "x² − 4"
+    ],
+    "A(x) + B(x) = (x² + 2x²) + (−3x + 3x) + (1 − 5) = 3x² − 4."
+   ],
+   [
+    "Hiệu của hai đa thức M(x) = 4x² + 2x − 3 và N(x) = 4x² − x + 1 là:",
+    [
+     "3x − 4",
+     "x − 4",
+     "8x² + x − 2",
+     "3x − 2"
+    ],
+    "M(x) − N(x) = (4x² − 4x²) + (2x − (−x)) + (−3 − 1) = 3x − 4."
+   ],
+   [
+    "Kết quả của phép nhân đơn thức 3x với đa thức (2x² − x + 4) là:",
+    [
+     "6x³ − 3x² + 12x",
+     "6x³ − x + 4",
+     "6x² − 3x + 12",
+     "6x³ + 3x² + 12x"
+    ],
+    "3x · (2x² − x + 4) = 3x · 2x² − 3x · x + 3x · 4 = 6x³ − 3x² + 12x."
+   ],
+   [
+    "Thực hiện phép chia đa thức (10x³ − 15x² + 5x) cho đơn thức 5x ta được:",
+    [
+     "2x² − 3x + 1",
+     "2x² − 3x",
+     "2x² − 3x + x",
+     "2x³ − 3x² + 1"
+    ],
+    "(10x³ − 15x² + 5x) : 5x = (10x³ : 5x) − (15x² : 5x) + (5x : 5x) = 2x² − 3x + 1."
+   ],
+   [
+    "Nghiệm của đa thức G(x) = 4x + 12 là:",
+    [
+     "−3",
+     "3",
+     "−12",
+     "4"
+    ],
+    "Cho G(x) = 0 ta có 4x + 12 = 0 nên 4x = −12, suy ra x = −3."
+   ],
+   [
+    "Biểu thức đại số biểu thị tổng quãng đường đi được của một người đi bộ trong x giờ với vận tốc 4 km/h và sau đó đi xe đạp trong y giờ với vận tốc 15 km/h là:",
+    [
+     "4x + 15y",
+     "15x + 4y",
+     "4x · 15y",
+     "(4 + 15)(x + y)"
+    ],
+    "Quãng đường đi bộ là 4x (km), quãng đường đi xe đạp là 15y (km). Tổng quãng đường là 4x + 15y."
+   ],
+   [
+    "Cho đa thức P(x) = x² − 2x − 3. Giá trị nào sau đây của x là nghiệm của P(x)?",
+    [
+     "3",
+     "2",
+     "1",
+     "0"
+    ],
+    "Thay x = 3 vào P(x): 3² − 2 · 3 − 3 = 9 − 6 − 3 = 0, vậy x = 3 là nghiệm."
+   ],
+   [
+    "Dạng thu gọn của tích hai đa thức (x − 1)(x + 5) là:",
+    [
+     "x² + 4x − 5",
+     "x² − 5",
+     "x² + 5x − 1",
+     "x² − 4x − 5"
+    ],
+    "(x − 1)(x + 5) = x² + 5x − x − 5 = x² + 4x − 5."
+   ],
+   [
+    "Một hình chữ nhật có chu vi là 20 cm và chiều dài hơn chiều rộng x cm. Biết chiều rộng là y cm, biểu thức nào sau đây biểu thị mối quan hệ giữa x và y?",
+    [
+     "2y + x = 10",
+     "y + x = 10",
+     "2y + 2x = 10",
+     "y + 2x = 20"
+    ],
+    "Chiều dài là y + x. Nửa chu vi là y + (y + x) = 20 : 2 = 10, hay 2y + x = 10."
+   ],
+   [
+    "Biểu thức đại số biểu thị số tiền mua x quyển vở loại 7500 đồng một quyển và y chiếc bút bi loại 4000 đồng một chiếc là:",
+    [
+     "7500x + 4000y",
+     "7500y + 4000x",
+     "11500(x + y)",
+     "7500x - 4000y"
+    ],
+    "Số tiền mua x quyển vở là 7500x đồng và số tiền mua y chiếc bút là 4000y đồng. Tổng số tiền là tổng của hai khoản tiền này."
+   ],
+   [
+    "Trong các biểu thức sau, biểu thức nào là đơn thức một biến?",
+    [
+     "-5x³",
+     "3x + 2",
+     "x² - y",
+     "4/x"
+    ],
+    "Biểu thức -5x³ là tích giữa một số và lũy thừa của biến, nên nó là đơn thức một biến."
+   ],
+   [
+    "Thu gọn và sắp xếp đa thức M(x) = 3x - x² + 5 + 2x² theo lũy thừa giảm dần của biến ta được:",
+    [
+     "x² + 3x + 5",
+     "-x² + 3x + 5",
+     "3x² + 3x + 5",
+     "x² - 3x + 5"
+    ],
+    "Thu gọn các hạng tử đồng dạng: -x² + 2x² = x², giữ nguyên 3x và 5. Sắp xếp giảm dần ta được x² + 3x + 5."
+   ]
+  ]
+ }
+}

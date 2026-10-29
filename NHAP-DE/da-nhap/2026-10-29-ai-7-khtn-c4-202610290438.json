@@ -1,0 +1,406 @@
+{
+ "7-khtn": {
+  "c4": [
+   [
+    "Khi một chiếc còi cứu thương hú vang trên đường, bộ phận nào của còi đóng vai trò là nguồn âm?",
+    [
+     "Màng kim loại bên trong còi dao động",
+     "Không khí xung quanh còi dao động",
+     "Vỏ xe cứu thương dao động",
+     "Tai của người đứng bên đường"
+    ],
+    "Nguồn âm là vật phát ra âm thanh, trong trường hợp này là màng kim loại bên trong còi dao động."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về nguồn âm?",
+    [
+     "Mọi nguồn âm phát ra âm thanh đều đang ở trạng thái dao động",
+     "Nguồn âm chỉ có thể là vật ở thể rắn",
+     "Vật phát ra âm thanh to chắc chắn là nguồn âm",
+     "Nguồn âm không cần truyền dao động ra môi trường xung quanh"
+    ],
+    "Tất cả các âm thanh phát ra đều xuất phát từ các vật đang dao động."
+   ],
+   [
+    "Trong các môi trường sau đây, sóng âm truyền đi với tốc độ nhanh nhất trong môi trường nào?",
+    [
+     "Thép",
+     "Nước",
+     "Không khí",
+     "Chân không"
+    ],
+    "Sóng âm truyền nhanh nhất trong chất rắn, sau đó đến chất lỏng và chậm nhất trong chất khí, không truyền được trong chân không."
+   ],
+   [
+    "Vì sao các phi hành gia ở ngoài không gian (chân không) không thể nói chuyện trực tiếp với nhau như trên Trái Đất?",
+    [
+     "Vì môi trường chân không không thể truyền được sóng âm",
+     "Vì lực hút ở ngoài không gian quá nhỏ làm mất giọng",
+     "Vì áo giáp vũ trụ đã chặn tất cả các tia sáng",
+     "Vì tai của phi hành gia không hoạt động trong chân không"
+    ],
+    "Sóng âm cần có môi trường vật chất như rắn, lỏng, khí để truyền đi, chân không không có vật chất nên âm thanh không truyền được."
+   ],
+   [
+    "Khi tiếng đàn piano phát ra tiếng trầm, dây đàn piano có đặc điểm dao động như thế nào?",
+    [
+     "Tần số dao động nhỏ",
+     "Tần số dao động lớn",
+     "Biên độ dao động rất lớn",
+     "Biên độ dao động rất nhỏ"
+    ],
+    "Âm phát ra càng trầm thì tần số dao động của nguồn âm càng nhỏ."
+   ],
+   [
+    "Khi bạn gảy mạnh một sợi dây đàn guitar so với khi gảy nhẹ, âm thanh phát ra sẽ khác nhau ở điểm nào?",
+    [
+     "Độ to của âm",
+     "Độ cao của âm",
+     "Tần số của âm",
+     "Tốc độ truyền âm"
+    ],
+    "Gảy mạnh làm biên độ dao động lớn hơn, do đó âm phát ra to hơn."
+   ],
+   [
+    "Đơn vị của tần số dao động là gì?",
+    [
+     "Hét (Hz)",
+     "Đề-xi-ben (dB)",
+     "Mét trên giây (m/s)",
+     "Hép-tô (HP)"
+    ],
+    "Tần số là số dao động trong một giây, đơn vị đo là héc, kí hiệu là Hz."
+   ],
+   [
+    "Tai người bình thường có thể nghe được âm thanh nằm trong khoảng tần số nào?",
+    [
+     "Từ 20 Hz đến 20000 Hz",
+     "Dưới 20 Hz",
+     "Trên 20000 Hz",
+     "Từ 0 Hz đến 1000 Hz"
+    ],
+    "Tai người khỏe mạnh nghe được các âm có tần số trong khoảng từ 20 Hz đến 20000 Hz."
+   ],
+   [
+    "Loại sóng âm nào có tần số lớn hơn 20000 Hz và con người không nghe được?",
+    [
+     "Sóng siêu âm",
+     "Sóng hạ âm",
+     "Sóng cơ học",
+     "Sóng điện từ"
+    ],
+    "Sóng có tần số trên 20000 Hz gọi là siêu âm, tai người không nghe thấy được."
+   ],
+   [
+    "Hiện tượng phản xạ âm được ứng dụng rõ nhất trong hoạt động nào sau đây?",
+    [
+     "Dùng tàu ngầm xác định độ sâu của đáy biển bằng sóng âm",
+     "Ngồi trong phòng kín nghe nhạc rõ hơn",
+     "Dán mút xốp cách âm trong phòng thu",
+     "Nói chuyện qua ống nước bằng nhựa"
+    ],
+    "Xác định độ sâu đáy biển dựa trên sự phản xạ của sóng âm (tiếng vang) khi gặp vật cản."
+   ],
+   [
+    "Vật liệu nào sau đây thường được sử dụng làm vật liệu cách âm tốt cho các phòng thu âm?",
+    [
+     "Mút xốp sần sùi",
+     "Tấm kính cường lực",
+     "Gạch men bóng",
+     "Tấm tôn kim loại phẳng"
+    ],
+    "Các vật liệu mềm, xốp, bề mặt sần sùi phản xạ âm kém nên được dùng làm vật liệu cách âm."
+   ],
+   [
+    "Biện pháp nào dưới đây giúp giảm thiểu ô nhiễm tiếng ồn tại các khu vực trường học gần chợ?",
+    [
+     "Trồng nhiều cây xanh xung quanh trường",
+     "Mở cửa sổ thật lớn để âm thanh thoát đi",
+     "Sử dụng loa phóng thanh công suất lớn trong trường",
+     "Xây tường rào bằng tôn mỏng"
+    ],
+    "Trồng cây xanh giúp tán xạ và hấp thụ âm thanh, giảm tiếng ồn hiệu quả."
+   ],
+   [
+    "Một vật thực hiện được 120 dao động trong thời gian 4 giây. Tần số dao động của vật đó là bao nhiêu?",
+    [
+     "30 Hz",
+     "480 Hz",
+     "124 Hz",
+     "116 Hz"
+    ],
+    "Tần số bằng số dao động chia cho thời gian: 120 chia 4 bằng 30 Hz."
+   ],
+   [
+    "Khi một người thổi sáo, âm thanh phát ra cao hay thấp phụ thuộc vào yếu tố nào của cột không khí trong ống sáo?",
+    [
+     "Độ dài của cột không khí",
+     "Chất liệu làm ống sáo",
+     "Màu sơn bên ngoài ống sáo",
+     "Nhiệt độ của tay người thổi"
+    ],
+    "Cột không khí càng ngắn thì tần số dao động càng lớn, âm phát ra càng cao."
+   ],
+   [
+    "Trong các trường hợp sau, trường hợp nào tai người có thể nghe thấy tiếng vang?",
+    [
+     "Âm thanh truyền đi gặp vật cản, âm phản xạ cách âm trực tiếp khoảng thời gian ít nhất là 1/15 giây",
+     "Âm thanh truyền đi gặp vật cản rồi phản xạ lại tai ngay lập tức",
+     "Âm thanh phát ra trong phòng cực kỳ nhỏ",
+     "Âm thanh truyền trong chân không"
+    ],
+    "Để tai phân biệt được âm trực tiếp và âm phản xạ (tiếng vang), khoảng thời gian giữa chúng phải ít nhất là 1/15 giây."
+   ],
+   [
+    "Một người đứng cách một bức tường một khoảng d và la lớn, nghe được tiếng vang sau 2 giây. Biết tốc độ truyền âm trong không khí là 340 m/s. Khoảng cách d là bao nhiêu?",
+    [
+     "340 mét",
+     "680 mét",
+     "170 mét",
+     "510 mét"
+    ],
+    "Quãng đường âm thanh đi cả đi lẫn về là s = v nhân t = 340 nhân 2 = 680 mét. Khoảng cách đến tường là d = 680 chia 2 = 340 mét."
+   ],
+   [
+    "Hành động nào sau đây gây ra ô nhiễm tiếng ồn trong khu dân cư vào ban đêm?",
+    [
+     "Mở loa karaoke với âm lượng lớn quá giờ quy định",
+     "Nói chuyện thì thầm với người bên cạnh",
+     "Đi xe đạp trên đường phố vắng",
+     "Sử dụng bóng đèn LED chiếu sáng ban công"
+    ],
+    "Tiếng ồn lớn từ loa kéo vào ban đêm gây ảnh hưởng nghiêm trọng đến sức khỏe và nghỉ ngơi của người dân."
+   ],
+   [
+    "Khi gảy đàn guitar, nếu người chơi bấm phím làm tăng chiều dài phần dây đàn dao động thì âm thanh phát ra sẽ thế nào?",
+    [
+     "Trầm hơn",
+     "Cao hơn",
+     "To hơn",
+     "Nhỏ hơn"
+    ],
+    "Dây đàn dài hơn thì dao động chậm hơn (tần số nhỏ hơn), nên âm phát ra sẽ trầm hơn."
+   ],
+   [
+    "Bộ phận nào của đàn bầu đóng vai trò là hộp cộng hưởng giúp âm thanh phát ra to hơn?",
+    [
+     "Hộp đàn rỗng bên dưới",
+     "Cần đàn bằng tre",
+     "Dây đàn duy nhất",
+     "Que gảy đàn"
+    ],
+    "Hộp đàn rỗng giúp không khí bên trong dao động cộng hưởng, làm âm thanh phát ra to và vang hơn."
+   ],
+   [
+    "Phát biểu nào sau đây là sai khi nói về sóng âm?",
+    [
+     "Sóng âm có thể truyền được qua môi trường chân không",
+     "Sóng âm lan truyền trong không khí dưới dạng các vùng nén và dãn",
+     "Tốc độ truyền âm trong chất rắn lớn hơn trong chất khí",
+     "Tai người bình thường không nghe được sóng hạ âm"
+    ],
+    "Chân không không có vật chất nên sóng âm hoàn toàn không thể truyền qua được."
+   ],
+   [
+    "Khi đặt một chiếc đồng hồ báo thức đang kêu vào trong một hộp kín bằng xốp rồi đậy kín lại, ta nghe thấy tiếng chuông kêu nhỏ hơn so với khi để bên ngoài. Nguyên nhân chính là do đâu?",
+    [
+     "Hộp xốp là vật liệu hấp thụ âm tốt và truyền âm kém qua không khí bên trong hộp ra ngoài.",
+     "Đồng hồ bị giảm công suất phát ra âm thanh khi nằm trong hộp kín.",
+     "Không khí bên trong hộp xốp đã bị hút hết ra ngoài tạo ra chân không.",
+     "Tiếng chuông đồng hồ bị phản xạ hoàn toàn vào bên trong và không thể thoát ra."
+    ],
+    "Xốp là vật liệu mềm, xốp có tính năng hấp thụ âm thanh rất tốt, làm giảm biên độ sóng âm truyền ra ngoài môi trường."
+   ],
+   [
+    "Để đo độ sâu của đáy biển, người ta thường dùng thiết bị phát sóng siêu âm chiếu xuống nước và thu lại sóng phản xạ. Phương pháp này dựa trên hiện tượng nào?",
+    [
+     "Phản xạ âm.",
+     "Khúc xạ âm.",
+     "Nhiễu xạ âm.",
+     "Cộng hưởng âm."
+    ],
+    "Thiết bị phát sóng siêu âm xuống đáy biển và thu lại sóng phản xạ để tính quãng đường dựa trên thời gian truyền sóng và tốc độ âm trong nước."
+   ],
+   [
+    "Hành động nào sau đây giúp hạn chế sự truyền âm qua không khí hiệu quả nhất từ phòng bên cạnh?",
+    [
+     "Đóng kín cửa và treo thêm rèm cửa bằng vải dày.",
+     "Mở tung cửa sổ để gió thổi bay âm thanh đi.",
+     "Bật quạt máy thật lớn để át đi tiếng ồn.",
+     "Sử dụng bóng đèn có công suất cao hơn trong phòng."
+    ],
+    "Rèm vải dày và cửa kín giúp cản trở sóng âm truyền qua không khí và hấp thụ một phần năng lượng âm."
+   ],
+   [
+    "Khi bác thợ mộc cưa gỗ, tiếng kêu phát ra thường rất chói tai và khó chịu. Âm thanh này có đặc điểm gì về mặt vật lý?",
+    [
+     "Có tần số lớn, phát ra âm thanh rất cao (bổng).",
+     "Có biên độ rất nhỏ, phát ra âm thanh rất trầm (thấp).",
+     "Có tốc độ truyền qua không khí lớn hơn các âm thanh khác.",
+     "Không lan truyền được trong môi trường không khí."
+    ],
+    "Tiếng cưa gỗ sắc bén tạo ra các dao động rất nhanh, tương ứng với tần số lớn nên âm phát ra rất cao và chói tai."
+   ],
+   [
+    "Một bạn học sinh gõ nhẹ vào mặt bàn thì nghe tiếng kêu nhỏ, gõ mạnh vào mặt bàn thì nghe tiếng kêu to hơn. Sự khác biệt này là do yếu tố nào của âm thanh?",
+    [
+     "Biên độ của sóng âm khác nhau.",
+     "Tần số dao động của mặt bàn khác nhau.",
+     "Tốc độ truyền âm trong gỗ khác nhau.",
+     "Độ cao của âm thanh thay đổi."
+    ],
+    "Gõ mạnh làm mặt bàn dao động mạnh hơn, biên độ lớn hơn nên âm phát ra to hơn."
+   ],
+   [
+    "Khi tiếng sét đánh ở xa, ta thường nhìn thấy ánh sáng chớp lóe trước rồi một lúc sau mới nghe thấy tiếng ì ầm. Giải thích nào sau đây là đúng?",
+    [
+     "Tốc độ truyền ánh sáng lớn hơn rất nhiều so với tốc độ truyền âm thanh trong không khí.",
+     "Tai con người nhạy bén với ánh sáng hơn là với âm thanh.",
+     "Sét phát ra ánh sáng trước rồi mới sinh ra âm thanh sau đó.",
+     "Âm thanh bị không khí cản trở nên truyền chậm hơn ánh sáng rất nhiều."
+    ],
+    "Ánh sáng truyền đi với tốc độ cực lớn (khoảng 300000 km/s) trong khi âm thanh truyền với tốc độ chậm hơn nhiều (khoảng 340 m/s)."
+   ],
+   [
+    "Bộ phận nào trên cơ thể con người đóng vai trò là cơ quan thu nhận sóng âm để chúng ta nghe được âm thanh xung quanh?",
+    [
+     "Tai.",
+     "Thanh quản.",
+     "Phổi.",
+     "Lưỡi."
+    ],
+    "Tai người là cơ quan tiếp nhận các dao động sóng âm từ môi trường để truyền lên não xử lý."
+   ],
+   [
+    "Trong các vật liệu sau đây, vật liệu nào phản xạ âm tốt nhất và thường dùng để làm gương âm thanh?",
+    [
+     "Tấm kính phẳng, nhẵn.",
+     "Miếng xốp mềm mỏng.",
+     "Tấm thảm nhung dày.",
+     "Miếng cao su xốp."
+    ],
+    "Các bề mặt cứng, nhẵn, phẳng là những vật liệu phản xạ âm rất tốt (phản xạ âm kém khi mềm, xốp, gồ ghề)."
+   ],
+   [
+    "Vì sao khi áp tai xuống mặt bàn gỗ, ta có thể nghe rõ tiếng gõ ở đầu bàn bên kia rõ hơn khi áp tai trong không khí ở cùng khoảng cách?",
+    [
+     "Vì tốc độ truyền âm trong chất rắn (gỗ) lớn hơn trong chất khí (không khí).",
+     "Vì gỗ là chất phát ra âm thanh mạnh hơn không khí rất nhiều.",
+     "Vì khoảng cách qua mặt bàn ngắn hơn khoảng cách qua không khí.",
+     "Vì tai người cấu tạo phù hợp để nghe âm thanh qua gỗ hơn không khí."
+    ],
+    "Sóng âm truyền trong môi trường chất rắn nhanh và tốt hơn so với môi trường chất khí."
+   ],
+   [
+    "Khi gảy một phím đàn piano, dây đàn bên trong dao động và phát ra âm thanh. Nếu muốn âm thanh phát ra to hơn, người nghệ sĩ cần làm gì?",
+    [
+     "Nhấn phím đàn mạnh hơn.",
+     "Nhấn phím đàn nhẹ nhàng hơn.",
+     "Thay đổi lực nhấn thành bấm nhanh hơn.",
+     "Giữ nguyên lực nhấn nhưng bấm liên tục."
+    ],
+    "Nhấn phím mạnh làm dây đàn dao động với biên độ lớn hơn, tạo ra âm thanh to hơn."
+   ],
+   [
+    "Một người đứng cách một bức tường lớn một khoảng cách nhất định và la to. Người đó nghe được tiếng vang sau khi la 1 giây. Biết tốc độ truyền âm trong không khí là 340 m/s. Khoảng cách ngắn nhất từ người đó đến bức tường để nghe rõ tiếng vang là bao nhiêu?",
+    [
+     "170 mét.",
+     "340 mét.",
+     "680 mét.",
+     "85 mét."
+    ],
+    "Quãng đường sóng âm đi cả đi lẫn về là 340 m x 1 = 340 m. Khoảng cách từ người đến tường là 340 chia 2 = 170 m."
+   ],
+   [
+    "Tai con người có thể cảm nhận được âm thanh phát ra từ một vật dao động khi tần số dao động của vật nằm trong khoảng nào?",
+    [
+     "Từ 20 Hz đến 20000 Hz.",
+     "Nhỏ hơn 20 Hz.",
+     "Lớn hơn 20000 Hz.",
+     "Từ 0 Hz đến 10 Hz."
+    ],
+    "Tai người bình thường chỉ nghe được các âm thanh có tần số trong dải từ 20 Hz đến 20000 Hz."
+   ],
+   [
+    "Trong giờ học môn Khoa học tự nhiên, một nhóm học sinh muốn làm thí nghiệm chứng minh âm thanh không thể truyền qua chân không. Các em cần chuẩn bị dụng cụ cốt lõi nào?",
+    [
+     "Một chuông điện đặt trong một bình thủy tinh hút hết không khí ra ngoài.",
+     "Một cái trống da căng và một dùi trống bằng gỗ.",
+     "Một ống nước dài chứa đầy nước bên trong.",
+     "Một sợi dây thừng dài để truyền tín hiệu."
+    ],
+    "Bình chân không chứa chuông điện là thí nghiệm kinh điển để chứng minh âm thanh cần môi trường vật chất để truyền đi."
+   ],
+   [
+    "Khi tiếng ve kêu râm ran vào mùa hè, âm thanh đó có đặc điểm gì về độ cao mà ta thường nhận thấy rõ?",
+    [
+     "Là âm thanh rất cao (tiếng bổng).",
+     "Là âm thanh rất trầm (tiếng ấm).",
+     "Là âm thanh có biên độ rất lớn.",
+     "Là siêu âm con người không nghe được."
+    ],
+    "Tiếng ve kêu có tần số rất cao nên ta nghe thấy tiếng rất bổng, chói tai."
+   ],
+   [
+    "Để giảm thiểu tác hại của tiếng ồn đối với học sinh trong các lớp học gần đường giao thông lớn, biện pháp chống ô nhiễm tiếng ồn nào là trực tiếp và hiệu quả nhất cho lớp học?",
+    [
+     "Lắp đặt các kính cách âm dày và trồng nhiều cây xanh xung quanh trường.",
+     "Yêu cầu học sinh đeo tai nghe chống ồn suốt cả ngày.",
+     "Tăng âm lượng của loa phát thanh trong trường học.",
+     "Sử dụng tường gạch thông thường không trát vữa."
+    ],
+    "Kính cách âm và cây xanh giúp ngăn chặn và hấp thụ sóng âm từ đường giao thông truyền vào lớp học."
+   ],
+   [
+    "Một con lắc lò xo thực hiện được 60 dao động trong thời gian 5 giây. Tần số dao động của con lắc lò xo này là bao nhiêu?",
+    [
+     "12 Hz.",
+     "300 Hz.",
+     "55 Hz.",
+     "65 Hz."
+    ],
+    "Tần số bằng số dao động chia cho thời gian: 60 chia 5 = 12 Hz."
+   ],
+   [
+    "Khi một người thổi vào đầu một ống nghiệm có chứa một ít nước, cột không khí bên trong ống nghiệm dao động và phát ra âm thanh. Nếu người đó ró thêm nước vào ống nghiệm thì độ cao của âm thanh sẽ thay đổi như thế nào?",
+    [
+     "Âm thanh phát ra sẽ cao hơn (bổng hơn).",
+     "Âm thanh phát ra sẽ trầm hơn (thấp hơn).",
+     "Âm thanh phát ra sẽ có độ to lớn hơn.",
+     "Âm thanh phát ra sẽ hoàn toàn biến mất."
+    ],
+    "Rót thêm nước làm cột không khí ngắn lại, dao động nhanh hơn nên âm phát ra cao hơn."
+   ],
+   [
+    "Trường hợp nào sau đây không thể nghe thấy tiếng vang khi phát ra âm thanh lớn ở môi trường ngoài trời?",
+    [
+     "Đứng ở giữa cánh đồng trống trải, rộng lớn.",
+     "Đứng trước một vách núi đá cao và rộng.",
+     "Đứng trong một hẻm núi hẹp và sâu.",
+     "Đứng trong một bức tường thành cổ kiên cố."
+    ],
+    "Cánh đồng trống không có vật cản lớn ở khoảng cách phù hợp để phản xạ lại âm thanh tạo tiếng vang."
+   ],
+   [
+    "Phát biểu nào sau đây là đúng khi nói về đặc điểm lan truyền của sóng âm trong các môi trường?",
+    [
+     "Sóng âm truyền được trong môi trường rắn, lỏng, khí và không truyền được trong chân không.",
+     "Sóng âm truyền nhanh nhất trong không khí và chậm nhất trong chất rắn.",
+     "Sóng âm có thể lan truyền dễ dàng trong khoảng không gian chân không ngoài vũ trụ.",
+     "Sóng âm chỉ truyền được duy nhất trong môi trường chất khí."
+    ],
+    "Sóng âm cần môi trường vật chất (rắn, lỏng, khí) để truyền đi và không truyền được qua chân không."
+   ],
+   [
+    "Khi kiểm tra sức khỏe tai, bác sĩ thường dùng một dụng cụ gọi là âm thoa. Khi gõ vào âm thoa thì nó phát ra âm thanh. Bộ phận nào của âm thoa đã trực tiếp tạo ra âm thanh đó?",
+    [
+     "Hai nhánh của âm thoa đang dao động qua lại.",
+     "Cán cầm của âm thoa truyền nhiệt độ.",
+     "Không khí xung quanh âm thoa tự phát sáng.",
+     "Đế của âm thoa va chạm với mặt bàn."
+    ],
+    "Khi gõ, hai nhánh của âm thoa dao động (rung động) và đó chính là nguồn âm phát ra âm thanh."
+   ]
+  ]
+ }
+}

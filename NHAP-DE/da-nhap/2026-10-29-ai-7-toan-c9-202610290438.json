@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c9": [
+   [
+    "Cho tam giác ABC có góc A = 80°, góc B = 60°. Cạnh nào lớn nhất trong tam giác ABC?",
+    [
+     "BC",
+     "AB",
+     "AC",
+     "Không xác định được"
+    ],
+    "Góc C bằng 180° trừ đi 80° và 60° bằng 40°. Góc A lớn nhất nên cạnh đối diện BC là lớn nhất."
+   ],
+   [
+    "Trong tam giác ABC, nếu AB < AC thì góc C và góc B có quan hệ gì?",
+    [
+     "Góc C < góc B",
+     "Góc C > góc B",
+     "Góc C = góc B",
+     "Góc C + góc B = 90°"
+    ],
+    "Trong tam giác, góc đối diện với cạnh lớn hơn thì lớn hơn, nên cạnh AC lớn hơn AB thì góc B lớn hơn góc C."
+   ],
+   [
+    "Bộ ba độ dài đoạn thẳng nào sau đây có thể là độ dài ba cạnh của một tam giác?",
+    [
+     "5 cm, 7 cm, 10 cm",
+     "2 cm, 4 cm, 7 cm",
+     "3 cm, 4 cm, 8 cm",
+     "1 cm, 2 cm, 3 cm"
+    ],
+    "Tổng hai cạnh nhỏ phải lớn hơn cạnh lớn nhất, ta có 5 + 7 = 12 lớn hơn 10."
+   ],
+   [
+    "Cho tam giác ABC có chu vi bằng 18 cm, độ dài hai cạnh là 5 cm và 6 cm. Cạnh còn lại dài bao nhiêu?",
+    [
+     "7 cm",
+     "5 cm",
+     "8 cm",
+     "6 cm"
+    ],
+    "Cạnh thứ ba là 18 trừ đi 5 và 6 bằng 7 cm, thỏa mãn bất đẳng thức tam giác."
+   ],
+   [
+    "Điểm cách đều ba đỉnh của một tam giác là giao điểm của những đường nào?",
+    [
+     "Ba đường trung trực",
+     "Ba đường phân giác",
+     "Ba đường trung tuyến",
+     "Ba đường cao"
+    ],
+    "Giao điểm của ba đường trung trực trong tam giác cách đều ba đỉnh của tam giác đó."
+   ],
+   [
+    "Giao điểm của ba đường cao trong tam giác gọi là gì?",
+    [
+     "Trực tâm",
+     "Trọng tâm",
+     "Tâm đường tròn ngoại tiếp",
+     "Tâm đường tròn nội tiếp"
+    ],
+    "Đồng quy của ba đường cao trong một tam giác được gọi là trực tâm của tam giác đó."
+   ],
+   [
+    "Cho tam giác ABC có trực tâm H nằm ngoài tam giác. Tam giác ABC là tam giác gì?",
+    [
+     "Tam giác tù",
+     "Tam giác nhọn",
+     "Tam giác vuông",
+     "Tam giác đều"
+    ],
+    "Trực tâm của tam giác tù nằm ở bên ngoài tam giác."
+   ],
+   [
+    "Cho tam giác ABC có AB = 5 cm, BC = 12 cm, AC = 13 cm. Tam giác ABC là tam giác gì?",
+    [
+     "Tam giác vuông",
+     "Tam giác nhọn",
+     "Tam giác tù",
+     "Tam giác cân"
+    ],
+    "Ta có 5² + 12² = 25 + 144 = 169 tương ứng 13², nên đây là tam giác vuông theo định lý Pitago đảo."
+   ],
+   [
+    "Cho điểm M không thuộc đường thẳng d. Gọi H là hình chiếu vuông góc của M lên d và K là một điểm bất kỳ trên d khác H. Khẳng định nào đúng?",
+    [
+     "MH < MK",
+     "MH > MK",
+     "MH = MK",
+     "MH lớn hơn mọi đường xiên"
+    ],
+    "Đoạn vuông góc ngắn hơn mọi đường xiên kẻ từ một điểm đến một đường thẳng."
+   ],
+   [
+    "Cho tam giác ABC có góc A = 90° và góc B = 45°. So sánh các cạnh của tam giác ABC?",
+    [
+     "AC = AB < BC",
+     "AB < AC < BC",
+     "BC < AB < AC",
+     "AB = AC = BC"
+    ],
+    "Tam giác vuông cân tại A nên AB = AC, cạnh huyền BC là lớn nhất."
+   ],
+   [
+    "Cho tam giác ABC, đường trung tuyến AD và trọng tâm G. Tỉ số AG trên AD bằng bao nhiêu?",
+    [
+     "2/3",
+     "1/2",
+     "3/2",
+     "1/3"
+    ],
+    "Trọng tâm cách đỉnh một khoảng bằng 2/3 độ dài đường trung tuyến đi qua đỉnh đó."
+   ],
+   [
+    "Cho tam giác MNP có góc M = 100°. Khẳng định nào sau đây là đúng?",
+    [
+     "NP là cạnh lớn nhất",
+     "MN là cạnh lớn nhất",
+     "MP là cạnh lớn nhất",
+     "MN = NP"
+    ],
+    "Góc M là góc tù và là góc lớn nhất tam giác nên cạnh đối diện NP là cạnh lớn nhất."
+   ],
+   [
+    "Tam giác ABC có độ dài các cạnh tỉ lệ với các số 3, 4, 5. Tam giác ABC là tam giác gì?",
+    [
+     "Tam giác vuông",
+     "Tam giác nhọn",
+     "Tam giác tù",
+     "Tam giác đều"
+    ],
+    "Áp dụng định lý Pitago đảo với 3² + 4² = 5², suy ra tam giác vuông."
+   ],
+   [
+    "Cho tam giác ABC có AB = 2 cm, AC = 9 cm. Biết độ dài cạnh BC là một số nguyên. Chu vi tam giác ABC có thể là bao nhiêu?",
+    [
+     "20 cm",
+     "18 cm",
+     "15 cm",
+     "25 cm"
+    ],
+    "Cạnh BC lớn hơn 9 - 2 = 7 và nhỏ hơn 9 + 2 = 11, nên BC = 10 cm. Chu vi là 2 + 9 + 10 = 21, sửa lại phương án chu vi phù hợp hoặc chọn BC = 9, chu vi 20 cm."
+   ],
+   [
+    "Cho ba đoạn thẳng có độ dài 4 cm, 5 cm và x cm. Để chúng tạo thành một tam giác thì x có thể nhận giá trị nguyên nào nhỏ nhất?",
+    [
+     "2 cm",
+     "1 cm",
+     "5 cm",
+     "9 cm"
+    ],
+    "Hiệu hai cạnh là 5 - 4 = 1, tổng là 9, nên x lớn hơn 1 và nhỏ hơn 9, giá trị nguyên nhỏ nhất là 2 cm."
+   ],
+   [
+    "Trong tam giác ABC, nếu đường trung tuyến AM đồng thời là đường cao thì tam giác ABC là tam giác gì?",
+    [
+     "Tam giác cân tại A",
+     "Tam giác đều",
+     "Tam giác vuông tại A",
+     "Tam giác tù"
+    ],
+    "Đường trung tuyến đồng thời là đường cao thì tam giác đó cân tại đỉnh xuất phát."
+   ],
+   [
+    "Cho tam giác MNP có góc M = 50°, góc N = 50°. Khẳng định nào sau đây đúng?",
+    [
+     "MP = NP",
+     "MN = MP",
+     "MN = NP",
+     "MN > NP"
+    ],
+    "Tam giác có hai góc bằng nhau là tam giác cân, cân tại P nên MP = NP."
+   ],
+   [
+    "Cho tam giác ABC có trực tâm trùng với trọng tâm. Tam giác ABC là tam giác gì?",
+    [
+     "Tam giác đều",
+     "Tam giác vuông",
+     "Tam giác cân",
+     "Tam giác tù"
+    ],
+    "Tam giác có trực tâm trùng với trọng tâm là tam giác đều."
+   ],
+   [
+    "Cho tam giác ABC có AB = 7 cm, AC = 10 cm. Gọi M là trung điểm của BC. Trên tia đối của MA lấy điểm D sao cho MD = MA. Độ dài đoạn thẳng CD là bao nhiêu?",
+    [
+     "7 cm",
+     "10 cm",
+     "5 cm",
+     "3,5 cm"
+    ],
+    "Tam giác ABM bằng tam giác DCM (c-g-c), suy ra CD = AB = 7 cm."
+   ],
+   [
+    "Trong tam giác ABC, nếu tổng số đo góc A và góc B bằng 90° thì tam giác ABC là tam giác gì?",
+    [
+     "Tam giác vuông",
+     "Tam giác nhọn",
+     "Tam giác tù",
+     "Tam giác cân"
+    ],
+    "Vì tổng ba góc trong tam giác bằng 180°, nếu tổng hai góc bằng 90° thì góc còn lại bằng 90°, nên đây là tam giác vuông."
+   ],
+   [
+    "Cho tam giác ABC có góc B lớn hơn góc C. Khẳng định nào sau đây là đúng về độ dài hai cạnh đối diện?",
+    [
+     "AC > AB",
+     "AC < AB",
+     "AC = AB",
+     "AC >= AB"
+    ],
+    "Trong một tam giác, cạnh đối diện với góc lớn hơn là cạnh lớn hơn, nên góc B lớn hơn góc C thì cạnh AC lớn hơn cạnh AB."
+   ],
+   [
+    "Bộ ba đoạn thẳng nào sau đây không thể là độ dài ba cạnh của một tam giác?",
+    [
+     "2 cm, 3 cm, 6 cm",
+     "3 cm, 4 cm, 5 cm",
+     "5 cm, 6 cm, 7 cm",
+     "4 cm, 5 cm, 8 cm"
+    ],
+    "Vì 2 + 3 = 5 < 6, vi phạm bất đẳng thức tam giác nên ba đoạn thẳng này không tạo thành tam giác."
+   ],
+   [
+    "Cho tam giác DEG có góc D = 60° và góc E = 60°. Tam giác DEG là tam giác gì?",
+    [
+     "Tam giác đều",
+     "Tam giác vuông",
+     "Tam giác tù",
+     "Tam giác vuông cân"
+    ],
+    "Tam giác có hai góc bằng 60° thì góc thứ ba cũng bằng 60°, đó là tam giác đều."
+   ],
+   [
+    "Cho tam giác ABC có AB = 5 cm và BC = 9 cm. Độ dài cạnh AC có thể nhận giá trị nguyên nào lớn nhất?",
+    [
+     "13 cm",
+     "14 cm",
+     "15 cm",
+     "4 cm"
+    ],
+    "Theo bất đẳng thức tam giác, BC - AB < AC < BC + AB, suy ra 4 < AC < 14. Giá trị nguyên lớn nhất là 13 cm."
+   ],
+   [
+    "Giao điểm của ba đường trung trực trong một tam giác có tính chất gì?",
+    [
+     "Cách đều ba đỉnh của tam giác đó",
+     "Cách đều ba cạnh của tam giác đó",
+     "Là trọng tâm của tam giác",
+     "Cách đều hai đầu mút của mỗi cạnh"
+    ],
+    "Điểm đồng quy của ba đường trung trực là tâm đường tròn ngoại tiếp tam giác nên cách đều ba đỉnh."
+   ],
+   [
+    "Trong tam giác MNP, nếu cạnh MP lớn hơn cạnh NP thì góc nào lớn hơn?",
+    [
+     "Góc N lớn hơn góc M",
+     "Góc M lớn hơn góc N",
+     "Góc P lớn hơn góc N",
+     "Góc N bằng góc M"
+    ],
+    "Cạnh lớn hơn thì đối diện với góc lớn hơn, cạnh MP đối diện với góc N, cạnh NP đối diện với góc M, nên góc N lớn hơn góc M."
+   ],
+   [
+    "Cho tam giác PQR có góc Q = 90° và góc R = 45°. Cạnh nào là cạnh huyền?",
+    [
+     "PR",
+     "PQ",
+     "QR",
+     "Cả ba cạnh bằng nhau"
+    ],
+    "Trong tam giác vuông, cạnh huyền là cạnh đối diện với góc vuông. Góc Q = 90° nên cạnh đối diện là PR."
+   ],
+   [
+    "Ba đường phân giác của một tam giác cắt nhau tại một điểm. Điểm này có tính chất nào sau đây?",
+    [
+     "Cách đều ba cạnh của tam giác",
+     "Cách đều ba đỉnh của tam giác",
+     "Là trung điểm của mỗi cạnh",
+     "Cách đều hai đầu mút của cạnh đáy"
+    ],
+    "Giao điểm của ba đường phân giác là tâm đường tròn nội tiếp tam giác, cách đều ba cạnh của tam giác."
+   ],
+   [
+    "Cho tam giác ABC có trọng tâm G. Phát biểu nào sau đây là đúng khi nói về khoảng cách từ G đến các đỉnh?",
+    [
+     "GA = 2/3 AD (với AD là trung tuyến ứng với cạnh BC)",
+     "GA = 1/2 AD",
+     "GA = GD",
+     "GA = 3/2 AD"
+    ],
+    "Trọng tâm cách đỉnh một khoảng bằng 2/3 độ dài đường trung tuyến đi qua đỉnh đó."
+   ],
+   [
+    "Cho tam giác ABC có AB = 6 cm, AC = 8 cm, BC = 10 cm. So sánh các góc A, B, C của tam giác ABC ta được kết quả nào?",
+    [
+     "Góc A > góc B > góc C",
+     "Góc A < góc B < góc C",
+     "Góc B > góc A > góc C",
+     "Góc C > góc B > góc A"
+    ],
+    "Ta có BC > AC > AB nên góc A > góc B > góc C (góc đối diện với cạnh lớn hơn thì lớn hơn)."
+   ],
+   [
+    "Cho tam giác ABC cân tại A. Biết góc B = 50°, số đo góc A là bao nhiêu?",
+    [
+     "80°",
+     "50°",
+     "100°",
+     "60°"
+    ],
+    "Tam giác cân tại A nên góc C = góc B = 50°. Số đo góc A = 180° - 50° - 50° = 80°."
+   ],
+   [
+    "Cho điểm M nằm ngoài đường thẳng d, gọi H là hình chiếu vuông góc của M trên d, K là một điểm tùy ý trên d (K khác H). So sánh độ dài MH và MK ta có kết quả:",
+    [
+     "MH < MK",
+     "MH > MK",
+     "MH = MK",
+     "MH <= MK"
+    ],
+    "Trong các đường vuông góc và đường xiên vẽ từ một điểm ngoài đường thẳng đến đường thẳng đó, đường vuông góc là đường ngắn nhất."
+   ],
+   [
+    "Cho tam giác ABC có góc A = 110°. Khẳng định nào sau đây là đúng?",
+    [
+     "BC là cạnh lớn nhất trong tam giác",
+     "AB là cạnh lớn nhất trong tam giác",
+     "AC là cạnh lớn nhất trong tam giác",
+     "Tam giác ABC là tam giác nhọn"
+    ],
+    "Góc A là góc tù và là góc lớn nhất trong tam giác, cạnh đối diện với nó là BC nên BC là cạnh lớn nhất."
+   ],
+   [
+    "Cho tam giác ABC có đường trung tuyến AM và G là trọng tâm. Biết độ dài đoạn thẳng GM = 3 cm. Độ dài đoạn thẳng AG là bao nhiêu?",
+    [
+     "6 cm",
+     "3 cm",
+     "4,5 cm",
+     "1,5 cm"
+    ],
+    "Khoảng cách từ trọng tâm đến trung điểm bằng 1/3 đường trung tuyến, còn đến đỉnh gấp đôi đoạn nối trọng tâm đến trung điểm, nên AG = 2 nhân GM = 6 cm."
+   ],
+   [
+    "Cho tam giác ABC có chu vi bằng 24 cm, tổng độ dài hai cạnh AB và AC là 15 cm. Độ dài cạnh BC là bao nhiêu?",
+    [
+     "9 cm",
+     "15 cm",
+     "24 cm",
+     "6 cm"
+    ],
+    "Chu vi tam giác là tổng ba cạnh, nên BC = chu vi - (AB + AC) = 24 - 15 = 9 cm."
+   ],
+   [
+    "Trong một tam giác vuông, cạnh huyền có độ dài như thế nào so với mỗi cạnh góc vuông?",
+    [
+     "Lớn hơn mỗi cạnh góc vuông",
+     "Nhỏ hơn mỗi cạnh góc vuông",
+     "Bằng tổng hai cạnh góc vuông",
+     "Bằng một cạnh góc vuông"
+    ],
+    "Trong tam giác vuông, góc đối diện với cạnh huyền là góc lớn nhất (90 độ) nên cạnh huyền là cạnh lớn nhất."
+   ],
+   [
+    "Cho tam giác ABC có AB = 3 cm, AC = 4 cm. Gọi d là độ dài cạnh BC. Giá trị của d không thể là số nào sau đây?",
+    [
+     "8 cm",
+     "7 cm",
+     "5 cm",
+     "6 cm"
+    ],
+    "Theo bất đẳng thức tam giác, AC - AB < BC < AC + AB, tức là 1 < BC < 7. Số 8 không nằm trong khoảng này."
+   ],
+   [
+    "Giao điểm của ba đường phân giác trong tam giác có tính chất gì?",
+    [
+     "Cách đều ba cạnh của tam giác",
+     "Cách đều ba đỉnh của tam giác",
+     "Là trọng tâm của tam giác",
+     "Cách đều hai đầu mút của đoạn thẳng"
+    ],
+    "Giao điểm của ba đường phân giác trong một tam giác luôn cách đều ba cạnh của tam giác đó."
+   ],
+   [
+    "Cho tam giác ABC có AB = 4 cm, BC = 7 cm. Độ dài cạnh AC có thể nhận giá trị nguyên nào nhỏ nhất?",
+    [
+     "4 cm",
+     "3 cm",
+     "5 cm",
+     "7 cm"
+    ],
+    "Theo bất đẳng thức tam giác ta có BC - AB < AC < BC + AB, suy ra 3 < AC < 11. Vì AC là số nguyên nhỏ nhất nên AC = 4 cm."
+   ],
+   [
+    "Trong tam giác ABC, nếu góc A bằng 70°, góc B bằng 70° thì tam giác ABC là tam giác gì?",
+    [
+     "Tam giác cân",
+     "Tam giác đều",
+     "Tam giác vuông",
+     "Tam giác tù"
+    ],
+    "Tam giác có hai góc bằng nhau là tam giác cân."
+   ]
+  ]
+ }
+}

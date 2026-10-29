@@ -1,0 +1,406 @@
+{
+ "7-khtn": {
+  "c2": [
+   [
+    "Phát biểu nào sau đây đúng khi nói về khái niệm liên kết hóa học?",
+    [
+     "Liên kết hóa học là sự kết hợp giữa các nguyên tử tạo thành phân tử hoặc tinh thể bền vững hơn.",
+     "Liên kết hóa học chỉ xảy ra giữa các nguyên tử kim loại với nhau.",
+     "Liên kết hóa học là lực đẩy giữa các hạt nhân nguyên tử trong cùng một phân tử.",
+     "Liên kết hóa học làm cho các nguyên tử mất hoàn toàn tính chất ban đầu của chúng."
+    ],
+    "Liên kết hóa học giúp các nguyên tử kết hợp lại để đạt cấu hình electron bền vững hơn như khí hiếm."
+   ],
+   [
+    "Khi hình thành liên kết ion trong phân tử sodium chloride (NaCl), nguyên tử sodium (Na) đã:",
+    [
+     "nhường đi 1 electron ở lớp vỏ ngoài cùng để tạo thành ion dương.",
+     "nhận thêm 1 electron vào lớp vỏ ngoài cùng để tạo thành ion âm.",
+     "dùng chung cặp electron với nguyên tử chlorine.",
+     "nhường đi 1 proton từ hạt nhân để tạo ra điện tích dương."
+    ],
+    "Nguyên tử Na có 1 electron lớp ngoài cùng nên có xu hướng nhường 1 electron để biến thành ion dương Na+."
+   ],
+   [
+    "Liên kết cộng hóa trị thường được hình thành giữa các nguyên tố nào sau đây?",
+    [
+     "Giữa các nguyên tố phi kim với nhau.",
+     "Giữa các nguyên tố kim loại với nhau.",
+     "Giữa nguyên tố kim loại điển hình và nguyên tố phi kim điển hình.",
+     "Giữa khí hiếm với các nguyên tố kim loại."
+    ],
+    "Liên kết cộng hóa trị được tạo nên bằng việc dùng chung electron, phổ biến giữa các nguyên tử phi kim."
+   ],
+   [
+    "Trong phân tử nước (H₂O), các nguyên tử liên kết với nhau bằng loại liên kết gì?",
+    [
+     "Liên kết cộng hóa trị",
+     "Liên kết ion",
+     "Liên kết kim loại",
+     "Liên kết hydrogen"
+    ],
+    "Nước là hợp chất tạo bởi các nguyên tố phi kim (H và O), chúng góp chung electron tạo liên kết cộng hóa trị."
+   ],
+   [
+    "Khối lượng phân tử của hợp chất calcium carbonate (CaCO₃) là bao nhiêu? Biết Ca = 40, C = 12, O = 16.",
+    [
+     "100 amu",
+     "68 amu",
+     "84 amu",
+     "116 amu"
+    ],
+    "Khối lượng phân tử CaCO₃ bằng 40 + 12 + (16 x 3) = 100 amu."
+   ],
+   [
+    "Vì sao các nguyên tử khí hiếm rất khó tham gia vào các phản ứng hóa học tạo liên kết?",
+    [
+     "Vì lớp vỏ electron ngoài cùng của chúng đã bão hòa và cực kỳ bền vững.",
+     "Vì kích thước nguyên tử của chúng quá lớn so với các nguyên tố khác.",
+     "Vì chúng không có hạt electron nào ở lớp vỏ ngoài cùng.",
+     "Vì khối lượng hạt nhân của chúng quá nhẹ."
+    ],
+    "Khí hiếm có 8 electron lớp ngoài cùng (riêng He có 2), đây là cấu hình rất bền vững nên chúng không xu hướng nhường, nhận hay góp chung electron."
+   ],
+   [
+    "Ion potassium (K+) được hình thành từ nguyên tử potassium (K) bằng cách nào?",
+    [
+     "Nguyên tử K nhường 1 electron.",
+     "Nguyên tử K nhận 1 electron.",
+     "Nguyên tử K nhận thêm 1 proton.",
+     "Nguyên tử K nhường đi 1 neutron."
+    ],
+    "Kim loại kiềm như K dễ nhường 1 electron ở lớp ngoài cùng để trở thành ion dương K+."
+   ],
+   [
+    "Cặp chất nào sau đây đều có liên kết ion trong phân tử?",
+    [
+     "NaCl và MgO",
+     "H₂O và CO₂",
+     "NaCl và H₂O",
+     "CH₄ và NH₃"
+    ],
+    "NaCl và MgO đều là hợp chất tạo bởi kim loại và phi kim, đặc trưng bởi liên kết ion."
+   ],
+   [
+    "Phân tử khí oxygen (O₂) được cấu tạo bởi liên kết gì và có bao nhiêu cặp electron dùng chung?",
+    [
+     "Liên kết cộng hóa trị đôi (2 cặp electron dùng chung)",
+     "Liên kết cộng hóa trị đơn (1 cặp electron dùng chung)",
+     "Liên kết ion giữa hai nguyên tử oxygen",
+     "Liên kết cộng hóa trị ba (3 cặp electron dùng chung)"
+    ],
+    "Hai nguyên tử O góp chung 2 cặp electron để đạt cấu hình bền vững, tạo thành liên kết đôi."
+   ],
+   [
+    "Phát biểu nào sau đây mô tả đúng bản chất của liên kết ion?",
+    [
+     "Là lực hút tĩnh điện giữa các ion mang điện tích trái dấu.",
+     "Là sự góp chung các cặp electron giữa hai nguyên tử.",
+     "Là lực hút giữa các electron tự do và ion dương kim loại.",
+     "Là sự trao đổi trực tiếp các hạt proton giữa hai nguyên tử."
+    ],
+    "Liên kết ion hình thành do lực hút tĩnh điện mạnh mẽ giữa cation (ion dương) và anion (ion âm)."
+   ],
+   [
+    "Cho biết công thức hóa học của hợp chất tạo bởi nguyên tố X (hóa trị II) và nhóm (OH) (hóa trị I). Công thức đúng là:",
+    [
+     "X(OH)₂",
+     "X₂OH",
+     "X(OH)",
+     "X₂O₃"
+    ],
+    "Theo quy tắc hóa trị, gọi công thức là Xx(OH)y ta có II x x = I x y, suy ra x = 1, y = 2 nên công thức là X(OH)₂."
+   ],
+   [
+    "Hợp chất A có công thức dạng RO₂, trong đó R chiếm 27,27% về khối lượng, còn lại là oxygen. Biết O = 16, nguyên tố R là:",
+    [
+     "Carbon (C)",
+     "Sulfur (S)",
+     "Silicon (Si)",
+     "Nitrogen (N)"
+    ],
+    "Khối lượng phân tử RO₂ là 16 x 2 / (0,2727) = 44 amu. Khối lượng nguyên tử R = 44 - 32 = 12 amu, đó là Carbon."
+   ],
+   [
+    "Một hợp chất tạo bởi nguyên tố A (hóa trị III) và nguyên tố oxygen (hóa trị II). Công thức hóa học của hợp chất này là:",
+    [
+     "A₂O₃",
+     "AO₃",
+     "A₃O₂",
+     "AO"
+    ],
+    "Áp dụng quy tắc hóa trị: III x 2 = II x 3, tỉ lệ nguyên tử là 2 và 3, công thức là A₂O₃."
+   ],
+   [
+    "Phân tử ammonia (NH₃) có tổng khối lượng phân tử bằng bao nhiêu? Biết N = 14, H = 1.",
+    [
+     "17 amu",
+     "15 amu",
+     "29 amu",
+     "32 amu"
+    ],
+    "Khối lượng phân tử NH₃ = 14 + (1 x 3) = 17 amu."
+   ],
+   [
+    "Cho biết hợp chất sắt sulfide có công thức là FeS. Tỉ lệ phần trăm về khối lượng của nguyên tố S trong FeS là bao nhiêu? Biết Fe = 56, S = 32.",
+    [
+     "36,36%",
+     "63,64%",
+     "50,00%",
+     "42,15%"
+    ],
+    "Khối lượng phân tử FeS = 56 + 32 = 88 amu. Phần trăm khối lượng S = (32 / 88) x 100% = 36,36%."
+   ],
+   [
+    "Để tính nhanh khối lượng phân tử của một chất, ta cần biết thông tin nào sau đây?",
+    [
+     "Công thức hóa học của chất đó và nguyên tử khối của các nguyên tố tạo thành.",
+     "Trạng thái rắn, lỏng hay khí của chất đó ở điều kiện thường.",
+     "Màu sắc và mùi vị của các nguyên tử trong phân tử.",
+     "Số lượng electron hóa trị của từng nguyên tử."
+    ],
+    "Khối lượng phân tử bằng tổng nguyên tử khối của tất cả các nguyên tử có trong công thức hóa học."
+   ],
+   [
+    "Hợp chất X có công thức SO₃. Phát biểu nào sau đây là ĐÚNG khi nói về ý nghĩa của công thức hóa học này?",
+    [
+     "Cho biết phân tử gồm 1 nguyên tử S và 3 nguyên tử O, khối lượng phân tử là 80 amu.",
+     "Cho biết đơn chất sulfur tác dụng với 3 phân tử oxygen.",
+     "Cho biết hợp chất này có tổng cộng 3 nguyên tử trong một phân tử.",
+     "Cho biết trong hợp chất, S có hóa trị III và O có hóa trị II."
+    ],
+    "Công thức SO₃ chỉ ra 1 nguyên tử S liên kết với 3 nguyên tử O và khối lượng phân tử là 32 + 16 x 3 = 80 amu."
+   ],
+   [
+    "Khi hai nguyên tử chlorine (Cl) kết hợp với nhau thành phân tử khí chlorine (Cl₂), chúng tạo liên kết bằng cách:",
+    [
+     "dùng chung 1 cặp electron để đạt lớp vỏ bền vững.",
+     "nhường hẳn 1 electron cho nguyên tử còn lại.",
+     "hút nhau mạnh mẽ nhờ điện tích trái dấu.",
+     "trao đổi proton giữa hai hạt nhân."
+    ],
+    "Mỗi nguyên tử Cl có 7 electron ngoài cùng, góp chung 1 cặp electron để tạo liên kết cộng hóa trị đơn."
+   ],
+   [
+    "Cho các chất sau: H₂, NaCl, H₂O, CaO. Số chất có liên kết cộng hóa trị trong dãy là:",
+    [
+     "2",
+     "1",
+     "3",
+     "4"
+    ],
+    "Các chất có liên kết cộng hóa trị là H₂ và H₂O. NaCl và CaO là hợp chất ion."
+   ],
+   [
+    "Hạt nhân của nguyên tử X có 11 proton và 12 neutron. Tổng số hạt mang điện trong nguyên tử X là",
+    [
+     "22",
+     "11",
+     "23",
+     "33"
+    ],
+    "Hạt mang điện trong nguyên tử gồm proton và electron, số proton bằng số electron nên tổng số hạt mang điện là 11 nhân 2 bằng 22."
+   ],
+   [
+    "Nguyên tử nguyên tố Y có 13 electron ở lớp vỏ. Khối lượng của nguyên tử Y tập trung chủ yếu ở đâu?",
+    [
+     "Hạt nhân",
+     "Lớp vỏ",
+     "Cả hạt nhân và lớp vỏ",
+     "Các electron"
+    ],
+    "Hạt nhân có khối lượng rất lớn so với lớp vỏ electron nên khối lượng nguyên tử tập trung chủ yếu ở hạt nhân."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về cấu tạo của nguyên tử?",
+    [
+     "Nguyên tử gồm hạt nhân ở trung tâm và lớp vỏ electron chuyển động xung quanh.",
+     "Nguyên tử gồm các hạt proton chuyển động xung quanh hạt nhân.",
+     "Lớp vỏ nguyên tử chứa các hạt neutron và electron.",
+     "Hạt nhân nguyên tử mang điện tích âm."
+    ],
+    "Nguyên tử có cấu tạo rất rỗng, gồm hạt nhân mang điện dương ở trung tâm và lớp vỏ electron mang điện âm chuyển động xung quanh."
+   ],
+   [
+    "Ký hiệu hóa học của nguyên tố Calcium và nguyên tố Sodium lần lượt là",
+    [
+     "Ca và Na",
+     "C và S",
+     "Cu và N",
+     "Cl và So"
+    ],
+    "Calcium có ký hiệu là Ca và Sodium có ký hiệu là Na."
+   ],
+   [
+    "Chất nào sau đây được cấu tạo từ phân tử do một nguyên tố hóa học tạo nên?",
+    [
+     "Khí nitrogen",
+     "Nước",
+     "Muối ăn",
+     "Carbon dioxide"
+    ],
+    "Khí nitrogen là đơn chất được tạo từ một nguyên tố nitrogen, các chất còn lại là hợp chất."
+   ],
+   [
+    "Trong các chất sau đây, chất nào là hợp chất phi kim?",
+    [
+     "Sulfur dioxide",
+     "Sắt",
+     "Sodium chloride",
+     "Nhôm"
+    ],
+    "Sulfur dioxide là hợp chất tạo bởi các nguyên tố phi kim là sulfur và oxygen."
+   ],
+   [
+    "Khối lượng của một nguyên tử carbon là khoảng 12 amu. Giá trị này bằng khoảng bao nhiêu lần khối lượng của một nguyên tử hydrogen?",
+    [
+     "12 lần",
+     "1 lần",
+     "16 lần",
+     "14 lần"
+    ],
+    "Khối lượng nguyên tử hydrogen là khoảng 1 amu, nguyên tử carbon là 12 amu nên carbon nặng gấp khoảng 12 lần hydrogen."
+   ],
+   [
+    "Khi nguyên tử oxygen nhận thêm 2 electron vào lớp vỏ ngoài cùng, nó biến thành",
+    [
+     "ion âm",
+     "ion dương",
+     "nguyên tử trung hòa",
+     "phân tử bền vững"
+    ],
+    "Nguyên tử nhận thêm electron sẽ mang điện âm và trở thành ion âm."
+   ],
+   [
+    "Liên kết hóa học trong phân tử khí hydrogen (H₂) được hình thành bằng cách",
+    [
+     "hai nguyên tử góp chung một cặp electron.",
+     "nhường và nhận electron để tạo ion trái dấu.",
+     "hút tĩnh điện giữa ion dương và ion âm.",
+     "chuyển hoàn toàn electron từ nguyên tử này sang nguyên tử khác."
+    ],
+    "Liên kết trong phân tử đơn chất phi kim như H2 là liên kết cộng hóa trị được hình thành bằng cách góp chung electron."
+   ],
+   [
+    "Công thức hóa học của hợp chất tạo bởi nguyên tố Aluminium (Al) hóa trị III và nhóm sulfate (SO₄) hóa trị II là",
+    [
+     "Al2(SO4)3",
+     "Al3SO4",
+     "Al(SO4)2",
+     "Al2SO4"
+    ],
+    "Theo quy tắc hóa trị, ta có chỉ số của Al là 2 và nhóm SO4 là 3, công thức là Al2(SO4)3."
+   ],
+   [
+    "Biết nguyên tố X có hóa trị III và hợp chất của nó với hydrogen là XH3. Công thức hóa học của hợp chất tạo bởi X và oxygen (hóa trị II) là",
+    [
+     "X2O3",
+     "XO2",
+     "X3O2",
+     "XO3"
+    ],
+    "X có hóa trị III, O có hóa trị II, theo quy tắc hóa trị công thức là X2O3."
+   ],
+   [
+    "Tính khối lượng phân tử của hợp chất nhôm sulfide, biết phân tử gồm 2 nguyên tử Al và 3 nguyên tử S (Al = 27, S = 32).",
+    [
+     "150 amu",
+     "118 amu",
+     "86 amu",
+     "142 amu"
+    ],
+    "Khối lượng phân tử bằng 2 nhân 27 cộng 3 nhân 32 bằng 54 cộng 96 bằng 150 amu."
+   ],
+   [
+    "Một hợp chất có công thức X2O, trong đó nguyên tố O chiếm khoảng 25,8% về khối lượng. Khối lượng phân tử của hợp chất là (O = 16)",
+    [
+     "62 amu",
+     "46 amu",
+     "31 amu",
+     "94 amu"
+    ],
+    "Khối lượng của O là 16 chiếm 25,8 phần trăm, suy ra tổng khối lượng phân tử là 16 chia 0,258 xấp xỉ 62 amu."
+   ],
+   [
+    "Cho biết công thức hóa học của potassium sulfate là K2SO4. Ý nghĩa nào sau đây KHÔNG đúng?",
+    [
+     "Chất này do hai nguyên tố potassium và sulfur tạo nên.",
+     "Công thức cho biết trong phân tử có 2 nguyên tử K, 1 nguyên tử S và 4 nguyên tử O.",
+     "Khối lượng phân tử của K2SO4 là 174 amu.",
+     "Chất này là hợp chất."
+    ],
+    "K2SO4 được tạo bởi ba nguyên tố là potassium, sulfur và oxygen, nên ý kiến nói do hai nguyên tố là sai."
+   ],
+   [
+    "Hợp chất X tạo bởi nguyên tố M và nguyên tố O có công thức MO. Biết khối lượng phân tử của MO là 40 amu và O = 16. Ký hiệu hóa học của nguyên tố M là",
+    [
+     "Mg",
+     "Ca",
+     "Be",
+     "Zn"
+    ],
+    "Khối lượng nguyên tử M bằng 40 trừ 16 bằng 24 amu, đó là nguyên tố magnesium, ký hiệu là Mg."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi mô tả về liên kết ion?",
+    [
+     "Liên kết ion là lực hút tĩnh điện giữa các ion mang điện tích trái dấu.",
+     "Liên kết ion được hình thành do sự góp chung cặp electron.",
+     "Liên kết ion chỉ xuất hiện giữa các nguyên tử phi kim với nhau.",
+     "Liên kết ion không tạo ra được hợp chất bền vững."
+    ],
+    "Bản chất của liên kết ion là lực hút tĩnh điện giữa ion dương và ion âm."
+   ],
+   [
+    "Phân tử chất nào sau đây có tổng số nguyên tử trong một phân tử lớn nhất?",
+    [
+     "Aluminum hydroxide Al(OH)3",
+     "Carbon dioxide CO2",
+     "Ammonia NH3",
+     "Sulfuric acid H2SO4"
+    ],
+    "Al(OH)3 có tổng số nguyên tử là 1 cộng 3 nhân 2 bằng 7 nguyên tử, lớn nhất trong các chất."
+   ],
+   [
+    "Cho biết công thức hóa học của hợp chất sắt với chlorine là FeCl3. Hóa trị của sắt trong hợp chất này là",
+    [
+     "III",
+     "II",
+     "I",
+     "IV"
+    ],
+    "Chlorine có hóa trị I, nhóm chlorine có 3 nguyên tử nên sắt có hóa trị III."
+   ],
+   [
+    "Hợp chất X có thành phần phần trăm khối lượng các nguyên tố là 40% Ca, 12% C và 48% O. Biết khối lượng phân tử X là 100 amu. Công thức hóa học của X là",
+    [
+     "CaCO3",
+     "CaO",
+     "CaC2O4",
+     "Ca(HCO3)2"
+    ],
+    "Số nguyên tử mỗi nguyên tố là Ca bằng 100 nhân 0,4 chia 40 bằng 1; C bằng 100 nhân 0,12 chia 12 bằng 1; O bằng 100 nhân 0,48 chia 16 bằng 3, công thức là CaCO3."
+   ],
+   [
+    "Dãy chất nào sau đây chỉ gồm các hợp chất có liên kết cộng hóa trị?",
+    [
+     "H2O, CO2, NH3",
+     "NaCl, H2O, CaO",
+     "HCl, MgO, CH4",
+     "KCl, NaBr, H2"
+    ],
+    "H2O, CO2 và NH3 đều được tạo bởi các nguyên tố phi kim liên kết với nhau bằng liên kết cộng hóa trị."
+   ],
+   [
+    "Hạt nhân nguyên tử của nguyên tố X có 9 proton. Khi hình thành liên kết hóa học để đạt lớp vỏ bền vững như khí hiếm, xu hướng của nguyên tử X là gì?",
+    [
+     "Nhận thêm 1 electron để tạo thành ion âm",
+     "Nhường đi 7 electron để tạo thành ion dương",
+     "Góp chung 2 cặp electron với nguyên tử khác",
+     "Nhường đi 1 electron để tạo thành ion dương"
+    ],
+    "Nguyên tử X có 9 electron, lớp ngoài cùng có 7 electron nên có xu hướng nhận thêm 1 electron để đạt 8 electron bền vững, tạo thành ion mang điện tích âm."
+   ]
+  ]
+ }
+}

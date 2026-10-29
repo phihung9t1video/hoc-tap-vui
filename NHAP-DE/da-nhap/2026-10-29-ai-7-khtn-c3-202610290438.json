@@ -1,0 +1,406 @@
+{
+ "7-khtn": {
+  "c3": [
+   [
+    "Công cụ nào sau đây thường dùng để đo trực tiếp tốc độ chuyển động của một vật trong phòng thực hành?",
+    [
+     "Cổng quang điện nối với đồng hồ đo thời gian hiện số",
+     "Thước dây và đồng hồ bấm giây",
+     "Tốc kế gắn trên xe đạp",
+     "Cân điện tử"
+    ],
+    "Trong phòng thực hành, để đo tốc độ chuyển động nhanh như viên bi, ta dùng cổng quang điện kết hợp đồng hồ đo thời gian hiện số."
+   ],
+   [
+    "Đại lượng nào cho biết mức độ nhanh hay chậm của chuyển động và được xác định bằng quãng đường đi được trong một đơn vị thời gian?",
+    [
+     "Tốc độ",
+     "Quãng đường",
+     "Thời gian",
+     "Lực đẩy"
+    ],
+    "Tốc độ là đại lượng đặc trưng cho tính nhanh hay chậm của chuyển động."
+   ],
+   [
+    "Đơn vị đo tốc độ thường dùng trong đời sống hàng ngày là gì?",
+    [
+     "Km/h",
+     "M/s",
+     "Cm/s",
+     "Km/s"
+    ],
+    "Km/h là đơn vị phổ biến trên các phương tiện giao thông như ô tô, xe máy."
+   ],
+   [
+    "Để đổi một vận tốc từ đơn vị m/s sang km/h, ta nhân giá trị đó với số nào sau đây?",
+    [
+     "3,6",
+     "0,28",
+     "10",
+     "60"
+    ],
+    "Ta có 1 m/s = 3,6 km/h nên để đổi từ m/s sang km/h ta nhân với 3,6."
+   ],
+   [
+    "Trên đồ thị quãng đường - thời gian, trục tung (trục đứng) biểu diễn đại lượng nào?",
+    [
+     "Quãng đường",
+     "Thời gian",
+     "Tốc độ",
+     "Lực"
+    ],
+    "Theo quy ước vẽ đồ thị chuyển động, trục đứng biểu diễn quãng đường s."
+   ],
+   [
+    "Trên đồ thị quãng đường - thời gian, trục hoành (trục nằm ngang) biểu diễn đại lượng nào?",
+    [
+     "Thời gian",
+     "Quãng đường",
+     "Tốc độ",
+     "Khối lượng"
+    ],
+    "Trục nằm ngang (hoành độ) dùng để biểu diễn thời gian t."
+   ],
+   [
+    "Đồ thị quãng đường - thời gian của một vật chuyển động thẳng với tốc độ không đổi có dạng là gì?",
+    [
+     "Đường thẳng đi qua gốc tọa độ",
+     "Đường cong bất kì",
+     "Đường thẳng song song với trục hoành",
+     "Đường thẳng song song với trục tung"
+    ],
+    "Chuyển động đều có quãng đường tỉ lệ thuận với thời gian nên đồ thị là đường thẳng đi qua gốc tọa độ."
+   ],
+   [
+    "Nếu đoạn thẳng biểu diễn trên đồ thị quãng đường - thời gian có độ dốc càng lớn thì điều đó chứng tỏ điều gì?",
+    [
+     "Tốc độ của vật càng lớn",
+     "Tốc độ của vật càng nhỏ",
+     "Vật đang đứng yên",
+     "Quãng đường đi được càng ngắn"
+    ],
+    "Độ dốc của đồ thị càng lớn nghĩa là trong cùng một thời gian vật đi được quãng đường dài hơn, tức tốc độ lớn hơn."
+   ],
+   [
+    "Một bạn học sinh đi bộ một quãng đường 1,5 km trong thời gian 25 phút. Tốc độ đi bộ của bạn học sinh là bao nhiêu?",
+    [
+     "1 m/s",
+     "0,06 m/s",
+     "3,6 m/s",
+     "60 m/s"
+    ],
+    "Đổi 1,5 km = 1500 m, 25 phút = 1500 s. Tốc độ v = 1500/1500 = 1 m/s."
+   ],
+   [
+    "Một người chạy bộ với tốc độ trung bình 4 m/s. Quãng đường người đó chạy được trong 5 phút là bao nhiêu?",
+    [
+     "1200 m",
+     "20 m",
+     "75 m",
+     "480 m"
+    ],
+    "Đổi 5 phút = 300 s. Quãng đường s = v nhân t = 4 nhân 300 = 1200 m."
+   ],
+   [
+    "Một xe lửa chuyển động với tốc độ 54 km/h. Thời gian để xe lửa đi hết quãng đường 135 km là bao nhiêu?",
+    [
+     "2,5 giờ",
+     "2 giờ",
+     "3 giờ",
+     "72,9 giờ"
+    ],
+    "Thời gian t = s chia v = 135 chia 54 = 2,5 giờ."
+   ],
+   [
+    "Một chiếc cano chạy với tốc độ 15 m/s. Để đi hết quãng đường 18 km, cano cần thời gian bao lâu?",
+    [
+     "20 phút",
+     "1200 phút",
+     "1,2 phút",
+     "270 phút"
+    ],
+    "Đổi 18 km = 18000 m. Thời gian t = 18000 chia 15 = 1200 giây, đổi ra là 20 phút."
+   ],
+   [
+    "Đổi tốc độ 15 m/s ra đơn vị km/h ta được kết quả nào sau đây?",
+    [
+     "54 km/h",
+     "4,16 km/h",
+     "150 km/h",
+     "30 km/h"
+    ],
+    "Lấy 15 nhân 3,6 ta được 54 km/h."
+   ],
+   [
+    "Đổi tốc độ 36 km/h ra đơn vị m/s ta được kết quả nào sau đây?",
+    [
+     "10 m/s",
+     "360 m/s",
+     "129,6 m/s",
+     "6 m/s"
+    ],
+    "Lấy 36 chia 3,6 ta được 10 m/s."
+   ],
+   [
+    "Biển báo giao thông có hình tròn, viền đỏ, nền trắng, số ghi bên trong là 60 có ý nghĩa gì?",
+    [
+     "Tốc độ tối đa cho phép xe chạy là 60 km/h",
+     "Tốc độ tối thiểu xe phải chạy là 60 km/h",
+     "Quãng đường còn lại là 60 km",
+     "Thời gian đi là 60 phút"
+    ],
+    "Biển báo này quy định tốc độ tối đa các phương tiện không được vượt quá."
+   ],
+   [
+    "Một người đi xe máy xuất phát từ nhà lúc 8 giờ và đến cơ quan lúc 8 giờ 45 phút. Biết quãng đường dài 45 km. Tốc độ trung bình của xe máy là bao nhiêu?",
+    [
+     "60 km/h",
+     "45 km/h",
+     "53,3 km/h",
+     "33,7 km/h"
+    ],
+    "Thời gian đi là 45 phút bằng 0,75 giờ. Tốc độ v = 45 chia 0,75 bằng 60 km/h."
+   ],
+   [
+    "Trên đồ thị quãng đường - thời gian, nếu đoạn thẳng biểu diễn chuyển động nằm ngang (song song với trục hoành) thì vật đang ở trạng thái nào?",
+    [
+     "Đứng yên",
+     "Chuyển động đều",
+     "Chuyển động nhanh dần",
+     "Chuyển động chậm dần"
+    ],
+    "Đoạn thẳng nằm ngang nghĩa là thời gian vẫn trôi qua nhưng quãng đường không tăng thêm, tức vật đứng yên."
+   ],
+   [
+    "Một người đi xe đạp trong 2 giờ đầu đi được quãng đường 24 km, trong 1 giờ tiếp theo đi được 15 km. Tốc độ trung bình của người đó trên toàn bộ quãng đường là bao nhiêu?",
+    [
+     "13 km/h",
+     "19,5 km/h",
+     "12 km/h",
+     "15 km/h"
+    ],
+    "Tốc độ trung bình bằng tổng quãng đường chia tổng thời gian: (24 cộng 15) chia (2 cộng 1) = 39 chia 3 = 13 km/h."
+   ],
+   [
+    "Hai thành phố A và B cách nhau 120 km. Một ô tô đi từ A đến B với tốc độ trung bình 40 km/h. Thời gian ô tô đi hết quãng đường đó là:",
+    [
+     "3 giờ",
+     "4,8 giờ",
+     "0,33 giờ",
+     "2 giờ"
+    ],
+    "Thời gian t = 120 chia 40 = 3 giờ."
+   ],
+   [
+    "Một vận động viên chạy nước rút 100 m trong thời gian 10 giây. Tốc độ của vận động viên đó là:",
+    [
+     "10 m/s",
+     "1 m/s",
+     "1000 m/s",
+     "36 m/s"
+    ],
+    "Tốc độ v = 100 chia 10 = 10 m/s."
+   ],
+   [
+    "Muốn tính quãng đường s mà vật đi được khi biết tốc độ v và thời gian t, ta dùng công thức nào?",
+    [
+     "s = v nhân t",
+     "s = v chia t",
+     "s = t chia v",
+     "s = v cộng t"
+    ],
+    "Từ công thức tính tốc độ v = s chia t, ta suy ra quãng đường s = v nhân t."
+   ],
+   [
+    "Muốn tính thời gian t khi biết quãng đường s và tốc độ v của chuyển động đều, ta dùng công thức nào?",
+    [
+     "t = s chia v",
+     "t = v nhân s",
+     "t = v chia s",
+     "t = s cộng v"
+    ],
+    "Thời gian chuyển động được tính bằng quãng đường chia cho tốc độ."
+   ],
+   [
+    "Khi biết tốc độ của một vật là 12 m/s, điều này có ý nghĩa gì?",
+    [
+     "Trong 1 giây vật đi được quãng đường 12 mét",
+     "Trong 12 giây vật đi được quãng đường 1 mét",
+     "Vật đi được 12 km trong 1 giờ",
+     "Vật đi được 1 mét trong 12 giây"
+    ],
+    "Tốc độ 12 m/s nghĩa là cứ mỗi giây trôi qua, vật di chuyển được 12 mét."
+   ],
+   [
+    "Đổi tốc độ 20 m/s ra đơn vị km/h, ta được kết quả là bao nhiêu?",
+    [
+     "72 km/h",
+     "20 km/h",
+     "36 km/h",
+     "54 km/h"
+    ],
+    "Để đổi từ m/s sang km/h ta nhân với 3,6. Lấy 20 nhân 3,6 bằng 72 km/h."
+   ],
+   [
+    "Trên đồ thị quãng đường - thời gian của một vật chuyển động, trục thẳng đứng (trục tung) thường dùng để biểu diễn đại lượng nào?",
+    [
+     "Quãng đường",
+     "Thời gian",
+     "Tốc độ",
+     "Lực tác dụng"
+    ],
+    "Theo quy ước vẽ đồ thị chuyển động, trục tung biểu diễn quãng đường còn trục hoành biểu diễn thời gian."
+   ],
+   [
+    "Đồ thị quãng đường - thời gian của một vật chuyển động thẳng với tốc độ không đổi là một đường có đặc điểm gì?",
+    [
+     "Đường thẳng đi qua gốc tọa độ",
+     "Đường cong bất kì",
+     "Đường thẳng song song với trục tung",
+     "Đường gấp khúc"
+    ],
+    "Chuyển động có tốc độ không đổi biểu diễn trên đồ thị là một đường thẳng xuất phát từ gốc tọa độ."
+   ],
+   [
+    "Trên đồ thị quãng đường - thời gian, đoạn thẳng biểu diễn chuyển động có độ dốc càng lớn thì điều đó thể hiện điều gì?",
+    [
+     "Tốc độ của vật càng lớn",
+     "Quãng đường vật đi được càng ngắn",
+     "Thời gian chuyển động càng dài",
+     "Vật đang đứng yên"
+    ],
+    "Độ dốc của đoạn thẳng trên đồ thị quãng đường - thời gian càng lớn nghĩa là tốc độ chuyển động càng cao."
+   ],
+   [
+    "Một vận động viên bơi lội vượt qua đường bơi dài 100 m trong thời gian 40 giây. Tốc độ bơi của vận động viên là bao nhiêu?",
+    [
+     "2,5 m/s",
+     "4 m/s",
+     "40 m/s",
+     "25 m/s"
+    ],
+    "Lấy quãng đường 100 m chia cho thời gian 40 giây ta được tốc độ là 2,5 m/s."
+   ],
+   [
+    "Một con chim én bay với tốc độ trung bình 15 m/s. Trong thời gian 1 phút, con chim bay được quãng đường bao nhiêu?",
+    [
+     "900 m",
+     "15 m",
+     "90 m",
+     "150 m"
+    ],
+    "Đổi thời gian 1 phút ra 60 giây. Quãng đường bay là 15 nhân 60 bằng 900 mét."
+   ],
+   [
+    "Một ô tô đi với tốc độ 60 km/h và muốn đi hết quãng đường dài 150 km thì cần thời gian bao lâu?",
+    [
+     "2,5 giờ",
+     "1,5 giờ",
+     "2 giờ",
+     "3 giờ"
+    ],
+    "Thời gian đi bằng quãng đường chia tốc độ, lấy 150 chia cho 60 bằng 2,5 giờ."
+   ],
+   [
+    "Lúc 7 giờ 30 phút, một người đi xe đạp khởi hành và đến nơi lúc 9 giờ. Biết quãng đường dài 27 km. Tốc độ của xe đạp là bao nhiêu?",
+    [
+     "18 km/h",
+     "13,5 km/h",
+     "27 km/h",
+     "9 km/h"
+    ],
+    "Thời gian đi là 1 giờ 30 phút hay 1,5 giờ. Tốc độ bằng 27 chia 1,5 bằng 18 km/h."
+   ],
+   [
+    "Một đoàn tàu chạy liên tục trong 3 giờ với tốc độ trung bình 50 km/h. Quãng đường đoàn tàu đi được là bao nhiêu?",
+    [
+     "150 km",
+     "50 km",
+     "15 km",
+     "300 km"
+    ],
+    "Quãng đường đi được tính bằng tốc độ nhân thời gian, lấy 50 nhân 3 bằng 150 km."
+   ],
+   [
+    "Hai địa điểm A và B cách nhau 90 km. Một xe máy đi từ A đến B với tốc độ 45 km/h. Nếu khởi hành lúc 8 giờ thì xe máy đến B vào lúc mấy giờ?",
+    [
+     "10 giờ",
+     "9 giờ",
+     "11 giờ",
+     "12 giờ"
+    ],
+    "Thời gian đi là 90 chia 45 bằng 2 giờ. Thời điểm đến nơi là 8 giờ cộng 2 giờ bằng 10 giờ."
+   ],
+   [
+    "Một người đi bộ với tốc độ trung bình 1,2 m/s trong thời gian 10 phút. Quãng đường người đó đi được là bao nhiêu?",
+    [
+     "720 m",
+     "12 m",
+     "72 m",
+     "1200 m"
+    ],
+    "Đổi 10 phút ra 600 giây. Quãng đường đi được bằng 1,2 nhân 600 bằng 720 mét."
+   ],
+   [
+    "Một chiếc ca nô chạy xuôi dòng sông với tốc độ 30 km/h trong thời gian 45 phút. Quãng đường ca nô chạy được là bao nhiêu?",
+    [
+     "22,5 km",
+     "40,5 km",
+     "13,5 km",
+     "30 km"
+    ],
+    "Đổi 45 phút ra 0,75 giờ. Quãng đường bằng 30 nhân 0,75 bằng 22,5 km."
+   ],
+   [
+    "Một ô tô di chuyển trên đoạn đường đầu dài 60 km hết 1 giờ, đoạn đường tiếp theo dài 90 km hết 2 giờ. Tốc độ trung bình trên cả hai đoạn đường là bao nhiêu?",
+    [
+     "50 km/h",
+     "45 km/h",
+     "75 km/h",
+     "60 km/h"
+    ],
+    "Tốc độ trung bình bằng tổng quãng đường chia tổng thời gian. Tổng quãng đường là 150 km, tổng thời gian là 3 giờ, kết quả là 50 km/h."
+   ],
+   [
+    "Một người đi xe máy nửa quãng đường đầu với tốc độ 40 km/h, nửa quãng đường còn lại với tốc độ 60 km/h. Nếu tổng thời gian đi là 2 giờ thì tổng quãng đường người đó đi được là bao nhiêu?",
+    [
+     "96 km",
+     "100 km",
+     "80 km",
+     "120 km"
+    ],
+    "Gọi tổng quãng đường là 2s. Thời gian nửa đầu là s/40, nửa sau là s/60. Tổng thời gian s/40 + s/60 = 2 suy ra s = 48 km, tổng quãng đường là 96 km."
+   ],
+   [
+    "Thiết bị nào sau đây thường được lắp trên ô tô để tài xế có thể đọc trực tiếp giá trị tốc độ của xe tại từng thời điểm?",
+    [
+     "Tốc kế",
+     "Nhiệt kế",
+     "Lực kế",
+     "Đồng hồ bấm giây"
+    ],
+    "Tốc kế (hoặc công-tơ-mét) là thiết bị dùng để đo trực tiếp tốc độ chuyển động tức thời của phương tiện."
+   ],
+   [
+    "Khi nói tốc độ của một chiếc máy bay là 800 km/h, con số đó cho biết điều gì?",
+    [
+     "Trong thời gian 1 giờ, máy bay đi được quãng đường 800 km.",
+     "Máy bay đi được quãng đường 800 km trong thời gian 800 giờ.",
+     "Tổng quãng đường máy bay bay được trong một ngày là 800 km.",
+     "Thời gian máy bay bay hết 1 km là 800 giờ."
+    ],
+    "Tốc độ 800 km/h nghĩa là trong 1 giờ vật đi được quãng đường 800 km."
+   ],
+   [
+    "Một người đi xe đạp trong 30 phút đi được quãng đường 9 km. Tốc độ của người đi xe đạp tính theo đơn vị km/h là bao nhiêu?",
+    [
+     "18 km/h",
+     "3 km/h",
+     "270 km/h",
+     "4,5 km/h"
+    ],
+    "Đổi 30 phút = 0,5 giờ. Tốc độ v = s/t = 9/0,5 = 18 km/h."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c5": [
+   [
+    "Trong các dữ liệu sau, dữ liệu nào là dữ liệu định tính?",
+    [
+     "Xếp loại học lực của học sinh (Tốt, Khá, Đạt, Chưa đạt)",
+     "Số học sinh tham gia câu lạc bộ Toán học",
+     "Nhiệt độ trung bình các tháng trong năm",
+     "Số điểm 10 đạt được trong kì kiểm tra"
+    ],
+    "Xếp loại học lực được biểu diễn bằng các từ ngữ (Tốt, Khá, Đạt, Chưa đạt) nên là dữ liệu định tính. Các dữ liệu còn lại đều biểu diễn bằng số nên là dữ liệu định lượng."
+   ],
+   [
+    "Để theo dõi số lượng học sinh nghỉ học của trường qua các tuần trong một học kì, biểu đồ nào sau đây là thích hợp nhất?",
+    [
+     "Biểu đồ đoạn thẳng",
+     "Biểu đồ hình quạt tròn",
+     "Biểu đồ cột đôi",
+     "Biểu đồ tranh"
+    ],
+    "Biểu đồ đoạn thẳng phù hợp nhất để biểu diễn diễn biến, xu hướng thay đổi của một đại lượng theo thời gian."
+   ],
+   [
+    "Cách thu thập dữ liệu nào sau đây là thu thập gián tiếp?",
+    [
+     "Tìm kiếm thông tin về dân số Việt Nam trên trang web của Tổng cục Thống kê",
+     "Lập phiếu khảo sát sở thích đọc sách của các bạn trong lớp",
+     "Phỏng vấn trực tiếp các bạn học sinh về phương tiện đi học",
+     "Đo chiều cao của các bạn trong đội bóng rổ"
+    ],
+    "Thu thập gián tiếp là thu thập dữ liệu từ các nguồn có sẵn như sách, báo, trang web,... mà không trực tiếp đo đạc, quan sát hay phỏng vấn."
+   ],
+   [
+    "Trên biểu đồ hình quạt tròn, toàn bộ hình tròn biểu diễn bao nhiêu phần trăm?",
+    [
+     "100%",
+     "50%",
+     "360%",
+     "10%"
+    ],
+    "Toàn bộ hình tròn trên biểu đồ quạt tròn biểu diễn tổng thể tương ứng với 100%."
+   ],
+   [
+    "Trong các dữ liệu về sĩ số học sinh các lớp khối 7: 40, 42, 45, -5, 38. Dữ liệu không hợp lý là:",
+    [
+     "-5",
+     "40",
+     "45",
+     "38"
+    ],
+    "Sĩ số học sinh không thể là số âm, do đó -5 là dữ liệu không hợp lý."
+   ],
+   [
+    "Biểu đồ hình quạt tròn được chia thành 5 phần bằng nhau. Mỗi phần đại diện cho bao nhiêu phần trăm?",
+    [
+     "20%",
+     "25%",
+     "50%",
+     "5%"
+    ],
+    "Toàn bộ hình quạt là 100%. Chia thành 5 phần bằng nhau thì mỗi phần chiếm 100% : 5 = 20%."
+   ],
+   [
+    "Dữ liệu nào sau đây thuộc loại dữ liệu định lượng?",
+    [
+     "Chiều dài của các cây cầu ở Việt Nam",
+     "Thương hiệu điện thoại đang sử dụng",
+     "Tên các món ăn ưa thích",
+     "Nơi sinh của các học sinh"
+    ],
+    "Chiều dài của các cây cầu là số liệu đo đạc bằng đơn vị độ dài nên là dữ liệu định lượng."
+   ],
+   [
+    "Khi biểu diễn dữ liệu bằng biểu đồ đoạn thẳng, trục nằm ngang thường biểu diễn đại lượng nào?",
+    [
+     "Thời gian",
+     "Số lượng",
+     "Tỉ lệ phần trăm",
+     "Tần số"
+    ],
+    "Trong biểu đồ đoạn thẳng biểu diễn sự thay đổi theo thời gian, trục nằm ngang (trục hoành) thường biểu diễn mốc thời gian."
+   ],
+   [
+    "Một biểu đồ hình quạt tròn có biểu diễn tỉ lệ học sinh tham gia các câu lạc bộ. Góc ở tâm ứng với câu lạc bộ Âm nhạc là 72°. Hỏi câu lạc bộ Âm nhạc chiếm tỉ lệ bao nhiêu phần trăm?",
+    [
+     "20%",
+     "72%",
+     "36%",
+     "18%"
+    ],
+    "Cả đường tròn ứng với 360° là 100%. Góc 72° ứng với tỉ lệ (72 : 360) . 100% = 20%."
+   ],
+   [
+    "Biểu đồ đoạn thẳng thể hiện số lượng sản phẩm bán được của một cửa hàng từ tháng 1 đến tháng 6. Nếu đoạn thẳng nối từ mốc tháng 3 đến tháng 4 đi xuống từ trái sang phải, điều đó có nghĩa là gì?",
+    [
+     "Số lượng sản phẩm tháng 4 giảm so với tháng 3",
+     "Số lượng sản phẩm tháng 4 tăng so với tháng 3",
+     "Số lượng sản phẩm tháng 4 không đổi so với tháng 3",
+     "Số lượng sản phẩm tháng 3 bằng 0"
+    ],
+    "Đoạn thẳng đi xuống từ trái sang phải biểu thị sự giảm đi của giá trị dữ liệu theo thời gian."
+   ],
+   [
+    "Hình quạt tròn biểu diễn thể loại phim yêu thích có góc ở tâm tương ứng với phim Hoạt hình là 144°. Tỉ lệ học sinh thích phim Hoạt hình là:",
+    [
+     "40%",
+     "30%",
+     "14,4%",
+     "50%"
+    ],
+    "Tỉ lệ phần trăm tương ứng với góc 144° là (144 : 360) . 100% = 40%."
+   ],
+   [
+    "Khảo sát về nhãn hiệu sữa tươi 40 bạn học sinh uống mỗi ngày, thu được các phản hồi: Vinamilk, TH True Milk, Nutifood, 100 lít, Dutch Lady. Dữ liệu nào không hợp lý?",
+    [
+     "100 lít",
+     "Vinamilk",
+     "TH True Milk",
+     "Nutifood"
+    ],
+    "Đang khảo sát nhãn hiệu sữa (dữ liệu định tính), câu trả lời “100 lít” là số đo thể tích nên không hợp lý."
+   ],
+   [
+    "Lớp 7B có 40 học sinh. Kết quả bình chọn lớp trưởng cho thấy bạn Nam đạt 60% số phiếu. Bạn Nam nhận được bao nhiêu phiếu bầu?",
+    [
+     "24 phiếu",
+     "20 phiếu",
+     "12 phiếu",
+     "30 phiếu"
+    ],
+    "Số phiếu bầu bạn Nam nhận được là 40 . 60% = 24 phiếu."
+   ],
+   [
+    "Một khảo sát cho biết tỉ lệ xếp loại học lực học sinh khối 7 gồm: Tốt chiếm 25%, Khá chiếm 50%, Đạt chiếm 20%, còn lại là Chưa đạt. Tỉ lệ học sinh Chưa đạt là:",
+    [
+     "5%",
+     "10%",
+     "15%",
+     "0%"
+    ],
+    "Tỉ lệ học sinh Chưa đạt là 100% - (25% + 50% + 20%) = 5%."
+   ],
+   [
+    "Số lượt người vào thư viện trường trong 5 ngày tuần trước lần lượt là: 45, 52, 60, 38, 55. Trung bình mỗi ngày có bao nhiêu lượt người vào thư viện?",
+    [
+     "50 lượt",
+     "52 lượt",
+     "48 lượt",
+     "55 lượt"
+    ],
+    "Số lượt người trung bình mỗi ngày là (45 + 52 + 60 + 38 + 55) : 5 = 250 : 5 = 50 lượt."
+   ],
+   [
+    "Lớp 7C có 45 học sinh. Trong cuộc khảo sát môn học yêu thích, có 18 học sinh chọn môn Toán. Trên biểu đồ hình quạt tròn, phần đại diện cho môn Toán chiếm góc ở tâm là bao nhiêu?",
+    [
+     "144°",
+     "40°",
+     "72°",
+     "108°"
+    ],
+    "Tỉ lệ học sinh chọn môn Toán là 18 : 45 = 40%. Góc ở tâm biểu diễn môn Toán là 360° . 40% = 144°."
+   ],
+   [
+    "Số lượng mặt hàng A bán được trong 3 tháng đầu năm lần lượt là 120, 150, 180 sản phẩm. Nếu xu hướng tăng trưởng tiếp tục giữ nguyên theo biểu đồ đoạn thẳng, số sản phẩm tháng 4 dự kiến bán được là:",
+    [
+     "210 sản phẩm",
+     "200 sản phẩm",
+     "190 sản phẩm",
+     "220 sản phẩm"
+    ],
+    "Số sản phẩm mỗi tháng tăng đều 30 sản phẩm (150 - 120 = 30; 180 - 150 = 30). Tương tự, tháng 4 sẽ bán được 180 + 30 = 210 sản phẩm."
+   ],
+   [
+    "Dữ liệu nào sau đây là dữ liệu số (dữ liệu định lượng)?",
+    [
+     "Chiều cao (tính bằng cm) của các bạn học sinh trong tổ 1",
+     "Tên các món ăn ưa thích của các thành viên trong gia đình",
+     "Mức độ hài lòng (Rất hài lòng, Hài lòng, Không hài lòng) về dịch vụ",
+     "Nơi sinh (Hà Nội, Nam Định, Đà Nẵng) của các bạn trong lớp"
+    ],
+    "Chiều cao biểu diễn bằng số là dữ liệu số, các dữ liệu còn lại là dữ liệu phi số (định tính)."
+   ],
+   [
+    "Thu thập dữ liệu bằng cách lập phiếu hỏi ý kiến trực tiếp từ các bạn học sinh thuộc phương pháp nào?",
+    [
+     "Thu thập dữ liệu trực tiếp",
+     "Thu thập dữ liệu gián tiếp",
+     "Thu thập từ nguồn internet",
+     "Thu thập từ sách báo, niên giám thống kê"
+    ],
+    "Việc lập phiếu hỏi ý kiến là phương pháp phỏng vấn, khảo sát trực tiếp để lấy dữ liệu."
+   ],
+   [
+    "Tổng các tỉ lệ phần trăm của tất cả các thành phần trong một biểu đồ hình quạt tròn bằng bao nhiêu?",
+    [
+     "100%",
+     "360%",
+     "180%",
+     "50%"
+    ],
+    "Toàn bộ hình tròn đại diện cho tổng thể và có tổng tỉ lệ là 100%."
+   ],
+   [
+    "Trên biểu đồ hình quạt tròn, góc ở tâm biểu diễn toàn bộ hình tròn có số đo bằng bao nhiêu?",
+    [
+     "360°",
+     "180°",
+     "100°",
+     "90°"
+    ],
+    "Góc ở tâm biểu diễn toàn bộ hình tròn tương ứng với góc đầy 360°."
+   ],
+   [
+    "Trục đứng trong biểu đồ đoạn thẳng thường biểu diễn đại lượng nào?",
+    [
+     "Số lượng (hoặc tần số, tỉ lệ) của đối tượng thống kê",
+     "Thời gian (ngày, tháng, năm)",
+     "Tên của các đối tượng được điều tra",
+     "Tỉ lệ phần trăm dưới dạng góc ở tâm"
+    ],
+    "Trong biểu đồ đoạn thẳng, trục nằm ngang thường biểu diễn thời gian, trục đứng biểu diễn số lượng/số liệu của đối tượng."
+   ],
+   [
+    "Cho dãy số liệu về số học sinh vắng mặt mỗi ngày trong tuần: 1, 0, 2, 80, 1. Giá trị nào bất thường (không hợp lý)?",
+    [
+     "80",
+     "0",
+     "2",
+     "1"
+    ],
+    "Số học sinh vắng mặt trong một ngày của một lớp thường nhỏ, giá trị 80 là quá lớn so với sĩ số thông thường của một lớp học."
+   ],
+   [
+    "Để biểu diễn diễn biến số học sinh đạt giải học sinh giỏi của trường qua từng năm từ 2018 đến 2023, loại biểu đồ nào thích hợp nhất?",
+    [
+     "Biểu đồ đoạn thẳng",
+     "Biểu đồ hình quạt tròn",
+     "Biểu đồ tranh",
+     "Bảng thống kê không có trục thời gian"
+    ],
+    "Biểu đồ đoạn thẳng phù hợp nhất để thể hiện sự thay đổi, xu hướng của dữ liệu theo thời gian."
+   ],
+   [
+    "Biểu đồ hình quạt tròn dùng để làm gì?",
+    [
+     "So sánh tỉ lệ phần trăm của các thành phần so với toàn thể",
+     "Biểu diễn sự thay đổi của dữ liệu theo thời gian",
+     "Mô tả chính xác vị trí địa lý của các tỉnh thành",
+     "Liệt kê các danh mục phi số liệu theo thứ tự bảng chữ cái"
+    ],
+    "Biểu đồ hình quạt tròn biểu diễn tỉ lệ phần trăm của từng phần so với tổng thể."
+   ],
+   [
+    "Khảo sát thời gian tự học ở nhà (giờ/ngày) của 5 học sinh thu được: 2; 1,5; 3; -1; 2,5. Số liệu nào không hợp lý?",
+    [
+     "-1",
+     "1,5",
+     "2,5",
+     "3"
+    ],
+    "Thời gian không thể nhận giá trị âm, nên -1 là dữ liệu không hợp lý."
+   ],
+   [
+    "Trong biểu đồ đoạn thẳng, nếu đoạn thẳng nối giữa hai điểm thời gian nằm ngang (song song với trục hoành), điều đó cho biết:",
+    [
+     "Số liệu không thay đổi trong khoảng thời gian đó",
+     "Số liệu tăng nhanh trong khoảng thời gian đó",
+     "Số liệu giảm mạnh trong khoảng thời gian đó",
+     "Không thể xác định được sự thay đổi của số liệu"
+    ],
+    "Đoạn thẳng nằm ngang thể hiện giá trị số liệu ở hai mốc thời gian là bằng nhau, tức không thay đổi."
+   ],
+   [
+    "Góc ở tâm biểu diễn hình quạt của một thành phần có số đo là 54°. Thành phần đó chiếm bao nhiêu phần trăm tổng thể?",
+    [
+     "15%",
+     "20%",
+     "12%",
+     "18%"
+    ],
+    "Tỉ lệ phần trăm là (54 / 360) . 100% = 15%."
+   ],
+   [
+    "Thành phần A chiếm 30% trong tổng thể. Khi biểu diễn trên biểu đồ hình quạt tròn, góc ở tâm tương ứng với thành phần A là:",
+    [
+     "108°",
+     "120°",
+     "90°",
+     "72°"
+    ],
+    "Góc ở tâm tương ứng là 360° . 30% = 108°."
+   ],
+   [
+    "Để tìm hiểu tỉ lệ phần trăm diện tích trồng các loại cây (lúa, hoa màu, cây ăn quả) của một trang trại, người ta nên dùng loại biểu đồ nào?",
+    [
+     "Biểu đồ hình quạt tròn",
+     "Biểu đồ đoạn thẳng",
+     "Biểu đồ đường thẳng song song",
+     "Sơ đồ tư duy"
+    ],
+    "Biểu đồ hình quạt tròn dùng để thể hiện cơ cấu, tỉ lệ phần trăm các phần trong một tổng thể."
+   ],
+   [
+    "Một người ghi lại mực nước sông (cm) đo được lúc 6 giờ sáng mỗi ngày trong 4 ngày: 120; 125; 130; 135. Nếu xu hướng tăng đều này tiếp tục, mực nước ngày thứ 5 dự đoán là:",
+    [
+     "140 cm",
+     "145 cm",
+     "150 cm",
+     "138 cm"
+    ],
+    "Mỗi ngày mực nước tăng thêm 5 cm, nên ngày thứ 5 dự đoán là 135 + 5 = 140 cm."
+   ],
+   [
+    "Trên biểu đồ đoạn thẳng biểu diễn nhiệt độ trong ngày, lúc 8 giờ là 24°C và lúc 12 giờ là 32°C. Nhiệt độ lúc 12 giờ tăng bao nhiêu phần trăm so với lúc 8 giờ?",
+    [
+     "33,33%",
+     "25%",
+     "8%",
+     "75%"
+    ],
+    "Nhiệt độ tăng 32 - 24 = 8°C. Tỉ lệ tăng so với lúc 8 giờ là (8 / 24) . 100% ≈ 33,33%."
+   ],
+   [
+    "Biểu đồ hình quạt tròn biểu diễn các món ăn sáng ưa thích của 160 học sinh. Biết phần bánh mì chiếm 45%. Số học sinh chọn bánh mì là:",
+    [
+     "72 học sinh",
+     "80 học sinh",
+     "65 học sinh",
+     "70 học sinh"
+    ],
+    "Số học sinh thích bánh mì là 160 . 45% = 72 học sinh."
+   ],
+   [
+    "Muốn đọc dữ liệu từ báo cáo thống kê tình hình dân số Việt Nam năm 2022 trên website của Tổng cục Thống kê, ta đang thu thập dữ liệu bằng cách nào?",
+    [
+     "Gián tiếp thông qua nguồn tài liệu có sẵn",
+     "Trực tiếp bằng cách lập phiếu điều tra",
+     "Trực tiếp bằng cách đo đạc thực địa",
+     "Trực tiếp bằng cách làm thí nghiệm"
+    ],
+    "Lấy số liệu từ website, sách báo hay cơ sở dữ liệu có sẵn là thu thập dữ liệu gián tiếp."
+   ],
+   [
+    "Khảo sát loại phương tiện đi lại của học sinh khối 7, dữ liệu nào sau đây là dữ liệu không là số và không thể sắp thứ tự?",
+    [
+     "Xe đạp, Xe máy điện, Xe buýt, Đi bộ",
+     "Xuất sắc, Giỏi, Khá, Trung bình",
+     "10 km, 5 km, 2 km, 1 km",
+     "30 học sinh, 40 học sinh, 35 học sinh"
+    ],
+    "Tên phương tiện là dữ liệu định tính không thể sắp xếp theo thứ tự thứ hạng."
+   ],
+   [
+    "Trong các dữ liệu sau, dữ liệu nào là dữ liệu định tính có thể sắp xếp theo thứ tự?",
+    [
+     "Xếp loại học lực của học sinh gồm Tốt, Khá, Đạt, Chưa đạt",
+     "Tên các môn học của lớp 7 gồm Toán, Văn, Anh, Sử",
+     "Cân nặng của các bạn học sinh trong lớp tính bằng kilogam",
+     "Số lượng sách trong thư viện của các lớp khối 7"
+    ],
+    "Xếp loại học lực là dữ liệu định tính và có thể sắp xếp theo thứ tự từ cao xuống thấp (hoặc ngược lại)."
+   ],
+   [
+    "Để tìm hiểu về số lượng ti vi bán được của một siêu thị điện máy trong các năm từ 2018 đến 2023, loại biểu đồ nào biểu diễn sự thay đổi đó theo thời gian là thích hợp nhất?",
+    [
+     "Biểu đồ đoạn thẳng",
+     "Biểu đồ hình quạt tròn",
+     "Bảng thống kê ban đầu",
+     "Biểu đồ tranh"
+    ],
+    "Biểu đồ đoạn thẳng rất thích hợp để biểu diễn sự thay đổi của một đại lượng theo thời gian."
+   ],
+   [
+    "Một cửa hàng ghi lại số lượng áo bán được trong 4 tuần lần lượt là 50, 65, 60 và 75 chiếc. Hỏi tổng số áo cửa hàng bán được trong 4 tuần là bao nhiêu?",
+    [
+     "250 chiếc",
+     "240 chiếc",
+     "260 chiếc",
+     "230 chiếc"
+    ],
+    "Cộng tổng số áo các tuần lại ta có 50 + 65 + 60 + 75 = 250 chiếc."
+   ],
+   [
+    "Trong một cuộc khảo sát về màu áo đồng phục yêu thích của 200 học sinh khối 7, có 80 học sinh chọn màu xanh. Trên biểu đồ hình quạt tròn, hình quạt biểu diễn màu xanh chiếm số đo góc ở tâm là bao nhiêu độ?",
+    [
+     "144°",
+     "72°",
+     "108°",
+     "36°"
+    ],
+    "Tỉ lệ số học sinh chọn màu xanh là 80/200 = 40%. Góc ở tâm tương ứng là 40% của 360° tính ra bằng 144°."
+   ],
+   [
+    "Bạn An muốn thu thập dữ liệu về chiều cao (tính bằng cm) của các bạn trong tổ. Cách làm nào sau đây là thu thập dữ liệu trực tiếp?",
+    [
+     "Đo trực tiếp chiều cao từng bạn bằng thước dây",
+     "Hỏi giáo viên chủ nhiệm xem mỗi bạn cao bao nhiêu",
+     "Xem lại học bạ của lớp từ năm lớp 6",
+     "Đọc một bài viết trên mạng internet về chiều cao trung bình học sinh"
+    ],
+    "Tự đo chiều cao bằng thước dây là cách thu thập dữ liệu trực tiếp từ nguồn."
+   ]
+  ]
+ }
+}

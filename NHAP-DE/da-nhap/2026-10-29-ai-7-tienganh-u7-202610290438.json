@@ -1,0 +1,406 @@
+{
+ "7-tienganh": {
+  "u7": [
+   [
+    "Which word means a vehicle with two wheels that is powered by an engine?",
+    [
+     "motorbike",
+     "bicycle",
+     "train",
+     "plane"
+    ],
+    "Motorbike là xe máy, phương tiện có hai động cơ. Bicycle chỉ là xe đạp không có động cơ gắn máy."
+   ],
+   [
+    "Choose the word that has the underlined part pronounced differently: m<u>a</u>p, c<u>a</u>r, c<u>a</u>t, h<u>a</u>t.",
+    [
+     "car",
+     "map",
+     "cat",
+     "hat"
+    ],
+    "Từ car phát âm là /ɑː/, các từ còn lại phát âm âm /æ/."
+   ],
+   [
+    "Choose the word that has the underlined part pronounced differently: st<u>o</u>p, r<u>o</u>ad, l<u>o</u>ck, p<u>o</u>t.",
+    [
+     "road",
+     "stop",
+     "lock",
+     "pot"
+    ],
+    "Từ road phát âm là /əʊ/, các từ còn lại phát âm âm /ɒ/ ngắn."
+   ],
+   [
+    "Choose the word with a different stress pattern: signall<u>i</u>ng, v<u>e</u>hicle, p<u>a</u>ssenger, h<u>e</u>lmet.",
+    [
+     "signalling",
+     "vehicle",
+     "passenger",
+     "helmet"
+    ],
+    "Từ signalling trọng âm rơi vào âm tiết đầu nhưng có cấu trúc 3 âm tiết với đuôi ing, hoặc xét về nhịp điệu thì vehicle, passenger, helmet đều trọng âm 1. Thực tế signalling trọng âm 1, nhưng để tránh nhầm ta chọn từ khác biệt rõ ràng về số âm tiết hoặc cấu trúc: railway, station, driver, policeman."
+   ],
+   [
+    "Choose the word with a different stress pattern: bicyc..., let's use: station, ticket, airport, police.",
+    [
+     "police",
+     "station",
+     "ticket",
+     "airport"
+    ],
+    "Từ police có trọng âm rơi vào âm tiết thứ hai (/pəˈliːs/), các từ còn lại có trọng âm ở âm tiết thứ nhất."
+   ],
+   [
+    "We must always ___ the speed limit when driving through residential areas.",
+    [
+     "follow",
+     "break",
+     "ignore",
+     "miss"
+    ],
+    "Follow the speed limit nghĩa là tuân theo giới hạn tốc độ khi lái xe."
+   ],
+   [
+    "In Viet Nam, people usually travel ___ work by motorbike.",
+    [
+     "to",
+     "at",
+     "in",
+     "on"
+    ],
+    "Cấu trúc travel to somewhere nghĩa là đi đến đâu đó."
+   ],
+   [
+    "You should check your bicycle brakes carefully before ___ down a hill.",
+    [
+     "riding",
+     "walk",
+     "drive",
+     "fly"
+    ],
+    "Trước khi đạp xe xuống dốc cần kiểm tra phanh, dùng động từ riding phù hợp với bicycle."
+   ],
+   [
+    "The ___ directs traffic and helps keep order at busy intersections.",
+    [
+     "traffic police",
+     "driver",
+     "passenger",
+     "pedestrian"
+    ],
+    "Cảnh sát giao thông (traffic police) là người điều khiển giao thông tại các ngã tư đông đúc."
+   ],
+   [
+    "My father often listens to traffic ___ on the radio before driving to work.",
+    [
+     "reports",
+     "books",
+     "songs",
+     "games"
+    ],
+    "Traffic reports là bản tin giao thông giúp tài xế nắm bắt tình hình đường xá."
+   ],
+   [
+    "Mai wants to catch a flight to Nha Trang, so she is going to the ___.",
+    [
+     "airport",
+     "bus stop",
+     "railway station",
+     "port"
+    ],
+    "Để đi máy bay (catch a flight), Mai phải đến sân bay (airport)."
+   ],
+   [
+    "Nam missed his usual bus because he woke up late. He decided to take a ___ instead.",
+    [
+     "taxi",
+     "plane",
+     "ship",
+     "boat"
+    ],
+    "Đi lại trong thành phố khi lỡ xe buýt, Nam có thể chọn đi taxi."
+   ],
+   [
+    "What does this road sign mean? It shows a red circle with a white horizontal bar inside.",
+    [
+     "No entry",
+     "Parking allowed",
+     "Traffic light ahead",
+     "School zone"
+    ],
+    "Biển báo có vòng tròn đỏ và thanh ngang trắng ở giữa có nghĩa là cấm vào (No entry)."
+   ],
+   [
+    "Lan is walking on the sidewalk. She wants to cross the busy street safely. What should she look for?",
+    [
+     "A zebra crossing",
+     "A parking lot",
+     "A petrol station",
+     "A bus stop"
+    ],
+    "Để băng qua đường an toàn, người đi bộ nên tìm vạch sang đường (zebra crossing)."
+   ],
+   [
+    "If everyone uses public transport more often, our city will have less air ___.",
+    [
+     "pollution",
+     "noise",
+     "traffic",
+     "water"
+    ],
+    "Sử dụng phương tiện công cộng giúp giảm ô nhiễm không khí (air pollution)."
+   ],
+   [
+    "Which of these vehicles does NOT need fuel or electricity to move?",
+    [
+     "Bicycle",
+     "Car",
+     "Bus",
+     "Motorbike"
+    ],
+    "Xe đạp (bicycle) chạy bằng sức người, không cần nhiên liệu hay điện."
+   ],
+   [
+    "When you are riding a bike at night, you should turn on your bicycle ___ so others can see you.",
+    [
+     "lights",
+     "bells",
+     "seats",
+     "pedals"
+    ],
+    "Đi xe đạp vào ban đêm cần bật đèn (lights) để người khác nhìn thấy và tránh tai nạn."
+   ],
+   [
+    "Phong wants to travel from Ha Noi to Hai Phong by train. Where should he buy the tickets?",
+    [
+     "At the railway station ticket counter",
+     "At the airport desk",
+     "At the bus stop",
+     "At the petrol station"
+    ],
+    "Đi tàu hỏa (train) thì phải mua vé tại quầy vé ở ga tàu (railway station)."
+   ],
+   [
+    "Why do drivers need to keep a safe distance from the vehicle in front of them?",
+    [
+     "To avoid crashing if it stops suddenly",
+     "To drive faster than other cars",
+     "To listen to music more clearly",
+     "To save more petrol"
+    ],
+    "Giữ khoảng cách an toàn giúp tài xế tránh va chạm nếu xe phía trước dừng đột ngột."
+   ],
+   [
+    "Your friend is about to cross the street without looking at the traffic lights. What is the best advice?",
+    [
+     "Stop and wait for the green light, please.",
+     "Run across the street as fast as you can.",
+     "Close your eyes and keep walking.",
+     "Ignore the red light and go."
+    ],
+    "Lời khuyên đúng đắn là dừng lại và chờ đèn xanh trước khi qua đường."
+   ],
+   [
+    "Choose the word that has the underlined part pronounced differently: p<u>e</u>dal, h<u>e</u>lm, g<u>e</u>ar, m<u>e</u>tro.",
+    [
+     "gear",
+     "pedal",
+     "helm",
+     "metro"
+    ],
+    "Tu gear co phat am la /gɪər/ trong khi cac tu con lai phat am la /e/."
+   ],
+   [
+    "Choose the word that has the underlined part pronounced differently: th<u>i</u>nk, b<u>i</u>ke, dr<u>i</u>ve, r<u>i</u>de.",
+    [
+     "think",
+     "bike",
+     "drive",
+     "ride"
+    ],
+    "Tu think co phat am nguyen am la /ɪ/ con cac tu con lai la /aɪ/."
+   ],
+   [
+    "Choose the word with a different stress pattern: <u>e</u>ngine, tr<u>a</u>ffic, c<u>y</u>cling, c<u>a</u>nal.",
+    [
+     "canal",
+     "engine",
+     "traffic",
+     "cycling"
+    ],
+    "Tu canal co trong am roi vao am tiet thu hai, cac tu con lai roi vao am tiet dau tien."
+   ],
+   [
+    "Choose the word with a different stress pattern: c<u>o</u>mmute, j<u>u</u>nction, p<u>a</u>thway, s<u>a</u>fety.",
+    [
+     "commute",
+     "junction",
+     "pathway",
+     "safety"
+    ],
+    "Tu commute co trong am roi vao am tiet thu hai, cac tu con lai roi vao am tiet dau tien."
+   ],
+   [
+    "Always wear your ___ securely when riding a motorbike to protect your head.",
+    [
+     "helmet",
+     "jacket",
+     "shoes",
+     "gloves"
+    ],
+    "Doi mu bao hiem (helmet) giup bao ve dau khi di xe may."
+   ],
+   [
+    "Pedestrians should use the ___ when they want to walk across the street safely.",
+    [
+     "zebra crossing",
+     "bus stop",
+     "railway track",
+     "parking lot"
+    ],
+    "Vach qua duong cho nguoi di bo goi la zebra crossing."
+   ],
+   [
+    "Be careful! The road is wet and slippery, so you should slow ___.",
+    [
+     "down",
+     "up",
+     "in",
+     "out"
+    ],
+    "Cum tu slow down co nghia la di cham lai, giam toc do."
+   ],
+   [
+    "Passengers must buy a ___ before getting on the bus in some big cities.",
+    [
+     "ticket",
+     "paper",
+     "card",
+     "sign"
+    ],
+    "Hanh khach phai mua ve (ticket) truoc khi len xe buyt."
+   ],
+   [
+    "You should not run across the road because it is very ___.",
+    [
+     "dangerous",
+     "safe",
+     "easy",
+     "clean"
+    ],
+    "Chay qua duong rat nguy hiem (dangerous)."
+   ],
+   [
+    "My father usually travels to his office ___ his own car.",
+    [
+     "in",
+     "on",
+     "by",
+     "at"
+    ],
+    "Cau truc di lai trong oto dung gioi tu in (in his own car)."
+   ],
+   [
+    "Look at that sign! It means you must not ___ here.",
+    [
+     "turn left",
+     "go straight",
+     "walk",
+     "ride"
+    ],
+    "Bien bao cam re trai (no left turn) thuong co mui ten chi huong bi cam."
+   ],
+   [
+    "Mai is waiting ___ her friends at the corner of the street.",
+    [
+     "for",
+     "at",
+     "to",
+     "with"
+    ],
+    "Cau truc wait for ai do co nghia la doi ai do."
+   ],
+   [
+    "The ___ controls the movement of vehicles at busy road intersections.",
+    [
+     "traffic light",
+     "street light",
+     "road sign",
+     "sidewalk"
+    ],
+    "Den giao thong (traffic light) giup dieu tiet cac phuong tien."
+   ],
+   [
+    "Too many cars and motorbikes on the streets during rush hour cause traffic ___.",
+    [
+     "jams",
+     "lights",
+     "signs",
+     "rules"
+    ],
+    "Tac duong goi la traffic jams."
+   ],
+   [
+    "If people obey traffic rules strictly, there will be ___ accidents on the roads.",
+    [
+     "fewer",
+     "more",
+     "less",
+     "many"
+    ],
+    "Accidents la danh tu dem duoc so nhieu nen dung fewer chi so luong it hon."
+   ],
+   [
+    "What does this road sign with a red triangle and a child running mean?",
+    [
+     "Children crossing ahead",
+     "No children allowed",
+     "School bus stop",
+     "Playground nearby"
+    ],
+    "Bien bao hinh tam giac do co hinh tre em chay la canh bao tre em qua duong phia truoc."
+   ],
+   [
+    "Your friend wants to ride a bike to school, but his bike chain is broken. What is your advice?",
+    [
+     "You should fix it before riding.",
+     "You should ride it fast.",
+     "You should leave it on the road.",
+     "You should buy a new car."
+    ],
+    "Loi khuyen hop ly nhat la sua xe truoc khi di."
+   ],
+   [
+    "Why should we use public transport like buses and trains more often?",
+    [
+     "To reduce air pollution and traffic jams",
+     "To make the city noisier",
+     "To spend more money",
+     "To travel slower than walking"
+    ],
+    "Su dung phuong tien cong cong giup giam o nhiem khong khí và tac duong."
+   ],
+   [
+    "Nam lives two kilometers from school. He sometimes walks, and sometimes he cycles. How does he usually travel?",
+    [
+     "By foot or by bike",
+     "By plane or by train",
+     "By ship or by boat",
+     "By helicopter"
+    ],
+    "Di bo (on foot) va di xe dap (by bike) phu hop voi khoang cach 2 km."
+   ],
+   [
+    "You see an elderly woman trying to cross a very busy road. What should you do to help?",
+    [
+     "Help her walk across safely at the zebra crossing.",
+     "Tell her to run as fast as possible.",
+     "Ignore her and walk away.",
+     "Ask her to drive a car."
+    ],
+    "Giup ba cu sang duong an toan tai vach qua duong la hanh dong dung dan."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c12": [
+   [
+    "Kết quả của phép tính nhẩm 80 000 - 30 000 là bao nhiêu?",
+    [
+     "50 000",
+     "40 000",
+     "60 000",
+     "500 000"
+    ],
+    "Ta lấy 8 chục nghìn trừ 3 chục nghìn bằng 5 chục nghìn (50 000)."
+   ],
+   [
+    "Kết quả của phép tính 32 415 + 45 231 là bao nhiêu?",
+    [
+     "77 646",
+     "77 640",
+     "77 546",
+     "67 646"
+    ],
+    "Đặt tính và cộng từ phải sang trái ta được 32 415 + 45 231 = 77 646."
+   ],
+   [
+    "Kết quả của phép tính 85 964 - 23 412 là bao nhiêu?",
+    [
+     "62 552",
+     "62 550",
+     "62 452",
+     "52 552"
+    ],
+    "Đặt tính và trừ từ phải sang trái ta được 85 964 - 23 412 = 62 552."
+   ],
+   [
+    "Số gồm 4 chục nghìn, 5 nghìn, 2 trăm, 3 chục và 6 đơn vị là số nào?",
+    [
+     "45 236",
+     "54 236",
+     "45 326",
+     "45 263"
+    ],
+    "Viết các chữ số vào hàng tương ứng ta được số 45 236."
+   ],
+   [
+    "Giá trị của biểu thức 15 000 + 35 000 - 20 000 là bao nhiêu?",
+    [
+     "30 000",
+     "50 000",
+     "20 000",
+     "40 000"
+    ],
+    "Thực hiện lần lượt từ trái sang phải: 15 000 + 35 000 = 50 000, sau đó 50 000 - 20 000 = 30 000."
+   ],
+   [
+    "Tìm x, biết: x + 24 150 = 68 370.",
+    [
+     "x = 44 220",
+     "x = 92 520",
+     "x = 44 120",
+     "x = 44 250"
+    ],
+    "Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết: 68 370 - 24 150 = 44 220."
+   ],
+   [
+    "Tìm y, biết: y - 18 200 = 31 500.",
+    [
+     "y = 49 700",
+     "y = 13 300",
+     "y = 49 200",
+     "y = 48 700"
+    ],
+    "Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ: 31 500 + 18 200 = 49 700."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm: 56 428 + ... = 56 428.",
+    [
+     "0",
+     "1",
+     "56 428",
+     "10"
+    ],
+    "Bất kỳ số nào cộng với 0 cũng bằng chính số đó."
+   ],
+   [
+    "Một kho hàng có 45 800 kg gạo, sau khi xuất đi 12 600 kg gạo thì trong kho còn lại bao nhiêu ki-lô-gam gạo?",
+    [
+     "33 200 kg",
+     "58 400 kg",
+     "33 400 kg",
+     "32 200 kg"
+    ],
+    "Số kg gạo còn lại là: 45 800 - 12 600 = 33 200 (kg)."
+   ],
+   [
+    "Cửa hàng ngày thứ nhất bán được 18 250 l xăng, ngày thứ hai bán được 21 340 l xăng. Cả hai ngày cửa hàng bán được bao nhiêu lít xăng?",
+    [
+     "39 590 l",
+     "39 580 l",
+     "39 490 l",
+     "49 590 l"
+    ],
+    "Tổng số lít xăng bán trong cả hai ngày là: 18 250 + 21 340 = 39 590 (l)."
+   ],
+   [
+    "Trong các phép tính sau, phép tính nào có kết quả lớn nhất?",
+    [
+     "40 000 + 50 000",
+     "20 000 + 60 000",
+     "100 000 - 20 000",
+     "90 000 - 30 000"
+    ],
+    "40 000 + 50 000 = 90 000, đây là kết quả lớn nhất trong các phép tính."
+   ],
+   [
+    "Kết quả của phép tính 64 285 + 18 359 là bao nhiêu?",
+    [
+     "82 644",
+     "82 544",
+     "81 644",
+     "72 644"
+    ],
+    "Thực hiện phép cộng có nhớ: 64 285 + 18 359 = 82 644."
+   ],
+   [
+    "Kết quả của phép tính 71 524 - 38 267 là bao nhiêu?",
+    [
+     "33 257",
+     "33 357",
+     "32 257",
+     "43 257"
+    ],
+    "Thực hiện phép trừ có nhớ: 71 524 - 38 267 = 33 257."
+   ],
+   [
+    "Hiệu của số lớn nhất có 5 chữ số và 50 000 là bao nhiêu?",
+    [
+     "49 999",
+     "50 000",
+     "49 000",
+     "39 999"
+    ],
+    "Số lớn nhất có 5 chữ số là 99 999. Hiệu là: 99 999 - 50 000 = 49 999."
+   ],
+   [
+    "Một xã có 14 250 nam và số nữ nhiều hơn số nam là 1 300 người. Hỏi xã đó có bao nhiêu nữ?",
+    [
+     "15 550 người",
+     "12 950 người",
+     "15 450 người",
+     "15 500 người"
+    ],
+    "Số nữ của xã đó là: 14 250 + 1 300 = 15 550 (người)."
+   ],
+   [
+    "Đoạn đường thứ nhất dài 12 500 m, đoạn đường thứ hai ngắn hơn đoạn đường thứ nhất 3 200 m. Hỏi đoạn đường thứ hai dài bao nhiêu mét?",
+    [
+     "9 300 m",
+     "15 700 m",
+     "9 200 m",
+     "9 400 m"
+    ],
+    "Độ dài đoạn đường thứ hai là: 12 500 - 3 200 = 9 300 (m)."
+   ],
+   [
+    "Tính giá trị của biểu thức: 80 000 - (25 000 + 15 000).",
+    [
+     "40 000",
+     "70 000",
+     "30 000",
+     "50 000"
+    ],
+    "Thực hiện trong ngoặc trước: 25 000 + 15 000 = 40 000, sau đó lấy 80 000 - 40 000 = 40 000."
+   ],
+   [
+    "Bác An có 50 000 đồng, bác mua một quyển sách giá 22 000 đồng và một chiếc bút giá 8 000 đồng. Hỏi bác An còn lại bao nhiêu tiền?",
+    [
+     "20 000 đồng",
+     "30 000 đồng",
+     "28 000 đồng",
+     "10 000 đồng"
+    ],
+    "Tổng số tiền mua đồ là: 22 000 + 8 000 = 30 000 (đồng). Bác An còn lại: 50 000 - 30 000 = 20 000 (đồng)."
+   ],
+   [
+    "Một trang trại lợn đợt một nhập về 15 500 con, đợt hai nhập về 18 200 con. Sau đó trang trại đã bán đi 12 000 con. Hỏi trang trại còn lại bao nhiêu con lợn?",
+    [
+     "21 700 con",
+     "33 700 con",
+     "21 500 con",
+     "22 700 con"
+    ],
+    "Tổng số lợn nhập về là: 15 500 + 18 200 = 33 700 (con). Số lợn còn lại là: 33 700 - 12 000 = 21 700 (con)."
+   ],
+   [
+    "Cho dãy số: 10 000, 25 000, 40 000, 55 000, ... Số tiếp theo của dãy số là số nào?",
+    [
+     "70 000",
+     "60 000",
+     "65 000",
+     "75 000"
+    ],
+    "Mỗi số trong dãy đứng sau lớn hơn số đứng liền trước 15 000 đơn vị. Số tiếp theo là: 55 000 + 15 000 = 70 000."
+   ]
+  ]
+ }
+}

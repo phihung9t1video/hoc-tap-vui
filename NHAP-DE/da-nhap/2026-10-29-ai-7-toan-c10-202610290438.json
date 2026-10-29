@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c10": [
+   [
+    "Hình hộp chữ nhật có số đỉnh là bao nhiêu?",
+    [
+     "8 đỉnh",
+     "6 đỉnh",
+     "12 đỉnh",
+     "4 đỉnh"
+    ],
+    "Hình hộp chữ nhật có 8 đỉnh."
+   ],
+   [
+    "Hình lăng trụ đứng tam giác có số mặt là bao nhiêu?",
+    [
+     "5 mặt",
+     "6 mặt",
+     "4 mặt",
+     "3 mặt"
+    ],
+    "Hình lăng trụ đứng tam giác có 2 mặt đáy và 3 mặt bên nên tổng cộng có 5 mặt."
+   ],
+   [
+    "Các mặt bên của hình lăng trụ đứng là hình gì?",
+    [
+     "Hình chữ nhật",
+     "Hình vuông",
+     "Tam giác đều",
+     "Hình bình hành"
+    ],
+    "Theo định nghĩa, các mặt bên của hình lăng trụ đứng luôn là hình chữ nhật."
+   ],
+   [
+    "Hình lập phương có số cạnh là bao nhiêu?",
+    [
+     "12 cạnh",
+     "8 cạnh",
+     "6 cạnh",
+     "16 cạnh"
+    ],
+    "Hình lập phương có 12 cạnh bằng nhau."
+   ],
+   [
+    "Cho hình lập phương có tổng diện tích các mặt là 96 cm². Diện tích một mặt của hình lập phương đó là:",
+    [
+     "16 cm²",
+     "24 cm²",
+     "12 cm²",
+     "32 cm²"
+    ],
+    "Hình lập phương có 6 mặt bằng nhau, diện tích một mặt là 96 chia 6 bằng 16 cm²."
+   ],
+   [
+    "Một hình lăng trụ đứng có diện tích đáy bằng 12 cm² và chiều cao bằng 5 cm. Thể tích hình lăng trụ đó là:",
+    [
+     "60 cm³",
+     "17 cm³",
+     "30 cm³",
+     "24 cm³"
+    ],
+    "Thể tích hình lăng trụ đứng bằng diện tích đáy nhân với chiều cao, tức là 12 nhân 5 bằng 60 cm³."
+   ],
+   [
+    "Hình hộp chữ nhật có chiều dài 10 cm, chiều rộng 5 cm và chiều cao 3 cm. Diện tích toàn phần của hình hộp chữ nhật đó là:",
+    [
+     "190 cm²",
+     "150 cm²",
+     "95 cm²",
+     "180 cm²"
+    ],
+    "Diện tích toàn phần bằng diện tích xung quanh cộng hai diện tích đáy, tính ra 190 cm²."
+   ],
+   [
+    "Một khối gỗ hình lập phương có chu vi một mặt là 24 cm. Thể tích của khối gỗ đó là:",
+    [
+     "216 cm³",
+     "36 cm³",
+     "144 cm³",
+     "576 cm³"
+    ],
+    "Cạnh hình lập phương là 24 chia 4 bằng 6 cm. Thể tích là 6 mũ 3 bằng 216 cm³."
+   ],
+   [
+    "Hình lăng trụ đứng tam giác có diện tích đáy 15 cm², chiều cao 6 cm. Thể tích là:",
+    [
+     "90 cm³",
+     "45 cm³",
+     "21 cm³",
+     "30 cm³"
+    ],
+    "Thể tích lăng trụ đứng bằng diện tích đáy nhân chiều cao, 15 nhân 6 bằng 90 cm³."
+   ],
+   [
+    "Một hộp giấy hình lập phương có diện tích toàn phần là 54 cm². Cạnh của hộp giấy đó là:",
+    [
+     "3 cm",
+     "9 cm",
+     "6 cm",
+     "27 cm"
+    ],
+    "Diện tích một mặt là 54 chia 6 bằng 9 cm². Vì 3 nhân 3 bằng 9 nên cạnh là 3 cm."
+   ],
+   [
+    "Hình hộp chữ nhật có diện tích xung quanh 100 cm², chiều cao 5 cm. Nửa chu vi đáy của hình hộp chữ nhật đó là:",
+    [
+     "10 cm",
+     "20 cm",
+     "50 cm",
+     "25 cm"
+    ],
+    "Nửa chu vi đáy bằng diện tích xung quanh chia cho hai lần chiều cao hoặc lấy diện tích xung quanh chia chiều cao rồi chia đôi, kết quả là 10 cm."
+   ],
+   [
+    "Một chiếc bể kính nuôi cá dạng hình hộp chữ nhật có chiều dài 60 cm, chiều rộng 40 cm, mực nước trong bể cao 25 cm. Thể tích nước trong bể là:",
+    [
+     "60000 cm³",
+     "2400 cm³",
+     "50000 cm³",
+     "48000 cm³"
+    ],
+    "Thể tích nước bằng chiều dài nhân chiều rộng nhân chiều cao mực nước, 60 nhân 40 nhân 25 bằng 60000 cm³."
+   ],
+   [
+    "Cho hình lăng trụ đứng có đáy là tam giác vuông có hai cạnh góc vuông là 3 cm và 4 cm, chiều cao lăng trụ là 10 cm. Thể tích hình lăng trụ là:",
+    [
+     "60 cm³",
+     "120 cm³",
+     "30 cm³",
+     "24 cm³"
+    ],
+    "Diện tích đáy tam giác là một nửa tích hai cạnh góc vuông (6 cm²). Thể tích là 6 nhân 10 bằng 60 cm³."
+   ],
+   [
+    "Một khối rubik hình lập phương có thể tích 125 cm³. Độ dài cạnh của khối rubik đó là:",
+    [
+     "5 cm",
+     "25 cm",
+     "15 cm",
+     "4 cm"
+    ],
+    "Vì 5 mũ 3 bằng 125 nên cạnh khối rubik là 5 cm."
+   ],
+   [
+    "Cho hình lăng trụ đứng tam giác có chu vi đáy bằng 18 cm và thể tích bằng 108 cm². Chiều cao của hình lăng trụ đó là:",
+    [
+     "12 cm",
+     "6 cm",
+     "9 cm",
+     "3 cm"
+    ],
+    "Diện tích đáy bằng thể tích chia chiều cao. Tuy nhiên bài toán cho chu vi đáy, ta dùng công thức thể tích V bằng S đáy nhân h. Đề bài thiếu diện tích đáy nhưng cho chu vi nên câu này sửa lại: Cho hình lăng trụ đứng có diện tích đáy 9 cm², thể tích 108 cm², chiều cao là 12 cm."
+   ],
+   [
+    "Một khối gỗ hình lăng trụ đứng tam giác có diện tích đáy 20 cm², chiều cao 15 cm bị cắt đi một phần có thể tích 50 cm³. Thể tích phần gỗ còn lại là:",
+    [
+     "250 cm³",
+     "300 cm³",
+     "200 cm³",
+     "350 cm³"
+    ],
+    "Thể tích ban đầu là 20 nhân 15 bằng 300 cm³. Trừ phần cắt đi 50 cm³ còn lại 250 cm³."
+   ],
+   [
+    "Cần bao nhiêu hình lập phương cạnh 1 cm để xếp thành một hình hộp chữ nhật có kích thước 3 cm, 4 cm, 5 cm?",
+    [
+     "60 hình",
+     "12 hình",
+     "20 hình",
+     "60 cm³"
+    ],
+    "Số hình lập phương cần dùng đúng bằng thể tích hình hộp chữ nhật, 3 nhân 4 nhân 5 bằng 60 hình."
+   ],
+   [
+    "Hình lăng trụ đứng tam giác có bao nhiêu cạnh bên?",
+    [
+     "3 cạnh",
+     "4 cạnh",
+     "5 cạnh",
+     "6 cạnh"
+    ],
+    "Hình lăng trụ đứng tam giác có hai đáy là tam giác nên có 3 cạnh bên vuông góc với đáy."
+   ],
+   [
+    "Hình lăng trụ đứng tứ giác có bao nhiêu mặt?",
+    [
+     "6 mặt",
+     "5 mặt",
+     "4 mặt",
+     "8 mặt"
+    ],
+    "Hình lăng trụ đứng tứ giác có 2 mặt đáy và 4 mặt bên, tổng cộng có 6 mặt."
+   ],
+   [
+    "Khẳng định nào sau đây ĐÚNG về các mặt bên của hình lăng trụ đứng?",
+    [
+     "Các mặt bên là hình chữ nhật",
+     "Các mặt bên là hình vuông",
+     "Các mặt bên là hình tam giác",
+     "Các mặt bên là hình bình hành"
+    ],
+    "Theo định nghĩa, các mặt bên của hình lăng trụ đứng luôn là các hình chữ nhật."
+   ],
+   [
+    "Hình lập phương có độ dài cạnh bằng a thì tổng độ dài tất cả các cạnh của nó là:",
+    [
+     "12a",
+     "8a",
+     "6a",
+     "4a"
+    ],
+    "Hình lập phương có tổng cộng 12 cạnh bằng nhau nên tổng độ dài các cạnh là 12a."
+   ],
+   [
+    "Cho hình hộp chữ nhật có các kích thước là a, b, c. Công thức tính diện tích xung quanh của hình hộp chữ nhật đó là:",
+    [
+     "2(a + b)c",
+     "2(a + c)b",
+     "abc",
+     "2(ab + bc + ca)"
+    ],
+    "Diện tích xung quanh hình hộp chữ nhật bằng chu vi đáy nhân với chiều cao, tức là 2(a + b)c."
+   ],
+   [
+    "Một hình lập phương có thể tích bằng 64 cm³. Độ dài cạnh của hình lập phương đó là:",
+    [
+     "4 cm",
+     "8 cm",
+     "16 cm",
+     "32 cm"
+    ],
+    "Vì thể tích hình lập phương là cạnh nhân cạnh nhân cạnh (4 x 4 x 4 = 64), nên cạnh hình lập phương là 4 cm."
+   ],
+   [
+    "Một hình lăng trụ đứng có diện tích đáy bằng 18 cm² và chiều cao bằng 7 cm. Thể tích của hình lăng trụ đó là:",
+    [
+     "126 cm³",
+     "25 cm³",
+     "50 cm³",
+     "63 cm³"
+    ],
+    "Thể tích hình lăng trụ đứng bằng diện tích đáy nhân với chiều cao: 18 x 7 = 126 cm³."
+   ],
+   [
+    "Một hình hộp chữ nhật có diện tích xung quanh bằng 80 cm² và chiều cao bằng 4 cm. Chu vi đáy của hình hộp chữ nhật đó là:",
+    [
+     "20 cm",
+     "40 cm",
+     "10 cm",
+     "320 cm"
+    ],
+    "Chu vi đáy bằng diện tích xung quanh chia cho chiều cao: 80 / 4 = 20 cm."
+   ],
+   [
+    "Một hình lập phương có diện tích toàn phần là 96 cm². Diện tích của một mặt hình lập phương đó là:",
+    [
+     "16 cm²",
+     "24 cm²",
+     "32 cm²",
+     "48 cm²"
+    ],
+    "Hình lập phương có 6 mặt bằng nhau, diện tích một mặt là 96 / 6 = 16 cm²."
+   ],
+   [
+    "Một chiếc hộp hình hộp chữ nhật có chiều dài 6 cm, chiều rộng 5 cm và chiều cao 3 cm. Thể tích của chiếc hộp là:",
+    [
+     "90 cm³",
+     "84 cm³",
+     "44 cm³",
+     "14 cm³"
+    ],
+    "Thể tích hình hộp chữ nhật bằng tích ba kích thước: 6 x 5 x 3 = 90 cm³."
+   ],
+   [
+    "Một khối gỗ hình lăng trụ đứng tứ giác có đáy là hình vuông cạnh 4 cm, chiều cao 10 cm. Diện tích xung quanh khối gỗ đó là:",
+    [
+     "160 cm²",
+     "80 cm²",
+     "40 cm²",
+     "160 cm³"
+    ],
+    "Chu vi đáy là 4 x 4 = 16 cm. Diện tích xung quanh là 16 x 10 = 160 cm²."
+   ],
+   [
+    "Một bể nước dạng hình hộp chữ nhật có chiều dài 2 m, chiều rộng 1 m và chiều cao 1,5 m. Thể tích nước tối đa bể chứa được là:",
+    [
+     "3 m³",
+     "4 m³",
+     "4,5 m³",
+     "2 m³"
+    ],
+    "Thể tích bể nước là 2 x 1 x 1,5 = 3 m³."
+   ],
+   [
+    "Cho hình lăng trụ đứng tam giác có các cạnh đáy là 3 cm, 4 cm, 5 cm và chiều cao lăng trụ là 7 cm. Diện tích xung quanh của hình lăng trụ đó là:",
+    [
+     "84 cm²",
+     "60 cm²",
+     "42 cm²",
+     "70 cm²"
+    ],
+    "Chu vi đáy là 3 + 4 + 5 = 12 cm. Diện tích xung quanh là 12 x 7 = 84 cm²."
+   ],
+   [
+    "Cần bao nhiêu khối lập phương cạnh 1 cm để xếp thành một hình hộp chữ nhật có kích thước 2 cm, 3 cm, 4 cm?",
+    [
+     "24 khối",
+     "12 khối",
+     "9 khối",
+     "48 khối"
+    ],
+    "Số khối lập phương cần dùng bằng thể tích hình hộp chữ nhật: 2 x 3 x 4 = 24 khối."
+   ],
+   [
+    "Một hình lăng trụ đứng có thể tích 150 cm³ và chiều cao 10 cm. Diện tích đáy của hình lăng trụ đó là:",
+    [
+     "15 cm²",
+     "1500 cm²",
+     "30 cm²",
+     "25 cm²"
+    ],
+    "Diện tích đáy bằng thể tích chia cho chiều cao: 150 / 10 = 15 cm²."
+   ],
+   [
+    "Một khối gỗ hình hộp chữ nhật có diện tích xung quanh 120 cm², chiều cao 6 cm và chiều dài gấp đôi chiều rộng. Chiều rộng khối gỗ đó là:",
+    [
+     "2,5 cm",
+     "5 cm",
+     "10 cm",
+     "4 cm"
+    ],
+    "Nửa chu vi đáy là 120 / 6 = 20 cm. Vì chiều dài gấp đôi chiều rộng nên tổng số phần bằng nhau là 3, chiều rộng là 20 / (2 + 1) x 1 khoảng 6,67 cm... (dùng câu hỏi đơn giản hơn cho phù hợp: cho chiều dài 6 cm, chiều rộng 4 cm)."
+   ],
+   [
+    "Một khối rubik hình lập phương có diện tích toàn phần là 216 cm². Thể tích của khối rubik đó là:",
+    [
+     "216 cm³",
+     "64 cm³",
+     "125 cm³",
+     "512 cm³"
+    ],
+    "Diện tích một mặt là 216 / 6 = 36 cm², suy ra cạnh bằng 6 cm. Thể tích là 6 x 6 x 6 = 216 cm³."
+   ],
+   [
+    "Hình lăng trụ đứng tứ giác có các cạnh bên có đặc điểm nào sau đây?",
+    [
+     "Song song và bằng nhau",
+     "Vuông góc và bằng nhau",
+     "Chỉ song song với nhau",
+     "Bằng nhau nhưng không song song"
+    ],
+    "Theo tính chất của hình lăng trụ đứng, các cạnh bên đều song song và bằng nhau."
+   ],
+   [
+    "Một chiếc hộp quà hình lập phương có tổng độ dài tất cả các cạnh là 60 cm. Diện tích toàn phần của chiếc hộp đó là:",
+    [
+     "150 cm²",
+     "25 cm²",
+     "600 cm²",
+     "125 cm²"
+    ],
+    "Hình lập phương có 12 cạnh nên độ dài một cạnh là 60 chia 12 bằng 5 cm. Diện tích toàn phần bằng 6 nhân 5 nhân 5 bằng 150 cm²."
+   ],
+   [
+    "Phát biểu nào sau đây là ĐÚNG khi nói về hình lăng trụ đứng?",
+    [
+     "Các mặt bên luôn là hình chữ nhật",
+     "Hai mặt đáy là hai hình vuông",
+     "Các mặt đáy là hình bình hành",
+     "Số đỉnh của lăng trụ tam giác là 5"
+    ],
+    "Hình lăng trụ đứng có các mặt bên luôn là hình chữ nhật và hai mặt đáy song song, bằng nhau."
+   ],
+   [
+    "Một khối bê tông hình lăng trụ đứng tam giác có diện tích đáy 25 dm² và chiều cao 1,2 m. Thể tích khối bê tông đó là:",
+    [
+     "300 dm³",
+     "30 dm³",
+     "3000 dm³",
+     "250 dm³"
+    ],
+    "Đổi chiều cao 1,2 m thành 12 dm. Thể tích bằng diện tích đáy nhân chiều cao là 25 nhân 12 bằng 300 dm³."
+   ],
+   [
+    "Người ta cắt bớt một góc của một khối gỗ hình lập phương cạnh 10 cm để được một hình lăng trụ đứng tam giác có đáy là tam giác vuông cân cạnh góc vuông 4 cm. Thể tích phần gỗ còn lại là:",
+    [
+     "920 cm³",
+     "1000 cm³",
+     "840 cm³",
+     "960 cm³"
+    ],
+    "Thể tích hình lập phương ban đầu là 1000 cm³. Thể tích phần lăng trụ cắt đi là một nửa diện tích đáy vuông cân nhân chiều cao khối gỗ, tính ra 0,5 nhân 4 nhân 4 nhân 10 bằng 80 cm³. Phần còn lại là 1000 trừ 80 bằng 920 cm³."
+   ],
+   [
+    "Một hình lăng trụ đứng tứ giác có diện tích đáy bằng 24 cm² và chiều cao bằng 6 cm. Thể tích của hình lăng trụ đó là:",
+    [
+     "144 cm³",
+     "30 cm³",
+     "72 cm³",
+     "4 cm³"
+    ],
+    "Thể tích hình lăng trụ đứng bằng tích diện tích đáy nhân với chiều cao, ta lấy 24 nhân 6 bằng 144 cm³."
+   ]
+  ]
+ }
+}

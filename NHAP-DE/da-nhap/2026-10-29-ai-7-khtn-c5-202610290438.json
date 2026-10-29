@@ -1,0 +1,406 @@
+{
+ "7-khtn": {
+  "c5": [
+   [
+    "Trong các vật dụng sau đây, vật nào là nguồn sáng tự nhiên?",
+    [
+     "Con đom đóm",
+     "Chiếc đèn pin đang bật",
+     "Mặt Trăng",
+     "Màn hình tivi"
+    ],
+    "Con đom đóm tự phát ra ánh sáng để sinh tồn nên là nguồn sáng tự nhiên."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về chùm sáng song song?",
+    [
+     "Gồm các tia sáng không cắt nhau trên đường truyền của chúng",
+     "Gồm các tia sáng hội tụ tại một điểm",
+     "Gồm các tia sáng loe rộng ra theo không gian",
+     "Gồm các tia sáng xuất phát từ một điểm rồi đi ra mọi hướng"
+    ],
+    "Chùm sáng song song là tập hợp các tia sáng không giao nhau."
+   ],
+   [
+    "Khi ánh sáng truyền đi trong môi trường trong suốt và đồng tính, đường truyền của ánh sáng là gì?",
+    [
+     "Đường thẳng",
+     "Đường cong",
+     "Đường gấp khúc",
+     "Đường tròn"
+    ],
+    "Trong môi trường trong suốt và đồng tính, ánh sáng truyền theo đường thẳng."
+   ],
+   [
+    "Vật nào dưới đây hấp thụ ánh sáng tốt nhất và ít phản xạ ánh sáng nhất?",
+    [
+     "Một tấm bìa màu đen nhám",
+     "Một chiếc gương phẳng",
+     "Một tờ giấy trắng tinh",
+     "Một viên bi thủy tinh trong suốt"
+    ],
+    "Vật có màu tối, bề mặt nhám hấp thụ ánh sáng rất mạnh và phản xạ rất ít."
+   ],
+   [
+    "Khi đặt một vật trước gương phẳng, đặc điểm của ảnh tạo bởi gương phẳng là gì?",
+    [
+     "Ảnh ảo, bằng vật",
+     "Ảnh thật, lớn hơn vật",
+     "Ảnh ảo, lớn hơn vật",
+     "Ảnh thật, nhỏ hơn vật"
+    ],
+    "Gương phẳng luôn tạo ảnh ảo có kích thước bằng vật."
+   ],
+   [
+    "Khoảng cách từ một điểm vật trên mặt bàn đến gương phẳng là 20 cm. Khoảng cách từ ảnh của điểm vật đó đến gương phẳng bằng bao nhiêu?",
+    [
+     "20 cm",
+     "40 cm",
+     "10 cm",
+     "0 cm"
+    ],
+    "Khoảng cách từ một điểm của vật đến gương phẳng bằng khoảng cách từ ảnh của điểm đó đến gương."
+   ],
+   [
+    "Ứng dụng nào sau đây KHÔNG liên quan đến hiện tượng phản xạ ánh sáng?",
+    [
+     "Nhúng một chiếc đũa thẳng vào cốc nước thấy đũa như bị gãy",
+     "Dùng gương soi để chỉnh trang trang phục",
+     "Dùng kính chiếu hậu trên xe máy để quan sát phía sau",
+     "Nhìn thấy cuốn sách trên bàn dưới ánh đèn phòng"
+    ],
+    "Hiện tượng đũa gãy trong nước liên quan đến khúc xạ ánh sáng."
+   ],
+   [
+    "Chiếu một tia sáng vuông góc với bề mặt một gương phẳng. Góc phản xạ của tia sáng này có giá trị bằng bao nhiêu?",
+    [
+     "0 độ",
+     "90 độ",
+     "45 độ",
+     "180 độ"
+    ],
+    "Tia tới vuông góc gương nên góc tới bằng 0 độ, suy ra góc phản xạ cũng bằng 0 độ."
+   ],
+   [
+    "Gương cầu lồi có đặc điểm quang học chính nào?",
+    [
+     "Biến đổi một chùm tia tới song song thành một chùm tia phản xạ phân kì rộng",
+     "Tụ tập chùm tia tới song song thành một điểm duy nhất",
+     "Tạo ra ảnh thật lớn hơn vật rất nhiều",
+     "Làm cho chùm sáng hội tụ mạnh hơn trước khi phản xạ"
+    ],
+    "Gương cầu lồi biến chùm tia sáng song song thành chùm tia phản xạ phân kì giúp mở rộng tầm nhìn."
+   ],
+   [
+    "Vì sao các đoạn đường cong nguy hiểm ở miền núi người ta thường lắp các gương cầu lồi lớn?",
+    [
+     "Vì gương cầu lồi giúp mở rộng tầm nhìn, quan sát được xe ngược chiều ở khúc cua khuất",
+     "Vì gương cầu lồi giúp hội tụ ánh sáng làm sáng rực cả khúc đường",
+     "Vì gương cầu lồi tạo ra ảnh thật rõ nét của xe cộ từ xa",
+     "Vì gương cầu lồi có giá thành rẻ và bền hơn gương phẳng"
+    ],
+    "Gương cầu lồi cho vùng nhìn thấy rộng hơn so với gương phẳng cùng kích thước nên giúp lái xe quan sát tốt hơn."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi mô tả hiện tượng khúc xạ ánh sáng?",
+    [
+     "Hiện tượng tia sáng bị đổi hướng đột ngột khi truyền qua mặt phân cách giữa hai môi trường trong suốt khác nhau",
+     "Hiện tượng tia sáng bị hắt ngược trở lại môi trường cũ khi gặp bề mặt nhẵn bóng",
+     "Hiện tượng ánh sáng bị giữ lại hoàn toàn trong môi trường trong suốt",
+     "Hiện tượng ánh sáng truyền cong vòng theo vật cản trong không khí"
+    ],
+    "Khúc xạ ánh sáng là hiện tượng đổi hướng của tia sáng khi truyền qua mặt phân cách hai môi trường."
+   ],
+   [
+    "Khi một tia sáng truyền từ nước ra không khí, góc khúc xạ và góc tới có quan hệ như thế nào?",
+    [
+     "Góc khúc xạ lớn hơn góc tới",
+     "Góc khúc xạ nhỏ hơn góc tới",
+     "Góc khúc xạ luôn bằng góc tới",
+     "Góc khúc xạ bằng không"
+    ],
+    "Khi ánh sáng truyền từ môi trường nước ra không khí, góc khúc xạ lớn hơn góc tới."
+   ],
+   [
+    "Thiết bị nào sau đây hoạt động dựa trên sự chuyển hóa năng lượng ánh sáng thành điện năng?",
+    [
+     "Tấm pin năng lượng mặt trời",
+     "Bếp từ nấu ăn",
+     "Bóng đèn sợi đốt",
+     "Quạt điện để bàn"
+    ],
+    "Tấm pin năng lượng mặt trời hấp thụ ánh sáng và biến đổi trực tiếp thành dòng điện."
+   ],
+   [
+    "Hiện tượng cầu vồng xuất hiện trên bầu trời sau cơn mưa là sự kết hợp của những hiện tượng quang học nào?",
+    [
+     "Khúc xạ, phản xạ và tán sắc ánh sáng qua các hạt nước mưa",
+     "Chỉ có hiện tượng phản xạ ánh sáng hoàn toàn trên mây",
+     "Sự truyền thẳng của ánh sáng qua các đám mây đen",
+     "Sự hấp thụ và phát xạ ánh sáng của các giọt nước"
+    ],
+    "Cầu vồng hình thành do các hạt nước mưa đóng vai trò như các lăng kính khúc xạ, phản xạ và tán sắc ánh sáng mặt trời."
+   ],
+   [
+    "Bạn An đứng cách một gương phẳng treo tường một khoảng 1 m. Nếu An dịch chuyển lại gần gương thêm 30 cm thì khoảng cách giữa An và ảnh của bạn ấy trong gương lúc này là bao nhiêu?",
+    [
+     "1,4 m",
+     "0,7 m",
+     "2,0 m",
+     "1,3 m"
+    ],
+    "Khoảng cách từ An đến gương là 0,7 m nên khoảng cách từ ảnh đến gương cũng là 0,7 m, tổng khoảng cách là 1,4 m."
+   ],
+   [
+    "Một tia sáng chiếu tới gương phẳng tạo với mặt gương một góc 40 độ. Giá trị của góc tới bằng bao nhiêu?",
+    [
+     "50 độ",
+     "40 độ",
+     "80 độ",
+     "100 độ"
+    ],
+    "Góc tới là góc giữa tia tới và pháp tuyến. Vì pháp tuyến vuông góc với mặt gương nên góc tới bằng 90 trừ 40 bằng 50 độ."
+   ],
+   [
+    "Tại sao vào những ngày nắng nóng, khi đi trên đường nhựa khô, ta thường nhìn thấy phía trước mặt giống như có những vũng nước lấp lánh nhưng khi tiến lại gần thì không có?",
+    [
+     "Do hiện tượng khúc xạ ánh sáng qua các lớp không khí có nhiệt độ khác nhau sát mặt đường",
+     "Do mặt đường nhựa bị ướt do ngưng tụ hơi nước dưới lòng đất",
+     "Do mắt người bị mờ khi tiếp xúc với ánh sáng mặt trời quá mạnh",
+     "Do hiện tượng phản xạ toàn phần trên các hạt bụi bay lơ lửng"
+    ],
+    "Sự chênh lệch nhiệt độ tạo ra các lớp không khí có chiết suất khác nhau, gây ra hiện tượng khúc xạ tạo ảnh ảo giống vũng nước."
+   ],
+   [
+    "Chiếu một chùm tia sáng hẹp đi từ không khí vào khối thủy tinh trong suốt dưới góc tới 60 độ. Biết góc khúc xạ nhỏ hơn góc tới. Nếu tăng góc tới lên 70 độ thì góc khúc xạ sẽ thay đổi thế nào?",
+    [
+     "Tăng lên nhưng vẫn nhỏ hơn 70 độ",
+     "Giảm xuống so với trước",
+     "Vẫn giữ nguyên không đổi",
+     "Tăng lên và bằng đúng 70 độ"
+    ],
+    "Khi góc tới tăng thì góc khúc xạ cũng tăng theo, nhưng trong trường hợp này góc khúc xạ luôn nhỏ hơn góc tới."
+   ],
+   [
+    "Một thợ điện cần kiểm tra một khe hở rất hẹp nằm sâu phía sau tủ điện mà không thể đưa mắt vào nhìn trực tiếp được. Anh ấy nên dùng dụng cụ nào dưới đây để hỗ trợ quan sát?",
+    [
+     "Một chiếc gương phẳng nhỏ gắn ở đầu một đoạn cán dài",
+     "Một thấu kính hội tụ cỡ lớn đặt trước khe hở",
+     "Một tấm kính mờ màu trắng để hứng hình ảnh",
+     "Một thấu kính phân kì cầm tay để phóng to"
+    ],
+    "Dùng gương phẳng nhỏ đặt nghiêng giúp đổi hướng đường truyền ánh sáng để quan sát các góc khuất."
+   ],
+   [
+    "Trong các vật dụng sau đây, vật nào được coi là một vật nhận sáng rõ nhất trong học tập?",
+    [
+     "Quyển vở trắng",
+     "Ngọn lửa đèn cầy",
+     "Mặt trời",
+     "Đèn LED đang bật"
+    ],
+    "Quyển vở trắng không tự phát ra ánh sáng mà chỉ nhận và phản xạ ánh sáng chiếu vào nó để ta nhìn thấy."
+   ],
+   [
+    "Khi ta nhìn thấy một bông hoa màu đỏ đặt dưới ánh sáng trắng, điều đó có nghĩa là gì?",
+    [
+     "Bông hoa tán sắc và phản xạ ánh sáng màu đỏ vào mắt ta",
+     "Bông hoa chỉ phát ra ánh sáng màu đỏ",
+     "Bông hoa hấp thụ toàn bộ ánh sáng màu đỏ",
+     "Bông hoa không phản xạ ánh sáng nào"
+    ],
+    "Vật màu đỏ hấp thụ các ánh sáng màu khác và phản xạ ánh sáng màu đỏ đến mắt ta."
+   ],
+   [
+    "Chùm sáng nào sau đây gồm các tia sáng loe rộng ra theo đường truyền từ nguồn sáng?",
+    [
+     "Chùm sáng phân kì",
+     "Chùm sáng hội tụ",
+     "Chùm sáng song song",
+     "Chùm sáng hỗn hợp"
+    ],
+    "Chùm sáng phân kì có các tia sáng loe rộng ra trên đường truyền."
+   ],
+   [
+    "Phát biểu nào sau đây là ĐÚNG khi nói về chùm tia sáng hội tụ?",
+    [
+     "Gồm các tia sáng giao nhau hoặc có xu hướng gặp nhau tại một điểm",
+     "Gồm các tia sáng không bao giờ cắt nhau",
+     "Gồm các tia sáng đi song song với nhau",
+     "Gồm các tia sáng đi ra từ cùng một điểm và loe rộng"
+    ],
+    "Chùm sáng hội tụ gồm các tia sáng trên đường truyền của chúng sẽ gặp nhau tại một điểm."
+   ],
+   [
+    "Hiện tượng nào sau đây thể hiện rõ tính chất truyền thẳng của ánh sáng trong không khí?",
+    [
+     "Sự hình thành bóng của một cái cây trên mặt sân lúc giữa trưa",
+     "Sự tạo ảnh của một vật qua gương phẳng",
+     "Hiệu ứng cầu vồng sau cơn mưa",
+     "Hiện tượng gãy khúc của chiếc đũa trong cốc nước"
+    ],
+    "Bóng của vật cản sáng hình thành do ánh sáng truyền theo đường thẳng và bị vật cản lại."
+   ],
+   [
+    "Trường hợp nào sau đây KHÔNG thể hiện tính chất truyền thẳng của ánh sáng?",
+    [
+     "Nhìn thấy chiếc thìa bị cong khi nhúng một nửa vào cốc nước",
+     "Nhìn thấy vệt sáng của đèn pin chiếu qua màn sương mỏng",
+     "Ánh sáng mặt trời chiếu qua kẽ lá xuống mặt đất tạo thành các vệt sáng",
+     "Xếp các tấm bìa đục lỗ thẳng hàng để nhìn thấy ngọn nến phía sau"
+    ],
+    "Hiện tượng thìa bị cong trong nước là do khúc xạ ánh sáng, không phải truyền thẳng."
+   ],
+   [
+    "Góc phản xạ là góc tạo bởi yếu tố nào sau đây?",
+    [
+     "Tia phản xạ và pháp tuyến với gương tại điểm tới",
+     "Tia phản xạ và mặt phẳng của gương",
+     "Tia tới và tia phản xạ",
+     "Tia tới và mặt gương"
+    ],
+    "Góc phản xạ là góc hợp bởi tia phản xạ và đường pháp tuyến với gương tại điểm tới."
+   ],
+   [
+    "Một tia sáng chiếu tới gương phẳng sao cho góc tạo bởi tia tới và mặt gương là 30 độ. Giá trị của góc phản xạ bằng bao nhiêu?",
+    [
+     "60 độ",
+     "30 độ",
+     "45 độ",
+     "90 độ"
+    ],
+    "Góc tới bằng 90 độ trừ đi 30 độ bằng 60 độ. Theo định luật phản xạ ánh sáng, góc phản xạ bằng góc tới và bằng 60 độ."
+   ],
+   [
+    "Ảnh của một vật tạo bởi gương cầu lõm có tính chất gì khác biệt khi đặt vật rất gần gương?",
+    [
+     "Là ảnh ảo, lớn hơn vật",
+     "Là ảnh thật, nhỏ hơn vật",
+     "Là ảnh ảo, nhỏ bằng vật",
+     "Là ảnh thật, bằng vật"
+    ],
+    "Khi đặt vật rất gần gương cầu lõm, gương cho ảnh ảo lớn hơn vật."
+   ],
+   [
+    "Vì sao các loại xe ô tô, xe máy thường lắp gương cầu lồi ở phía trước bên trái và phải thay vì gương phẳng?",
+    [
+     "Giúp mở rộng vùng nhìn thấy, quan sát được góc khuất lớn hơn",
+     "Giúp ảnh có kích thước bằng vật thật để dễ ước lượng khoảng cách",
+     "Giúp tạo ra ảnh thật sắc nét hơn ở phía sau",
+     "Giúp gom ánh sáng chiếu ngược lại phía sau xe"
+    ],
+    "Gương cầu lồi cho vùng nhìn thấy rộng hơn gương phẳng cùng kích thước, giúp tài xế quan sát tốt hơn."
+   ],
+   [
+    "Hiện tượng khúc xạ ánh sáng xảy ra khi nào?",
+    [
+     "Ánh sáng truyền qua mặt phân cách giữa hai môi trường trong suốt khác nhau và bị đổi hướng đột ngột",
+     "Ánh sáng gặp mặt gương phẳng và bị hắt lại môi trường cũ",
+     "Ánh sáng đi qua một lỗ nhỏ và bị bẻ cong ở mép",
+     "Ánh sáng truyền đi trong một môi trường trong suốt và đồng tính"
+    ],
+    "Khúc xạ ánh sáng là hiện tượng đổi hướng của tia sáng khi truyền qua mặt phân cách giữa hai môi trường trong suốt khác nhau."
+   ],
+   [
+    "Khi một tia sáng truyền từ môi trường nước ra không khí, góc khúc xạ so với góc tới sẽ như thế nào?",
+    [
+     "Lớn hơn góc tới",
+     "Nhỏ hơn góc tới",
+     "Bằng góc tới",
+     "Luôn bằng 90 độ"
+    ],
+    "Khi ánh sáng truyền từ nước ra không khí, góc khúc xạ ở không khí lớn hơn góc tới ở nước."
+   ],
+   [
+    "Phát biểu nào sau đây là ĐÚNG khi nói về ảnh ảo tạo bởi gương phẳng?",
+    [
+     "Ảnh ảo không hứng được trên màn chắn và có kích thước bằng vật",
+     "Ảnh ảo hứng được trên màn chắn và lớn hơn vật",
+     "Ảnh ảo không hứng được trên màn chắn và nhỏ hơn vật",
+     "Ảnh ảo hứng được trên màn chắn và bằng vật"
+    ],
+    "Ảnh của vật tạo bởi gương phẳng là ảnh ảo, không hứng được trên màn chắn và có kích thước bằng vật."
+   ],
+   [
+    "Đặc điểm nào dưới đây là của hiện tượng phản xạ ánh sáng?",
+    [
+     "Tia phản xạ nằm trong mặt phẳng chứa tia tới và pháp tuyến của gương",
+     "Góc phản xạ luôn nhỏ hơn góc tới",
+     "Tia phản xạ truyền ngược lại môi trường cũ với góc khúc xạ bất kì",
+     "Tia phản xạ bị bẻ gãy khúc tại mặt phân cách"
+    ],
+    "Theo định luật phản xạ ánh sáng, tia phản xạ nằm trong mặt phẳng tới và góc phản xạ bằng góc tới."
+   ],
+   [
+    "Bạn Nam đứng trước một gương phẳng cách gương 80 cm. Hỏi khoảng cách giữa Nam và ảnh của bạn ấy trong gương là bao nhiêu?",
+    [
+     "1,6 m",
+     "0,8 m",
+     "1,2 m",
+     "0,4 m"
+    ],
+    "Khoảng cách từ Nam đến gương bằng khoảng cách từ ảnh đến gương (80 cm). Tổng khoảng cách giữa Nam và ảnh là 80 cm + 80 cm = 160 cm tương đương 1,6 m."
+   ],
+   [
+    "Khi sử dụng kính lúp để quan sát một dòng chữ nhỏ, người ta đặt kính sao cho chữ nằm trong khoảng tiêu cự của kính. Lúc này, ảnh của dòng chữ nhìn qua kính là gì?",
+    [
+     "Ảnh ảo, lớn hơn vật",
+     "Ảnh thật, nhỏ hơn vật",
+     "Ảnh ảo, nhỏ hơn vật",
+     "Ảnh thật, lớn hơn vật"
+    ],
+    "Kính lúp là một thấu kính hội tụ, khi dùng để quan sát vật đặt gần sẽ tạo ra ảnh ảo lớn hơn vật."
+   ],
+   [
+    "Một tia sáng chiếu vuông góc vào mặt phẳng của một gương phẳng. Góc tới và góc phản xạ của tia sáng này có giá trị lần lượt là bao nhiêu?",
+    [
+     "Góc tới bằng 0 độ, góc phản xạ bằng 0 độ",
+     "Góc tới bằng 90 độ, góc phản xạ bằng 90 độ",
+     "Góc tới bằng 0 độ, góc phản xạ bằng 90 độ",
+     "Góc tới bằng 90 độ, góc phản xạ bằng 0 độ"
+    ],
+    "Tia sáng chiếu vuông góc với gương thì trùng với pháp tuyến, do đó góc tới bằng 0 độ và góc phản xạ cũng bằng 0 độ."
+   ],
+   [
+    "Để thiết kế một chiếc kính tiềm vọng đơn giản dùng quan sát vật cản phía trước mặt mà không bị lộ diện, người ta bố trí hai gương phẳng song song với nhau theo góc nghiêng bao nhiêu độ so với phương ngang?",
+    [
+     "45 độ",
+     "30 độ",
+     "60 độ",
+     "90 độ"
+    ],
+    "Kính tiềm vọng dùng hai gương phẳng đặt song song và nghiêng 45 độ để chuyển hướng tia sáng hai lần liên tục."
+   ],
+   [
+    "Bạn Mai dùng một tấm bìa đục một lỗ nhỏ ở giữa rồi đặt giữa nguồn sáng và một màn chắn. Khi dịch chuyển màn chắn ra xa lỗ nhỏ, kích thước vết sáng trên màn thay đổi thế nào do tính chất ánh sáng?",
+    [
+     "To dần lên do chùm sáng từ lỗ truyền thẳng và loe rộng",
+     "Nhỏ dần lại do ánh sáng bị tụ lại",
+     "Không thay đổi kích thước vì ánh sáng đi song song",
+     "Mất hẳn ánh sáng ngay lập tức"
+    ],
+    "Ánh sáng đi qua lỗ nhỏ truyền thẳng theo chùm phân kì nên khi đưa màn ra xa thì vết sáng ngày càng lớn hơn."
+   ],
+   [
+    "Một học sinh thực hiện thí nghiệm chiếu tia sáng từ không khí vào khối thủy tinh với góc tới 45 độ, đo được góc khúc xạ là 28 độ. Nếu học sinh đó thay đổi góc tới thành 60 độ thì hiện tượng nào chắc chắn xảy ra đối với góc khúc xạ?",
+    [
+     "Góc khúc xạ sẽ tăng lên nhưng vẫn nhỏ hơn 60 độ",
+     "Góc khúc xạ sẽ giảm xuống nhỏ hơn 28 độ",
+     "Góc khúc xạ sẽ tăng lên bằng đúng 60 độ",
+     "Góc khúc xạ sẽ không thay đổi giá trị"
+    ],
+    "Khi góc tới tăng thì góc khúc xạ cũng tăng theo, nhưng khi truyền từ không khí vào thủy tinh thì góc khúc xạ luôn nhỏ hơn góc tới."
+   ],
+   [
+    "Phát biểu nào sau đây đúng khi nói về đặc điểm của chùm tia sáng phân kì?",
+    [
+     "Chùm tia sáng phân kì gồm các tia sáng loe rộng ra theo đường truyền của chúng.",
+     "Chùm tia sáng phân kì gồm các tia sáng cắt nhau tại một điểm duy nhất.",
+     "Chùm tia sáng phân kì gồm các tia sáng không bao giờ gặp nhau trên đường đi.",
+     "Chùm tia sáng phân kì gồm các tia sáng song song cách đều nhau."
+    ],
+    "Chùm phân kì có các tia sáng xuất phát từ một điểm rồi loe rộng dần ra trên đường truyền."
+   ]
+  ]
+ }
+}

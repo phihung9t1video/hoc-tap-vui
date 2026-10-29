@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c10": [
+   [
+    "Số liền sau của số 4 500 là số nào?",
+    [
+     "4 501",
+     "4 499",
+     "4 510",
+     "4 600"
+    ],
+    "Số liền sau của 4 500 được tìm bằng cách lấy 4 500 cộng thêm 1 đơn vị."
+   ],
+   [
+    "Kết quả của phép tính 2 100 cộng 3 200 là:",
+    [
+     "5 300",
+     "5 200",
+     "5 400",
+     "4 300"
+    ],
+    "Ta cộng các hàng tương ứng từ phải sang trái hoặc nhẩm 2 1 + 3 2 = 5 3 rồi viết thêm ba chữ số 0."
+   ],
+   [
+    "Kết quả của phép tính 7 800 trừ 4 300 là:",
+    [
+     "3 500",
+     "3 400",
+     "4 500",
+     "3 600"
+    ],
+    "Ta lấy 78 trăm trừ 43 trăm bằng 35 trăm, tức là 3 500."
+   ],
+   [
+    "Số nào dưới đây khi cộng với 2 000 thì được 6 000?",
+    [
+     "4 000",
+     "8 000",
+     "3 000",
+     "5 000"
+    ],
+    "Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết: 6 000 trừ 2 000 bằng 4 000."
+   ],
+   [
+    "Phép tính nào dưới đây có kết quả lớn nhất?",
+    [
+     "2 500 + 4 000",
+     "3 000 + 3 000",
+     "1 000 + 5 000",
+     "4 000 + 2 000"
+    ],
+    "Ta có 2 500 + 4 000 = 6 500, lớn hơn các tổng còn lại là 6 000."
+   ],
+   [
+    "Tìm x, biết: x cộng 1 500 bằng 4 500.",
+    [
+     "3 000",
+     "6 000",
+     "2 500",
+     "3 500"
+    ],
+    "x bằng 4 500 trừ 1 500, kết quả là 3 000."
+   ],
+   [
+    "Tìm x, biết: 8 000 trừ x bằng 3 000.",
+    [
+     "5 000",
+     "11 000",
+     "4 000",
+     "6 000"
+    ],
+    "x là số trừ, x bằng số bị trừ trừ đi hiệu: 8 000 trừ 3 000 bằng 5 000."
+   ],
+   [
+    "Một đội công nhân tuần đầu sửa được 1 500 mét đường, tuần sau sửa được 2 300 mét đường. Cả hai tuần đội đó sửa được số mét đường là:",
+    [
+     "3 800 mét",
+     "3 700 mét",
+     "800 mét",
+     "4 800 mét"
+    ],
+    "Cộng số mét đường hai tuần lại: 1 500 cộng 2 300 bằng 3 800 mét."
+   ],
+   [
+    "Cửa hàng có 5 400 kg gạo, đã bán đi 2 100 kg gạo. Cửa hàng còn lại số ki-lô-gram gạo là:",
+    [
+     "3 300 kg",
+     "3 200 kg",
+     "7 500 kg",
+     "3 400 kg"
+    ],
+    "Lấy số gạo ban đầu trừ đi số gạo đã bán: 5 400 trừ 2 100 bằng 3 300 kg."
+   ],
+   [
+    "Tính: 3 624 cộng 2 153",
+    [
+     "5 777",
+     "5 767",
+     "5 677",
+     "4 777"
+    ],
+    "Cộng các chữ số ở cùng một hàng từ phải sang trái, ta được 5 777."
+   ],
+   [
+    "Tính: 6 875 trừ 3 421",
+    [
+     "3 454",
+     "3 554",
+     "3 445",
+     "4 454"
+    ],
+    "Trừ các chữ số ở cùng một hàng từ phải sang trái, ta được 3 454."
+   ],
+   [
+    "Điền số thích hợp vào chỗ chấm: 4 200 cộng ... bằng 7 600",
+    [
+     "3 400",
+     "3 300",
+     "4 400",
+     "3 500"
+    ],
+    "Lấy 7 600 trừ 4 200 bằng 3 400."
+   ],
+   [
+    "Tính: 2 456 cộng 3 123 cộng 1 200",
+    [
+     "6 779",
+     "6 769",
+     "5 779",
+     "6 879"
+    ],
+    "Cộng lần lượt từ trái sang phải, kết quả là 6 779."
+   ],
+   [
+    "Bình có 3 500 đồng, An có nhiều hơn Bình 1 200 đồng. Số tiền của An là:",
+    [
+     "4 700 đồng",
+     "2 300 đồng",
+     "4 500 đồng",
+     "4 800 đồng"
+    ],
+    "Số tiền của An là 3 500 cộng 1 200 bằng 4 700 đồng."
+   ],
+   [
+    "Một xưởng sản xuất buổi sáng làm được 1 420 sản phẩm, buổi chiều làm được nhiều hơn buổi sáng 300 sản phẩm. Buổi chiều xưởng làm được số sản phẩm là:",
+    [
+     "1 720 sản phẩm",
+     "1 120 sản phẩm",
+     "1 700 sản phẩm",
+     "1 820 sản phẩm"
+    ],
+    "Lấy số sản phẩm buổi sáng cộng thêm 300: 1 420 cộng 300 bằng 1 720 sản phẩm."
+   ],
+   [
+    "Tính nhẩm nhanh biểu thức: 4 000 trừ 1 000 cộng 2 000",
+    [
+     "5 000",
+     "3 000",
+     "6 000",
+     "4 000"
+    ],
+    "Thực hiện từ trái sang phải: 4 000 trừ 1 000 bằng 3 000, cộng thêm 2 000 bằng 5 000."
+   ],
+   [
+    "Lan hái được 1 250 bông hoa, Mai hái được nhiều hơn Lan 450 bông hoa. Cả hai bạn hái được số bông hoa là:",
+    [
+     "2 950 bông",
+     "2 500 bông",
+     "2 900 bông",
+     "1 700 bông"
+    ],
+    "Số hoa của Mai là 1 250 cộng 450 bằng 1 700 bông. Tổng số hoa hai bạn là 1 250 cộng 1 700 bằng 2 950 bông."
+   ],
+   [
+    "Một ô tô giờ thứ nhất chạy được 2 400 m, giờ thứ hai chạy nhiều hơn giờ thứ nhất 300 m, giờ thứ ba chạy ít hơn giờ thứ hai 200 m. Giờ thứ ba ô tô chạy được:",
+    [
+     "2 500 m",
+     "2 700 m",
+     "2 600 m",
+     "2 300 m"
+    ],
+    "Giờ thứ hai chạy được 2 400 cộng 300 bằng 2 700 m. Giờ thứ ba chạy được 2 700 trừ 200 bằng 2 500 m."
+   ],
+   [
+    "Kết quả của phép tính 5 328 + 2 451 là bao nhiêu?",
+    [
+     "7 779",
+     "7 770",
+     "7 789",
+     "8 779"
+    ],
+    "Thực hiện cộng từng hàng từ phải sang trái: 8 + 1 = 9, 2 + 5 = 7, 3 + 4 = 7, 5 + 2 = 7. Vậy kết quả là 7 779."
+   ],
+   [
+    "Kết quả của phép tính 9 654 - 4 231 là bao nhiêu?",
+    [
+     "5 423",
+     "5 421",
+     "5 425",
+     "5 413"
+    ],
+    "Thực hiện trừ từng hàng từ phải sang trái: 4 - 1 = 3, 5 - 3 = 2, 6 - 2 = 4, 9 - 4 = 5. Vậy kết quả là 5 423."
+   ]
+  ]
+ }
+}

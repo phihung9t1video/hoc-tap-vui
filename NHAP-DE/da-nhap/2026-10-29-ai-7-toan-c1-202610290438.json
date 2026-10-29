@@ -1,0 +1,406 @@
+{
+ "7-toan": {
+  "c1": [
+   [
+    "Số nào sau đây là số hữu tỉ âm?",
+    [
+     "-3/4",
+     "0",
+     "2/5",
+     "|-5|"
+    ],
+    "Số hữu tỉ âm là số có giá trị nhỏ hơn 0, trong các số trên chỉ có -3/4 là thỏa mãn."
+   ],
+   [
+    "Tập hợp nào sau đây chỉ gồm các số hữu tỉ?",
+    [
+     "{-1/2; 0; 3,5}",
+     "{2; 3; √2}",
+     "{π; 1/3; 5}",
+     "{0; √5; -4}"
+    ],
+    "Tập hợp {-1/2; 0; 3,5} gồm các số đều viết được dưới dạng phân số tối giản a/b."
+   ],
+   [
+    "Điểm biểu diễn số hữu tỉ -1,5 trên trục số nằm ở vị trí nào?",
+    [
+     "Bên trái điểm 0 và cách điểm 0 một khoảng 1,5 đơn vị",
+     "Bên phải điểm 0 và cách điểm 0 một khoảng 1,5 đơn vị",
+     "Bên trái điểm 0 và cách điểm 0 một khoảng 1 đơn vị",
+     "Bên phải điểm 0 và cách điểm 0 một khoảng 2 đơn vị"
+    ],
+    "Số hữu tỉ âm được biểu diễn ở bên trái điểm 0 trên trục số."
+   ],
+   [
+    "Kết quả của phép tính (-2/3) + 1/6 là:",
+    [
+     "-1/2",
+     "-1/3",
+     "-5/6",
+     "1/2"
+    ],
+    "Quy đồng mẫu số ta có -4/6 + 1/6 = -3/6 = -1/2."
+   ],
+   [
+    "Kết quả của phép tính 3/5 - 4/5 là:",
+    [
+     "-1/5",
+     "1/5",
+     "-7/5",
+     "7/5"
+    ],
+    "Trừ tử số giữ nguyên mẫu số chung: (3 - 4)/5 = -1/5."
+   ],
+   [
+    "Kết quả của phép tính (-3/4) . 2/9 là:",
+    [
+     "-1/6",
+     "1/6",
+     "-6/36",
+     "6/13"
+    ],
+    "Nhân tử với tử, mẫu với mẫu rồi rút gọn ta được -6/36 = -1/6."
+   ],
+   [
+    "Kết quả của phép tính 4/7 : (-2/7) là:",
+    [
+     "-2",
+     "2",
+     "-8/49",
+     "8/49"
+    ],
+    "Nhân phân số thứ nhất với nghịch đảo phân số thứ hai: 4/7 . (-7/2) = -28/14 = -2."
+   ],
+   [
+    "Giá trị của biểu thức (-0,5)² là:",
+    [
+     "0,25",
+     "-0,25",
+     "0,5",
+     "-0,5"
+    ],
+    "Bình phương của một số âm là một số dương: (-0,5) . (-0,5) = 0,25."
+   ],
+   [
+    "Kết quả của phép tính 2³ . 2² là:",
+    [
+     "32",
+     "64",
+     "16",
+     "8"
+    ],
+    "Nhân hai lũy thừa cùng cơ số ta cộng số mũ: 2^(3+2) = 2⁵ = 32."
+   ],
+   [
+    "Kết quả của phép tính 5⁶ : 5⁴ là:",
+    [
+     "25",
+     "5",
+     "125",
+     "1"
+    ],
+    "Chia hai lũy thừa cùng cơ số ta trừ số mũ: 5^(6-4) = 5² = 25."
+   ],
+   [
+    "Thứ tự thực hiện phép tính nào sau đây là đúng đối với biểu thức không có dấu ngoặc?",
+    [
+     "Lũy thừa rồi đến Nhân và chia rồi đến Cộng và trừ",
+     "Cộng và trừ rồi đến Nhân và chia rồi đến Lũy thừa",
+     "Nhân và chia rồi đến Lũy thừa rồi đến Cộng và trừ",
+     "Lũy thừa rồi đến Cộng và trừ rồi đến Nhân và chia"
+    ],
+    "Quy tắc tính toán chung là Lũy thừa -> Nhân và chia -> Cộng và trừ."
+   ],
+   [
+    "Kết quả của phép tính 2,5 + (-1,5) là:",
+    [
+     "1",
+     "-1",
+     "4",
+     "-4"
+    ],
+    "Cộng hai số trái dấu: 2,5 + (-1,5) = +(2,5 - 1,5) = 1."
+   ],
+   [
+    "Tìm x biết x - 1/2 = 3/4",
+    [
+     "5/4",
+     "1/4",
+     "2/4",
+     "-5/4"
+    ],
+    "Chuyển vế ta có x = 3/4 + 1/2 = 3/4 + 2/4 = 5/4."
+   ],
+   [
+    "Tìm x biết 2x = -4/5",
+    [
+     "-2/5",
+     "-8/5",
+     "2/5",
+     "-10/4"
+    ],
+    "Chia cả hai vế cho 2 ta được x = (-4/5) : 2 = -2/5."
+   ],
+   [
+    "Kết quả làm tròn số hữu tỉ -7/3 đến hàng phần mười là:",
+    [
+     "-2,3",
+     "-2,4",
+     "-2,33",
+     "-2,2"
+    ],
+    "Ta có -7/3 = -2,333..., làm tròn đến hàng phần mười ta được -2,3."
+   ],
+   [
+    "Tính giá trị của biểu thức A = 3/4 + 1/4 . (-2/3)",
+    [
+     "7/12",
+     "2/3",
+     "5/12",
+     "1/2"
+    ],
+    "Thực hiện phép nhân trước: 3/4 + (-2/12) = 9/12 - 2/12 = 7/12."
+   ],
+   [
+    "Tính hợp lý B = 3/7 + 5/2 + 4/7",
+    [
+     "7/2",
+     "12/14",
+     "3",
+     "5/7"
+    ],
+    "Nhóm các số cùng mẫu: (3/7 + 4/7) + 5/2 = 1 + 5/2 = 7/2."
+   ],
+   [
+    "Tìm x biết |x| = 3/4",
+    [
+     "x = 3/4 hoặc x = -3/4",
+     "x = 3/4",
+     "x = -3/4",
+     "x = 0"
+    ],
+    "Giá trị tuyệt đối của x bằng a (a>0) thì x bằng a hoặc -a."
+   ],
+   [
+    "So sánh hai số hữu tỉ x = -2/3 và y = -3/4, ta được kết quả là:",
+    [
+     "x > y",
+     "x < y",
+     "x = y",
+     "Không so sánh được"
+    ],
+    "Quy mẫu ta có x = -8/12 và y = -9/12. Vì -8 > -9 nên x > y."
+   ],
+   [
+    "Một ô tô chạy với vận tốc 60 km/h trong thời gian t (giờ). Biểu thức biểu thị quãng đường ô tô đi được là:",
+    [
+     "60t",
+     "t/60",
+     "60/t",
+     "t + 60"
+    ],
+    "Quãng đường bằng vận tốc nhân với thời gian: s = 60 . t = 60t."
+   ],
+   [
+    "Số hữu tỉ -7/4 được biểu diễn bởi điểm nào trên trục số chia đều thành các đoạn đơn vị?",
+    [
+     "Điểm cách gốc O về bên trái một khoảng bằng 7 đơn vị khi đoạn đơn vị chia thành 4 phần",
+     "Điểm cách gốc O về bên phải một khoảng bằng 7 đơn vị khi đoạn đơn vị chia thành 4 phần",
+     "Điểm cách gốc O về bên trái một khoảng bằng 4 đơn vị",
+     "Điểm cách gốc O về bên phải một khoảng bằng 7 đơn vị"
+    ],
+    "Số hữu tỉ âm được biểu diễn bằng điểm nằm bên trái gốc O, với mẫu số 4 chỉ số phần chia trong một đơn vị và tử số 7 chỉ số khoảng cách từ gốc."
+   ],
+   [
+    "Trong các phát biểu sau, phát biểu nào đúng về tập hợp số hữu tỉ Q?",
+    [
+     "Mọi số nguyên đều là số hữu tỉ",
+     "Số 0 không phải là số hữu tỉ",
+     "Mọi số thập phân vô hạn không tuần hoàn đều là số hữu tỉ",
+     "Số hữu tỉ chỉ bao gồm các phân số dương"
+    ],
+    "Số nguyên a có thể viết dưới dạng phân số a/1 nên mọi số nguyên đều là số hữu tỉ."
+   ],
+   [
+    "Kết quả của phép tính 5/8 - 3/8 là:",
+    [
+     "1/4",
+     "1/8",
+     "2/16",
+     "2/8"
+    ],
+    "Trừ tử số cho nhau và giữ nguyên mẫu số: (5 - 3)/8 = 2/8, rút gọn thành 1/4."
+   ],
+   [
+    "Kết quả của phép tính (-4/5) . (-10/9) là:",
+    [
+     "8/9",
+     "-8/9",
+     "40/45",
+     "-40/45"
+    ],
+    "Nhân hai phân số cùng dấu âm ta được kết quả dương: (-4) . (-10) / (5 . 9) = 40/45 = 8/9."
+   ],
+   [
+    "Kết quả của phép tính 7/12 : 14/3 là:",
+    [
+     "1/8",
+     "8",
+     "49/18",
+     "1/16"
+    ],
+    "Chia phân số bằng cách nhân với phân số đảo ngược: 7/12 . 3/14 = (7.3)/(12.14) = 21/168 = 1/8."
+   ],
+   [
+    "Giá trị của biểu thức M = (-1/2)³ + 1/4 là:",
+    [
+     "-1/8",
+     "3/8",
+     "1/8",
+     "-3/8"
+    ],
+    "Ta có (-1/2)³ = -1/8, sau đó cộng với 1/4 (tức 2/8) ta được kết quả -1/8 + 2/8 = 1/8."
+   ],
+   [
+    "Giá trị của x thỏa mãn x - 3/4 = -1/2 là:",
+    [
+     "1/4",
+     "-5/4",
+     "5/4",
+     "-1/4"
+    ],
+    "Chuyển vế ta có x = -1/2 + 3/4 = -2/4 + 3/4 = 1/4."
+   ],
+   [
+    "Kết quả của phép tính (-2)³ . (-2)² là:",
+    [
+     "-32",
+     "32",
+     "-16",
+     "16"
+    ],
+    "Nhân hai lũy thừa cùng cơ sở ta cộng số mũ: (-2)³⁺² = (-2)⁵ = -32."
+   ],
+   [
+    "Giá trị của biểu thức Q = 2,5 - |-1,5| + 0,5 là:",
+    [
+     "1,5",
+     "3,5",
+     "4,5",
+     "0,5"
+    ],
+    "Ta có |-1,5| = 1,5 nên Q = 2,5 - 1,5 + 0,5 = 1 + 0,5 = 1,5."
+   ],
+   [
+    "Kết quả của phép tính (0,2)² là:",
+    [
+     "0,04",
+     "0,4",
+     "0,02",
+     "4"
+    ],
+    "Bình phương số thập phân 0,2 là 0,2 . 0,2 = 0,04."
+   ],
+   [
+    "Tìm x, biết 3/4 x = -9/16:",
+    [
+     "-3/4",
+     "3/4",
+     "-27/64",
+     "27/64"
+    ],
+    "Tìm thừa số chưa biết bằng cách lấy tích chia cho thừa số đã biết: x = (-9/16) : (3/4) = (-9/16) . (4/3) = -3/4."
+   ],
+   [
+    "Thứ tự sắp xếp nào sau đây đúng theo chiều tăng dần của các số: -1,2; 0; 3/2; -3/4?",
+    [
+     "-1,2; -3/4; 0; 3/2",
+     "-3/4; -1,2; 0; 3/2",
+     "0; -3/4; -1,2; 3/2",
+     "3/2; 0; -3/4; -1,2"
+    ],
+    "Đổi về số thập phân để so sánh: -1,2; -0,75; 0; 1,5. Sắp xếp tăng dần ta được -1,2; -3/4; 0; 3/2."
+   ],
+   [
+    "Kết quả làm tròn số 12,3456 đến hàng phần trăm là:",
+    [
+     "12,35",
+     "12,34",
+     "12,4",
+     "12,36"
+    ],
+    "Chữ số sau hàng phần trăm là 5 (lớn hơn hoặc bằng 5) nên ta cộng thêm 1 vào hàng phần trăm, được 12,35."
+   ],
+   [
+    "Một tấm vải dài 24 mét được cắt thành các đoạn, mỗi đoạn dài 3/4 mét. Số đoạn vải cắt được là:",
+    [
+     "32 đoạn",
+     "18 đoạn",
+     "24 đoạn",
+     "36 đoạn"
+    ],
+    "Số đoạn vải là lấy tổng độ dài chia cho độ dài mỗi đoạn: 24 : (3/4) = 24 . 4 / 3 = 32 đoạn."
+   ],
+   [
+    "Giá trị của x thỏa mãn (x - 1/2)² = 1/4 là:",
+    [
+     "1 hoặc 0",
+     "1/2 hoặc -1/2",
+     "1 hoặc -1",
+     "0 hoặc -1/2"
+    ],
+    "Vì (x - 1/2)² = (1/2)² hoặc (-1/2)² nên x - 1/2 = 1/2 (suy ra x = 1) hoặc x - 1/2 = -1/2 (suy ra x = 0)."
+   ],
+   [
+    "Một cửa hàng nhập về một loại áo với giá gốc là 200 000 đồng. Cửa hàng bán lại với giá lãi bằng 20% giá gốc. Giá bán của chiếc áo đó là:",
+    [
+     "240 000 đồng",
+     "220 000 đồng",
+     "250 000 đồng",
+     "230 000 đồng"
+    ],
+    "Tiền lãi là 20% của 200 000 là 40 000 đồng. Giá bán là 200 000 + 40 000 = 240 000 đồng."
+   ],
+   [
+    "Cho biết 1 inch bằng khoảng 2,54 cm. Chiều dài của một màn hình tivi 32 inch tính theo centimet (làm tròn đến chữ số thập phân thứ nhất) là:",
+    [
+     "81,3 cm",
+     "81,2 cm",
+     "81,4 cm",
+     "80,0 cm"
+    ],
+    "Nhân 32 với 2,54 ta được 81,28 cm. Làm tròn đến chữ số thập phân thứ nhất ta được 81,3 cm."
+   ],
+   [
+    "Biết rằng x và y là hai đại lượng tỉ lệ nghịch, khi x = 4 thì y = 9. Hệ số tỉ lệ a là:",
+    [
+     "36",
+     "4/9",
+     "9/4",
+     "13"
+    ],
+    "Vì x và y tỉ lệ nghịch nên công thức là y = a/x hay a = x . y. Thay số ta có a = 4 . 9 = 36."
+   ],
+   [
+    "Số đối của số hữu tỉ -2/7 là:",
+    [
+     "2/7",
+     "-2/7",
+     "-7/2",
+     "7/2"
+    ],
+    "Số đối của một số hữu tỉ a là -a. Do đó số đối của -2/7 là 2/7."
+   ],
+   [
+    "Phân số nào sau đây biểu diễn số hữu tỉ 0,4?",
+    [
+     "2/5",
+     "4/5",
+     "1/4",
+     "5/2"
+    ],
+    "Ta có 0,4 = 4/10, rút gọn phân số cho 2 ta được 2/5."
+   ]
+  ]
+ }
+}

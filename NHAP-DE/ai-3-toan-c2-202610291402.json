@@ -1,0 +1,206 @@
+{
+ "3-toan": {
+  "c2": [
+   [
+    "Kết quả của phép tính 7 × 8 là bao nhiêu?",
+    [
+     "56",
+     "48",
+     "64",
+     "54"
+    ],
+    "Dựa vào bảng nhân 7, ta có 7 × 8 = 56."
+   ],
+   [
+    "Kết quả của phép tính 48 : 6 là bao nhiêu?",
+    [
+     "8",
+     "7",
+     "9",
+     "6"
+    ],
+    "Dựa vào bảng chia 6, ta có 48 : 6 = 8."
+   ],
+   [
+    "Trong phép chia 32 : 4 = 8, số 4 được gọi là gì?",
+    [
+     "Số chia",
+     "Số bị chia",
+     "Thương",
+     "Tích"
+    ],
+    "Trong phép chia 32 : 4 = 8, 32 là số bị chia, 4 là số chia và 8 là thương."
+   ],
+   [
+    "Một phép nhân có hai thừa số lần lượt là 9 và 3. Tích của phép nhân đó là:",
+    [
+     "27",
+     "12",
+     "6",
+     "24"
+    ],
+    "Tích của hai thừa số là 9 × 3 = 27."
+   ],
+   [
+    "Một số giảm đi 4 lần thì được 6. Số đó là:",
+    [
+     "24",
+     "10",
+     "2",
+     "18"
+    ],
+    "Muốn tìm số ban đầu, ta lấy 6 nhân với 4: 6 × 4 = 24."
+   ],
+   [
+    "Số thích hợp điền vào dấu hỏi chấm là: 72 : ? = 8",
+    [
+     "9",
+     "8",
+     "7",
+     "6"
+    ],
+    "Ta lấy 72 chia cho 8 được 9, vậy số cần điền là 9."
+   ],
+   [
+    "Cho phép tính: 5 × 7 + 15. Giá trị của biểu thức này là bao nhiêu?",
+    [
+     "50",
+     "35",
+     "40",
+     "45"
+    ],
+    "Thực hiện phép nhân trước: 5 × 7 = 35, sau đó cộng thêm 15: 35 + 15 = 50."
+   ],
+   [
+    "Phép tính nào dưới đây có kết quả lớn nhất?",
+    [
+     "8 × 5",
+     "6 × 6",
+     "9 × 4",
+     "7 × 5"
+    ],
+    "Ta có: 8 × 5 = 40; 6 × 6 = 36; 9 × 4 = 36; 7 × 5 = 35. Vậy 8 × 5 có kết quả lớn nhất."
+   ],
+   [
+    "Gấp 8 cm lên 6 lần thì được độ dài là bao nhiêu?",
+    [
+     "48 cm",
+     "14 cm",
+     "42 cm",
+     "54 cm"
+    ],
+    "Gấp 8 cm lên 6 lần ta thực hiện phép nhân: 8 cm × 6 = 48 cm."
+   ],
+   [
+    "Trong các phép chia dưới đây, phép chia nào có số dư bằng 0?",
+    [
+     "45 : 5",
+     "23 : 3",
+     "19 : 2",
+     "30 : 4"
+    ],
+    "Ta có 45 : 5 = 9 (không có dư). Các phép tính còn lại đều có dư."
+   ],
+   [
+    "Cho biết x : 7 = 5 (dư 2). Giá trị của x là:",
+    [
+     "37",
+     "35",
+     "33",
+     "14"
+    ],
+    "Muốn tìm số bị chia trong phép chia có dư, ta lấy thương nhân với số chia rồi cộng số dư: x = 5 × 7 + 2 = 37."
+   ],
+   [
+    "Khái niệm “Gấp một số lên một số lần” tương ứng với phép tính nào?",
+    [
+     "Phép nhân",
+     "Phép cộng",
+     "Phép chia",
+     "Phép trừ"
+    ],
+    "Muốn gấp một số lên một số lần, ta lấy số đó nhân với số lần."
+   ],
+   [
+    "Mỗi bao gạo nặng 9 kg. Hỏi 7 bao gạo như thế nặng tất cả bao nhiêu ki-lô-gam?",
+    [
+     "63 kg",
+     "16 kg",
+     "56 kg",
+     "72 kg"
+    ],
+    "7 bao gạo nặng tất cả số ki-lô-gam là: 9 × 7 = 63 (kg)."
+   ],
+   [
+    "Lớp 3A có 35 học sinh xếp thành các hàng, mỗi hàng có 5 học sinh. Hỏi lớp 3A xếp được bao nhiêu hàng?",
+    [
+     "7 hàng",
+     "6 hàng",
+     "8 hàng",
+     "30 hàng"
+    ],
+    "Số hàng xếp được là: 35 : 5 = 7 (hàng)."
+   ],
+   [
+    "Bình có 28 cái nhãn vở, Bình chia đều cho 4 bạn. Hỏi mỗi bạn nhận được bao nhiêu cái nhãn vở?",
+    [
+     "7 cái",
+     "8 cái",
+     "6 cái",
+     "24 cái"
+    ],
+    "Mỗi bạn nhận được số nhãn vở là: 28 : 4 = 7 (cái)."
+   ],
+   [
+    "An có 8 viên bi. Số bi của Bình gấp 4 lần số bi của An. Số bi của Cường ít hơn số bi của Bình 6 viên. Hỏi Cường có bao nhiêu viên bi?",
+    [
+     "26 viên",
+     "32 viên",
+     "28 viên",
+     "18 viên"
+    ],
+    "Số bi của Bình là: 8 × 4 = 32 (viên). Số bi của Cường là: 32 - 6 = 26 (viên)."
+   ],
+   [
+    "Một người nông dân thu hoạch được 54 quả dưa hấu. Sau khi bán đi 18 quả, người đó chia đều số dưa còn lại vào 4 rổ. Hỏi mỗi rổ có bao nhiêu quả dưa hấu?",
+    [
+     "9 quả",
+     "8 quả",
+     "7 quả",
+     "36 quả"
+    ],
+    "Số dưa hấu còn lại là: 54 - 18 = 36 (quả). Mỗi rổ có số quả dưa hấu là: 36 : 4 = 9 (quả)."
+   ],
+   [
+    "Cô giáo có một số quyển sách. Nếu chia đều cho 6 bạn thì mỗi bạn được 7 quyển và còn thừa 3 quyển. Hỏi cô giáo có tất cả bao nhiêu quyển sách?",
+    [
+     "45 quyển",
+     "42 quyển",
+     "39 quyển",
+     "48 quyển"
+    ],
+    "Tổng số sách cô giáo có là: 7 × 6 + 3 = 45 (quyển)."
+   ],
+   [
+    "Một cửa hàng có 6 hộp bánh, mỗi hộp chứa 8 chiếc bánh. Người ta đã bán đi 20 chiếc bánh. Hỏi cửa hàng còn lại bao nhiêu chiếc bánh?",
+    [
+     "28 chiếc",
+     "48 chiếc",
+     "24 chiếc",
+     "38 chiếc"
+    ],
+    "Tổng số bánh cửa hàng có là: 8 × 6 = 48 (chiếc). Số bánh còn lại là: 48 - 20 = 28 (chiếc)."
+   ],
+   [
+    "Thừa số thứ nhất là 9, thừa số thứ hai là 4. Tích của hai số đó là bao nhiêu?",
+    [
+     "36",
+     "13",
+     "32",
+     "45"
+    ],
+    "Tích của hai số được tính bằng phép nhân: 9 × 4 = 36."
+   ]
+  ]
+ }
+}
