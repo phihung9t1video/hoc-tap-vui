@@ -1,0 +1,2216 @@
+{
+ "c1": [
+  [
+   "Để tìm hiểu về địa phương em, có thể dùng:",
+   [
+    "Bản đồ, tranh ảnh, tư liệu và hỏi người lớn tuổi",
+    "Chỉ đọc truyện cổ tích",
+    "Chỉ xem phim hoạt hình",
+    "Không cần tìm hiểu"
+   ],
+   "Nhiều nguồn tư liệu giúp hiểu về quê hương."
+  ],
+  [
+   "Bản đồ là:",
+   [
+    "Hình vẽ thu nhỏ một khu vực trên bề mặt Trái Đất",
+    "Bức tranh phong cảnh",
+    "Ảnh chụp người",
+    "Một loại sách truyện"
+   ],
+   "Bản đồ thể hiện khu vực theo tỉ lệ thu nhỏ."
+  ],
+  [
+   "Trên bản đồ, phía trên thường là hướng:",
+   [
+    "Bắc",
+    "Nam",
+    "Đông",
+    "Tây"
+   ],
+   "Quy ước: trên Bắc, dưới Nam, phải Đông, trái Tây."
+  ],
+  [
+   "Trên bản đồ, bên phải là hướng:",
+   [
+    "Đông",
+    "Tây",
+    "Bắc",
+    "Nam"
+   ],
+   "Bên phải là Đông."
+  ],
+  [
+   "Kí hiệu bản đồ dùng để:",
+   [
+    "Thể hiện các đối tượng như sông, núi, thành phố",
+    "Trang trí cho đẹp",
+    "Ghi tên người vẽ",
+    "Không có tác dụng"
+   ],
+   "Bảng chú giải giải thích kí hiệu."
+  ],
+  [
+   "Tỉ lệ bản đồ cho biết:",
+   [
+    "Bản đồ được thu nhỏ bao nhiêu lần so với thực tế",
+    "Màu sắc của bản đồ",
+    "Năm vẽ bản đồ",
+    "Tên tác giả"
+   ],
+   "Ví dụ 1 : 100 000 nghĩa là thu nhỏ 100 000 lần."
+  ],
+  [
+   "Màu xanh lam trên bản đồ thường thể hiện:",
+   [
+    "Biển, sông, hồ",
+    "Núi cao",
+    "Đồng bằng",
+    "Thành phố"
+   ],
+   "Màu xanh lam chỉ nước."
+  ],
+  [
+   "Màu nâu đậm trên bản đồ tự nhiên thường thể hiện:",
+   [
+    "Núi cao",
+    "Biển",
+    "Đồng bằng thấp",
+    "Sông"
+   ],
+   "Màu nâu chỉ địa hình cao."
+  ],
+  [
+   "Màu xanh lá cây trên bản đồ tự nhiên thường thể hiện:",
+   [
+    "Đồng bằng",
+    "Núi cao",
+    "Biển sâu",
+    "Sa mạc"
+   ],
+   "Đồng bằng thấp thường tô xanh lá."
+  ],
+  [
+   "Di tích lịch sử ở địa phương cần được:",
+   [
+    "Giữ gìn, bảo vệ",
+    "Viết vẽ bậy lên",
+    "Phá bỏ",
+    "Lấy đồ mang về"
+   ],
+   "Di tích là tài sản quý."
+  ],
+  [
+   "Lễ hội truyền thống ở địa phương thể hiện:",
+   [
+    "Văn hóa, phong tục của người dân",
+    "Chỉ để buôn bán",
+    "Không có ý nghĩa",
+    "Chỉ để nghỉ học"
+   ],
+   "Lễ hội gìn giữ bản sắc văn hóa."
+  ],
+  [
+   "Em có thể góp phần xây dựng quê hương bằng cách:",
+   [
+    "Học tốt, giữ gìn vệ sinh, bảo vệ di tích",
+    "Xả rác bừa bãi",
+    "Bẻ cây nơi công cộng",
+    "Vẽ bậy lên tường"
+   ],
+   "Những việc làm nhỏ có ý nghĩa lớn."
+  ],
+  [
+   "Nước Việt Nam nằm ở khu vực nào?",
+   [
+    "Đông Nam Á",
+    "Bắc Mỹ",
+    "Châu Phi",
+    "Châu Âu"
+   ],
+   "Việt Nam thuộc Đông Nam Á."
+  ],
+  [
+   "Thủ đô của Việt Nam là:",
+   [
+    "Hà Nội",
+    "Thành phố Hồ Chí Minh",
+    "Đà Nẵng",
+    "Huế"
+   ],
+   "Hà Nội là thủ đô."
+  ],
+  [
+   "Nước ta có hình dạng:",
+   [
+    "Hẹp ngang, kéo dài theo chiều Bắc – Nam, hình chữ S",
+    "Hình tròn",
+    "Hình vuông",
+    "Hình tam giác"
+   ],
+   "Lãnh thổ hình chữ S."
+  ],
+  [
+   "Phía đông và nam nước ta giáp:",
+   [
+    "Biển Đông",
+    "Trung Quốc",
+    "Lào",
+    "Cam-pu-chia"
+   ],
+   "Việt Nam có bờ biển dài."
+  ],
+  [
+   "Phía bắc nước ta giáp:",
+   [
+    "Trung Quốc",
+    "Lào",
+    "Cam-pu-chia",
+    "Thái Lan"
+   ],
+   "Biên giới phía bắc với Trung Quốc."
+  ],
+  [
+   "Phía tây nước ta giáp:",
+   [
+    "Lào và Cam-pu-chia",
+    "Trung Quốc",
+    "Biển Đông",
+    "Nhật Bản"
+   ],
+   "Biên giới phía tây với Lào, Cam-pu-chia."
+  ],
+  [
+   "Để đọc bản đồ, trước hết cần:",
+   [
+    "Đọc tên bản đồ và bảng chú giải",
+    "Đọc từ góc dưới lên",
+    "Đếm số màu",
+    "Nhìn thật nhanh"
+   ],
+   "Tên và chú giải cho biết nội dung, kí hiệu."
+  ],
+  [
+   "Hướng ngược với hướng Đông là:",
+   [
+    "Tây",
+    "Bắc",
+    "Nam",
+    "Đông Bắc"
+   ],
+   "Đông – Tây đối nhau."
+  ],
+  [
+   "Đường biên giới quốc gia của nước ta gồm:",
+   [
+    "Biên giới trên đất liền và trên biển",
+    "Chỉ có trên đất liền",
+    "Chỉ trên biển",
+    "Không có biên giới"
+   ],
+   "Việt Nam có biên giới đất liền và vùng biển."
+  ],
+  [
+   "Quốc kì Việt Nam là:",
+   [
+    "Cờ đỏ sao vàng năm cánh",
+    "Cờ xanh sao trắng",
+    "Cờ vàng sao đỏ",
+    "Cờ trắng"
+   ],
+   "Nền đỏ, ngôi sao vàng năm cánh ở giữa."
+  ],
+  [
+   "Quốc ca Việt Nam là bài hát:",
+   [
+    "Tiến quân ca",
+    "Như có Bác trong ngày đại thắng",
+    "Quê hương tươi đẹp",
+    "Em yêu trường em"
+   ],
+   "Tiến quân ca của nhạc sĩ Văn Cao."
+  ],
+  [
+   "Ngày Quốc khánh nước ta là:",
+   [
+    "2 tháng 9",
+    "30 tháng 4",
+    "1 tháng 5",
+    "19 tháng 5"
+   ],
+   "Ngày 2/9/1945 Bác Hồ đọc Tuyên ngôn Độc lập."
+  ],
+  [
+   "Nước ta có bao nhiêu dân tộc anh em?",
+   [
+    "54",
+    "45",
+    "64",
+    "50"
+   ],
+   "Việt Nam có 54 dân tộc."
+  ],
+  [
+   "Dân tộc có số dân đông nhất nước ta là:",
+   [
+    "Kinh",
+    "Tày",
+    "Thái",
+    "Mường"
+   ],
+   "Người Kinh chiếm đa số."
+  ],
+  [
+   "Hai quần đảo xa bờ của Việt Nam trên Biển Đông là:",
+   [
+    "Hoàng Sa và Trường Sa",
+    "Cát Bà và Côn Đảo",
+    "Phú Quốc và Lý Sơn",
+    "Cô Tô và Bạch Long Vĩ"
+   ],
+   "Hoàng Sa, Trường Sa là lãnh thổ Việt Nam."
+  ],
+  [
+   "Em có thể tìm hiểu lịch sử địa phương qua:",
+   [
+    "Bảo tàng, nhà truyền thống, di tích",
+    "Trò chơi điện tử",
+    "Quảng cáo",
+    "Phim hoạt hình nước ngoài"
+   ],
+   "Nguồn tư liệu lịch sử."
+  ],
+  [
+   "Hướng Đông Bắc nằm giữa hai hướng:",
+   [
+    "Đông và Bắc",
+    "Tây và Nam",
+    "Đông và Nam",
+    "Tây và Bắc"
+   ],
+   "Đông Bắc ở giữa Đông và Bắc."
+  ],
+  [
+   "Lược đồ là:",
+   [
+    "Bản đồ được đơn giản hóa, chỉ thể hiện những nội dung chính",
+    "Ảnh chụp từ vệ tinh",
+    "Bức tranh vẽ người",
+    "Bảng số liệu"
+   ],
+   "Lược đồ giản lược nội dung."
+  ]
+ ],
+ "c2": [
+  [
+   "Dãy núi cao nhất nước ta là:",
+   [
+    "Hoàng Liên Sơn",
+    "Trường Sơn",
+    "Bạch Mã",
+    "Ngân Sơn"
+   ],
+   "Hoàng Liên Sơn ở Trung du và miền núi Bắc Bộ."
+  ],
+  [
+   "Đỉnh núi cao nhất Việt Nam là:",
+   [
+    "Phan-xi-păng",
+    "Bà Đen",
+    "Ngọc Linh",
+    "Tam Đảo"
+   ],
+   "Phan-xi-păng cao khoảng 3 143 m."
+  ],
+  [
+   "Phan-xi-păng được gọi là:",
+   [
+    "Nóc nhà Đông Dương",
+    "Nóc nhà thế giới",
+    "Mái nhà miền Nam",
+    "Đỉnh núi lửa"
+   ],
+   "Đỉnh cao nhất bán đảo Đông Dương."
+  ],
+  [
+   "Khí hậu vùng núi cao Bắc Bộ vào mùa đông:",
+   [
+    "Rất lạnh, có khi có băng tuyết",
+    "Nóng quanh năm",
+    "Không có mùa đông",
+    "Mưa nhiều quanh năm"
+   ],
+   "Sa Pa có thể có tuyết."
+  ],
+  [
+   "Ruộng bậc thang thường thấy ở:",
+   [
+    "Vùng núi phía Bắc",
+    "Đồng bằng Nam Bộ",
+    "Ven biển",
+    "Hải đảo"
+   ],
+   "Ruộng bậc thang trên sườn núi."
+  ],
+  [
+   "Làm ruộng bậc thang để:",
+   [
+    "Giữ nước, chống xói mòn đất trên sườn núi",
+    "Trang trí",
+    "Nuôi cá",
+    "Làm đường"
+   ],
+   "Ruộng bậc thang giữ nước, chống xói mòn."
+  ],
+  [
+   "Cây công nghiệp nổi tiếng ở trung du Bắc Bộ là:",
+   [
+    "Chè (trà)",
+    "Cao su",
+    "Hồ tiêu",
+    "Dừa"
+   ],
+   "Chè Thái Nguyên nổi tiếng."
+  ],
+  [
+   "Dân tộc thường sống ở vùng núi phía Bắc:",
+   [
+    "Mông, Dao, Thái, Tày, Nùng",
+    "Chăm, Khơ-me",
+    "Ê-đê, Gia-rai",
+    "Hoa"
+   ],
+   "Nhiều dân tộc ít người sinh sống ở miền núi Bắc."
+  ],
+  [
+   "Nhà sàn của người dân vùng núi giúp:",
+   [
+    "Tránh ẩm thấp và thú dữ",
+    "Trang trí",
+    "Nuôi cá",
+    "Đón gió biển"
+   ],
+   "Nhà sàn cao ráo."
+  ],
+  [
+   "Đền Hùng nằm ở tỉnh:",
+   [
+    "Phú Thọ",
+    "Hà Giang",
+    "Lào Cai",
+    "Ninh Bình"
+   ],
+   "Đền Hùng ở Phú Thọ."
+  ],
+  [
+   "Giỗ Tổ Hùng Vương là ngày:",
+   [
+    "10 tháng 3 âm lịch",
+    "1 tháng 1",
+    "2 tháng 9",
+    "15 tháng 8 âm lịch"
+   ],
+   "Ngày 10/3 âm lịch."
+  ],
+  [
+   "Câu 'Dù ai đi ngược về xuôi, nhớ ngày Giỗ Tổ mùng mười tháng ba' nói về:",
+   [
+    "Giỗ Tổ Hùng Vương",
+    "Tết Trung thu",
+    "Tết Nguyên đán",
+    "Lễ hội Chùa Hương"
+   ],
+   "Nhắc nhở nhớ ngày Giỗ Tổ."
+  ],
+  [
+   "Khoáng sản nhiều ở vùng núi phía Bắc là:",
+   [
+    "A-pa-tít, đồng, sắt, than",
+    "Dầu khí",
+    "Muối biển",
+    "Cát trắng"
+   ],
+   "Vùng núi giàu khoáng sản."
+  ],
+  [
+   "Sông có nhiều thác ghềnh ở miền núi thuận lợi để:",
+   [
+    "Xây nhà máy thủy điện",
+    "Trồng lúa nước",
+    "Làm muối",
+    "Nuôi tôm"
+   ],
+   "Thác ghềnh có sức nước lớn."
+  ],
+  [
+   "Nhà máy thủy điện Hòa Bình nằm trên sông:",
+   [
+    "Đà",
+    "Hồng",
+    "Mê Công",
+    "Hương"
+   ],
+   "Thủy điện Hòa Bình trên sông Đà."
+  ],
+  [
+   "Chợ phiên vùng cao là nơi:",
+   [
+    "Người dân mua bán, giao lưu văn hóa",
+    "Học tập",
+    "Khám bệnh",
+    "Gửi thư"
+   ],
+   "Chợ phiên họp theo phiên."
+  ],
+  [
+   "Trung du có địa hình:",
+   [
+    "Đồi thấp, đỉnh tròn, sườn thoải",
+    "Núi cao hiểm trở",
+    "Đồng bằng bằng phẳng",
+    "Bãi cát ven biển"
+   ],
+   "Trung du là vùng đồi."
+  ],
+  [
+   "Lễ hội Lồng Tồng (xuống đồng) là lễ hội của người:",
+   [
+    "Tày, Nùng",
+    "Chăm",
+    "Khơ-me",
+    "Kinh ở Nam Bộ"
+   ],
+   "Lễ hội cầu mùa của người Tày, Nùng."
+  ],
+  [
+   "Khí hậu vùng núi Bắc Bộ thuận lợi trồng các loại cây:",
+   [
+    "Ưa lạnh như mận, đào, rau ôn đới",
+    "Dừa",
+    "Cao su",
+    "Thanh long"
+   ],
+   "Khí hậu mát lạnh."
+  ],
+  [
+   "Việc nào giúp bảo vệ rừng ở vùng núi?",
+   [
+    "Trồng rừng, không đốt phá rừng làm nương rẫy",
+    "Chặt cây lấy gỗ bừa bãi",
+    "Đốt rừng",
+    "Săn bắt thú quý"
+   ],
+   "Bảo vệ rừng đầu nguồn."
+  ],
+  [
+   "Sa Pa thuộc tỉnh:",
+   [
+    "Lào Cai",
+    "Hà Giang",
+    "Phú Thọ",
+    "Yên Bái"
+   ],
+   "Sa Pa ở Lào Cai."
+  ],
+  [
+   "Cột cờ Lũng Cú ở:",
+   [
+    "Cực Bắc của Tổ quốc",
+    "Cực Nam",
+    "Tây Nguyên",
+    "Đồng bằng sông Cửu Long"
+   ],
+   "Lũng Cú – điểm cực Bắc."
+  ],
+  [
+   "Chiến thắng Điện Biên Phủ năm 1954 diễn ra ở vùng:",
+   [
+    "Tây Bắc",
+    "Tây Nguyên",
+    "Nam Bộ",
+    "Duyên hải miền Trung"
+   ],
+   "Điện Biên thuộc Tây Bắc."
+  ],
+  [
+   "Hang Pác Bó (Cao Bằng) gắn với:",
+   [
+    "Nơi Bác Hồ sống và làm việc khi về nước năm 1941",
+    "Nơi vua Hùng dựng nước",
+    "Nơi Ngô Quyền đánh giặc",
+    "Nơi Lê Lợi khởi nghĩa"
+   ],
+   "Bác Hồ về nước năm 1941 ở Pác Bó."
+  ],
+  [
+   "Đặc sản chè Tân Cương thuộc tỉnh:",
+   [
+    "Thái Nguyên",
+    "Lâm Đồng",
+    "Cà Mau",
+    "Bình Định"
+   ],
+   "Chè Thái Nguyên nổi tiếng."
+  ],
+  [
+   "Lễ hội Gầu Tào là lễ hội của người:",
+   [
+    "Mông",
+    "Chăm",
+    "Khơ-me",
+    "Ê-đê"
+   ],
+   "Lễ hội mùa xuân của người Mông."
+  ],
+  [
+   "Khí hậu Sa Pa:",
+   [
+    "Mát mẻ quanh năm, mùa đông lạnh",
+    "Nóng quanh năm",
+    "Khô hạn như sa mạc",
+    "Có mùa mưa và khô như Nam Bộ"
+   ],
+   "Sa Pa ở độ cao lớn."
+  ],
+  [
+   "Trung du Bắc Bộ thường trồng xen cây ăn quả và:",
+   [
+    "Cây chè, trồng rừng",
+    "Cây cao su",
+    "Cây dừa",
+    "Lúa nổi"
+   ],
+   "Đồi trung du trồng chè, cây ăn quả, rừng."
+  ],
+  [
+   "Nghề thủ công ở vùng núi phía Bắc:",
+   [
+    "Dệt thổ cẩm, rèn, đan lát",
+    "Làm muối",
+    "Đóng tàu biển",
+    "Làm nước mắm"
+   ],
+   "Thổ cẩm của đồng bào dân tộc."
+  ],
+  [
+   "Vì sao cần trồng rừng ở vùng đồi trọc trung du?",
+   [
+    "Chống xói mòn, giữ đất, phủ xanh đồi",
+    "Để làm đường",
+    "Để đốt lấy than",
+    "Không cần thiết"
+   ],
+   "Rừng giữ đất, giữ nước."
+  ]
+ ],
+ "c3": [
+  [
+   "Đồng bằng Bắc Bộ do phù sa của sông nào bồi đắp?",
+   [
+    "Sông Hồng và sông Thái Bình",
+    "Sông Mê Công",
+    "Sông Đồng Nai",
+    "Sông Hương"
+   ],
+   "Phù sa sông Hồng, sông Thái Bình."
+  ],
+  [
+   "Đồng bằng Bắc Bộ có hình dạng:",
+   [
+    "Tam giác",
+    "Hình tròn",
+    "Hình vuông",
+    "Hình chữ nhật dài"
+   ],
+   "Đỉnh ở Việt Trì, đáy là bờ biển."
+  ],
+  [
+   "Để ngăn lũ, người dân đồng bằng Bắc Bộ đã:",
+   [
+    "Đắp đê dọc hai bên bờ sông",
+    "Phá rừng",
+    "Đào thêm sông",
+    "Đốt nương"
+   ],
+   "Hệ thống đê sông Hồng."
+  ],
+  [
+   "Đồng bằng Bắc Bộ là vựa lúa lớn thứ mấy của cả nước?",
+   [
+    "Thứ hai",
+    "Thứ nhất",
+    "Thứ ba",
+    "Thứ tư"
+   ],
+   "Lớn thứ hai sau đồng bằng sông Cửu Long."
+  ],
+  [
+   "Dân tộc sống chủ yếu ở đồng bằng Bắc Bộ là:",
+   [
+    "Kinh",
+    "Mông",
+    "Ê-đê",
+    "Chăm"
+   ],
+   "Người Kinh chiếm đa số."
+  ],
+  [
+   "Làng nghề gốm nổi tiếng ở Hà Nội là:",
+   [
+    "Bát Tràng",
+    "Vạn Phúc",
+    "Đông Hồ",
+    "Đồng Kỵ"
+   ],
+   "Gốm Bát Tràng."
+  ],
+  [
+   "Làng lụa Vạn Phúc nổi tiếng với nghề:",
+   [
+    "Dệt lụa",
+    "Làm gốm",
+    "Làm tranh",
+    "Đúc đồng"
+   ],
+   "Lụa Vạn Phúc (Hà Đông)."
+  ],
+  [
+   "Tranh dân gian Đông Hồ thuộc tỉnh:",
+   [
+    "Bắc Ninh",
+    "Hà Giang",
+    "Nghệ An",
+    "Cà Mau"
+   ],
+   "Đông Hồ ở Bắc Ninh."
+  ],
+  [
+   "Văn Miếu – Quốc Tử Giám được coi là:",
+   [
+    "Trường đại học đầu tiên của nước ta",
+    "Chợ lớn nhất",
+    "Cung điện vua Hùng",
+    "Nhà máy đầu tiên"
+   ],
+   "Quốc Tử Giám lập năm 1076."
+  ],
+  [
+   "Hà Nội được Lý Công Uẩn đặt tên là Thăng Long vào năm:",
+   [
+    "1010",
+    "938",
+    "1945",
+    "1428"
+   ],
+   "Dời đô và đổi tên năm 1010."
+  ],
+  [
+   "Hà Nội là:",
+   [
+    "Trung tâm chính trị, văn hóa, kinh tế lớn của cả nước",
+    "Thành phố cảng lớn nhất",
+    "Thành phố vùng núi",
+    "Thành phố của Tây Nguyên"
+   ],
+   "Hà Nội là thủ đô."
+  ],
+  [
+   "Mùa đông ở đồng bằng Bắc Bộ, người dân thường trồng:",
+   [
+    "Rau vụ đông (su hào, bắp cải)",
+    "Cao su",
+    "Cà phê",
+    "Dừa"
+   ],
+   "Khí hậu lạnh thuận lợi rau vụ đông."
+  ],
+  [
+   "Lễ hội Chùa Hương diễn ra ở:",
+   [
+    "Hà Nội",
+    "Huế",
+    "Đà Lạt",
+    "Cần Thơ"
+   ],
+   "Chùa Hương ở phía tây nam Hà Nội."
+  ],
+  [
+   "Hồ Hoàn Kiếm gắn với truyền thuyết:",
+   [
+    "Vua Lê Lợi trả gươm thần",
+    "Sơn Tinh, Thủy Tinh",
+    "Thánh Gióng",
+    "Con Rồng cháu Tiên"
+   ],
+   "Hồ Gươm gắn với Lê Lợi trả gươm."
+  ],
+  [
+   "Lăng Chủ tịch Hồ Chí Minh ở:",
+   [
+    "Hà Nội",
+    "Huế",
+    "Hải Phòng",
+    "Nam Định"
+   ],
+   "Lăng Chủ tịch Hồ Chí Minh ở quảng trường Ba Đình, Hà Nội."
+  ],
+  [
+   "Thành phố Hải Phòng nổi tiếng là:",
+   [
+    "Thành phố cảng",
+    "Thành phố cao nguyên",
+    "Thành phố sa mạc",
+    "Thành phố núi"
+   ],
+   "Cảng Hải Phòng lớn ở miền Bắc."
+  ],
+  [
+   "Đồng bằng Bắc Bộ có mạng lưới sông ngòi:",
+   [
+    "Dày đặc",
+    "Rất thưa thớt",
+    "Không có sông",
+    "Chỉ có một con sông"
+   ],
+   "Nhiều sông ngòi, kênh rạch."
+  ],
+  [
+   "Nhà ở truyền thống của người dân đồng bằng Bắc Bộ:",
+   [
+    "Nhà xây chắc chắn, có sân, vườn, ao",
+    "Nhà sàn cao",
+    "Nhà rông",
+    "Nhà nổi trên sông"
+   ],
+   "Mô hình vườn – ao – chuồng."
+  ],
+  [
+   "Đê sông Hồng có vai trò:",
+   [
+    "Ngăn lũ, bảo vệ nhà cửa, ruộng đồng",
+    "Làm đường đua",
+    "Làm hồ chứa",
+    "Không có vai trò"
+   ],
+   "Đê ngăn nước lũ."
+  ],
+  [
+   "Chùa Một Cột được xây dựng dưới thời:",
+   [
+    "Nhà Lý",
+    "Nhà Nguyễn",
+    "Nhà Trần",
+    "Nhà Hồ"
+   ],
+   "Chùa Một Cột xây năm 1049 thời Lý."
+  ],
+  [
+   "Văn Miếu được xây dựng năm 1070 dưới thời vua:",
+   [
+    "Lý Thánh Tông",
+    "Lê Lợi",
+    "Trần Nhân Tông",
+    "Quang Trung"
+   ],
+   "Văn Miếu thờ Khổng Tử, lập năm 1070."
+  ],
+  [
+   "Trong Văn Miếu có bia tiến sĩ khắc tên:",
+   [
+    "Những người đỗ tiến sĩ thời xưa",
+    "Các vị vua",
+    "Các tướng lĩnh",
+    "Các nhà buôn"
+   ],
+   "82 tấm bia tiến sĩ là di sản tư liệu thế giới."
+  ],
+  [
+   "Hoàng thành Thăng Long là:",
+   [
+    "Di sản văn hóa thế giới ở Hà Nội",
+    "Một ngọn núi",
+    "Một con sông",
+    "Một chợ nổi"
+   ],
+   "UNESCO công nhận năm 2010."
+  ],
+  [
+   "Mùa đông ở đồng bằng Bắc Bộ:",
+   [
+    "Lạnh, có gió mùa đông bắc",
+    "Nóng như mùa hè",
+    "Có tuyết dày",
+    "Không có mùa đông"
+   ],
+   "Ba tháng mùa đông lạnh."
+  ],
+  [
+   "Đồng bằng Bắc Bộ đông dân vì:",
+   [
+    "Đất đai màu mỡ, thuận lợi trồng lúa, khai thác lâu đời",
+    "Có nhiều núi cao",
+    "Có sa mạc",
+    "Khí hậu lạnh quanh năm"
+   ],
+   "Điều kiện sống thuận lợi."
+  ],
+  [
+   "Lễ hội đền Gióng (Hội Gióng) tưởng nhớ:",
+   [
+    "Thánh Gióng",
+    "Ngô Quyền",
+    "Lý Công Uẩn",
+    "Hai Bà Trưng"
+   ],
+   "Hội Gióng là di sản phi vật thể."
+  ],
+  [
+   "Ca trù, quan họ là:",
+   [
+    "Loại hình nghệ thuật dân gian",
+    "Tên các con sông",
+    "Các loại cây trồng",
+    "Các món ăn"
+   ],
+   "Quan họ Bắc Ninh là di sản UNESCO."
+  ],
+  [
+   "Sông Hồng chảy qua thủ đô Hà Nội có màu:",
+   [
+    "Đỏ nâu do nhiều phù sa",
+    "Xanh trong",
+    "Đen",
+    "Trắng"
+   ],
+   "Phù sa làm nước đỏ nâu."
+  ],
+  [
+   "Hà Nội có nhiều trường đại học, bảo tàng nên là:",
+   [
+    "Trung tâm văn hóa, khoa học lớn",
+    "Vùng nông thôn hẻo lánh",
+    "Vùng sa mạc",
+    "Đảo nhỏ"
+   ],
+   "Trung tâm văn hóa – giáo dục."
+  ],
+  [
+   "Ở đồng bằng Bắc Bộ có hai vụ lúa chính:",
+   [
+    "Vụ chiêm (đông xuân) và vụ mùa",
+    "Vụ hè và vụ thu",
+    "Chỉ một vụ",
+    "Bốn vụ"
+   ],
+   "Vụ chiêm và vụ mùa."
+  ]
+ ],
+ "c4": [
+  [
+   "Duyên hải miền Trung có các đồng bằng:",
+   [
+    "Nhỏ hẹp, nằm ven biển",
+    "Rộng lớn nhất nước",
+    "Trên cao nguyên",
+    "Ở giữa núi cao"
+   ],
+   "Đồng bằng nhỏ, bị núi chia cắt."
+  ],
+  [
+   "Dãy núi Bạch Mã là ranh giới khí hậu giữa:",
+   [
+    "Miền Bắc và miền Nam",
+    "Việt Nam và Lào",
+    "Tây Nguyên và Nam Bộ",
+    "Đồng bằng và biển"
+   ],
+   "Bạch Mã chắn gió mùa đông bắc."
+  ],
+  [
+   "Đèo Hải Vân nằm giữa:",
+   [
+    "Huế và Đà Nẵng",
+    "Hà Nội và Hải Phòng",
+    "Đà Lạt và Nha Trang",
+    "Cần Thơ và Cà Mau"
+   ],
+   "Hải Vân trên dãy Bạch Mã."
+  ],
+  [
+   "Duyên hải miền Trung thường gặp thiên tai:",
+   [
+    "Bão, lũ lụt, hạn hán",
+    "Tuyết rơi",
+    "Núi lửa phun",
+    "Động đất mạnh thường xuyên"
+   ],
+   "Miền Trung chịu nhiều bão lũ."
+  ],
+  [
+   "Nghề làm muối phát triển ở:",
+   [
+    "Ven biển miền Trung (Sa Huỳnh, Cà Ná)",
+    "Vùng núi Bắc Bộ",
+    "Tây Nguyên",
+    "Đồng bằng Bắc Bộ"
+   ],
+   "Nắng nhiều, nước biển mặn."
+  ],
+  [
+   "Cố đô Huế là kinh đô của triều đại:",
+   [
+    "Nhà Nguyễn",
+    "Nhà Lý",
+    "Nhà Trần",
+    "Nhà Lê"
+   ],
+   "Huế là kinh đô nhà Nguyễn (1802–1945)."
+  ],
+  [
+   "Sông chảy qua thành phố Huế là:",
+   [
+    "Sông Hương",
+    "Sông Hồng",
+    "Sông Hàn",
+    "Sông Tiền"
+   ],
+   "Sông Hương thơ mộng."
+  ],
+  [
+   "Phố cổ Hội An thuộc tỉnh/thành:",
+   [
+    "Quảng Nam (nay thuộc Đà Nẵng)",
+    "Thừa Thiên Huế",
+    "Khánh Hòa",
+    "Bình Định"
+   ],
+   "Hội An là di sản văn hóa thế giới."
+  ],
+  [
+   "Thành phố Đà Nẵng có:",
+   [
+    "Cảng biển, sân bay, nhiều bãi biển đẹp",
+    "Tuyết rơi",
+    "Nhiều ruộng bậc thang",
+    "Cao nguyên đất đỏ"
+   ],
+   "Đà Nẵng là thành phố biển lớn."
+  ],
+  [
+   "Lễ hội Ka-tê là lễ hội của người:",
+   [
+    "Chăm",
+    "Mông",
+    "Tày",
+    "Khơ-me"
+   ],
+   "Ka-tê của người Chăm ở Ninh Thuận, Bình Thuận."
+  ],
+  [
+   "Tháp Chăm là công trình kiến trúc của người:",
+   [
+    "Chăm",
+    "Kinh",
+    "Ê-đê",
+    "Hoa"
+   ],
+   "Tháp Chăm cổ ở miền Trung."
+  ],
+  [
+   "Nghề đánh bắt hải sản phát triển ở miền Trung vì:",
+   [
+    "Có bờ biển dài, nhiều bãi tôm cá",
+    "Có nhiều núi tuyết",
+    "Có đất đỏ ba-dan",
+    "Có nhiều mỏ than"
+   ],
+   "Biển giàu hải sản."
+  ],
+  [
+   "Vịnh Nha Trang thuộc tỉnh:",
+   [
+    "Khánh Hòa",
+    "Quảng Ninh",
+    "Kiên Giang",
+    "Phú Yên"
+   ],
+   "Nha Trang ở Khánh Hòa."
+  ],
+  [
+   "Động Phong Nha – Kẻ Bàng thuộc tỉnh:",
+   [
+    "Quảng Bình (nay thuộc Quảng Trị)",
+    "Nghệ An",
+    "Quảng Ngãi",
+    "Lâm Đồng"
+   ],
+   "Di sản thiên nhiên thế giới."
+  ],
+  [
+   "Nhã nhạc cung đình Huế là:",
+   [
+    "Di sản văn hóa phi vật thể của nhân loại",
+    "Một món ăn",
+    "Một con sông",
+    "Một ngọn núi"
+   ],
+   "UNESCO công nhận năm 2003."
+  ],
+  [
+   "Người dân miền Trung trồng cây gì trên đất cát pha ven biển?",
+   [
+    "Lạc, dưa hấu, thanh long",
+    "Chè",
+    "Cà phê",
+    "Su hào"
+   ],
+   "Đất cát pha hợp cây chịu hạn."
+  ],
+  [
+   "Vì sao miền Trung hay có hạn hán vào mùa hè?",
+   [
+    "Có gió Tây khô nóng (gió Lào)",
+    "Có tuyết",
+    "Mưa quá nhiều",
+    "Có sương mù"
+   ],
+   "Gió phơn Tây Nam khô nóng."
+  ],
+  [
+   "Để phòng chống bão lũ, người dân miền Trung:",
+   [
+    "Gia cố nhà cửa, trồng rừng ven biển",
+    "Chặt cây ven biển",
+    "Xây nhà sát bờ sông",
+    "Không làm gì"
+   ],
+   "Chủ động phòng tránh thiên tai."
+  ],
+  [
+   "Đại Nội (Hoàng thành) Huế là nơi:",
+   [
+    "Vua và hoàng gia nhà Nguyễn sinh sống, làm việc",
+    "Chợ lớn",
+    "Trường học",
+    "Bến cảng"
+   ],
+   "Hoàng thành Huế."
+  ],
+  [
+   "Duyên hải miền Trung nằm giữa:",
+   [
+    "Dãy Trường Sơn và Biển Đông",
+    "Hai đồng bằng lớn",
+    "Lào và Cam-pu-chia",
+    "Hai cao nguyên"
+   ],
+   "Phía tây là núi, phía đông là biển."
+  ],
+  [
+   "Thành phố Huế còn được gọi là:",
+   [
+    "Cố đô",
+    "Thủ đô",
+    "Thành phố hoa",
+    "Thành phố cảng"
+   ],
+   "Huế là kinh đô cũ."
+  ],
+  [
+   "Đặc sản nước mắm nổi tiếng ở miền Trung:",
+   [
+    "Nước mắm Phan Thiết",
+    "Chè Thái",
+    "Cà phê Buôn Ma Thuột",
+    "Bưởi Đoan Hùng"
+   ],
+   "Phan Thiết nổi tiếng nước mắm."
+  ],
+  [
+   "Hội An xưa là:",
+   [
+    "Thương cảng sầm uất",
+    "Kinh đô nhà Lý",
+    "Vùng núi tuyết",
+    "Sân bay lớn"
+   ],
+   "Hội An từng là cảng thị quốc tế."
+  ],
+  [
+   "Thánh địa Mỹ Sơn là di tích của người:",
+   [
+    "Chăm",
+    "Kinh",
+    "Mông",
+    "Khơ-me"
+   ],
+   "Quần thể đền tháp Chăm."
+  ],
+  [
+   "Ven biển miền Trung có nhiều:",
+   [
+    "Bãi biển đẹp thu hút du khách",
+    "Ruộng bậc thang",
+    "Núi lửa đang hoạt động",
+    "Băng tuyết"
+   ],
+   "Mỹ Khê, Nha Trang, Quy Nhơn..."
+  ],
+  [
+   "Mùa mưa ở duyên hải miền Trung thường vào:",
+   [
+    "Cuối năm (khoảng tháng 9 – 12)",
+    "Đầu năm",
+    "Giữa mùa hè",
+    "Quanh năm như nhau"
+   ],
+   "Mưa lũ cuối năm."
+  ],
+  [
+   "Người dân miền Trung trồng phi lao ven biển để:",
+   [
+    "Chắn gió, chắn cát bay",
+    "Lấy quả ăn",
+    "Làm đẹp",
+    "Lấy nhựa"
+   ],
+   "Phi lao chắn cát."
+  ],
+  [
+   "Đèo Ngang nằm giữa:",
+   [
+    "Hà Tĩnh và Quảng Bình (nay Quảng Trị)",
+    "Đà Nẵng và Huế",
+    "Khánh Hòa và Lâm Đồng",
+    "Hà Nội và Hòa Bình"
+   ],
+   "Đèo Ngang trên dãy Hoành Sơn."
+  ],
+  [
+   "Kinh thành Huế được xây dựng bên bờ sông:",
+   [
+    "Hương",
+    "Hàn",
+    "Thu Bồn",
+    "Đà Rằng"
+   ],
+   "Sông Hương chảy qua Huế."
+  ],
+  [
+   "Nghề đóng tàu, khai thác hải sản phát triển ở miền Trung nhờ:",
+   [
+    "Bờ biển dài, nhiều vũng vịnh",
+    "Có nhiều núi tuyết",
+    "Có đất đỏ ba-dan",
+    "Ít sông ngòi"
+   ],
+   "Điều kiện biển thuận lợi."
+  ]
+ ],
+ "c5": [
+  [
+   "Tây Nguyên gồm nhiều:",
+   [
+    "Cao nguyên xếp tầng",
+    "Đồng bằng phù sa",
+    "Đảo nhỏ",
+    "Sa mạc"
+   ],
+   "Các cao nguyên Kon Tum, Plây Ku, Đắk Lắk, Lâm Viên..."
+  ],
+  [
+   "Đất đỏ ba-dan ở Tây Nguyên thích hợp trồng:",
+   [
+    "Cà phê, cao su, hồ tiêu, chè",
+    "Lúa nước",
+    "Rau vụ đông",
+    "Cói"
+   ],
+   "Đất ba-dan màu mỡ, hợp cây công nghiệp."
+  ],
+  [
+   "Cây công nghiệp nổi tiếng nhất Tây Nguyên là:",
+   [
+    "Cà phê",
+    "Chè",
+    "Dừa",
+    "Mía"
+   ],
+   "Buôn Ma Thuột nổi tiếng cà phê."
+  ],
+  [
+   "Khí hậu Tây Nguyên có hai mùa rõ rệt:",
+   [
+    "Mùa mưa và mùa khô",
+    "Xuân và thu",
+    "Đông và hè lạnh",
+    "Bốn mùa đều nhau"
+   ],
+   "Mùa mưa và mùa khô."
+  ],
+  [
+   "Thành phố Đà Lạt nằm trên cao nguyên:",
+   [
+    "Lâm Viên",
+    "Đắk Lắk",
+    "Kon Tum",
+    "Mộc Châu"
+   ],
+   "Đà Lạt khí hậu mát quanh năm."
+  ],
+  [
+   "Đà Lạt nổi tiếng với:",
+   [
+    "Rau, hoa, khí hậu mát mẻ",
+    "Ruộng muối",
+    "Bãi biển",
+    "Tuyết rơi"
+   ],
+   "Thành phố ngàn hoa."
+  ],
+  [
+   "Nhà rông là nhà sinh hoạt chung của:",
+   [
+    "Buôn làng ở Tây Nguyên",
+    "Người Kinh đồng bằng",
+    "Người Chăm",
+    "Người Hoa"
+   ],
+   "Nhà rông là nơi hội họp, lễ hội."
+  ],
+  [
+   "Không gian văn hóa Cồng chiêng Tây Nguyên là:",
+   [
+    "Di sản văn hóa phi vật thể của nhân loại",
+    "Một ngọn núi",
+    "Một con sông",
+    "Một món ăn"
+   ],
+   "UNESCO công nhận năm 2005."
+  ],
+  [
+   "Các dân tộc sống lâu đời ở Tây Nguyên:",
+   [
+    "Ê-đê, Gia-rai, Ba-na, Xơ-đăng",
+    "Mông, Dao",
+    "Chăm, Khơ-me",
+    "Tày, Nùng"
+   ],
+   "Các dân tộc bản địa Tây Nguyên."
+  ],
+  [
+   "Voi được người dân Tây Nguyên (Buôn Đôn) dùng để:",
+   [
+    "Chuyên chở, phục vụ du lịch",
+    "Cày ruộng nước",
+    "Đánh bắt cá",
+    "Làm muối"
+   ],
+   "Buôn Đôn nổi tiếng thuần dưỡng voi."
+  ],
+  [
+   "Sông ở Tây Nguyên có nhiều thác ghềnh, thuận lợi cho:",
+   [
+    "Xây thủy điện",
+    "Đi tàu lớn",
+    "Trồng lúa nước",
+    "Làm muối"
+   ],
+   "Ví dụ thủy điện Yaly."
+  ],
+  [
+   "Mùa khô ở Tây Nguyên thường thiếu:",
+   [
+    "Nước tưới",
+    "Ánh nắng",
+    "Gió",
+    "Đất"
+   ],
+   "Mùa khô kéo dài, thiếu nước."
+  ],
+  [
+   "Rừng ở Tây Nguyên có ý nghĩa:",
+   [
+    "Giữ đất, giữ nước, nơi sống của nhiều loài",
+    "Không có giá trị",
+    "Chỉ để lấy củi",
+    "Gây lũ lụt"
+   ],
+   "Cần bảo vệ rừng Tây Nguyên."
+  ],
+  [
+   "Đắk Lắk có thành phố:",
+   [
+    "Buôn Ma Thuột",
+    "Đà Lạt",
+    "Plây Ku",
+    "Kon Tum"
+   ],
+   "Buôn Ma Thuột là trung tâm tỉnh Đắk Lắk."
+  ],
+  [
+   "Lễ hội đâm trâu, lễ mừng lúa mới là lễ hội của:",
+   [
+    "Các dân tộc Tây Nguyên",
+    "Người Kinh ở Hà Nội",
+    "Người Chăm",
+    "Người Hoa"
+   ],
+   "Lễ hội truyền thống Tây Nguyên."
+  ],
+  [
+   "Tây Nguyên giáp với nước nào?",
+   [
+    "Lào và Cam-pu-chia",
+    "Trung Quốc",
+    "Thái Lan",
+    "Ma-lai-xi-a"
+   ],
+   "Phía tây giáp Lào, Cam-pu-chia."
+  ],
+  [
+   "Nhà rông thường có mái:",
+   [
+    "Cao, nhọn như lưỡi rìu",
+    "Bằng phẳng",
+    "Hình tròn",
+    "Không có mái"
+   ],
+   "Mái nhà rông cao vút."
+  ],
+  [
+   "Hoạt động chăn nuôi phát triển ở Tây Nguyên:",
+   [
+    "Trâu, bò trên đồng cỏ",
+    "Nuôi tôm biển",
+    "Nuôi cá tra",
+    "Nuôi ngọc trai"
+   ],
+   "Đồng cỏ rộng thuận lợi chăn nuôi."
+  ],
+  [
+   "Hồ Lắk là hồ nước nổi tiếng ở tỉnh:",
+   [
+    "Đắk Lắk",
+    "Lâm Đồng",
+    "Gia Lai",
+    "Kon Tum"
+   ],
+   "Hồ Lắk ở Đắk Lắk."
+  ],
+  [
+   "Trồng cà phê ở Tây Nguyên cần chú ý tưới nước vào:",
+   [
+    "Mùa khô",
+    "Mùa mưa",
+    "Ban đêm mùa mưa",
+    "Không cần tưới"
+   ],
+   "Mùa khô thiếu nước."
+  ],
+  [
+   "Cao nguyên là vùng đất:",
+   [
+    "Rộng lớn, tương đối bằng phẳng, nằm ở độ cao lớn",
+    "Thấp hơn mực nước biển",
+    "Ven biển, bằng phẳng",
+    "Toàn núi nhọn"
+   ],
+   "Cao nguyên cao nhưng bề mặt khá bằng."
+  ],
+  [
+   "Plây Ku là thành phố thuộc tỉnh:",
+   [
+    "Gia Lai",
+    "Đắk Lắk",
+    "Lâm Đồng",
+    "Kon Tum"
+   ],
+   "Plây Ku – Gia Lai."
+  ],
+  [
+   "Hoa dã quỳ nở vàng rực ở Tây Nguyên vào mùa:",
+   [
+    "Cuối năm (mùa khô bắt đầu)",
+    "Mùa mưa giữa năm",
+    "Mùa hè",
+    "Không bao giờ nở"
+   ],
+   "Dã quỳ nở khoảng tháng 11."
+  ],
+  [
+   "Đồng bào Tây Nguyên thường ở:",
+   [
+    "Nhà sàn trong các buôn, plây, làng",
+    "Nhà nổi trên sông",
+    "Nhà tầng cao",
+    "Lều tuyết"
+   ],
+   "Nhà sàn quây quần trong buôn."
+  ],
+  [
+   "Cây cao su cho:",
+   [
+    "Mủ để làm săm lốp, đồ dùng",
+    "Quả ăn",
+    "Hạt cà phê",
+    "Lá chè"
+   ],
+   "Mủ cao su là nguyên liệu công nghiệp."
+  ],
+  [
+   "Đàn đá, đàn tơ-rưng là nhạc cụ của:",
+   [
+    "Đồng bào Tây Nguyên",
+    "Người Kinh ở Hà Nội",
+    "Người Hoa",
+    "Người Chăm"
+   ],
+   "Nhạc cụ dân tộc Tây Nguyên."
+  ],
+  [
+   "Vấn đề cần chú ý bảo vệ ở Tây Nguyên:",
+   [
+    "Rừng và nguồn nước",
+    "Băng tuyết",
+    "San hô",
+    "Ruộng muối"
+   ],
+   "Phá rừng gây hạn hán, xói mòn."
+  ],
+  [
+   "Hồ Xuân Hương nằm ở:",
+   [
+    "Đà Lạt",
+    "Hà Nội",
+    "Huế",
+    "Cần Thơ"
+   ],
+   "Hồ trung tâm Đà Lạt."
+  ],
+  [
+   "Ngọn núi Lang Biang nằm ở:",
+   [
+    "Lâm Đồng (gần Đà Lạt)",
+    "Lào Cai",
+    "Quảng Ninh",
+    "Kiên Giang"
+   ],
+   "Lang Biang trên cao nguyên Lâm Viên."
+  ],
+  [
+   "Tây Nguyên có diện tích trồng cà phê:",
+   [
+    "Lớn nhất cả nước",
+    "Nhỏ nhất",
+    "Không trồng cà phê",
+    "Chỉ trồng thử nghiệm"
+   ],
+   "Vùng cà phê lớn nhất."
+  ]
+ ],
+ "c6": [
+  [
+   "Đồng bằng Nam Bộ do phù sa sông nào bồi đắp?",
+   [
+    "Sông Mê Công và sông Đồng Nai",
+    "Sông Hồng",
+    "Sông Đà",
+    "Sông Hương"
+   ],
+   "Mê Công và Đồng Nai."
+  ],
+  [
+   "Đồng bằng sông Cửu Long là vựa lúa:",
+   [
+    "Lớn nhất cả nước",
+    "Nhỏ nhất",
+    "Thứ ba",
+    "Không trồng lúa"
+   ],
+   "Vựa lúa, vựa trái cây lớn nhất."
+  ],
+  [
+   "Ở Nam Bộ có hệ thống:",
+   [
+    "Kênh rạch chằng chịt",
+    "Ruộng bậc thang",
+    "Núi đá vôi",
+    "Băng tuyết"
+   ],
+   "Mạng lưới kênh rạch dày."
+  ],
+  [
+   "Chợ nổi trên sông là nét văn hóa đặc trưng của:",
+   [
+    "Miền Tây Nam Bộ",
+    "Miền núi Bắc Bộ",
+    "Tây Nguyên",
+    "Đồng bằng Bắc Bộ"
+   ],
+   "Chợ nổi Cái Răng (Cần Thơ)."
+  ],
+  [
+   "Phương tiện đi lại phổ biến trên sông nước Nam Bộ:",
+   [
+    "Xuồng, ghe",
+    "Xe trượt tuyết",
+    "Lạc đà",
+    "Voi"
+   ],
+   "Xuồng, ghe đi kênh rạch."
+  ],
+  [
+   "Thành phố lớn nhất nước ta là:",
+   [
+    "Thành phố Hồ Chí Minh",
+    "Hà Nội",
+    "Đà Nẵng",
+    "Cần Thơ"
+   ],
+   "TP Hồ Chí Minh đông dân nhất."
+  ],
+  [
+   "Thành phố Hồ Chí Minh trước đây có tên là:",
+   [
+    "Sài Gòn",
+    "Thăng Long",
+    "Phú Xuân",
+    "Gia Định Thành Hà"
+   ],
+   "Năm 1976 đổi tên thành TP Hồ Chí Minh."
+  ],
+  [
+   "Bến Nhà Rồng gắn với sự kiện:",
+   [
+    "Nguyễn Tất Thành ra đi tìm đường cứu nước (1911)",
+    "Vua Lê Lợi trả gươm",
+    "Ngô Quyền đánh giặc",
+    "Dời đô về Thăng Long"
+   ],
+   "Ngày 5/6/1911 Bác ra đi từ Bến Nhà Rồng."
+  ],
+  [
+   "Đặc sản trái cây của Nam Bộ:",
+   [
+    "Xoài, sầu riêng, chôm chôm, măng cụt",
+    "Mận, đào",
+    "Táo mèo",
+    "Lê"
+   ],
+   "Nam Bộ là vựa trái cây."
+  ],
+  [
+   "Nghề nuôi trồng thủy sản phát triển ở Nam Bộ là:",
+   [
+    "Nuôi cá tra, cá ba sa, tôm",
+    "Nuôi cừu",
+    "Nuôi ngựa",
+    "Nuôi gấu"
+   ],
+   "Nhiều sông nước."
+  ],
+  [
+   "Nhà ở của người dân Nam Bộ thường:",
+   [
+    "Dọc theo sông ngòi, kênh rạch",
+    "Trên núi cao",
+    "Trên cao nguyên",
+    "Trong hang đá"
+   ],
+   "Thuận tiện đi lại bằng đường thủy."
+  ],
+  [
+   "Dân tộc sống ở Nam Bộ ngoài người Kinh:",
+   [
+    "Khơ-me, Chăm, Hoa",
+    "Mông, Dao",
+    "Ê-đê",
+    "Tày"
+   ],
+   "Nam Bộ có cộng đồng Khơ-me, Chăm, Hoa."
+  ],
+  [
+   "Đất phèn, đất mặn ở Nam Bộ cần được:",
+   [
+    "Cải tạo để trồng trọt",
+    "Bỏ hoang",
+    "Đổ thêm muối",
+    "Đốt cháy"
+   ],
+   "Cải tạo đất để canh tác."
+  ],
+  [
+   "Mũi Cà Mau là:",
+   [
+    "Điểm cực Nam trên đất liền của nước ta",
+    "Đỉnh núi cao nhất",
+    "Thủ đô cũ",
+    "Hòn đảo lớn nhất"
+   ],
+   "Cực Nam Tổ quốc."
+  ],
+  [
+   "Đảo lớn nhất Việt Nam là:",
+   [
+    "Phú Quốc",
+    "Côn Đảo",
+    "Cát Bà",
+    "Lý Sơn"
+   ],
+   "Phú Quốc thuộc Kiên Giang (nay An Giang)."
+  ],
+  [
+   "Cần Thơ được gọi là:",
+   [
+    "Tây Đô – trung tâm vùng đồng bằng sông Cửu Long",
+    "Thành phố hoa",
+    "Thành phố cảng phía Bắc",
+    "Kinh đô nhà Nguyễn"
+   ],
+   "Cần Thơ là đô thị trung tâm miền Tây."
+  ],
+  [
+   "Mùa lũ ở đồng bằng sông Cửu Long mang lại:",
+   [
+    "Phù sa và nguồn cá tôm",
+    "Tuyết",
+    "Đá vôi",
+    "Gió lạnh"
+   ],
+   "Lũ đem phù sa bồi đắp."
+  ],
+  [
+   "Nghệ thuật Đờn ca tài tử là di sản của:",
+   [
+    "Nam Bộ",
+    "Tây Bắc",
+    "Tây Nguyên",
+    "Huế"
+   ],
+   "Đờn ca tài tử Nam Bộ được UNESCO công nhận."
+  ],
+  [
+   "Khí hậu Nam Bộ:",
+   [
+    "Nóng quanh năm, có mùa mưa và mùa khô",
+    "Có mùa đông lạnh giá",
+    "Có tuyết rơi",
+    "Mát lạnh quanh năm"
+   ],
+   "Khí hậu cận xích đạo."
+  ],
+  [
+   "Khu công nghiệp, nhà máy tập trung nhiều ở:",
+   [
+    "Thành phố Hồ Chí Minh và Đồng Nai",
+    "Vùng núi Hà Giang",
+    "Tây Nguyên",
+    "Các đảo nhỏ"
+   ],
+   "Đông Nam Bộ phát triển công nghiệp mạnh (Bình Dương nay đã sáp nhập vào TP Hồ Chí Minh)."
+  ],
+  [
+   "Sông Mê Công khi chảy vào Việt Nam chia thành hai nhánh:",
+   [
+    "Sông Tiền và sông Hậu",
+    "Sông Hồng và sông Đà",
+    "Sông Hương và sông Hàn",
+    "Sông Cầu và sông Thương"
+   ],
+   "Cửu Long đổ ra biển bằng nhiều cửa."
+  ],
+  [
+   "Địa đạo Củ Chi thuộc:",
+   [
+    "Thành phố Hồ Chí Minh",
+    "Hà Nội",
+    "Huế",
+    "Cần Thơ"
+   ],
+   "Địa đạo Củ Chi nổi tiếng trong kháng chiến."
+  ],
+  [
+   "Dinh Độc Lập (Hội trường Thống Nhất) gắn với sự kiện:",
+   [
+    "Giải phóng miền Nam 30/4/1975",
+    "Dời đô 1010",
+    "Khởi nghĩa Hai Bà Trưng",
+    "Chiến thắng Bạch Đằng"
+   ],
+   "Xe tăng húc đổ cổng Dinh Độc Lập."
+  ],
+  [
+   "Lễ hội Ok Om Bok là lễ hội của người:",
+   [
+    "Khơ-me",
+    "Mông",
+    "Tày",
+    "Ê-đê"
+   ],
+   "Lễ cúng trăng của người Khơ-me Nam Bộ."
+  ],
+  [
+   "Trái cây đặc sản được gọi là 'vua của các loại trái cây':",
+   [
+    "Sầu riêng",
+    "Chuối",
+    "Táo",
+    "Mận"
+   ],
+   "Sầu riêng nổi tiếng Nam Bộ."
+  ],
+  [
+   "Đất mũi Cà Mau có rừng:",
+   [
+    "Ngập mặn (rừng đước, rừng tràm)",
+    "Thông",
+    "Lá kim",
+    "Băng tuyết"
+   ],
+   "Rừng ngập mặn ven biển."
+  ],
+  [
+   "Lúa gạo Nam Bộ được:",
+   [
+    "Xuất khẩu nhiều ra nước ngoài",
+    "Không đủ ăn",
+    "Chỉ dùng làm bánh",
+    "Không trồng"
+   ],
+   "Việt Nam là nước xuất khẩu gạo lớn."
+  ],
+  [
+   "Câu hò, điệu lí là nét văn hóa của:",
+   [
+    "Nam Bộ",
+    "Tây Bắc",
+    "Tây Nguyên",
+    "Quảng Ninh"
+   ],
+   "Hò, lí Nam Bộ."
+  ],
+  [
+   "Mùa nước nổi ở miền Tây thường vào:",
+   [
+    "Khoảng tháng 8 – 11",
+    "Tháng 1 – 3",
+    "Tháng 4 – 5",
+    "Quanh năm"
+   ],
+   "Mùa lũ hằng năm."
+  ],
+  [
+   "Bánh xèo, bánh tét là món ăn quen thuộc của:",
+   [
+    "Người Nam Bộ",
+    "Người Tây Bắc",
+    "Người Nhật",
+    "Người Anh"
+   ],
+   "Ẩm thực Nam Bộ."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Đỉnh núi cao nhất Việt Nam:",
+   [
+    "Phan-xi-păng",
+    "Bà Đen",
+    "Ngọc Linh",
+    "Lang Biang"
+   ],
+   "Phan-xi-păng thuộc Hoàng Liên Sơn."
+  ],
+  [
+   "Vựa lúa lớn nhất nước ta:",
+   [
+    "Đồng bằng sông Cửu Long",
+    "Đồng bằng Bắc Bộ",
+    "Tây Nguyên",
+    "Duyên hải miền Trung"
+   ],
+   "ĐBSCL là vựa lúa số một."
+  ],
+  [
+   "Cố đô Huế là kinh đô của:",
+   [
+    "Nhà Nguyễn",
+    "Nhà Lý",
+    "Nhà Trần",
+    "Nhà Hồ"
+   ],
+   "Kinh đô nhà Nguyễn."
+  ],
+  [
+   "Cây cà phê trồng nhiều ở:",
+   [
+    "Tây Nguyên",
+    "Đồng bằng Bắc Bộ",
+    "Vùng núi phía Bắc",
+    "Ven biển miền Trung"
+   ],
+   "Đất đỏ ba-dan Tây Nguyên."
+  ],
+  [
+   "Đê sông Hồng có tác dụng:",
+   [
+    "Ngăn lũ",
+    "Lấy nước biển",
+    "Trồng cà phê",
+    "Làm đường cao tốc"
+   ],
+   "Đê ngăn lũ."
+  ],
+  [
+   "Chợ nổi Cái Răng thuộc:",
+   [
+    "Cần Thơ",
+    "Hà Nội",
+    "Huế",
+    "Đà Lạt"
+   ],
+   "Chợ nổi miền Tây."
+  ],
+  [
+   "Nhà rông là nét văn hóa của:",
+   [
+    "Tây Nguyên",
+    "Nam Bộ",
+    "Đồng bằng Bắc Bộ",
+    "Duyên hải"
+   ],
+   "Nhà sinh hoạt cộng đồng ở Tây Nguyên."
+  ],
+  [
+   "Giỗ Tổ Hùng Vương vào ngày:",
+   [
+    "10/3 âm lịch",
+    "2/9",
+    "30/4",
+    "1/5"
+   ],
+   "Ngày 10 tháng 3 âm lịch."
+  ],
+  [
+   "Trên bản đồ, phía dưới là hướng:",
+   [
+    "Nam",
+    "Bắc",
+    "Đông",
+    "Tây"
+   ],
+   "Quy ước bản đồ."
+  ],
+  [
+   "Ruộng bậc thang có nhiều ở:",
+   [
+    "Vùng núi phía Bắc",
+    "Đồng bằng sông Cửu Long",
+    "Ven biển",
+    "Tây Nguyên"
+   ],
+   "Trên sườn núi."
+  ],
+  [
+   "Trên bản đồ, bên phải là hướng:",
+   [
+    "Đông",
+    "Tây",
+    "Bắc",
+    "Nam"
+   ],
+   "Bên phải là Đông."
+  ],
+  [
+   "Đền Hùng nằm ở tỉnh:",
+   [
+    "Phú Thọ",
+    "Hà Giang",
+    "Lào Cai",
+    "Ninh Bình"
+   ],
+   "Đền Hùng ở Phú Thọ."
+  ],
+  [
+   "Hà Nội được Lý Công Uẩn đặt tên là Thăng Long vào năm:",
+   [
+    "1010",
+    "938",
+    "1945",
+    "1428"
+   ],
+   "Dời đô và đổi tên năm 1010."
+  ],
+  [
+   "Thành phố Đà Nẵng có:",
+   [
+    "Cảng biển, sân bay, nhiều bãi biển đẹp",
+    "Tuyết rơi",
+    "Nhiều ruộng bậc thang",
+    "Cao nguyên đất đỏ"
+   ],
+   "Đà Nẵng là thành phố biển lớn."
+  ],
+  [
+   "Hoạt động chăn nuôi phát triển ở Tây Nguyên:",
+   [
+    "Trâu, bò trên đồng cỏ",
+    "Nuôi tôm biển",
+    "Nuôi cá tra",
+    "Nuôi ngọc trai"
+   ],
+   "Đồng cỏ rộng thuận lợi chăn nuôi."
+  ],
+  [
+   "Thành phố Hồ Chí Minh trước đây có tên là:",
+   [
+    "Sài Gòn",
+    "Thăng Long",
+    "Phú Xuân",
+    "Gia Định Thành Hà"
+   ],
+   "Năm 1976 đổi tên thành TP Hồ Chí Minh."
+  ],
+  [
+   "Tỉ lệ bản đồ cho biết:",
+   [
+    "Bản đồ được thu nhỏ bao nhiêu lần so với thực tế",
+    "Màu sắc của bản đồ",
+    "Năm vẽ bản đồ",
+    "Tên tác giả"
+   ],
+   "Ví dụ 1 : 100 000 nghĩa là thu nhỏ 100 000 lần."
+  ],
+  [
+   "Cây công nghiệp nổi tiếng ở trung du Bắc Bộ là:",
+   [
+    "Chè (trà)",
+    "Cao su",
+    "Hồ tiêu",
+    "Dừa"
+   ],
+   "Chè Thái Nguyên nổi tiếng."
+  ],
+  [
+   "Văn Miếu – Quốc Tử Giám được coi là:",
+   [
+    "Trường đại học đầu tiên của nước ta",
+    "Chợ lớn nhất",
+    "Cung điện vua Hùng",
+    "Nhà máy đầu tiên"
+   ],
+   "Quốc Tử Giám lập năm 1076."
+  ],
+  [
+   "Phố cổ Hội An thuộc tỉnh/thành:",
+   [
+    "Quảng Nam (nay thuộc Đà Nẵng)",
+    "Thừa Thiên Huế",
+    "Khánh Hòa",
+    "Bình Định"
+   ],
+   "Hội An là di sản văn hóa thế giới."
+  ],
+  [
+   "Voi được người dân Tây Nguyên (Buôn Đôn) dùng để:",
+   [
+    "Chuyên chở, phục vụ du lịch",
+    "Cày ruộng nước",
+    "Đánh bắt cá",
+    "Làm muối"
+   ],
+   "Buôn Đôn nổi tiếng thuần dưỡng voi."
+  ],
+  [
+   "Chợ nổi trên sông là nét văn hóa đặc trưng của:",
+   [
+    "Miền Tây Nam Bộ",
+    "Miền núi Bắc Bộ",
+    "Tây Nguyên",
+    "Đồng bằng Bắc Bộ"
+   ],
+   "Chợ nổi Cái Răng (Cần Thơ)."
+  ],
+  [
+   "Màu xanh lam trên bản đồ thường thể hiện:",
+   [
+    "Biển, sông, hồ",
+    "Núi cao",
+    "Đồng bằng",
+    "Thành phố"
+   ],
+   "Màu xanh lam chỉ nước."
+  ],
+  [
+   "Việc nào giúp bảo vệ rừng ở vùng núi?",
+   [
+    "Trồng rừng, không đốt phá rừng làm nương rẫy",
+    "Chặt cây lấy gỗ bừa bãi",
+    "Đốt rừng",
+    "Săn bắt thú quý"
+   ],
+   "Bảo vệ rừng đầu nguồn."
+  ],
+  [
+   "Đồng bằng Bắc Bộ do phù sa của sông nào bồi đắp?",
+   [
+    "Sông Hồng và sông Thái Bình",
+    "Sông Mê Công",
+    "Sông Đồng Nai",
+    "Sông Hương"
+   ],
+   "Phù sa sông Hồng, sông Thái Bình."
+  ],
+  [
+   "Đại Nội (Hoàng thành) Huế là nơi:",
+   [
+    "Vua và hoàng gia nhà Nguyễn sinh sống, làm việc",
+    "Chợ lớn",
+    "Trường học",
+    "Bến cảng"
+   ],
+   "Hoàng thành Huế."
+  ],
+  [
+   "Rừng ở Tây Nguyên có ý nghĩa:",
+   [
+    "Giữ đất, giữ nước, nơi sống của nhiều loài",
+    "Không có giá trị",
+    "Chỉ để lấy củi",
+    "Gây lũ lụt"
+   ],
+   "Cần bảo vệ rừng Tây Nguyên."
+  ],
+  [
+   "Mùa lũ ở đồng bằng sông Cửu Long mang lại:",
+   [
+    "Phù sa và nguồn cá tôm",
+    "Tuyết",
+    "Đá vôi",
+    "Gió lạnh"
+   ],
+   "Lũ đem phù sa bồi đắp."
+  ],
+  [
+   "Lễ hội truyền thống ở địa phương thể hiện:",
+   [
+    "Văn hóa, phong tục của người dân",
+    "Chỉ để buôn bán",
+    "Không có ý nghĩa",
+    "Chỉ để nghỉ học"
+   ],
+   "Lễ hội gìn giữ bản sắc văn hóa."
+  ],
+  [
+   "Trung du có địa hình:",
+   [
+    "Đồi thấp, đỉnh tròn, sườn thoải",
+    "Núi cao hiểm trở",
+    "Đồng bằng bằng phẳng",
+    "Bãi cát ven biển"
+   ],
+   "Trung du là vùng đồi."
+  ],
+  [
+   "Đê sông Hồng có vai trò:",
+   [
+    "Ngăn lũ, bảo vệ nhà cửa, ruộng đồng",
+    "Làm đường đua",
+    "Làm hồ chứa",
+    "Không có vai trò"
+   ],
+   "Đê ngăn nước lũ."
+  ],
+  [
+   "Động Phong Nha – Kẻ Bàng thuộc tỉnh:",
+   [
+    "Quảng Bình (nay thuộc Quảng Trị)",
+    "Nghệ An",
+    "Quảng Ngãi",
+    "Lâm Đồng"
+   ],
+   "Di sản thiên nhiên thế giới."
+  ],
+  [
+   "Cây công nghiệp nổi tiếng nhất Tây Nguyên là:",
+   [
+    "Cà phê",
+    "Chè",
+    "Dừa",
+    "Mía"
+   ],
+   "Buôn Ma Thuột nổi tiếng cà phê."
+  ],
+  [
+   "Ở Nam Bộ có hệ thống:",
+   [
+    "Kênh rạch chằng chịt",
+    "Ruộng bậc thang",
+    "Núi đá vôi",
+    "Băng tuyết"
+   ],
+   "Mạng lưới kênh rạch dày."
+  ],
+  [
+   "Nước ta có hình dạng:",
+   [
+    "Hẹp ngang, kéo dài theo chiều Bắc – Nam, hình chữ S",
+    "Hình tròn",
+    "Hình vuông",
+    "Hình tam giác"
+   ],
+   "Lãnh thổ hình chữ S."
+  ],
+  [
+   "Khí hậu vùng núi Bắc Bộ thuận lợi trồng các loại cây:",
+   [
+    "Ưa lạnh như mận, đào, rau ôn đới",
+    "Dừa",
+    "Cao su",
+    "Thanh long"
+   ],
+   "Khí hậu mát lạnh."
+  ],
+  [
+   "Hà Nội là:",
+   [
+    "Trung tâm chính trị, văn hóa, kinh tế lớn của cả nước",
+    "Thành phố cảng lớn nhất",
+    "Thành phố vùng núi",
+    "Thành phố của Tây Nguyên"
+   ],
+   "Hà Nội là thủ đô."
+  ],
+  [
+   "Vì sao miền Trung hay có hạn hán vào mùa hè?",
+   [
+    "Có gió Tây khô nóng (gió Lào)",
+    "Có tuyết",
+    "Mưa quá nhiều",
+    "Có sương mù"
+   ],
+   "Gió phơn Tây Nam khô nóng."
+  ],
+  [
+   "Sông ở Tây Nguyên có nhiều thác ghềnh, thuận lợi cho:",
+   [
+    "Xây thủy điện",
+    "Đi tàu lớn",
+    "Trồng lúa nước",
+    "Làm muối"
+   ],
+   "Ví dụ thủy điện Yaly."
+  ],
+  [
+   "Đất phèn, đất mặn ở Nam Bộ cần được:",
+   [
+    "Cải tạo để trồng trọt",
+    "Bỏ hoang",
+    "Đổ thêm muối",
+    "Đốt cháy"
+   ],
+   "Cải tạo đất để canh tác."
+  ]
+ ]
+}

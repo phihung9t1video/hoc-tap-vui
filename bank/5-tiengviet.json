@@ -1,0 +1,2002 @@
+{
+ "c2": [
+  [
+   "Trong câu \"Em đang viết bài.\", từ \"viết\" thuộc từ loại nào?",
+   [
+    "Từ đơn",
+    "Từ ghép",
+    "Từ đồng âm",
+    "Từ nhiều nghĩa"
+   ],
+   "Từ \"viết\" ở đây là một từ đơn chỉ hoạt động của con người."
+  ],
+  [
+   "Từ \"đường\" nào dưới đây khác nghĩa với các từ \"đường\" còn lại?",
+   [
+    "đường đi",
+    "đường cát",
+    "đường phèn",
+    "đường kính"
+   ],
+   "Từ \"đường\" trong \"đường đi\" chỉ lối đi, còn các từ kia chỉ chất ngọt."
+  ],
+  [
+   "Cặp từ nào dưới đây là cặp từ đồng âm?",
+   [
+    "hòn đá - đá bóng",
+    "mẹ - má",
+    "chạy - chạy nhảy",
+    "to - lớn"
+   ],
+   "\"Đá\" trong \"hòn đá\" là danh từ, còn \"đá\" trong \" đá bóng\" là động từ, chúng phát âm giống nhau nhưng khác hẳn nhau về nghĩa."
+  ],
+  [
+   "Từ \"chân\" trong câu nào dưới đây mang nghĩa gốc?",
+   [
+    "Bé bị đau chân trái.",
+    "Chân bàn bị gãy.",
+    "Chân mây cuối trời.",
+    "Chân tường ẩm ốc."
+   ],
+   "\"Chân\" chỉ bộ phận cơ thể người để đi lại là nghĩa gốc, các trường hợp khác là nghĩa chuyển."
+  ],
+  [
+   "Trong các từ sau, từ nào là từ nhiều nghĩa?",
+   [
+    "tai",
+    "bút chì",
+    "thước kẻ",
+    "quyển vở"
+   ],
+   "Từ \"tai\" có thể chỉ bộ phận cơ thể người/động vật hoặc tai họa, tai nấm... nên là từ nhiều nghĩa."
+  ],
+  [
+   "Câu nào dưới đây sử dụng từ \"quả\" theo nghĩa gốc?",
+   [
+    "Em ăn một quả táo.",
+    "Quả cảm là đức tính tốt.",
+    "Cậu ấy ghi ba quả liền.",
+    "Nhà tôi có hai quả đồi."
+   ],
+   "\"Quả táo\" chỉ bộ phận của cây chứa hạt, đây là nghĩa gốc của từ \"quả\"."
+  ],
+  [
+   "Từ \"lá\" trong \"lá phổi\" được dùng theo nghĩa nào?",
+   [
+    "Nghĩa chuyển",
+    "Nghĩa gốc",
+    "Từ đồng âm",
+    "Từ đồng nghĩa"
+   ],
+   "\"Lá phổi\" dùng theo nghĩa chuyển, dựa trên hình dáng hoặc chức năng gợi liên tưởng đến chiếc lá cây."
+  ],
+  [
+   "Dòng nào nêu đúng nghĩa của từ \"vàng\" trong \"tấm lòng vàng\"?",
+   [
+    "Chỉ phẩm chất quý giá, tốt đẹp con người",
+    "Chỉ một kim loại quý có màu vàng",
+    "Chỉ màu sắc của ánh nắng",
+    "Chỉ một loại trang sức đắt tiền"
+   ],
+   "\"Tấm lòng vàng\" dùng từ \"vàng\" theo nghĩa chuyển để chỉ sự tốt đẹp, quý giá của con người."
+  ],
+  [
+   "Xác định từ đồng âm trong câu: \"Con ngựa đá con ngựa đá, đá không đá thì thôi.\"",
+   [
+    "đá",
+    "ngựa",
+    "con",
+    "thôi"
+   ],
+   "Từ \"đá\" xuất hiện nhiều lần với các từ loại và ý nghĩa hoàn toàn khác nhau, tạo nên hiện tượng đồng âm."
+  ],
+  [
+   "Từ \"chín\" trong câu \"Lúa ngoài đồng đã chín vàng.\" có nghĩa là gì?",
+   [
+    "Trạng thái đạt đến độ thu hoạch được của cây trồng",
+    "Số lượng đứng sau số tám",
+    "Suy nghĩ kỹ càng trước khi làm",
+    "Chín chắn trong tính cách"
+   ],
+   "Trong ngữ cảnh này, \"chín\" chỉ đặc điểm của lúa đã đến thời kỳ thu hoạch."
+  ],
+  [
+   "Từ \"bay\" trong câu nào dưới đây là từ nhiều nghĩa so với từ \"bay\" trong \"chim bay trên trời\"?",
+   [
+    "Mái nhà bị gió thổi bay đi.",
+    "Chim đang bay lượn.",
+    "Đàn cò bay lả bay la.",
+    "Những cánh én bay về."
+   ],
+   "\"Bay\" chỉ sự dịch chuyển của mái nhà dưới tác động của gió là nghĩa chuyển dựa trên hoạt động bay lượn."
+  ],
+  [
+   "Từ \"mũi\" trong câu nào dùng theo nghĩa gốc?",
+   [
+    "Mũi của bé rất cao và đẹp.",
+    "Mũi thuyền rẽ sóng ra khơi.",
+    "Mũi đất nhô ra biển lớn.",
+    "Trung đội trinh sát mũi nhọn."
+   ],
+   "\"Mũi\" chỉ bộ phận trên khuôn mặt để thở và ngửi là nghĩa gốc."
+  ],
+  [
+   "Trong câu \"Bác nông dân đang cày ruộng bằng con trâu.\", từ \"cày\" thuộc từ loại gì?",
+   [
+    "Động từ",
+    "Danh từ",
+    "Tính từ",
+    "Quan hệ từ"
+   ],
+   "\"Cày\" chỉ hoạt động lao động sản xuất của bác nông dân."
+  ],
+  [
+   "Tìm từ đồng âm với từ \"tư\" trong \"ngày tư ngày tết\"?",
+   [
+    "số tư",
+    "tư tưởng",
+    "tư gia",
+    "tư duy"
+   ],
+   "\"Tư\" trong \"ngày tư ngày tết\" đồng âm với \"tư\" trong số đếm (số 4)."
+  ],
+  [
+   "Từ \"đi\" trong câu \"Bé tập đi.\" và từ \"đi\" trong \"Đồng hồ đang đi.\" quan hệ với nhau thế nào?",
+   [
+    "Là từ nhiều nghĩa",
+    "Là từ đồng âm",
+    "Là từ đồng nghĩa",
+    "Là từ trái nghĩa"
+   ],
+   "Hoạt động di chuyển của kim đồng hồ gọi là \"đi\" dựa trên sự chuyển động, đây là hiện tượng từ nhiều nghĩa."
+  ],
+  [
+   "Trường hợp nào dưới đây các từ in đậm là từ đồng âm?",
+   [
+    "Hòn đá và đá bóng",
+    "Bàn ghế và bàn bài",
+    "Tay áo và tay người",
+    "Mắt bão và mắt người"
+   ],
+   "\"Hòn đá\" (danh từ chỉ vật) và \"đá bóng\" (động từ chỉ hành động) là hai từ đồng âm khác từ loại."
+  ],
+  [
+   "Xác định nghĩa của từ \"vai\" trong \"vai áo\" và \"vai trò\".",
+   [
+    "Vai áo là nghĩa gốc, vai trò là nghĩa chuyển",
+    "Vai áo là nghĩa chuyển, vai trò là nghĩa gốc",
+    "Cả hai đều là nghĩa gốc",
+    "Cả hai đều là nghĩa chuyển"
+   ],
+   "\"Vai áo\" là vị trí trên cơ thể (nghĩa gốc), \"vai trò\" là vị trí, nhiệm vụ (nghĩa chuyển)."
+  ],
+  [
+   "Vì sao các từ \"mắt\" (mắt người, mắt na, mắt tre) lại được gọi là từ nhiều nghĩa?",
+   [
+    "Vì các nghĩa của chúng có mối liên hệ mật thiết với nhau, dựa trên sự tương đồng về hình thức.",
+    "Vì chúng có cách phát âm hoàn toàn giống nhau nhưng không liên quan gì đến nghĩa.",
+    "Vì chúng do nhiều người đặt ra trong các vùng miền khác nhau.",
+    "Vì chúng có chung một từ loại là danh từ."
+   ],
+   "Hiện tượng từ nhiều nghĩa là các nghĩa sau có sự liên tưởng, tương đồng với nghĩa gốc ban đầu."
+  ],
+  [
+   "Từ \"bàn\" nào dưới đây là từ nhiều nghĩa so với các từ còn lại?",
+   [
+    "bàn giải pháp cho công việc",
+    "cái bàn học bằng gỗ",
+    "bàn ghế trong phòng khách",
+    "bàn làm việc của bố"
+   ],
+   "Từ \"bàn\" trong \"bàn giải pháp\" mang nghĩa chuyển (trao đổi, thảo luận), khác với nghĩa gốc chỉ đồ vật."
+  ],
+  [
+   "Dòng nào dưới đây gồm các từ đồng âm?",
+   [
+    "đường (đường đi) và đường (đường kính)",
+    "bạc (bạc tiền) và bạc (tóc bạc)",
+    "ăn (ăn cơm) và ăn (ăn ảnh)",
+    "chân (chân bàn) và chân (chân người)"
+   ],
+   "Đường đi (chỉ lối đi) và đường kính (chất ngọt) là hai từ đồng âm vì vỏ âm thanh giống nhau nhưng nghĩa hoàn toàn khác nhau."
+  ],
+  [
+   "Từ \"vạt\" trong câu nào dưới đây mang nghĩa gốc?",
+   [
+    "Vạt áo dài của cô giáo phất phơ trong gió.",
+    "Vạt đất trống này được dùng để trồng hoa.",
+    "Cả nhà đang ngồi nghỉ mát dưới vạt rừng thông.",
+    "Những vạt mây trắng bay lững lờ trên đỉnh núi."
+   ],
+   "Từ \"vạt\" chỉ phần dưới của áo dài là nghĩa gốc, các trường hợp khác dùng theo nghĩa chuyển."
+  ],
+  [
+   "Trong câu \"Mùa hè, hoa phượng nở đỏ rực sân trường.\", từ \"đỏ\" thuộc loại từ nào?",
+   [
+    "Từ đơn",
+    "Từ ghép",
+    "Từ láy",
+    "Từ đồng âm"
+   ],
+   "\"Đỏ\" là từ chỉ màu sắc, chỉ gồm một tiếng có nghĩa tạo thành nên là từ đơn."
+  ],
+  [
+   "Xác định nghĩa của từ \"tay\" trong câu \"Cậu ấy là tay vợt xuất sắc nhất giải đấu.\"",
+   [
+    "Chỉ người chuyên làm một công việc hoặc có tài năng nào đó.",
+    "Bộ phận phía trên của cơ thể dùng để cầm nắm.",
+    "Phần nối tiếp của áo ôm sát lấy cánh tay.",
+    "Công cụ dùng để chơi thể thao."
+   ],
+   "Từ \"tay\" ở đây được dùng theo nghĩa chuyển để chỉ con người (người chơi thể thao giỏi)."
+  ],
+  [
+   "Từ \"nặng\" trong câu nào dưới đây mang nghĩa chuyển?",
+   [
+    "Bức tranh này mang nặng nghĩa tình của quê hương.",
+    "Hòn đá này rất nặng, em không khiêng nổi.",
+    "Chiếc ba lô đựng đầy sách vở nên rất nặng.",
+    "Cân nặng của em bé năm nay là ba mươi ki-lô-gam."
+   ],
+   "\"Nặng\" trong \"nặng nghĩa tình\" chỉ mức độ sâu sắc, lớn lao, là nghĩa chuyển."
+  ],
+  [
+   "Cặp từ nào dưới đây có quan hệ từ nhiều nghĩa?",
+   [
+    "tai (tai người) và tai (tai nấm)",
+    "bà (bà ngoại) và bà (bà nội)",
+    "sao (ngôi sao) và sao (sao chép)",
+    "nam (miền Nam) and nam (nam giới)"
+   ],
+   "\"Tai\" người và \"tai\" nấm có nét nghĩa chung là bộ phận mọc chìa ra ở hai bên nên là từ nhiều nghĩa."
+  ],
+  [
+   "Từ \"vàng\" trong câu nào dưới đây chỉ màu sắc?",
+   [
+    "Những chiếc lá bàng chuyển sang màu vàng khi thu đến.",
+    "Mẹ mua cho em một chỉ vàng để dành.",
+    "Huy chương vàng là phần thưởng cao quý cho đội tuyển.",
+    "Anh ấy có một tấm lòng vàng luôn giúp đỡ mọi người."
+   ],
+   "\"Vàng\" chỉ màu sắc của lá cây vào mùa thu, là nghĩa gốc phổ biến nhất của từ này."
+  ],
+  [
+   "Từ \"chạy\" trong câu nào dưới đây được dùng theo nghĩa gốc?",
+   [
+    "Chú chó đang chạy nhảy tung tăng trên bãi cỏ.",
+    "Đoàn tàu đang chạy băng băng trên đường ray.",
+    "Mẹ đang tất bật chạy chợ buổi sáng.",
+    "Chiếc đồng hồ treo tường này chạy rất đúng giờ."
+   ],
+   "Chú chó chạy bằng chân là hoạt động di chuyển của cơ thể sinh vật, đó là nghĩa gốc."
+  ],
+  [
+   "Từ \"mũi\" trong câu nào dưới đây là từ nhiều nghĩa so với từ \"mũi\" chỉ bộ phận trên khuôn mặt?",
+   [
+    "Mũi thuyền rẽ sóng ra khơi.",
+    "Bạn Nam bị sổ mũi vì thời tiết thay đổi.",
+    "Cậu bé có chiếc mũi cao và dọc dừa.",
+    "Hít một hơi thật sâu bằng mũi rồi thở ra."
+   ],
+   "\"Mũi thuyền\" là nghĩa chuyển dựa trên hình dáng nhọn nhô ra giống mũi người."
+  ],
+  [
+   "Xác định từ loại của từ \"bơi\" trong câu \"Cá bơi lội tung tăng dưới nước.\"",
+   [
+    "Động từ",
+    "Danh từ",
+    "Tính từ",
+    "Đại từ"
+   ],
+   "\"Bơi\" chỉ hoạt động di chuyển của con vật dưới nước nên là động từ."
+  ],
+  [
+   "Từ \"cứng\" trong trường hợp nào dưới đây mang nghĩa chuyển?",
+   [
+    "Lời nói của bác ấy rất cứng rắn và quyết đoán.",
+    "Viên đá này rất cứng, không thể đập vỡ bằng tay.",
+    "Thanh sắt này rất cứng và chắc chắn.",
+    "Mặt bàn làm bằng gỗ lim nên rất cứng."
+   ],
+   "\"Cứng\" trong \"cứng rắn\" chỉ tính cách kiên quyết, không nhượng bộ, là nghĩa chuyển."
+  ],
+  [
+   "Đâu không phải là từ đồng âm trong tiếng Việt?",
+   [
+    "học tập và học hỏi",
+    "hè (mùa hè) và hè (hè đường)",
+    "bàn (cái bàn) và bàn (bàn bạc)",
+    "sao (trên trời) và sao (sao lục)"
+   ],
+   "\"Học tập\" và \"học hỏi\" là hai từ ghép khác nhau, không phải là từ đồng âm."
+  ],
+  [
+   "Trong câu \"Bé ngậm kẹo ngọt.\", từ \"ngọt\" được dùng theo nghĩa nào?",
+   [
+    "Nghĩa gốc chỉ vị giác (vị như vị của đường, mật).",
+    "Nghĩa chuyển chỉ âm thanh nghe êm tai.",
+    "Nghĩa chuyển chỉ lời nói dịu dàng, dễ nghe.",
+    "Nghĩa chuyển chỉ tình cảm sâu đậm."
+   ],
+   "\"Ngọt\" trong kẹo ngọt là vị giác cơ bản, đây là nghĩa gốc của từ này."
+  ],
+  [
+   "Cặp từ nào dưới đây là từ đồng âm?",
+   [
+    "bóng (quả bóng) và bóng (cái bóng)",
+    "sáng (buổi sáng) và sáng (tươi sáng)",
+    "lành (hiền lành) và lành (lành lặn)",
+    "nhanh (nhanh chóng) và nhanh (mau lẹ)"
+   ],
+   "\"Bóng\" (vật thể tròn để đá) và \"bóng\" (hình ảnh phản chiếu) là hai từ có vỏ âm thanh giống nhau hoàn toàn nhưng không liên quan gì đến nghĩa, là từ đồng âm."
+  ],
+  [
+   "Xác định nghĩa của từ \"đứng\" trong câu \"Đồng hồ treo tường đã đứng kim.\"",
+   [
+    "Ngừng hoạt động, không chạy nữa.",
+    "Giữ cho cơ thể ở tư thế chân đặt trên mặt đất.",
+    "Tồn tại vững vàng trước thử thách.",
+    "Dừng lại để chờ đợi một việc gì đó."
+   ],
+   "\"Đứng\" ở đây chỉ trạng thái ngừng chuyển động của kim đồng hồ, là nghĩa chuyển."
+  ],
+  [
+   "Trong câu \"Cây bút này viết rất êm.\", từ \"viết\" được dùng để chỉ điều gì?",
+   [
+    "Chỉ hoạt động của chiếc bút khi được sử dụng trên giấy.",
+    "Chỉ hành động của học sinh khi làm bài tập.",
+    "Chỉ tên gọi của một loại đồ dùng học tập.",
+    "Chỉ cấu tạo bên ngoài của cây bút."
+   ],
+   "Câu này dùng hiện tượng chuyển nghĩa (lấy công cụ chỉ hoạt động hoặc ngược lại) để diễn tả đặc điểm của cây bút."
+  ],
+  [
+   "Dòng nào dưới đây gồm các từ là từ nhiều nghĩa?",
+   [
+    "Ăn (ăn cơm, ăn ảnh, ăn cưới)",
+    "Đá (hòn đá, đá bóng, đá gà)",
+    "Ba (bố, ba người, ba ba)",
+    "Sao (ngôi sao, sao bài, sao chép)"
+   ],
+   "Từ"
+  ],
+  [
+   "Cặp từ nào dưới đây có quan hệ đồng âm?",
+   [
+    "Đàn (đàn gà) và đàn (đàn ốc)",
+    "Ăn (ăn cơm) và ăn (ăn gian)",
+    "Tay (tay người) và tay (tay áo)",
+    "Chạy (chạy bộ) và chạy (chạy máy)"
+   ],
+   "Đàn (đàn gà) chỉ số lượng loài vật và đàn (đàn ốc) là nhạc cụ (hoặc ngược lại, hai từ hoàn toàn khác nghĩa, vỏ âm thanh trùng nhau là đồng âm)."
+  ],
+  [
+   "Trong câu",
+   [
+    "Nghĩa chuyển",
+    "Nghĩa gốc",
+    "Từ đồng âm",
+    "Từ nhiều nghĩa"
+   ],
+   "Từ"
+  ],
+  [
+   "Dòng nào dưới đây gồm các từ có quan hệ đồng âm với nhau?",
+   [
+    "Hòn đá, đá bóng",
+    "Tay áo, tay bàn",
+    "Mũi Cà Mau, mũi dao",
+    "Lá phổi, lá thư"
+   ],
+   "Hòn đá (danh từ chỉ vật thể) và đá bóng (động từ chỉ hành động) là hai từ có vỏ âm thanh giống nhau nhưng ý nghĩa khác hẳn nhau, đây là từ đồng âm."
+  ]
+ ],
+ "c3": [
+  [
+   "Từ “nó” trong câu “Con mèo nhà em rất ngoan, ngày nào nó cũng bắt chuột.” thuộc từ loại nào?",
+   [
+    "Đại từ",
+    "Kết từ",
+    "Danh từ",
+    "Động từ"
+   ],
+   "Từ “nó” dùng để trỏ con mèo đã nhắc đến trước đó, thuộc từ loại đại từ."
+  ],
+  [
+   "Trong câu “Trời mưa to nhưng chúng em vẫn đến trường đúng giờ.”, từ nào là kết từ?",
+   [
+    "nhưng",
+    "trời",
+    "mưa",
+    "đến"
+   ],
+   "Từ “nhưng” dùng để nối hai vế câu có quan hệ tương phản, là kết từ."
+  ],
+  [
+   "Đâu là đại từ dùng để hỏi trong các từ sau?",
+   [
+    "ai",
+    "bạn",
+    "chúng ta",
+    "họ"
+   ],
+   "Từ “ai” là đại từ dùng để hỏi về người."
+  ],
+  [
+   "Từ “và” trong câu “Em thích đọc sách và vẽ tranh.” có tác dụng gì?",
+   [
+    "Nối các từ hoặc cụm từ với nhau",
+    "Thay thế cho danh từ",
+    "Biểu thị cảm xúc",
+    "Chỉ thời điểm sự việc"
+   ],
+   "Từ “kes” từ “và” dùng để nối các từ ngữ trong câu."
+  ],
+  [
+   "Đâu là tập hợp gồm toàn các đại từ xưng hô?",
+   [
+    "tôi, chúng nó, cậu",
+    "em, bàn, ghế",
+    "anh, bút, sách",
+    "chúng ta, thước, vở"
+   ],
+   "Các từ “tôi, chúng nó, cậu” đều dùng để chỉ người tham gia giao tiếp, là đại từ xưng hô."
+  ],
+  [
+   "Chọn kết từ thích hợp điền vào chỗ trống: “Vì trời rét đậm, ... chúng em phải mặc áo ấm.”",
+   [
+    "nên",
+    "nhưng",
+    "và",
+    "hoặc"
+   ],
+   "Cặp kết từ “Vì... nên...” biểu thị quan hệ nguyên nhân - kết quả."
+  ],
+  [
+   "Từ “đâu” trong câu “Quyển sách toán của tớ để ở đâu nhỉ?” thuộc từ loại gì?",
+   [
+    "Đại từ",
+    "Kết từ",
+    "Động từ",
+    "Tính từ"
+   ],
+   "Từ “đâu” trong câu này là đại từ dùng để hỏi về địa điểm."
+  ],
+  [
+   "Trong câu “Chẳng những Nam chăm chỉ mà bạn ấy còn rất hay giúp đỡ bạn bè.”, từ nào đóng vai trò là kết từ?",
+   [
+    "mà",
+    "bạn ấy",
+    "chăm chỉ",
+    "giúp đỡ"
+   ],
+   "Từ “mà” phối hợp với “chẳng những” tạo thành cặp kết từ biểu thị quan hệ tăng tiến."
+  ],
+  [
+   "Đại từ “mình” trong câu “Hôm nay, mình được điểm mười môn Toán.” dùng để chỉ ai?",
+   [
+    "Chỉ người nói",
+    "Chỉ người nghe",
+    "Chỉ người thứ ba",
+    "Chỉ vật được nhắc tới"
+   ],
+   "Trong câu này, đại từ “mình” dùng để chỉ chính người đang nói."
+  ],
+  [
+   "Xác định kết từ trong câu: “Tuy gia đình gặp khó khăn, bạn Hoa vẫn vươn lên học giỏi.”",
+   [
+    "Tuy",
+    "khó khăn",
+    "vươn lên",
+    "học giỏi"
+   ],
+   "Từ “Tuy” là kết từ biểu thị quan hệ tương phản giữa các vế câu."
+  ],
+  [
+   "Khi viết câu “Cô giáo giảng bài rất hay, ... chúng em ai cũng chú ý lắng nghe.”, nên điền kết từ nào vào chỗ trống?",
+   [
+    "nên",
+    "nhưng",
+    "hoặc",
+    "và"
+   ],
+   "Cần điền kết từ “nên” để tạo quan hệ nguyên nhân - kết quả hợp lý cho câu."
+  ],
+  [
+   "Từ “họ” trong câu “Các bác nông dân đang gặt lúa, họ làm việc rất vất vả.” thay thế cho từ ngữ nào trước đó?",
+   [
+    "Các bác nông dân",
+    "gặt lúa",
+    "vất vả",
+    "làm việc"
+   ],
+   "Đại từ “họ” dùng để thay thế cho cụm danh từ “Các bác nông dân” để tránh lặp từ."
+  ],
+  [
+   "Trong các câu sau, câu nào có sử dụng đại từ dùng để hỏi?",
+   [
+    "Ai đã cất chiếc bút của tớ rồi?",
+    "Bạn Nam viết chữ rất đẹp.",
+    "Hôm nay trời thu thật mát mẻ.",
+    "Chúng ta cùng nhau nhặt rác nào."
+   ],
+   "Câu “Ai đã cất chiếc bút của tớ rồi?” chứa đại từ “ai” dùng để hỏi."
+  ],
+  [
+   "Từ “hoặc” trong câu “Em có thể chọn vẽ tranh hoặc đọc sách trong giờ giải lao.” biểu thị quan hệ gì?",
+   [
+    "Lựa chọn",
+    "Tương phản",
+    "Nguyên nhân",
+    "Tăng tiến"
+   ],
+   "Từ “hoặc” là kết từ dùng để biểu thị ý lựa chọn một trong các khả năng."
+  ],
+  [
+   "Đọc đoạn văn: “Lan rất thích hoa hồng. Nó thường chăm sóc chậu hoa ngoài ban công.” Đại từ “Nó” thay thế cho từ nào?",
+   [
+    "Lan",
+    "hoa hồng",
+    "ban công",
+    "chậu hoa"
+   ],
+   "Đại từ “Nó” thay thế cho từ “Lan” ở câu trước để liên kết câu."
+  ],
+  [
+   "Tìm kết từ phù hợp để nối hai vế câu: “Cháu muốn ăn cơm ... cháu chưa đói lắm.”",
+   [
+    "nhưng",
+    "và",
+    "nên",
+    "hay"
+   ],
+   "Dùng kết từ “nhưng” để biểu thị sự đối lập giữa ý muốn và thực tế."
+  ],
+  [
+   "Phân loại từ “chúng ta” trong câu “Chúng ta là học sinh trường tiểu học Kim Đồng.”?",
+   [
+    "Đại từ xưng hô tập thể",
+    "Kết từ nối các vế câu",
+    "Danh từ chỉ người",
+    "Động từ chỉ hoạt động"
+   ],
+   "“Chúng ta” là đại từ xưng hô dùng để chỉ nhóm người nói bao gồm cả người nghe."
+  ],
+  [
+   "Từ “chúng tôi” trong câu “Chiều nay, chúng tôi sẽ sang nhà bạn Nam để học nhóm.” thuộc loại từ nào?",
+   [
+    "Đại từ xưng hô",
+    "Kết từ",
+    "Đại từ thay thế",
+    "Đại từ hỏi"
+   ],
+   "“Chúng tôi” là đại từ dùng để chỉ người nói và những người cùng nhóm với người nói khi giao tiếp."
+  ],
+  [
+   "Trong câu “Bà giảng giải rất ân cần để chúng tôi dễ hiểu bài hơn.”, từ “để” đóng vai trò là gì?",
+   [
+    "Kết từ",
+    "Đại từ",
+    "Danh từ",
+    "Động từ"
+   ],
+   "Từ “để” là kết từ dùng để nối các vế câu, biểu thị quan hệ mục đích."
+  ],
+  [
+   "Đâu là tập hợp gồm toàn các kết từ chỉ quan hệ nguyên nhân - kết quả?",
+   [
+    "Vì, nhờ, do, tại",
+    "Và, với, cùng, hay",
+    "Tuy, dù, mặc dù, nhưng",
+    "Nếu, hễ, giá, thể mà"
+   ],
+   "Các từ “vì, nhờ, do, tại” thường được dùng làm kết từ biểu thị nguyên nhân."
+  ],
+  [
+   "Từ “ai” trong câu hỏi “Ai đã quên chiếc bút này trên bàn thế?” thuộc loại từ nào?",
+   [
+    "Đại từ dùng để hỏi",
+    "Đại từ xưng hô",
+    "Kết từ",
+    "Đại từ chỉ định"
+   ],
+   "“Ai” là đại từ dùng để hỏi về người trong câu hỏi."
+  ],
+  [
+   "Xác định đại từ trong câu: “Quyển sách này rất hay, tớ vừa đọc xong.”",
+   [
+    "Tớ",
+    "Sách",
+    "Đọc",
+    "Hay"
+   ],
+   "“Tớ” là đại từ xưng hô dùng để chỉ người nói."
+  ],
+  [
+   "Chọn kết từ thích hợp điền vào chỗ trống: “... trời mưa rả rích, chúng em vẫn đi tham quan đúng lịch trình.”",
+   [
+    "Mặc dù",
+    "Vì",
+    "Nếu",
+    "Nhờ"
+   ],
+   "Cặp quan hệ đối lập giữa việc trời mưa và việc vẫn đi tham quan cần kết từ “Mặc dù”."
+  ],
+  [
+   "Trong câu “Bố mua cho em một chiếc cặp sách mới và một hộp màu vẽ.”, từ “và” có tác dụng gì?",
+   [
+    "Nối các từ ngữ có cùng chức vụ trong câu",
+    "Nối các vế câu chỉ nguyên nhân",
+    "Thay thế cho từ ngữ đứng trước",
+    "Dùng để hỏi về đồ vật"
+   ],
+   "Từ “và” ở đây là kết từ dùng để nối hai từ ngữ (chiếc cặp sách và hộp màu vẽ) cùng làm tân ngữ."
+  ],
+  [
+   "Từ “kia” trong câu “Ngôi nhà ở góc phố kia là nhà của cô giáo em.” thuộc loại từ nào?",
+   [
+    "Đại từ chỉ định",
+    "Đại từ xưng hô",
+    "Kết từ",
+    "Đại từ hỏi"
+   ],
+   "“Kia” là đại từ chỉ định dùng để trỏ vào sự vật ở xa người nói."
+  ],
+  [
+   "Đâu là câu có sử dụng kết từ biểu thị quan hệ điều kiện - kết quả?",
+   [
+    "Nếu cậu chăm chỉ luyện tập, đội bóng của chúng ta sẽ chiến thắng.",
+    "Vì bạn An chăm ngoan nên thầy cô rất yêu quý.",
+    "Tuy trời tối nhưng các bác nông dân vẫn chưa nghỉ ngơi.",
+    "Em thích chơi bóng đá và thả diều vào buổi chiều."
+   ],
+   "Câu chứa cặp kết từ “Nếu... thì...” biểu thị quan hệ điều kiện - kết quả."
+  ],
+  [
+   "Trong đoạn “Mẹ đi chợ mua táo. Quả nào quả nấy đều to và đỏ mọng.”, từ “nào” trong cụm “nào nấy” thuộc loại từ gì?",
+   [
+    "Đại từ",
+    "Kết từ",
+    "Động từ",
+    "Tính từ"
+   ],
+   "“Nào nấy” là đại từ dùng để chỉ gộp các sự vật được nhắc tới."
+  ],
+  [
+   "Xác định từ loại của từ “nhưng” trong câu: “Bài toán này khó nhưng em đã tìm ra cách giải.”",
+   [
+    "Kết từ",
+    "Đại từ",
+    "Quan hệ từ thay thế",
+    "Đại từ xưng hô"
+   ],
+   "“Nhưng” là kết từ dùng để nối hai vế câu có quan hệ đối lập về ý nghĩa."
+  ],
+  [
+   "Trong câu “Hùng vừa thông minh vừa chăm chỉ.”, từ “vừa... vừa...” có vai trò gì?",
+   [
+    "Nối các bộ phận trong câu, thể hiện quan hệ đồng thời",
+    "Nối các vế câu thể hiện quan hệ nguyên nhân",
+    "Thay thế cho tên riêng của học sinh",
+    "Dùng để hỏi về tính chất"
+   ],
+   "Cặp từ “vừa... vừa...” đóng vai trò là kết từ biểu thị quan hệ đồng thời (các tính chất cùng tồn tại ở một đối tượng)."
+  ],
+  [
+   "Đại từ “nó” trong câu “Con chim sẻ nhỏ rớt xuống đất, nó kêu chiếp chiếp.” thay thế cho từ ngữ nào?",
+   [
+    "Con chim sẻ nhỏ",
+    "Xuống đất",
+    "Chiếp chiếp",
+    "Rớt xuống"
+   ],
+   "Đại từ “nó” được dùng để thay thế cho cụm từ “con chim sẻ nhỏ” ở vế trước để tránh lặp từ."
+  ],
+  [
+   "Khi muốn hỏi về thời gian thực hiện một công việc, ta thường dùng đại từ nào?",
+   [
+    "Bao giờ",
+    "Bao nhiêu",
+    "Ở đâu",
+    "Thế nào"
+   ],
+   "“Bao giờ” là đại từ dùng để hỏi về thời gian."
+  ],
+  [
+   "Điền kết từ thích hợp vào chỗ trống: “Chẳng những hoa hồng đẹp ... nó còn tỏa hương thơm ngát.”",
+   [
+    "mà",
+    "nhưng",
+    "hoặc",
+    "vì"
+   ],
+   "Cặp kết từ “chẳng những... mà...” dùng để biểu thị quan hệ tăng tiến."
+  ],
+  [
+   "Xác định các từ là đại từ xưng hô trong đoạn văn: “Bác đưa thư trao cho tôi lá thư rồi cười bảo: - Cháu ký nhận vào đây nhé!”",
+   [
+    "Tôi, cháu",
+    "Bác, thư",
+    "Trao, cười",
+    "Lá, đây"
+   ],
+   "“Tôi” và “cháu” là những đại từ dùng để xưng hô trong giao tiếp."
+  ],
+  [
+   "Trong câu “Bạn thích đọc truyện tranh hay truyện cổ tích?”, từ “hay” thuộc từ loại gì?",
+   [
+    "Kết từ",
+    "Đại từ",
+    "Tính từ",
+    "Danh từ"
+   ],
+   "Từ “hay” trong câu này dùng để lựa chọn giữa hai sự vật, đóng vai trò là kết từ."
+  ],
+  [
+   "Đọc câu “Ai cũng có một quê hương để nhớ về.”, từ “ai” chỉ điều gì?",
+   [
+    "Chỉ chung mọi người",
+    "Chỉ một người cụ thể bất kỳ",
+    "Dùng để đặt câu hỏi",
+    "Chỉ một sự vật vô tri"
+   ],
+   "Trong câu kể này, đại từ “ai” không dùng để hỏi mà dùng để chỉ chung cho tất cả mọi người."
+  ],
+  [
+   "Xác định câu có sử dụng kết từ nối các vế câu chỉ quan hệ giả thiết - kết quả.",
+   [
+    "Nếu trời khô ráo, lớp mình sẽ tổ chức cắm trại ngoài sân.",
+    "Vì trời mưa to nên đường ngập nước.",
+    "Tuy bạn ấy mệt nhưng vẫn hoàn thành bài tập.",
+    "Chẳng những chăm ngoan mà bạn ấy còn học rất giỏi."
+   ],
+   "Câu chứa cặp kết từ “Nếu... thì...” biểu thị quan hệ giả thiết (điều kiện) - kết quả."
+  ],
+  [
+   "Em hãy phân loại từ “chúng ta” trong câu: “Chúng ta hãy cùng nhau giữ gìn vệ sinh trường lớp.”",
+   [
+    "Đại từ xưng hô bao gồm cả người nói và người nghe",
+    "Đại từ xưng hô chỉ riêng người nói",
+    "Kết từ nối các vế câu",
+    "Đại từ thay thế cho từ chỉ sự vật"
+   ],
+   "“Chúng ta” là đại từ xưng hô chỉ gộp cả người nói và người nghe vào chung một nhóm."
+  ],
+  [
+   "Từ “họ” trong câu “Các bạn học sinh lớp 5A đang thảo luận nhóm, họ rất sôi nổi.” thuộc loại từ nào?",
+   [
+    "Đại từ xưng hô",
+    "Danh từ",
+    "Đại từ thay thế",
+    "Kết từ"
+   ],
+   "Từ “họ” trong câu dùng để chỉ những người đang được nhắc đến là các bạn học sinh, thuộc nhóm đại từ xưng hô."
+  ],
+  [
+   "Trong câu “Cây hoa giấy trước nhà nở hoa đỏ rực, chúng trông thật đẹp mắt.”, đại từ “chúng” thay thế cho từ ngữ nào?",
+   [
+    "Cây hoa giấy",
+    "Nhà",
+    "Hoa đỏ rực",
+    "Trước nhà"
+   ],
+   "Đại từ “chúng” dùng để thay thế cho “Cây hoa giấy” nhằm tránh lặp từ trong câu."
+  ],
+  [
+   "Đâu là tập hợp gồm toàn các từ là đại từ dùng để hỏi?",
+   [
+    "Ai, gì, nào, đâu",
+    "Tôi, chúng ta, bạn, họ",
+    "Và, nhưng, vì, nên",
+    "Này, kia, ấy, nọ"
+   ],
+   "Các từ “ai"
+  ]
+ ],
+ "c4": [
+  [
+   "Câu nào dưới đây là câu ghép?",
+   [
+    "Mặt trời mọc và sương mù tan dần.",
+    "Những bông hoa hồng khoe sắc thắm trong vườn.",
+    "Đàn cò trắng bay lượn trên cánh đồng lúa chín.",
+    "Bầu trời mùa thu cao và trong xanh."
+   ],
+   "Câu này có hai vế câu: vế 1 'Mặt trời mọc', vế 2 'sương mù tan dần' do quan hệ từ 'và' nối, cấu tạo từ hai cụm chủ - vị độc lập."
+  ],
+  [
+   "Dòng nào nêu đúng định nghĩa về câu ghép?",
+   [
+    "Câu do nhiều vế câu ghép lại, mỗi vế thường có cấu tạo chủ - vị.",
+    "Câu chỉ có một cụm chủ - vị làm nòng cốt.",
+    "Câu được cấu tạo bởi một từ đơn và nhiều từ phức.",
+    "Câu không có chủ ngữ nhưng có vị ngữ chỉ hoạt động."
+   ],
+   "Câu ghép là câu do nhiều vế câu ghép lại, mỗi vế câu thường có cấu tạo một cụm chủ - vị thể hiện một ý có quan hệ chặt chẽ với nhau."
+  ],
+  [
+   "Trong câu 'Trời mưa to nên đường trơn trượt.', hai vế câu được nối với nhau bằng cách nào?",
+   [
+    "Dùng quan hệ từ.",
+    "Dùng dấu phẩy trực tiếp.",
+    "Dùng cặp từ hô ứng.",
+    "Dùng đại từ thay thế."
+   ],
+   "Hai vế câu được nối với nhau bằng quan hệ từ 'nên' thể hiện quan hệ nguyên nhân - kết quả."
+  ],
+  [
+   "Câu nào dưới đây KHÔNG phải là câu ghép?",
+   [
+    "Gió thổi lồng lộng và làm mát dịu cả buổi chiều hè.",
+    "Trời chưa sáng nhưng bác nông dân đã ra đồng.",
+    "Hễ em chăm chỉ thì kết quả học tập sẽ tiến bộ.",
+    "Mưa rạt rạt, gió thổi ào ào."
+   ],
+   "Đây là câu đơn có một chủ ngữ 'Gió' và có vị ngữ mở rộng gồm hai cụm từ 'thổi lồng lộng' và 'làm mát dịu...' được nối bằng 'và'."
+  ],
+  [
+   "Xác định các vế câu trong câu ghép: 'Tuy hoàn cảnh khó khăn nhưng bạn Nam vẫn đạt danh hiệu học sinh xuất sắc.'",
+   [
+    "Vế 1: Hoàn cảnh khó khăn; Vế 2: Bạn Nam vẫn đạt danh hiệu học sinh xuất sắc.",
+    "Vế 1: Tuy hoàn cảnh khó khăn; Vế 2: nhưng bạn Nam vẫn đạt danh hiệu.",
+    "Vế 1: Hoàn cảnh; Vế 2: Bạn Nam vẫn đạt danh hiệu học sinh xuất sắc.",
+    "Vế 1: Tuy hoàn cảnh khó khăn nhưng; Vế 2: bạn Nam vẫn đạt danh hiệu học sinh xuất sắc."
+   ],
+   "Vế thứ nhất có chủ - vị là 'hoàn cảnh / khó khăn', vế thứ hai có chủ - vị là 'bạn Nam / vẫn đạt danh hiệu học sinh xuất sắc'."
+  ],
+  [
+   "Cặp quan hệ từ trong câu 'Chẳng những em ngoan ngoãn mà em còn học rất giỏi.' biểu thị quan hệ gì?",
+   [
+    "Quan hệ tăng tiến.",
+    "Quan hệ nguyên nhân - kết quả.",
+    "Quan hệ giả thiết - kết quả.",
+    "Quan hệ tương phản."
+   ],
+   "Cặp quan hệ từ 'chẳng những... mà... còn' dùng để biểu thị quan hệ tăng tiến giữa các vế câu."
+  ],
+  [
+   "Để nối hai vế câu có quan hệ tương phản, ta có thể dùng cặp quan hệ từ nào?",
+   [
+    "Tuy... nhưng...",
+    "Vì... nên...",
+    "Nếu... thì...",
+    "Chẳng những... mà..."
+   ],
+   "Cặp quan hệ từ 'tuy... nhưng...' chuyên dùng để biểu thị quan hệ tương phản giữa các vế trong câu ghép."
+  ],
+  [
+   "Điền cặp quan hệ từ thích hợp vào chỗ trống: '... em hoàn thành bài tập về nhà, ... cô giáo sẽ biểu dương em.'",
+   [
+    "Nếu... thì...",
+    "Tuy... nhưng...",
+    "Vì... nên...",
+    "Không những... mà..."
+   ],
+   "Hai vế câu thể hiện điều kiện (giả thiết) và kết quả nên ta dùng cặp quan hệ từ 'nếu... thì...'."
+  ],
+  [
+   "Câu ghép nào dưới đây thể hiện quan hệ nguyên nhân - kết quả?",
+   [
+    "Vì các bạn giữ vệ sinh chung nên lớp học luôn sạch sẽ.",
+    "Dù trời nắng gắt nhưng nông dân vẫn miệt mài ngoài đồng.",
+    "Nếu ngày mai trời đẹp thì chúng ta sẽ đi cắm trại.",
+    "Chẳng những gió thổi mạnh mà trời còn đổ mưa giông."
+   ],
+   "Câu này sử dụng cặp quan hệ từ 'vì... nên...' để chỉ rõ nguyên nhân ở vế một và kết quả ở vế hai."
+  ],
+  [
+   "Trong câu ghép 'Hoa hồng nở rộ, hương thơm ngào ngạt lan tỏa khắp khu vườn.', các vế câu được nối với nhau bằng cách nào?",
+   [
+    "Dùng dấu phẩy.",
+    "Dùng quan hệ từ.",
+    "Dùng cặp từ hô ứng.",
+    "Dùng dấu hai chấm."
+   ],
+   "Hai vế câu 'Hoa hồng nở rộ' và 'hương thơm ngào ngạt lan tỏa khắp khu vườn' được nối trực tiếp với nhau bằng dấu phẩy."
+  ],
+  [
+   "Tìm vế câu thích hợp để điền vào chỗ trống tạo thành câu ghép chỉ quan hệ tương phản: 'Mặc dù mùa đông năm nay rất lạnh, ...'",
+   [
+    "... những chú chim vẫn bay lượn trên bầu trời và cây cối vẫn đâm chồi nảy lộc.",
+    "... nên em phải mặc áo ấm khi đi học.",
+    "... thì chúng em sẽ được nghỉ học.",
+    "... và em rất thích chơi đùa ngoài trời."
+   ],
+   "Vế thứ hai phải nêu một sự việc trái ngược với sự việc ở vế một (lạnh nhưng cây cối vẫn đâm chồi hoặc chim vẫn bay)."
+  ],
+  [
+   "Xác định chủ ngữ của vế câu thứ hai trong câu ghép: 'Mặt trời vừa lên, sương mù trên núi tan biến.'",
+   [
+    "Sương mù trên núi",
+    "Sương mù",
+    "Mặt trời",
+    "Tan biến"
+   ],
+   "Vế câu thứ hai là 'sương mù trên núi tan biến', trong đó 'sương mù trên núi' là bộ phận đóng vai trò làm chủ ngữ."
+  ],
+  [
+   "Cặp từ hô ứng nào dưới đây thường được dùng để nối các vế câu ghép?",
+   [
+    "Vừa... đã...",
+    "Vì... nên...",
+    "Tuy... nhưng...",
+    "Nếu... thì..."
+   ],
+   "Các cặp từ như 'vừa... đã...', 'chưa... đã...', 'đâu... đấy...' là các cặp từ hô ứng dùng để nối trực tiếp các vế câu ghép."
+  ],
+  [
+   "Câu ghép nào dưới đây sử dụng sai quan hệ từ hoặc cặp quan hệ từ?",
+   [
+    "Tuy trời rất rét nhưng bạn Mai vẫn mặc rất phong phanh đi học.",
+    "Vì chăm chỉ luyện tập nên đội bóng đã giành cúp vô địch.",
+    "Nếu em tập trung nghe giảng thì em sẽ hiểu bài ngay.",
+    "Chẳng những trời đổ mưa to mà đường phố còn bị ngập nước."
+   ],
+   "Trời rét thì phải mặc áo ấm, dùng từ 'phong phanh' là không hợp nghĩa thực tế và logic trong ngữ cảnh giao tiếp thông thường."
+  ],
+  [
+   "Thêm một vế câu vào chỗ trống để tạo thành câu ghép hoàn chỉnh: 'Trời đổ mưa rào, ...'",
+   [
+    "... cây cối trong vườn như được tắm mát.",
+    "... nên cây cối tươi tỉnh hẳn lên.",
+    "... vì cây cối rất khát nước.",
+    "... và làm cho cây cối tươi tỉnh."
+   ],
+   "Vì vế đầu dùng dấu phẩy nối trực tiếp, vế sau cần là một cụm chủ - vị độc lập có quan hệ ý nghĩa phù hợp, ví dụ 'cây cối trong vườn như được tắm mát'."
+  ],
+  [
+   "Phân tích cấu tạo câu: 'Gió càng thổi mạnh, lửa trong bếp càng bùng cháy.' Cho biết đây là câu gì và sử dụng cặp từ nào?",
+   [
+    "Câu ghép, sử dụng cặp từ hô ứng 'càng... càng...'.",
+    "Câu đơn, sử dụng cặp quan hệ từ tăng tiến.",
+    "Câu ghép, sử dụng cặp quan hệ từ nguyên nhân - kết quả.",
+    "Câu đơn mở rộng thành phần trạng ngữ."
+   ],
+   "Câu này có hai vế cấu tạo chủ - vị, sử dụng cặp từ hô ứng 'càng... càng...' để chỉ mức độ tăng tiến đồng thời của hai sự việc."
+  ],
+  [
+   "Trong các câu sau, câu nào là câu ghép có quan hệ điều kiện - kết quả (giả thiết - kết quả)?",
+   [
+    "Hễ em hoàn thành tốt nhiệm vụ thì lớp mình sẽ giành điểm thi đua cao.",
+    "Vì em hoàn thành tốt nhiệm vụ nên lớp mình giành điểm thi đua cao.",
+    "Tuy em hoàn thành tốt nhiệm vụ nhưng lớp mình chưa đạt điểm cao.",
+    "Em hoàn thành tốt nhiệm vụ và lớp mình giành điểm thi đua cao."
+   ],
+   "Câu sử dụng cặp quan hệ từ 'hễ... thì...' biểu thị rõ quan hệ điều kiện (giả thiết) và kết quả."
+  ],
+  [
+   "Xác định số lượng vế câu trong câu ghép sau: 'Mùa xuân đến, hoa mai nở vàng rực, chim chóc hót líu lo trên cành.'",
+   [
+    "3 vế câu",
+    "2 vế câu",
+    "4 vế câu",
+    "1 vế câu"
+   ],
+   "Câu gồm 3 vế câu ngăn cách nhau bằng dấu phẩy: Vế 1 'Mùa xuân đến', Vế 2 'hoa mai nở vàng rực', Vế 3 'chim chóc hót líu lo trên cành'."
+  ],
+  [
+   "Biến đổi câu đơn sau thành câu ghép bằng cách thêm một vế câu phù hợp: 'Em rất thích đọc sách.'",
+   [
+    "Em rất thích đọc sách và mẹ vừa mua cho em một cuốn truyện hay.",
+    "Em rất thích đọc sách khoa học trong thư viện trường.",
+    "Em rất thích đọc sách cùng các bạn trong giờ ra chơi.",
+    "Em và các bạn cùng nhau đọc sách ở góc thư viện."
+   ],
+   "Phương án đầu tiên tạo ra một câu ghép gồm hai vế có chủ - vị rõ ràng nối bằng quan hệ từ 'và', các phương án còn lại chỉ là câu đơn có thành phần được mở rộng."
+  ],
+  [
+   "Em hãy nhận xét về câu văn sau: 'Bởi vì chú bé dũng cảm.' Đây là loại câu gì?",
+   [
+    "Đây là một câu chưa hoàn chỉnh (thiếu vế kết quả), không phải là câu ghép hoàn chỉnh.",
+    "Đây là một câu ghép đúng cấu trúc nguyên nhân - kết quả.",
+    "Đây là câu đơn có trạng ngữ chỉ nguyên nhân.",
+    "Đây là câu hỏi tu từ rất hay."
+   ],
+   "Câu này mới chỉ có vế chỉ nguyên nhân bắt đầu bằng 'bởi vì' nhưng chưa có vế chỉ kết quả đi kèm nên chưa phải là một câu ghép trọn vẹn ý nghĩa."
+  ],
+  [
+   "Cau nao duoi day co cau tao gom hai ve cau?",
+   [
+    "Mua ve, nhung con chim en lai bay di phuong Nam.",
+    "Tieng mua roi tap te tren mai la.",
+    "Nhung canh hoa phuong do ruc trong nang he.",
+    "Con meo muop nam suoi nang truoc san nha."
+   ],
+   "Day la cau ghép co hai ve cau noi voi nhau bang quan he tu nhung."
+  ],
+  [
+   "Trong cau “Mặt trời lặn, màn đêm buông xuống.”, hai vế câu được nối với nhau bằng cách nào?",
+   [
+    "Dung dau phay de noi truc tiep.",
+    "Dung quan he tu.",
+    "Dung cap quan hệ từ.",
+    "Dung cap tu ho ung."
+   ],
+   "Hai vế câu trong câu được ngăn cách trực tiếp với nhau chỉ bằng dấu phẩy."
+  ],
+  [
+   "Dòng nào dưới đây nêu đúng đặc điểm của câu ghép?",
+   [
+    "La cau do nhieu vế cau gop lai, moi ve cau thuong co cau tao giong mot cau don.",
+    "La cau chi co mot cum chu - vi lam nong cot.",
+    "La cau chi gom mot ve cau duy nhat.",
+    "La cau khong the tach roi cac bo phận trong câu."
+   ],
+   "Câu ghép là câu do từ hai vế câu trở lên ghép lại, mỗi vế thường có cấu tạo chủ ngữ - vị ngữ."
+  ],
+  [
+   "Cau nao duoi day la cau ghep chi quan he nguyen nhan - ket qua?",
+   [
+    "Vi troi mua rat to nen duong ngap lut.",
+    "Neu em cham chi hoc tap thi ket qua se tot hon.",
+    "Tuy troi ret buot nhung cac ban van den lop deu.",
+    "Chua den tet ma hoa dao da no ro."
+   ],
+   "Cau dung cap quan he tu Vi - nen de chi nguyen nhan va ket qua."
+  ],
+  [
+   "Xac dinh chu ngu cua ve cau thuong trong cau ghep: “Gios thoi vut vut, cay coi nga nghieng.”",
+   [
+    "Cay coi",
+    "Gios",
+    "Thoi vut vut",
+    "Nga nghieng"
+   ],
+   "Ve thu hai la Cay coi nga nghieng, chu ngu la Cay coi."
+  ],
+  [
+   "Them vế câu nào vào chỗ trống để được câu ghép chỉ quan hệ điều kiện - kết quả: “... thì chúng em se co gang hon nua.”",
+   [
+    "Neu co giao nhac nho chung em",
+    "Mac du co giao nhac nho chung em",
+    "Vi co giao nhac nho chung em",
+    "Tuy co giao nhac nho chung em"
+   ],
+   "Cap quan he Neu - thi bieu thi quan he dieu kien - ket qua."
+  ],
+  [
+   "Cau ghep nao duoi day co dung cap tu ho ung?",
+   [
+    "Mua cang to, gio cang thoi manh.",
+    "Mua to nen duong tron.",
+    "Neu mua to thi duong tron.",
+    "Tuy mua to nhung duong khong tron."
+   ],
+   "Cau su dung cap tu ho ung cang - cang de noi hai ve cau."
+  ],
+  [
+   "Trang thai cua hai ve cau trong “Trang vua len, sao da day troi.” duoc noi bang cach nao?",
+   [
+    "Dung cap tu ho ung vua - da",
+    "Dung cap quan he tu",
+    "Dung dau cham phay",
+    "Dung quan he tu va"
+   ],
+   "Cap tu vua - da duoc dung de noi va lien ket hai ve cau trong cau ghep nay."
+  ],
+  [
+   "Xac dinh so luong ve cau trong cau: “Chim hot tren canh, hoa no trong vuon, ong buom bay luon.”",
+   [
+    "Ba ve cau",
+    "Hai ve cau",
+    "Bon ve cau",
+    "Mot cau don"
+   ],
+   "Cau tren gom ba cum chu - vi gop lai, tuong ung voi ba ve cau."
+  ],
+  [
+   "Cau nao duoi day la cau ghep chi quan he tang tien?",
+   [
+    "Chang nhung troi mua to ma gio con thoi manh.",
+    "Troi mua to nen chung em di hoc muon.",
+    "Tuy troi mua to nhung chung em van den lop.",
+    "Neu troi mua to thi chung ta se nghi hoc."
+   ],
+   "Cau su dung cap quan he tu chang nhung - ma con de bieu thi quan he tang tien."
+  ],
+  [
+   "Dien tu thich hop vao cho trong de tao cau ghep: “... hoa hong no ro, ... khu vuong tran ngap huong thom.”",
+   [
+    "Khi - thi",
+    "Vi - nen",
+    "Tuy - nhung",
+    "Neu - thi"
+   ],
+   "Cap tu Khi - thi bieu thi quan he ve thoi gian giua hai ve cau."
+  ],
+  [
+   "Cau ghep “Trời chưa sáng, mọi người đã thức dậy.” biểu thị quan hệ gì giữa các vế câu?",
+   [
+    "Quan he thoi gian",
+    "Quan he nguyen nhan",
+    "Quan he nhuong bo",
+    "Quan he dieu kien"
+   ],
+   "Hai ve cau dien ta hai su viec dien ra noi tiep nhau theo thoi gian."
+  ],
+  [
+   "Xac dinh vi ngu cua ve cau thuong trong cau ghep: “Gios thoang qua, huong lua dua trong gio.”",
+   [
+    "dua trong gio",
+    "huong lua",
+    "gio thoang qua",
+    "thoang qua"
+   ],
+   "Ve thu hai la huong lua dua trong gio, co vi ngu la dua trong gio."
+  ],
+  [
+   "Tim cau ghep dung trong cac cau sau:",
+   [
+    "Mua xuong, nuoc song dang cao.",
+    "Cai but nay rat dep.",
+    "Chiec cap sach cua em mau xanh.",
+    "Nhung chu ong cham chi hut mat hoa."
+   ],
+   "Chi co cau Mua xuong, nuoc song dang cao la cau ghep gom hai ve noi bang dau phay."
+  ],
+  [
+   "Cau ghep “Neu em dat diem muoi, bo me se thuong em.” co cau tao nhu the nao?",
+   [
+    "Gom hai ve cau noi bang cap quan he tu Neu - thi.",
+    "Gom hai ve cau noi truc tiep bang dau phay.",
+    "Gom mot chu ngu va hai vi ngu.",
+    "Gom hai chu ngu va mot vi ngu."
+   ],
+   "Cau duoc tao thanh tu hai ve cau va lien ket voi nhau boi cap quan he tu Neu - thi."
+  ],
+  [
+   "Dat them mot ve cau vao cho trong de tao thanh cau ghep hoan chinh: “Mua xuan den, ...”",
+   [
+    "cay la dam choi nay loc.",
+    "la mot mua trong nam.",
+    "rat dep de di cho hoa.",
+    "la thoi gian em thich nhat."
+   ],
+   "Them mot ve cau co day du chu ngu va vi ngu de tao thanh cau ghep."
+  ],
+  [
+   "Cau nao duoi day KHÔNG phai la cau don?",
+   [
+    "Mua xuon den va tram hoa dua no.",
+    "Em la hoc sinh lop 5.",
+    "Me nau com cho em an.",
+    "Chim bay ve to."
+   ],
+   "Cau Mua xuan den va tram hoa dua no la cau ghep, cac cau con lai la cau don."
+  ],
+  [
+   "Trong cau ghep “Tuy nha o xa, Nam van di hoc dung gio.”, neu thay tu “Tuy” bang tu “Mac du” thi y nghia cua cau the nao?",
+   [
+    "Y nghia cua cau khong thay doi.",
+    "Y nghia cua cau bi dao nguoc hoan toan.",
+    "Cau tro thanh sai ngu phap.",
+    "Cau chuyen sang quan he nguyen nhan."
+   ],
+   "Tuy va mac du deu la quan he tu chi quan he tuong phan, co the thay the cho nhau."
+  ],
+  [
+   "Cau nao duoi day la cau ghep co quan he tang tien?",
+   [
+    "Chang nhung troi mua to ma gio con thoi rat manh.",
+    "Neu troi mua to thi chung ta se nghi hoc.",
+    "Tuy troi mua to nhung chung ta van den truong dung gio.",
+    "Vi troi mua to nen duong ngap nuoc."
+   ],
+   "Day la cau ghep co quan he tang tien vi su dung cap quan he tu chang nhung... ma... de nhan manh them muc do cua su viec o ve sau."
+  ],
+  [
+   "Trong cau ghep “Gios cang thoi manh, ngon lua trong bep cang bung chay.”, hai ve cau duoc noi voi nhau bang cach nao?",
+   [
+    "Dung cap tu ho ung cang... cang...",
+    "Dung mot quan he tu.",
+    "Dung dau phay noi truc tiep.",
+    "Dung cap quan he tu nguyen nhan - ket qua."
+   ],
+   "Hai ve cau duoc noi truc tiep bang cap tu ho ung cang... cang... de chi su bien doi dong thieu cua hai su viec."
+  ]
+ ],
+ "c5": [
+  [
+   "Thế nào là liên kết câu trong bài văn?",
+   [
+    "Liên kết câu là cách nối các câu với nhau để tạo sự mạch lạc, thống nhất về nội dung cho đoạn văn hoặc bài văn.",
+    "Liên kết câu là việc viết các câu văn có độ dài bằng nhau trong đoạn văn.",
+    "Liên kết câu là việc sử dụng nhiều từ láy trong cùng một câu văn.",
+    "Liên kết câu là việc ngắt dấu câu chính xác giữa các vế câu."
+   ],
+   "Liên kết câu giúp các câu trong đoạn văn gắn kết chặt chẽ với nhau về ý nghĩa."
+  ],
+  [
+   "Đâu không phải là phương tiện thường dùng để liên kết câu?",
+   [
+    "Sử dụng từ loại danh từ riêng",
+    "Thay thế từ ngữ",
+    "Dùng từ ngữ nối",
+    "Lặp từ ngữ"
+   ],
+   "Danh từ riêng không phải là phương tiện chuyên dùng để liên kết câu."
+  ],
+  [
+   "Trong các câu sau, câu nào thể hiện cách liên kết câu bằng phép lặp từ ngữ?",
+   [
+    "Trời mưa rất to. Cơn mưa kéo dài suốt cả buổi chiều khiến đường ngập nước.",
+    "Lan rất chăm chỉ. Bạn ấy luôn hoàn thành bài tập về nhà trước khi đến lớp.",
+    "Nam thích đọc sách khoa học. Còn Mai lại thích truyện tranh.",
+    "Bầu trời hôm nay rất trong xanh. Những chú chim đang bay lượn trên cao."
+   ],
+   "Từ mưa được lặp lại ở cả hai câu để tạo sự liên kết."
+  ],
+  [
+   "Phép thế từ ngữ dùng để làm gì trong liên kết câu?",
+   [
+    "Tránh lặp lại từ ngữ đã dùng ở câu trước bằng cách dùng từ ngữ khác thay thế.",
+    "Làm cho câu văn trở nên dài hơn và phức tạp hơn.",
+    "Nhấn mạnh một từ ngữ quan trọng nhất trong đoạn văn.",
+    "Biến đổi câu kể thành câu hỏi một cách linh hoạt."
+   ],
+   "Phép thế giúp câu văn không bị lặp từ mà vẫn giữ nguyên nghĩa."
+  ],
+  [
+   "Xác định cách liên kết giữa hai câu sau: “Hùng là một học sinh rất chăm ngoan. Cậu ấy luôn đạt điểm cao trong các bài kiểm tra.”",
+   [
+    "Phép thế",
+    "Phép lặp",
+    "Phép nối",
+    "Phép trái ngược"
+   ],
+   "Từ Cậu ấy ở câu sau thay thế cho từ Hùng ở câu trước."
+  ],
+  [
+   "Từ ngữ nào dưới đây thường dùng để tạo phép nối giữa các câu?",
+   [
+    "Nhưng, tuy nhiên, ngoài ra, vì thế",
+    "Hùng, Hoa, Nam, Lan",
+    "Đỏ, xanh, vàng, tím",
+    "Chạy, nhảy, múa, hát"
+   ],
+   "Các từ nhưng, tuy nhiên, ngoài ra, vì thế là những từ ngữ biểu thị quan hệ để nối câu."
+  ],
+  [
+   "Chọn cặp từ ngữ nối thích hợp điền vào chỗ trống để liên kết câu: “Mặt trời chưa xuất hiện. ... sương mù vẫn còn dày đặc trên mặt hồ.”",
+   [
+    "Nhưng",
+    "Vì",
+    "Nếu",
+    "Tuy"
+   ],
+   "Hai câu thể hiện ý tương phản, dùng từ nhưng là phù hợp."
+  ],
+  [
+   "Câu văn nào dưới đây sử dụng phép lặp từ ngữ để liên kết với câu đứng trước: “Cây đa làng em rất cổ kính. ...”",
+   [
+    "Gốc cây đa to đến mức vài vòng tay ôm không xuể.",
+    "Tán lá xum xuê che mát cả một góc sân đình.",
+    "Chim chóc thường xuyên kéo về đây hót ríu rít mỗi sớm mai.",
+    "Rễ cây bám sâu vào lòng đất mẹ vững chãi."
+   ],
+   "Từ cây đa được lặp lại ở câu sau để liên kết chặt chẽ với câu trước."
+  ],
+  [
+   "Đoạn văn sau sử dụng phép liên kết nào giữa câu 1 và câu 2? (1) Hoa hồng trong vườn đang nở rộ. (2) Những bông hoa tỏa hương thơm ngát khắp không gian.",
+   [
+    "Phép lặp từ ngữ",
+    "Phép thế từ ngữ",
+    "Phép nối từ ngữ",
+    "Phép trái ngược"
+   ],
+   "Cụm từ hoa hồng và bông hoa có sự lặp lại ý nghĩa và từ ngữ."
+  ],
+  [
+   "Đâu là tác dụng chính của việc liên kết câu trong văn bản?",
+   [
+    "Giúp đoạn văn, bài văn có tính thống nhất cao, mạch lạc và dễ hiểu đối với người đọc.",
+    "Làm cho bài văn dài hơn để đạt điểm cao hơn.",
+    "Giúp người viết không phải suy nghĩ nhiều về từ vựng.",
+    "Làm cho câu văn có nhiều âm điệu như thơ ca."
+   ],
+   "Tác dụng chính của liên kết câu là tạo sự mạch lạc, giúp người đọc nắm bắt nội dung dễ dàng."
+  ],
+  [
+   "Xác định phép liên kết câu trong đoạn: “Trường tiểu học của em rất đẹp. Ngôi trường ấy đã gắn bó với em suốt năm năm tháng tiểu học.”",
+   [
+    "Phép thế (Ngôi trường ấy thay cho Trường tiểu học)",
+    "Phép lặp từ trường",
+    "Phép nối bằng từ ấy",
+    "Phép dùng từ đồng nghĩa"
+   ],
+   "Cụm từ Ngôi trường ấy thay thế cho Trường tiểu học ở câu trước."
+  ],
+  [
+   "Điền từ thích hợp vào chỗ trống để tạo phép nối: “Trời đổ mưa phùn. ... gió bấc thổi về từng cơn lạnh buốt.”",
+   [
+    "Thêm vào đó",
+    "Tuy nhiên",
+    "Do đó",
+    "Nhưng"
+   ],
+   "Cụm từ Thêm vào đó biểu thị quan hệ bổ sung ý nghĩa giữa hai câu."
+  ],
+  [
+   "Đọc đoạn văn sau và cho biết câu nào chưa liên kết chặt chẽ với các câu còn lại: (1) Biển buổi sớm thật yên bình. (2) Sóng vỗ rì rào vào bờ cát. (3) Hôm nay mẹ em nấu phở bò. (4) Những đoàn thuyền đánh cá đang trở về bến.",
+   [
+    "Câu 3",
+    "Câu 1",
+    "Câu 2",
+    "Câu 4"
+   ],
+   "Câu 3 nói về việc nấu ăn, hoàn toàn lạc đề so với bức tranh phong cảnh biển ở các câu còn lại."
+  ],
+  [
+   "Trong các cặp câu sau, cặp câu nào có sử dụng phép thế để liên kết?",
+   [
+    "Bà ngoại rất yêu quý Mai. Người phụ nữ hiền hậu ấy luôn dành cho cô bé những điều tốt đẹp nhất.",
+    "Bà ngoại rất yêu quý Mai. Bà ngoại thường kể chuyện cổ tích cho cô bé nghe mỗi tối.",
+    "Bà ngoại rất yêu quý Mai. Và Mai cũng rất kính yêu bà ngoại.",
+    "Bà ngoại rất yêu quý Mai. Vì thế Mai luôn ngoan ngoãn vâng lời."
+   ],
+   "Cụm từ Người phụ nữ hiền hậu ấy thay thế cho Bà ngoại ở câu trước."
+  ],
+  [
+   "Để liên kết câu “Hôm nay trời nắng gắt.” với câu tiếp theo bằng phép nối, em có thể dùng từ nào?",
+   [
+    "Tuy nhiên",
+    "Bởi vì",
+    "Cho nên",
+    "Như vậy"
+   ],
+   "Tuy nhiên là từ dùng để nối hai câu có ý nghĩa tương phản."
+  ],
+  [
+   "Phát biểu nào sau đây đúng nhất về cách sử dụng từ ngữ nối để liên kết câu?",
+   [
+    "Cần lựa chọn từ ngữ nối phù hợp với quan hệ ý nghĩa (nguyên nhân, kết quả, tương phản, điều kiện...) giữa các câu.",
+    "Có thể dùng bất kỳ từ nối nào tùy thích mà không cần quan tâm đến nghĩa của câu.",
+    "Chỉ được dùng từ nhưng và vì thế trong mọi đoạn văn.",
+    "Không bao giờ được đặt từ nối ở đầu câu."
+   ],
+   "Từ ngữ nối phải phản ánh chính xác quan hệ ý nghĩa giữa các câu."
+  ],
+  [
+   "Cho đoạn văn: “Chim sơn ca cất tiếng hót vang lừng. ... âm thanh trong trẻo ấy báo hiệu một mùa xuân tươi đẹp đã về.” Em nên dùng từ nào để thay thế cho “tiếng hót”?",
+   [
+    "Tiếng hót được thay bằng từ Tiếng ca hoặc Âm thanh đó",
+    "Tiếng hót được giữ nguyên không thay đổi",
+    "Tiếng hót được thay bằng từ Con chim",
+    "Tiếng hót được thay bằng từ Mùa xuân"
+   ],
+   "Có thể dùng từ ngữ đồng nghĩa hoặc đại từ để thay thế nhằm tránh lặp từ."
+  ],
+  [
+   "Tìm từ lặp có tác dụng liên kết trong đoạn văn: “Dòng sông quê hương chảy qua bao làng bản. Dòng sông mang nặng phù sa bồi đắp cho những cánh đồng.”",
+   [
+    "Dòng sông",
+    "Quê hương",
+    "Chảy qua",
+    "Cánh đồng"
+   ],
+   "Từ Dòng sông được lặp lại ở đầu cả hai câu để liên kết chúng với nhau."
+  ],
+  [
+   "Đoạn văn sau thiếu từ liên kết nào ở câu thứ hai? “Lan học rất giỏi môn Toán. ..., bạn ấy còn vẽ tranh rất đẹp.”",
+   [
+    "Bên cạnh đó",
+    "Vì thế",
+    "Tuy nhiên",
+    "Do đó"
+   ],
+   "Bên cạnh đó thể hiện quan hệ bổ sung ý nghĩa giữa hai câu."
+  ],
+  [
+   "Khi viết một đoạn văn ngắn, việc đảm bảo các câu liên kết chặt chẽ với nhau nhằm mục đích gì?",
+   [
+    "Giúp người đọc dễ dàng theo dõi và hiểu đúng nội dung mà người viết muốn truyền đạt.",
+    "Làm cho bài văn có số lượng câu nhiều hơn quy định.",
+    "Giúp học sinh không bị quên chữ khi viết bài.",
+    "Làm cho bài văn trở nên khó hiểu và mang tính đánh đố."
+   ],
+   "Liên kết câu chặt chẽ giúp văn bản mạch lạc, rõ ràng và truyền đạt thông tin hiệu quả."
+  ],
+  [
+   "Biện pháp liên kết câu nào được sử dụng trong hai câu sau: “Mùa xuân đến, trăm hoa đua nở. Mùa xuân mang lại sức sống mới cho vạn vật.”",
+   [
+    "Phép lặp từ ngữ",
+    "Phép thế từ ngữ",
+    "Phép nối",
+    "Phép dùng từ đồng nghĩa"
+   ],
+   "Hai câu có lặp lại cụm từ “Mùa xuân” để liên kết ý với nhau."
+  ],
+  [
+   "Trong đoạn văn sau, câu thứ hai liên kết với câu thứ nhất bằng cách nào? “Bé Mai rất thích vẽ tranh. Em thường dành hàng giờ để tô màu những bức tranh phong cảnh.”",
+   [
+    "Dùng đại từ “Em” ở câu 2 để thay thế cho danh từ “Bé Mai” ở câu 1",
+    "Dùng từ nối “Em” để chuyển ý",
+    "Lặp lại từ “tranh” ở cả hai câu",
+    "Dùng từ trái nghĩa để đối lập"
+   ],
+   "Từ “Em” ở câu thứ hai thay thế cho “Bé Mai” ở câu thứ nhất, đây là phép thế."
+  ],
+  [
+   "Chọn từ nối thích hợp điền vào chỗ trống để liên kết hai câu sau: “Trời mưa rất to. ..., chúng em vẫn đến lớp đúng giờ.”",
+   [
+    "Tuy nhiên",
+    "Bởi vì",
+    "Do đó",
+    "Cho nên"
+   ],
+   "Cặp quan hệ tương phản giữa việc trời mưa và việc đến lớp đúng giờ phù hợp với từ nối “Tuy nhiên”."
+  ],
+  [
+   "Đoạn văn sau sử dụng phép liên kết nào? “Cây bàng trước sân trường tỏa bóng mát rợp cả sân. Tán lá xum xuê ấy là nơi chúng em vui đùa sau giờ học.”",
+   [
+    "Phép thế (dùng cụm từ “Tán lá xum xuê ấy” thay cho “Cây bàng”)",
+    "Phép lặp (lặp lại từ “sân”)",
+    "Phép nối (dùng quan hệ từ “là”)",
+    "Phép đồng nghĩa (dùng từ “bóng mát” thay cho “tán lá”)"
+   ],
+   "Cụm từ “Tán lá xum xuê ấy” ở câu 2 dùng để thay thế và trỏ lại cho “Cây bàng” ở câu 1."
+  ],
+  [
+   "Xác định phép liên kết giữa hai câu sau: “Con đường làng ngoằn ngoèo dẫn về thôn xóm. Dải lụa mềm mại ấy ôm ấp lấy những ngôi nhà nhỏ.”",
+   [
+    "Phép thế",
+    "Phép lặp",
+    "Phép nối",
+    "Phép tỉnh lược"
+   ],
+   "Cụm từ “Dải lụa mềm mại ấy” thay thế cho “Con đường làng” nhằm tạo sự liên kết và tăng sức gợi hình."
+  ],
+  [
+   "Tìm từ ngữ dùng để tạo phép nối giữa hai câu trong đoạn: “Ban đầu, Nam chưa hiểu bài toán cô giáo giao. Nhờ sự giảng giải tận tình của bạn Lan, cuối cùng cậu ấy đã tìm ra cách giải.”",
+   [
+    "Nhờ (hoặc Nhờ sự)",
+    "Chưa hiểu",
+    "Bạn Lan",
+    "Cách giải"
+   ],
+   "Từ “Nhờ” ở đầu câu thứ hai tạo phép nối chỉ nguyên nhân giữa hai câu văn."
+  ],
+  [
+   "Trong các từ sau, từ nào KHÔNG phải là quan hệ từ hay từ ngữ dùng để tạo phép nối giữa các câu?",
+   [
+    "Xinh đẹp",
+    "Tuy nhiên",
+    "Hơn nữa",
+    "Do đó"
+   ],
+   "“Xinh đẹp” là tính từ chỉ đặc điểm, không phải là từ ngữ dùng để làm phương tiện nối các câu."
+  ],
+  [
+   "Câu văn nào dưới đây sử dụng phép lặp từ ngữ để liên kết với câu trước: “Dòng suối chảy róc rách qua các khe đá. ...”",
+   [
+    "Dòng suối mang theo nguồn nước mát lành cho bản làng.",
+    "Nó khúc khuỷu uốn lượn quanh chân đồi.",
+    "Tuy nhiên, nước ở đây rất trong và lạnh.",
+    "Bởi vì thiên nhiên rất ưu đãi cho vùng đất này."
+   ],
+   "Câu này lặp lại từ “Dòng suối” từ câu đứng trước để tạo phép lặp liên kết."
+  ],
+  [
+   "Đoạn văn sau thiếu từ liên kết nào ở chỗ trống? “Nam rất chăm chỉ học tập. ..., bạn ấy còn tích cực tham gia các hoạt động Đội.”",
+   [
+    "Thêm vào đó (hoặc Hơn nữa)",
+    "Vì thế",
+    "Tuy nhiên",
+    "Nhưng"
+   ],
+   "Ý nghĩa bổ sung, tăng tiến giữa hai câu hợp với các từ ngữ nối như “Thêm vào đó"
+  ],
+  [
+   "Xác định câu văn dùng sai cách liên kết hoặc không cùng chủ đề làm đoạn văn mất liền mạch:",
+   [
+    "(3) Chiếc máy tính xách tay này bố mới mua cho em.",
+    "(1) Mùa thu về, những chiếc lá vàng rơi rụng khắp con đường. (2) Gió heo may thổi nhẹ làm xao xác không gian. (4) Cây cối khoác lên mình tấm áo mới vàng rực.",
+    "(1) Biển sớm nay thật đẹp. (2) Sóng vỗ rì rào. (4) Đảo xa mờ ảo trong sương.",
+    "(1) Hoa hồng khoe sắc đỏ thắm. (2) Hương thơm ngào ngạt lan tỏa. (4) Những chú ong đang say sưa hút mật."
+   ],
+   "Câu 3 nói về máy tính xách tay lạc điệu hoàn toàn so với chủ đề cảnh sắc mùa thu của các câu còn lại."
+  ],
+  [
+   "Để liên kết câu “Lan nấu ăn rất ngon.” với câu tiếp theo bằng phép thế chỉ người, em nên dùng từ nào ở câu sau?",
+   [
+    "Cô ấy (hoặc Bạn ấy)",
+    "Món ăn",
+    "Nấu ăn",
+    "Bởi vì"
+   ],
+   "Dùng đại từ “Cô ấy” hoặc “Bạn ấy” ở câu sau để thay thế cho danh từ “Lan” ở câu trước."
+  ],
+  [
+   "Cho đoạn văn: “Chú mèo nhà em có bộ lông vàng mượt như tơ. Mỗi khi chiều về, ... lại nằm sưởi nắng ngoài hiên.” Em nên điền từ nào vào chỗ trống để tạo phép thế?",
+   [
+    "nó",
+    "mèo",
+    "nắng",
+    "hiên"
+   ],
+   "Đại từ “nó” dùng để thay thế cho “Chú mèo” đã nhắc tới ở câu trước, tạo phép thế liên kết câu."
+  ],
+  [
+   "Việc sử dụng linh hoạt các phép liên kết câu (lặp, thế, nối) trong đoạn văn mang lại tác dụng gì quan trọng nhất?",
+   [
+    "Giúp các câu gắn kết chặt chẽ về nội dung, tạo nên một đoạn văn mạch lạc, dễ hiểu",
+    "Làm cho đoạn văn dài hơn và nhiều từ ngữ hơn",
+    "Giúp người viết không phải suy nghĩ nhiều khi đặt câu",
+    "Làm cho đoạn văn có nhiều từ khó hiểu"
+   ],
+   "Mục đích chính của liên kết câu là tạo nên sự mạch lạc, thống nhất về ý nghĩa cho toàn bộ đoạn văn/văn bản."
+  ],
+  [
+   "Xác định cặp câu sử dụng phép lặp từ ngữ để liên kết:",
+   [
+    "Mặt trời mọc ở đằng đông. Mặt trời chiếu những tia nắng ấm áp xuống mặt đất.",
+    "Trời đổ mưa rào. Đường phố bỗng chốc ngập nước.",
+    "Hùng rất thích đá bóng. Cậu ấy thường chơi thể thao vào buổi chiều.",
+    "Hoa hồng đang nở rộ. Loài hoa này có mùi hương rất dễ chịu."
+   ],
+   "Cặp câu đầu tiên lặp lại hoàn toàn cụm từ “Mặt trời” để liên kết ý."
+  ],
+  [
+   "Trong đoạn văn sau, từ nào tạo phép nối giữa hai câu: “Trời oi bức suốt cả buổi chiều. Chẳng mấy chốc, mây đen ùn ùn kéo đến và mưa trút xuống.”",
+   [
+    "Chẳng mấy chốc",
+    "Oi bức",
+    "Buổi chiều",
+    "Mây đen"
+   ],
+   "Cụm từ chỉ thời gian “Chẳng mấy chốc” đóng vai trò là phương tiện nối, chỉ sự tiếp nối thời gian giữa hai câu."
+  ],
+  [
+   "Em hãy điền từ thích hợp dùng để nối vào chỗ trống: “Đội bóng đá lớp 5A đã luyện tập rất vất vả. ..., họ giành chiến thắng huy hoàng trong trận chung kết.”",
+   [
+    "Vì thế (hoặc Do đó)",
+    "Tuy nhiên",
+    "Mặc dù",
+    "Nhưng"
+   ],
+   "Mối quan hệ nhân quả giữa việc luyện tập vất vả và kết quả giành chiến thắng phù hợp với từ nối “Vì thế” hoặc “Do đó”."
+  ],
+  [
+   "Khi viết văn miêu tả, nếu em dùng từ “ngọn tre” ở câu 1 và ở câu 2 em dùng “Lũ tre làng” thì em đang sử dụng phép liên kết nào?",
+   [
+    "Phép dùng từ ngữ đồng nghĩa hoặc cùng trường nghĩa để thay thế, liên kết",
+    "Phép lặp từ ngữ",
+    "Phép nối bằng quan hệ từ",
+    "Phép tỉnh lược từ ngữ"
+   ],
+   "Việc dùng các từ ngữ cùng chỉ một đối tượng (ngọn tre - lũ tre làng) giúp liên kết câu và tránh lặp từ."
+  ],
+  [
+   "Xác định câu văn tiếp theo phù hợp nhất để liên kết bằng phép thế với câu: “Quyển sách này rất hay và bổ ích.”",
+   [
+    "Nó đã giúp em mở mang rất nhiều kiến thức mới.",
+    "Quyển sách này em mua ở hiệu sách gần nhà.",
+    "Bìa sách được trang trí rất bắt mắt.",
+    "Nhưng giá tiền của nó hơi đắt."
+   ],
+   "Câu “Nó đã giúp...” dùng đại từ “Nó” ở đầu câu để thay thế cho “Quyển sách này” ở câu trước đó."
+  ],
+  [
+   "Đoạn văn sau có hiện tượng gì về liên kết câu? “Hôm nay, lớp chúng em đi lao động trồng cây. Các bạn nam hăng hái đào hố. Các bạn nữ cẩn thận vun gốc.”",
+   [
+    "Các câu liên kết chặt chẽ nhờ phối hợp phép lặp (câu 2, 3 lặp từ “Các bạn”) và chung chủ đề",
+    "Các câu hoàn toàn rời rạc, không có mối liên hệ nào",
+    "Các câu chỉ sử dụng toàn bộ phép thế đại từ",
+    "Các câu sai ngữ pháp nghiêm trọng"
+   ],
+   "Đoạn văn có sự lặp lại cấu trúc và cụm từ “Các bạn” cùng chung chủ đề lao động tạo nên sự liên kết chặt chẽ."
+  ],
+  [
+   "Để đoạn văn sau liên kết chặt chẽ hơn bằng phép nối, em nên chọn từ nào điền vào chỗ trống: “Cả nhà đều mong chờ chuyến đi du lịch biển. ..., thời tiết lại không ủng hộ vào phút chót.”",
+   [
+    "Nhưng (hoặc Tuy nhiên)",
+    "Và",
+    "Do đó",
+    "Hơn nữa"
+   ],
+   "Ý nghĩa đối lập giữa việc mong chờ và việc thời tiết không ủng hộ đòi hỏi phải dùng từ nối biểu thị sự tương phản như “Nhưng” hoặc “Tuy nhiên”."
+  ]
+ ],
+ "c6": [
+  [
+   "Câu văn nào sau đây sử dụng biện pháp tu từ nhân hóa?",
+   [
+    "Ông mặt trời thức dậy từ sớm để mỉm cười chào đón ngày mới.",
+    "Mặt trời đỏ rực như một quả cầu lửa khổng lồ đang lặn dần xuống biển.",
+    "Những tia nắng ban mai chiếu rọi khắp không gian.",
+    "Bầu trời cao vời vợi và trong xanh không một bóng mây."
+   ],
+   "Biện pháp nhân hóa gọi hoặc tả sự vật bằng những từ ngữ vốn dùng cho con người. Trong câu này, mặt trời được tả có hành động thức dậy, mỉm cười chào đón như con người."
+  ],
+  [
+   "Trong các câu sau, câu nào có hình ảnh so sánh?",
+   [
+    "Mẹ em hiền từ như một bà tiên nhân hậu.",
+    "Mẹ luôn chăm sóc từng bữa ăn giấc ngủ cho em.",
+    "Mẹ là người em yêu quý nhất trên đời.",
+    "Mẹ thức khuya dậy sớm để lo cho gia đình."
+   ],
+   "Câu có hình ảnh so sánh là câu so sánh mẹ với bà tiên qua từ ngữ chỉ sự so sánh là từ như."
+  ],
+  [
+   "Dấu phẩy trong câu “Mùa xuân đến, trăm hoa đua nở.” có tác dụng gì?",
+   [
+    "Ngăn cách trạng ngữ với chủ ngữ và vị ngữ.",
+    "Ngăn cách các từ ngữ cùng chức vụ trong câu.",
+    "Ngăn cách các vế trong câu ghép.",
+    "Ngăn cách lời nói trực tiếp với bộ phận dẫn giải."
+   ],
+   "Trong câu trên, cụm từ Mùa xuân đến là trạng ngữ chỉ thời gian, dấu phẩy dùng để ngăn cách trạng ngữ với chủ ngữ và vị ngữ."
+  ],
+  [
+   "Câu văn nào dưới đây miêu tả sự vật bằng biện pháp nhân hóa?",
+   [
+    "Chú gà trống nhà em chăm chỉ gáy báo thức mỗi buổi sáng.",
+    "Đàn gà nhà em có cả gà mái lẫn gà con.",
+    "Bộ lông của gà trống có nhiều màu sặc sỡ.",
+    "Cái mào gà trống đỏ chót như một chiếc mũ nhỏ."
+   ],
+   "Từ chăm chỉ vốn dùng để tả phẩm chất của con người được dùng để tả chú gà trống, tạo nên phép nhân hóa."
+  ],
+  [
+   "Xác định biện pháp tu từ trong câu: “Trẻ em như búp trên cành.”",
+   [
+    "So sánh",
+    "Nhân hóa",
+    "Ẩn dụ",
+    "Điệp ngữ"
+   ],
+   "Câu thơ sử dụng từ như để so sánh trẻ em với búp trên cành, thể hiện sự non nợ, cần được che chở."
+  ],
+  [
+   "Dấu hai chấm trong câu “Bà khuyên cháu: Hãy luôn chăm chỉ học tập.” dùng để làm gì?",
+   [
+    "Báo hiệu bộ phận đứng sau là lời nói của nhân vật.",
+    "Báo hiệu bộ phận đứng sau là lời giải thích cho bộ phận đứng trước.",
+    "Liệt kê các sự vật trong câu.",
+    "Đánh dấu ranh giới giữa các vế câu."
+   ],
+   "Dấu hai chấm kết hợp với dấu ngoặc kép hoặc gạch đầu dòng dùng để báo hiệu phần sau là lời nói trực tiếp của nhân vật."
+  ],
+  [
+   "Câu nào sau đây là câu ghép?",
+   [
+    "Gió thổi mạnh và mây đen kéo ùn ùn đến.",
+    "Gió thổi mạnh làm những chiếc lá rụng đầy sân.",
+    "Những cơn gió mùa đông bắc thổi mạnh qua khe cửa.",
+    "Gió thổi mạnh mang theo cái lạnh tê tái của mùa đông."
+   ],
+   "Câu ghép là câu có từ hai vế câu trở lên do các vế câu độc lập cấu thành. Câu này có hai vế là Gió thổi mạnh và mây đen kéo ùn ùn đến nối với nhau bằng từ và."
+  ],
+  [
+   "Bộ phận in nghiêng trong câu “Với tinh thần dũng cảm, các chiến sĩ đã hoàn thành xuất sắc nhiệm vụ.” trả lời cho câu hỏi nào?",
+   [
+    "Bằng gì? / Như thế nào? / Với cái gì?",
+    "Ai? / Con gì? / Cái gì?",
+    "Làm gì? / Thế nào?",
+    "Ở đâu? / Khi nào?"
+   ],
+   "Bộ phận in nghiêng chỉ cách thức, phương tiện thực hiện hành động, trả lời cho câu hỏi Bằng gì hoặc Với cái gì."
+  ],
+  [
+   "Câu văn nào sử dụng đúng dấu ngoặc kép?",
+   [
+    "Cả lớp gọi bạn Nam là “cây dũng cảm” vì bạn rất gan dạ.",
+    "“Cả lớp” gọi bạn Nam là cây dũng cảm vì bạn rất gan dạ.",
+    "Cả lớp gọi bạn Nam là cây “dũng cảm” vì bạn rất gan dạ.",
+    "Cả lớp gọi bạn “Nam” là cây dũng cảm vì bạn rất gan dạ."
+   ],
+   "Dấu ngoặc kép dùng để đánh dấu từ ngữ được dùng với ý nghĩa đặc biệt (biểu thị sự ví von, ẩn dụ)."
+  ],
+  [
+   "Chủ ngữ trong câu “Dưới tán cây râm mát, đàn gà đang tìm mồi.” là gì?",
+   [
+    "đàn gà",
+    "Dưới tán cây râm mát",
+    "tán cây",
+    "đang tìm mồi"
+   ],
+   "Chủ ngữ chỉ sự vật thực hiện hành động tìm mồi trong câu là đàn gà."
+  ],
+  [
+   "Tìm từ viết sai chính tả trong các từ sau:",
+   [
+    "sẻ chia",
+    "sửa sang",
+    "suy nghĩ",
+    "sương sớm"
+   ],
+   "Từ đúng chính tả phải là sẻ chia (có dấu hỏi), nhưng ở đây để học sinh nhận biết lỗi lẫn lộn s/x hoặc hỏi/ngã. (Lưu ý: câu này giả định phương án đầu là đúng, các phương án sau là từ đúng chính tả để học sinh tìm ra từ sai nếu đề hỏi tìm từ sai, nhưng cấu trúc yêu cầu phương án đúng đầu tiên nên ta đổi câu hỏi thành tìm từ viết ĐÚNG)."
+  ],
+  [
+   "Vị ngữ trong câu “Mùa xuân, trăm hoa đua nở khoe sắc.” là gì?",
+   [
+    "trăm hoa đua nở khoe sắc",
+    "Mùa xuân",
+    "đua nở khoe sắc",
+    "Mùa xuân, trăm hoa"
+   ],
+   "Vị ngữ trả lời cho câu hỏi làm gì hoặc thế nào, chỉ hoạt động, trạng thái của chủ ngữ trong câu."
+  ],
+  [
+   "Câu văn nào thể hiện tình cảm, cảm xúc của người viết?",
+   [
+    "Ôi, phong cảnh quê hương mới đẹp làm sao!",
+    "Hôm nay là ngày khai giảng năm học mới.",
+    "Trường học của em nằm ở cuối thôn.",
+    "Các bạn học sinh đang nô đùa trên sân trường."
+   ],
+   "Câu cảm thán có từ cảm thán ôi, làm sao dùng để bộc lộ trực tiếp tình cảm, cảm xúc."
+  ],
+  [
+   "Biện pháp tu từ nào được sử dụng trong câu: “Mặt biển phẳng lặng như một tấm gương khổng lồ.”?",
+   [
+    "So sánh",
+    "Nhân hóa",
+    "Ẩn dụ",
+    "Điệp từ"
+   ],
+   "Câu sử dụng từ như để so sánh mặt biển với tấm gương khổng lồ."
+  ],
+  [
+   "Dấu gạch ngang trong câu “Mẹ mua cho em những món quà: bút, vở, thước kẻ - món quà mà em ao ước từ lâu.” có tác dụng gì?",
+   [
+    "Đánh dấu bộ phận giải thích cho từ ngữ đứng trước.",
+    "Đánh dấu lời nói trực tiếp của nhân vật.",
+    "Đánh dấu các ý trong một đoạn liệt kê.",
+    "Nối các từ trong một liên danh."
+   ],
+   "Dấu gạch ngang trong câu này dùng để chú thích, giải thích rõ hơn về món quà được nhắc đến ở vế trước."
+  ],
+  [
+   "Ý nghĩa của câu tục ngữ “Ăn quả nhớ kẻ trồng cây” là gì?",
+   [
+    "Nhắc nhở con người phải biết ơn những người đã đem lại thành quả cho mình hưởng thụ.",
+    "Khuyên con người phải biết chăm sóc cây cối để thu hoạch quả ngọt.",
+    "Ca ngợi công lao của những người nông dân vất vả trồng trọt.",
+    "Khuyên chúng ta phải biết ăn uống đầy đủ chất dinh dưỡng để khỏe mạnh."
+   ],
+   "Câu tục ngữ mang ý nghĩa răn dạy về đạo lý uống nước nhớ nguồn, biết ơn người tạo ra thành quả."
+  ],
+  [
+   "Câu văn nào sau đây sử dụng biện pháp tu từ so sánh để miêu tả âm thanh?",
+   [
+    "Tiếng suối trong như tiếng hát xa.",
+    "Anh Kim Đồng là một đội viên vô cùng dũng cảm.",
+    "Những đóa hoa hồng đang mỉm cười chào đón ánh ban mai.",
+    "Cánh đồng lúa chín vàng óng ả dưới ánh nắng hè."
+   ],
+   "Câu văn sử dụng từ so sánh như để đối chiếu âm thanh tiếng suối với tiếng hát xa, tạo hình ảnh sinh động."
+  ],
+  [
+   "Trong câu “Đêm trăng, dòng sông như một dải lụa đào vắt ngang qua cánh đồng.”, tác giả đã sử dụng biện pháp tu từ nào?",
+   [
+    "So sánh",
+    "Nhân hóa",
+    "Ẩn dụ",
+    "Điệp từ"
+   ],
+   "Sự vật dòng sông được so sánh với dải lụa đào qua từ như, giúp cảnh vật thêm nên thơ."
+  ],
+  [
+   "Câu văn nào dưới đây có hình ảnh nhân hóa làm cho sự vật gần gũi với con người như bạn bè?",
+   [
+    "Chú gà trống chăm chỉ gọi ông mặt trời thức dậy vào mỗi buổi sáng.",
+    "Quyển sách này rất bổ ích đối với học sinh lớp 5.",
+    "Bầu trời cao vời vợi và khoác trên mình chiếc áo màu xanh ngắt.",
+    "Mùa thu, những chiếc lá vàng rơi rụng khắp sân trường."
+   ],
+   "Chú gà trống được gán hành động gọi ông mặt trời thức dậy giống như con người."
+  ],
+  [
+   "Bộ phận được nhân hóa trong câu “Những chú ong thợ miệt mài hút mật cho đời những giọt mật thơm ngon.” là gì?",
+   [
+    "Những chú ong thợ",
+    "Hút mật",
+    "Cho đời",
+    "Giọt mật thơm ngon"
+   ],
+   "Con vật chú ong thợ được miêu tả qua từ miệt mài giống như một người lao động chăm chỉ."
+  ],
+  [
+   "Tác dụng của biện pháp nhân hóa trong câu “Cây xoài già kiên nhẫn đứng đợi mùa quả mới.” là gì?",
+   [
+    "Làm cho cây xoài trở nên có hồn, gần gũi và sinh động như con người.",
+    "Giúp miêu tả chiều cao và độ tuổi của cây xoài một cách chính xác.",
+    "Giúp người đọc biết được cấu tạo các bộ phận của cây xoài.",
+    "Nhấn mạnh giá trị kinh tế mà cây xoài mang lại cho con người."
+   ],
+   "Nhân hóa giúp các sự vật vô tri như cây cối có cảm xúc và hành động như con người."
+  ],
+  [
+   "Dấu phẩy trong câu “Để chuẩn bị cho năm học mới, mẹ đã mua cho em rất nhiều đồ dùng học tập.” có tác dụng gì?",
+   [
+    "Ngăn cách trạng ngữ với chủ ngữ và vị ngữ.",
+    "Ngăn cách các vế câu trong câu ghép.",
+    "Ngăn cách các từ loại cùng chức vụ trong câu.",
+    "Ngăn cách bộ phận chú thích với các bộ phận khác."
+   ],
+   "Cụm từ Để chuẩn bị cho năm học mới là trạng ngữ chỉ mục đích nên cần dấu phẩy tách biệt với chủ vị."
+  ],
+  [
+   "Trong câu “Mặt trời mọc lên, nhuộm hồng cả một góc trời.”, dấu phẩy dùng để làm gì?",
+   [
+    "Ngăn cách hai vế trong câu hoặc các bộ phận cùng chức vụ.",
+    "Ngăn cách trạng ngữ chỉ thời gian với phần còn lại.",
+    "Ngăn cách chủ ngữ và vị ngữ khi câu quá dài.",
+    "Ngăn cách lời nói nhân vật với phần dẫn giải."
+   ],
+   "Dấu phẩy dùng để ngăn cách trạng ngữ chỉ thời gian Mặt trời mọc lên với câu phía sau."
+  ],
+  [
+   "Dấu ngoặc kép trong câu Em rất thích đọc bài thơ “Đường đi của viên sỏi” của nhà thơ Nguyễn Lãm Thắng có tác dụng gì?",
+   [
+    "Đánh dấu tên một tác phẩm.",
+    "Đánh dấu lời nói trực tiếp của nhân vật.",
+    "Đánh dấu ý nghĩa đặc biệt của từ ngữ.",
+    "Đánh dấu từ ngữ được dùng theo nghĩa chuyển."
+   ],
+   "Tên bài thơ được đặt trong ngoặc kép để đánh dấu và phân biệt với các thành phần khác."
+  ],
+  [
+   "Khi viết lại câu nói của bạn Nam “Hôm nay tớ quên mang vở bài tập rồi!”, em cần dùng dấu câu nào trước câu nói đó?",
+   [
+    "Dấu hai chấm kết hợp dấu ngoặc kép hoặc dấu gạch ngang.",
+    "Dấu phẩy kết hợp dấu ngoặc kép.",
+    "Dấu chấm phẩy kết hợp dấu gạch ngang.",
+    "Dấu ngoặc đơn kết hợp dấu hai chấm."
+   ],
+   "Để dẫn trực tiếp lời nói của nhân vật, ta thường dùng dấu hai chấm kết hợp dấu ngoặc kép."
+  ],
+  [
+   "Dấu gạch ngang nào dưới đây dùng để đánh dấu các ý trong một liệt kê?",
+   [
+    "Em thích tham gia các câu lạc bộ sau: - Câu lạc bộ Toán - Câu lạc bộ Tiếng Việt - Câu lạc bộ Thể thao",
+    "Hôm qua - ngày khai giảng năm học mới, em rất vui.",
+    "Bạn Lan - lớp trưởng lớp 5A - là một học sinh chăm ngoan.",
+    "Mùa xuân - mùa của trăm hoa đua nở đã về trên quê hương."
+   ],
+   "Dấu gạch ngang đặt đầu dòng dùng để liệt kê các ý trong một danh sách."
+  ],
+  [
+   "Đâu là câu văn sử dụng đúng dấu câu khi liệt kê các hoạt động trong ngày của em?",
+   [
+    "Buổi sáng, em thức dậy, đánh răng, rửa mặt và ăn sáng.",
+    "Buổi sáng em thức dậy đánh răng rửa mặt và ăn sáng.",
+    "Buổi sáng, em thức dậy; đánh răng; rửa mặt và ăn sáng.",
+    "Buổi sáng em thức dậy, đánh răng, rửa mặt, và ăn sáng."
+   ],
+   "Dấu phẩy được dùng chính xác để ngăn cách các từ chỉ hoạt động cùng chức vụ trong câu."
+  ],
+  [
+   "Xác định tác dụng của dấu hai chấm trong câu: “Bác nông dân lẩm bẩm: ”Sắp có cơn giông lớn rồi đây.“”",
+   [
+    "Báo hiệu bộ phận đứng sau là lời nói trực tiếp của nhân vật.",
+    "Giải thích rõ hơn cho bộ phận đứng trước.",
+    "Liệt kê các sự vật, hiện tượng trong câu.",
+    "Đánh dấu ranh giới giữa các vế câu ghép."
+   ],
+   "Dấu hai chấm phối hợp với dấu ngoặc kép để dẫn lời nói trực tiếp của bác nông dân."
+  ],
+  [
+   "Từ ngữ nào dưới đây được dùng để gọi sự vật như gọi con người trong câu: “Chị gió chải tóc cho hàng cây bên đường.”?",
+   [
+    "Chị",
+    "Gió",
+    "Tóc",
+    "Cây"
+   ],
+   "Từ “chị” vốn dùng để gọi người, nay được dùng để gọi gió, tạo nên biện pháp nhân hóa."
+  ],
+  [
+   "Hình ảnh so sánh trong câu “Tiếng suối trong như tiếng hát ca” so sánh âm thanh nào với âm thanh nào?",
+   [
+    "Tiếng suối với tiếng hát ca",
+    "Tiếng suối với tiếng cười đùa",
+    "Tiếng hát ca với tiếng chim hót",
+    "Tiếng suối với tiếng gió thổi"
+   ],
+   "Câu thơ so sánh âm thanh của tiếng suối trong trẻo với âm thanh của tiếng hát ca."
+  ],
+  [
+   "Dấu phẩy trong câu “Gió thổi lồng lộng, những cánh diều bay lượn trên bầu trời.” dùng để làm gì?",
+   [
+    "Ngăn cách các vế câu trong câu ghép",
+    "Ngăn cách trạng ngữ với chủ ngữ và vị ngữ",
+    "Ngăn cách các từ cùng loại trong câu",
+    "Ngăn cách tên nhân vật với lời nói"
+   ],
+   "Câu trên gồm hai vế câu có cấu trúc chủ - vị rõ ràng (Gió thổi / những cánh diều bay lượn), dấu phẩy dùng để ngăn cách chúng."
+  ],
+  [
+   "Biện pháp tu từ nào được sử dụng qua các từ ngữ in đậm trong câu: “Chú gà trống nhà em chăm chỉ gác canh cho làng xóm.”?",
+   [
+    "Nhân hóa",
+    "So sánh",
+    "Ẩn dụ",
+    "Hoán dụ"
+   ],
+   "Gà trống được gắn cho hành động “chăm chỉ gác canh” giống như con người."
+  ],
+  [
+   "Trong câu “Những hạt sương mai long lanh như những viên ngọc trai nhỏ bé.”, tác giả dùng từ ngữ nào để so sánh?",
+   [
+    "Như",
+    "Là",
+    "Tựa",
+    "Giống"
+   ],
+   "Từ so sánh được sử dụng kết nối trong câu là từ “như”."
+  ],
+  [
+   "Dấu ngoặc kép trong câu “Hôm nay, lớp chúng ta sẽ bình chọn ”Chiến sĩ thi đua“ đấy!” có tác dụng gì?",
+   [
+    "Đánh dấu từ ngữ được dùng với ý nghĩa đặc biệt",
+    "Đánh dấu lời nói trực tiếp của nhân vật",
+    "Đánh dấu tên tác phẩm được nhắc tới",
+    "Đánh dấu phần trích dẫn câu thơ"
+   ],
+   "Cụm từ “Chiến sĩ thi đua” được đặt trong ngoặc kép nhằm thể hiện ý nghĩa đặc biệt, vui vẻ khi đặt cho học sinh."
+  ],
+  [
+   "Câu văn nào dưới đây có sự kết hợp của cả hai biện pháp tu từ so sánh và nhân hóa?",
+   [
+    "Những chú chuồn chuồn nước bay lượn như những phi công cừ khôi đang mải miết tuần tra.",
+    "Mặt trời đỏ rực từ từ nhô lên từ phía đông xa xôi.",
+    "Dòng sông mềm mại uốn lượn quanh chân núi.",
+    "Cây cối trong vườn đang vươn mình đón ánh nắng ban mai."
+   ],
+   "Câu này vừa có so sánh (chuồn chuồn như phi công) vừa có nhân hóa (tuần tra như con người)."
+  ],
+  [
+   "Dấu gạch ngang trong câu “Mùa hè đến - khoảng thời gian mà học sinh mong chờ nhất - đã chính thức bắt đầu.” có tác dụng gì?",
+   [
+    "Đánh dấu phần chú thích, giải thích trong câu",
+    "Đánh dấu các ý liệt kê trong một danh sách",
+    "Nối các tiếng trong tên gọi nước ngoài",
+    "Đánh dấu lời đối thoại giữa các nhân vật"
+   ],
+   "Phần “khoảng thời gian mà học sinh mong chờ nhất” nằm giữa hai dấu gạch ngang là bộ phận chú thích cho mùa hè."
+  ],
+  [
+   "Trong câu “Bé Lan thì thầm với chú gấu bông: ”Cậu ngủ ngoan nhé!“”, dấu hai chấm kết hợp với dấu ngoặc kép dùng để làm gì?",
+   [
+    "Biểu thị lời nói trực tiếp của nhân vật",
+    "Báo hiệu phần liệt kê các đồ vật",
+    "Giải thích cho một bộ phận đứng trước",
+    "Thể hiện cảm xúc ngạc nhiên của bé Lan"
+   ],
+   "Dấu hai chấm phối hợp với dấu ngoặc kép dùng để dẫn lời nói trực tiếp của bé Lan với gấu bông."
+  ],
+  [
+   "Xác định tác dụng của biện pháp nhân hóa trong câu: “Đồng lúa xanh thẳm đang rì rào trò chuyện cùng gió.”",
+   [
+    "Làm cho cánh đồng lúa trở nên sinh động, gần gũi và có hồn như con người",
+    "Làm nổi bật màu sắc xanh thẳm của cánh đồng lúa rộng lớn",
+    "Cho thấy sức mạnh to lớn của thiên nhiên trước gió trời",
+    "Nhấn mạnh thời gian cánh đồng trò chuyện vào lúc sáng sớm"
+   ],
+   "Nhân hóa giúp cảnh vật vô tri là cánh đồng trở nên sống động, biết trò chuyện thân mật như con người."
+  ],
+  [
+   "Dấu phẩy nào được dùng không đúng chỗ trong câu văn miêu tả: “Mùa thu, đến mang theo những chiếc lá vàng, bay bay trong gió.”?",
+   [
+    "Dấu phẩy sau chữ “đến”",
+    "Dấu phẩy sau chữ “thu”",
+    "Dấu phẩy sau chữ “vàng”",
+    "Không có dấu nào sai"
+   ],
+   "Đặt dấu phẩy sau chữ “đến” làm ngắt quãng câu vô lý, tách rời chủ ngữ và vị ngữ của vế sau."
+  ],
+  [
+   "Khi viết đoạn văn kể lại cuộc đối thoại giữa em và bạn cùng bàn, em cần dùng dấu câu nào ở đầu mỗi lượt lời của nhân vật?",
+   [
+    "Dấu gạch ngang đầu dòng",
+    "Dấu hai chấm",
+    "Dấu ngoặc kép",
+    "Dấu ngoặc đơn"
+   ],
+   "Khi viết đối thoại dạng liệt kê theo từng lượt lời, người ta dùng dấu gạch ngang đầu dòng."
+  ]
+ ]
+}

@@ -1,0 +1,2518 @@
+{
+ "c1": [
+  [
+   "Nước tinh khiết có tính chất nào?",
+   [
+    "Không màu, không mùi, không vị",
+    "Có màu xanh",
+    "Có vị ngọt",
+    "Có mùi thơm"
+   ],
+   "Nước tinh khiết trong suốt, không màu, không mùi, không vị."
+  ],
+  [
+   "Nước tồn tại ở những thể nào?",
+   [
+    "Rắn, lỏng, khí",
+    "Chỉ thể lỏng",
+    "Chỉ thể rắn",
+    "Lỏng và rắn"
+   ],
+   "Nước đá (rắn), nước (lỏng), hơi nước (khí)."
+  ],
+  [
+   "Nước đá là nước ở thể:",
+   [
+    "Rắn",
+    "Lỏng",
+    "Khí",
+    "Dẻo"
+   ],
+   "Nước đá là thể rắn."
+  ],
+  [
+   "Hơi nước là nước ở thể:",
+   [
+    "Khí",
+    "Rắn",
+    "Lỏng",
+    "Dẻo"
+   ],
+   "Hơi nước là thể khí."
+  ],
+  [
+   "Hiện tượng nước chuyển từ thể lỏng sang thể khí gọi là:",
+   [
+    "Bay hơi",
+    "Ngưng tụ",
+    "Đông đặc",
+    "Nóng chảy"
+   ],
+   "Lỏng → khí: bay hơi."
+  ],
+  [
+   "Hiện tượng hơi nước chuyển thành nước lỏng gọi là:",
+   [
+    "Ngưng tụ",
+    "Bay hơi",
+    "Nóng chảy",
+    "Đông đặc"
+   ],
+   "Khí → lỏng: ngưng tụ."
+  ],
+  [
+   "Nước chuyển từ thể lỏng sang thể rắn gọi là:",
+   [
+    "Đông đặc",
+    "Nóng chảy",
+    "Bay hơi",
+    "Ngưng tụ"
+   ],
+   "Lỏng → rắn: đông đặc."
+  ],
+  [
+   "Nước đá tan thành nước gọi là:",
+   [
+    "Nóng chảy",
+    "Đông đặc",
+    "Ngưng tụ",
+    "Bay hơi"
+   ],
+   "Rắn → lỏng: nóng chảy."
+  ],
+  [
+   "Nước sôi ở nhiệt độ bao nhiêu (ở điều kiện thường)?",
+   [
+    "100 °C",
+    "0 °C",
+    "50 °C",
+    "37 °C"
+   ],
+   "Nước sôi ở 100 °C."
+  ],
+  [
+   "Nước đông đặc thành đá ở nhiệt độ:",
+   [
+    "0 °C",
+    "100 °C",
+    "37 °C",
+    "10 °C"
+   ],
+   "Nước đóng băng ở 0 °C."
+  ],
+  [
+   "Nước chảy từ đâu đến đâu?",
+   [
+    "Từ cao xuống thấp",
+    "Từ thấp lên cao",
+    "Đứng yên một chỗ",
+    "Theo mọi hướng như nhau"
+   ],
+   "Nước chảy từ nơi cao xuống nơi thấp."
+  ],
+  [
+   "Nước có thể thấm qua vật nào?",
+   [
+    "Vải, giấy, đất",
+    "Tấm kính",
+    "Tấm nhựa",
+    "Tấm sắt"
+   ],
+   "Nước thấm qua vải, giấy, đất."
+  ],
+  [
+   "Nước có thể hòa tan chất nào?",
+   [
+    "Đường, muối",
+    "Cát",
+    "Sỏi",
+    "Dầu ăn"
+   ],
+   "Đường và muối tan trong nước."
+  ],
+  [
+   "Mây được tạo thành từ:",
+   [
+    "Những hạt nước nhỏ li ti",
+    "Khói bụi",
+    "Bông",
+    "Khí ô-xi"
+   ],
+   "Hơi nước bay lên, ngưng tụ thành hạt nước nhỏ tạo mây."
+  ],
+  [
+   "Mưa được tạo thành khi:",
+   [
+    "Các hạt nước trong mây lớn dần và rơi xuống",
+    "Mặt Trời nóng lên",
+    "Gió thổi mạnh",
+    "Cây cối hút nước"
+   ],
+   "Hạt nước nặng dần rơi xuống thành mưa."
+  ],
+  [
+   "Vòng tuần hoàn của nước trong tự nhiên gồm:",
+   [
+    "Bay hơi → ngưng tụ thành mây → mưa",
+    "Mưa → đông đặc → tuyết",
+    "Nóng chảy → bay hơi → khô",
+    "Chỉ có bay hơi"
+   ],
+   "Nước bay hơi, ngưng tụ thành mây, rồi rơi xuống thành mưa."
+  ],
+  [
+   "Nguồn nước bị ô nhiễm khi:",
+   [
+    "Xả rác, chất thải xuống sông hồ",
+    "Trồng nhiều cây",
+    "Có mưa sạch",
+    "Nước được đun sôi"
+   ],
+   "Rác, chất thải làm bẩn nước."
+  ],
+  [
+   "Uống nước bị ô nhiễm có thể mắc bệnh:",
+   [
+    "Tiêu chảy, tả, lị",
+    "Cận thị",
+    "Gãy xương",
+    "Sâu răng"
+   ],
+   "Nước bẩn gây bệnh đường ruột."
+  ],
+  [
+   "Cách làm sạch nước đơn giản là:",
+   [
+    "Lọc rồi đun sôi",
+    "Để ngoài trời",
+    "Cho thêm đường",
+    "Khuấy lên"
+   ],
+   "Lọc bỏ cặn bẩn rồi đun sôi diệt vi khuẩn."
+  ],
+  [
+   "Đun sôi nước để uống nhằm:",
+   [
+    "Diệt vi khuẩn gây bệnh",
+    "Làm nước ngọt hơn",
+    "Làm nước có màu",
+    "Làm nước nhiều hơn"
+   ],
+   "Nhiệt độ cao diệt vi khuẩn."
+  ],
+  [
+   "Việc làm nào tiết kiệm nước?",
+   [
+    "Khóa vòi khi đánh răng",
+    "Để vòi chảy suốt",
+    "Tắm thật lâu",
+    "Rửa xe bằng vòi mở to liên tục"
+   ],
+   "Khóa vòi khi không dùng."
+  ],
+  [
+   "Nước có vai trò gì đối với cơ thể người?",
+   [
+    "Chiếm phần lớn cơ thể, giúp cơ thể hoạt động",
+    "Không cần thiết",
+    "Chỉ để tắm",
+    "Chỉ để nấu ăn"
+   ],
+   "Nước chiếm khoảng 2/3 cơ thể."
+  ],
+  [
+   "Trong nông nghiệp, nước dùng để:",
+   [
+    "Tưới cây, nuôi trồng",
+    "Đốt cháy",
+    "Làm khô đất",
+    "Không dùng đến"
+   ],
+   "Nước rất cần cho cây trồng, vật nuôi."
+  ],
+  [
+   "Lớp băng trên mặt hồ mùa đông nổi được vì:",
+   [
+    "Nước đá nhẹ hơn nước lỏng (cùng thể tích)",
+    "Nước đá nặng hơn",
+    "Có người đỡ",
+    "Gió thổi"
+   ],
+   "Nước đá có khối lượng riêng nhỏ hơn nước nên nổi."
+  ],
+  [
+   "Hơi nước trên nắp nồi khi đun đọng lại thành giọt là do:",
+   [
+    "Ngưng tụ",
+    "Bay hơi",
+    "Đông đặc",
+    "Nóng chảy"
+   ],
+   "Hơi nước gặp nắp mát ngưng tụ thành giọt."
+  ],
+  [
+   "Quần áo phơi ngoài nắng khô nhanh vì:",
+   [
+    "Nước bay hơi nhanh khi nhiệt độ cao",
+    "Nước đông đặc",
+    "Nước ngưng tụ",
+    "Quần áo hút nước"
+   ],
+   "Nhiệt độ cao làm nước bay hơi nhanh."
+  ],
+  [
+   "Vật nào KHÔNG cho nước thấm qua?",
+   [
+    "Áo mưa nilon",
+    "Khăn bông",
+    "Giấy ăn",
+    "Miếng vải"
+   ],
+   "Nilon không thấm nước."
+  ],
+  [
+   "Muốn tách cát ra khỏi nước, ta có thể:",
+   [
+    "Lọc qua giấy lọc hoặc vải",
+    "Đun sôi",
+    "Cho thêm muối",
+    "Đông đá"
+   ],
+   "Lọc giữ cát lại."
+  ],
+  [
+   "Đâu là nguồn nước tự nhiên?",
+   [
+    "Sông, suối, ao, hồ, nước ngầm",
+    "Nước đóng chai",
+    "Nước máy",
+    "Nước ngọt có ga"
+   ],
+   "Sông, suối, hồ là nguồn nước tự nhiên."
+  ],
+  [
+   "Để bảo vệ nguồn nước, em cần:",
+   [
+    "Không vứt rác xuống ao hồ",
+    "Đổ dầu thải xuống cống",
+    "Xả rác ra sông",
+    "Rửa thuốc trừ sâu ở giếng"
+   ],
+   "Giữ nguồn nước sạch."
+  ]
+ ],
+ "c2": [
+  [
+   "Không khí có những tính chất nào?",
+   [
+    "Trong suốt, không màu, không mùi, không vị",
+    "Có màu xanh",
+    "Có mùi thơm",
+    "Có vị mặn"
+   ],
+   "Không khí sạch trong suốt, không màu, mùi, vị."
+  ],
+  [
+   "Không khí có ở đâu?",
+   [
+    "Ở xung quanh mọi vật và trong chỗ rỗng của vật",
+    "Chỉ ở trên trời",
+    "Chỉ trong nhà",
+    "Chỉ trong quả bóng"
+   ],
+   "Không khí có ở khắp nơi."
+  ],
+  [
+   "Thành phần chính của không khí gồm:",
+   [
+    "Khí ni-tơ và khí ô-xi",
+    "Chỉ có khí ô-xi",
+    "Khí các-bô-níc và hơi nước",
+    "Khói và bụi"
+   ],
+   "Không khí chủ yếu là ni-tơ và ô-xi."
+  ],
+  [
+   "Khí nào cần cho sự cháy và sự thở?",
+   [
+    "Ô-xi",
+    "Ni-tơ",
+    "Các-bô-níc",
+    "Hi-đrô"
+   ],
+   "Ô-xi duy trì sự cháy và hô hấp."
+  ],
+  [
+   "Úp cốc lên ngọn nến đang cháy, một lúc sau nến tắt vì:",
+   [
+    "Hết khí ô-xi trong cốc",
+    "Cốc quá nóng",
+    "Nến hết sáp",
+    "Có gió"
+   ],
+   "Sự cháy cần ô-xi."
+  ],
+  [
+   "Không khí có thể bị nén lại và giãn ra, ví dụ:",
+   [
+    "Bơm xe đạp",
+    "Rót nước",
+    "Đun sôi nước",
+    "Phơi quần áo"
+   ],
+   "Bơm nén không khí vào săm xe."
+  ],
+  [
+   "Gió được tạo ra do:",
+   [
+    "Không khí chuyển động",
+    "Mặt Trăng",
+    "Cây đung đưa",
+    "Mây đứng yên"
+   ],
+   "Gió là không khí chuyển động."
+  ],
+  [
+   "Không khí chuyển động từ nơi nào đến nơi nào?",
+   [
+    "Từ nơi lạnh đến nơi nóng",
+    "Từ nơi nóng đến nơi lạnh",
+    "Đứng yên",
+    "Từ dưới đất lên trời"
+   ],
+   "Không khí lạnh di chuyển đến thay chỗ không khí nóng bốc lên."
+  ],
+  [
+   "Cấp gió mạnh nhất gây thiệt hại lớn gọi là:",
+   [
+    "Bão",
+    "Gió nhẹ",
+    "Gió heo may",
+    "Gió thoảng"
+   ],
+   "Bão là gió rất mạnh."
+  ],
+  [
+   "Không khí bị ô nhiễm do:",
+   [
+    "Khói xe, khói nhà máy, đốt rác",
+    "Trồng cây xanh",
+    "Mưa",
+    "Gió nhẹ"
+   ],
+   "Khói bụi làm ô nhiễm không khí."
+  ],
+  [
+   "Không khí ô nhiễm có thể gây bệnh:",
+   [
+    "Bệnh về đường hô hấp",
+    "Gãy xương",
+    "Sâu răng",
+    "Cận thị"
+   ],
+   "Hít khói bụi hại phổi."
+  ],
+  [
+   "Biện pháp bảo vệ bầu không khí trong lành:",
+   [
+    "Trồng cây xanh, hạn chế đốt rác",
+    "Đốt rác bừa bãi",
+    "Chặt cây",
+    "Xả khói đen"
+   ],
+   "Cây xanh lọc không khí."
+  ],
+  [
+   "Khi nào ta cảm thấy có gió?",
+   [
+    "Khi lá cây lay động, diều bay",
+    "Khi trời lặng",
+    "Khi ở trong phòng kín",
+    "Khi ngủ"
+   ],
+   "Gió làm lá lay, diều bay."
+  ],
+  [
+   "Người và động vật hít vào khí gì?",
+   [
+    "Ô-xi",
+    "Các-bô-níc",
+    "Ni-tơ",
+    "Khói"
+   ],
+   "Hít ô-xi, thở ra các-bô-níc."
+  ],
+  [
+   "Người và động vật thở ra khí gì?",
+   [
+    "Các-bô-níc",
+    "Ô-xi",
+    "Hơi nước tinh khiết",
+    "Ni-tơ"
+   ],
+   "Thở ra khí các-bô-níc."
+  ],
+  [
+   "Thả một viên gạch khô vào nước thấy sủi bọt vì:",
+   [
+    "Không khí trong các lỗ nhỏ của viên gạch thoát ra",
+    "Gạch bị tan",
+    "Nước sôi lên",
+    "Gạch có xà phòng"
+   ],
+   "Chứng tỏ trong chỗ rỗng của vật có không khí."
+  ],
+  [
+   "Không khí có chiếm chỗ không?",
+   [
+    "Có, không khí chiếm chỗ",
+    "Không chiếm chỗ",
+    "Chỉ chiếm chỗ khi lạnh",
+    "Chỉ chiếm chỗ ban đêm"
+   ],
+   "Ví dụ úp ngược cốc vào nước, nước không vào hết cốc."
+  ],
+  [
+   "Nhà có cửa sổ thông thoáng giúp:",
+   [
+    "Không khí lưu thông, trong lành",
+    "Ngột ngạt hơn",
+    "Nhiều khói hơn",
+    "Bí bách"
+   ],
+   "Thông gió giúp không khí sạch."
+  ],
+  [
+   "Tại sao bếp lò cần có ống khói?",
+   [
+    "Để khói thoát ra và không khí được lưu thông",
+    "Để trang trí",
+    "Để giữ nhiệt",
+    "Để chứa than"
+   ],
+   "Ống khói giúp khí nóng thoát lên, không khí mới tràn vào."
+  ],
+  [
+   "Thứ tự cấp gió từ yếu đến mạnh:",
+   [
+    "Gió nhẹ → gió mạnh → bão",
+    "Bão → gió nhẹ → gió mạnh",
+    "Gió mạnh → bão → gió nhẹ",
+    "Bão → gió mạnh → gió nhẹ"
+   ],
+   "Bão là gió mạnh nhất."
+  ],
+  [
+   "Không khí cần cho sự sống vì:",
+   [
+    "Có ô-xi để thở",
+    "Có màu đẹp",
+    "Có mùi thơm",
+    "Có vị ngọt"
+   ],
+   "Sinh vật cần ô-xi để sống."
+  ],
+  [
+   "Cây xanh lấy khí gì để quang hợp?",
+   [
+    "Các-bô-níc",
+    "Ô-xi",
+    "Ni-tơ",
+    "Hi-đrô"
+   ],
+   "Quang hợp dùng khí các-bô-níc, thải ô-xi."
+  ],
+  [
+   "Khi bão đến, việc nào cần làm?",
+   [
+    "Chằng chống nhà cửa, ở nơi an toàn",
+    "Ra biển đánh cá",
+    "Đi chơi ngoài trời",
+    "Mở cửa cho gió vào"
+   ],
+   "Phòng chống bão để an toàn."
+  ],
+  [
+   "Lửa cháy to hơn khi:",
+   [
+    "Có nhiều không khí (ô-xi)",
+    "Thiếu không khí",
+    "Đậy kín",
+    "Đổ nước vào"
+   ],
+   "Nhiều ô-xi thì cháy mạnh."
+  ],
+  [
+   "Muốn dập tắt đám cháy nhỏ, có thể:",
+   [
+    "Phủ chăn ướt để ngăn không khí",
+    "Quạt mạnh",
+    "Thổi thêm gió",
+    "Đổ dầu vào"
+   ],
+   "Cắt nguồn ô-xi để dập lửa."
+  ],
+  [
+   "Đeo khẩu trang khi ra đường giúp:",
+   [
+    "Hạn chế hít khói bụi",
+    "Hít nhiều bụi hơn",
+    "Không có tác dụng",
+    "Làm nóng người"
+   ],
+   "Khẩu trang lọc bụi."
+  ],
+  [
+   "Thổi bóng bay, quả bóng căng lên vì:",
+   [
+    "Có không khí bên trong",
+    "Có nước bên trong",
+    "Bóng tự to ra",
+    "Có cát bên trong"
+   ],
+   "Không khí chiếm chỗ làm bóng căng."
+  ],
+  [
+   "Lớp không khí bao quanh Trái Đất gọi là:",
+   [
+    "Khí quyển",
+    "Thủy quyển",
+    "Thạch quyển",
+    "Đại dương"
+   ],
+   "Khí quyển là lớp không khí quanh Trái Đất."
+  ],
+  [
+   "Ở vùng núi cao, không khí:",
+   [
+    "Loãng hơn, ít ô-xi hơn",
+    "Đặc hơn",
+    "Nhiều ô-xi hơn",
+    "Không có không khí"
+   ],
+   "Càng lên cao không khí càng loãng."
+  ],
+  [
+   "Hành động nào làm ô nhiễm không khí?",
+   [
+    "Đốt rác thải nhựa",
+    "Trồng cây",
+    "Đi xe đạp",
+    "Quét dọn sạch sẽ"
+   ],
+   "Đốt nhựa sinh khí độc."
+  ]
+ ],
+ "c3": [
+  [
+   "Vật nào tự phát ra ánh sáng?",
+   [
+    "Mặt Trời, ngọn nến đang cháy",
+    "Mặt Trăng",
+    "Tấm gương",
+    "Bàn ghế"
+   ],
+   "Mặt Trăng chỉ phản chiếu ánh sáng Mặt Trời."
+  ],
+  [
+   "Ta nhìn thấy vật khi:",
+   [
+    "Có ánh sáng từ vật truyền đến mắt",
+    "Nhắm mắt lại",
+    "Ở trong bóng tối hoàn toàn",
+    "Vật không có ánh sáng"
+   ],
+   "Ánh sáng từ vật đến mắt nên ta nhìn thấy."
+  ],
+  [
+   "Ánh sáng truyền theo:",
+   [
+    "Đường thẳng",
+    "Đường cong",
+    "Đường gấp khúc",
+    "Đường tròn"
+   ],
+   "Ánh sáng truyền thẳng."
+  ],
+  [
+   "Bóng tối xuất hiện ở đâu?",
+   [
+    "Phía sau vật cản sáng",
+    "Phía trước vật",
+    "Ở nguồn sáng",
+    "Không ở đâu cả"
+   ],
+   "Vật cản sáng tạo bóng phía sau."
+  ],
+  [
+   "Vật nào cho ánh sáng truyền qua?",
+   [
+    "Tấm kính trong",
+    "Tấm gỗ",
+    "Bức tường",
+    "Quyển sách"
+   ],
+   "Kính trong cho ánh sáng đi qua."
+  ],
+  [
+   "Không nên đọc sách nơi ánh sáng quá yếu vì:",
+   [
+    "Hại mắt, dễ cận thị",
+    "Sách bị hỏng",
+    "Đọc nhanh hơn",
+    "Không ảnh hưởng gì"
+   ],
+   "Thiếu sáng làm mắt điều tiết nhiều."
+  ],
+  [
+   "Không nên nhìn trực tiếp vào Mặt Trời vì:",
+   [
+    "Ánh sáng mạnh làm hại mắt",
+    "Mặt Trời quá xa",
+    "Mắt sẽ tốt hơn",
+    "Mặt Trời sẽ tắt"
+   ],
+   "Ánh sáng mạnh gây tổn thương mắt."
+  ],
+  [
+   "Âm thanh do đâu mà có?",
+   [
+    "Do các vật rung động",
+    "Do vật đứng yên",
+    "Do ánh sáng",
+    "Do màu sắc"
+   ],
+   "Âm thanh phát ra khi vật rung động."
+  ],
+  [
+   "Âm thanh truyền qua được môi trường nào?",
+   [
+    "Chất khí, chất lỏng, chất rắn",
+    "Chỉ chất khí",
+    "Chỉ chất rắn",
+    "Chân không"
+   ],
+   "Âm truyền qua rắn, lỏng, khí."
+  ],
+  [
+   "Âm thanh KHÔNG truyền qua được:",
+   [
+    "Chân không",
+    "Không khí",
+    "Nước",
+    "Tường gạch"
+   ],
+   "Chân không không có chất để truyền âm."
+  ],
+  [
+   "Càng ra xa nguồn âm, âm thanh nghe được:",
+   [
+    "Càng nhỏ",
+    "Càng to",
+    "Không thay đổi",
+    "Càng cao"
+   ],
+   "Âm yếu dần khi truyền xa."
+  ],
+  [
+   "Tiếng ồn có hại gì?",
+   [
+    "Gây mệt mỏi, ảnh hưởng thính giác",
+    "Giúp ngủ ngon",
+    "Tốt cho tai",
+    "Không có hại"
+   ],
+   "Tiếng ồn lớn hại tai và thần kinh."
+  ],
+  [
+   "Biện pháp giảm tiếng ồn là:",
+   [
+    "Trồng cây xanh, đóng cửa, nói nhỏ",
+    "Bật loa thật to",
+    "Bấm còi liên tục",
+    "Hò hét"
+   ],
+   "Cây xanh, vật cách âm giúp giảm ồn."
+  ],
+  [
+   "Nhạc cụ nào phát ra âm thanh nhờ dây đàn rung?",
+   [
+    "Đàn ghi-ta",
+    "Cái trống",
+    "Sáo trúc",
+    "Kèn"
+   ],
+   "Ghi-ta có dây rung."
+  ],
+  [
+   "Khi gõ trống, tiếng trống phát ra do:",
+   [
+    "Mặt trống rung động",
+    "Dùi trống đứng yên",
+    "Tang trống nóng lên",
+    "Không khí lạnh đi"
+   ],
+   "Mặt trống rung tạo âm."
+  ],
+  [
+   "Vật nóng hơn thì có nhiệt độ:",
+   [
+    "Cao hơn",
+    "Thấp hơn",
+    "Bằng nhau",
+    "Không có nhiệt độ"
+   ],
+   "Nhiệt độ chỉ độ nóng lạnh."
+  ],
+  [
+   "Dụng cụ để đo nhiệt độ là:",
+   [
+    "Nhiệt kế",
+    "Thước kẻ",
+    "Cân",
+    "Đồng hồ"
+   ],
+   "Nhiệt kế đo nhiệt độ."
+  ],
+  [
+   "Nhiệt độ cơ thể người khỏe mạnh khoảng:",
+   [
+    "37 °C",
+    "0 °C",
+    "100 °C",
+    "50 °C"
+   ],
+   "Thân nhiệt bình thường khoảng 37 °C."
+  ],
+  [
+   "Nhiệt truyền từ vật nào sang vật nào?",
+   [
+    "Từ vật nóng hơn sang vật lạnh hơn",
+    "Từ vật lạnh sang vật nóng",
+    "Không truyền",
+    "Theo mọi chiều như nhau"
+   ],
+   "Nhiệt truyền từ nóng sang lạnh."
+  ],
+  [
+   "Vật dẫn nhiệt tốt là:",
+   [
+    "Kim loại như đồng, nhôm, sắt",
+    "Gỗ",
+    "Nhựa",
+    "Vải"
+   ],
+   "Kim loại dẫn nhiệt tốt."
+  ],
+  [
+   "Vật cách nhiệt (dẫn nhiệt kém) là:",
+   [
+    "Gỗ, nhựa, bông",
+    "Đồng",
+    "Nhôm",
+    "Sắt"
+   ],
+   "Gỗ, nhựa dẫn nhiệt kém."
+  ],
+  [
+   "Tay cầm của nồi, chảo thường làm bằng nhựa hoặc gỗ vì:",
+   [
+    "Dẫn nhiệt kém, không bị bỏng tay",
+    "Rẻ tiền nhất",
+    "Nặng hơn",
+    "Dẫn nhiệt tốt"
+   ],
+   "Vật cách nhiệt giúp cầm không nóng."
+  ],
+  [
+   "Mặc áo bông vào mùa đông giúp ấm vì:",
+   [
+    "Bông giữ nhiệt, ngăn nhiệt từ cơ thể thoát ra",
+    "Bông tự sinh nhiệt",
+    "Bông dẫn nhiệt tốt",
+    "Bông làm lạnh"
+   ],
+   "Bông là vật cách nhiệt."
+  ],
+  [
+   "Nguồn nhiệt quan trọng nhất cho sự sống trên Trái Đất là:",
+   [
+    "Mặt Trời",
+    "Bếp ga",
+    "Bóng đèn",
+    "Lò sưởi"
+   ],
+   "Mặt Trời cung cấp ánh sáng và nhiệt."
+  ],
+  [
+   "Khi đun nóng, chất lỏng trong nhiệt kế:",
+   [
+    "Nở ra, dâng lên",
+    "Co lại, hạ xuống",
+    "Đông đặc",
+    "Biến mất"
+   ],
+   "Chất lỏng nở ra khi nóng."
+  ],
+  [
+   "Cây xanh cần ánh sáng để:",
+   [
+    "Quang hợp, tạo chất dinh dưỡng",
+    "Ngủ",
+    "Rụng lá",
+    "Không cần gì"
+   ],
+   "Ánh sáng cần cho quang hợp."
+  ],
+  [
+   "Khi ngồi học, nên để đèn bàn ở phía nào (với người viết tay phải)?",
+   [
+    "Phía bên trái",
+    "Phía bên phải",
+    "Phía sau lưng",
+    "Ngay trước mặt chiếu vào mắt"
+   ],
+   "Đèn bên trái để bóng tay phải không che chữ."
+  ],
+  [
+   "Âm thanh truyền trong nước, ví dụ:",
+   [
+    "Cá nghe tiếng động và bơi đi",
+    "Chim hót trên cành",
+    "Còi xe ngoài đường",
+    "Tiếng sấm"
+   ],
+   "Cá nghe được tiếng động truyền qua nước."
+  ],
+  [
+   "Dùng bình giữ nhiệt (phích) để giữ nước nóng vì:",
+   [
+    "Phích hạn chế nhiệt truyền ra ngoài",
+    "Phích tự đun nóng nước",
+    "Phích dẫn nhiệt tốt",
+    "Phích làm nước lạnh"
+   ],
+   "Phích có lớp cách nhiệt."
+  ],
+  [
+   "Bóng của một vật thay đổi khi:",
+   [
+    "Vị trí của nguồn sáng thay đổi",
+    "Màu của vật thay đổi",
+    "Vật được sơn lại",
+    "Không bao giờ thay đổi"
+   ],
+   "Nguồn sáng di chuyển thì bóng thay đổi."
+  ]
+ ],
+ "c4": [
+  [
+   "Thực vật cần những yếu tố nào để sống?",
+   [
+    "Nước, ánh sáng, không khí, chất khoáng",
+    "Chỉ cần nước",
+    "Chỉ cần đất",
+    "Bóng tối hoàn toàn"
+   ],
+   "Cây cần đủ nước, ánh sáng, không khí, chất khoáng."
+  ],
+  [
+   "Trong quá trình quang hợp, cây hấp thụ khí:",
+   [
+    "Các-bô-níc",
+    "Ô-xi",
+    "Ni-tơ",
+    "Hơi nước"
+   ],
+   "Cây lấy các-bô-níc, thải ô-xi khi quang hợp."
+  ],
+  [
+   "Trong quá trình quang hợp, cây thải ra khí:",
+   [
+    "Ô-xi",
+    "Các-bô-níc",
+    "Ni-tơ",
+    "Khói"
+   ],
+   "Quang hợp thải ô-xi."
+  ],
+  [
+   "Cây hô hấp (hút ô-xi, thải các-bô-níc) vào lúc nào?",
+   [
+    "Suốt ngày đêm",
+    "Chỉ ban ngày",
+    "Chỉ ban đêm",
+    "Chỉ mùa hè"
+   ],
+   "Hô hấp diễn ra liên tục."
+  ],
+  [
+   "Rễ cây có chức năng:",
+   [
+    "Hút nước và chất khoáng",
+    "Quang hợp",
+    "Tạo hạt",
+    "Thụ phấn"
+   ],
+   "Rễ hút nước, muối khoáng."
+  ],
+  [
+   "Lá cây có chức năng chính:",
+   [
+    "Quang hợp tạo chất dinh dưỡng",
+    "Hút nước từ đất",
+    "Giữ cây đứng vững",
+    "Tạo hạt"
+   ],
+   "Lá chứa diệp lục để quang hợp."
+  ],
+  [
+   "Cây thiếu ánh sáng lâu ngày sẽ:",
+   [
+    "Yếu ớt, lá vàng úa",
+    "Xanh tốt hơn",
+    "Ra nhiều quả",
+    "Không thay đổi"
+   ],
+   "Thiếu sáng cây không quang hợp được."
+  ],
+  [
+   "Động vật cần gì để sống?",
+   [
+    "Thức ăn, nước, không khí, ánh sáng",
+    "Chỉ cần nước",
+    "Chỉ cần ánh sáng",
+    "Không cần gì"
+   ],
+   "Động vật cần thức ăn, nước, không khí."
+  ],
+  [
+   "Động vật ăn thực vật là:",
+   [
+    "Con trâu, con thỏ",
+    "Con hổ, con sư tử",
+    "Con mèo",
+    "Con đại bàng"
+   ],
+   "Trâu, thỏ ăn cỏ."
+  ],
+  [
+   "Động vật ăn thịt là:",
+   [
+    "Con hổ",
+    "Con bò",
+    "Con dê",
+    "Con thỏ"
+   ],
+   "Hổ săn mồi."
+  ],
+  [
+   "Động vật ăn tạp (ăn cả thực vật và động vật) là:",
+   [
+    "Con lợn, con gà",
+    "Con hổ",
+    "Con trâu",
+    "Con hươu"
+   ],
+   "Lợn, gà ăn cả cám, rau và sâu bọ."
+  ],
+  [
+   "Chuỗi thức ăn đúng là:",
+   [
+    "Cỏ → thỏ → cáo",
+    "Cáo → cỏ → thỏ",
+    "Thỏ → cỏ → cáo",
+    "Cỏ → cáo → thỏ"
+   ],
+   "Thực vật là thức ăn của thỏ, thỏ là thức ăn của cáo."
+  ],
+  [
+   "Trong chuỗi thức ăn, mắt xích đầu tiên thường là:",
+   [
+    "Thực vật",
+    "Động vật ăn thịt",
+    "Con người",
+    "Nấm"
+   ],
+   "Thực vật tự tạo chất dinh dưỡng."
+  ],
+  [
+   "Cây trồng trong chậu đặt trong phòng tối lâu ngày sẽ:",
+   [
+    "Yếu dần và có thể chết",
+    "Lớn nhanh hơn",
+    "Ra hoa nhiều",
+    "Xanh hơn"
+   ],
+   "Thiếu ánh sáng."
+  ],
+  [
+   "Muốn cây lớn tốt cần:",
+   [
+    "Tưới nước, bón phân hợp lí, đủ ánh sáng",
+    "Tưới thật nhiều nước mỗi giờ",
+    "Để trong tủ",
+    "Không chăm sóc"
+   ],
+   "Chăm sóc đủ nhu cầu của cây."
+  ],
+  [
+   "Phân bón cung cấp cho cây:",
+   [
+    "Chất khoáng",
+    "Ánh sáng",
+    "Không khí",
+    "Nhiệt độ"
+   ],
+   "Phân bón bổ sung chất khoáng."
+  ],
+  [
+   "Động vật hấp thụ khí gì khi hô hấp?",
+   [
+    "Ô-xi",
+    "Các-bô-níc",
+    "Ni-tơ",
+    "Khói"
+   ],
+   "Động vật hít ô-xi."
+  ],
+  [
+   "Nuôi gà, cần cho gà ăn uống đủ và:",
+   [
+    "Chuồng trại sạch sẽ, thoáng mát",
+    "Nhốt trong hộp kín",
+    "Không cho uống nước",
+    "Để ngoài mưa"
+   ],
+   "Vật nuôi cần môi trường sạch."
+  ],
+  [
+   "Hạt nảy mầm cần:",
+   [
+    "Nước, không khí, nhiệt độ thích hợp",
+    "Chỉ cần ánh sáng mạnh",
+    "Tủ lạnh",
+    "Đất khô cằn"
+   ],
+   "Hạt cần ẩm, không khí và ấm."
+  ],
+  [
+   "Cây lúa cần nhiều nước nhất vào giai đoạn:",
+   [
+    "Làm đòng, trổ bông",
+    "Khi đã gặt",
+    "Khi phơi thóc",
+    "Khi xay gạo"
+   ],
+   "Giai đoạn làm đòng cần nhiều nước."
+  ],
+  [
+   "Cây xương rồng cần ít nước vì:",
+   [
+    "Thân dự trữ nước, lá biến thành gai",
+    "Không cần sống",
+    "Rễ rất ngắn",
+    "Ở dưới nước"
+   ],
+   "Thích nghi môi trường khô."
+  ],
+  [
+   "Sâu ăn lá trong chuỗi thức ăn là thức ăn của:",
+   [
+    "Chim sâu",
+    "Cây lúa",
+    "Con trâu",
+    "Mặt Trời"
+   ],
+   "Chim sâu ăn sâu."
+  ],
+  [
+   "Ếch ăn gì?",
+   [
+    "Côn trùng, sâu bọ",
+    "Cỏ",
+    "Lúa",
+    "Rơm"
+   ],
+   "Ếch bắt côn trùng."
+  ],
+  [
+   "Khi một mắt xích trong chuỗi thức ăn bị mất thì:",
+   [
+    "Các sinh vật khác cũng bị ảnh hưởng",
+    "Không ảnh hưởng gì",
+    "Tất cả phát triển tốt hơn",
+    "Chỉ con người bị ảnh hưởng"
+   ],
+   "Các loài liên quan với nhau qua thức ăn."
+  ],
+  [
+   "Lá cây có màu xanh nhờ:",
+   [
+    "Chất diệp lục",
+    "Nước",
+    "Muối khoáng",
+    "Ánh trăng"
+   ],
+   "Diệp lục màu xanh."
+  ],
+  [
+   "Bò, trâu ăn cỏ nên răng của chúng thích hợp để:",
+   [
+    "Nghiền, nhai cỏ",
+    "Xé thịt",
+    "Mổ hạt",
+    "Hút mật"
+   ],
+   "Răng hàm to để nghiền cỏ."
+  ],
+  [
+   "Hổ có răng nanh sắc nhọn để:",
+   [
+    "Xé thịt con mồi",
+    "Nghiền cỏ",
+    "Hút nước",
+    "Đào đất"
+   ],
+   "Thích nghi với ăn thịt."
+  ],
+  [
+   "Trao đổi chất ở thực vật là:",
+   [
+    "Lấy nước, khoáng, khí từ môi trường và thải ra chất thải",
+    "Không trao đổi gì",
+    "Chỉ lấy nước",
+    "Chỉ thải khí"
+   ],
+   "Cây lấy và thải các chất với môi trường."
+  ],
+  [
+   "Thức ăn của gà con mới nở thường là:",
+   [
+    "Tấm, cám nhỏ, côn trùng nhỏ",
+    "Thịt sống",
+    "Cỏ khô",
+    "Rơm"
+   ],
+   "Gà con ăn thức ăn nhỏ, mềm."
+  ],
+  [
+   "Ánh sáng giúp động vật:",
+   [
+    "Nhìn thấy, kiếm ăn, tìm đường",
+    "Ngủ đông",
+    "Không có ích",
+    "Mất phương hướng"
+   ],
+   "Nhiều loài cần ánh sáng để hoạt động."
+  ]
+ ],
+ "c5": [
+  [
+   "Nấm có phải là thực vật không?",
+   [
+    "Không, nấm là một nhóm sinh vật riêng",
+    "Có, nấm là thực vật",
+    "Nấm là động vật",
+    "Nấm là vi khuẩn"
+   ],
+   "Nấm không có diệp lục, không tự quang hợp, là nhóm sinh vật riêng."
+  ],
+  [
+   "Nấm sống được nhờ:",
+   [
+    "Lấy chất dinh dưỡng từ môi trường (xác sinh vật, đất mục...)",
+    "Quang hợp như cây xanh",
+    "Ăn côn trùng",
+    "Hút ánh sáng"
+   ],
+   "Nấm không có diệp lục nên lấy chất hữu cơ từ môi trường."
+  ],
+  [
+   "Loại nấm nào ăn được?",
+   [
+    "Nấm rơm, nấm hương, nấm kim châm",
+    "Nấm độc đỏ có đốm trắng",
+    "Nấm mốc trên bánh mì",
+    "Nấm lạ mọc trong rừng"
+   ],
+   "Nấm rơm, nấm hương là nấm ăn."
+  ],
+  [
+   "Không nên ăn nấm lạ mọc hoang vì:",
+   [
+    "Có thể là nấm độc gây ngộ độc",
+    "Nấm lạ không ngon",
+    "Nấm lạ quá to",
+    "Nấm lạ rất đắt"
+   ],
+   "Nhiều nấm độc khó phân biệt, có thể gây chết người."
+  ],
+  [
+   "Nấm men được dùng để:",
+   [
+    "Làm bánh mì, lên men",
+    "Làm thuốc trừ sâu",
+    "Nhuộm vải",
+    "Làm phân bón hóa học"
+   ],
+   "Nấm men giúp bột nở."
+  ],
+  [
+   "Thức ăn bị mốc là do:",
+   [
+    "Nấm mốc phát triển",
+    "Có quá nhiều muối",
+    "Được bảo quản lạnh",
+    "Được phơi khô"
+   ],
+   "Nấm mốc mọc trên thức ăn ẩm."
+  ],
+  [
+   "Thức ăn đã bị mốc thì:",
+   [
+    "Không nên ăn, cần bỏ đi",
+    "Cắt bỏ phần mốc rồi ăn",
+    "Đun lên rồi ăn",
+    "Cho thêm gia vị rồi ăn"
+   ],
+   "Nấm mốc có thể sinh chất độc."
+  ],
+  [
+   "Nấm mốc phát triển mạnh ở nơi:",
+   [
+    "Ẩm ướt, ấm",
+    "Khô ráo, lạnh",
+    "Trong tủ đông",
+    "Ngoài nắng gắt"
+   ],
+   "Độ ẩm cao giúp nấm mốc phát triển."
+  ],
+  [
+   "Cách bảo quản thức ăn để tránh nấm mốc:",
+   [
+    "Phơi khô, để lạnh, đóng gói kín",
+    "Để nơi ẩm ướt",
+    "Để hở ngoài không khí lâu ngày",
+    "Ngâm trong nước"
+   ],
+   "Giữ khô, lạnh, kín."
+  ],
+  [
+   "Nấm giúp ích gì cho môi trường?",
+   [
+    "Phân hủy xác sinh vật thành chất khoáng cho đất",
+    "Làm ô nhiễm đất",
+    "Làm cây chết hết",
+    "Không có ích"
+   ],
+   "Nấm là sinh vật phân hủy."
+  ],
+  [
+   "Nấm rơm thường được trồng trên:",
+   [
+    "Rơm rạ",
+    "Đá",
+    "Kính",
+    "Kim loại"
+   ],
+   "Nấm rơm mọc trên rơm."
+  ],
+  [
+   "Bộ phận của cây nấm rơm gồm:",
+   [
+    "Mũ nấm, thân nấm (cuống), chân nấm",
+    "Lá, hoa, quả",
+    "Rễ, thân, lá",
+    "Cánh, chân, đầu"
+   ],
+   "Nấm có mũ, cuống và chân."
+  ],
+  [
+   "Phương pháp làm mứt, phơi khô giúp bảo quản thức ăn vì:",
+   [
+    "Làm giảm nước, hạn chế nấm và vi khuẩn phát triển",
+    "Làm tăng nước",
+    "Làm thức ăn có màu đẹp",
+    "Làm thức ăn nặng hơn"
+   ],
+   "Ít nước thì nấm khó phát triển."
+  ],
+  [
+   "Ăn phải nấm độc có thể có biểu hiện:",
+   [
+    "Đau bụng, nôn, chóng mặt",
+    "Khỏe hơn",
+    "Cao lên",
+    "Mắt sáng hơn"
+   ],
+   "Ngộ độc nấm gây nôn, đau bụng, có thể nguy hiểm."
+  ],
+  [
+   "Nấm men biến đổi đường thành:",
+   [
+    "Rượu và khí các-bô-níc",
+    "Muối",
+    "Nước tinh khiết",
+    "Đá"
+   ],
+   "Lên men tạo khí làm bột nở."
+  ],
+  [
+   "Khi làm bánh mì, bột nở to ra là nhờ:",
+   [
+    "Khí do nấm men tạo ra",
+    "Nước đá",
+    "Muối",
+    "Dầu ăn"
+   ],
+   "Khí các-bô-níc làm bột nở."
+  ],
+  [
+   "Đặc điểm nào đúng với nấm?",
+   [
+    "Không có màu xanh diệp lục",
+    "Có lá xanh",
+    "Có hoa và quả",
+    "Tự quang hợp"
+   ],
+   "Nấm không có diệp lục."
+  ],
+  [
+   "Bánh mì để lâu nơi ẩm thấy có đốm xanh, đen là:",
+   [
+    "Nấm mốc",
+    "Muối",
+    "Đường",
+    "Vi-ta-min"
+   ],
+   "Đốm mốc là nấm mốc."
+  ],
+  [
+   "Nấm hương thường được dùng:",
+   [
+    "Làm thực phẩm, nấu canh, xào",
+    "Làm thuốc nhuộm",
+    "Làm nhiên liệu",
+    "Làm đồ chơi"
+   ],
+   "Nấm hương là thực phẩm."
+  ],
+  [
+   "Để phòng ngộ độc nấm, em nên:",
+   [
+    "Chỉ ăn nấm mua ở nơi tin cậy, đã biết rõ",
+    "Hái nấm lạ trong rừng",
+    "Ăn thử nấm có màu sặc sỡ",
+    "Ăn nấm mọc trên gỗ mục"
+   ],
+   "Không ăn nấm lạ."
+  ],
+  [
+   "Sữa chua được làm nhờ:",
+   [
+    "Vi khuẩn lên men có lợi",
+    "Nấm độc",
+    "Nấm mốc",
+    "Nước muối"
+   ],
+   "Sữa chua lên men nhờ vi khuẩn có lợi."
+  ],
+  [
+   "Đồ ăn đóng hộp có ghi hạn sử dụng để:",
+   [
+    "Biết thời gian dùng an toàn",
+    "Trang trí",
+    "Ghi tên người bán",
+    "Không có ý nghĩa"
+   ],
+   "Quá hạn thức ăn có thể hỏng."
+  ],
+  [
+   "Nơi nào thích hợp để bảo quản rau quả tươi lâu hơn?",
+   [
+    "Ngăn mát tủ lạnh",
+    "Ngoài nắng",
+    "Trong túi kín để nơi nóng",
+    "Trên bếp"
+   ],
+   "Nhiệt độ thấp làm chậm nấm và vi khuẩn."
+  ],
+  [
+   "Ướp muối cá, thịt giúp bảo quản vì:",
+   [
+    "Muối làm vi sinh vật khó phát triển",
+    "Muối làm cá ngon hơn khi hỏng",
+    "Muối làm cá to ra",
+    "Muối làm cá có màu đẹp"
+   ],
+   "Muối rút nước, hạn chế vi sinh vật."
+  ],
+  [
+   "Nấm có hình dạng:",
+   [
+    "Rất đa dạng: hình ô, hình tai, hình sợi...",
+    "Chỉ hình tròn",
+    "Chỉ hình vuông",
+    "Giống lá cây"
+   ],
+   "Nấm có nhiều hình dạng."
+  ],
+  [
+   "Mộc nhĩ (nấm mèo) có hình dạng giống:",
+   [
+    "Cái tai",
+    "Cái ô",
+    "Cái chén",
+    "Sợi chỉ"
+   ],
+   "Mộc nhĩ trông như tai."
+  ],
+  [
+   "Nấm sinh sản chủ yếu bằng:",
+   [
+    "Bào tử",
+    "Hạt",
+    "Củ",
+    "Hoa"
+   ],
+   "Nấm phát tán bằng bào tử."
+  ],
+  [
+   "Nấm độc thường có đặc điểm:",
+   [
+    "Khó nhận biết, có loại màu sặc sỡ, có loại trông giống nấm ăn",
+    "Luôn màu trắng",
+    "Luôn rất nhỏ",
+    "Không bao giờ giống nấm ăn"
+   ],
+   "Không thể dựa vào vẻ ngoài để chắc chắn an toàn."
+  ],
+  [
+   "Hành động đúng khi thấy bánh kẹo bị mốc:",
+   [
+    "Bỏ đi và rửa tay",
+    "Ăn phần còn lại",
+    "Cho em nhỏ ăn",
+    "Cất lại vào tủ"
+   ],
+   "Đồ mốc phải bỏ."
+  ],
+  [
+   "Vì sao nấm cần được nuôi trồng ở nơi ẩm và tối?",
+   [
+    "Nấm phát triển tốt ở nơi ẩm, không cần ánh sáng để quang hợp",
+    "Nấm sợ nước",
+    "Nấm cần nắng gắt",
+    "Nấm sống trong băng"
+   ],
+   "Nấm không quang hợp, ưa ẩm."
+  ]
+ ],
+ "c6": [
+  [
+   "Các nhóm chất dinh dưỡng chính gồm:",
+   [
+    "Chất bột đường, chất đạm, chất béo, vi-ta-min và chất khoáng",
+    "Chỉ chất đạm",
+    "Chỉ chất béo",
+    "Chỉ nước"
+   ],
+   "Cơ thể cần đủ các nhóm chất."
+  ],
+  [
+   "Thức ăn chứa nhiều chất bột đường:",
+   [
+    "Cơm, bánh mì, khoai",
+    "Thịt, cá",
+    "Dầu ăn, mỡ",
+    "Rau xanh"
+   ],
+   "Gạo, khoai, bánh mì giàu tinh bột."
+  ],
+  [
+   "Thức ăn chứa nhiều chất đạm:",
+   [
+    "Thịt, cá, trứng, đậu",
+    "Cơm, ngô",
+    "Dầu ăn",
+    "Kẹo"
+   ],
+   "Đạm có nhiều trong thịt, cá, trứng, đậu."
+  ],
+  [
+   "Thức ăn chứa nhiều chất béo:",
+   [
+    "Dầu ăn, mỡ, lạc, vừng",
+    "Rau cải",
+    "Cơm",
+    "Nước lọc"
+   ],
+   "Chất béo có trong dầu, mỡ, các hạt có dầu."
+  ],
+  [
+   "Thức ăn chứa nhiều vi-ta-min và chất khoáng:",
+   [
+    "Rau xanh, quả chín",
+    "Mỡ",
+    "Đường",
+    "Bánh kẹo"
+   ],
+   "Rau quả giàu vi-ta-min."
+  ],
+  [
+   "Chất đạm giúp cơ thể:",
+   [
+    "Xây dựng và đổi mới cơ thể, lớn lên",
+    "Chỉ cung cấp nước",
+    "Gây béo phì",
+    "Không có tác dụng"
+   ],
+   "Đạm giúp xây dựng cơ thể."
+  ],
+  [
+   "Chất bột đường chủ yếu giúp:",
+   [
+    "Cung cấp năng lượng cho mọi hoạt động",
+    "Làm xương chắc",
+    "Chống táo bón",
+    "Làm tóc dài"
+   ],
+   "Tinh bột cung cấp năng lượng."
+  ],
+  [
+   "Vì sao cần ăn phối hợp nhiều loại thức ăn?",
+   [
+    "Để có đủ các chất dinh dưỡng",
+    "Để ăn được nhiều hơn",
+    "Để món ăn đẹp",
+    "Không cần thiết"
+   ],
+   "Không loại thức ăn nào có đủ mọi chất."
+  ],
+  [
+   "Tháp dinh dưỡng khuyên nên ăn ít nhất:",
+   [
+    "Muối, đường",
+    "Rau, quả",
+    "Ngũ cốc",
+    "Nước"
+   ],
+   "Đỉnh tháp là muối, đường: ăn hạn chế."
+  ],
+  [
+   "Ăn quá mặn lâu ngày có thể gây:",
+   [
+    "Bệnh huyết áp cao",
+    "Cận thị",
+    "Gãy xương",
+    "Mọc răng"
+   ],
+   "Ăn mặn hại tim mạch."
+  ],
+  [
+   "Bệnh béo phì có thể do:",
+   [
+    "Ăn quá nhiều đồ ngọt, béo, ít vận động",
+    "Ăn nhiều rau",
+    "Tập thể dục đều",
+    "Ngủ đủ giấc"
+   ],
+   "Dư năng lượng, ít vận động gây béo phì."
+  ],
+  [
+   "Thiếu i-ốt có thể gây bệnh:",
+   [
+    "Bướu cổ",
+    "Sâu răng",
+    "Cận thị",
+    "Cảm cúm"
+   ],
+   "Dùng muối i-ốt phòng bướu cổ."
+  ],
+  [
+   "Thiếu vi-ta-min A có thể gây:",
+   [
+    "Bệnh về mắt (quáng gà)",
+    "Gãy xương",
+    "Béo phì",
+    "Sâu răng"
+   ],
+   "Vi-ta-min A tốt cho mắt."
+  ],
+  [
+   "Thiếu can-xi (canxi) lâu ngày có thể làm:",
+   [
+    "Xương yếu, còi xương",
+    "Mắt kém",
+    "Tóc rụng",
+    "Da sạm"
+   ],
+   "Can-xi giúp xương chắc khỏe."
+  ],
+  [
+   "Thực phẩm an toàn là thực phẩm:",
+   [
+    "Tươi, sạch, có nguồn gốc rõ ràng, còn hạn dùng",
+    "Ôi thiu",
+    "Có màu lạ",
+    "Hết hạn sử dụng"
+   ],
+   "Chọn thực phẩm an toàn."
+  ],
+  [
+   "Rửa rau quả trước khi ăn để:",
+   [
+    "Loại bỏ đất cát, vi khuẩn, thuốc trừ sâu",
+    "Làm rau ngọt hơn",
+    "Làm rau to hơn",
+    "Không cần thiết"
+   ],
+   "Rửa sạch giữ an toàn."
+  ],
+  [
+   "Khi đi bơi, để phòng đuối nước em cần:",
+   [
+    "Bơi ở nơi an toàn, có người lớn giám sát",
+    "Bơi một mình ở sông sâu",
+    "Bơi ngay sau khi ăn no",
+    "Nhảy xuống chỗ nước xoáy"
+   ],
+   "Phòng tránh đuối nước."
+  ],
+  [
+   "Trước khi xuống bơi, cần:",
+   [
+    "Khởi động kĩ",
+    "Ăn thật no",
+    "Uống nước đá",
+    "Chạy thật nhanh xuống nước"
+   ],
+   "Khởi động tránh chuột rút."
+  ],
+  [
+   "Khi thấy bạn bị đuối nước, em nên:",
+   [
+    "Gọi người lớn, ném phao hoặc vật nổi",
+    "Nhảy xuống cứu dù không biết bơi",
+    "Bỏ chạy",
+    "Đứng nhìn"
+   ],
+   "Không tự nhảy xuống khi không biết cứu đuối."
+  ],
+  [
+   "Bữa ăn hằng ngày nên có:",
+   [
+    "Đủ cơm, thức ăn giàu đạm, rau xanh, quả",
+    "Chỉ có cơm và muối",
+    "Chỉ ăn bánh kẹo",
+    "Chỉ ăn thịt"
+   ],
+   "Bữa ăn cân đối."
+  ],
+  [
+   "Uống nước ngọt có ga nhiều có hại vì:",
+   [
+    "Nhiều đường, dễ béo phì, sâu răng",
+    "Có nhiều vi-ta-min",
+    "Giúp xương chắc",
+    "Không có hại"
+   ],
+   "Hạn chế đồ uống nhiều đường."
+  ],
+  [
+   "Chất xơ có nhiều trong:",
+   [
+    "Rau, củ, quả",
+    "Thịt mỡ",
+    "Dầu ăn",
+    "Đường"
+   ],
+   "Chất xơ giúp tiêu hóa tốt."
+  ],
+  [
+   "Nên ăn chất béo có nguồn gốc:",
+   [
+    "Phối hợp cả động vật và thực vật",
+    "Chỉ mỡ động vật",
+    "Không ăn chất béo",
+    "Chỉ ăn đồ chiên rán"
+   ],
+   "Kết hợp dầu thực vật và mỡ động vật hợp lí."
+  ],
+  [
+   "Muốn phòng bệnh lây qua đường tiêu hóa cần:",
+   [
+    "Ăn chín, uống sôi, rửa tay trước khi ăn",
+    "Ăn rau sống chưa rửa",
+    "Uống nước lã",
+    "Ăn đồ để qua đêm"
+   ],
+   "Giữ vệ sinh ăn uống."
+  ],
+  [
+   "Khi bị tiêu chảy, cần:",
+   [
+    "Uống đủ nước (dung dịch bù nước), đến cơ sở y tế",
+    "Nhịn ăn uống hoàn toàn",
+    "Ăn nhiều đồ cay",
+    "Uống nước có ga"
+   ],
+   "Bù nước, điện giải và đi khám."
+  ],
+  [
+   "Ngủ đủ giấc mỗi ngày giúp:",
+   [
+    "Cơ thể phục hồi, phát triển tốt",
+    "Mệt mỏi hơn",
+    "Học kém đi",
+    "Béo phì"
+   ],
+   "Trẻ em cần ngủ đủ 9–10 giờ."
+  ],
+  [
+   "Ăn sáng đầy đủ giúp:",
+   [
+    "Có năng lượng cho học tập buổi sáng",
+    "Buồn ngủ",
+    "Đau bụng",
+    "Không có tác dụng"
+   ],
+   "Bữa sáng rất quan trọng."
+  ],
+  [
+   "Đồ ăn chiên rán nhiều dầu mỡ nên:",
+   [
+    "Ăn hạn chế",
+    "Ăn mỗi bữa",
+    "Ăn thay cơm",
+    "Ăn càng nhiều càng tốt"
+   ],
+   "Nhiều dầu mỡ hại sức khỏe."
+  ],
+  [
+   "Cách chọn cá tươi:",
+   [
+    "Mắt trong, mang đỏ, thân chắc",
+    "Mắt đục, mang thâm",
+    "Có mùi hôi",
+    "Thân mềm nhũn"
+   ],
+   "Cá tươi có mắt trong, mang đỏ."
+  ],
+  [
+   "Dấu hiệu thức ăn bị hỏng:",
+   [
+    "Có mùi lạ, đổi màu, có mốc",
+    "Thơm ngon",
+    "Còn nóng",
+    "Mới nấu xong"
+   ],
+   "Mùi lạ, mốc là dấu hiệu hỏng."
+  ]
+ ],
+ "c7": [
+  [
+   "Môi trường sống của sinh vật gồm:",
+   [
+    "Đất, nước, không khí, ánh sáng và các sinh vật khác",
+    "Chỉ có nước",
+    "Chỉ có đất",
+    "Chỉ có con người"
+   ],
+   "Sinh vật sống nhờ các yếu tố môi trường."
+  ],
+  [
+   "Sinh vật sản xuất trong chuỗi thức ăn là:",
+   [
+    "Thực vật",
+    "Động vật ăn thịt",
+    "Nấm",
+    "Con người"
+   ],
+   "Thực vật tự tạo chất dinh dưỡng."
+  ],
+  [
+   "Sinh vật phân hủy (như nấm, vi khuẩn) có vai trò:",
+   [
+    "Phân hủy xác sinh vật thành chất khoáng",
+    "Ăn thịt động vật khác",
+    "Quang hợp",
+    "Không có vai trò"
+   ],
+   "Trả lại chất khoáng cho đất."
+  ],
+  [
+   "Chuỗi thức ăn nào đúng?",
+   [
+    "Lúa → chuột → rắn → đại bàng",
+    "Rắn → lúa → chuột → đại bàng",
+    "Đại bàng → rắn → chuột → lúa",
+    "Chuột → lúa → rắn → đại bàng"
+   ],
+   "Mũi tên chỉ: bị ăn → sinh vật ăn nó."
+  ],
+  [
+   "Nếu rắn bị bắt hết, số lượng chuột sẽ:",
+   [
+    "Tăng lên, phá hoại mùa màng",
+    "Giảm đi",
+    "Không đổi",
+    "Biến mất"
+   ],
+   "Mất thiên địch thì chuột tăng."
+  ],
+  [
+   "Phá rừng gây hậu quả:",
+   [
+    "Lũ lụt, sạt lở, mất nơi sống của động vật",
+    "Không khí trong lành hơn",
+    "Nhiều động vật hơn",
+    "Đất màu mỡ hơn"
+   ],
+   "Rừng giữ đất, giữ nước."
+  ],
+  [
+   "Để bảo vệ môi trường, em có thể:",
+   [
+    "Phân loại rác, tiết kiệm điện nước, trồng cây",
+    "Vứt rác bừa bãi",
+    "Chặt cây",
+    "Đốt rác nhựa"
+   ],
+   "Những việc nhỏ có ích."
+  ],
+  [
+   "Rác thải nhựa gây hại vì:",
+   [
+    "Rất lâu phân hủy, gây ô nhiễm đất và nước",
+    "Tan nhanh trong nước",
+    "Làm đất tốt hơn",
+    "Động vật ăn được"
+   ],
+   "Nhựa tồn tại hàng trăm năm."
+  ],
+  [
+   "Rác hữu cơ (vỏ rau, quả) có thể:",
+   [
+    "Ủ làm phân bón",
+    "Đốt lấy khói",
+    "Vứt xuống sông",
+    "Chôn cùng pin"
+   ],
+   "Rác hữu cơ ủ thành phân compost."
+  ],
+  [
+   "Pin, ắc quy cũ cần:",
+   [
+    "Thu gom riêng vì chứa chất độc hại",
+    "Vứt chung với rác hữu cơ",
+    "Đốt đi",
+    "Chôn ở vườn rau"
+   ],
+   "Pin chứa kim loại nặng độc hại."
+  ],
+  [
+   "Cây xanh có vai trò gì với môi trường?",
+   [
+    "Hấp thụ khí các-bô-níc, thải ô-xi, giữ đất",
+    "Làm nóng Trái Đất",
+    "Gây ô nhiễm",
+    "Không có vai trò"
+   ],
+   "Cây là lá phổi xanh."
+  ],
+  [
+   "Động vật hoang dã quý hiếm cần được:",
+   [
+    "Bảo vệ, không săn bắt, mua bán",
+    "Săn bắt làm thức ăn",
+    "Nhốt làm cảnh",
+    "Bán ra nước ngoài"
+   ],
+   "Bảo tồn đa dạng sinh học."
+  ],
+  [
+   "Ô nhiễm nguồn nước ảnh hưởng đến:",
+   [
+    "Sức khỏe con người và sinh vật dưới nước",
+    "Không ảnh hưởng gì",
+    "Chỉ ảnh hưởng chim",
+    "Chỉ ảnh hưởng cây trên núi"
+   ],
+   "Nước bẩn gây bệnh, cá chết."
+  ],
+  [
+   "Sử dụng túi vải thay túi nilon giúp:",
+   [
+    "Giảm rác thải nhựa",
+    "Tăng rác thải",
+    "Tốn nước hơn",
+    "Không có tác dụng"
+   ],
+   "Túi vải dùng nhiều lần."
+  ],
+  [
+   "Tắt điện khi ra khỏi phòng giúp:",
+   [
+    "Tiết kiệm năng lượng, bảo vệ môi trường",
+    "Tốn điện hơn",
+    "Làm hỏng đèn",
+    "Không có tác dụng"
+   ],
+   "Tiết kiệm điện giảm khí thải."
+  ],
+  [
+   "Trong ao, cá ăn rong rêu; cò ăn cá. Chuỗi thức ăn là:",
+   [
+    "Rong rêu → cá → cò",
+    "Cò → cá → rong rêu",
+    "Cá → rong rêu → cò",
+    "Rong rêu → cò → cá"
+   ],
+   "Sinh vật bị ăn đứng trước."
+  ],
+  [
+   "Sinh vật nào là động vật ăn thịt trong chuỗi: cỏ → châu chấu → ếch → rắn?",
+   [
+    "Ếch và rắn",
+    "Cỏ",
+    "Châu chấu",
+    "Chỉ có cỏ và châu chấu"
+   ],
+   "Ếch ăn châu chấu, rắn ăn ếch."
+  ],
+  [
+   "Ánh sáng Mặt Trời có vai trò gì với sinh vật?",
+   [
+    "Cung cấp năng lượng cho cây quang hợp và sưởi ấm",
+    "Không có vai trò",
+    "Chỉ làm khô đất",
+    "Chỉ chiếu sáng ban đêm"
+   ],
+   "Năng lượng của hầu hết chuỗi thức ăn bắt nguồn từ Mặt Trời."
+  ],
+  [
+   "Hiện tượng nóng lên toàn cầu có nguyên nhân chính do:",
+   [
+    "Lượng khí thải (như các-bô-níc) tăng lên",
+    "Trồng nhiều cây",
+    "Mưa nhiều",
+    "Gió mạnh"
+   ],
+   "Khí thải nhà kính làm Trái Đất nóng lên."
+  ],
+  [
+   "Đi xe đạp hoặc đi bộ thay đi xe máy khi gần giúp:",
+   [
+    "Giảm khí thải, rèn sức khỏe",
+    "Tăng ô nhiễm",
+    "Tốn xăng hơn",
+    "Không có tác dụng"
+   ],
+   "Phương tiện xanh bảo vệ môi trường."
+  ],
+  [
+   "Ngày Môi trường Thế giới là:",
+   [
+    "5 tháng 6",
+    "1 tháng 6",
+    "22 tháng 12",
+    "8 tháng 3"
+   ],
+   "Ngày 5/6 hằng năm."
+  ],
+  [
+   "Dùng thuốc trừ sâu quá nhiều có hại vì:",
+   [
+    "Gây ô nhiễm đất, nước và hại sức khỏe",
+    "Làm cây khỏe hơn",
+    "Làm rau sạch hơn",
+    "Không có hại"
+   ],
+   "Hóa chất tồn dư gây hại."
+  ],
+  [
+   "Thả cá vào ruộng lúa có thể giúp:",
+   [
+    "Cá ăn sâu bọ, phân cá bón ruộng",
+    "Lúa chết",
+    "Đất khô cằn",
+    "Không có lợi"
+   ],
+   "Mô hình lúa – cá có lợi."
+  ],
+  [
+   "Giun đất có ích cho đất trồng vì:",
+   [
+    "Làm tơi xốp đất, tăng độ màu mỡ",
+    "Làm đất cứng",
+    "Ăn rễ cây",
+    "Làm ô nhiễm đất"
+   ],
+   "Giun đất cày xới đất."
+  ],
+  [
+   "Lá rụng ở rừng phân hủy nhờ:",
+   [
+    "Nấm và vi khuẩn",
+    "Ánh trăng",
+    "Gió",
+    "Đá"
+   ],
+   "Sinh vật phân hủy chuyển xác lá thành mùn."
+  ],
+  [
+   "Vứt rác đúng nơi quy định giúp:",
+   [
+    "Giữ môi trường sạch, phòng bệnh",
+    "Ruồi muỗi phát triển",
+    "Đường phố bẩn hơn",
+    "Không có tác dụng"
+   ],
+   "Hạn chế ô nhiễm."
+  ],
+  [
+   "Hành động nào gây hại cho sinh vật dưới nước?",
+   [
+    "Đổ dầu thải, hóa chất xuống sông",
+    "Thả cá giống",
+    "Nhặt rác bên bờ sông",
+    "Trồng cây ven sông"
+   ],
+   "Dầu và hóa chất làm cá chết."
+  ],
+  [
+   "Sinh vật nào sau đây tự tạo được chất dinh dưỡng?",
+   [
+    "Cây ngô",
+    "Con bò",
+    "Nấm rơm",
+    "Con hổ"
+   ],
+   "Cây xanh quang hợp tự tạo chất."
+  ],
+  [
+   "Khi một loài trong chuỗi thức ăn tăng quá nhiều, có thể:",
+   [
+    "Làm mất cân bằng tự nhiên",
+    "Mọi loài đều có lợi",
+    "Không có ảnh hưởng",
+    "Các loài khác tự biến mất ngay"
+   ],
+   "Cân bằng sinh thái bị phá vỡ."
+  ],
+  [
+   "Phân loại rác tại nhà gồm các nhóm:",
+   [
+    "Rác hữu cơ, rác tái chế, rác còn lại",
+    "Chỉ một thùng chung",
+    "Rác to và rác nhỏ",
+    "Rác màu và rác trắng"
+   ],
+   "Phân loại để tái chế và xử lí đúng."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Nước chuyển từ thể khí sang thể lỏng gọi là:",
+   [
+    "Ngưng tụ",
+    "Bay hơi",
+    "Nóng chảy",
+    "Đông đặc"
+   ],
+   "Khí → lỏng: ngưng tụ."
+  ],
+  [
+   "Khí nào cần cho sự cháy?",
+   [
+    "Ô-xi",
+    "Ni-tơ",
+    "Các-bô-níc",
+    "Hơi nước"
+   ],
+   "Ô-xi duy trì sự cháy."
+  ],
+  [
+   "Âm thanh không truyền qua được:",
+   [
+    "Chân không",
+    "Nước",
+    "Sắt",
+    "Không khí"
+   ],
+   "Chân không không truyền âm."
+  ],
+  [
+   "Vật dẫn nhiệt tốt là:",
+   [
+    "Đồng",
+    "Gỗ",
+    "Nhựa",
+    "Bông"
+   ],
+   "Kim loại dẫn nhiệt tốt."
+  ],
+  [
+   "Chuỗi thức ăn đúng:",
+   [
+    "Cỏ → dê → hổ",
+    "Hổ → cỏ → dê",
+    "Dê → hổ → cỏ",
+    "Cỏ → hổ → dê"
+   ],
+   "Thực vật → động vật ăn cỏ → động vật ăn thịt."
+  ],
+  [
+   "Nấm men dùng để:",
+   [
+    "Làm bánh mì",
+    "Làm muối",
+    "Lọc nước",
+    "Làm phân hóa học"
+   ],
+   "Nấm men làm bột nở."
+  ],
+  [
+   "Thực phẩm giàu chất đạm:",
+   [
+    "Trứng",
+    "Gạo",
+    "Dầu ăn",
+    "Đường"
+   ],
+   "Trứng giàu đạm."
+  ],
+  [
+   "Thiếu i-ốt gây bệnh:",
+   [
+    "Bướu cổ",
+    "Quáng gà",
+    "Còi xương",
+    "Sâu răng"
+   ],
+   "Dùng muối i-ốt."
+  ],
+  [
+   "Ánh sáng truyền theo:",
+   [
+    "Đường thẳng",
+    "Đường cong",
+    "Đường tròn",
+    "Đường zích zắc"
+   ],
+   "Ánh sáng truyền thẳng."
+  ],
+  [
+   "Cây thải khí gì khi quang hợp?",
+   [
+    "Ô-xi",
+    "Các-bô-níc",
+    "Ni-tơ",
+    "Khói"
+   ],
+   "Quang hợp thải ô-xi."
+  ],
+  [
+   "Gió là:",
+   [
+    "Không khí chuyển động",
+    "Hơi nước",
+    "Ánh sáng",
+    "Âm thanh"
+   ],
+   "Gió là không khí chuyển động."
+  ],
+  [
+   "Không nên ăn thức ăn bị mốc vì:",
+   [
+    "Nấm mốc có thể sinh chất độc",
+    "Thức ăn mốc ngọt hơn",
+    "Đã hết đẹp",
+    "Quá cứng"
+   ],
+   "Nấm mốc gây hại."
+  ],
+  [
+   "Nhiệt độ sôi của nước là:",
+   [
+    "100 °C",
+    "0 °C",
+    "37 °C",
+    "50 °C"
+   ],
+   "Nước sôi ở 100 °C."
+  ],
+  [
+   "Phá rừng gây ra:",
+   [
+    "Lũ lụt, sạt lở đất",
+    "Không khí trong lành",
+    "Nhiều mưa sạch",
+    "Đất tốt hơn"
+   ],
+   "Rừng bảo vệ đất."
+  ],
+  [
+   "Phòng đuối nước, khi đi bơi cần:",
+   [
+    "Có người lớn trông chừng",
+    "Bơi một mình ở sông",
+    "Bơi khi vừa ăn no",
+    "Bơi ở chỗ nước xoáy"
+   ],
+   "Luôn có người lớn giám sát."
+  ],
+  [
+   "Rác hữu cơ có thể:",
+   [
+    "Ủ làm phân bón",
+    "Tái chế thành nhựa",
+    "Đốt lấy khói",
+    "Vứt xuống ao"
+   ],
+   "Ủ phân hữu cơ."
+  ],
+  [
+   "Nước chuyển từ thể lỏng sang thể rắn gọi là:",
+   [
+    "Đông đặc",
+    "Nóng chảy",
+    "Bay hơi",
+    "Ngưng tụ"
+   ],
+   "Lỏng → rắn: đông đặc."
+  ],
+  [
+   "Cây xanh lấy khí gì để quang hợp?",
+   [
+    "Các-bô-níc",
+    "Ô-xi",
+    "Ni-tơ",
+    "Hi-đrô"
+   ],
+   "Quang hợp dùng khí các-bô-níc, thải ô-xi."
+  ],
+  [
+   "Nhiệt độ cơ thể người khỏe mạnh khoảng:",
+   [
+    "37 °C",
+    "0 °C",
+    "100 °C",
+    "50 °C"
+   ],
+   "Thân nhiệt bình thường khoảng 37 °C."
+  ],
+  [
+   "Trong quá trình quang hợp, cây hấp thụ khí:",
+   [
+    "Các-bô-níc",
+    "Ô-xi",
+    "Ni-tơ",
+    "Hơi nước"
+   ],
+   "Cây lấy các-bô-níc, thải ô-xi khi quang hợp."
+  ],
+  [
+   "Nấm có phải là thực vật không?",
+   [
+    "Không, nấm là một nhóm sinh vật riêng",
+    "Có, nấm là thực vật",
+    "Nấm là động vật",
+    "Nấm là vi khuẩn"
+   ],
+   "Nấm không có diệp lục, không tự quang hợp, là nhóm sinh vật riêng."
+  ],
+  [
+   "Thiếu vi-ta-min A có thể gây:",
+   [
+    "Bệnh về mắt (quáng gà)",
+    "Gãy xương",
+    "Béo phì",
+    "Sâu răng"
+   ],
+   "Vi-ta-min A tốt cho mắt."
+  ],
+  [
+   "Hiện tượng nóng lên toàn cầu có nguyên nhân chính do:",
+   [
+    "Lượng khí thải (như các-bô-níc) tăng lên",
+    "Trồng nhiều cây",
+    "Mưa nhiều",
+    "Gió mạnh"
+   ],
+   "Khí thải nhà kính làm Trái Đất nóng lên."
+  ],
+  [
+   "Nước có thể hòa tan chất nào?",
+   [
+    "Đường, muối",
+    "Cát",
+    "Sỏi",
+    "Dầu ăn"
+   ],
+   "Đường và muối tan trong nước."
+  ],
+  [
+   "Thả một viên gạch khô vào nước thấy sủi bọt vì:",
+   [
+    "Không khí trong các lỗ nhỏ của viên gạch thoát ra",
+    "Gạch bị tan",
+    "Nước sôi lên",
+    "Gạch có xà phòng"
+   ],
+   "Chứng tỏ trong chỗ rỗng của vật có không khí."
+  ],
+  [
+   "Ta nhìn thấy vật khi:",
+   [
+    "Có ánh sáng từ vật truyền đến mắt",
+    "Nhắm mắt lại",
+    "Ở trong bóng tối hoàn toàn",
+    "Vật không có ánh sáng"
+   ],
+   "Ánh sáng từ vật đến mắt nên ta nhìn thấy."
+  ],
+  [
+   "Thức ăn của gà con mới nở thường là:",
+   [
+    "Tấm, cám nhỏ, côn trùng nhỏ",
+    "Thịt sống",
+    "Cỏ khô",
+    "Rơm"
+   ],
+   "Gà con ăn thức ăn nhỏ, mềm."
+  ],
+  [
+   "Nấm độc thường có đặc điểm:",
+   [
+    "Khó nhận biết, có loại màu sặc sỡ, có loại trông giống nấm ăn",
+    "Luôn màu trắng",
+    "Luôn rất nhỏ",
+    "Không bao giờ giống nấm ăn"
+   ],
+   "Không thể dựa vào vẻ ngoài để chắc chắn an toàn."
+  ],
+  [
+   "Khi bị tiêu chảy, cần:",
+   [
+    "Uống đủ nước (dung dịch bù nước), đến cơ sở y tế",
+    "Nhịn ăn uống hoàn toàn",
+    "Ăn nhiều đồ cay",
+    "Uống nước có ga"
+   ],
+   "Bù nước, điện giải và đi khám."
+  ],
+  [
+   "Động vật hoang dã quý hiếm cần được:",
+   [
+    "Bảo vệ, không săn bắt, mua bán",
+    "Săn bắt làm thức ăn",
+    "Nhốt làm cảnh",
+    "Bán ra nước ngoài"
+   ],
+   "Bảo tồn đa dạng sinh học."
+  ],
+  [
+   "Hơi nước là nước ở thể:",
+   [
+    "Khí",
+    "Rắn",
+    "Lỏng",
+    "Dẻo"
+   ],
+   "Hơi nước là thể khí."
+  ],
+  [
+   "Thổi bóng bay, quả bóng căng lên vì:",
+   [
+    "Có không khí bên trong",
+    "Có nước bên trong",
+    "Bóng tự to ra",
+    "Có cát bên trong"
+   ],
+   "Không khí chiếm chỗ làm bóng căng."
+  ],
+  [
+   "Âm thanh truyền trong nước, ví dụ:",
+   [
+    "Cá nghe tiếng động và bơi đi",
+    "Chim hót trên cành",
+    "Còi xe ngoài đường",
+    "Tiếng sấm"
+   ],
+   "Cá nghe được tiếng động truyền qua nước."
+  ],
+  [
+   "Nuôi gà, cần cho gà ăn uống đủ và:",
+   [
+    "Chuồng trại sạch sẽ, thoáng mát",
+    "Nhốt trong hộp kín",
+    "Không cho uống nước",
+    "Để ngoài mưa"
+   ],
+   "Vật nuôi cần môi trường sạch."
+  ],
+  [
+   "Mộc nhĩ (nấm mèo) có hình dạng giống:",
+   [
+    "Cái tai",
+    "Cái ô",
+    "Cái chén",
+    "Sợi chỉ"
+   ],
+   "Mộc nhĩ trông như tai."
+  ],
+  [
+   "Chất xơ có nhiều trong:",
+   [
+    "Rau, củ, quả",
+    "Thịt mỡ",
+    "Dầu ăn",
+    "Đường"
+   ],
+   "Chất xơ giúp tiêu hóa tốt."
+  ],
+  [
+   "Lá rụng ở rừng phân hủy nhờ:",
+   [
+    "Nấm và vi khuẩn",
+    "Ánh trăng",
+    "Gió",
+    "Đá"
+   ],
+   "Sinh vật phân hủy chuyển xác lá thành mùn."
+  ],
+  [
+   "Uống nước bị ô nhiễm có thể mắc bệnh:",
+   [
+    "Tiêu chảy, tả, lị",
+    "Cận thị",
+    "Gãy xương",
+    "Sâu răng"
+   ],
+   "Nước bẩn gây bệnh đường ruột."
+  ],
+  [
+   "Không khí có những tính chất nào?",
+   [
+    "Trong suốt, không màu, không mùi, không vị",
+    "Có màu xanh",
+    "Có mùi thơm",
+    "Có vị mặn"
+   ],
+   "Không khí sạch trong suốt, không màu, mùi, vị."
+  ],
+  [
+   "Vật nóng hơn thì có nhiệt độ:",
+   [
+    "Cao hơn",
+    "Thấp hơn",
+    "Bằng nhau",
+    "Không có nhiệt độ"
+   ],
+   "Nhiệt độ chỉ độ nóng lạnh."
+  ]
+ ]
+}

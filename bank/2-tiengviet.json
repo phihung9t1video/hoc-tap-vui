@@ -1,0 +1,3068 @@
+{
+ "c1": [
+  [
+   "Từ nào chỉ sự vật?",
+   [
+    "cái bàn",
+    "chạy",
+    "đẹp",
+    "nhanh"
+   ],
+   "Cái bàn là đồ vật, là từ chỉ sự vật."
+  ],
+  [
+   "Từ nào chỉ hoạt động?",
+   [
+    "nhảy dây",
+    "bông hoa",
+    "xanh biếc",
+    "mềm mại"
+   ],
+   "Nhảy dây là việc làm."
+  ],
+  [
+   "Từ nào chỉ đặc điểm?",
+   [
+    "thông minh",
+    "học bài",
+    "quyển vở",
+    "cô giáo"
+   ],
+   "Thông minh nêu đặc điểm của người."
+  ],
+  [
+   "Trong câu 'Bé quét nhà sạch sẽ.', từ chỉ hoạt động là:",
+   [
+    "quét",
+    "bé",
+    "nhà",
+    "sạch sẽ"
+   ],
+   "Quét là hoạt động bé làm."
+  ],
+  [
+   "Nhóm từ nào đều chỉ sự vật?",
+   [
+    "sách, bút, thước",
+    "đọc, viết, vẽ",
+    "đỏ, xanh, tím",
+    "cao, thấp, béo"
+   ],
+   "Sách, bút, thước là đồ vật."
+  ],
+  [
+   "Từ nào chỉ đặc điểm của hoa hồng?",
+   [
+    "thơm ngát",
+    "trồng",
+    "tưới",
+    "hái"
+   ],
+   "Thơm ngát là đặc điểm."
+  ],
+  [
+   "Từ 'nấu cơm' là từ chỉ:",
+   [
+    "Hoạt động",
+    "Sự vật",
+    "Đặc điểm",
+    "Màu sắc"
+   ],
+   "Nấu cơm là một việc làm."
+  ],
+  [
+   "Từ nào chỉ con vật?",
+   [
+    "con trâu",
+    "con đường",
+    "con sông",
+    "con dao"
+   ],
+   "Con trâu là con vật."
+  ],
+  [
+   "Từ \"rộng lớn\" là từ chỉ:",
+   [
+    "Đặc điểm",
+    "Hoạt động",
+    "Số lượng",
+    "Sự vật"
+   ],
+   "\"rộng lớn\" là từ chỉ đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ hoạt động?",
+   [
+    "đọc sách",
+    "cây bàng",
+    "đám mây",
+    "ngọt lịm"
+   ],
+   "\"đọc sách\" là từ chỉ hoạt động; các từ còn lại chỉ sự vật hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ hoạt động?",
+   [
+    "đi học",
+    "lạnh giá",
+    "cao vút",
+    "xinh xắn"
+   ],
+   "\"đi học\" là từ chỉ hoạt động; các từ còn lại chỉ sự vật hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ đặc điểm?",
+   [
+    "thấp",
+    "chiếc áo",
+    "kể chuyện",
+    "câu cá"
+   ],
+   "\"thấp\" là từ chỉ đặc điểm; các từ còn lại chỉ sự vật hoặc hoạt động."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "cô giáo",
+    "cày ruộng",
+    "nhanh nhẹn",
+    "thấp"
+   ],
+   "\"cô giáo\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Từ \"đá bóng\" là từ chỉ:",
+   [
+    "Hoạt động",
+    "Đặc điểm",
+    "Sự vật",
+    "Số lượng"
+   ],
+   "\"đá bóng\" là từ chỉ hoạt động."
+  ],
+  [
+   "Từ \"bác nông dân\" là từ chỉ:",
+   [
+    "Sự vật",
+    "Hoạt động",
+    "Đặc điểm",
+    "Số lượng"
+   ],
+   "\"bác nông dân\" là từ chỉ sự vật."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "học sinh",
+    "xinh xắn",
+    "nhỏ xíu",
+    "kể chuyện"
+   ],
+   "\"học sinh\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "cái cặp",
+    "siêng năng",
+    "chơi",
+    "chạy"
+   ],
+   "\"cái cặp\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ đặc điểm?",
+   [
+    "lạnh giá",
+    "cô giáo",
+    "cái cặp",
+    "ngôi nhà"
+   ],
+   "\"lạnh giá\" là từ chỉ đặc điểm; các từ còn lại chỉ sự vật hoặc hoạt động."
+  ],
+  [
+   "Từ nào là từ chỉ hoạt động?",
+   [
+    "trồng cây",
+    "cái bảng",
+    "con trâu",
+    "trong veo"
+   ],
+   "\"trồng cây\" là từ chỉ hoạt động; các từ còn lại chỉ sự vật hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ hoạt động?",
+   [
+    "bơi",
+    "cái bảng",
+    "con mèo",
+    "học sinh"
+   ],
+   "\"bơi\" là từ chỉ hoạt động; các từ còn lại chỉ sự vật hoặc đặc điểm."
+  ],
+  [
+   "Từ \"nóng bức\" là từ chỉ:",
+   [
+    "Đặc điểm",
+    "Sự vật",
+    "Hoạt động",
+    "Số lượng"
+   ],
+   "\"nóng bức\" là từ chỉ đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ đặc điểm?",
+   [
+    "đỏ thắm",
+    "viết bài",
+    "múa",
+    "kể chuyện"
+   ],
+   "\"đỏ thắm\" là từ chỉ đặc điểm; các từ còn lại chỉ sự vật hoặc hoạt động."
+  ],
+  [
+   "Từ \"cái cặp\" là từ chỉ:",
+   [
+    "Sự vật",
+    "Đặc điểm",
+    "Hoạt động",
+    "Số lượng"
+   ],
+   "\"cái cặp\" là từ chỉ sự vật."
+  ],
+  [
+   "Từ \"con trâu\" là từ chỉ:",
+   [
+    "Sự vật",
+    "Đặc điểm",
+    "Số lượng",
+    "Hoạt động"
+   ],
+   "\"con trâu\" là từ chỉ sự vật."
+  ],
+  [
+   "Từ nào là từ chỉ đặc điểm?",
+   [
+    "cao vút",
+    "viết bài",
+    "tưới cây",
+    "giặt"
+   ],
+   "\"cao vút\" là từ chỉ đặc điểm; các từ còn lại chỉ sự vật hoặc hoạt động."
+  ],
+  [
+   "Từ nào là từ chỉ hoạt động?",
+   [
+    "nhặt rác",
+    "tươi tốt",
+    "cái cặp",
+    "trắng muốt"
+   ],
+   "\"nhặt rác\" là từ chỉ hoạt động; các từ còn lại chỉ sự vật hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ đặc điểm?",
+   [
+    "trắng muốt",
+    "giặt",
+    "cây bàng",
+    "quả cam"
+   ],
+   "\"trắng muốt\" là từ chỉ đặc điểm; các từ còn lại chỉ sự vật hoặc hoạt động."
+  ],
+  [
+   "Từ \"mềm mại\" là từ chỉ:",
+   [
+    "Đặc điểm",
+    "Số lượng",
+    "Hoạt động",
+    "Sự vật"
+   ],
+   "\"mềm mại\" là từ chỉ đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ đặc điểm?",
+   [
+    "to lớn",
+    "nhặt rác",
+    "quét nhà",
+    "quả cam"
+   ],
+   "\"to lớn\" là từ chỉ đặc điểm; các từ còn lại chỉ sự vật hoặc hoạt động."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "dòng sông",
+    "rộng lớn",
+    "nhanh nhẹn",
+    "chạy"
+   ],
+   "\"dòng sông\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Từ \"con mèo\" là từ chỉ:",
+   [
+    "Sự vật",
+    "Hoạt động",
+    "Số lượng",
+    "Đặc điểm"
+   ],
+   "\"con mèo\" là từ chỉ sự vật."
+  ],
+  [
+   "Từ \"hiền lành\" là từ chỉ:",
+   [
+    "Đặc điểm",
+    "Số lượng",
+    "Sự vật",
+    "Hoạt động"
+   ],
+   "\"hiền lành\" là từ chỉ đặc điểm."
+  ],
+  [
+   "Từ \"cày ruộng\" là từ chỉ:",
+   [
+    "Hoạt động",
+    "Đặc điểm",
+    "Số lượng",
+    "Sự vật"
+   ],
+   "\"cày ruộng\" là từ chỉ hoạt động."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "ngôi nhà",
+    "thơm ngát",
+    "lau bàn",
+    "nhỏ xíu"
+   ],
+   "\"ngôi nhà\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "quyển sách",
+    "viết bài",
+    "ăn",
+    "giặt"
+   ],
+   "\"quyển sách\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "bầu trời",
+    "đá bóng",
+    "hiền lành",
+    "viết bài"
+   ],
+   "\"bầu trời\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ hoạt động?",
+   [
+    "giặt",
+    "cái nón",
+    "ông mặt trời",
+    "tròn xoe"
+   ],
+   "\"giặt\" là từ chỉ hoạt động; các từ còn lại chỉ sự vật hoặc đặc điểm."
+  ],
+  [
+   "Từ nào là từ chỉ đặc điểm?",
+   [
+    "hiền lành",
+    "quyển sách",
+    "học bài",
+    "lau bàn"
+   ],
+   "\"hiền lành\" là từ chỉ đặc điểm; các từ còn lại chỉ sự vật hoặc hoạt động."
+  ],
+  [
+   "Từ \"lau bàn\" là từ chỉ:",
+   [
+    "Hoạt động",
+    "Đặc điểm",
+    "Sự vật",
+    "Số lượng"
+   ],
+   "\"lau bàn\" là từ chỉ hoạt động."
+  ],
+  [
+   "Từ \"con chim\" là từ chỉ:",
+   [
+    "Sự vật",
+    "Đặc điểm",
+    "Hoạt động",
+    "Số lượng"
+   ],
+   "\"con chim\" là từ chỉ sự vật."
+  ]
+ ],
+ "c2": [
+  [
+   "Câu 'Em là học sinh lớp 2.' thuộc kiểu câu nào?",
+   [
+    "Câu giới thiệu",
+    "Câu nêu hoạt động",
+    "Câu nêu đặc điểm",
+    "Câu hỏi"
+   ],
+   "Câu giới thiệu: Ai là gì?"
+  ],
+  [
+   "Câu 'Mẹ em đang nấu cơm.' là câu:",
+   [
+    "Nêu hoạt động",
+    "Giới thiệu",
+    "Nêu đặc điểm",
+    "Câu cảm"
+   ],
+   "Câu nêu việc mẹ làm."
+  ],
+  [
+   "Câu 'Bầu trời xanh trong.' là câu:",
+   [
+    "Nêu đặc điểm",
+    "Nêu hoạt động",
+    "Giới thiệu",
+    "Câu khiến"
+   ],
+   "Câu nêu bầu trời thế nào."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi 'Làm gì?' trong câu 'Các bạn đang chơi đá cầu.' là:",
+   [
+    "đang chơi đá cầu",
+    "Các bạn",
+    "đá cầu",
+    "các bạn đang"
+   ],
+   "Các bạn làm gì? → đang chơi đá cầu."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi 'Ai?' trong câu 'Bố em là bác sĩ.' là:",
+   [
+    "Bố em",
+    "là bác sĩ",
+    "bác sĩ",
+    "em"
+   ],
+   "Ai là bác sĩ? → Bố em."
+  ],
+  [
+   "Câu nào là câu nêu đặc điểm?",
+   [
+    "Chú mèo rất lười.",
+    "Chú mèo bắt chuột.",
+    "Đây là chú mèo.",
+    "Chú mèo ở đâu?"
+   ],
+   "Câu nêu chú mèo thế nào: rất lười."
+  ],
+  [
+   "Câu 'Đây là bạn Minh.' dùng để:",
+   [
+    "Giới thiệu",
+    "Kể hoạt động",
+    "Tả đặc điểm",
+    "Hỏi"
+   ],
+   "Câu giới thiệu một người."
+  ],
+  [
+   "Câu nào nêu hoạt động?",
+   [
+    "Chim hót líu lo.",
+    "Lá cây xanh mướt.",
+    "Đây là con chim.",
+    "Chim rất đẹp."
+   ],
+   "Hót là hoạt động của chim."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Thế nào?\" trong câu \"Cây cau cao vút.\" là:",
+   [
+    "cao vút",
+    "Cây cau cao",
+    "vút",
+    "Cây cau"
+   ],
+   "Cây cau thế nào? → cao vút."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Ai (cái gì, con gì)?\" trong câu \"Các bạn chơi nhảy dây.\" là:",
+   [
+    "Các bạn",
+    "Các bạn chơi",
+    "chơi nhảy dây",
+    "chơi nhảy"
+   ],
+   "Hỏi: Ai (cái gì, con gì) chơi nhảy dây? → Các bạn."
+  ],
+  [
+   "Câu \"Bé tưới cây.\" là:",
+   [
+    "Câu nêu hoạt động",
+    "Câu giới thiệu",
+    "Câu hỏi",
+    "Câu nêu đặc điểm"
+   ],
+   "Bộ phận \"tưới cây\" trả lời câu hỏi Làm gì? nên đây là câu nêu hoạt động."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Thế nào?\" trong câu \"Bông hồng đỏ thắm.\" là:",
+   [
+    "đỏ thắm",
+    "Bông hồng đỏ",
+    "thắm",
+    "Bông hồng"
+   ],
+   "Bông hồng thế nào? → đỏ thắm."
+  ],
+  [
+   "Câu nào là câu nêu hoạt động?",
+   [
+    "Các bạn chơi nhảy dây.",
+    "Mái tóc của mẹ mềm mượt.",
+    "Chị Mai là học sinh giỏi.",
+    "Bông hồng đỏ thắm."
+   ],
+   "Bộ phận \"chơi nhảy dây\" trả lời câu hỏi Làm gì?"
+  ],
+  [
+   "Câu nào là câu nêu hoạt động?",
+   [
+    "Chị gái em gấp quần áo.",
+    "Dòng sông hiền hòa.",
+    "Nước suối trong veo.",
+    "Hà Nội là thủ đô của nước ta."
+   ],
+   "Bộ phận \"gấp quần áo\" trả lời câu hỏi Làm gì?"
+  ],
+  [
+   "Câu \"Mẹ em đang nấu cơm.\" là:",
+   [
+    "Câu nêu hoạt động",
+    "Câu nêu đặc điểm",
+    "Câu giới thiệu",
+    "Câu hỏi"
+   ],
+   "Bộ phận \"đang nấu cơm\" trả lời câu hỏi Làm gì? nên đây là câu nêu hoạt động."
+  ],
+  [
+   "Câu \"Mái tóc của mẹ mềm mượt.\" là:",
+   [
+    "Câu nêu đặc điểm",
+    "Câu giới thiệu",
+    "Câu hỏi",
+    "Câu nêu hoạt động"
+   ],
+   "Bộ phận \"mềm mượt\" trả lời câu hỏi Thế nào? nên đây là câu nêu đặc điểm."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Làm gì?\" trong câu \"Chị gái em gấp quần áo.\" là:",
+   [
+    "gấp quần áo",
+    "Chị gái em",
+    "Chị gái em gấp",
+    "áo"
+   ],
+   "Chị gái em làm gì? → gấp quần áo."
+  ],
+  [
+   "Câu nào là câu nêu đặc điểm?",
+   [
+    "Mái tóc của mẹ mềm mượt.",
+    "Bạn Lan là lớp trưởng.",
+    "Chú chim hót líu lo.",
+    "Bác nông dân cày ruộng."
+   ],
+   "Bộ phận \"mềm mượt\" trả lời câu hỏi Thế nào?"
+  ],
+  [
+   "Câu nào là câu giới thiệu?",
+   [
+    "Chị Mai là học sinh giỏi.",
+    "Con đường làng nhỏ và quanh co.",
+    "Em quét nhà giúp mẹ.",
+    "Cô giáo giảng bài."
+   ],
+   "Bộ phận \"là học sinh giỏi\" trả lời câu hỏi Là gì?"
+  ],
+  [
+   "Câu \"Bác Tư là nông dân.\" là:",
+   [
+    "Câu giới thiệu",
+    "Câu nêu đặc điểm",
+    "Câu nêu hoạt động",
+    "Câu hỏi"
+   ],
+   "Bộ phận \"là nông dân\" trả lời câu hỏi Là gì? nên đây là câu giới thiệu."
+  ],
+  [
+   "Câu nào là câu nêu đặc điểm?",
+   [
+    "Bông hồng đỏ thắm.",
+    "Đàn gà mổ thóc.",
+    "Ông em đọc báo.",
+    "Đây là lớp học của em."
+   ],
+   "Bộ phận \"đỏ thắm\" trả lời câu hỏi Thế nào?"
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Ai (cái gì, con gì)?\" trong câu \"Thư viện là nơi em hay đến đọc sách.\" là:",
+   [
+    "Thư viện",
+    "là nơi",
+    "là nơi em hay đến đọc sách",
+    "Thư viện là"
+   ],
+   "Hỏi: Ai (cái gì, con gì) là nơi em hay đến đọc sách? → Thư viện."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Ai (cái gì, con gì)?\" trong câu \"Con đường làng nhỏ và quanh co.\" là:",
+   [
+    "Con đường làng",
+    "Con đường làng nhỏ",
+    "nhỏ và quanh co",
+    "nhỏ và"
+   ],
+   "Hỏi: Ai (cái gì, con gì) nhỏ và quanh co? → Con đường làng."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Ai (cái gì, con gì)?\" trong câu \"Bạn Nam rất chăm chỉ.\" là:",
+   [
+    "Bạn Nam",
+    "rất chăm",
+    "rất chăm chỉ",
+    "Bạn Nam rất"
+   ],
+   "Hỏi: Ai (cái gì, con gì) rất chăm chỉ? → Bạn Nam."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Ai (cái gì, con gì)?\" trong câu \"Chú chim hót líu lo.\" là:",
+   [
+    "Chú chim",
+    "hót líu lo",
+    "Chú chim hót",
+    "hót líu"
+   ],
+   "Hỏi: Ai (cái gì, con gì) hót líu lo? → Chú chim."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Là gì?\" trong câu \"Thư viện là nơi em hay đến đọc sách.\" là:",
+   [
+    "là nơi em hay đến đọc sách",
+    "sách",
+    "Thư viện là",
+    "Thư viện"
+   ],
+   "Thư viện là gì? → là nơi em hay đến đọc sách."
+  ],
+  [
+   "Câu \"Bạn Lan là lớp trưởng.\" là:",
+   [
+    "Câu giới thiệu",
+    "Câu hỏi",
+    "Câu nêu đặc điểm",
+    "Câu nêu hoạt động"
+   ],
+   "Bộ phận \"là lớp trưởng\" trả lời câu hỏi Là gì? nên đây là câu giới thiệu."
+  ],
+  [
+   "Câu \"Bố em là bác sĩ.\" là:",
+   [
+    "Câu giới thiệu",
+    "Câu nêu đặc điểm",
+    "Câu nêu hoạt động",
+    "Câu hỏi"
+   ],
+   "Bộ phận \"là bác sĩ\" trả lời câu hỏi Là gì? nên đây là câu giới thiệu."
+  ],
+  [
+   "Câu nào là câu giới thiệu?",
+   [
+    "Thư viện là nơi em hay đến đọc sách.",
+    "Đàn gà mổ thóc.",
+    "Con đường làng nhỏ và quanh co.",
+    "Bà em hiền hậu."
+   ],
+   "Bộ phận \"là nơi em hay đến đọc sách\" trả lời câu hỏi Là gì?"
+  ],
+  [
+   "Câu nào là câu nêu đặc điểm?",
+   [
+    "Cây cau cao vút.",
+    "Bác Tư là nông dân.",
+    "Bác nông dân cày ruộng.",
+    "Chị Mai là học sinh giỏi."
+   ],
+   "Bộ phận \"cao vút\" trả lời câu hỏi Thế nào?"
+  ],
+  [
+   "Câu nào là câu nêu hoạt động?",
+   [
+    "Cô giáo giảng bài.",
+    "Bạn Nam rất chăm chỉ.",
+    "Cánh đồng lúa vàng óng.",
+    "Bố em là bác sĩ."
+   ],
+   "Bộ phận \"giảng bài\" trả lời câu hỏi Làm gì?"
+  ],
+  [
+   "Câu \"Chị gái em gấp quần áo.\" là:",
+   [
+    "Câu nêu hoạt động",
+    "Câu hỏi",
+    "Câu nêu đặc điểm",
+    "Câu giới thiệu"
+   ],
+   "Bộ phận \"gấp quần áo\" trả lời câu hỏi Làm gì? nên đây là câu nêu hoạt động."
+  ],
+  [
+   "Câu \"Hà Nội là thủ đô của nước ta.\" là:",
+   [
+    "Câu giới thiệu",
+    "Câu nêu hoạt động",
+    "Câu nêu đặc điểm",
+    "Câu hỏi"
+   ],
+   "Bộ phận \"là thủ đô của nước ta\" trả lời câu hỏi Là gì? nên đây là câu giới thiệu."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Làm gì?\" trong câu \"Em quét nhà giúp mẹ.\" là:",
+   [
+    "quét nhà giúp mẹ",
+    "mẹ",
+    "Em quét",
+    "Em"
+   ],
+   "Em làm gì? → quét nhà giúp mẹ."
+  ],
+  [
+   "Câu \"Mẹ em là giáo viên.\" là:",
+   [
+    "Câu giới thiệu",
+    "Câu nêu hoạt động",
+    "Câu nêu đặc điểm",
+    "Câu hỏi"
+   ],
+   "Bộ phận \"là giáo viên\" trả lời câu hỏi Là gì? nên đây là câu giới thiệu."
+  ],
+  [
+   "Câu nào là câu nêu đặc điểm?",
+   [
+    "Quả cam ngọt lịm.",
+    "Thư viện là nơi em hay đến đọc sách.",
+    "Em quét nhà giúp mẹ.",
+    "Bác Tư là nông dân."
+   ],
+   "Bộ phận \"ngọt lịm\" trả lời câu hỏi Thế nào?"
+  ],
+  [
+   "Câu \"Bố sửa xe đạp.\" là:",
+   [
+    "Câu nêu hoạt động",
+    "Câu nêu đặc điểm",
+    "Câu giới thiệu",
+    "Câu hỏi"
+   ],
+   "Bộ phận \"sửa xe đạp\" trả lời câu hỏi Làm gì? nên đây là câu nêu hoạt động."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Ai (cái gì, con gì)?\" trong câu \"Hà Nội là thủ đô của nước ta.\" là:",
+   [
+    "Hà Nội",
+    "Hà Nội là",
+    "là thủ đô của nước ta",
+    "là thủ"
+   ],
+   "Hỏi: Ai (cái gì, con gì) là thủ đô của nước ta? → Hà Nội."
+  ],
+  [
+   "Bộ phận trả lời câu hỏi \"Là gì?\" trong câu \"Bạn Lan là lớp trưởng.\" là:",
+   [
+    "là lớp trưởng",
+    "Bạn Lan là",
+    "trưởng",
+    "Bạn Lan"
+   ],
+   "Bạn Lan là gì? → là lớp trưởng."
+  ],
+  [
+   "Câu nào là câu nêu hoạt động?",
+   [
+    "Mẹ em đang nấu cơm.",
+    "Bầu trời xanh trong.",
+    "Ông em là bộ đội về hưu.",
+    "Chú mèo rất lười."
+   ],
+   "Bộ phận \"đang nấu cơm\" trả lời câu hỏi Làm gì?"
+  ]
+ ],
+ "c3": [
+  [
+   "Cuối câu hỏi đặt dấu gì?",
+   [
+    "Dấu chấm hỏi",
+    "Dấu chấm",
+    "Dấu phẩy",
+    "Dấu chấm than"
+   ],
+   "Câu hỏi kết thúc bằng dấu chấm hỏi (?)."
+  ],
+  [
+   "Câu 'Ôi, bông hoa đẹp quá' cần đặt dấu gì cuối câu?",
+   [
+    "Dấu chấm than",
+    "Dấu chấm hỏi",
+    "Dấu phẩy",
+    "Dấu hai chấm"
+   ],
+   "Câu bộc lộ cảm xúc dùng dấu chấm than (!)."
+  ],
+  [
+   "Câu 'Bạn đi học chưa' cần dấu gì?",
+   [
+    "Dấu chấm hỏi",
+    "Dấu chấm",
+    "Dấu chấm than",
+    "Dấu phẩy"
+   ],
+   "Đây là câu hỏi."
+  ],
+  [
+   "Dấu phẩy dùng để:",
+   [
+    "Ngăn cách các từ cùng loại trong câu",
+    "Kết thúc câu",
+    "Đặt cuối câu hỏi",
+    "Thay chữ viết hoa"
+   ],
+   "Ví dụ: Em có bút, thước, vở."
+  ],
+  [
+   "Chọn câu đặt dấu phẩy đúng:",
+   [
+    "Vườn nhà em có cam, quýt, bưởi.",
+    "Vườn nhà em, có cam quýt bưởi.",
+    "Vườn, nhà em có cam quýt, bưởi.",
+    "Vườn nhà em có cam quýt bưởi,."
+   ],
+   "Dấu phẩy ngăn cách các loại quả."
+  ],
+  [
+   "Câu kể kết thúc bằng dấu:",
+   [
+    "Dấu chấm",
+    "Dấu chấm hỏi",
+    "Dấu chấm than",
+    "Dấu ngoặc"
+   ],
+   "Câu kể kết thúc bằng dấu chấm."
+  ],
+  [
+   "'Em hãy giữ trật tự' – cuối câu nên dùng dấu:",
+   [
+    "Dấu chấm than (hoặc dấu chấm)",
+    "Dấu chấm hỏi",
+    "Dấu phẩy",
+    "Dấu hai chấm"
+   ],
+   "Câu đề nghị, yêu cầu thường dùng dấu chấm than."
+  ],
+  [
+   "Câu nào đặt dấu phẩy đúng?",
+   [
+    "Hoa hồng, hoa cúc, hoa lan đua nhau nở.",
+    "Hoa, hồng hoa cúc hoa lan đua nhau nở.",
+    "Hoa hồng hoa cúc, hoa lan, đua nhau nở.",
+    "Hoa hồng hoa cúc hoa lan, đua, nhau nở."
+   ],
+   "Dấu phẩy ngăn cách các từ cùng loại (liệt kê) hoặc ngăn cách bộ phận chỉ thời gian, nơi chốn với phần còn lại."
+  ],
+  [
+   "Cuối câu \"Các em hãy giữ trật tự\" cần đặt dấu gì?",
+   [
+    "Dấu chấm than",
+    "Dấu chấm hỏi",
+    "Dấu chấm",
+    "Dấu phẩy"
+   ],
+   "Câu yêu cầu, đề nghị nên dùng dấu chấm than."
+  ],
+  [
+   "Câu nào đặt dấu phẩy đúng?",
+   [
+    "Em thích đọc truyện, vẽ tranh và đá bóng.",
+    "Em thích, đọc truyện vẽ tranh và đá bóng.",
+    "Em thích đọc truyện vẽ tranh, và, đá bóng.",
+    "Em, thích đọc truyện vẽ tranh và đá bóng."
+   ],
+   "Dấu phẩy ngăn cách các từ cùng loại (liệt kê) hoặc ngăn cách bộ phận chỉ thời gian, nơi chốn với phần còn lại."
+  ],
+  [
+   "Cuối câu \"Trời ơi, lạnh quá\" cần đặt dấu gì?",
+   [
+    "Dấu chấm than",
+    "Dấu chấm",
+    "Dấu phẩy",
+    "Dấu chấm hỏi"
+   ],
+   "Câu bộc lộ cảm xúc nên dùng dấu chấm than."
+  ],
+  [
+   "Cuối câu \"Bé giúp bà nhặt rau\" cần đặt dấu gì?",
+   [
+    "Dấu chấm",
+    "Dấu phẩy",
+    "Dấu chấm hỏi",
+    "Dấu chấm than"
+   ],
+   "Câu kể nên dùng dấu chấm."
+  ],
+  [
+   "Cuối câu \"Vì sao lá cây màu xanh\" cần đặt dấu gì?",
+   [
+    "Dấu chấm hỏi",
+    "Dấu chấm than",
+    "Dấu phẩy",
+    "Dấu chấm"
+   ],
+   "Câu hỏi nên dùng dấu chấm hỏi."
+  ],
+  [
+   "Cuối câu \"Con mèo nằm sưởi nắng\" cần đặt dấu gì?",
+   [
+    "Dấu chấm",
+    "Dấu phẩy",
+    "Dấu chấm hỏi",
+    "Dấu chấm than"
+   ],
+   "Câu kể nên dùng dấu chấm."
+  ],
+  [
+   "Câu nào đặt dấu phẩy đúng?",
+   [
+    "Bà em trồng rau, nuôi gà và chăm sóc vườn cây.",
+    "Bà, em trồng rau nuôi gà và chăm sóc vườn cây.",
+    "Bà em trồng, rau nuôi gà và chăm sóc vườn cây.",
+    "Bà em, trồng rau nuôi gà và chăm sóc vườn cây."
+   ],
+   "Dấu phẩy ngăn cách các từ cùng loại (liệt kê) hoặc ngăn cách bộ phận chỉ thời gian, nơi chốn với phần còn lại."
+  ],
+  [
+   "Câu nào đặt dấu phẩy đúng?",
+   [
+    "Trong lớp, các bạn đang chăm chú nghe giảng.",
+    "Trong, lớp các bạn đang chăm chú nghe giảng.",
+    "Trong lớp các bạn, đang chăm chú nghe giảng.",
+    "Trong lớp các bạn đang chăm chú, nghe giảng."
+   ],
+   "Dấu phẩy ngăn cách các từ cùng loại (liệt kê) hoặc ngăn cách bộ phận chỉ thời gian, nơi chốn với phần còn lại."
+  ],
+  [
+   "Cuối câu \"Sân trường rợp bóng cây\" cần đặt dấu gì?",
+   [
+    "Dấu chấm",
+    "Dấu phẩy",
+    "Dấu chấm hỏi",
+    "Dấu chấm than"
+   ],
+   "Câu kể nên dùng dấu chấm."
+  ],
+  [
+   "Cuối câu \"Chà, con diều bay cao quá\" cần đặt dấu gì?",
+   [
+    "Dấu chấm than",
+    "Dấu chấm hỏi",
+    "Dấu chấm",
+    "Dấu phẩy"
+   ],
+   "Câu bộc lộ cảm xúc nên dùng dấu chấm than."
+  ],
+  [
+   "Cuối câu \"Bạn tên là gì\" cần đặt dấu gì?",
+   [
+    "Dấu chấm hỏi",
+    "Dấu phẩy",
+    "Dấu chấm than",
+    "Dấu chấm"
+   ],
+   "Câu hỏi nên dùng dấu chấm hỏi."
+  ],
+  [
+   "Câu nào đặt dấu phẩy đúng?",
+   [
+    "Vườn nhà em có cam, quýt, bưởi.",
+    "Vườn nhà em có, cam quýt bưởi.",
+    "Vườn, nhà em có cam quýt bưởi.",
+    "Vườn nhà em, có cam quýt bưởi."
+   ],
+   "Dấu phẩy ngăn cách các từ cùng loại (liệt kê) hoặc ngăn cách bộ phận chỉ thời gian, nơi chốn với phần còn lại."
+  ],
+  [
+   "Cuối câu \"Mẹ em là bác sĩ\" cần đặt dấu gì?",
+   [
+    "Dấu chấm",
+    "Dấu chấm hỏi",
+    "Dấu phẩy",
+    "Dấu chấm than"
+   ],
+   "Câu kể nên dùng dấu chấm."
+  ],
+  [
+   "Câu nào đặt dấu phẩy đúng?",
+   [
+    "Sáng nay, em dậy sớm tập thể dục.",
+    "Sáng nay em, dậy sớm tập thể dục.",
+    "Sáng, nay em dậy sớm tập thể dục.",
+    "Sáng nay em dậy, sớm tập thể dục."
+   ],
+   "Dấu phẩy ngăn cách các từ cùng loại (liệt kê) hoặc ngăn cách bộ phận chỉ thời gian, nơi chốn với phần còn lại."
+  ],
+  [
+   "Cuối câu \"Nhà bạn ở đâu\" cần đặt dấu gì?",
+   [
+    "Dấu chấm hỏi",
+    "Dấu chấm than",
+    "Dấu chấm",
+    "Dấu phẩy"
+   ],
+   "Câu hỏi nên dùng dấu chấm hỏi."
+  ],
+  [
+   "Cuối câu \"Ôi, bông hoa đẹp quá\" cần đặt dấu gì?",
+   [
+    "Dấu chấm than",
+    "Dấu phẩy",
+    "Dấu chấm",
+    "Dấu chấm hỏi"
+   ],
+   "Câu bộc lộ cảm xúc nên dùng dấu chấm than."
+  ],
+  [
+   "Cuối câu \"A, mẹ về rồi\" cần đặt dấu gì?",
+   [
+    "Dấu chấm than",
+    "Dấu phẩy",
+    "Dấu chấm",
+    "Dấu chấm hỏi"
+   ],
+   "Câu bộc lộ cảm xúc nên dùng dấu chấm than."
+  ],
+  [
+   "Cuối câu \"Em đi học lúc sáu giờ\" cần đặt dấu gì?",
+   [
+    "Dấu chấm",
+    "Dấu chấm hỏi",
+    "Dấu phẩy",
+    "Dấu chấm than"
+   ],
+   "Câu kể nên dùng dấu chấm."
+  ],
+  [
+   "Cuối câu \"Hôm nay bạn có đi học không\" cần đặt dấu gì?",
+   [
+    "Dấu chấm hỏi",
+    "Dấu chấm",
+    "Dấu phẩy",
+    "Dấu chấm than"
+   ],
+   "Câu hỏi nên dùng dấu chấm hỏi."
+  ],
+  [
+   "Cuối câu \"Ai đang hát vậy\" cần đặt dấu gì?",
+   [
+    "Dấu chấm hỏi",
+    "Dấu chấm than",
+    "Dấu phẩy",
+    "Dấu chấm"
+   ],
+   "Câu hỏi nên dùng dấu chấm hỏi."
+  ],
+  [
+   "Câu nào đặt dấu chấm than đúng?",
+   [
+    "Ôi, con mèo đáng yêu quá!",
+    "Con mèo đang ngủ!",
+    "Con mèo ở đâu!",
+    "Con mèo màu gì!"
+   ],
+   "Câu bộc lộ cảm xúc dùng dấu chấm than."
+  ],
+  [
+   "Câu nào đặt dấu chấm hỏi đúng?",
+   [
+    "Bạn thích ăn quả gì?",
+    "Em thích ăn táo?",
+    "Ôi, quả táo ngon quá?",
+    "Mẹ mua táo cho em?."
+   ],
+   "Câu hỏi về điều mình chưa biết dùng dấu chấm hỏi."
+  ],
+  [
+   "Trong câu 'Bạn Hà, bạn Lan và bạn Mai đều học giỏi.', dấu phẩy dùng để:",
+   [
+    "Ngăn cách các bạn được kể ra",
+    "Kết thúc câu",
+    "Đặt cuối câu hỏi",
+    "Thay cho chữ và"
+   ],
+   "Dấu phẩy ngăn cách các từ cùng loại."
+  ]
+ ],
+ "c4": [
+  [
+   "Từ nào chỉ đồ dùng học tập?",
+   [
+    "cặp sách",
+    "bàn chải",
+    "nồi cơm",
+    "cái chổi"
+   ],
+   "Cặp sách dùng khi đi học."
+  ],
+  [
+   "Từ nào nói về tình cảm gia đình?",
+   [
+    "yêu thương",
+    "cãi nhau",
+    "giận dỗi",
+    "lười biếng"
+   ],
+   "Yêu thương là tình cảm tốt đẹp."
+  ],
+  [
+   "Từ nào chỉ nghề nghiệp?",
+   [
+    "giáo viên",
+    "bàn ghế",
+    "chăm chỉ",
+    "đi bộ"
+   ],
+   "Giáo viên là một nghề."
+  ],
+  [
+   "Từ nào chỉ thời tiết?",
+   [
+    "nắng",
+    "bàn",
+    "chạy",
+    "cô"
+   ],
+   "Nắng là hiện tượng thời tiết."
+  ],
+  [
+   "Từ nào chỉ tính nết tốt của học sinh?",
+   [
+    "chăm chỉ",
+    "lười học",
+    "nghịch ngợm",
+    "ham chơi"
+   ],
+   "Chăm chỉ là đức tính tốt."
+  ],
+  [
+   "Nhóm từ nào chỉ các loài cây?",
+   [
+    "xoài, bàng, phượng",
+    "chó, mèo, gà",
+    "bàn, ghế, tủ",
+    "xanh, đỏ, vàng"
+   ],
+   "Xoài, bàng, phượng là cây."
+  ],
+  [
+   "Từ nào chỉ bộ phận của cây?",
+   [
+    "rễ",
+    "cánh",
+    "vây",
+    "mỏ"
+   ],
+   "Rễ là bộ phận của cây."
+  ],
+  [
+   "Từ nào chỉ nơi học tập?",
+   [
+    "trường học",
+    "chợ",
+    "bệnh viện",
+    "công viên"
+   ],
+   "Trường học là nơi học."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"đồ dùng học tập\"?",
+   [
+    "bút chì, bút màu, cục tẩy",
+    "gió mùa, com-pa, thước kẻ",
+    "bút màu, bút chì, giờ ra chơi",
+    "sương mù, hộp bút, cục tẩy"
+   ],
+   "Cả ba từ \"bút chì, bút màu, cục tẩy\" đều nói về đồ dùng học tập."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"trường học\"?",
+   [
+    "lớp học, bảng đen, giờ ra chơi",
+    "sân trường, bút màu, bài tập",
+    "quyển vở, bài tập, lớp học",
+    "bố mẹ, bảng đen, thầy giáo"
+   ],
+   "Cả ba từ \"lớp học, bảng đen, giờ ra chơi\" đều nói về trường học."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"con vật\"?",
+   [
+    "con ong",
+    "giờ ra chơi",
+    "bạn học",
+    "thân cây"
+   ],
+   "Từ này nói về con vật."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"gia đình\"?",
+   [
+    "bố mẹ, sum họp, em bé",
+    "yêu thương, ông bà, con hổ",
+    "đầu bếp, ông bà, sum họp",
+    "yêu thương, em bé, bạn học"
+   ],
+   "Cả ba từ \"bố mẹ, sum họp, em bé\" đều nói về gia đình."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"gia đình\"?",
+   [
+    "chăm sóc, bố mẹ, anh chị",
+    "lớp học, bố mẹ, anh chị",
+    "em bé, hiếu thảo, cục tẩy",
+    "rét buốt, ông bà, em bé"
+   ],
+   "Cả ba từ \"chăm sóc, bố mẹ, anh chị\" đều nói về gia đình."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"nghề nghiệp\"?",
+   [
+    "bác sĩ, thợ may, đầu bếp",
+    "mầm non, cảnh sát, công nhân",
+    "bác sĩ, chim sẻ, nông dân",
+    "kĩ sư, con voi, thợ may"
+   ],
+   "Cả ba từ \"bác sĩ, thợ may, đầu bếp\" đều nói về nghề nghiệp."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"gia đình\"?",
+   [
+    "ông bà, em bé, sum họp",
+    "anh chị, cành lá, em bé",
+    "anh chị, oi bức, ông bà",
+    "hiếu thảo, anh chị, thợ may"
+   ],
+   "Cả ba từ \"ông bà, em bé, sum họp\" đều nói về gia đình."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"thời tiết\"?",
+   [
+    "giông bão",
+    "bảng đen",
+    "rễ cây",
+    "kĩ sư"
+   ],
+   "Từ này nói về thời tiết."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"gia đình\"?",
+   [
+    "yêu thương, ông bà, sum họp",
+    "bố mẹ, hiếu thảo, com-pa",
+    "hiếu thảo, bác sĩ, chăm sóc",
+    "anh chị, hiếu thảo, bạn học"
+   ],
+   "Cả ba từ \"yêu thương, ông bà, sum họp\" đều nói về gia đình."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"nghề nghiệp\"?",
+   [
+    "cảnh sát, thợ may, công nhân",
+    "kĩ sư, bố mẹ, đầu bếp",
+    "công nhân, mát mẻ, thợ may",
+    "cảnh sát, con ong, công nhân"
+   ],
+   "Cả ba từ \"cảnh sát, thợ may, công nhân\" đều nói về nghề nghiệp."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"gia đình\"?",
+   [
+    "chăm sóc",
+    "cục tẩy",
+    "thợ may",
+    "mầm non"
+   ],
+   "Từ này nói về gia đình."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"đồ dùng học tập\"?",
+   [
+    "hộp bút",
+    "con sóc",
+    "giông bão",
+    "bố mẹ"
+   ],
+   "Từ này nói về đồ dùng học tập."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"trường học\"?",
+   [
+    "thầy giáo",
+    "oi bức",
+    "em bé",
+    "yêu thương"
+   ],
+   "Từ này nói về trường học."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"con vật\"?",
+   [
+    "con hổ, con sóc, con ong",
+    "thước kẻ, con hổ, con kiến",
+    "con hổ, con voi, mầm non",
+    "quyển vở, con kiến, con hổ"
+   ],
+   "Cả ba từ \"con hổ, con sóc, con ong\" đều nói về con vật."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"gia đình\"?",
+   [
+    "bố mẹ",
+    "con trâu",
+    "bút màu",
+    "giờ ra chơi"
+   ],
+   "Từ này nói về gia đình."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"thời tiết\"?",
+   [
+    "sương mù, gió mùa, nắng",
+    "sương mù, rét buốt, phi công",
+    "ông bà, sương mù, mát mẻ",
+    "oi bức, gió mùa, nông dân"
+   ],
+   "Cả ba từ \"sương mù, gió mùa, nắng\" đều nói về thời tiết."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"con vật\"?",
+   [
+    "con trâu, con ong, con hổ",
+    "con hổ, bảng đen, con trâu",
+    "con kiến, mưa phùn, con trâu",
+    "con hổ, con kiến, nông dân"
+   ],
+   "Cả ba từ \"con trâu, con ong, con hổ\" đều nói về con vật."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"thời tiết\"?",
+   [
+    "mưa phùn",
+    "gốc cây",
+    "cá chép",
+    "yêu thương"
+   ],
+   "Từ này nói về thời tiết."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"trường học\"?",
+   [
+    "lớp học, thư viện, bài tập",
+    "bài tập, anh chị, thư viện",
+    "thư viện, lớp học, gió mùa",
+    "con ong, sân trường, thư viện"
+   ],
+   "Cả ba từ \"lớp học, thư viện, bài tập\" đều nói về trường học."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"thời tiết\"?",
+   [
+    "sương mù, mưa phùn, rét buốt",
+    "nắng, anh chị, rét buốt",
+    "oi bức, cá chép, nắng",
+    "yêu thương, sương mù, giông bão"
+   ],
+   "Cả ba từ \"sương mù, mưa phùn, rét buốt\" đều nói về thời tiết."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"nghề nghiệp\"?",
+   [
+    "công nhân",
+    "hạt giống",
+    "oi bức",
+    "hộp bút"
+   ],
+   "Từ này nói về nghề nghiệp."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"trường học\"?",
+   [
+    "bạn học",
+    "hiếu thảo",
+    "nắng",
+    "hộp bút"
+   ],
+   "Từ này nói về trường học."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"gia đình\"?",
+   [
+    "bố mẹ, chăm sóc, yêu thương",
+    "em bé, ông bà, sân trường",
+    "chăm sóc, yêu thương, chim sẻ",
+    "chăm sóc, ông bà, thân cây"
+   ],
+   "Cả ba từ \"bố mẹ, chăm sóc, yêu thương\" đều nói về gia đình."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"cây cối\"?",
+   [
+    "nụ hoa, cành lá, thân cây",
+    "thân cây, phi công, hạt giống",
+    "nụ hoa, bố mẹ, mầm non",
+    "con voi, gốc cây, cành lá"
+   ],
+   "Cả ba từ \"nụ hoa, cành lá, thân cây\" đều nói về cây cối."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"cây cối\"?",
+   [
+    "quả chín, thân cây, hạt giống",
+    "con voi, mầm non, rễ cây",
+    "rét buốt, gốc cây, nụ hoa",
+    "cành lá, nụ hoa, nắng"
+   ],
+   "Cả ba từ \"quả chín, thân cây, hạt giống\" đều nói về cây cối."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"đồ dùng học tập\"?",
+   [
+    "bút chì, com-pa, bút màu",
+    "thước kẻ, con trâu, bút màu",
+    "cặp sách, thước kẻ, con trâu",
+    "cặp sách, cục tẩy, bạn học"
+   ],
+   "Cả ba từ \"bút chì, com-pa, bút màu\" đều nói về đồ dùng học tập."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"thời tiết\"?",
+   [
+    "sương mù",
+    "sum họp",
+    "kĩ sư",
+    "con voi"
+   ],
+   "Từ này nói về thời tiết."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"cây cối\"?",
+   [
+    "hạt giống, nụ hoa, mầm non",
+    "cành lá, rễ cây, chăm sóc",
+    "mầm non, cảnh sát, hạt giống",
+    "thân cây, rễ cây, gió mùa"
+   ],
+   "Cả ba từ \"hạt giống, nụ hoa, mầm non\" đều nói về cây cối."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"gia đình\"?",
+   [
+    "anh chị, yêu thương, chăm sóc",
+    "com-pa, hiếu thảo, chăm sóc",
+    "oi bức, em bé, hiếu thảo",
+    "em bé, bố mẹ, đầu bếp"
+   ],
+   "Cả ba từ \"anh chị, yêu thương, chăm sóc\" đều nói về gia đình."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"thời tiết\"?",
+   [
+    "oi bức",
+    "bố mẹ",
+    "cục tẩy",
+    "nông dân"
+   ],
+   "Từ này nói về thời tiết."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"gia đình\"?",
+   [
+    "ông bà, chăm sóc, em bé",
+    "chăm sóc, ông bà, cá chép",
+    "bác sĩ, bố mẹ, chăm sóc",
+    "bố mẹ, sum họp, cục tẩy"
+   ],
+   "Cả ba từ \"ông bà, chăm sóc, em bé\" đều nói về gia đình."
+  ],
+  [
+   "Nhóm từ nào đều thuộc chủ đề \"nghề nghiệp\"?",
+   [
+    "nông dân, bác sĩ, đầu bếp",
+    "quả chín, cảnh sát, phi công",
+    "phi công, cảnh sát, anh chị",
+    "bác sĩ, thợ may, bút màu"
+   ],
+   "Cả ba từ \"nông dân, bác sĩ, đầu bếp\" đều nói về nghề nghiệp."
+  ]
+ ],
+ "c5": [
+  [
+   "Từ nào cùng nghĩa với 'chăm chỉ'?",
+   [
+    "siêng năng",
+    "lười biếng",
+    "nhút nhát",
+    "vui vẻ"
+   ],
+   "Chăm chỉ = siêng năng."
+  ],
+  [
+   "Từ trái nghĩa với 'cao' là:",
+   [
+    "thấp",
+    "to",
+    "dài",
+    "xa"
+   ],
+   "Cao – thấp."
+  ],
+  [
+   "Từ trái nghĩa với 'nóng' là:",
+   [
+    "lạnh",
+    "ấm",
+    "nắng",
+    "mát mẻ"
+   ],
+   "Nóng – lạnh."
+  ],
+  [
+   "Từ cùng nghĩa với 'to lớn' là:",
+   [
+    "khổng lồ",
+    "bé nhỏ",
+    "tí hon",
+    "thấp bé"
+   ],
+   "To lớn = khổng lồ."
+  ],
+  [
+   "Từ trái nghĩa với 'vui' là:",
+   [
+    "buồn",
+    "cười",
+    "hát",
+    "hay"
+   ],
+   "Vui – buồn."
+  ],
+  [
+   "Từ cùng nghĩa với 'đẹp' là:",
+   [
+    "xinh",
+    "xấu",
+    "bẩn",
+    "cũ"
+   ],
+   "Đẹp = xinh."
+  ],
+  [
+   "Cặp từ nào trái nghĩa?",
+   [
+    "sáng – tối",
+    "nhanh – mau",
+    "to – lớn",
+    "đẹp – xinh"
+   ],
+   "Sáng và tối có nghĩa ngược nhau."
+  ],
+  [
+   "Từ trái nghĩa với 'khỏe' là:",
+   [
+    "yếu",
+    "mạnh",
+    "to",
+    "béo"
+   ],
+   "Khỏe – yếu."
+  ],
+  [
+   "Từ nào trái nghĩa với \"nghèo\"?",
+   [
+    "giàu",
+    "mở",
+    "rộng",
+    "tối"
+   ],
+   "\"nghèo\" và \"giàu\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"im lặng\"?",
+   [
+    "lặng lẽ",
+    "thắng",
+    "mới",
+    "thật thà"
+   ],
+   "\"im lặng\" và \"lặng lẽ\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"mở\"?",
+   [
+    "đóng",
+    "trẻ",
+    "xuống",
+    "chậm"
+   ],
+   "\"mở\" và \"đóng\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"trắng\"?",
+   [
+    "đen",
+    "gần",
+    "nghèo",
+    "ngắn"
+   ],
+   "\"trắng\" và \"đen\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"bao la\"?",
+   [
+    "mênh mông",
+    "sạch",
+    "lên",
+    "buồn"
+   ],
+   "\"bao la\" và \"mênh mông\" có nghĩa giống nhau."
+  ],
+  [
+   "Cặp từ \"khỏe – yếu\" là cặp từ:",
+   [
+    "Trái nghĩa",
+    "Đồng nghĩa (cùng nghĩa)",
+    "Không liên quan đến nhau",
+    "Đồng âm"
+   ],
+   "\"khỏe\" và \"yếu\" có nghĩa trái ngược."
+  ],
+  [
+   "Từ nào trái nghĩa với \"lười biếng\"?",
+   [
+    "chăm chỉ",
+    "lạnh",
+    "nặng",
+    "thua"
+   ],
+   "\"lười biếng\" và \"chăm chỉ\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"ăn\"?",
+   [
+    "xơi",
+    "buồn",
+    "thật thà",
+    "thấp"
+   ],
+   "\"ăn\" và \"xơi\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"cần cù\"?",
+   [
+    "siêng",
+    "hèn nhát",
+    "xa",
+    "sáng"
+   ],
+   "\"cần cù\" và \"siêng\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"đi\"?",
+   [
+    "đến",
+    "buồn",
+    "nghèo",
+    "sạch"
+   ],
+   "\"đi\" và \"đến\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"mới\"?",
+   [
+    "cũ",
+    "lười biếng",
+    "sạch",
+    "buồn"
+   ],
+   "\"mới\" và \"cũ\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Cặp từ \"nặng – nhẹ\" là cặp từ:",
+   [
+    "Trái nghĩa",
+    "Không liên quan đến nhau",
+    "Đồng âm",
+    "Đồng nghĩa (cùng nghĩa)"
+   ],
+   "\"nặng\" và \"nhẹ\" có nghĩa trái ngược."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"hiền\"?",
+   [
+    "hiền lành",
+    "trắng",
+    "ngọt",
+    "lên"
+   ],
+   "\"hiền\" và \"hiền lành\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"già\"?",
+   [
+    "trẻ",
+    "đóng",
+    "ngày",
+    "thua"
+   ],
+   "\"già\" và \"trẻ\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Cặp từ \"thông minh – sáng dạ\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Trái nghĩa",
+    "Không liên quan đến nhau",
+    "Đồng âm"
+   ],
+   "\"thông minh\" và \"sáng dạ\" có nghĩa giống nhau."
+  ],
+  [
+   "Cặp từ \"siêng – cần cù\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Trái nghĩa",
+    "Không liên quan đến nhau",
+    "Đồng âm"
+   ],
+   "\"siêng\" và \"cần cù\" có nghĩa giống nhau."
+  ],
+  [
+   "Cặp từ \"chăm chỉ – siêng năng\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Trái nghĩa",
+    "Đồng âm",
+    "Không liên quan đến nhau"
+   ],
+   "\"chăm chỉ\" và \"siêng năng\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"mừng\"?",
+   [
+    "vui",
+    "sạch",
+    "buồn",
+    "lên"
+   ],
+   "\"mừng\" và \"vui\" có nghĩa giống nhau."
+  ],
+  [
+   "Cặp từ \"mới – cũ\" là cặp từ:",
+   [
+    "Trái nghĩa",
+    "Đồng âm",
+    "Đồng nghĩa (cùng nghĩa)",
+    "Không liên quan đến nhau"
+   ],
+   "\"mới\" và \"cũ\" có nghĩa trái ngược."
+  ],
+  [
+   "Cặp từ \"giỏi – tài\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Không liên quan đến nhau",
+    "Đồng âm",
+    "Trái nghĩa"
+   ],
+   "\"giỏi\" và \"tài\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"cao\"?",
+   [
+    "thấp",
+    "nặng",
+    "đầy",
+    "khỏe"
+   ],
+   "\"cao\" và \"thấp\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"lên\"?",
+   [
+    "xuống",
+    "hẹp",
+    "rộng",
+    "gần"
+   ],
+   "\"lên\" và \"xuống\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Cặp từ \"nhà – ngôi nhà\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Không liên quan đến nhau",
+    "Trái nghĩa",
+    "Đồng âm"
+   ],
+   "\"nhà\" và \"ngôi nhà\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"thông minh\"?",
+   [
+    "sáng dạ",
+    "đen",
+    "dài",
+    "gần"
+   ],
+   "\"thông minh\" và \"sáng dạ\" có nghĩa giống nhau."
+  ],
+  [
+   "Cặp từ \"nhanh – mau\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Đồng âm",
+    "Trái nghĩa",
+    "Không liên quan đến nhau"
+   ],
+   "\"nhanh\" và \"mau\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"biếu\"?",
+   [
+    "cho",
+    "thua",
+    "chậm",
+    "ướt"
+   ],
+   "\"biếu\" và \"cho\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"xinh\"?",
+   [
+    "đẹp",
+    "xuống",
+    "dối trá",
+    "hèn nhát"
+   ],
+   "\"xinh\" và \"đẹp\" có nghĩa giống nhau."
+  ],
+  [
+   "Cặp từ \"bé – nhỏ\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Đồng âm",
+    "Không liên quan đến nhau",
+    "Trái nghĩa"
+   ],
+   "\"bé\" và \"nhỏ\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"thấp\"?",
+   [
+    "cao",
+    "lười biếng",
+    "xuống",
+    "già"
+   ],
+   "\"thấp\" và \"cao\" có nghĩa trái ngược nhau."
+  ],
+  [
+   "Cặp từ \"lặng lẽ – im lặng\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Không liên quan đến nhau",
+    "Đồng âm",
+    "Trái nghĩa"
+   ],
+   "\"lặng lẽ\" và \"im lặng\" có nghĩa giống nhau."
+  ],
+  [
+   "Cặp từ \"dũng cảm – gan dạ\" là cặp từ:",
+   [
+    "Đồng nghĩa (cùng nghĩa)",
+    "Không liên quan đến nhau",
+    "Đồng âm",
+    "Trái nghĩa"
+   ],
+   "\"dũng cảm\" và \"gan dạ\" có nghĩa giống nhau."
+  ],
+  [
+   "Từ nào trái nghĩa với \"xa\"?",
+   [
+    "gần",
+    "dữ",
+    "lạnh",
+    "rộng"
+   ],
+   "\"xa\" và \"gần\" có nghĩa trái ngược nhau."
+  ]
+ ],
+ "c6": [
+  [
+   "Chọn từ viết đúng:",
+   [
+    "giữ gìn",
+    "dữ gìn",
+    "giữ dìn",
+    "rữ gìn"
+   ],
+   "Viết đúng là giữ gìn."
+  ],
+  [
+   "Chọn từ viết đúng:",
+   [
+    "sạch sẽ",
+    "xạch sẽ",
+    "sạch xẽ",
+    "xạch xẽ"
+   ],
+   "Sạch sẽ viết bằng s."
+  ],
+  [
+   "Điền 'ch' hay 'tr': ...ang sách",
+   [
+    "tr",
+    "ch",
+    "s",
+    "x"
+   ],
+   "Trang sách."
+  ],
+  [
+   "Điền 'l' hay 'n': ...o lắng",
+   [
+    "l",
+    "n",
+    "nh",
+    "đ"
+   ],
+   "Lo lắng."
+  ],
+  [
+   "Chọn từ viết đúng:",
+   [
+    "con kiến",
+    "con kiếng",
+    "con cến",
+    "con kến"
+   ],
+   "Con kiến."
+  ],
+  [
+   "Điền 'iu' hay 'êu': cái r...",
+   [
+    "ìu",
+    "ều",
+    "iếu",
+    "ừu"
+   ],
+   "Cái rìu."
+  ],
+  [
+   "Chọn từ viết đúng:",
+   [
+    "xinh xắn",
+    "sinh xắn",
+    "xinh sắn",
+    "sinh sắn"
+   ],
+   "Xinh xắn viết bằng x."
+  ],
+  [
+   "Điền 's' hay 'x': ...ân trường",
+   [
+    "s",
+    "x",
+    "ch",
+    "tr"
+   ],
+   "Sân trường."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "quả truối",
+    "sắp xếp",
+    "lung linh",
+    "luyện tập"
+   ],
+   "\"quả truối\" viết sai, đúng phải là \"quả chuối\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "mõi mệc",
+    "suy nghĩ",
+    "nghỉ ngơi",
+    "ghi nhớ"
+   ],
+   "\"mõi mệc\" viết sai, đúng phải là \"mỏi mệt\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "trung thựt",
+    "con kiến",
+    "suy nghĩ",
+    "sữa chua"
+   ],
+   "\"trung thựt\" viết sai, đúng phải là \"trung thực\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "sắp xếp",
+    "xắp xếp",
+    "sắp sếp",
+    "xắp sếp"
+   ],
+   "Viết đúng là \"sắp xếp\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "nặng lề",
+    "che chở",
+    "suy nghĩ",
+    "mỏi mệt"
+   ],
+   "\"nặng lề\" viết sai, đúng phải là \"nặng nề\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "trong trẻo",
+    "chong chẻo",
+    "trong chẻo",
+    "chong trẻo"
+   ],
+   "Viết đúng là \"trong trẻo\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "quả chuối",
+    "quả chuốy",
+    "quả chúi",
+    "quả truối"
+   ],
+   "Viết đúng là \"quả chuối\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "lung linh",
+    "nung ninh",
+    "lung ninh",
+    "nung linh"
+   ],
+   "Viết đúng là \"lung linh\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "luyệng tập",
+    "nghỉ ngơi",
+    "bâng khuâng",
+    "sạch sẽ"
+   ],
+   "\"luyệng tập\" viết sai, đúng phải là \"luyện tập\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "bánh chưn",
+    "trong trẻo",
+    "quả chuối",
+    "dạy dỗ"
+   ],
+   "\"bánh chưn\" viết sai, đúng phải là \"bánh chưng\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "vẻ chanh",
+    "nghỉ ngơi",
+    "giữ gìn",
+    "suy nghĩ"
+   ],
+   "\"vẻ chanh\" viết sai, đúng phải là \"vẽ tranh\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "nung ninh",
+    "sữa chua",
+    "bâng khuâng",
+    "mỏi mệt"
+   ],
+   "\"nung ninh\" viết sai, đúng phải là \"lung linh\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "nghỉ ngơi",
+    "ngỉ ngơi",
+    "nghĩ ngơi",
+    "nghỉ nghơi"
+   ],
+   "Viết đúng là \"nghỉ ngơi\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "chăm trỉ",
+    "sữa chua",
+    "quả chuối",
+    "cái kéo"
+   ],
+   "\"chăm trỉ\" viết sai, đúng phải là \"chăm chỉ\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "luyện tạp",
+    "giữ gìn",
+    "suy nghĩ",
+    "mỏi mệt"
+   ],
+   "\"luyện tạp\" viết sai, đúng phải là \"luyện tập\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "chăm chỉ",
+    "trăm chỉ",
+    "chăm trỉ",
+    "trăm trỉ"
+   ],
+   "Viết đúng là \"chăm chỉ\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "dó thổi",
+    "cái kéo",
+    "trung thực",
+    "trong trẻo"
+   ],
+   "\"dó thổi\" viết sai, đúng phải là \"gió thổi\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "suy nghĩ",
+    "xuy nghĩ",
+    "suy ngĩ",
+    "suy nghỉ"
+   ],
+   "Viết đúng là \"suy nghĩ\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "dạy dỗ",
+    "giạy giỗ",
+    "dạy giỗ",
+    "rạy dỗ"
+   ],
+   "Viết đúng là \"dạy dỗ\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "lo lắng",
+    "lo nắng",
+    "no nắng",
+    "no lắng"
+   ],
+   "Viết đúng là \"lo lắng\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "khuyêng bảo",
+    "che chở",
+    "dạy dỗ",
+    "trong trẻo"
+   ],
+   "\"khuyêng bảo\" viết sai, đúng phải là \"khuyên bảo\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "ró thổi",
+    "bánh chưng",
+    "ghi nhớ",
+    "khuyên bảo"
+   ],
+   "\"ró thổi\" viết sai, đúng phải là \"gió thổi\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "nghỉ nghơi",
+    "trong trẻo",
+    "lo lắng",
+    "chăm chỉ"
+   ],
+   "\"nghỉ nghơi\" viết sai, đúng phải là \"nghỉ ngơi\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "khuyên bảo",
+    "khuyên bão",
+    "khuyêng bảo",
+    "khiên bảo"
+   ],
+   "Viết đúng là \"khuyên bảo\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "bâng khuâng",
+    "bân khuân",
+    "bâng khuân",
+    "bân khuâng"
+   ],
+   "Viết đúng là \"bâng khuâng\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "con nghé",
+    "con ghé",
+    "con ngé",
+    "con nghẽ"
+   ],
+   "Viết đúng là \"con nghé\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "chung thựt",
+    "con kiến",
+    "quả chuối",
+    "che chở"
+   ],
+   "\"chung thựt\" viết sai, đúng phải là \"trung thực\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "bân khuân",
+    "dạy dỗ",
+    "mỏi mệt",
+    "sạch sẽ"
+   ],
+   "\"bân khuân\" viết sai, đúng phải là \"bâng khuâng\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "cái thang",
+    "cái tang",
+    "cái thanh",
+    "cái than"
+   ],
+   "Viết đúng là \"cái thang\"."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "vẽ tranh",
+    "vẽ chanh",
+    "vẻ tranh",
+    "vẻ chanh"
+   ],
+   "Viết đúng là \"vẽ tranh\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "luiện tập",
+    "khuyên bảo",
+    "rung rinh",
+    "bâng khuâng"
+   ],
+   "\"luiện tập\" viết sai, đúng phải là \"luyện tập\"."
+  ],
+  [
+   "Từ nào viết SAI chính tả?",
+   [
+    "sắp sếp",
+    "khuyên bảo",
+    "nghỉ ngơi",
+    "con kiến"
+   ],
+   "\"sắp sếp\" viết sai, đúng phải là \"sắp xếp\"."
+  ]
+ ],
+ "c7": [
+  [
+   "Đọc: 'Bông cúc nở vàng rực bên bờ rào. Chú chim sơn ca bay đến hót mừng.' Bông cúc màu gì?",
+   [
+    "Vàng",
+    "Trắng",
+    "Đỏ",
+    "Tím"
+   ],
+   "Bông cúc nở vàng rực."
+  ],
+  [
+   "Đọc: 'Mỗi sáng, ông em tưới cây, cho gà ăn rồi đi tập thể dục.' Ông làm mấy việc?",
+   [
+    "3 việc",
+    "2 việc",
+    "1 việc",
+    "4 việc"
+   ],
+   "Tưới cây, cho gà ăn, tập thể dục: 3 việc."
+  ],
+  [
+   "Đọc: 'Cô giáo như mẹ hiền.' Câu này cho thấy cô giáo:",
+   [
+    "Hiền hậu, yêu thương học sinh",
+    "Rất nghiêm khắc",
+    "Không thích học sinh",
+    "Hay mắng"
+   ],
+   "So sánh cô với mẹ hiền: cô yêu thương học trò."
+  ],
+  [
+   "Đọc: 'Trời mưa, Nam cho bạn mượn áo mưa.' Nam là người:",
+   [
+    "Tốt bụng, biết giúp bạn",
+    "Ích kỉ",
+    "Lười biếng",
+    "Hay giận"
+   ],
+   "Cho bạn mượn áo mưa là giúp đỡ bạn."
+  ],
+  [
+   "Đọc: 'Đàn kiến nối đuôi nhau tha mồi về tổ.' Đàn kiến đang làm gì?",
+   [
+    "Tha mồi về tổ",
+    "Đánh nhau",
+    "Ngủ",
+    "Tắm"
+   ],
+   "Câu văn nói đàn kiến tha mồi."
+  ],
+  [
+   "Đọc: 'Ngày Tết, cả nhà quây quần gói bánh chưng.' Ngày Tết, cả nhà làm gì?",
+   [
+    "Gói bánh chưng",
+    "Đi biển",
+    "Trồng lúa",
+    "Đi học"
+   ],
+   "Câu nói cả nhà gói bánh chưng."
+  ],
+  [
+   "Đọc: 'Sóc nhảy từ cành này sang cành khác rất nhanh.' Từ nào tả cách sóc nhảy?",
+   [
+    "rất nhanh",
+    "cành",
+    "sóc",
+    "nhảy"
+   ],
+   "Rất nhanh tả cách nhảy."
+  ],
+  [
+   "Đọc đoạn văn:\n«Mùa xuân đến, cây đào trước ngõ nở hoa hồng thắm. Những chú chim sâu nhảy nhót trên cành, hót vang. Bầu trời trong xanh, nắng ấm áp. Ai cũng vui vẻ đón Tết.»\n\nNhững chú chim sâu đang làm gì?",
+   [
+    "Nhảy nhót trên cành, hót vang",
+    "Làm tổ",
+    "Bay về phương Nam",
+    "Ngủ say"
+   ],
+   "Chim sâu nhảy nhót, hót vang."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nCâu chuyện cho thấy Na là cô bé thế nào?",
+   [
+    "Biết thương bà, chăm làm",
+    "Ích kỉ",
+    "Hay khóc nhè",
+    "Lười biếng"
+   ],
+   "Na thương bà và giúp bà làm việc."
+  ],
+  [
+   "Đọc đoạn văn:\n«Lớp em tổ chức trồng cây ở vườn trường. Bạn đào hố, bạn đặt cây, bạn lấp đất, bạn tưới nước. Cô giáo dặn: \"Các em nhớ chăm sóc cây hằng ngày nhé!\" Chẳng bao lâu, những cây non đã xanh tốt.»\n\nCác bạn chia nhau làm những việc gì?",
+   [
+    "Đào hố, đặt cây, lấp đất, tưới nước",
+    "Quét lớp, lau bảng",
+    "Hát, múa",
+    "Đọc sách, viết bài"
+   ],
+   "Bài kể bốn việc khi trồng cây."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nCái mào của chú gà màu gì?",
+   [
+    "Đỏ chót",
+    "Vàng óng",
+    "Xanh biếc",
+    "Trắng muốt"
+   ],
+   "Cái mào đỏ chót."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nHôm nay Na đã làm gì?",
+   [
+    "Dậy sớm giúp bà nhặt rau",
+    "Nấu cơm một mình",
+    "Ngủ dậy muộn",
+    "Đi học sớm"
+   ],
+   "Na dậy sớm giúp bà nhặt rau."
+  ],
+  [
+   "Đọc đoạn văn:\n«Giờ ra chơi, Minh chạy vội nên va vào Lan làm sách vở của Lan rơi xuống đất. Minh vội cúi xuống nhặt giúp bạn và nói: \"Tớ xin lỗi bạn nhé!\" Lan mỉm cười: \"Không sao đâu, lần sau bạn đi cẩn thận nhé!\"»\n\nCâu chuyện khuyên em điều gì?",
+   [
+    "Biết xin lỗi khi làm sai và biết tha thứ cho bạn",
+    "Không nên chơi với bạn",
+    "Không cần xin lỗi",
+    "Nên chạy thật nhanh"
+   ],
+   "Biết nhận lỗi và biết tha thứ."
+  ],
+  [
+   "Đọc đoạn văn:\n«Lớp em tổ chức trồng cây ở vườn trường. Bạn đào hố, bạn đặt cây, bạn lấp đất, bạn tưới nước. Cô giáo dặn: \"Các em nhớ chăm sóc cây hằng ngày nhé!\" Chẳng bao lâu, những cây non đã xanh tốt.»\n\nCô giáo dặn các em điều gì?",
+   [
+    "Chăm sóc cây hằng ngày",
+    "Hái hoa về nhà",
+    "Nhổ cây non",
+    "Không được vào vườn"
+   ],
+   "Cô dặn chăm sóc cây hằng ngày."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nBà làm những việc gì?",
+   [
+    "Quét sân, tưới rau, nấu cơm",
+    "Đi làm ở nhà máy",
+    "Giặt quần áo, đi chợ",
+    "Dạy học"
+   ],
+   "Bà quét sân, tưới rau rồi nấu cơm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nKhi em đi học về, Bông làm gì?",
+   [
+    "Chạy ra cổng, vẫy đuôi mừng",
+    "Sủa thật to",
+    "Nằm ngủ",
+    "Chạy trốn"
+   ],
+   "Bông chạy ra cổng vẫy đuôi mừng rối rít."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nMỗi sáng chú gà đứng ở đâu để gáy?",
+   [
+    "Trên đống rơm",
+    "Trên mái nhà",
+    "Trong chuồng",
+    "Dưới gốc cây"
+   ],
+   "Chú đứng trên đống rơm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Giờ ra chơi, Minh chạy vội nên va vào Lan làm sách vở của Lan rơi xuống đất. Minh vội cúi xuống nhặt giúp bạn và nói: \"Tớ xin lỗi bạn nhé!\" Lan mỉm cười: \"Không sao đâu, lần sau bạn đi cẩn thận nhé!\"»\n\nMinh đã làm gì sau đó?",
+   [
+    "Nhặt sách giúp bạn và xin lỗi",
+    "Bỏ chạy",
+    "Trêu Lan",
+    "Mách cô giáo"
+   ],
+   "Minh nhặt giúp và xin lỗi."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nCâu 'Cái mào đỏ chót như bông hoa mào gà.' dùng biện pháp gì?",
+   [
+    "So sánh",
+    "Nhân hóa",
+    "Điệp từ",
+    "Liệt kê"
+   ],
+   "Có từ 'như' so sánh mào gà với bông hoa."
+  ],
+  [
+   "Đọc đoạn văn:\n«Lớp em tổ chức trồng cây ở vườn trường. Bạn đào hố, bạn đặt cây, bạn lấp đất, bạn tưới nước. Cô giáo dặn: \"Các em nhớ chăm sóc cây hằng ngày nhé!\" Chẳng bao lâu, những cây non đã xanh tốt.»\n\nKết quả việc trồng cây thế nào?",
+   [
+    "Cây non xanh tốt",
+    "Cây bị nhổ mất",
+    "Cây bị héo",
+    "Không có cây nào"
+   ],
+   "Chẳng bao lâu cây đã xanh tốt."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nEm chăm sóc Bông thế nào?",
+   [
+    "Cho Bông ăn, tắm cho Bông",
+    "Trêu chọc Bông",
+    "Nhốt Bông cả ngày",
+    "Không chăm sóc"
+   ],
+   "Em cho Bông ăn và tắm cho Bông."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nBà khen Na thế nào?",
+   [
+    "Cháu bà ngoan quá!",
+    "Cháu bà giỏi quá!",
+    "Cháu bà xinh quá!",
+    "Cháu bà lớn quá!"
+   ],
+   "Bà nói: Cháu bà ngoan quá!"
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nTiếng gáy của chú gà có tác dụng gì?",
+   [
+    "Đánh thức cả xóm",
+    "Đuổi chó",
+    "Báo trời mưa",
+    "Gọi đàn gà con"
+   ],
+   "Tiếng gáy đánh thức cả xóm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nCâu 'Lông Bông trắng muốt như bông.' là câu nêu:",
+   [
+    "Đặc điểm",
+    "Hoạt động",
+    "Câu hỏi",
+    "Giới thiệu"
+   ],
+   "Câu tả lông Bông thế nào: nêu đặc điểm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nCon vật được kể trong bài tên là gì?",
+   [
+    "Bông",
+    "Mực",
+    "Na",
+    "Vàng"
+   ],
+   "Cún Bông là con chó nhỏ."
+  ],
+  [
+   "Đọc đoạn văn:\n«Giờ ra chơi, Minh chạy vội nên va vào Lan làm sách vở của Lan rơi xuống đất. Minh vội cúi xuống nhặt giúp bạn và nói: \"Tớ xin lỗi bạn nhé!\" Lan mỉm cười: \"Không sao đâu, lần sau bạn đi cẩn thận nhé!\"»\n\nVì sao sách vở của Lan bị rơi?",
+   [
+    "Vì Minh chạy vội va vào Lan",
+    "Vì gió thổi",
+    "Vì bàn bị đổ",
+    "Vì Lan làm rơi"
+   ],
+   "Minh chạy vội nên va vào Lan."
+  ],
+  [
+   "Đọc đoạn văn:\n«Mùa xuân đến, cây đào trước ngõ nở hoa hồng thắm. Những chú chim sâu nhảy nhót trên cành, hót vang. Bầu trời trong xanh, nắng ấm áp. Ai cũng vui vẻ đón Tết.»\n\nBài văn nói về mùa nào?",
+   [
+    "Mùa xuân",
+    "Mùa thu",
+    "Mùa hè",
+    "Mùa đông"
+   ],
+   "Câu đầu: Mùa xuân đến."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nBài văn tả con vật nào?",
+   [
+    "Con gà trống",
+    "Con vịt",
+    "Con chim",
+    "Con mèo"
+   ],
+   "Bài tả chú gà trống."
+  ],
+  [
+   "Đọc đoạn văn:\n«Mùa xuân đến, cây đào trước ngõ nở hoa hồng thắm. Những chú chim sâu nhảy nhót trên cành, hót vang. Bầu trời trong xanh, nắng ấm áp. Ai cũng vui vẻ đón Tết.»\n\nTừ nào tả bầu trời?",
+   [
+    "trong xanh",
+    "hồng thắm",
+    "ấm áp",
+    "vui vẻ"
+   ],
+   "Bầu trời trong xanh."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nSáng nào bà cũng làm gì đầu tiên?",
+   [
+    "Dậy thật sớm",
+    "Xem ti vi",
+    "Ngủ thêm",
+    "Đi chợ"
+   ],
+   "Câu đầu: Sáng nào bà cũng dậy thật sớm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nLông của Bông màu gì?",
+   [
+    "Trắng muốt",
+    "Vàng",
+    "Đen tuyền",
+    "Nâu"
+   ],
+   "Lông Bông trắng muốt như bông."
+  ],
+  [
+   "Đọc đoạn văn:\n«Giờ ra chơi, Minh chạy vội nên va vào Lan làm sách vở của Lan rơi xuống đất. Minh vội cúi xuống nhặt giúp bạn và nói: \"Tớ xin lỗi bạn nhé!\" Lan mỉm cười: \"Không sao đâu, lần sau bạn đi cẩn thận nhé!\"»\n\nLan đáp lại thế nào?",
+   [
+    "Mỉm cười, nói không sao và nhắc bạn cẩn thận",
+    "Khóc và giận Minh",
+    "Không nói gì",
+    "Mắng Minh"
+   ],
+   "Lan mỉm cười tha lỗi cho bạn."
+  ],
+  [
+   "Đọc đoạn văn:\n«Mùa xuân đến, cây đào trước ngõ nở hoa hồng thắm. Những chú chim sâu nhảy nhót trên cành, hót vang. Bầu trời trong xanh, nắng ấm áp. Ai cũng vui vẻ đón Tết.»\n\nHoa đào màu gì?",
+   [
+    "Hồng thắm",
+    "Tím biếc",
+    "Trắng tinh",
+    "Vàng tươi"
+   ],
+   "Cây đào nở hoa hồng thắm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Lớp em tổ chức trồng cây ở vườn trường. Bạn đào hố, bạn đặt cây, bạn lấp đất, bạn tưới nước. Cô giáo dặn: \"Các em nhớ chăm sóc cây hằng ngày nhé!\" Chẳng bao lâu, những cây non đã xanh tốt.»\n\nLớp em làm gì ở vườn trường?",
+   [
+    "Trồng cây",
+    "Học bài",
+    "Nhặt rác",
+    "Chơi đá bóng"
+   ],
+   "Lớp tổ chức trồng cây."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "Từ nào chỉ hoạt động?",
+   [
+    "tưới",
+    "cây",
+    "xanh",
+    "hoa"
+   ],
+   "Tưới là việc làm."
+  ],
+  [
+   "Câu 'Lan là lớp trưởng.' trả lời câu hỏi:",
+   [
+    "Ai là gì?",
+    "Ai làm gì?",
+    "Ai thế nào?",
+    "Ở đâu?"
+   ],
+   "Câu giới thiệu: Ai là gì?"
+  ],
+  [
+   "Từ trái nghĩa với 'ngắn':",
+   [
+    "dài",
+    "cao",
+    "to",
+    "nhỏ"
+   ],
+   "Ngắn – dài."
+  ],
+  [
+   "Cuối câu 'Bạn tên là gì' đặt dấu:",
+   [
+    "?",
+    ".",
+    "!",
+    ","
+   ],
+   "Đây là câu hỏi."
+  ],
+  [
+   "Chọn từ viết đúng:",
+   [
+    "ngôi nhà",
+    "nghôi nhà",
+    "ngôi nhàa",
+    "ngoi nhà"
+   ],
+   "ng đứng trước ô: ngôi nhà."
+  ],
+  [
+   "Từ nào cùng nghĩa với 'thương yêu'?",
+   [
+    "yêu quý",
+    "ghét bỏ",
+    "giận dữ",
+    "xa lánh"
+   ],
+   "Thương yêu = yêu quý."
+  ],
+  [
+   "Từ nào chỉ đặc điểm?",
+   [
+    "ngoan ngoãn",
+    "học bài",
+    "cái cặp",
+    "bạn bè"
+   ],
+   "Ngoan ngoãn nêu tính nết."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nHôm nay Na đã làm gì?",
+   [
+    "Dậy sớm giúp bà nhặt rau",
+    "Đi học sớm",
+    "Nấu cơm một mình",
+    "Ngủ dậy muộn"
+   ],
+   "Na dậy sớm giúp bà nhặt rau."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"yêu quý\"?",
+   [
+    "yêu thương",
+    "thua",
+    "lười biếng",
+    "nhẹ"
+   ],
+   "\"yêu quý\" và \"yêu thương\" có nghĩa giống nhau."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nTiếng gáy của chú gà có tác dụng gì?",
+   [
+    "Đánh thức cả xóm",
+    "Báo trời mưa",
+    "Gọi đàn gà con",
+    "Đuổi chó"
+   ],
+   "Tiếng gáy đánh thức cả xóm."
+  ],
+  [
+   "Từ nào là từ chỉ sự vật?",
+   [
+    "cái bàn",
+    "dũng cảm",
+    "thấp",
+    "đọc sách"
+   ],
+   "\"cái bàn\" là từ chỉ sự vật; các từ còn lại chỉ hoạt động hoặc đặc điểm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Mùa xuân đến, cây đào trước ngõ nở hoa hồng thắm. Những chú chim sâu nhảy nhót trên cành, hót vang. Bầu trời trong xanh, nắng ấm áp. Ai cũng vui vẻ đón Tết.»\n\nTừ nào tả bầu trời?",
+   [
+    "trong xanh",
+    "ấm áp",
+    "hồng thắm",
+    "vui vẻ"
+   ],
+   "Bầu trời trong xanh."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nCon vật được kể trong bài tên là gì?",
+   [
+    "Bông",
+    "Vàng",
+    "Mực",
+    "Na"
+   ],
+   "Cún Bông là con chó nhỏ."
+  ],
+  [
+   "Đọc đoạn văn:\n«Lớp em tổ chức trồng cây ở vườn trường. Bạn đào hố, bạn đặt cây, bạn lấp đất, bạn tưới nước. Cô giáo dặn: \"Các em nhớ chăm sóc cây hằng ngày nhé!\" Chẳng bao lâu, những cây non đã xanh tốt.»\n\nCác bạn chia nhau làm những việc gì?",
+   [
+    "Đào hố, đặt cây, lấp đất, tưới nước",
+    "Đọc sách, viết bài",
+    "Quét lớp, lau bảng",
+    "Hát, múa"
+   ],
+   "Bài kể bốn việc khi trồng cây."
+  ],
+  [
+   "Đọc đoạn văn:\n«Mùa xuân đến, cây đào trước ngõ nở hoa hồng thắm. Những chú chim sâu nhảy nhót trên cành, hót vang. Bầu trời trong xanh, nắng ấm áp. Ai cũng vui vẻ đón Tết.»\n\nNhững chú chim sâu đang làm gì?",
+   [
+    "Nhảy nhót trên cành, hót vang",
+    "Làm tổ",
+    "Ngủ say",
+    "Bay về phương Nam"
+   ],
+   "Chim sâu nhảy nhót, hót vang."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nKhi em đi học về, Bông làm gì?",
+   [
+    "Chạy ra cổng, vẫy đuôi mừng",
+    "Sủa thật to",
+    "Chạy trốn",
+    "Nằm ngủ"
+   ],
+   "Bông chạy ra cổng vẫy đuôi mừng rối rít."
+  ],
+  [
+   "Cuối câu \"Mẹ em là bác sĩ\" cần đặt dấu gì?",
+   [
+    "Dấu chấm",
+    "Dấu chấm hỏi",
+    "Dấu chấm than",
+    "Dấu phẩy"
+   ],
+   "Câu kể nên dùng dấu chấm."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"bao la\"?",
+   [
+    "mênh mông",
+    "sạch",
+    "dối trá",
+    "gần"
+   ],
+   "\"bao la\" và \"mênh mông\" có nghĩa giống nhau."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nBà khen Na thế nào?",
+   [
+    "Cháu bà ngoan quá!",
+    "Cháu bà lớn quá!",
+    "Cháu bà giỏi quá!",
+    "Cháu bà xinh quá!"
+   ],
+   "Bà nói: Cháu bà ngoan quá!"
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"chăm chỉ\"?",
+   [
+    "siêng năng",
+    "gần",
+    "mới",
+    "đi"
+   ],
+   "\"chăm chỉ\" và \"siêng năng\" có nghĩa giống nhau."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nMỗi sáng chú gà đứng ở đâu để gáy?",
+   [
+    "Trên đống rơm",
+    "Trong chuồng",
+    "Trên mái nhà",
+    "Dưới gốc cây"
+   ],
+   "Chú đứng trên đống rơm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Giờ ra chơi, Minh chạy vội nên va vào Lan làm sách vở của Lan rơi xuống đất. Minh vội cúi xuống nhặt giúp bạn và nói: \"Tớ xin lỗi bạn nhé!\" Lan mỉm cười: \"Không sao đâu, lần sau bạn đi cẩn thận nhé!\"»\n\nMinh đã làm gì sau đó?",
+   [
+    "Nhặt sách giúp bạn và xin lỗi",
+    "Bỏ chạy",
+    "Trêu Lan",
+    "Mách cô giáo"
+   ],
+   "Minh nhặt giúp và xin lỗi."
+  ],
+  [
+   "Đọc đoạn văn:\n«Giờ ra chơi, Minh chạy vội nên va vào Lan làm sách vở của Lan rơi xuống đất. Minh vội cúi xuống nhặt giúp bạn và nói: \"Tớ xin lỗi bạn nhé!\" Lan mỉm cười: \"Không sao đâu, lần sau bạn đi cẩn thận nhé!\"»\n\nLan đáp lại thế nào?",
+   [
+    "Mỉm cười, nói không sao và nhắc bạn cẩn thận",
+    "Không nói gì",
+    "Khóc và giận Minh",
+    "Mắng Minh"
+   ],
+   "Lan mỉm cười tha lỗi cho bạn."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nCái mào của chú gà màu gì?",
+   [
+    "Đỏ chót",
+    "Vàng óng",
+    "Trắng muốt",
+    "Xanh biếc"
+   ],
+   "Cái mào đỏ chót."
+  ],
+  [
+   "Đọc đoạn văn:\n«Chú gà trống nhà em rất đẹp. Bộ lông chú óng ánh như được tắm nắng. Cái mào đỏ chót như bông hoa mào gà. Mỗi sáng, chú đứng trên đống rơm, vươn cổ gáy \"Ò ó o\" đánh thức cả xóm.»\n\nCâu 'Cái mào đỏ chót như bông hoa mào gà.' dùng biện pháp gì?",
+   [
+    "So sánh",
+    "Điệp từ",
+    "Nhân hóa",
+    "Liệt kê"
+   ],
+   "Có từ 'như' so sánh mào gà với bông hoa."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nBà làm những việc gì?",
+   [
+    "Quét sân, tưới rau, nấu cơm",
+    "Dạy học",
+    "Đi làm ở nhà máy",
+    "Giặt quần áo, đi chợ"
+   ],
+   "Bà quét sân, tưới rau rồi nấu cơm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nCâu 'Lông Bông trắng muốt như bông.' là câu nêu:",
+   [
+    "Đặc điểm",
+    "Hoạt động",
+    "Giới thiệu",
+    "Câu hỏi"
+   ],
+   "Câu tả lông Bông thế nào: nêu đặc điểm."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"nghề nghiệp\"?",
+   [
+    "nông dân",
+    "rét buốt",
+    "quả chín",
+    "yêu thương"
+   ],
+   "Từ này nói về nghề nghiệp."
+  ],
+  [
+   "Đọc đoạn văn:\n«Lớp em tổ chức trồng cây ở vườn trường. Bạn đào hố, bạn đặt cây, bạn lấp đất, bạn tưới nước. Cô giáo dặn: \"Các em nhớ chăm sóc cây hằng ngày nhé!\" Chẳng bao lâu, những cây non đã xanh tốt.»\n\nCô giáo dặn các em điều gì?",
+   [
+    "Chăm sóc cây hằng ngày",
+    "Nhổ cây non",
+    "Không được vào vườn",
+    "Hái hoa về nhà"
+   ],
+   "Cô dặn chăm sóc cây hằng ngày."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "gió thổi",
+    "ró thổi",
+    "gió thỗi",
+    "dó thổi"
+   ],
+   "Viết đúng là \"gió thổi\"."
+  ],
+  [
+   "Đọc đoạn văn:\n«Mùa xuân đến, cây đào trước ngõ nở hoa hồng thắm. Những chú chim sâu nhảy nhót trên cành, hót vang. Bầu trời trong xanh, nắng ấm áp. Ai cũng vui vẻ đón Tết.»\n\nBài văn nói về mùa nào?",
+   [
+    "Mùa xuân",
+    "Mùa đông",
+    "Mùa hè",
+    "Mùa thu"
+   ],
+   "Câu đầu: Mùa xuân đến."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"con vật\"?",
+   [
+    "chim sẻ",
+    "bài tập",
+    "cành lá",
+    "lớp học"
+   ],
+   "Từ này nói về con vật."
+  ],
+  [
+   "Từ nào thuộc chủ đề \"trường học\"?",
+   [
+    "lớp học",
+    "quyển vở",
+    "con hổ",
+    "gió mùa"
+   ],
+   "Từ này nói về trường học."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "lo lắng",
+    "lo nắng",
+    "no nắng",
+    "no lắng"
+   ],
+   "Viết đúng là \"lo lắng\"."
+  ],
+  [
+   "Đọc đoạn văn:\n«Cún Bông là con chó nhỏ nhà em. Lông Bông trắng muốt như bông. Mỗi chiều em đi học về, Bông chạy ra cổng, vẫy đuôi mừng rối rít. Em rất yêu Bông và thường cho Bông ăn, tắm cho Bông.»\n\nEm chăm sóc Bông thế nào?",
+   [
+    "Cho Bông ăn, tắm cho Bông",
+    "Nhốt Bông cả ngày",
+    "Trêu chọc Bông",
+    "Không chăm sóc"
+   ],
+   "Em cho Bông ăn và tắm cho Bông."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nSáng nào bà cũng làm gì đầu tiên?",
+   [
+    "Dậy thật sớm",
+    "Đi chợ",
+    "Xem ti vi",
+    "Ngủ thêm"
+   ],
+   "Câu đầu: Sáng nào bà cũng dậy thật sớm."
+  ],
+  [
+   "Đọc đoạn văn:\n«Giờ ra chơi, Minh chạy vội nên va vào Lan làm sách vở của Lan rơi xuống đất. Minh vội cúi xuống nhặt giúp bạn và nói: \"Tớ xin lỗi bạn nhé!\" Lan mỉm cười: \"Không sao đâu, lần sau bạn đi cẩn thận nhé!\"»\n\nVì sao sách vở của Lan bị rơi?",
+   [
+    "Vì Minh chạy vội va vào Lan",
+    "Vì bàn bị đổ",
+    "Vì Lan làm rơi",
+    "Vì gió thổi"
+   ],
+   "Minh chạy vội nên va vào Lan."
+  ],
+  [
+   "Từ nào viết đúng chính tả?",
+   [
+    "ngoằn ngoèo",
+    "ngoằng ngoèo",
+    "ngoằn ngèo",
+    "ngằn ngoèo"
+   ],
+   "Viết đúng là \"ngoằn ngoèo\"."
+  ],
+  [
+   "Từ nào cùng nghĩa (đồng nghĩa) với \"cần cù\"?",
+   [
+    "siêng",
+    "thắng",
+    "xa",
+    "to"
+   ],
+   "\"cần cù\" và \"siêng\" có nghĩa giống nhau."
+  ],
+  [
+   "Đọc đoạn văn:\n«Sáng nào bà cũng dậy thật sớm. Bà quét sân, tưới rau rồi nấu cơm cho cả nhà. Bé Na thương bà lắm. Hôm nay, Na dậy sớm giúp bà nhặt rau. Bà xoa đầu Na, cười: \"Cháu bà ngoan quá!\"»\n\nCâu chuyện cho thấy Na là cô bé thế nào?",
+   [
+    "Biết thương bà, chăm làm",
+    "Ích kỉ",
+    "Lười biếng",
+    "Hay khóc nhè"
+   ],
+   "Na thương bà và giúp bà làm việc."
+  ]
+ ]
+}

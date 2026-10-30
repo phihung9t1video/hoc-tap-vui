@@ -1,0 +1,1468 @@
+{
+ "c1": [
+  [
+   "Số nào lớn nhất trong các số: 3, 8, 5, 6?",
+   [
+    "8",
+    "6",
+    "5",
+    "3"
+   ],
+   "Đếm từ 0 đến 10, số 8 đứng sau cùng trong các số đã cho nên lớn nhất."
+  ],
+  [
+   "Số nào bé nhất trong các số: 7, 2, 9, 4?",
+   [
+    "2",
+    "4",
+    "7",
+    "9"
+   ],
+   "Số 2 đứng trước các số còn lại khi đếm nên bé nhất."
+  ],
+  [
+   "Số liền sau của 6 là:",
+   [
+    "7",
+    "5",
+    "8",
+    "6"
+   ],
+   "Đếm 6 rồi đến 7. Số liền sau lớn hơn 1 đơn vị."
+  ],
+  [
+   "Số liền trước của 10 là:",
+   [
+    "9",
+    "11",
+    "8",
+    "10"
+   ],
+   "Đếm ... 9, 10. Số đứng ngay trước 10 là 9."
+  ],
+  [
+   "Điền dấu: 5 ... 7",
+   [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "5 bé hơn 7 nên viết 5 < 7."
+  ],
+  [
+   "Điền dấu: 9 ... 4",
+   [
+    ">",
+    "<",
+    "=",
+    "-"
+   ],
+   "9 lớn hơn 4 nên viết 9 > 4."
+  ],
+  [
+   "Có 3 quả táo và 3 quả cam. So sánh số táo và số cam:",
+   [
+    "Bằng nhau",
+    "Táo nhiều hơn",
+    "Cam nhiều hơn",
+    "Không so sánh được"
+   ],
+   "3 = 3 nên số táo bằng số cam."
+  ],
+  [
+   "Các số 4, 1, 9, 6 xếp theo thứ tự từ bé đến lớn là:",
+   [
+    "1, 4, 6, 9",
+    "9, 6, 4, 1",
+    "1, 6, 4, 9",
+    "4, 1, 6, 9"
+   ],
+   "Bé nhất là 1, rồi 4, 6, lớn nhất là 9."
+  ],
+  [
+   "Số 0 có nghĩa là:",
+   [
+    "Không có gì",
+    "Có một",
+    "Có mười",
+    "Có nhiều"
+   ],
+   "Số 0 chỉ không có đồ vật nào."
+  ],
+  [
+   "Số ở giữa 4 và 6 là:",
+   [
+    "5",
+    "3",
+    "7",
+    "6"
+   ],
+   "Đếm 4, 5, 6: số ở giữa là 5."
+  ],
+  [
+   "Số gồm 8 đơn vị được đọc là gì?",
+   [
+    "Tám",
+    "Bảy",
+    "Chín",
+    "Sáu"
+   ],
+   "Số 8 được đọc là tám."
+  ],
+  [
+   "Hình nào dưới đây không có con vật nào?",
+   [
+    "Số 0 con vật",
+    "Số 1 con vật",
+    "Số 2 con vật",
+    "Số 3 con vật"
+   ],
+   "Số 0 đại diện cho không có vật nào."
+  ],
+  [
+   "Số liền trước của số 1 là số nào?",
+   [
+    "0",
+    "2",
+    "3",
+    "4"
+   ],
+   "Số ngay trước số 1 trong dãy số từ 0 đến 10 là số 0."
+  ],
+  [
+   "Số liền sau của số 9 là số nào?",
+   [
+    "10",
+    "8",
+    "7",
+    "6"
+   ],
+   "Số ngay sau số 9 trong dãy số từ 0 đến 10 là số 10."
+  ],
+  [
+   "Các số 8, 3, 10, 0 được sắp xếp theo thứ tự từ lớn đến bé là:",
+   [
+    "10, 8, 3, 0",
+    "0, 3, 8, 10",
+    "10, 3, 8, 0",
+    "8, 10, 3, 0"
+   ],
+   "So sánh các số ta có 10 lớn nhất, tiếp theo là 8, 3 và bé nhất là 0."
+  ]
+ ],
+ "c2": [
+  [
+   "Hình nào có 3 cạnh?",
+   [
+    "Hình tam giác",
+    "Hình vuông",
+    "Hình tròn",
+    "Hình chữ nhật"
+   ],
+   "Hình tam giác có 3 cạnh và 3 góc."
+  ],
+  [
+   "Hình nào không có góc?",
+   [
+    "Hình tròn",
+    "Hình vuông",
+    "Hình tam giác",
+    "Hình chữ nhật"
+   ],
+   "Hình tròn có đường viền cong, không có góc."
+  ],
+  [
+   "Hình vuông có mấy cạnh?",
+   [
+    "4 cạnh",
+    "3 cạnh",
+    "5 cạnh",
+    "2 cạnh"
+   ],
+   "Hình vuông có 4 cạnh bằng nhau."
+  ],
+  [
+   "Quả bóng có dạng khối gì?",
+   [
+    "Khối cầu",
+    "Khối lập phương",
+    "Khối hộp chữ nhật",
+    "Khối tam giác"
+   ],
+   "Quả bóng tròn đều mọi phía, có dạng khối cầu."
+  ],
+  [
+   "Hộp sữa (hộp giấy) thường có dạng khối gì?",
+   [
+    "Khối hộp chữ nhật",
+    "Khối cầu",
+    "Hình tròn",
+    "Hình tam giác"
+   ],
+   "Hộp sữa giấy có các mặt hình chữ nhật: khối hộp chữ nhật."
+  ],
+  [
+   "Con xúc xắc có dạng khối gì?",
+   [
+    "Khối lập phương",
+    "Khối cầu",
+    "Khối hộp chữ nhật dài",
+    "Hình vuông"
+   ],
+   "Con xúc xắc có 6 mặt là hình vuông bằng nhau: khối lập phương."
+  ],
+  [
+   "Mặt đồng hồ treo tường thường có dạng hình gì?",
+   [
+    "Hình tròn",
+    "Hình tam giác",
+    "Hình vuông",
+    "Hình chữ nhật"
+   ],
+   "Mặt đồng hồ thường tròn."
+  ],
+  [
+   "Lá cờ Việt Nam có dạng hình gì?",
+   [
+    "Hình chữ nhật",
+    "Hình tròn",
+    "Hình tam giác",
+    "Hình vuông"
+   ],
+   "Lá cờ dài hơn rộng, có 4 góc vuông: hình chữ nhật."
+  ],
+  [
+   "Hình nào dưới đây có các cạnh bằng nhau và có 4 góc vuông?",
+   [
+    "Hình vuông",
+    "Hình chữ nhật",
+    "Hình tam giác",
+    "Hình tròn"
+   ],
+   "Hình vuông có 4 cạnh bằng nhau và 4 góc vuông em nhé."
+  ],
+  [
+   "Vật nào dưới đây có dạng khối trụ?",
+   [
+    "Lon nước ngọt",
+    "Viên gạch",
+    "Quả bóng",
+    "Hộp quà hình lập phương"
+   ],
+   "Lon nước ngọt có hai mặt đáy là hình tròn giống như khối trụ."
+  ],
+  [
+   "Đâu là vật có dạng khối cầu?",
+   [
+    "Quả bóng đá",
+    "Hộp bút",
+    "Cục tẩy",
+    "Lon sữa bò"
+   ],
+   "Quả bóng đá tròn đều ở mọi phía nên có dạng khối cầu."
+  ],
+  [
+   "Hình nào được tạo bởi 3 đoạn thẳng khép kín?",
+   [
+    "Hình tam giác",
+    "Hình vuông",
+    "Hình chữ nhật",
+    "Hình tròn"
+   ],
+   "Hình tam giác được giới hạn bởi 3 đoạn thẳng."
+  ],
+  [
+   "Vật nào dưới đây có dạng khối lập phương?",
+   [
+    "Hộp Rubik",
+    "Lon nước",
+    "Quả bóng bàn",
+    "Quyển vở"
+   ],
+   "Hộp Rubik có các mặt đều là hình vuông nên có dạng khối lập phương."
+  ],
+  [
+   "Khối hộp chữ nhật khác khối lập phương ở điểm nào?",
+   [
+    "Khối hộp chữ nhật có các mặt là hình chữ nhật hoặc hình vuông, khối lập phương có các mặt đều là hình vuông",
+    "Khối hộp chữ nhật không có đỉnh",
+    "Khối lập phương có nhiều mặt hơn",
+    "Khối hộp chữ nhật lăn được"
+   ],
+   "Khối hộp chữ nhật có các mặt là hình chữ nhật, còn khối lập phương có 6 mặt đều là hình vuông bằng nhau."
+  ],
+  [
+   "Bạn Nam xếp một chồng gồm 3 khối hộp chữ nhật giống hệt nhau lên nhau. Khối hình mới tạo thành có dạng gì?",
+   [
+    "Khối hộp chữ nhật",
+    "Khối lập phương",
+    "Khối trụ",
+    "Khối cầu"
+   ],
+   "Khi xếp chồng các khối hộp chữ nhật lên nhau, ta được một khối hộp chữ nhật cao hơn."
+  ]
+ ],
+ "c3": [
+  [
+   "3 + 4 = ?",
+   [
+    "7",
+    "6",
+    "8",
+    "1"
+   ],
+   "Có 3 thêm 4 là 7."
+  ],
+  [
+   "8 − 3 = ?",
+   [
+    "5",
+    "6",
+    "4",
+    "11"
+   ],
+   "Có 8 bớt đi 3 còn 5."
+  ],
+  [
+   "5 + 5 = ?",
+   [
+    "10",
+    "9",
+    "11",
+    "0"
+   ],
+   "5 cộng 5 bằng 10."
+  ],
+  [
+   "9 − 9 = ?",
+   [
+    "0",
+    "9",
+    "1",
+    "18"
+   ],
+   "Một số trừ chính nó thì bằng 0."
+  ],
+  [
+   "6 + 0 = ?",
+   [
+    "6",
+    "0",
+    "7",
+    "5"
+   ],
+   "Một số cộng với 0 thì bằng chính số đó."
+  ],
+  [
+   "... + 2 = 7. Số cần điền là:",
+   [
+    "5",
+    "9",
+    "4",
+    "6"
+   ],
+   "7 − 2 = 5, nên 5 + 2 = 7."
+  ],
+  [
+   "10 − ... = 4. Số cần điền là:",
+   [
+    "6",
+    "4",
+    "14",
+    "5"
+   ],
+   "10 − 6 = 4."
+  ],
+  [
+   "Lan có 4 cái kẹo, mẹ cho thêm 3 cái. Lan có tất cả mấy cái kẹo?",
+   [
+    "7 cái",
+    "1 cái",
+    "6 cái",
+    "8 cái"
+   ],
+   "4 + 3 = 7 cái kẹo."
+  ],
+  [
+   "Trên cành có 6 con chim, 2 con bay đi. Còn lại mấy con chim?",
+   [
+    "4 con",
+    "8 con",
+    "3 con",
+    "5 con"
+   ],
+   "6 − 2 = 4 con chim."
+  ],
+  [
+   "2 + 3 + 1 = ?",
+   [
+    "6",
+    "5",
+    "7",
+    "4"
+   ],
+   "2 + 3 = 5, rồi 5 + 1 = 6."
+  ],
+  [
+   "Số thích hợp điền vào dấu chấm để 7 + ... = 9 là:",
+   [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "Ta đếm thêm từ 7 đến 9 là 7, 8, 9. Vậy số cần điền là 2."
+  ],
+  [
+   "Phép tính nào dưới đây có kết quả bằng 8?",
+   [
+    "4 + 4",
+    "5 + 4",
+    "3 + 4",
+    "2 + 7"
+   ],
+   "Ta tính nhẩm 4 + 4 = 8, các phép tính còn lại có kết quả là 9 hoặc 7."
+  ],
+  [
+   "Kết quả của phép tính 10 − 6 là:",
+   [
+    "4",
+    "5",
+    "3",
+    "6"
+   ],
+   "Lấy 10 trừ đi 6 ta được kết quả bằng 4."
+  ],
+  [
+   "Dấu cần điền vào chỗ chấm để 6 − 2 ... 3 là:",
+   [
+    ">",
+    "<",
+    "+",
+    "-"
+   ],
+   "Ta có 6 − 2 = 4, mà 4 lớn hơn 3 nên dấu cần điền là dấu lớn hơn."
+  ],
+  [
+   "Số lớn nhất trong các số 3, 8, 5, 10 là:",
+   [
+    "10",
+    "8",
+    "5",
+    "3"
+   ],
+   "So sánh các số ta thấy 10 là số lớn nhất trong các số đã cho."
+  ]
+ ],
+ "c4": [
+  [
+   "Số gồm 4 chục và 7 đơn vị là:",
+   [
+    "47",
+    "74",
+    "407",
+    "11"
+   ],
+   "4 chục là 40, thêm 7 đơn vị là 47."
+  ],
+  [
+   "Số 63 gồm:",
+   [
+    "6 chục và 3 đơn vị",
+    "3 chục và 6 đơn vị",
+    "6 và 3 chục",
+    "63 chục"
+   ],
+   "Chữ số 6 ở hàng chục, 3 ở hàng đơn vị."
+  ],
+  [
+   "Số lớn nhất có hai chữ số là:",
+   [
+    "99",
+    "90",
+    "100",
+    "98"
+   ],
+   "Số có hai chữ số lớn nhất là 99."
+  ],
+  [
+   "Số bé nhất có hai chữ số là:",
+   [
+    "10",
+    "11",
+    "1",
+    "99"
+   ],
+   "Số có hai chữ số nhỏ nhất là 10."
+  ],
+  [
+   "Điền dấu: 56 ... 65",
+   [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "So sánh hàng chục: 5 < 6 nên 56 < 65."
+  ],
+  [
+   "Số liền sau của 39 là:",
+   [
+    "40",
+    "38",
+    "30",
+    "49"
+   ],
+   "39 thêm 1 là 40."
+  ],
+  [
+   "Số tròn chục là số nào?",
+   [
+    "70",
+    "71",
+    "17",
+    "77"
+   ],
+   "Số tròn chục có chữ số hàng đơn vị là 0, như 70."
+  ],
+  [
+   "Đọc số 85:",
+   [
+    "Tám mươi lăm",
+    "Tám mươi năm",
+    "Tám năm",
+    "Năm mươi tám"
+   ],
+   "85 đọc là tám mươi lăm (số 5 ở cuối đọc là lăm)."
+  ],
+  [
+   "Số 100 đọc là:",
+   [
+    "Một trăm",
+    "Mười không",
+    "Một nghìn",
+    "Mười"
+   ],
+   "100 đọc là một trăm."
+  ],
+  [
+   "Trong các số 28, 82, 80, 18, số lớn nhất là:",
+   [
+    "82",
+    "80",
+    "28",
+    "18"
+   ],
+   "Số có hàng chục lớn nhất là 8: 80 và 82; 82 lớn hơn."
+  ],
+  [
+   "Số liền trước của số 70 là:",
+   [
+    "69",
+    "71",
+    "60",
+    "80"
+   ],
+   "Số liền trước của 70 kém 70 một đơn vị, đó là số 69."
+  ],
+  [
+   "Các số 45, 54, 38, 83 được sắp xếp theo thứ tự từ bé đến lớn là:",
+   [
+    "38, 45, 54, 83",
+    "83, 54, 45, 38",
+    "38, 54, 45, 83",
+    "45, 38, 54, 83"
+   ],
+   "So sánh các chữ số hàng chục ta có các số theo thứ tự từ bé đến lớn là 38, 45, 54, 83."
+  ],
+  [
+   "Viết số thích hợp vào chỗ chấm để có dãy số liên tiếp: 51, 52, ..., 54, 55",
+   [
+    "53",
+    "50",
+    "56",
+    "45"
+   ],
+   "Dãy số đếm thêm 1 đơn vị nên số điền vào chỗ chấm sau số 52 là 53."
+  ],
+  [
+   "Mẹ hái được 40 quả cam, bố hái được 30 quả cam. Cả bố và mẹ hái được tất cả bao nhiêu quả cam?",
+   [
+    "70 quả",
+    "10 quả",
+    "7 quả",
+    "60 quả"
+   ],
+   "Lấy số cam của mẹ cộng với số cam của bố: 40 cộng 30 bằng 70 quả cam."
+  ],
+  [
+   "Nam có 25 viên bi, An có nhiều hơn Nam 4 viên bi. Hỏi An có bao nhiêu viên bi?",
+   [
+    "29 viên bi",
+    "21 viên bi",
+    "24 viên bi",
+    "30 viên bi"
+   ],
+   "An có nhiều hơn Nam nên ta làm phép tính cộng: 25 cộng 4 bằng 29 viên bi."
+  ]
+ ],
+ "c5": [
+  [
+   "Đơn vị đo độ dài em đã học ở lớp 1 là:",
+   [
+    "Xăng-ti-mét",
+    "Ki-lô-gam",
+    "Lít",
+    "Giờ"
+   ],
+   "Xăng-ti-mét (cm) dùng để đo độ dài."
+  ],
+  [
+   "Xăng-ti-mét viết tắt là:",
+   [
+    "cm",
+    "kg",
+    "l",
+    "m"
+   ],
+   "Xăng-ti-mét viết tắt là cm."
+  ],
+  [
+   "Đoạn thẳng AB dài 8 cm, đoạn CD dài 5 cm. Đoạn nào dài hơn?",
+   [
+    "AB",
+    "CD",
+    "Bằng nhau",
+    "Không biết"
+   ],
+   "8 cm > 5 cm nên AB dài hơn."
+  ],
+  [
+   "5 cm + 3 cm = ?",
+   [
+    "8 cm",
+    "2 cm",
+    "53 cm",
+    "8"
+   ],
+   "Cộng số đo rồi viết đơn vị: 8 cm."
+  ],
+  [
+   "Để đo chiều dài quyển vở, em dùng:",
+   [
+    "Thước kẻ",
+    "Cái cân",
+    "Đồng hồ",
+    "Cái ca"
+   ],
+   "Thước kẻ có vạch xăng-ti-mét để đo độ dài."
+  ],
+  [
+   "Cây bút chì dài 12 cm, gãy mất 2 cm. Cây bút chì còn dài:",
+   [
+    "10 cm",
+    "14 cm",
+    "12 cm",
+    "2 cm"
+   ],
+   "12 − 2 = 10 cm."
+  ],
+  [
+   "Bạn nào cao hơn: An cao hơn Bình, Bình cao hơn Chi. Ai cao nhất?",
+   [
+    "An",
+    "Bình",
+    "Chi",
+    "Bằng nhau"
+   ],
+   "An cao hơn Bình, Bình cao hơn Chi nên An cao nhất."
+  ],
+  [
+   "Khi đo bằng thước, em đặt vạch số mấy trùng với đầu đồ vật?",
+   [
+    "Vạch 0",
+    "Vạch 1",
+    "Vạch 10",
+    "Vạch nào cũng được"
+   ],
+   "Đặt vạch 0 trùng một đầu, đầu kia chỉ số nào thì đồ vật dài bấy nhiêu."
+  ],
+  [
+   "Độ dài của một chiếc bút chì thường được đo bằng đơn vị nào dưới đây?",
+   [
+    "Xăng-ti-mét",
+    "Mét",
+    "Ki-lô-mét",
+    "Lít"
+   ],
+   "Chiếc bút chì ngắn nên ta dùng đơn vị xăng-ti-mét để đo."
+  ],
+  [
+   "Số thích hợp điền vào chỗ chấm để 10 cm + 5 cm = ... cm là:",
+   [
+    "15",
+    "10",
+    "5",
+    "50"
+   ],
+   "Ta cộng số đo: 10 cộng 5 bằng 15 cm."
+  ],
+  [
+   "Thước kẻ của Nam có vạch chia xăng-ti-mét. Khi đo chiều dài hộp bút, Nam đặt một đầu hộp bút trùng với vạch số mấy của thước?",
+   [
+    "Vạch số 0",
+    "Vạch số 1",
+    "Vạch số 2",
+    "Vạch số 10"
+   ],
+   "Khi đo độ dài bằng thước, ta luôn đặt một đầu của vật trùng với vạch số 0."
+  ],
+  [
+   "Quyển sách Toán lớp 1 dày khoảng bao nhiêu?",
+   [
+    "1 xăng-ti-mét",
+    "10 xăng-ti-mét",
+    "1 mét",
+    "10 mét"
+   ],
+   "Quyển sách Toán lớp 1 khá mỏng, bề dày khoảng 1 xăng-ti-mét."
+  ],
+  [
+   "Đoạn thẳng MN dài 7 cm, đoạn thẳng PQ dài 9 cm. Hai đoạn thẳng này gộp lại dài bao nhiêu xăng-ti-mét?",
+   [
+    "16 cm",
+    "2 cm",
+    "15 cm",
+    "79 cm"
+   ],
+   "Ta lấy độ dài hai đoạn cộng lại: 7 cm cộng 9 cm bằng 16 cm."
+  ],
+  [
+   "Mẹ mua một cuộn dây dài 20 cm, mẹ cắt đi 4 cm để buộc gói quà. Cuộn dây còn lại dài bao nhiêu?",
+   [
+    "16 cm",
+    "24 cm",
+    "4 cm",
+    "20 cm"
+   ],
+   "Cắt đi nghĩa là bớt đi, ta lấy 20 trừ 4 bằng 16 cm."
+  ],
+  [
+   "Sợi dây thứ nhất dài 10 cm, sợi dây thứ hai dài bằng sợi dây thứ nhất. Cả hai sợi dây dài bao nhiêu xăng-ti-mét?",
+   [
+    "20 cm",
+    "10 cm",
+    "0 cm",
+    "30 cm"
+   ],
+   "Sợi dây thứ hai dài 10 cm. Tổng độ dài hai sợi là 10 cộng 10 bằng 20 cm."
+  ]
+ ],
+ "c6": [
+  [
+   "32 + 5 = ?",
+   [
+    "37",
+    "82",
+    "35",
+    "27"
+   ],
+   "Cộng đơn vị: 2 + 5 = 7, giữ hàng chục 3: 37."
+  ],
+  [
+   "48 − 6 = ?",
+   [
+    "42",
+    "54",
+    "41",
+    "40"
+   ],
+   "8 − 6 = 2, giữ hàng chục 4: 42."
+  ],
+  [
+   "40 + 30 = ?",
+   [
+    "70",
+    "43",
+    "7",
+    "60"
+   ],
+   "4 chục + 3 chục = 7 chục = 70."
+  ],
+  [
+   "75 − 20 = ?",
+   [
+    "55",
+    "73",
+    "95",
+    "53"
+   ],
+   "7 chục − 2 chục = 5 chục, giữ 5 đơn vị: 55."
+  ],
+  [
+   "23 + 14 = ?",
+   [
+    "37",
+    "36",
+    "47",
+    "27"
+   ],
+   "3 + 4 = 7; 2 + 1 = 3: kết quả 37."
+  ],
+  [
+   "69 − 35 = ?",
+   [
+    "34",
+    "44",
+    "24",
+    "35"
+   ],
+   "9 − 5 = 4; 6 − 3 = 3: kết quả 34."
+  ],
+  [
+   "Lớp 1A có 25 bạn, lớp 1B có 22 bạn. Hai lớp có tất cả bao nhiêu bạn?",
+   [
+    "47 bạn",
+    "3 bạn",
+    "45 bạn",
+    "37 bạn"
+   ],
+   "25 + 22 = 47 bạn."
+  ],
+  [
+   "Mẹ hái 58 quả cam, đã bán 30 quả. Còn lại bao nhiêu quả?",
+   [
+    "28 quả",
+    "88 quả",
+    "18 quả",
+    "38 quả"
+   ],
+   "58 − 30 = 28 quả."
+  ],
+  [
+   "Số nào cộng với 20 được 50?",
+   [
+    "30",
+    "70",
+    "20",
+    "40"
+   ],
+   "50 − 20 = 30."
+  ],
+  [
+   "56 ... 50 + 6. Dấu cần điền là:",
+   [
+    "=",
+    ">",
+    "<",
+    "+"
+   ],
+   "50 + 6 = 56 nên hai bên bằng nhau."
+  ],
+  [
+   "Kết quả của phép tính 44 + 3 là bao nhiêu?",
+   [
+    "47",
+    "41",
+    "74",
+    "57"
+   ],
+   "Ta lấy 4 cộng 3 bằng 7, giữ nguyên số chục là 4, được kết quả là 47."
+  ],
+  [
+   "Phép tính nào dưới đây có kết quả bằng 65?",
+   [
+    "69 - 4",
+    "60 + 4",
+    "75 - 12",
+    "50 + 25"
+   ],
+   "Ta tính nhẩm 69 trừ 4 bằng 65, các phép tính còn lại có kết quả khác."
+  ],
+  [
+   "Số thích hợp điền vào dấu chấm để 87 - 5 = ... là:",
+   [
+    "82",
+    "83",
+    "37",
+    "92"
+   ],
+   "Lấy 7 trừ 5 bằng 2, giữ nguyên 8 chục, ta được số 82."
+  ],
+  [
+   "Tính nhẩm: 50 + 20 + 8 = ?",
+   [
+    "78",
+    "70",
+    "58",
+    "87"
+   ],
+   "Cộng lần lượt từ trái sang phải: 50 cộng 20 bằng 70, thêm 8 bằng 78."
+  ],
+  [
+   "Quãng đường từ nhà đến trường dài 32 km, bố chở An đi được 10 km thì dừng lại nghỉ. Hỏi An còn phải đi bao nhiêu ki-lô-mét nữa mới đến trường?",
+   [
+    "22 km",
+    "42 km",
+    "32 km",
+    "20 km"
+   ],
+   "Lấy tổng quãng đường trừ đi đoạn đường đã đi: 32 trừ 10 bằng 22 km."
+  ]
+ ],
+ "c7": [
+  [
+   "Một tuần lễ có mấy ngày?",
+   [
+    "7 ngày",
+    "5 ngày",
+    "6 ngày",
+    "10 ngày"
+   ],
+   "Một tuần có 7 ngày: thứ Hai đến Chủ nhật."
+  ],
+  [
+   "Hôm nay là thứ Ba, ngày mai là thứ mấy?",
+   [
+    "Thứ Tư",
+    "Thứ Hai",
+    "Thứ Năm",
+    "Chủ nhật"
+   ],
+   "Sau thứ Ba là thứ Tư."
+  ],
+  [
+   "Hôm qua là thứ Sáu thì hôm nay là:",
+   [
+    "Thứ Bảy",
+    "Thứ Năm",
+    "Chủ nhật",
+    "Thứ Sáu"
+   ],
+   "Sau thứ Sáu là thứ Bảy."
+  ],
+  [
+   "Đồng hồ có kim ngắn chỉ số 3, kim dài chỉ số 12. Đồng hồ chỉ:",
+   [
+    "3 giờ",
+    "12 giờ",
+    "12 giờ 3 phút",
+    "3 giờ 12 phút"
+   ],
+   "Kim dài chỉ số 12 là giờ đúng; kim ngắn chỉ 3 nên là 3 giờ."
+  ],
+  [
+   "Kim ngắn của đồng hồ chỉ:",
+   [
+    "Giờ",
+    "Phút",
+    "Giây",
+    "Ngày"
+   ],
+   "Kim ngắn chỉ giờ, kim dài chỉ phút."
+  ],
+  [
+   "Em thường đi ngủ buổi tối lúc mấy giờ là hợp lí?",
+   [
+    "9 giờ",
+    "2 giờ",
+    "12 giờ trưa",
+    "6 giờ sáng"
+   ],
+   "Trẻ em nên ngủ sớm, khoảng 9 giờ tối."
+  ],
+  [
+   "Ngày nào là ngày nghỉ học cuối tuần?",
+   [
+    "Chủ nhật",
+    "Thứ Hai",
+    "Thứ Tư",
+    "Thứ Năm"
+   ],
+   "Thứ Bảy và Chủ nhật là ngày nghỉ cuối tuần."
+  ],
+  [
+   "Lúc 7 giờ, kim dài chỉ số mấy?",
+   [
+    "12",
+    "7",
+    "6",
+    "1"
+   ],
+   "Giờ đúng thì kim dài luôn chỉ số 12."
+  ],
+  [
+   "Một ngày mới bắt đầu từ thời điểm nào trong các thời điểm sau?",
+   [
+    "0 giờ đêm",
+    "12 giờ trưa",
+    "6 giờ sáng",
+    "18 giờ tối"
+   ],
+   "Một ngày mới bắt đầu từ 0 giờ đêm khi chúng ta đang ngủ."
+  ],
+  [
+   "Thứ Hai là ngày đầu tiên đi học trong tuần, vậy ngày thứ tư đi học là thứ mấy?",
+   [
+    "Thứ Năm",
+    "Thứ Tư",
+    "Thứ Sáu",
+    "Thứ Ba"
+   ],
+   "Các ngày đi học lần lượt là thứ Hai, thứ Ba, thứ Tư, thứ Năm."
+  ],
+  [
+   "Hôm nay là thứ Bảy, ngày đi chơi công viên của Nam. Hỏi ngày kia là thứ mấy?",
+   [
+    "Thứ Hai",
+    "Chủ Nhật",
+    "Thứ Ba",
+    "Thứ Sáu"
+   ],
+   "Hôm nay thứ Bảy thì ngày mai là Chủ Nhật, ngày kia (sau ngày mai) là thứ Hai."
+  ],
+  [
+   "Mẹ đi làm về lúc 5 giờ chiều. Lúc đó, kim ngắn của đồng hồ đang chỉ số mấy?",
+   [
+    "Số 5",
+    "Số 12",
+    "Số 6",
+    "Số 3"
+   ],
+   "Lúc 5 giờ chiều, kim ngắn chỉ đúng số 5."
+  ],
+  [
+   "Đồng hồ chỉ 10 giờ đúng. Kim dài và kim ngắn đang chỉ vào các số nào?",
+   [
+    "Kim dài chỉ số 12, kim ngắn chỉ số 10",
+    "Kim dài chỉ số 10, kim ngắn chỉ số 12",
+    "Cả hai kim cùng chỉ số 12",
+    "Kim dài chỉ số 3, kim ngắn chỉ số 10"
+   ],
+   "Khi đồng hồ chỉ giờ đúng, kim dài luôn chỉ số 12, kim ngắn chỉ số giờ."
+  ],
+  [
+   "Trường em nghỉ học hai ngày cuối tuần là những ngày nào?",
+   [
+    "Thứ Bảy và Chủ Nhật",
+    "Thứ Sáu và thứ Bảy",
+    "Chủ Nhật và thứ Hai",
+    "Thứ Bảy và thứ Hai"
+   ],
+   "Hai ngày cuối tuần được nghỉ học là thứ Bảy và Chủ Nhật."
+  ],
+  [
+   "Lan ăn cơm tối lúc 7 giờ tối. Hỏi trước đó 2 giờ, Lan đang làm gì?",
+   [
+    "Đang chơi đồ chơi lúc 5 giờ chiều",
+    "Đang đi ngủ lúc 9 giờ tối",
+    "Đang xem tivi lúc 8 giờ tối",
+    "Đang học bài lúc 6 giờ chiều"
+   ],
+   "Lấy 7 giờ trừ đi 2 giờ bằng 5 giờ chiều, lúc đó Lan đang chơi đồ chơi."
+  ]
+ ],
+ "tong-hop": [
+  [
+   "7 + 2 − 4 = ?",
+   [
+    "5",
+    "9",
+    "3",
+    "13"
+   ],
+   "7 + 2 = 9, 9 − 4 = 5."
+  ],
+  [
+   "Số 90 gồm mấy chục?",
+   [
+    "9 chục",
+    "90 chục",
+    "0 chục",
+    "1 chục"
+   ],
+   "90 là 9 chục."
+  ],
+  [
+   "Số liền trước của 50 là:",
+   [
+    "49",
+    "51",
+    "40",
+    "60"
+   ],
+   "50 bớt 1 là 49."
+  ],
+  [
+   "Hình nào có 4 cạnh bằng nhau?",
+   [
+    "Hình vuông",
+    "Hình tròn",
+    "Hình tam giác",
+    "Khối cầu"
+   ],
+   "Hình vuông có 4 cạnh bằng nhau."
+  ],
+  [
+   "10 cm − 4 cm = ?",
+   [
+    "6 cm",
+    "14 cm",
+    "6",
+    "4 cm"
+   ],
+   "10 − 4 = 6, viết kèm đơn vị cm."
+  ],
+  [
+   "Có 1 chục que tính và 5 que tính lẻ. Có tất cả bao nhiêu que tính?",
+   [
+    "15 que",
+    "6 que",
+    "51 que",
+    "10 que"
+   ],
+   "1 chục là 10, thêm 5 là 15."
+  ],
+  [
+   "Hôm nay là Chủ nhật, ngày mai là:",
+   [
+    "Thứ Hai",
+    "Thứ Bảy",
+    "Thứ Ba",
+    "Chủ nhật"
+   ],
+   "Sau Chủ nhật là thứ Hai, bắt đầu tuần mới."
+  ],
+  [
+   "Trong các số 34, 43, 30, 40, số bé nhất là:",
+   [
+    "30",
+    "34",
+    "40",
+    "43"
+   ],
+   "Hàng chục 3 là nhỏ nhất: 30 và 34; 30 bé hơn."
+  ],
+  [
+   "Số liền sau của 6 là:",
+   [
+    "7",
+    "5",
+    "8",
+    "6"
+   ],
+   "Đếm 6 rồi đến 7. Số liền sau lớn hơn 1 đơn vị."
+  ],
+  [
+   "Hình nào không có góc?",
+   [
+    "Hình tròn",
+    "Hình vuông",
+    "Hình tam giác",
+    "Hình chữ nhật"
+   ],
+   "Hình tròn có đường viền cong, không có góc."
+  ],
+  [
+   "Trên cành có 6 con chim, 2 con bay đi. Còn lại mấy con chim?",
+   [
+    "4 con",
+    "8 con",
+    "3 con",
+    "5 con"
+   ],
+   "6 − 2 = 4 con chim."
+  ],
+  [
+   "Số 100 đọc là:",
+   [
+    "Một trăm",
+    "Mười không",
+    "Một nghìn",
+    "Mười"
+   ],
+   "100 đọc là một trăm."
+  ],
+  [
+   "Xăng-ti-mét viết tắt là:",
+   [
+    "cm",
+    "kg",
+    "l",
+    "m"
+   ],
+   "Xăng-ti-mét viết tắt là cm."
+  ],
+  [
+   "75 − 20 = ?",
+   [
+    "55",
+    "73",
+    "95",
+    "53"
+   ],
+   "7 chục − 2 chục = 5 chục, giữ 5 đơn vị: 55."
+  ],
+  [
+   "Ngày nào là ngày nghỉ học cuối tuần?",
+   [
+    "Chủ nhật",
+    "Thứ Hai",
+    "Thứ Tư",
+    "Thứ Năm"
+   ],
+   "Thứ Bảy và Chủ nhật là ngày nghỉ cuối tuần."
+  ],
+  [
+   "Số nào bé nhất trong các số: 7, 2, 9, 4?",
+   [
+    "2",
+    "4",
+    "7",
+    "9"
+   ],
+   "Số 2 đứng trước các số còn lại khi đếm nên bé nhất."
+  ],
+  [
+   "Con xúc xắc có dạng khối gì?",
+   [
+    "Khối lập phương",
+    "Khối cầu",
+    "Khối hộp chữ nhật dài",
+    "Hình vuông"
+   ],
+   "Con xúc xắc có 6 mặt là hình vuông bằng nhau: khối lập phương."
+  ],
+  [
+   "6 + 0 = ?",
+   [
+    "6",
+    "0",
+    "7",
+    "5"
+   ],
+   "Một số cộng với 0 thì bằng chính số đó."
+  ],
+  [
+   "Số liền sau của 39 là:",
+   [
+    "40",
+    "38",
+    "30",
+    "49"
+   ],
+   "39 thêm 1 là 40."
+  ],
+  [
+   "Cây bút chì dài 12 cm, gãy mất 2 cm. Cây bút chì còn dài:",
+   [
+    "10 cm",
+    "14 cm",
+    "12 cm",
+    "2 cm"
+   ],
+   "12 − 2 = 10 cm."
+  ],
+  [
+   "32 + 5 = ?",
+   [
+    "37",
+    "82",
+    "35",
+    "27"
+   ],
+   "Cộng đơn vị: 2 + 5 = 7, giữ hàng chục 3: 37."
+  ],
+  [
+   "Một tuần lễ có mấy ngày?",
+   [
+    "7 ngày",
+    "5 ngày",
+    "6 ngày",
+    "10 ngày"
+   ],
+   "Một tuần có 7 ngày: thứ Hai đến Chủ nhật."
+  ],
+  [
+   "Số 0 có nghĩa là:",
+   [
+    "Không có gì",
+    "Có một",
+    "Có mười",
+    "Có nhiều"
+   ],
+   "Số 0 chỉ không có đồ vật nào."
+  ],
+  [
+   "Hình vuông có mấy cạnh?",
+   [
+    "4 cạnh",
+    "3 cạnh",
+    "5 cạnh",
+    "2 cạnh"
+   ],
+   "Hình vuông có 4 cạnh bằng nhau."
+  ],
+  [
+   "8 − 3 = ?",
+   [
+    "5",
+    "6",
+    "4",
+    "11"
+   ],
+   "Có 8 bớt đi 3 còn 5."
+  ],
+  [
+   "Số bé nhất có hai chữ số là:",
+   [
+    "10",
+    "11",
+    "1",
+    "99"
+   ],
+   "Số có hai chữ số nhỏ nhất là 10."
+  ],
+  [
+   "Khi đo bằng thước, em đặt vạch số mấy trùng với đầu đồ vật?",
+   [
+    "Vạch 0",
+    "Vạch 1",
+    "Vạch 10",
+    "Vạch nào cũng được"
+   ],
+   "Đặt vạch 0 trùng một đầu, đầu kia chỉ số nào thì đồ vật dài bấy nhiêu."
+  ],
+  [
+   "23 + 14 = ?",
+   [
+    "37",
+    "36",
+    "47",
+    "27"
+   ],
+   "3 + 4 = 7; 2 + 1 = 3: kết quả 37."
+  ],
+  [
+   "Đồng hồ có kim ngắn chỉ số 3, kim dài chỉ số 12. Đồng hồ chỉ:",
+   [
+    "3 giờ",
+    "12 giờ",
+    "12 giờ 3 phút",
+    "3 giờ 12 phút"
+   ],
+   "Kim dài chỉ số 12 là giờ đúng; kim ngắn chỉ 3 nên là 3 giờ."
+  ],
+  [
+   "Điền dấu: 5 ... 7",
+   [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "5 bé hơn 7 nên viết 5 < 7."
+  ],
+  [
+   "Quả bóng có dạng khối gì?",
+   [
+    "Khối cầu",
+    "Khối lập phương",
+    "Khối hộp chữ nhật",
+    "Khối tam giác"
+   ],
+   "Quả bóng tròn đều mọi phía, có dạng khối cầu."
+  ],
+  [
+   "Lan có 4 cái kẹo, mẹ cho thêm 3 cái. Lan có tất cả mấy cái kẹo?",
+   [
+    "7 cái",
+    "1 cái",
+    "6 cái",
+    "8 cái"
+   ],
+   "4 + 3 = 7 cái kẹo."
+  ],
+  [
+   "Đọc số 85:",
+   [
+    "Tám mươi lăm",
+    "Tám mươi năm",
+    "Tám năm",
+    "Năm mươi tám"
+   ],
+   "85 đọc là tám mươi lăm (số 5 ở cuối đọc là lăm)."
+  ],
+  [
+   "Đơn vị đo độ dài em đã học ở lớp 1 là:",
+   [
+    "Xăng-ti-mét",
+    "Ki-lô-gam",
+    "Lít",
+    "Giờ"
+   ],
+   "Xăng-ti-mét (cm) dùng để đo độ dài."
+  ],
+  [
+   "69 − 35 = ?",
+   [
+    "34",
+    "44",
+    "24",
+    "35"
+   ],
+   "9 − 5 = 4; 6 − 3 = 3: kết quả 34."
+  ],
+  [
+   "Hôm nay là thứ Ba, ngày mai là thứ mấy?",
+   [
+    "Thứ Tư",
+    "Thứ Hai",
+    "Thứ Năm",
+    "Chủ nhật"
+   ],
+   "Sau thứ Ba là thứ Tư."
+  ],
+  [
+   "Các số 4, 1, 9, 6 xếp theo thứ tự từ bé đến lớn là:",
+   [
+    "1, 4, 6, 9",
+    "9, 6, 4, 1",
+    "1, 6, 4, 9",
+    "4, 1, 6, 9"
+   ],
+   "Bé nhất là 1, rồi 4, 6, lớn nhất là 9."
+  ],
+  [
+   "Hình nào có 3 cạnh?",
+   [
+    "Hình tam giác",
+    "Hình vuông",
+    "Hình tròn",
+    "Hình chữ nhật"
+   ],
+   "Hình tam giác có 3 cạnh và 3 góc."
+  ],
+  [
+   "5 + 5 = ?",
+   [
+    "10",
+    "9",
+    "11",
+    "0"
+   ],
+   "5 cộng 5 bằng 10."
+  ],
+  [
+   "Điền dấu: 56 ... 65",
+   [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "So sánh hàng chục: 5 < 6 nên 56 < 65."
+  ]
+ ]
+}
