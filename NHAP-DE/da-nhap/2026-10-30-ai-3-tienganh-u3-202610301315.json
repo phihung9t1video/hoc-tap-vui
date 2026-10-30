@@ -1,0 +1,406 @@
+{
+ "3-tienganh": {
+  "u3": [
+   [
+    "Is this Bill? - No, ______ isn't.",
+    [
+     "it",
+     "is",
+     "this",
+     "that"
+    ],
+    "Câu hỏi bắt đầu bằng 'Is this...?' trả lời phủ định sẽ là 'No, it isn't.'"
+   ],
+   [
+    "______ that Linh? - Yes, it is.",
+    [
+     "Is",
+     "Are",
+     "Am",
+     "It"
+    ],
+    "Để hỏi xác nhận ai đó ở xa, ta dùng cấu trúc 'Is that + tên?'."
+   ],
+   [
+    "This is Mai and this is Peter. They are my ______.",
+    [
+     "friends",
+     "friend",
+     "a friend",
+     "friend's"
+    ],
+    "Có hai người (Mai và Peter) nên từ 'friend' phải ở dạng số nhiều là 'friends'."
+   ],
+   [
+    "Look! ______ is my new friend, Nam.",
+    [
+     "This",
+     "These",
+     "They",
+     "You"
+    ],
+    "Dùng 'This' để giới thiệu một người bạn ở gần."
+   ],
+   [
+    "Is that Mr Long? - Yes, ______ is.",
+    [
+     "it",
+     "that",
+     "he",
+     "this"
+    ],
+    "Câu trả lời khẳng định cho 'Is that...?' là 'Yes, it is.'"
+   ],
+   [
+    "______ is that? - It's Ms Hoa.",
+    [
+     "Who",
+     "What",
+     "How",
+     "Where"
+    ],
+    "Dùng từ hỏi 'Who' để hỏi về người ('Who is that?' - Đó là ai?)."
+   ],
+   [
+    "Is this Mary? - ______, it isn't. It's Linda.",
+    [
+     "No",
+     "Yes",
+     "Not",
+     "Fine"
+    ],
+    "Vế sau có 'isn't' nên câu trả lời phải là 'No'."
+   ],
+   [
+    "This is ____ friend, Ba.",
+    [
+     "my",
+     "me",
+     "I",
+     "you"
+    ],
+    "Dùng tính từ sở hữu 'my' trước danh từ 'friend' để nói 'bạn của tôi'."
+   ],
+   [
+    "Choose the correct sentence:",
+    [
+     "Is this your friend?",
+     "Is this you friend?",
+     "Is this friend your?",
+     "Is your this friend?"
+    ],
+    "Cấu trúc hỏi ai đó có phải là bạn của bạn không: 'Is this your friend?'."
+   ],
+   [
+    "Hi, I'm Quan. ______ is my friend, Bill.",
+    [
+     "This",
+     "It",
+     "He",
+     "She"
+    ],
+    "Khi giới thiệu một người bạn ở gần với người khác, ta dùng 'This is...'"
+   ],
+   [
+    "Who is this? - ______ my friend, Mai.",
+    [
+     "It's",
+     "Is",
+     "Its",
+     "This"
+    ],
+    "'It's' là viết tắt của 'It is', dùng để trả lời cho câu hỏi 'Who is this?'."
+   ],
+   [
+    "Is that Lucy? - Yes, ______.",
+    [
+     "it is",
+     "is it",
+     "it isn't",
+     "it's"
+    ],
+    "Câu trả lời đồng ý đầy đủ cho câu hỏi 'Is that...?' là 'Yes, it is.'"
+   ],
+   [
+    "Odd one out:",
+    [
+     "friend",
+     "this",
+     "that",
+     "it"
+    ],
+    "'friend' (người bạn) là danh từ, các từ còn lại là đại từ chỉ định/đại từ xưng hô."
+   ],
+   [
+    "Reorder the words: is / my / friend / Minh / .",
+    [
+     "Minh is my friend.",
+     "My friend Minh is.",
+     "Is Minh my friend.",
+     "Minh my friend is."
+    ],
+    "Thứ tự từ đúng trong câu giới thiệu là: Chủ ngữ (Minh) + is + my friend."
+   ],
+   [
+    "A: Is that Ben? - B: No, it isn't. It's ______.",
+    [
+     "Tony",
+     "a boy",
+     "my friend",
+     "yes"
+    ],
+    "Khi phủ định không phải Ben, câu tiếp theo cần đính chính lại tên của người đó (ví dụ: Tony)."
+   ],
+   [
+    "Which word means 'những người bạn' in English?",
+    [
+     "friends",
+     "friend",
+     "friendly",
+     "friendship"
+    ],
+    "Từ 'friends' có 's' ở cuối chỉ số nhiều 'những người bạn'."
+   ],
+   [
+    "Read and complete: 'Hello. I'm Nam. This is my friend, ______.'",
+    [
+     "Hoa",
+     "a girl",
+     "friends",
+     "teacher"
+    ],
+    "Sau từ giới thiệu 'my friend' thường là tên riêng của bạn (Hoa)."
+   ],
+   [
+    "Find the mistake in this sentence: 'Is that you friend?'",
+    [
+     "you",
+     "Is",
+     "that",
+     "friend"
+    ],
+    "Từ 'you' phải sửa thành tính từ sở hữu 'your' (your friend: bạn của bạn)."
+   ],
+   [
+    "Is ______ your friend, Linh? - Yes, it is.",
+    [
+     "this",
+     "they",
+     "these",
+     "you"
+    ],
+    "Động từ 'is' đi với đại từ số ít 'this'."
+   ],
+   [
+    "Nam: 'Who's that?' - Mai: '______'",
+    [
+     "It's my friend, Mary.",
+     "Yes, it is.",
+     "No, it isn't.",
+     "Hello, Mai."
+    ],
+    "Khi ai đó hỏi 'Who's that?' (Đó là ai?), ta trả lời bằng cách giới thiệu tên người đó 'It's...'."
+   ],
+   [
+    "Which word means 'cậu bé' in English?",
+    [
+     "boy",
+     "girl",
+     "friend",
+     "teacher"
+    ],
+    "Từ 'boy' có nghĩa là cậu bé, phù hợp với nội dung bài học giới thiệu bạn bè."
+   ],
+   [
+    "Which word means 'cô bé' in English?",
+    [
+     "girl",
+     "boy",
+     "pen",
+     "book"
+    ],
+    "Từ 'girl' có nghĩa là cô bé, dùng để chỉ bạn nữ."
+   ],
+   [
+    "Choose the correct spelling:",
+    [
+     "friend",
+     "freind",
+     "frind",
+     "frend"
+    ],
+    "Từ 'friend' viết đúng chính tả có nghĩa là người bạn."
+   ],
+   [
+    "Choose the word that has the opposite meaning to 'boy':",
+    [
+     "girl",
+     "friend",
+     "teacher",
+     "pupil"
+    ],
+    "'Girl' (cô bé) trái nghĩa với 'boy' (cậu bé)."
+   ],
+   [
+    "Fill in the blank: 'This is my ______ . Her name is Lan.'",
+    [
+     "friend",
+     "boy",
+     "teacher",
+     "brother"
+    ],
+    "Vì nhân vật tên Lan là con gái nên ta dùng từ 'friend' kết hợp với đại từ 'Her'."
+   ],
+   [
+    "Choose the correct word to complete the sentence: 'He ______ my friend, Peter.'",
+    [
+     "is",
+     "are",
+     "am",
+     "be"
+    ],
+    "Chủ ngữ 'He' là số ít nên đi kèm với động từ 'is'."
+   ],
+   [
+    "Choose the correct word to complete the sentence: 'She ______ my new friend.'",
+    [
+     "is",
+     "are",
+     "am",
+     "be"
+    ],
+    "Chủ ngữ 'She' là ngôi thứ ba số ít nên dùng động từ 'is'."
+   ],
+   [
+    "What does the sentence 'This is my friend, Tony' mean in Vietnamese?",
+    [
+     "Đây là bạn của tôi, Tony.",
+     "Kia là bạn của tôi, Tony.",
+     "Anh ấy là Tony.",
+     "Cô ấy là bạn của tôi."
+    ],
+    "'This is' có nghĩa là 'Đây là', dùng để giới thiệu người ở gần."
+   ],
+   [
+    "What does the sentence 'That is my friend, Linda' mean in Vietnamese?",
+    [
+     "Kia là bạn của tôi, Linda.",
+     "Đây là bạn của tôi, Linda.",
+     "Bạn có phải là Linda không?",
+     "Cô ấy là Linda."
+    ],
+    "'That is' có nghĩa là 'Kia là', dùng để chỉ người ở xa hơn."
+   ],
+   [
+    "Fill in the blank: '______ is this?' - 'It's Mai.'",
+    [
+     "Who",
+     "What",
+     "How",
+     "Where"
+    ],
+    "Để hỏi người ở gần, ta dùng từ để hỏi 'Who' (Ai)."
+   ],
+   [
+    "Choose the correct question for the answer: 'It's my friend, Peter.'",
+    [
+     "Who is that?",
+     "What is this?",
+     "How are you?",
+     "What is your name?"
+    ],
+    "Câu trả lời chỉ người nên câu hỏi phải bắt đầu bằng 'Who'."
+   ],
+   [
+    "Find the mistake in this sentence: 'This are my friend, Nam.'",
+    [
+     "are",
+     "This",
+     "friend",
+     "Nam"
+    ],
+    "Chủ ngữ 'This' số ít nên phải dùng động từ 'is' thay vì 'are'."
+   ],
+   [
+    "Find the mistake in this sentence: 'Who are that?'",
+    [
+     "are",
+     "Who",
+     "that",
+     "no mistake"
+    ],
+    "Từ 'that' chỉ một người (số ít) nên phải dùng động từ 'is' (Who is that?)."
+   ],
+   [
+    "Rearrange the words to make a meaningful sentence: friend / is / This / my / .",
+    [
+     "This is my friend.",
+     "Friend is this my.",
+     "Is this my friend.",
+     "My friend this is."
+    ],
+    "Trật tự đúng của câu giới thiệu là 'This is my friend.'."
+   ],
+   [
+    "Rearrange the words to make a complete sentence: Nam / is / That / friend / my / .",
+    [
+     "That is my friend Nam.",
+     "Nam is my friend that.",
+     "My friend that is Nam.",
+     "Is that my friend Nam."
+    ],
+    "Câu hoàn chỉnh đúng ngữ pháp và nghĩa là 'That is my friend Nam.'."
+   ],
+   [
+    "Choose the correct response: 'Is that your friend, Mary?' - '______'",
+    [
+     "Yes, it is.",
+     "Yes, it isn't.",
+     "No, it is.",
+     "No, I am not."
+    ],
+    "Câu hỏi bắt đầu bằng 'Is that' thì câu trả lời khẳng định là 'Yes, it is.'."
+   ],
+   [
+    "Choose the correct response: 'Is this your new friend?' - 'No, ______.'",
+    [
+     "it isn't",
+     "it is",
+     "he is",
+     "she is"
+    ],
+    "Câu trả lời phủ định cho câu hỏi 'Is this...' phải là 'No, it isn't.'."
+   ],
+   [
+    "Which sentence is used to introduce someone far away?",
+    [
+     "That is my friend, Peter.",
+     "This is my friend, Peter.",
+     "Who is this?",
+     "Is this your friend?"
+    ],
+    "Dùng 'That is' để giới thiệu người ở vị trí xa hơn."
+   ],
+   [
+    "Choose the best answer: “______ is that?” - “It is Mr Ben.”",
+    [
+     "Who",
+     "What",
+     "How",
+     "Where"
+    ],
+    "Dùng từ hỏi “Who” (Ai) để hỏi về người."
+   ],
+   [
+    "Is this your friend, Hoa? - Yes, ______.",
+    [
+     "it is",
+     "it isn't",
+     "is it",
+     "it's"
+    ],
+    "Khi câu hỏi bắt đầu bằng “Is this...?”, câu trả lời đồng ý sẽ là “Yes, it is.”"
+   ]
+  ]
+ }
+}

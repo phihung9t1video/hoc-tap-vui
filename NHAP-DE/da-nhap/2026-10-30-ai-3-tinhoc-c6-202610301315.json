@@ -1,0 +1,406 @@
+{
+ "3-tinhoc": {
+  "c6": [
+   [
+    "Để mở một tệp văn bản đã có trên máy tính trong phần mềm soạn thảo, em thường nháy chuột vào nhóm lệnh nào?",
+    [
+     "Open",
+     "Save",
+     "New",
+     "Close"
+    ],
+    "Lệnh Open dùng để mở tệp văn bản đã được lưu trước đó."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, để lưu bài làm với một tên khác hoặc vào một vị trí khác, em dùng lệnh nào?",
+    [
+     "Save As",
+     "Save",
+     "Print",
+     "Undo"
+    ],
+    "Lệnh Save As giúp em lưu tệp với tên mới hoặc vị trí mới."
+   ],
+   [
+    "Khi gõ phím, ngón tay nào của tay phải phụ trách phím chữ H trên hàng phím cơ sở?",
+    [
+     "Ngón trỏ",
+     "Ngón giữa",
+     "Ngón áp út",
+     "Ngón út"
+    ],
+    "Ngón trỏ tay phải phụ trách các phím J và H trên hàng phím cơ sở."
+   ],
+   [
+    "Các phím A, S, D, F thuộc hàng phím nào trên bàn phím?",
+    [
+     "Hàng phím cơ sở",
+     "Hàng phím trên",
+     "Hàng phím dưới",
+     "Hàng phím số"
+    ],
+    "A, S, D, F là các phím chính nằm trên hàng phím cơ sở."
+   ],
+   [
+    "Trong phần mềm trình chiếu, để chèn thêm một đoạn chữ vào trang chiếu, em thường sử dụng công cụ nào?",
+    [
+     "Hộp văn bản",
+     "Bút vẽ",
+     "Tẩy",
+     "Máy tính"
+    ],
+    "Hộp văn bản (Text Box) dùng để chứa chữ viết trên trang chiếu."
+   ],
+   [
+    "Khi thiết kế một bài trình chiếu, việc chọn cỡ chữ quá nhỏ sẽ gây ra bất lợi gì?",
+    [
+     "Người xem ở xa khó đọc được nội dung",
+     "Bài trình chiếu bị nặng dung lượng",
+     "Máy tính sẽ bị đứng hình",
+     "Không thể chèn thêm hình ảnh"
+    ],
+    "Cỡ chữ quá nhỏ khiến người xem ở xa không thể nhìn rõ chữ trên màn hình."
+   ],
+   [
+    "Khi em vô tình xóa nhầm một đoạn văn bản vừa gõ, em có thể dùng tổ hợp phím nào để lấy lại?",
+    [
+     "Ctrl và Z",
+     "Ctrl và C",
+     "Ctrl và V",
+     "Ctrl và X"
+    ],
+    "Tổ hợp phím Ctrl và Z giúp quay lại thao tác vừa thực hiện trước đó."
+   ],
+   [
+    "Trong phần mềm trình chiếu, để xem trước trang chiếu đang chọn trước khi trình bày, em thường chọn chế độ nào?",
+    [
+     "Slide Show",
+     "Zoom",
+     "Table",
+     "Shape"
+    ],
+    "Chế độ Slide Show giúp hiển thị trang chiếu toàn màn hình để báo cáo."
+   ],
+   [
+    "Để kết thúc bài trình chiếu đang chạy và quay lại màn hình thiết kế, em có thể nhấn phím nào?",
+    [
+     "Esc",
+     "Enter",
+     "Space",
+     "Tab"
+    ],
+    "Phím Esc dùng để thoát khỏi chế độ trình chiếu toàn màn hình."
+   ],
+   [
+    "Khi gõ cụm từ “HỌC TẬP”, giữa hai từ cần có khoảng trắng, em dùng phím nào?",
+    [
+     "Phím cách",
+     "Phím Enter",
+     "Phím Shift",
+     "Phím Tab"
+    ],
+    "Phím cách (Spacebar) tạo khoảng trống giữa các từ khi gõ."
+   ],
+   [
+    "Trong phần mềm soạn thảo, khi em nhấn phím Enter, điều gì sẽ xảy ra với con trỏ soạn thảo?",
+    [
+     "Xuống dòng và chuyển về đầu dòng tiếp theo",
+     "Di chuyển sang phải một ô",
+     "Xóa ký tự ngay trước đó",
+     "Phóng to chữ lên"
+    ],
+    "Phím Enter giúp kết thúc đoạn và đưa con trỏ xuống dòng mới."
+   ],
+   [
+    "Bạn An muốn đổi màu nền cho một trang trình chiếu để sinh động hơn, bạn ấy nên tìm tính năng có tên gì?",
+    [
+     "Background Format",
+     "Font Color",
+     "Line Spacing",
+     "Text Align"
+    ],
+    "Background Format là tính năng giúp thay đổi màu nền trang chiếu."
+   ],
+   [
+    "Khi muốn chọn toàn bộ văn bản có trong trang soạn thảo một cách nhanh chóng, em dùng tổ hợp phím nào?",
+    [
+     "Ctrl và A",
+     "Ctrl và B",
+     "Ctrl và N",
+     "Ctrl và P"
+    ],
+    "Tổ hợp phím Ctrl và A giúp chọn tất cả nội dung có trong trang."
+   ],
+   [
+    "Hành động nào sau đây thể hiện việc sử dụng máy tính đúng cách và khoa học?",
+    [
+     "Ngồi thẳng lưng, khoảng cách mắt đến màn hình vừa phải",
+     "Tắt máy bằng cách rút dây nguồn đột ngột",
+     "Vừa ăn uống vừa dùng máy tính",
+     "Nhìn sát vào màn hình để thấy rõ chữ"
+    ],
+    "Ngồi thẳng lưng giúp bảo vệ cột sống và mắt khi học tập với máy tính."
+   ],
+   [
+    "Trong phần mềm trình chiếu, để tạo hiệu ứng chuyển động cho các trang chiếu, em tìm thẻ lệnh nào?",
+    [
+     "Transitions",
+     "Animations",
+     "Insert",
+     "Home"
+    ],
+    "Thẻ Transitions chứa các hiệu ứng chuyển tiếp giữa các trang chiếu."
+   ],
+   [
+    "Bạn Bình muốn sao chép một hình ảnh từ trang chiếu này sang trang chiếu khác, sau khi chọn hình và nhấn Ctrl và C, bạn ấy chuyển đến trang mới và nhấn tổ hợp phím nào để dán?",
+    [
+     "Ctrl và V",
+     "Ctrl và X",
+     "Ctrl và Z",
+     "Ctrl và A"
+    ],
+    "Tổ hợp phím Ctrl và V dùng để dán đối tượng đã sao chép hoặc cắt."
+   ],
+   [
+    "Khi soạn thảo một bài thơ, mỗi câu thơ nằm ở một dòng riêng, em nên làm gì khi kết thúc mỗi câu thơ?",
+    [
+     "Nhấn phím Enter",
+     "Nhấn phím cách liên tục",
+     "Nhấn phím Delete",
+     "Nhấn phím Caps Lock"
+    ],
+    "Nhấn phím Enter giúp xuống dòng để viết câu thơ tiếp theo."
+   ],
+   [
+    "Trong phần mềm trình chiếu, để chèn một hình khối như hình ngôi sao hay hình tròn vào trang chiếu, em chọn mục nào?",
+    [
+     "Shapes",
+     "Pictures",
+     "Text Box",
+     "Table"
+    ],
+    "Mục Shapes trong thẻ Insert cho phép em chèn các hình khối có sẵn."
+   ],
+   [
+    "Bạn Linh muốn cắt một đoạn văn bản thừa để chuyển đi nơi khác, sau khi bôi đen, bạn ấy cần dùng tổ hợp phím nào?",
+    [
+     "Ctrl và X",
+     "Ctrl và C",
+     "Ctrl và V",
+     "Ctrl và Z"
+    ],
+    "Tổ hợp phím Ctrl và X dùng để cắt đoạn văn bản đã chọn."
+   ],
+   [
+    "Khi em đang gõ bài, bỗng nhiên các chữ cái hiện ra toàn bằng chữ hoa mặc dù em không giữ phím Shift, nguyên nhân do đâu?",
+    [
+     "Đang bật đèn phím Caps Lock",
+     "Đang nhấn phím Enter",
+     "Đang giữ phím Space",
+     "Đang mở phần mềm vẽ"
+    ],
+    "Đèn Caps Lock sáng cho biết bàn phím đang ở chế độ gõ chữ hoa."
+   ],
+   [
+    "Khi em muốn di chuyển con trỏ soạn thảo về đầu dòng hiện tại một cách nhanh chóng trong phần mềm soạn thảo văn bản, em nên bấm phím nào?",
+    [
+     "Phím Home",
+     "Phím End",
+     "Phím Page Up",
+     "Phím Backspace"
+    ],
+    "Phím Home giúp đưa con trỏ soạn thảo về ngay đầu dòng hiện tại một cách nhanh nhất."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, để xóa một ký tự nằm ngay sau con trỏ soạn thảo, em sử dụng phím nào?",
+    [
+     "Phím Delete",
+     "Phím Backspace",
+     "Phím Spacebar",
+     "Phím Enter"
+    ],
+    "Phím Delete dùng để xóa ký tự đứng ngay phía sau con trỏ soạn thảo."
+   ],
+   [
+    "Khi đang sử dụng phần mềm trình chiếu, để tạo một trang chiếu mới nhanh chóng, em thường dùng tổ hợp phím nào?",
+    [
+     "Ctrl và M",
+     "Ctrl và N",
+     "Ctrl và O",
+     "Ctrl và P"
+    ],
+    "Tổ hợp phím Ctrl và M giúp em thêm một trang chiếu mới vào bài thuyết trình."
+   ],
+   [
+    "Bạn Minh muốn đổi phông chữ cho đoạn văn bản vừa gõ, sau khi bôi đen đoạn văn bản, bạn ấy nên tìm công cụ đổi phông chữ ở thẻ lệnh nào?",
+    [
+     "Thẻ Home",
+     "Thẻ Insert",
+     "Thẻ Design",
+     "Thẻ View"
+    ],
+    "Thẻ Home chứa các công cụ định dạng văn bản cơ bản như phông chữ, cỡ chữ và màu sắc."
+   ],
+   [
+    "Trong phần mềm trình chiếu, để xóa một trang chiếu không cần thiết, em nháy chuột phải vào trang chiếu đó và chọn lệnh nào?",
+    [
+     "Delete Slide",
+     "New Slide",
+     "Duplicate Slide",
+     "Hide Slide"
+    ],
+    "Lệnh Delete Slide dùng để xóa bỏ trang chiếu đang được chọn."
+   ],
+   [
+    "Để thoát khỏi chế độ trình chiếu toàn màn hình và quay trở lại màn hình soạn thảo bất cứ lúc nào, em nhấn phím nào trên bàn phím?",
+    [
+     "Phím Esc",
+     "Phím F5",
+     "Phím Spacebar",
+     "Phím Tab"
+    ],
+    "Phím Esc (Escape) ở góc trên bên trái bàn phím dùng để dừng việc trình chiếu ngay lập tức."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, khi em muốn gõ một ký tự nằm ở phía trên của phím có hai ký tự (ví dụ dấu ngoặc đơn), em phải giữ đồng thời phím nào?",
+    [
+     "Phím Shift",
+     "Phím Ctrl",
+     "Phím Alt",
+     "Phím Caps Lock"
+    ],
+    "Phím Shift được giữ kết hợp cùng phím số hoặc ký tự để gõ các ký hiệu ở phía trên."
+   ],
+   [
+    "Bạn Lan muốn tìm và thay thế một từ viết sai chính tả thành từ đúng trong toàn bộ bài văn, bạn ấy có thể dùng tổ hợp phím nào?",
+    [
+     "Ctrl và H",
+     "Ctrl và F",
+     "Ctrl và C",
+     "Ctrl và V"
+    ],
+    "Tổ hợp phím Ctrl và H mở hộp thoại Replace giúp tìm và thay thế từ nhanh chóng."
+   ],
+   [
+    "Trong phần mềm trình chiếu, khi em muốn sắp xếp lại thứ tự các trang chiếu bằng cách kéo thả chuột, em nên chọn chế độ hiển thị nào?",
+    [
+     "Slide Sorter",
+     "Normal",
+     "Reading View",
+     "Slide Show"
+    ],
+    "Chế độ Slide Sorter hiển thị thu nhỏ tất cả các trang chiếu giúp em dễ dàng sắp xếp lại thứ tự."
+   ],
+   [
+    "Cô giáo yêu cầu kiểm tra xem máy tính đã kết nối mạng Internet chưa thông qua biểu tượng ở góc màn hình, đó là biểu tượng hình gì ở khay hệ thống?",
+    [
+     "Hình cột sóng hoặc màn hình mạng",
+     "Hình chiếc loa",
+     "Hình chiếc đồng hồ",
+     "Hình cái cặp"
+    ],
+    "Biểu tượng mạng Internet thường có hình cột sóng Wi-Fi hoặc hình màn hình máy tính có dây cáp."
+   ],
+   [
+    "Khi sử dụng máy tính xong, việc làm nào sau đây thể hiện em biết cách tắt máy an toàn và tiết kiệm điện?",
+    [
+     "Nháy chuột vào nút Start chọn Power rồi chọn Shut down",
+     "Rút ngay phích cắm điện của máy tính",
+     "Nhấn giữ nút nguồn trên thân máy cho đến khi tắt hẳn",
+     "Tắt màn hình là được"
+    ],
+    "Em cần thực hiện đúng các bước tắt máy qua hệ điều hành trước khi ngắt nguồn điện."
+   ],
+   [
+    "Bạn Nam muốn lưu lại bài trình chiếu của mình vào một thư mục riêng trên máy tính, lần đầu tiên lưu bài, bạn ấy sẽ nháy chuột chọn lệnh nào trong trình đơn File?",
+    [
+     "Save As",
+     "Open",
+     "New",
+     "Print"
+    ],
+    "Lệnh Save As cho phép em chọn vị trí lưu và đặt tên mới cho tệp tin lần đầu tiên."
+   ],
+   [
+    "Khi gõ văn bản, nếu em thấy các từ tự động viết hoa chữ cái đầu tiên mà em không muốn như vậy, đó là do tính năng thông minh nào của phần mềm?",
+    [
+     "Tự động sửa lỗi và viết hoa",
+     "Khóa bàn phím",
+     "Lỗi phần cứng",
+     "Tràn bộ nhớ"
+    ],
+    "Phần mềm soạn thảo thường có tính năng tự động viết hoa chữ cái đầu câu hoặc sau dấu chấm."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, để gạch chân một từ hoặc câu quan trọng, sau khi bôi đen, em dùng tổ hợp phím nào?",
+    [
+     "Ctrl và U",
+     "Ctrl và B",
+     "Ctrl và I",
+     "Ctrl và P"
+    ],
+    "Tổ hợp phím Ctrl và U (Underline) dùng để tạo đường gạch chân dưới văn bản."
+   ],
+   [
+    "Khi em vẽ một hình chữ nhật trong trang trình chiếu, để đổi màu bên trong của hình chữ nhật đó, em tìm tính năng có tên là gì?",
+    [
+     "Shape Fill",
+     "Shape Outline",
+     "Shape Effects",
+     "Size"
+    ],
+    "Shape Fill là tính năng dùng để tô màu nền bên trong cho các hình khối."
+   ],
+   [
+    "Bạn Hoa muốn phóng to trang văn bản đang làm việc để nhìn rõ hơn các chữ cái nhỏ, em hãy chỉ cho bạn ấy thanh công cụ nào ở góc dưới bên phải màn hình?",
+    [
+     "Thanh thu phóng Zoom với dấu cộng và trừ",
+     "Thanh cuộn trang dọc",
+     "Thanh trạng thái số trang",
+     "Nút thu nhỏ cửa sổ"
+    ],
+    "Thanh Zoom ở góc dưới bên phải giúp phóng to hoặc thu nhỏ giao diện làm việc."
+   ],
+   [
+    "Trong phần mềm trình chiếu, để tạo chuyển động xuất hiện cho một hình ảnh khi trình bày, em chọn thẻ lệnh nào?",
+    [
+     "Animations",
+     "Transitions",
+     "Design",
+     "Insert"
+    ],
+    "Thẻ Animations chứa các hiệu ứng chuyển động dành riêng cho từng đối tượng trên trang chiếu."
+   ],
+   [
+    "Khi em đang gõ bài mà lỡ tay bấm nhầm phím Insert khiến con trỏ soạn thảo biến thành hình khối vuông và khi gõ chữ mới nó đè lên chữ cũ, em cần làm gì để trở lại bình thường?",
+    [
+     "Bấm lại phím Insert một lần nữa",
+     "Khởi động lại máy tính",
+     "Nhấn phím Delete",
+     "Nhấn phím Backspace"
+    ],
+    "Phím Insert hoạt động như một công tắc bật tắt chế độ gõ đè, bấm lại sẽ đưa về chế độ gõ chèn bình thường."
+   ],
+   [
+    "Bạn Bình muốn chọn nhanh toàn bộ các đối tượng có trên một trang chiếu để di chuyển cùng lúc, bạn ấy nên dùng tổ hợp phím nào?",
+    [
+     "Ctrl và A",
+     "Ctrl và C",
+     "Ctrl và V",
+     "Ctrl và X"
+    ],
+    "Tổ hợp phím Ctrl và A giúp chọn tất cả (All) các đối tượng đang có trên trang chiếu hiện tại."
+   ],
+   [
+    "Trong phần mềm soạn thảo văn bản, để chèn thêm một hình ảnh có sẵn từ máy tính vào trang văn bản, em thường tìm mục nào trong thẻ lệnh Insert?",
+    [
+     "Pictures",
+     "Shapes",
+     "Table",
+     "Chart"
+    ],
+    "Em chọn lệnh Pictures trong thẻ Insert để đưa hình ảnh từ máy tính vào trang văn bản."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c11": [
+   [
+    "Số gồm 4 chục nghìn, 5 trăm và 3 đơn vị viết là:",
+    [
+     "40 503",
+     "45 003",
+     "40 053",
+     "40 530"
+    ],
+    "Chục nghìn viết 4, hàng nghìn không có viết 0, hàng trăm viết 5, hàng chục không có viết 0, hàng đơn vị viết 3. Ta được số 40 503."
+   ],
+   [
+    "Trong số 72 495, chữ số hàng nghìn là:",
+    [
+     "2",
+     "7",
+     "4",
+     "9"
+    ],
+    "Từ phải sang trái, các hàng lần lượt là đơn vị, chục, trăm, nghìn, chục nghìn. Vậy chữ số hàng nghìn là 2."
+   ],
+   [
+    "Số nào dưới đây có chữ số 5 ở hàng trăm?",
+    [
+     "34 521",
+     "54 321",
+     "35 241",
+     "43 125"
+    ],
+    "Số 34 521 có chữ số 5 đứng ở vị trí thứ ba từ phải sang, tức là hàng trăm."
+   ],
+   [
+    "Cách đọc số 50 408 là:",
+    [
+     "Năm mươi nghìn bốn trăm linh tám",
+     "Năm mươi nghìn bốn trăm tám mươi",
+     "Năm nghìn bốn trăm linh tám",
+     "Năm mươi nghìn bốn trăm không tám"
+    ],
+    "Số 50 408 đọc là năm mươi nghìn bốn trăm linh tám vì hàng chục là 0."
+   ],
+   [
+    "Giá trị của chữ số 6 trong số 61 732 là:",
+    [
+     "60 000",
+     "6 000",
+     "600",
+     "60"
+    ],
+    "Chữ số 6 đứng ở hàng chục nghìn nên có giá trị là 60 000."
+   ],
+   [
+    "Số liền trước của số 81 000 là:",
+    [
+     "80 999",
+     "80 990",
+     "81 001",
+     "81 999"
+    ],
+    "Số liền trước của một số thì bé hơn số đó 1 đơn vị. Lấy 81 000 trừ 1 ta được 80 999."
+   ],
+   [
+    "Làm tròn số 45 612 đến hàng trăm ta được:",
+    [
+     "45 600",
+     "45 700",
+     "45 500",
+     "46 000"
+    ],
+    "Chữ số sau hàng trăm là 1 (bé hơn 5) nên ta giữ nguyên chữ số hàng trăm và thay các chữ số sau bằng số 0."
+   ],
+   [
+    "Dãy số nào dưới đây được viết theo thứ tự từ lớn đến bé?",
+    [
+     "72 450, 72 054, 71 999, 68 000",
+     "68 000, 71 999, 72 054, 72 450",
+     "72 054, 72 450, 71 999, 68 000",
+     "71 999, 72 054, 72 450, 68 000"
+    ],
+    "So sánh các số từ trái sang phải, dãy 72 450, 72 054, 71 999, 68 000 được xếp từ số lớn nhất đến số bé nhất."
+   ],
+   [
+    "Số bé nhất có năm chữ số khác nhau là:",
+    [
+     "10 234",
+     "10 000",
+     "12 345",
+     "10 243"
+    ],
+    "Số có năm chữ số khác nhau bắt đầu từ hàng chục nghìn nhỏ nhất là 1, tiếp đến là 0, 2, 3, 4. Ta được số 10 234."
+   ],
+   [
+    "Tính nhẩm: 40 000 + 20 000 - 10 000 =",
+    [
+     "50 000",
+     "60 000",
+     "40 000",
+     "30 000"
+    ],
+    "Thực hiện từ trái sang phải: 40 000 + 20 000 = 60 000, sau đó lấy 60 000 trừ 10 000 bằng 50 000."
+   ],
+   [
+    "Làm tròn số 73 549 đến hàng nghìn ta được:",
+    [
+     "74 000",
+     "73 000",
+     "75 000",
+     "73 500"
+    ],
+    "Chữ số ở hàng trăm là 5 (lớn hơn hoặc bằng 5) nên ta tăng chữ số hàng nghìn lên 1 đơn vị, thành 74 000."
+   ],
+   [
+    "Tìm x biết: x - 12 000 = 35 000",
+    [
+     "47 000",
+     "23 000",
+     "35 000",
+     "470"
+    ],
+    "Muốn tìm số bị trừ ta lấy hiệu cộng với số trừ: x = 35 000 + 12 000 = 47 000."
+   ],
+   [
+    "Cho các số 43 215, 43 152, 43 512, 43 251. Số lớn nhất trong các số đó là:",
+    [
+     "43 512",
+     "43 251",
+     "43 215",
+     "43 152"
+    ],
+    "So sánh hàng trăm ta thấy 5 lớn nhất nên số 43 512 là số lớn nhất."
+   ],
+   [
+    "Số gồm 6 chục nghìn, 8 nghìn, 4 chục và 9 đơn vị là:",
+    [
+     "68 049",
+     "68 409",
+     "60 849",
+     "68 490"
+    ],
+    "Hàng trăm không có nên viết là 0. Các hàng còn lại viết đúng theo thứ tự ta được 68 049."
+   ],
+   [
+    "Một cửa hàng có 24 000 kg gạo, cửa hàng đã bán đi 10 000 kg gạo. Hỏi cửa hàng còn lại bao nhiêu ki-lô-gam gạo?",
+    [
+     "14 000 kg",
+     "34 000 kg",
+     "12 000 kg",
+     "14 kg"
+    ],
+    "Số ki-lô-gam gạo còn lại là lấy 24 000 trừ đi 10 000 bằng 14 000 kg."
+   ],
+   [
+    "Cho dãy số: 10 000, 20 000, 30 000, ..., 50 000. Số thích hợp điền vào chỗ chấm là:",
+    [
+     "40 000",
+     "35 000",
+     "45 000",
+     "60 000"
+    ],
+    "Dãy số đếm thêm 10 000 mỗi lần. Số đứng sau 30 000 là 40 000."
+   ],
+   [
+    "Làm tròn số 82 499 đến hàng chục nghìn ta được:",
+    [
+     "80 000",
+     "90 000",
+     "82 000",
+     "83 000"
+    ],
+    "Chữ số hàng nghìn là 2 (bé hơn 5) nên ta làm tròn xuống, giữ nguyên chữ số hàng chục nghìn, được 80 000."
+   ],
+   [
+    "Mẹ mua một cái tivi giá 15 000 đồng và một quạt điện giá 5 000 đồng. Tổng số tiền mẹ phải trả là:",
+    [
+     "20 000 đồng",
+     "10 000 đồng",
+     "15 000 đồng",
+     "25 000 đồng"
+    ],
+    "Tổng số tiền là 15 000 cộng với 5 000 bằng 20 000 đồng."
+   ],
+   [
+    "Năm nay trang trại thu hoạch được 54 200 kg khoai tây, số khoai lang thu hoạch được ít hơn khoai tây 10 000 kg. Số ki-lô-gam khoai lang thu hoạch được là:",
+    [
+     "44 200 kg",
+     "64 200 kg",
+     "53 200 kg",
+     "45 200 kg"
+    ],
+    "Số ki-lô-gam khoai lang là: 54 200 - 10 000 = 44 200 kg."
+   ],
+   [
+    "Số gồm 8 chục nghìn, 3 nghìn, 6 trăm và 2 chục được viết là:",
+    [
+     "83 620",
+     "83 602",
+     "83 62",
+     "80 362"
+    ],
+    "Số gồm 8 chục nghìn, 3 nghìn, 6 trăm, 2 chục và 0 đơn vị viết là 83 620."
+   ],
+   [
+    "Số liền sau của số 49 999 là:",
+    [
+     "50 000",
+     "49 998",
+     "49 900",
+     "50 001"
+    ],
+    "Để tìm số liền sau của 49 999, ta cộng thêm 1 đơn vị: 49 999 + 1 = 50 000."
+   ],
+   [
+    "Trong các số 35 612, 35 621, 35 261, 35 162, số nào là số nhỏ nhất?",
+    [
+     "35 162",
+     "35 261",
+     "35 612",
+     "35 621"
+    ],
+    "Các số đều có hàng chục nghìn và hàng nghìn là 35, xét hàng trăm ta có 1 < 2 < 6 nên số nhỏ nhất là 35 162."
+   ],
+   [
+    "Số “sáu mươi bảy nghìn không trăm mười lăm” viết là:",
+    [
+     "67 015",
+     "67 150",
+     "67 105",
+     "60 715"
+    ],
+    "Số “sáu mươi bảy nghìn không trăm mười lăm” gồm 6 chục nghìn, 7 nghìn, 0 trăm, 1 chục và 5 đơn vị, viết là 67 015."
+   ],
+   [
+    "Trong số 91 823, chữ số 8 thuộc hàng nào?",
+    [
+     "Hàng trăm",
+     "Hàng chục",
+     "Hàng nghìn",
+     "Hàng chục nghìn"
+    ],
+    "Trong số 91 823, lần lượt từ phải sang trái: 3 (đơn vị), 2 (chục), 8 (trăm), 1 (nghìn), 9 (chục nghìn). Vậy chữ số 8 thuộc hàng trăm."
+   ],
+   [
+    "Làm tròn số 58 734 đến hàng chục nghìn ta được:",
+    [
+     "60 000",
+     "50 000",
+     "58 000",
+     "59 000"
+    ],
+    "Chữ số hàng nghìn là 8 (lớn hơn hoặc bằng 5) nên ta làm tròn lên thành 60 000."
+   ],
+   [
+    "Số lớn nhất có 5 chữ số là:",
+    [
+     "99 999",
+     "10 000",
+     "98 765",
+     "90 000"
+    ],
+    "Số lớn nhất có 5 chữ số gồm tất cả các chữ số là 9, đó là 99 999."
+   ],
+   [
+    "Kết quả của phép tính 30 000 + 40 000 là:",
+    [
+     "70 000",
+     "700 000",
+     "10 000",
+     "60 000"
+    ],
+    "Ta thực hiện nhẩm: 3 chục nghìn + 4 chục nghìn = 7 chục nghìn (70 000)."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm trong dãy số: 12 000; 14 000; 16 000; ...; 20 000 là:",
+    [
+     "18 000",
+     "17 000",
+     "19 000",
+     "15 000"
+    ],
+    "Dãy số đếm thêm 2 000 đơn vị, số tiếp theo sau 16 000 là 16 000 + 2 000 = 18 000."
+   ],
+   [
+    "Cho số 46 295. Nếu xóa đi chữ số 4 thì giá trị của số đó giảm đi bao nhiêu units?",
+    [
+     "40 000",
+     "4 000",
+     "400",
+     "4"
+    ],
+    "Chữ số 4 nằm ở hàng chục nghìn nên có giá trị là 40 000. Khi xóa đi chữ số 4, số đó giảm đi 40 000 đơn vị."
+   ],
+   [
+    "Có 30 000 quyển sách chia đều vào 5 tủ. Hỏi mỗi tủ có bao nhiêu quyển sách?",
+    [
+     "6 000 quyển",
+     "5 000 quyển",
+     "600 quyển",
+     "150 000 quyển"
+    ],
+    "Mỗi tủ có số quyển sách là: 30 000 : 5 = 6 000 (quyển)."
+   ],
+   [
+    "Độ dài quãng đường từ Hà Nội đến thành phố A là 18 250 m, quãng đường từ Hà Nội đến thành phố B là 18 520 m. Hỏi quãng đường nào dài hơn?",
+    [
+     "Đường đến thành phố B",
+     "Đường đến thành phố A",
+     "Hai quãng đường bằng nhau",
+     "Không so sánh được"
+    ],
+    "So sánh 18 520 m và 18 250 m, ta có 18 520 > 18 250 nên quãng đường đến thành phố B dài hơn."
+   ],
+   [
+    "Biết x là số tròn nghìn và 15 000 < x < 18 000. Giá trị của x không thể là số nào sau đây?",
+    [
+     "18 000",
+     "16 000",
+     "17 000",
+     "Tất cả đều sai"
+    ],
+    "Các số tròn nghìn nằm giữa 15 000 và 18 000 là 16 000 và 17 000. Do đó x không thể bằng 18 000."
+   ],
+   [
+    "Năm nay công ty thu được 85 000 USD lợi nhuận. Nếu làm tròn số tiền này đến hàng chục nghìn ta được:",
+    [
+     "90 000 USD",
+     "80 000 USD",
+     "85 000 USD",
+     "100 000 USD"
+    ],
+    "Chữ số hàng nghìn là 5 nên ta làm tròn lên thành 90 000 USD."
+   ],
+   [
+    "Dãy số nào sau đây được sắp xếp theo thứ tự từ bé đến lớn?",
+    [
+     "12 345, 12 354, 12 435, 12 534",
+     "12 534, 12 435, 12 354, 12 345",
+     "12 354, 12 345, 12 435, 12 534",
+     "12 345, 12 435, 12 354, 12 534"
+    ],
+    "So sánh từng chữ số từ trái sang phải ta có 12 345 < 12 354 < 12 435 < 12 534."
+   ],
+   [
+    "Khái niệm số tròn chục nghìn nhỏ nhất có 5 chữ số là số nào?",
+    [
+     "10 000",
+     "00 000",
+     "20 000",
+     "10 001"
+    ],
+    "Số tròn chục nghìn nhỏ nhất có 5 chữ số là số 10 000."
+   ],
+   [
+    "Từ các chữ số 0, 1, 2, 3, 4 lập được số nhỏ nhất có 5 chữ số khác nhau là:",
+    [
+     "10 234",
+     "01 234",
+     "12 340",
+     "10 324"
+    ],
+    "Chữ số hàng chục nghìn nhỏ nhất khác 0 là 1. Các chữ số tiếp theo xếp theo thứ tự tăng dần là 0, 2, 3, 4. Vậy số đó là 10 234."
+   ],
+   [
+    "Người ta xếp 40 000 cái bánh vào các hộp, mỗi hộp 8 cái. Số hộp bánh xếp được là:",
+    [
+     "5 000 hộp",
+     "500 hộp",
+     "320 000 hộp",
+     "4 000 hộp"
+    ],
+    "Số hộp bánh xếp được là: 40 000 : 8 = 5 000 (hộp)."
+   ],
+   [
+    "Một xưởng sản xuất tháng thứ nhất làm được 25 000 sản phẩm, tháng thứ hai làm được gấp đôi tháng thứ nhất. Cả hai tháng xưởng làm được bao nhiêu sản phẩm?",
+    [
+     "75 000 sản phẩm",
+     "50 000 sản phẩm",
+     "60 000 sản phẩm",
+     "100 000 sản phẩm"
+    ],
+    "Tháng thứ hai làm được: 25 000 × 2 = 50 000 sản phẩm. Cả hai tháng làm được: 25 000 + 50 000 = 75 000 (sản phẩm)."
+   ],
+   [
+    "Số liền sau của số 99 999 là số nào?",
+    [
+     "100 000",
+     "99 998",
+     "10 000",
+     "99 900"
+    ],
+    "Muốn tìm số liền sau của một số, ta lấy số đó cộng thêm 1 unit. Vậy 99 999 + 1 = 100 000."
+   ],
+   [
+    "Trong số 83 752, chữ số 3 có giá trị là bao nhiêu?",
+    [
+     "3 000",
+     "300",
+     "30",
+     "30 000"
+    ],
+    "Chữ số 3 nằm ở hàng nghìn nên có giá trị là 3 000."
+   ]
+  ]
+ }
+}

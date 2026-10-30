@@ -1,0 +1,406 @@
+{
+ "3-tiengviet": {
+  "c3": [
+   [
+    "Trong câu “Mẹ xin lỗi con vì đã đi làm về muộn.” thuộc kiểu câu nào dưới đây?",
+    [
+     "Câu kể",
+     "Câu hỏi",
+     "Câu cảm",
+     "Câu khiến"
+    ],
+    "Câu này dùng để kể, thông báo sự việc mẹ xin lỗi con nên là câu kể."
+   ],
+   [
+    "Từ nào sau đây thường xuất hiện trong câu khiến để thể hiện yêu cầu, đề nghị?",
+    [
+     "Hãy",
+     "Đã",
+     "Sẽ",
+     "Đang"
+    ],
+    "Từ “hãy” được dùng trong câu khiến để cầu khiến, yêu cầu người khác làm việc gì."
+   ],
+   [
+    "Dấu câu nào thường được đặt ở cuối câu hỏi?",
+    [
+     "Dấu hỏi chấm",
+     "Dấu chấm",
+     "Dấu chấm cảm",
+     "Dấu phẩy"
+    ],
+    "Cuối câu hỏi người ta thường sử dụng dấu hỏi chấm (?)."
+   ],
+   [
+    "Trong các câu dưới đây, câu nào dùng để bộc lộ cảm xúc vui mừng?",
+    [
+     "A, đội mình thắng rồi!",
+     "Chúng mình cùng đá bóng nào!",
+     "Ai đã đá bóng vào lưới?",
+     "Các bạn học sinh đang đá bóng."
+    ],
+    "Câu “A, đội mình thắng rồi!” chứa từ cảm thán “A” và dấu chấm cảm biểu thị niềm vui mừng."
+   ],
+   [
+    "Bộ phận trả lời cho câu hỏi “Làm gì?” trong câu “Bạn Minh đang chăm sóc cây hoa trong vườn.” là gì?",
+    [
+     "Đang chăm sóc cây hoa trong vườn",
+     "Bạn Minh",
+     "Cây hoa trong vườn",
+     "Trong vườn"
+    ],
+    "Bộ phận trả lời cho câu hỏi “Làm gì?” chỉ hoạt động của bạn Minh là “đang chăm sóc cây hoa trong vườn”."
+   ],
+   [
+    "Bộ phận trả lời cho câu hỏi “Thế nào?” trong câu “Mặt hồ thu phẳng lặng như một tấm gương lớn.” là gì?",
+    [
+     "Phẳng lặng như một tấm gương lớn",
+     "Mặt hồ thu",
+     "Một tấm gương lớn",
+     "Như một tấm gương lớn"
+    ],
+    "Bộ phận trả lời cho câu hỏi “Thế nào?” nêu đặc điểm của mặt hồ thu là “phẳng lặng như một tấm gương lớn”."
+   ],
+   [
+    "Chuyển câu kể “Bé cất đồ chơi gọn gàng.” thành câu khiến, em sẽ viết như thế nào?",
+    [
+     "Bé hãy cất đồ chơi gọn gàng nhé!",
+     "Bé cất đồ chơi gọn gàng chưa?",
+     "Chà, đồ chơi của bé gọn gàng quá!",
+     "Bé cất đồ chơi gọn gàng."
+    ],
+    "Thêm từ “hãy”, “nhé” và dấu chấm cảm ở cuối câu để tạo thành câu khiến."
+   ],
+   [
+    "Đoạn thoại: “– Chúng mình cùng ra sân chơi đi! – Đồng ý nhé!” chứa các câu thuộc kiểu câu gì?",
+    [
+     "Câu khiến",
+     "Câu kể",
+     "Câu hỏi",
+     "Câu cảm"
+    ],
+    "Hai câu trên dùng để nêu lời rủ rê, đề nghị và sự đồng ý thực hiện hành động nên là câu khiến."
+   ],
+   [
+    "Dòng nào dưới đây gồm các từ thường dùng để nhận biết câu hỏi?",
+    [
+     "Ai, gì, sao, vì sao, mấy",
+     "Hãy, đừng, chớ, đi, nào",
+     "Ôi, chà, quá, lắm, trời ơi",
+     "Là, đang, đã, sẽ, vừa"
+    ],
+    "Các từ nghi vấn như “ai, gì, sao, vì sao, mấy” được dùng để hỏi."
+   ],
+   [
+    "Từ nào thích hợp điền vào chỗ trống để tạo thành câu cảm: “Cảnh biển lúc bình minh đẹp …!”?",
+    [
+     "quá",
+     "chưa",
+     "sao",
+     "hãy"
+    ],
+    "Từ “quá” đứng cuối câu giúp tạo thành câu cảm thể hiện sự khen ngợi."
+   ],
+   [
+    "Câu nào dưới đây là câu dùng để giới thiệu sự vật?",
+    [
+     "Sách vở là người bạn thân thiết của học sinh.",
+     "Mẹ mua cho em rất nhiều sách vở.",
+     "Em xếp sách vở ngay ngắn lên kệ.",
+     "Sách vở của em sạch đẹp biết bao!"
+    ],
+    "Câu “Sách vở là người bạn thân thiết của học sinh.” có dạng Ai (cái gì) là gì? dùng để giới thiệu, nhận định."
+   ],
+   [
+    "Cho câu: “Mọi người chớ chen lấp khi lên xe buýt!”. Câu này được dùng để làm gì?",
+    [
+     "Khuyên ngăn, yêu cầu người khác",
+     "Hỏi về một sự việc",
+     "Bộc lộ cảm xúc xúc động",
+     "Kể lại một hoạt động"
+    ],
+    "Từ “chớ” trong câu dùng để khuyên ngăn mọi người không làm hành động chen lấp."
+   ],
+   [
+    "Phần gạch chân trong câu “Những chiếc lá bàng mùa thu đỏ rực như những đốm lửa.” trả lời cho câu hỏi nào?",
+    [
+     "Thế nào?",
+     "Làm gì?",
+     "Là gì?",
+     "Ở đâu?"
+    ],
+    "Cụm từ “đỏ rực như những đốm lửa” miêu tả đặc điểm, màu sắc nên trả lời cho câu hỏi “Thế nào?”."
+   ],
+   [
+    "Câu nào sau đây BẮT BUỘC phải dùng dấu hỏi chấm ở cuối câu?",
+    [
+     "Năm nay bạn học lớp mấy rồi",
+     "Tấm lòng của bạn thật đáng quý",
+     "Bạn nhớ cất sách gọn gàng nhé",
+     "Nam kể cho tôi nghe một câu chuyện hay"
+    ],
+    "Câu “Năm nay bạn học lớp mấy rồi” có từ hỏi “mấy” dùng để hỏi nên cần kết thúc bằng dấu hỏi chấm."
+   ],
+   [
+    "Câu “Hôm nay, thời tiết thật dễ chịu!” khác với câu “Hôm nay thời tiết thế nào?” ở điểm nào?",
+    [
+     "Một câu bộc lộ cảm xúc, một câu dùng để hỏi",
+     "Một câu là câu khiến, một câu là câu kể",
+     "Một câu dùng để ra lệnh, một câu dùng để bộc lộ cảm xúc",
+     "Một câu là câu hỏi, một câu là câu khiến"
+    ],
+    "Câu thứ nhất kết thúc bằng dấu chấm cảm bộc lộ cảm xúc, câu thứ hai có từ “thế nào” dùng để hỏi."
+   ],
+   [
+    "Thêm từ ngữ thích hợp vào câu “Em giữ trật tự” để chuyển thành câu khiến:",
+    [
+     "Em hãy giữ trật tự nhé!",
+     "Em có giữ trật tự không?",
+     "Em rất giữ trật tự.",
+     "Em giữ trật tự vô cùng!"
+    ],
+    "Thêm từ “hãy” và “nhé” tạo thành lời đề nghị, khuyên bảo thích hợp cho câu khiến."
+   ],
+   [
+    "Trong câu “Sao chim hót líu lo thế nhỉ?”, từ nào thể hiện mục đích hỏi?",
+    [
+     "Sao",
+     "Chim",
+     "Hót",
+     "Líu lo"
+    ],
+    "Từ “Sao” là từ nghi vấn đứng đầu câu dùng để hỏi nguyên nhân."
+   ],
+   [
+    "Đặt câu hỏi cho bộ phận in đậm trong câu: “Bạn An là học sinh giỏi toán nhất lớp.” (Bộ phận in đậm: “là học sinh giỏi toán nhất lớp”)",
+    [
+     "Bạn An là ai?",
+     "Bạn An làm gì?",
+     "Bạn An thế nào?",
+     "Ai là học sinh giỏi toán nhất lớp?"
+    ],
+    "Bộ phận “là học sinh giỏi toán nhất lớp” giới thiệu về An nên được thay bằng từ hỏi “là ai?”."
+   ],
+   [
+    "Cặp câu nào dưới đây cùng thuộc một kiểu câu?",
+    [
+     "Gió thổi rì rào. – Cây cối đung đung cành lá.",
+     "Trời mưa rồi! – Bạn có mang ô không?",
+     "Hãy đóng cửa lại! – Cửa sổ đẹp quá!",
+     "Bạn tên là gì? – Minh là bạn thân của tớ."
+    ],
+    "Cả hai câu “Gió thổi rì rào.” và “Cây cối đung đung cành lá.” đều là câu kể miêu tả sự vật/hoạt động."
+   ],
+   [
+    "Câu “Con chào bố mẹ con đi học ạ!” dùng để làm gì?",
+    [
+     "Lời chào hỏi",
+     "Lời cảm ơn",
+     "Lời xin lỗi",
+     "Lời chúc mừng"
+    ],
+    "Câu này dùng để chào người lớn trước khi đi học."
+   ],
+   [
+    "Trong câu “Đàn gà con vàng óng đang kiếm mồi ở vườn.”, bộ phận nào trả lời cho câu hỏi “Ai (cái gì, con gì)?”?",
+    [
+     "Đàn gà con vàng óng",
+     "Đang kiếm mồi",
+     "Ở vườn",
+     "Đang kiếm mồi ở vườn"
+    ],
+    "Bộ phận “Đàn gà con vàng óng” nêu tên sự vật đang làm sự việc trong câu."
+   ],
+   [
+    "Câu “Cậu có thích đọc truyện tranh không?” thuộc kiểu câu gì?",
+    [
+     "Câu hỏi",
+     "Câu kể",
+     "Câu khiến",
+     "Câu cảm"
+    ],
+    "Câu này có từ “không” ở cuối và dùng để hỏi, có dấu hỏi chấm ở cuối câu."
+   ],
+   [
+    "Dòng nào dưới đây gồm toàn các câu kể (câu giới thiệu, nêu hoạt động hoặc đặc điểm)?",
+    [
+     "Chiếc cặp sách này rất đẹp. Bạn Nam đang vẽ tranh.",
+     "Ai đang tưới cây thế kia?",
+     "Hãy cất sách vở vào bàn đi!",
+     "Ôi, dòng sông mới rộng làm sao!"
+    ],
+    "Đáp án đầu tiên gồm các câu dùng để nêu đặc điểm và hoạt động, kết thúc bằng dấu chấm."
+   ],
+   [
+    "Câu “Mong rằng bạn sẽ thích món quà này.” thuộc kiểu câu nào?",
+    [
+     "Câu khiến",
+     "Câu kể",
+     "Câu hỏi",
+     "Câu cảm"
+    ],
+    "Câu này dùng để nêu yêu cầu, mong muốn của người nói đối với người nghe."
+   ],
+   [
+    "Bộ phận in đậm trong câu “Chiếc cặp sách này **rất mới**.” trả lời cho câu hỏi nào?",
+    [
+     "Thế nào?",
+     "Là gì?",
+     "Làm gì?",
+     "Ai?"
+    ],
+    "Cụm từ “rất mới” chỉ đặc điểm của chiếc cặp, trả lời cho câu hỏi Thế nào."
+   ],
+   [
+    "Chọn từ thích hợp điền vào chỗ trống để tạo thành câu cảm: “Bông hồng này thơm …!”",
+    [
+     "quá",
+     "nhỉ",
+     "không",
+     "chưa"
+    ],
+    "Các từ ngữ bộc lộ cảm xúc như quá, lắm, thế thường dùng trong câu cảm."
+   ],
+   [
+    "Câu “Chim sơn ca cất tiếng hót vang lừng.” thuộc kiểu câu nào đã học ở lớp 3?",
+    [
+     "Ai làm gì?",
+     "Ai là gì?",
+     "Ai thế nào?",
+     "Câu khiến"
+    ],
+    "Câu này có bộ phận thứ nhất chỉ sự vật (Ai/con gì), bộ phận thứ hai chỉ hoạt động (Làm gì)."
+   ],
+   [
+    "Để hỏi về nghề nghiệp của mẹ em, em dùng câu hỏi nào dưới đây?",
+    [
+     "Mẹ em làm nghề gì?",
+     "Mẹ em đi làm bằng gì?",
+     "Mẹ em thế nào?",
+     "Mẹ em năm nay bao nhiêu tuổi?"
+    ],
+    "Để hỏi về công việc, nghề nghiệp người ta dùng câu hỏi với từ “làm nghề gì”."
+   ],
+   [
+    "Câu “Ai đã vẽ bức tranh này vậy?” dùng để làm gì?",
+    [
+     "Hỏi về người thực hiện hành động",
+     "Kể lại sự việc",
+     "Nêu đặc điểm sự vật",
+     "Bộc lộ cảm xúc ngạc nhiên"
+    ],
+    "Câu này dùng để hỏi thông tin về người vẽ tranh."
+   ],
+   [
+    "Bộ phận trả lời cho câu hỏi “Là gì?” trong câu “Cây đa già là biểu tượng của làng quê.” là gì?",
+    [
+     "là biểu tượng của làng quê",
+     "Cây đa già",
+     "biểu tượng",
+     "của làng quê"
+    ],
+    "Bộ phận “là biểu tượng của làng quê” trả lời cho câu hỏi Là gì."
+   ],
+   [
+    "Khi muốn nhắc nhở bạn giữ gìn sách vở cẩn thận, em nên dùng câu nào?",
+    [
+     "Bạn nhớ giữ gìn sách vở cẩn thận nhé!",
+     "Sách vở của bạn rất đẹp.",
+     "Ai đã làm rách sách của bạn thế?",
+     "Sách vở là người bạn thân thiết của chúng ta."
+    ],
+    "Đây là câu khiến dùng để khuyên bảo, nhắc nhở."
+   ],
+   [
+    "Câu nào dưới đây dùng để bộc lộ cảm xúc ngạc nhiên, thích thú?",
+    [
+     "Chao ôi, dòng sông đẹp tuyệt vời!",
+     "Bạn hãy giải bài toán này đi!",
+     "Hôm nay trời có mưa không?",
+     "Quyển sách này dày một trăm trang."
+    ],
+    "Câu này có từ cảm thán “Chao ôi” và dấu chấm than để bộc lộ cảm xúc."
+   ],
+   [
+    "Cho câu “Mùa thu, những chiếc lá vàng rơi xào xạc.” Bộ phận trả lời cho câu hỏi “Làm gì?” là gì?",
+    [
+     "rơi xào xạc",
+     "Mùa thu",
+     "những chiếc lá vàng",
+     "chiếc lá vàng rơi xào xạc"
+    ],
+    "Bộ phận chỉ hoạt động của lá là “rơi xào xạc”."
+   ],
+   [
+    "Trong câu “Bạn Hoa là lớp trưởng lớp em.”, từ ngữ nào dùng để giới thiệu?",
+    [
+     "là lớp trưởng lớp em",
+     "bạn Hoa",
+     "lớp trưởng",
+     "lớp em"
+    ],
+    "Cụm “là lớp trưởng lớp em” dùng để giới thiệu thân phận, chức vụ của bạn Hoa."
+   ],
+   [
+    "Xác định kiểu câu của câu sau: “Xin vui lòng giữ trật tự trong thư viện!”",
+    [
+     "Câu khiến",
+     "Câu kể",
+     "Câu hỏi",
+     "Câu cảm"
+    ],
+    "Câu có từ “xin vui lòng” và dấu chấm than ở cuối nhằm nêu yêu cầu, đề nghị."
+   ],
+   [
+    "Từ nào dưới đây KHÔNG phải là từ dùng để hỏi?",
+    [
+     "rất",
+     "ai",
+     "gì",
+     "sao"
+    ],
+    "Từ “rất” là từ chỉ mức độ, không phải từ dùng để hỏi."
+   ],
+   [
+    "Cho câu kể “Cả lớp chăm chú nghe cô giáo giảng bài.”, nếu chuyển thành câu hỏi (để hỏi về hoạt động của cả lớp), em viết thế nào?",
+    [
+     "Cả lớp đang làm gì thế?",
+     "Cả lớp có chăm chú nghe cô giáo giảng bài không?",
+     "Ai chăm chú nghe cô giáo giảng bài?",
+     "Cả lớp chăm chú nghe ai giảng bài?"
+    ],
+    "Để hỏi về hoạt động của chủ ngữ, ta dùng câu hỏi “... đang làm gì?”."
+   ],
+   [
+    "Dòng nào dưới đây chỉ gồm các câu dùng để kể (nêu thông tin, nhận định)?",
+    [
+     "Sách giáo khoa Tiếng Việt rất bổ ích. Hoa hồng khoe sắc đỏ.",
+     "Bạn hãy mở sách trang số mười.",
+     "Ôi, bài toán này khó quá!",
+     "Hôm nay lớp mình có bạn nào nghỉ học không?"
+    ],
+    "Cả hai câu trong dòng này đều dùng để nêu nhận định, đặc điểm và kết thúc bằng dấu chấm."
+   ],
+   [
+    "Câu nào dưới đây dùng để nêu hoạt động của sự vật trong lớp học?",
+    [
+     "Các bạn học sinh đang chăm chú nghe giảng.",
+     "Phòng học của lớp em rất rộng rãi và sáng sủa.",
+     "Chiếc bảng đen treo ở phía trên tường.",
+     "Bàn ghế được kê ngay ngắn, gọn gàng."
+    ],
+    "Câu “Các bạn học sinh đang chăm chú nghe giảng.” thuộc kiểu câu kể Ai làm gì?, dùng để nêu hoạt động của học sinh."
+   ],
+   [
+    "Câu nào dưới đây thuộc kiểu câu Ai là gì?",
+    [
+     "Họa mi là ca sĩ của núi rừng.",
+     "Họa mi hót rất hay vào mỗi buổi sáng.",
+     "Họa mi có bộ lông màu nâu mượt mà.",
+     "Họa mi đang tìm mồi trên cành cây."
+    ],
+    "Câu “Họa mi là ca sĩ của núi rừng.” dùng để giới thiệu hoặc nhận định về sự vật, thuộc kiểu câu Ai là gì?."
+   ]
+  ]
+ }
+}

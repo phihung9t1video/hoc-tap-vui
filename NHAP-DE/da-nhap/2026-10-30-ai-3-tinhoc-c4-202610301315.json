@@ -1,0 +1,416 @@
+{
+ "3-tinhoc": {
+  "c4": [
+   [
+    "Hành động nào sau đây giúp em cất giữ một tệp văn bản vừa soạn thảo vào ổ đĩa trên máy tính?",
+    [
+     "Chọn lệnh lưu tệp và đặt tên rõ ràng",
+     "Tắt ngay máy tính không cần lưu",
+     "Kéo tệp ra màn hình nền vứt đi",
+     "Đổi tên tệp thành các chữ cái ngẫu nhiên"
+    ],
+    "Để giữ lại tệp cho lần sau sử dụng, em cần thực hiện lưu tệp và đặt tên gợi nhớ."
+   ],
+   [
+    "Đâu là cách đặt tên tệp giúp em nhận biết ngay nội dung bên trong mà không cần mở ra?",
+    [
+     "Bai_tap_ve_Nha_em.docx",
+     "asdfghjk.docx",
+     "123456.docx",
+     "tep_moi.docx"
+    ],
+    "Tên tệp cần rõ ràng, phản ánh đúng nội dung để dễ tìm kiếm sau này."
+   ],
+   [
+    "Khi em muốn tạo một ngăn chứa mới trên máy tính để đựng riêng các bài tập vẽ, em sẽ làm gì?",
+    [
+     "Tạo một thư mục mới và đặt tên là Tranh_ve",
+     "Xóa bớt các tệp không quan trọng đi",
+     "Tải thêm một phần mềm trò chơi mới",
+     "Tắt màn hình rồi bật lại máy tính"
+    ],
+    "Thư mục trong máy tính đóng vai trò như ngăn chứa giúp phân loại tệp."
+   ],
+   [
+    "Biểu tượng nào dưới đây trên màn hình thường cho biết bên trong có chứa các tệp tin và thư mục con?",
+    [
+     "Biểu tượng thư mục hình chiếc cặp màu vàng",
+     "Biểu tượng thùng rác màu trắng",
+     "Biểu tượng mũi tên chuột",
+     "Biểu tượng kết nối mạng internet"
+    ],
+    "Thư mục thường có hình chiếc cặp tài liệu màu vàng quen thuộc trong Windows."
+   ],
+   [
+    "Để mở một thư mục đã có trên màn hình máy tính nhằm xem các tệp bên trong, em thao tác thế nào?",
+    [
+     "Nháy đúp chuột vào biểu tượng thư mục",
+     "Nháy chuột một lần vào nút tắt nguồn",
+     "Nhấn phím tắt để tắt hẳn máy tính",
+     "Kéo biểu tượng thư mục vào thùng rác"
+    ],
+    "Nháy đúp chuột là thao tác chuẩn để mở một thư mục hoặc tệp tin."
+   ],
+   [
+    "Vì sao các tệp tin lưu trên máy tính thường có phần mở rộng khác nhau như chấm docx, chấm mp3, chấm png?",
+    [
+     "Giúp máy tính và người dùng phân biệt loại thông tin bên trong",
+     "Để làm cho tên tệp dài hơn và khó đọc hơn",
+     "Vì máy tính bắt buộc phải đặt tên như vậy",
+     "Không có ý nghĩa gì đặc biệt trong học tập"
+    ],
+    "Phần mở rộng giúp phân biệt tệp văn bản, tệp âm thanh hay tệp hình ảnh."
+   ],
+   [
+    "Bạn Mai có các tệp gồm bài nhạc, bức ảnh và bài soạn văn. Cách lưu trữ nào khoa học nhất?",
+    [
+     "Tạo ba thư mục Nhac, Anh, Van và bỏ tệp vào đúng chỗ",
+     "Để tất cả các tệp lộn xộn ngoài màn hình nền",
+     "Cho tất cả các tệp vào chung một thư mục tên A",
+     "Xóa bớt hai loại tệp để máy tính đỡ nặng"
+    ],
+    "Phân loại tệp vào các thư mục riêng giúp quản lý và tìm kiếm rất nhanh chóng."
+   ],
+   [
+    "Phát biểu nào sau đây là chính xác nhất khi nói về mối quan hệ giữa tệp và thư mục?",
+    [
+     "Thư mục có thể chứa các tệp tin và các thư mục con khác bên trong",
+     "Tệp tin luôn luôn chứa được rất nhiều thư mục bên trong nó",
+     "Thư mục và tệp tin là một, không có điểm gì khác nhau cả",
+     "Tệp tin chỉ được phép nằm ngoài màn hình nền, không ở trong thư mục"
+    ],
+    "Thư mục dùng để chứa tệp và các thư mục khác, tạo thành cấu trúc phân cấp."
+   ],
+   [
+    "Khi nhìn vào cấu trúc thư mục có tên GOC chứa thư mục CON, tệp BAITAP nằm trong CON. Khẳng định nào sau đây đúng?",
+    [
+     "Tệp BAITAP nằm bên trong thư mục CON",
+     "Thư mục CON nằm bên trong tệp BAITAP",
+     "Thư mục GOC nằm bên trong thư mục CON",
+     "Tệp BAITAP nằm ở bên ngoài thư mục GOC"
+    ],
+    "Dựa vào sơ đồ phân cấp, tệp nằm trong thư mục con và thư mục con nằm trong thư mục gốc."
+   ],
+   [
+    "Hành động dọn dẹp các tệp tin cũ không còn dùng đến và đưa vào thùng rác giúp máy tính điều gì?",
+    [
+     "Giúp máy tính gọn gàng và dễ tìm kiếm tệp cần thiết hơn",
+     "Làm cho máy tính tự động cài thêm nhiều trò chơi",
+     "Khiến cho dung lượng máy tính bị đầy lên nhanh chóng",
+     "Làm mất hết tất cả các tài liệu quan trọng của em"
+    ],
+    "Xóa bớt tệp thừa giúp không gian lưu trữ ngăn nắp, dễ quản lý hơn."
+   ],
+   [
+    "Nếu em lưu tất cả hàng trăm tệp bài tập, hình ảnh, âm nhạc ra ngay màn hình nền mà không cho vào thư mục, điều gì sẽ xảy ra?",
+    [
+     "Màn hình rối tung và em sẽ mất rất nhiều thời gian để tìm một tệp",
+     "Em sẽ tìm thấy bất kỳ tệp nào chỉ trong vòng một giây",
+     "Máy tính sẽ tự động sắp xếp chúng thành các ngăn nắp",
+     "Các tệp sẽ tự động biến mất sau một ngày sử dụng"
+    ],
+    "Không sắp xếp sẽ khiến màn hình lộn xộn, việc tìm kiếm tệp trở nên rất khó khăn."
+   ],
+   [
+    "Bạn Huy lỡ tay xóa nhầm một thư mục bài tập quan trọng. Nơi đầu tiên Huy có thể tìm lại thư mục đó là gì?",
+    [
+     "Thùng rác trên màn hình máy tính",
+     "Phần cài đặt âm thanh của máy tính",
+     "Trình duyệt lướt web Google Chrome",
+     "Phần mềm gõ tiếng Việt Unikey"
+    ],
+    "Khi xóa thông thường, các tệp và thư mục sẽ tạm thời được chuyển vào Thùng rác."
+   ],
+   [
+    "Khi em muốn đổi tên một thư mục đã có từ Bai_tap thành Ho_tap, thao tác nào thể hiện đúng bước làm?",
+    [
+     "Nháy chuột phải vào thư mục và chọn đổi tên",
+     "Kéo thả thư mục đó vào trong thùng rác",
+     "Nháy đúp chuột liên tục để mở thư mục lên",
+     "Nhấn phím tắt để tắt nguồn máy tính ngay"
+    ],
+    "Menu chuột phải cung cấp lệnh đổi tên giúp em sửa lại tên thư mục dễ dàng."
+   ],
+   [
+    "Bạn Linh muốn tìm nhanh một bức ảnh chụp gia đình lưu trong máy tính nhưng không nhớ rõ ở đâu. Cách tìm thông minh nhất là gì?",
+    [
+     "Sử dụng ô tìm kiếm tệp trên máy tính và gõ từ khóa tên ảnh",
+     "Mở từng thư mục ngẫu nhiên và dò từ cái một",
+     "Tắt máy tính đi và vẽ lại bức ảnh khác hoàn toàn",
+     "Xóa sạch tất cả các thư mục để tìm lại từ đầu"
+    ],
+    "Sử dụng công cụ tìm kiếm giúp tiết kiệm thời gian khi quên vị trí lưu tệp."
+   ],
+   [
+    "Trong giờ học Tin học, cô giáo yêu cầu em tạo một thư mục mang tên chính em để lưu bài. Em nên đặt tên thế nào?",
+    [
+     "Nguyen_Van_An",
+     "abcxyz",
+     "123456",
+     "tep_tin"
+    ],
+    "Đặt tên thư mục theo tên học sinh giúp giáo viên và bản thân dễ nhận diện."
+   ],
+   [
+    "Khi em di chuyển một tệp từ thư mục A sang thư mục B, điều gì xảy ra với tệp đó?",
+    [
+     "Tệp sẽ biến mất ở thư mục A và xuất hiện ở thư mục B",
+     "Tệp sẽ tự động nhân bản thành hai bản giống nhau y hệt",
+     "Tệp sẽ bị xóa vĩnh viễn và không bao giờ tìm lại được",
+     "Tệp sẽ tự động đổi tên thành một tên ngẫu nhiên khác"
+    ],
+    "Thao tác di chuyển (Cut và Paste) làm tệp thay đổi vị trí từ thư mục cũ sang mới."
+   ],
+   [
+    "Việc phân chia các thư mục thành các cấp (thư mục lớn chứa thư mục con) giống với hình ảnh nào trong thực tế?",
+    [
+     "Chiếc tủ có nhiều ngăn lớn, trong mỗi ngăn lớn có các hộp nhỏ đựng đồ",
+     "Một tờ giấy trắng được viết chi chít chữ không có dòng kẻ",
+     "Một đống quần áo để lẫn lộn trên giường ngủ",
+     "Một con đường thẳng tắp không có ngã rẽ hay biển báo"
+    ],
+    "Cấu trúc thư mục phân cấp tương tự như cách sắp xếp đồ đạc trong các ngăn tủ."
+   ],
+   [
+    "Bạn Nam tạo thư mục NOP_BAI, bên trong có hai thư mục con là TOAN và TIN. Thư mục TOAN đóng vai trò gì đối với thư mục NOP_BAI?",
+    [
+     "Là thư mục con nằm bên trong thư mục NOP_BAI",
+     "Là thư mục gốc chứa toàn bộ máy tính",
+     "Là một tệp tin văn bản không thể chứa gì",
+     "Là thùng rác chứa các bài tập đã bị xóa"
+    ],
+    "Thư mục nằm bên trong một thư mục khác được gọi là thư mục con."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện ý thức tốt trong việc quản lý thông tin cá nhân trên máy tính?",
+    [
+     "Thường xuyên sắp xếp tệp tin vào đúng các thư mục chủ đề",
+     "Vứt mọi tệp tin mới tải về ra góc màn hình nền",
+     "Đặt tên tất cả các tệp đều là dấu chấm hoặc số không",
+     "Không bao giờ lưu lại bài làm sau khi đã làm xong"
+    ],
+    "Sắp xếp gọn gàng giúp máy tính khoa học và rèn luyện thói quen ngăn nắp."
+   ],
+   [
+    "Khi máy tính có quá nhiều tệp và thư mục rác rưởi chiếm dụng không gian, em nên làm gì để máy gọn gàng hơn?",
+    [
+     "Lọc lại, xóa tệp không dùng và sắp xếp các tệp còn lại vào thư mục",
+     "Tiếp tục tạo thêm hàng trăm thư mục trống không có tên",
+     "Tải thêm thật nhiều trò chơi nặng về máy tính",
+     "Đập màn hình máy tính để làm lại từ đầu"
+    ],
+    "Dọn dẹp và phân loại giúp không gian lưu trữ máy tính ngăn nắp, khoa học."
+   ],
+   [
+    "Để phân biệt tệp văn bản do em soạn thảo với tệp hình ảnh, người ta thường dựa vào yếu tố nào?",
+    [
+     "Phần mở rộng của tên tệp",
+     "Màu sắc của biểu tượng",
+     "Kích thước của tệp",
+     "Tên của người tạo tệp"
+    ],
+    "Phần mở rộng giúp máy tính và người dùng phân biệt các loại tệp khác nhau như văn bản hay hình ảnh."
+   ],
+   [
+    "Khi em nhìn thấy một biểu tượng tệp có phần mở rộng là mp3, đó thường là loại thông tin gì?",
+    [
+     "Âm thanh",
+     "Văn bản",
+     "Hình ảnh",
+     "Trò chơi"
+    ],
+    "Tệp có phần mở rộng mp3 là tệp chứa dữ liệu âm thanh hoặc bài hát."
+   ],
+   [
+    "Thao tác cơ bản nào giúp em mở một thư mục để xem các tệp bên trong?",
+    [
+     "Nháy đúp chuột vào biểu tượng thư mục",
+     "Nháy chuột phải một lần vào thư mục",
+     "Nhấn phím bất kỳ trên bàn phím",
+     "Di chuyển chuột qua lại trên thư mục"
+    ],
+    "Để mở một thư mục trên máy tính, em cần nháy đúp chuột vào biểu tượng của nó."
+   ],
+   [
+    "Phát biểu nào sau đây là đúng khi nói về vai trò của thư mục?",
+    [
+     "Giúp lưu trữ và tổ chức các tệp tin gọn gàng",
+     "Dùng để trang trí cho màn hình máy tính đẹp hơn",
+     "Giúp máy tính chạy nhanh hơn khi chơi game",
+     "Tự động tạo ra các bài tập cho học sinh"
+    ],
+    "Thư mục có vai trò như một chiếc cặp tài liệu giúp lưu trữ và sắp xếp các tệp gọn gàng."
+   ],
+   [
+    "Bạn Khoa muốn tạo một nơi chứa riêng cho các bài tập Toán trong thư mục Hoc_tap. Khoa cần làm gì?",
+    [
+     "Tạo thư mục mới có tên Toan bên trong thư mục Hoc_tap",
+     "Xóa thư mục Hoc_tap rồi tạo lại từ đầu",
+     "Sao chép toàn bộ máy tính vào một chỗ khác",
+     "Đổi tên tệp văn bản thành Toan"
+    ],
+    "Để tạo chỗ chứa bên trong, em mở thư mục đó ra và tạo thư mục mới."
+   ],
+   [
+    "Hành động nào giúp em nhận biết nhanh chóng nội dung một tệp mà không cần mở nó lên?",
+    [
+     "Đặt tên tệp gợi nhớ đúng nội dung bên trong",
+     "Để tên tệp là các con số ngẫu nhiên",
+     "Lưu tất cả tệp vào màn hình nền",
+     "Đổi màu sắc của biểu tượng tệp"
+    ],
+    "Đặt tên tệp rõ ràng, gợi nhớ giúp em biết ngay tệp đó chứa gì mà không cần mở."
+   ],
+   [
+    "Khi em muốn tìm kiếm một tệp tin đã lưu trong máy tính nhưng quên mất vị trí, em có thể sử dụng công cụ gì?",
+    [
+     "Hộp tìm kiếm trên thanh công cụ hoặc màn hình",
+     "Trò chơi giải trí có sẵn trên máy tính",
+     "Phần mềm soạn thảo văn bản Word",
+     "Phần mềm vẽ tranh Paint"
+    ],
+    "Hộp tìm kiếm giúp em nhanh chóng tìm ra vị trí của tệp tin khi quên nơi lưu."
+   ],
+   [
+    "Nếu em lưu quá nhiều tệp tin lộn xộn trên màn hình nền, điều gì sẽ xảy ra?",
+    [
+     "Khó khăn và mất thời gian khi cần tìm lại tệp",
+     "Máy tính sẽ tự động sắp xếp lại rất gọn gàng",
+     "Các tệp tin sẽ tự động biến mất sau một ngày",
+     "Dung lượng máy tính sẽ tự động tăng lên"
+    ],
+    "Để tệp lộn xộn trên màn hình nền sẽ khiến việc tìm kiếm trở nên khó khăn và mất thời gian."
+   ],
+   [
+    "Khi em nháy chuột chọn một tệp và nhấn phím Delete trên bàn phím, tệp đó sẽ đi đâu?",
+    [
+     "Được chuyển vào thùng rác của máy tính",
+     "Biến mất hoàn toàn và không bao giờ tìm lại được",
+     "Tự động được gửi cho cô giáo qua mạng",
+     "Chuyển thành tệp hình ảnh ngay lập tức"
+    ],
+    "Khi xóa thông thường bằng phím Delete, tệp sẽ được chuyển vào thùng rác."
+   ],
+   [
+    "Phát biểu nào dưới đây nói đúng về tệp tin (file)?",
+    [
+     "Là tập hợp các thông tin được lưu trữ trên thiết bị số",
+     "Là một chiếc cặp bằng da để đựng sách vở thật",
+     "Là màn hình nền hiển thị các biểu tượng",
+     "Là phím bấm trên bàn phím máy tính"
+    ],
+    "Tệp tin là đơn vị lưu trữ thông tin trên máy tính như văn bản, hình ảnh, âm thanh."
+   ],
+   [
+    "Bạn Minh lưu một bài thơ vào tệp tên “Bai_tho.docx”. Nếu Minh muốn đổi tên tệp thành “Me_cua_em.docx”, Minh nên làm gì?",
+    [
+     "Nháy chuột phải chọn đổi tên rồi gõ tên mới",
+     "Xóa máy tính đi rồi mua máy mới",
+     "Tạo một tài khoản mới trên mạng",
+     "Tắt nguồn máy tính ngay lập tức"
+    ],
+    "Để đổi tên tệp, em nháy chuột phải vào tệp và chọn lệnh đổi tên."
+   ],
+   [
+    "Trong máy tính, nếu thư mục Mẹ chứa thư mục con là Con, thì tệp tin nằm trong thư mục Con được gọi là gì đối với thư mục Mẹ?",
+    [
+     "Nằm bên trong thư mục Mẹ qua một cấp thư mục con",
+     "Không có mối liên hệ nào với thư mục Mẹ",
+     "Nằm ngay bên ngoài màn hình nền",
+     "Là thư mục gốc của toàn bộ máy tính"
+    ],
+    "Tệp nằm trong thư mục con thì cũng nằm bên trong thư mục mẹ ở cấp sâu hơn."
+   ],
+   [
+    "Bạn Lan muốn sao chép một tệp từ thư mục này sang thư mục khác mà vẫn giữ lại tệp ở chỗ cũ. Lan nên dùng lệnh nào?",
+    [
+     "Sao chép và dán (Copy và Paste)",
+     "Cắt và dán (Cut và Paste)",
+     "Xóa và tạo mới (Delete và New)",
+     "Đổi tên tệp (Rename)"
+    ],
+    "Lệnh Copy và Paste giúp nhân bản tệp sang nơi mới mà không làm mất tệp ở chỗ cũ."
+   ],
+   [
+    "Vì sao chúng ta nên thường xuyên dọn dẹp các tệp tin không còn sử dụng đến trên máy tính?",
+    [
+     "Giúp máy tính gọn gàng và dễ tìm kiếm thông tin",
+     "Làm cho máy tính to lên về kích thước",
+     "Giúp màn hình máy tính đổi màu sắc đẹp hơn",
+     "Làm cho máy tính phát ra âm thanh vui nhộn"
+    ],
+    "Dọn dẹp tệp cũ giúp không gian lưu trữ gọn gàng và dễ quản lý hơn."
+   ],
+   [
+    "Khi em nhìn thấy biểu tượng một tờ giấy có hình dòng kẻ hoặc chữ W trên máy tính, đó thường là tệp gì?",
+    [
+     "Tệp văn bản",
+     "Tệp âm thanh",
+     "Tệp hình ảnh",
+     "Tệp trò chơi"
+    ],
+    "Biểu tượng có hình chữ W thường đại diện cho tệp văn bản soạn thảo Word."
+   ],
+   [
+    "Bạn Hùng làm bài tập vẽ và muốn lưu lại để nộp cho cô giáo. Hành động lưu bài giúp ích gì cho Hùng?",
+    [
+     "Giúp giữ lại kết quả làm việc để mở ra xem hoặc sửa sau này",
+     "Giúp máy tính tự động tắt nguồn khi làm xong",
+     "Giúp bức tranh tự động in ra giấy mà không cần máy in",
+     "Giúp xóa sạch các lỗi vẽ sai trên màn hình"
+    ],
+    "Lưu bài giúp thông tin không bị mất đi và có thể sử dụng lại sau này."
+   ],
+   [
+    "Để tạo một thư mục mới trên màn hình nền máy tính, thao tác nào thường được sử dụng?",
+    [
+     "Nháy chuột phải chọn New rồi chọn Folder",
+     "Nháy đúp chuột vào góc trái màn hình",
+     "Nhấn giữ phím nguồn của máy tính",
+     "Kéo thả biểu tượng thùng rác vào giữa màn hình"
+    ],
+    "Thao tác nháy chuột phải chọn New và Folder là cách phổ biến để tạo thư mục mới."
+   ],
+   [
+    "Bạn Mai tạo một thư mục tên “Anh_gia_dinh” và chứa toàn bộ ảnh chụp đi chơi của nhà mình trong đó. Việc này giúp Mai điều gì?",
+    [
+     "Dễ dàng tìm lại ảnh gia đình khi cần xem",
+     "Làm cho máy tính nặng thêm và đơ máy",
+     "Biến ảnh chụp thành các bài hát",
+     "Xóa sạch các tệp khác trong máy"
+    ],
+    "Việc gom ảnh vào một thư mục riêng giúp quản lý và tìm kiếm rất thuận tiện."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện cách sử dụng máy tính ngăn nắp, khoa học?",
+    [
+     "Sắp xếp các tệp bài tập vào đúng các thư mục môn học tương ứng",
+     "Vứt tất cả mọi tệp tin ra màn hình nền cho nhanh",
+     "Đặt tên tất cả các tệp đều là chữ a giống nhau",
+     "Xóa hết các tệp do người khác tạo ra trên máy tính"
+    ],
+    "Phân loại tệp vào đúng thư mục môn học là cách làm việc ngăn nắp, khoa học."
+   ],
+   [
+    "Khi em muốn xem kích thước hoặc thông tin chi tiết của một tệp tin, em có thể làm gì?",
+    [
+     "Nháy chuột phải vào tệp và chọn Properties",
+     "Nháy đúp chuột liên tục mười lần vào tệp",
+     "Nhấn phím nguồn trên thân máy tính",
+     "Kéo tệp bỏ vào thùng rác"
+    ],
+    "Lệnh Properties trong bảng chọn khi nháy chuột phải giúp xem chi tiết thông tin về tệp."
+   ],
+   [
+    "Để phân biệt nhanh một tệp văn bản do em soạn thảo bằng phần mềm Word với một tệp hình ảnh trên máy tính, em thường dựa vào dấu hiệu nào sau đây?",
+    [
+     "Phần mở rộng của tệp như chấm docx hoặc chấm png",
+     "Màu sắc của màn hình máy tính",
+     "Kích thước lớn hay nhỏ của máy tính",
+     "Tên của người tạo ra máy tính"
+    ],
+    "Mỗi loại tệp tin có một phần mở rộng riêng biệt ở cuối tên tệp để nhận diện, ví dụ tệp văn bản Word thường có chấm docx và tệp ảnh có chấm png."
+   ]
+  ]
+ }
+}

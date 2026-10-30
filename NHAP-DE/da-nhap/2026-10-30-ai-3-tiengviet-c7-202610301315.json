@@ -1,0 +1,406 @@
+{
+ "3-tiengviet": {
+  "c7": [
+   [
+    "Đọc đoạn văn:\n«Mùa hè đến, những chùm phượng vĩ nở đỏ rực sân trường. Tiếng ve kêu râm ran như tiếng đàn chào hè. Các bạn học sinh chuẩn bị đón một kỳ nghỉ vui vẻ.»\n\nHoa phượng vĩ nở màu gì?",
+    [
+     "Màu đỏ rực",
+     "Màu vàng tươi",
+     "Màu tím biếc",
+     "Màu trắng tinh"
+    ],
+    "Đọc câu đầu tiên của đoạn văn, ta thấy hoa phượng vĩ nở màu đỏ rực."
+   ],
+   [
+    "Đọc đoạn văn:\n«Mùa hè đến, những chùm phượng vĩ nở đỏ rực sân trường. Tiếng ve kêu râm ran như tiếng đàn chào hè. Các bạn học sinh chuẩn bị đón một kỳ nghỉ vui vẻ.»\n\nTiếng ve kêu được so sánh với âm thanh gì?",
+    [
+     "Tiếng đàn chào hè",
+     "Tiếng trống trường",
+     "Tiếng chim hót",
+     "Tiếng gió thổi"
+    ],
+    "Đọc đoạn văn, tiếng ve kêu râm ran được so sánh với tiếng đàn chào hè."
+   ],
+   [
+    "Đọc đoạn văn:\n«Mùa hè đến, những chùm phượng vĩ nở đỏ rực sân trường. Tiếng ve kêu râm ran như tiếng đàn chào hè. Các bạn học sinh chuẩn bị đón một kỳ nghỉ vui vẻ.»\n\nCác bạn học sinh đang chuẩn bị đón điều gì?",
+    [
+     "Một kỳ nghỉ vui vẻ",
+     "Một năm học mới",
+     "Một chuyến đi xa",
+     "Một buổi biểu diễn"
+    ],
+    "Câu cuối của đoạn văn cho biết học sinh chuẩn bị đón một kỳ nghỉ vui vẻ."
+   ],
+   [
+    "Đọc đoạn văn:\n«Mèo con rất thích chơi đùa với cuộn len màu đỏ. Nó lăn qua lăn lại, vờn cuộn len quanh phòng. Khi mệt, mèo con cuộn tròn người lại ngủ thiếp đi trên thảm.»\n\nMèo con thích chơi đùa với vật gì?",
+    [
+     "Cuộn len màu đỏ",
+     "Quả bóng nhựa",
+     "Chiếc lá khô",
+     "Cục bông trắng"
+    ],
+    "Đoạn văn nêu rõ mèo con rất thích chơi đùa với cuộn len màu đỏ."
+   ],
+   [
+    "Đọc đoạn văn:\n«Mèo con rất thích chơi đùa với cuộn len màu đỏ. Nó lăn qua lăn lại, vờn cuộn len quanh phòng. Khi mệt, mèo con cuộn tròn người lại ngủ thiếp đi trên thảm.»\n\nKhi mệt, mèo con làm gì?",
+    [
+     "Cuộn tròn người ngủ thiếp đi",
+     "Chạy ra ngoài sân",
+     "Kêu meo meo gọi chủ",
+     "Tiếp tục chơi đùa"
+    ],
+    "Đoạn văn miêu tả khi mệt, mèo con cuộn tròn người lại ngủ thiếp đi trên thảm."
+   ],
+   [
+    "Đọc đoạn văn:\n«Mèo con rất thích chơi đùa với cuộn len màu đỏ. Nó lăn qua lăn lại, vờn cuộn len quanh phòng. Khi mệt, mèo con cuộn tròn người lại ngủ thiếp đi trên thảm.»\n\nTừ ngữ nào chỉ hoạt động của mèo con khi chơi với cuộn len?",
+    [
+     "Vờn cuộn len",
+     "Ngủ thiếp đi",
+     "Cuộn tròn người",
+     "Nằm trên thảm"
+    ],
+    "Từ chỉ hoạt động của mèo khi chơi là vờn cuộn len."
+   ],
+   [
+    "Đọc đoạn văn:\n«Cây cam nhà em đã sai trĩu quả. Những quả cam tròn vo, da căng mọng, chuyển dần từ màu xanh sang màu vàng cam. Khi chín, cam có vị ngọt đậm và rất thơm.»\n\nKhi chín, quả cam có đặc điểm gì về mùi vị?",
+    [
+     "Ngọt đậm và rất thơm",
+     "Chua dịu và mát",
+     "Ngọt nhạt, ít nước",
+     "Vừa ngọt vừa chát"
+    ],
+    "Đoạn văn nêu rõ khi chín, cam có vị ngọt đậm và rất thơm."
+   ],
+   [
+    "Đọc đoạn văn:\n«Cây cam nhà em đã sai trĩu quả. Những quả cam tròn vo, da căng mọng, chuyển dần từ màu xanh sang màu vàng cam. Khi chín, cam có vị ngọt đậm và rất thơm.»\n\nMàu sắc của quả cam thay đổi thế nào khi lớn lên?",
+    [
+     "Từ màu xanh sang màu vàng cam",
+     "Từ màu vàng sang màu đỏ",
+     "Từ màu trắng sang màu xanh",
+     "Từ màu cam sang màu đỏ"
+    ],
+    "Đoạn văn cho biết quả cam chuyển dần từ màu xanh sang màu vàng cam."
+   ],
+   [
+    "Đọc đoạn văn:\n«Cây cam nhà em đã sai trĩu quả. Những quả cam tròn vo, da căng mọng, chuyển dần từ màu xanh sang màu vàng cam. Khi chín, cam có vị ngọt đậm và rất thơm.»\n\nTừ ngữ nào tả hình dáng của quả cam?",
+    [
+     "Tròn vo",
+     "Đỏ rực",
+     "Xanh mướt",
+     "Vàng cam"
+    ],
+    "Từ tròn vo dùng để tả hình dáng của những quả cam."
+   ],
+   [
+    "Đọc đoạn văn:\n«Sáng nay, Nam quên mang ô nên bị ướt mưa. Thấy vậy, Mai liền chia sẻ một nửa chiếc ô của mình để đưa Nam cùng về nhà. Nam rối rít cảm ơn bạn.»\n\nVì sao Nam bị ướt mưa?",
+    [
+     "Vì Nam quên mang ô",
+     "Vì trời mưa rất to",
+     "Vì Nam chạy nhanh quá",
+     "Vì Mai không đợi Nam"
+    ],
+    "Đoạn văn nêu rõ nguyên nhân Nam bị ướt mưa là do quên mang ô."
+   ],
+   [
+    "Đọc đoạn văn:\n«Sáng nay, Nam quên mang ô nên bị ướt mưa. Thấy vậy, Mai liền chia sẻ một nửa chiếc ô của mình để đưa Nam cùng về nhà. Nam rối rít cảm ơn bạn.»\n\nMai đã làm gì giúp Nam?",
+    [
+     "Chia sẻ một nửa chiếc ô đưa bạn về",
+     "Cho Nam mượn áo mưa dự phòng",
+     "Chạy đi mua một chiếc ô mới cho Nam",
+     "Gọi điện thoại cho bố mẹ Nam đến đón"
+    ],
+    "Mai đã chia sẻ một nửa chiếc ô của mình để đưa Nam cùng về nhà."
+   ],
+   [
+    "Đọc đoạn văn:\n«Sáng nay, Nam quên mang ô nên bị ướt mưa. Thấy vậy, Mai liền chia sẻ một nửa chiếc ô của mình để đưa Nam cùng về nhà. Nam rối rít cảm ơn bạn.»\n\nCâu chuyện trên khuyên chúng ta điều gì?",
+    [
+     "Biết quan tâm, giúp đỡ bạn bè",
+     "Luôn mang theo ô khi đi học",
+     "Phải biết nói lời cảm ơn",
+     "Không được đi dưới trời mưa"
+    ],
+    "Câu chuyện ca ngợi và khuyên chúng ta biết quan tâm, chia sẻ và giúp đỡ bạn bè lúc khó khăn."
+   ],
+   [
+    "Đọc đoạn văn:\n«Dòng sông quê hương chảy hiền hòa uốn lượn qua những xóm làng yên ả. Nước sông trong vắt, soi bóng cả hàng tre xanh và những cánh cò bay lả rập rờn.»\n\nDòng sông được tả có đặc điểm gì?",
+    [
+     "Chảy hiền hòa uốn lượn",
+     "Chảy xiết và đục ngầu",
+     "Lặng yên không chuyển động",
+     "Rộng lớn như biển cả"
+    ],
+    "Đoạn văn miêu tả dòng sông quê hương chảy hiền hòa uốn lượn."
+   ],
+   [
+    "Đọc đoạn văn:\n«Dòng sông quê hương chảy hiền hòa uốn lượn qua những xóm làng yên ả. Nước sông trong vắt, soi bóng cả hàng tre xanh và những cánh cò bay lả rập rờn.»\n\nNước sông có màu sắc thế nào?",
+    [
+     "Trong vắt",
+     "Xanh thẫm",
+     "Đỏ nặng phù sa",
+     "Vàng đục"
+    ],
+    "Đoạn văn miêu tả nước sông trong vắt."
+   ],
+   [
+    "Đọc đoạn văn:\n«Dòng sông quê hương chảy hiền hòa uốn lượn qua những xóm làng yên ả. Nước sông trong vắt, soi bóng cả hàng tre xanh và những cánh cò bay lả rập rờn.»\n\nNhững hình ảnh nào được soi bóng xuống mặt nước sông?",
+    [
+     "Hàng tre xanh",
+     "Những ngôi nhà cao",
+     "Đàn trâu gặm cỏ",
+     "Mây trắng trên trời"
+    ],
+    "Đoạn văn cho biết nước sông soi bóng cả hàng tre xanh."
+   ],
+   [
+    "Đọc đoạn văn:\n«Ông Tư cẩn thận gieo từng hạt m giống xuống luống đất ẩm. Ông dùng tay vun một lớp đất mỏng lên trên rồi tưới nước nhẹ nhàng để cây nhanh nảy mầm.»\n\nÔng Tư đã làm gì trước khi tưới nước cho hạt giống?",
+    [
+     "Vun một lớp đất mỏng lên trên",
+     "Phơi hạt giống dưới nắng to",
+     "Nhổ cỏ dại quanh luống đất",
+     "Bón phân hóa học cho cây"
+    ],
+    "Theo đoạn văn, ông dùng tay vun một lớp đất mỏng lên trên rồi mới tưới nước."
+   ],
+   [
+    "Đọc đoạn văn:\n«Ông Tư cẩn thận gieo từng hạt m giống xuống luống đất ẩm. Ông dùng tay vun một lớp đất mỏng lên trên rồi tưới nước nhẹ nhàng để cây nhanh nảy mầm.»\n\nMục đích của việc tưới nước nhẹ nhàng là gì?",
+    [
+     "Để cây nhanh nảy mầm",
+     "Để làm ướt toàn bộ sân",
+     "Để rửa sạch bụi trên lá",
+     "Để đất cứng lại chắc chắn"
+    ],
+    "Đoạn văn nêu rõ tưới nước nhẹ nhàng để cây nhanh nảy mầm."
+   ],
+   [
+    "Đọc đoạn văn:\n«Hôm nay, lớp em có buổi lao động trồng hoa ở bồn cây trước lớp. Bạn Lan xới đất, bạn Mai thả hạt giống, còn em thì tưới nước. Ai nấy đều làm việc hăng hái.»\n\nBạn Mai làm công việc gì trong buổi lao động?",
+    [
+     "Thả hạt giống",
+     "Xới đất trồng hoa",
+     "Tưới nước cho cây",
+     "Quét dọn sạch sẽ"
+    ],
+    "Đoạn văn phân chia rõ: bạn Lan xới đất, bạn Mai thả hạt giống."
+   ],
+   [
+    "Đọc đoạn văn:\n«Hôm nay, lớp em có buổi lao động trồng hoa ở bồn cây trước lớp. Bạn Lan xới đất, bạn Mai thả hạt giống, còn em thì tưới nước. Ai nấy đều làm việc hăng hái.»\n\nBuổi lao động trồng hoa diễn ra ở đâu?",
+    [
+     "Ở bồn cây trước lớp",
+     "Ở vườn sau của nhà trường",
+     "Ở khuông viên công viên",
+     "Ở nhà văn hóa xã"
+    ],
+    "Đoạn văn nêu rõ lớp lao động trồng hoa ở bồn cây trước lớp."
+   ],
+   [
+    "Đọc đoạn văn:\n«Hôm nay, lớp em có buổi lao động trồng hoa ở bồn cây trước lớp. Bạn Lan xới đất, bạn Mai thả hạt giống, còn em thì tưới nước. Ai nấy đều làm việc hăng hái.»\n\nTừ ngữ nào chỉ thái độ làm việc của các bạn học sinh?",
+    [
+     "Hăng hái",
+     "Mệt mỏi",
+     "Buồn chán",
+     "Lười biếng"
+    ],
+    "Câu cuối đoạn văn cho biết ai nấy đều làm việc hăng hái."
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Mùa thu về, không khí trở nên dịu mát. Những chiếc lá đàng xa ngả sang màu vàng óng. Trên bầu trời cao xanh, từng đàn chim én liệng vòng chuẩn bị bay về phương nam tránh cơ rét.”\n\nKhi mùa thu về, thời tiết có đặc điểm gì?",
+    [
+     "Dịu mát",
+     "Nắng nóng gay gắt",
+     "Lạnh giá buốt",
+     "Nhiều mưa rào"
+    ],
+    "Đoạn văn nêu rõ: “Mùa thu về, không khí trở nên dịu mát.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Mùa thu về, không khí trở nên dịu mát. Những chiếc lá đàng xa ngả sang màu vàng óng. Trên bầu trời cao xanh, từng đàn chim én liệng vòng chuẩn bị bay về phương nam tránh cơ rét.”\n\nNhững chiếc lá chuyển sang màu gì khi mùa thu đến?",
+    [
+     "Vàng óng",
+     "Xanh thẫm",
+     "Đỏ rực",
+     "Tím nhạt"
+    ],
+    "Đoạn văn ghi: “Những chiếc lá đàng xa ngả sang màu vàng óng.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Bé An có thói quen đọc sách mỗi tối trước khi đi ngủ. An giữ gìn từng cuốn sách cẩn thận, không để gáy sách bị rách hay trang sách bị gấp góc. Nhờ vậy, tủ sách của An luôn mới và ngăn nắp.”\n\nAn có thói quen gì vào mỗi buổi tối?",
+    [
+     "Đọc sách trước khi đi ngủ",
+     "Xem tivi cùng gia đình",
+     "Nghe nhạc thiếu nhi",
+     "Vẽ tranh cảnh thiên nhiên"
+    ],
+    "Đoạn văn nêu rõ: “Bé An có thói quen đọc sách mỗi tối trước khi đi ngủ.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Bé An có thói quen đọc sách mỗi tối trước khi đi ngủ. An giữ gìn từng cuốn sách cẩn thận, không để gáy sách bị rách hay trang sách bị gấp góc. Nhờ vậy, tủ sách của An luôn mới và ngăn nắp.”\n\nNhờ sự cẩn thận của An, tủ sách có đặc điểm gì?",
+    [
+     "Luôn mới và ngăn nắp",
+     "Cũ kỹ và ngổn ngang",
+     "Bị bám nhiều bụi bẩn",
+     "Có nhiều trang bị rách"
+    ],
+    "Câu cuối đoạn văn chỉ ra: “Nhờ vậy, tủ sách của An luôn mới và ngăn nắp.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Bé An có thói quen đọc sách mỗi tối trước khi đi ngủ. An giữ gìn từng cuốn sách cẩn thận, không để gáy sách bị rách hay trang sách bị gấp góc. Nhờ vậy, tủ sách của An luôn mới và ngăn nắp.”\n\nViệc làm của An nhắc nhở chúng ta bài học gì?",
+    [
+     "Cần biết yêu quý và giữ gìn sách vở",
+     "Nên mua thật nhiều sách về trưng bày",
+     "Chỉ nên đọc sách vào ban ngày",
+     "Không nên cho người khác mượn sách"
+    ],
+    "Ý thức giữ gìn sách của An thể hiện thái độ trân trọng và bảo vệ sách vở."
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Cánh đồng làng em vào mùa lúa chín trông như một tấm thảm khổng lồ màu vàng rực. Mùi hương lúa mới thơm ngào ngạt theo gió thoảng qua. Mấy bác nông dân vừa gặt vừa trò chuyện vui vẻ.”\n\nCánh đồng lúa chín được so sánh với hình ảnh nào?",
+    [
+     "Một tấm thảm khổng lồ màu vàng rực",
+     "Một dải lụa xanh mềm mại",
+     "Một chiếc gương tròn lớn",
+     "Một bức tranh vẽ nhiều màu sắc"
+    ],
+    "Đoạn văn ghi: “Cánh đồng làng em vào mùa lúa chín trông như một tấm thảm khổng lồ màu vàng rực.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Cánh đồng làng em vào mùa lúa chín trông như một tấm thảm khổng lồ màu vàng rực. Mùi hương lúa mới thơm ngào ngạt theo gió thoảng qua. Mấy bác nông dân vừa gặt vừa trò chuyện vui vẻ.”\n\nHương thơm của lúa mới được tả như thế nào?",
+    [
+     "Thơm ngào ngạt",
+     "Thơm thoang thoảng",
+     "Không có mùi vị",
+     "Nồng nặc khó chịu"
+    ],
+    "Đoạn văn mô tả: “Mùi hương lúa mới thơm ngào ngạt theo gió thoảng qua.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Gà trống nhà em có bộ lông ngũ sắc rất đẹp. Mỗi sáng sớm, chú leo lên đống rơm cao, vươn cổ cất tiếng gáy “Ó ơ ó o...”. Tiếng gáy như một chiếc đồng hồ báo thức gọi mọi người thức dậy.”\n\nChú gà trống cất tiếng gáy vào lúc nào trong ngày?",
+    [
+     "Mỗi sáng sớm",
+     "Lúc buổi trưa",
+     "Khi hoàng hôn xuống",
+     "Vào giữa đêm"
+    ],
+    "Đoạn văn nêu rõ: “Mỗi sáng sớm, chú leo lên đống rơm cao, vươn cổ cất tiếng gáy...”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Gà trống nhà em có bộ lông ngũ sắc rất đẹp. Mỗi sáng sớm, chú leo lên đống rơm cao, vươn cổ cất tiếng gáy “Ó ơ ó o...”. Tiếng gáy như một chiếc đồng hồ báo thức gọi mọi người thức dậy.”\n\nTrong bài, tiếng gáy của gà trống được so sánh với vật gì?",
+    [
+     "Một chiếc đồng hồ báo thức",
+     "Một chiếc còi xe",
+     "Một khúc nhạc bài hát",
+     "Một tiếng chuông cửa"
+    ],
+    "Đoạn văn ghi: “Tiếng gáy như một chiếc đồng hồ báo thức gọi mọi người thức dậy.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Đêm trung thu, trăng tròn và sáng vạch trên bầu trời. Các bạn nhỏ trong xóm rủ nhau rước đèn ông sao, đèn cá chép khắp các con ngõ. Tiếng trống tùng rinh rinh vang lên khiến không khí vô cùng náo nhiệt.”\n\nCác bạn nhỏ rước những loại đèn nào trong đêm trung thu?",
+    [
+     "Đèn ông sao và đèn cá chép",
+     "Đèn pin và đèn ngủ",
+     "Đèn lồng tròn và đèn hoa đăng",
+     "Đèn bàn và đèn kéo quân"
+    ],
+    "Đoạn văn nêu: “Các bạn nhỏ trong xóm rủ nhau rước đèn ông sao, đèn cá chép...”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Đêm trung thu, trăng tròn và sáng vạch trên bầu trời. Các bạn nhỏ trong xóm rủ nhau rước đèn ông sao, đèn cá chép khắp các con ngõ. Tiếng trống tùng rinh rinh vang lên khiến không khí vô cùng náo nhiệt.”\n\nÂm thanh nào làm cho không khí đêm trung thu thêm náo nhiệt?",
+    [
+     "Tiếng trống tùng rinh rinh",
+     "Tiếng còi xe chạy",
+     "Tiếng mưa rơi trên mái nhà",
+     "Tiếng ve kêu râm ran"
+    ],
+    "Đoạn văn ghi: “Tiếng trống tùng rinh rinh vang lên khiến không khí vô cùng náo nhiệt.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Sáng chủ nhật, cả gia đình Phong cùng nhau dọn dẹp nhà cửa. Bố lau lau cửa kính, mẹ lau sàn nhà, còn Phong dọn dẹp góc học tập của mình. Căn nhà trở nên gọn gàng, sạch sẽ khiến ai cũng thấy vui vẻ.”\n\nPhong đã làm công việc gì để giúp gia đình dọn dẹp nhà cửa?",
+    [
+     "Dọn dẹp góc học tập của mình",
+     "Lau các cửa kính",
+     "Lau toàn bộ sàn nhà",
+     "Tưới cây ở ngoài sân"
+    ],
+    "Đoạn văn ghi rõ: “...được Phong dọn dẹp góc học tập của mình.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Sáng chủ nhật, cả gia đình Phong cùng nhau dọn dẹp nhà cửa. Bố lau lau cửa kính, mẹ lau sàn nhà, còn Phong dọn dẹp góc học tập của mình. Căn nhà trở nên gọn gàng, sạch sẽ khiến ai cũng thấy vui vẻ.”\n\nSau khi dọn dẹp, căn nhà có thay đổi gì?",
+    [
+     "Trở nên gọn gàng, sạch sẽ",
+     "Vẫn còn nhiều bụi bẩn",
+     "Bị xáo trộn nhiều đồ đạc",
+     "Trông rộng lớn hơn nhiều"
+    ],
+    "Đoạn văn nêu: “Căn nhà trở nên gọn gàng, sạch sẽ khiến ai cũng thấy vui vẻ.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Cây hoa hồng trong vườn nhà em bắt đầu nở hoa. Những cánh hoa mịn như nhung, xếp chồng lên nhau thành từng lớp. Mấy chú bướm chập chờn bay đến hút mật hoa.”\n\nCánh hoa hồng được miêu tả như thế nào?",
+    [
+     "Mịn như nhung",
+     "Cứng như nhựa",
+     "Mỏng như giấy",
+     "Dày như lá cây"
+    ],
+    "Đoạn văn nêu: “Những cánh hoa mịn như nhung, xếp chồng lên nhau thành từng lớp.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Cây hoa hồng trong vườn nhà em bắt đầu nở hoa. Những cánh hoa mịn như nhung, xếp chồng lên nhau thành từng lớp. Mấy chú bướm chập chờn bay đến hút mật hoa.”\n\nCon vật nào đã tìm đến cây hoa hồng khi hoa nở?",
+    [
+     "Mấy chú bướm",
+     "Mấy con chim sẻ",
+     "Những chú kiến gió",
+     "Những chú chuồn chuồn"
+    ],
+    "Đoạn văn ghi: “Mấy chú bướm chập chờn bay đến hút mật hoa.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Nhi là một học sinh rất chăm chỉ. Ngày nào Nhi cũng ôn lại bài cũ và chuẩn bị bài mới trước khi đến lớp. Nhờ vậy, trong các buổi học, Nhi luôn tự tin giơ tay phát biểu xây dựng bài.”\n\nNhi làm gì trước khi đến lớp mỗi ngày?",
+    [
+     "Ôn lại bài cũ và chuẩn bị bài mới",
+     "Xem trước các chương trình giải trí",
+     "Giúp mẹ đi chợ mua đồ",
+     "Chơi trò chơi điện tử"
+    ],
+    "Đoạn văn ghi: “Ngày nào Nhi cũng ôn lại bài cũ và chuẩn bị bài mới trước khi đến lớp.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Nhi là một học sinh rất chăm chỉ. Ngày nào Nhi cũng ôn lại bài cũ và chuẩn bị bài mới trước khi đến lớp. Nhờ vậy, trong các buổi học, Nhi luôn tự tin giơ tay phát biểu xây dựng bài.”\n\nThói quen chuẩn bị bài mang lại kết quả gì cho Nhi?",
+    [
+     "Nhi luôn tự tin giơ tay phát biểu",
+     "Nhi được cô giáo cho nghỉ học",
+     "Nhi không cần lắng nghe giảng",
+     "Nhi hoàn thành bài tập nhanh nhất"
+    ],
+    "Đoạn văn ghi: “Nhờ vậy, trong các buổi học, Nhi luôn tự tin giơ tay phát biểu xây dựng bài.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Nhi là một học sinh rất chăm chỉ. Ngày nào Nhi cũng ôn lại bài cũ và chuẩn bị bài mới trước khi đến lớp. Nhờ vậy, trong các buổi học, Nhi luôn tự tin giơ tay phát biểu xây dựng bài.”\n\nNếu muốn đạt kết quả học tập tốt như Nhi, em nên làm gì?",
+    [
+     "Chăm chỉ học bài và chuẩn bị bài chu đáo",
+     "Chỉ học bài khi sắp có bài kiểm tra",
+     "Đợi thầy cô nhắc nhở mới chịu làm bài",
+     "Chỉ cần làm các bài tập dễ"
+    ],
+    "Học tập gương Nhi, chúng ta cần chủ động ôn bài và chuẩn bị bài chăm chỉ."
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Đàn kiến nhỏ cùng nhau tha một hạt gạo to về tổ. Con đẩy phía sau, con kéo phía trước, không con nào bỏ cuộc. Sau một hồi cố gắng, hạt gạo đã được đưa vào trong tổ an toàn.”\n\nĐàn kiến đã làm cách nào để đưa hạt gạo về tổ?",
+    [
+     "Con đẩy phía sau, con kéo phía trước",
+     "Một con tự vác hạt gạo chạy về",
+     "Chia nhỏ hạt gạo thành nhiều mảnh",
+     "Đợi gió thổi hạt gạo văng vào tổ"
+    ],
+    "Đoạn văn miêu tả: “Con đẩy phía sau, con kéo phía trước, không con nào bỏ cuộc.”"
+   ],
+   [
+    "Đọc đoạn văn sau và trả lời câu hỏi:\n“Đàn kiến nhỏ cùng nhau tha một hạt gạo to về tổ. Con đẩy phía sau, con kéo phía trước, không con nào bỏ cuộc. Sau một hồi cố gắng, hạt gạo đã được đưa vào trong tổ an toàn.”\n\nHành động của đàn kiến thể hiện đức tính gì nổi bật?",
+    [
+     "Tinh thần đoàn kết và kiên trì",
+     "Sự nhanh trí và sáng tạo",
+     "Tính dũng cảm vượt khó khăn",
+     "Lòng nhân ái với đồng loại"
+    ],
+    "Việc đàn kiến hợp lực cùng làm và không bỏ cuộc cho thấy sự đoàn kết và kiên trì."
+   ]
+  ]
+ }
+}

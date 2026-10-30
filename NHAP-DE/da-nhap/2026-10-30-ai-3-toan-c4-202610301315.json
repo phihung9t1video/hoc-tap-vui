@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c4": [
+   [
+    "Tính: 12 × 4 = ?",
+    [
+     "48",
+     "46",
+     "16",
+     "44"
+    ],
+    "Ta thực hiện phép nhân: 12 × 4 = 48."
+   ],
+   [
+    "Kết quả của phép tính 63 : 3 là:",
+    [
+     "21",
+     "22",
+     "20",
+     "23"
+    ],
+    "Ta thực hiện phép chia: 63 : 3 = 21."
+   ],
+   [
+    "Trong phép chia 25 : 4, số dư là bao nhiêu?",
+    [
+     "1",
+     "2",
+     "3",
+     "0"
+    ],
+    "Ta có 25 : 4 = 6 (dư 1)."
+   ],
+   [
+    "Một thừa số bằng 8, thừa số kia bằng 7. Tích của hai thừa số đó là:",
+    [
+     "56",
+     "15",
+     "54",
+     "48"
+    ],
+    "Muốn tìm tích ta lấy hai thừa số nhân với nhau: 8 × 7 = 56."
+   ],
+   [
+    "Tìm số chia, biết số bị chia là 36 và thương là 9.",
+    [
+     "4",
+     "5",
+     "3",
+     "27"
+    ],
+    "Muốn tìm số chia ta lấy số bị chia chia cho thương: 36 : 9 = 4."
+   ],
+   [
+    "Trong phép chia có số chia là 8, số dư lớn nhất có thể có là:",
+    [
+     "7",
+     "8",
+     "6",
+     "9"
+    ],
+    "Số dư luôn nhỏ hơn số chia, nên số dư lớn nhất khi chia cho 8 là 7."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 15 × 3 ... 14 × 4",
+    [
+     "<",
+     ">",
+     "Wait",
+     "None"
+    ],
+    "Ta có 15 × 3 = 45 và 14 × 4 = 56. Vì 45 < 56 nên 15 × 3 < 14 × 4."
+   ],
+   [
+    "Tìm x, biết: x : 5 = 15",
+    [
+     "x = 75",
+     "x = 3",
+     "x = 70",
+     "x = 80"
+    ],
+    "Muốn tìm số bị chia, ta lấy thương nhân với số chia: x = 15 × 5 = 75."
+   ],
+   [
+    "Một phần năm của 45 kg là:",
+    [
+     "9 kg",
+     "8 kg",
+     "7 kg",
+     "5 kg"
+    ],
+    "Muốn tìm 1/5 của 45 kg, ta lấy 45 : 5 = 9 kg."
+   ],
+   [
+    "Gấp 15 cm lên 6 lần thì được:",
+    [
+     "90 cm",
+     "80 cm",
+     "21 cm",
+     "90 m"
+    ],
+    "Gấp một số lên nhiều lần ta lấy số đó nhân với số lần: 15 cm × 6 = 90 cm."
+   ],
+   [
+    "Giảm 72 l đi 8 lần thì được:",
+    [
+     "9 l",
+     "8 l",
+     "64 l",
+     "90 l"
+    ],
+    "Giảm một số đi nhiều lần ta lấy số đó chia cho số lần: 72 l : 8 = 9 l."
+   ],
+   [
+    "Năm nay Nam 7 tuổi, tuổi của ông gấp 9 lần tuổi của Nam. Hỏi năm nay ông bao nhiêu tuổi?",
+    [
+     "63 tuổi",
+     "56 tuổi",
+     "16 tuổi",
+     "72 tuổi"
+    ],
+    "Tuổi của ông là: 7 × 9 = 63 (tuổi)."
+   ],
+   [
+    "Lớp 3A có 35 học sinh, cô giáo chia đều thành 5 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
+    [
+     "7 học sinh",
+     "6 học sinh",
+     "8 học sinh",
+     "30 học sinh"
+    ],
+    "Mỗi tổ có số học sinh là: 35 : 5 = 7 (học sinh)."
+   ],
+   [
+    "Thương của phép chia 58 : 6 là:",
+    [
+     "9 (dư 4)",
+     "8 (dư 10)",
+     "9 (dư 2)",
+     "8 (dư 4)"
+    ],
+    "Ta có 58 : 6 = 9 (dư 4) vì 6 × 9 = 54, 58 - 54 = 4."
+   ],
+   [
+    "Số dư của phép chia 43 : 5 là:",
+    [
+     "3",
+     "8",
+     "2",
+     "4"
+    ],
+    "Ta có 43 : 5 = 8 (dư 3)."
+   ],
+   [
+    "Mỗi bao gạo nặng 25 kg. Hỏi 3 bao gạo như thế nặng tất cả bao nhiêu ki-lô-gam?",
+    [
+     "75 kg",
+     "65 kg",
+     "28 kg",
+     "70 kg"
+    ],
+    "Cả 3 bao gạo nặng số ki-lô-gam là: 25 × 3 = 75 (kg)."
+   ],
+   [
+    "Hà có 42 cái nhãn vở, Hà cho Mai 1/6 số nhãn vở đó. Hỏi Hà đã cho Mai bao nhiêu cái nhãn vở?",
+    [
+     "7 cái",
+     "6 cái",
+     "36 cái",
+     "8 cái"
+    ],
+    "Số nhãn vở Hà cho Mai là: 42 : 6 = 7 (cái)."
+   ],
+   [
+    "Có 38 học sinh đi tham quan bằng xe ô tô nhỏ, mỗi xe chở được nhiều nhất 4 học sinh. Hỏi cần ít nhất bao nhiêu xe để chở hết số học sinh đó?",
+    [
+     "10 xe",
+     "9 xe",
+     "8 xe",
+     "11 xe"
+    ],
+    "Ta có 38 : 4 = 9 (dư 2). Vì còn dư 2 học sinh nên cần thêm 1 xe nữa. Số xe ít nhất là: 9 + 1 = 10 (xe)."
+   ],
+   [
+    "Mẹ mua 3 hộp bánh, mỗi hộp có 12 cái bánh. Sau đó mẹ cho các con ăn hết 10 cái bánh. Hỏi mẹ còn lại bao nhiêu cái bánh?",
+    [
+     "26 cái bánh",
+     "36 cái bánh",
+     "24 cái bánh",
+     "16 cái bánh"
+    ],
+    "Mẹ mua tất cả số bánh là: 12 × 3 = 36 (cái). Mẹ còn lại số bánh là: 36 - 10 = 26 (cái)."
+   ],
+   [
+    "Một cửa hàng có 80 kg gạo, buổi sáng đã bán được 1/4 số gạo đó. Hỏi cửa hàng còn lại bao nhiêu ki-lô-gam gạo?",
+    [
+     "60 kg",
+     "20 kg",
+     "40 kg",
+     "50 kg"
+    ],
+    "Buổi sáng bán được số gạo là: 80 : 4 = 20 (kg). Cửa hàng còn lại số gạo là: 80 - 20 = 60 (kg)."
+   ],
+   [
+    "Tính: 11 × 7 = ?",
+    [
+     "77",
+     "71",
+     "87",
+     "18"
+    ],
+    "Ta lấy 11 nhân với 7 được kết quả bằng 77."
+   ],
+   [
+    "Kết quả của phép chia 84 : 4 là:",
+    [
+     "21",
+     "22",
+     "20",
+     "12"
+    ],
+    "Ta lấy 8 chia 4 được 2, 4 chia 4 được 1. Vậy 84 : 4 = 21."
+   ],
+   [
+    "Trong phép chia có số chia là 5, số dư lớn nhất có thể là:",
+    [
+     "4",
+     "5",
+     "3",
+     "0"
+    ],
+    "Số dư luôn bé hơn số chia. Vì số chia là 5 nên số dư lớn nhất có thể là 4."
+   ],
+   [
+    "Tìm thừa số chưa biết trong phép tính: ... × 6 = 54",
+    [
+     "9",
+     "8",
+     "7",
+     "48"
+    ],
+    "Muốn tìm thừa số chưa biết, ta lấy tích chia cho thừa số đã biết: 54 : 6 = 9."
+   ],
+   [
+    "Số gồm 8 chục giảm đi 4 lần thì được:",
+    [
+     "20",
+     "2",
+     "320",
+     "16"
+    ],
+    "Số gồm 8 chục là 80. Giảm đi 4 lần ta lấy 80 : 4 = 20."
+   ],
+   [
+    "Một phần bảy của 63 m là:",
+    [
+     "9 m",
+     "8 m",
+     "7 m",
+     "56 m"
+    ],
+    "Muốn tìm 1/7 của 63 m, ta lấy 63 : 7 = 9 m."
+   ],
+   [
+    "Gấp 14 l lên 5 lần thì được:",
+    [
+     "70 l",
+     "60 l",
+     "19 l",
+     "9 l"
+    ],
+    "Muốn gấp 14 l lên 5 lần, ta lấy 14 × 5 = 70 l."
+   ],
+   [
+    "Một số chia cho 7 được thương là 8 và số dư là 2. Số đó là:",
+    [
+     "58",
+     "56",
+     "54",
+     "17"
+    ],
+    "Muốn tìm số bị chia, ta lấy thương nhân với số chia rồi cộng số dư: 8 × 7 + 2 = 58."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 23 × 3 ... 12 × 6",
+    [
+     ">",
+     "<",
+     "bánh",
+     "63 bánh"
+    ],
+    "Ta có 23 × 3 = 69 và 12 × 6 = 72. Vì 69 < 72 nên điền dấu <."
+   ],
+   [
+    "Mỗi cuộn dây điện dài 22 m. Hỏi 4 cuộn dây điện như thế dài bao nhiêu mét?",
+    [
+     "88 m",
+     "84 m",
+     "26 m",
+     "18 m"
+    ],
+    "Độ dài của 4 cuộn dây điện là: 22 × 4 = 88 m."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm là: 96 : ... = 3",
+    [
+     "32",
+     "31",
+     "288",
+     "93"
+    ],
+    "Muốn tìm số chia ta lấy số bị chia chia cho thương: 96 : 3 = 32."
+   ],
+   [
+    "Trong các phép chia có dư với số chia là 9, số dư bé nhất có thể có là:",
+    [
+     "1",
+     "0",
+     "8",
+     "2"
+    ],
+    "Số dư trong phép chia có dư luôn lớn hơn 0, nên số dư bé nhất có thể có là 1."
+   ],
+   [
+    "Bình có 18 cái kẹo, số kẹo của An gấp 3 lần số kẹo của Bình. Hỏi An có bao nhiêu cái kẹo?",
+    [
+     "54 cái",
+     "21 cái",
+     "15 cái",
+     "6 cái"
+    ],
+    "Số kẹo của An là: 18 × 3 = 54 cái kẹo."
+   ],
+   [
+    "Có 67 m vải, may mỗi bộ quần áo hết 3 m vải. Hỏi may được nhiều nhất bao nhiêu bộ quần áo và còn thừa mấy mét vải?",
+    [
+     "May được 22 bộ, thừa 1 m",
+     "May được 22 bộ, không thừa",
+     "May được 21 bộ, thừa 4 m",
+     "May được 20 bộ, thừa 7 m"
+    ],
+    "Ta có 67 : 3 = 22 (dư 1). Vậy may được nhiều nhất 22 bộ và thừa 1 m vải."
+   ],
+   [
+    "Tích của số nhỏ nhất có hai chữ số với 9 là:",
+    [
+     "90",
+     "99",
+     "18",
+     "81"
+    ],
+    "Số nhỏ nhất có hai chữ số là 10. Tích của 10 và 9 là: 10 × 9 = 90."
+   ],
+   [
+    "Một kệ sách có 2 ngăn. Ngăn thứ nhất có 48 quyển sách. Ngăn thứ hai có số sách bằng 1/3 ngăn thứ nhất. Hỏi cả hai ngăn có bao nhiêu quyển sách?",
+    [
+     "64 quyển",
+     "16 quyển",
+     "32 quyển",
+     "80 quyển"
+    ],
+    "Ngăn thứ hai có: 48 : 3 = 16 quyển. Cả hai ngăn có: 48 + 16 = 64 quyển sách."
+   ],
+   [
+    "Lớp 3B xếp thành 4 hàng, mỗi hàng có 11 học sinh. Nếu xếp số học sinh đó thành 2 hàng đều nhau thì mỗi hàng có bao nhiêu học sinh?",
+    [
+     "22 học sinh",
+     "44 học sinh",
+     "20 học sinh",
+     "8 học sinh"
+    ],
+    "Tổng số học sinh là: 11 × 4 = 44 học sinh. Nếu xếp thành 2 hàng thì mỗi hàng có: 44 : 2 = 22 học sinh."
+   ],
+   [
+    "Bác Ba nuôi 72 con gà. Sau khi bán đi một số con gà, số gà còn lại giảm đi 8 lần so với ban đầu. Hỏi bác Ba đã bán đi bao nhiêu con gà?",
+    [
+     "63 con",
+     "9 con",
+     "81 con",
+     "64 con"
+    ],
+    "Số gà còn lại là: 72 : 8 = 9 con. Bác Ba đã bán số gà là: 72 - 9 = 63 con."
+   ],
+   [
+    "Hộp thứ nhất đựng 16 viên bi. Hộp thứ hai nếu có thêm 8 viên bi thì số bi ở hộp thứ hai sẽ gấp 3 lần số bi ở hộp thứ nhất. Hỏi lúc đầu hộp thứ hai có bao nhiêu viên bi?",
+    [
+     "40 viên",
+     "48 viên",
+     "56 viên",
+     "24 viên"
+    ],
+    "Số bi hộp thứ hai sau khi thêm 8 viên là: 16 × 3 = 48 viên. Lúc đầu hộp thứ hai có: 48 - 8 = 40 viên bi."
+   ],
+   [
+    "Tính: 13 × 3 = ?",
+    [
+     "39",
+     "36",
+     "49",
+     "16"
+    ],
+    "Ta lấy 3 nhân 3 bằng 9, viết 9; 3 nhân 1 bằng 3, viết 3. Kết quả là 39."
+   ]
+  ]
+ }
+}

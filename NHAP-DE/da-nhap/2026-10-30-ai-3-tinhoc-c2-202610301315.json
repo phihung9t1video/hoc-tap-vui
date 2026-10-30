@@ -1,0 +1,406 @@
+{
+ "3-tinhoc": {
+  "c2": [
+   [
+    "Khi em nhìn vào cuốn lịch treo tường thấy ghi ngày “Thứ Hai, ngày 5 tháng 9”, thông tin em nhận được thuộc dạng nào?",
+    [
+     "Dạng văn bản và dạng số",
+     "Chỉ có dạng hình ảnh",
+     "Chỉ có dạng âm thanh",
+     "Dạng số và dạng hình ảnh"
+    ],
+    "Thông tin trên lịch gồm các chữ cái tạo thành từ ngữ (văn bản) và các con số chỉ ngày tháng (dạng số)."
+   ],
+   [
+    "Bạn Mai đọc một tấm bản đồ chỉ đường đi đến công viên. Quá trình Mai thu nhận thông tin từ bản đồ diễn ra nhờ giác quan nào chủ yếu?",
+    [
+     "Mắt",
+     "Tai",
+     "Mũi",
+     "Tay"
+    ],
+    "Để đọc bản đồ, mắt giúp chúng ta nhìn các ký hiệu, hình ảnh và chữ viết trên đó."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện việc con người tiếp nhận thông tin dạng âm thanh?",
+    [
+     "Nghe tiếng chim hót ngoài cửa sổ vào buổi sáng",
+     "Nhìn thấy bông hoa hồng đỏ thắm trong vườn",
+     "Đọc một bài thơ trong sách Tiếng Việt",
+     "Sờ vào chiếc cặp sách thấy mềm mại"
+    ],
+    "Tiếng chim hót là âm thanh được tai thu nhận."
+   ],
+   [
+    "Khi em nếm một miếng chanh và cảm thấy vị chua, bộ phận nào trên cơ thể giúp em nhận biết vị đó?",
+    [
+     "Lưỡi",
+     "Mũi",
+     "Mắt",
+     "Tai"
+    ],
+    "Lưỡi là cơ quan giúp chúng ta nhận biết các vị của thức ăn."
+   ],
+   [
+    "Thông tin dạng số liệu mang lại lợi ích gì cho chúng ta trong cuộc sống hằng ngày?",
+    [
+     "Giúp biết chính xác thời gian, số lượng hoặc nhiệt độ",
+     "Giúp nghe được những bản nhạc hay",
+     "Giúp ngửi thấy các mùi hương xung quanh",
+     "Giúp nhìn rõ các bức tranh đẹp"
+    ],
+    "Thông tin dạng số cung cấp các con số cụ thể để đo lường, tính toán và quản lý thời gian."
+   ],
+   [
+    "Khi em nhìn thấy biển báo hình tròn, viền đỏ, nền trắng có hình số 50 bên trong khi đi trên đường, thông tin đó cho em biết điều gì?",
+    [
+     "Tốc độ tối đa được phép chạy là 50 ki-lô-mét trên giờ",
+     "Đoạn đường dài 50 ki-lô-mét",
+     "Còn 50 mét nữa là đến trạm xăng",
+     "Có 50 người đang đi trên đường"
+    ],
+    "Biển báo giới hạn tốc độ sử dụng con số để chỉ tốc độ tối đa không được vượt quá."
+   ],
+   [
+    "Trong các tình huống sau, đâu là thông tin dạng văn bản kết hợp với hình ảnh?",
+    [
+     "Truyện tranh có các bức vẽ nhân vật kèm theo lời thoại",
+     "Bản nhạc chỉ có các nốt nhạc trên khuông nhạc",
+     "Tiếng còi xe cứu thương kêu inh ỏi trên đường",
+     "Bản tin dự báo thời tiết chỉ phát thanh qua loa phóng thanh"
+    ],
+    "Truyện tranh vừa có tranh vẽ (hình ảnh) vừa có ô chữ chứa lời thoại (văn bản)."
+   ],
+   [
+    "Khi em ngửi thấy mùi thơm của cơm chín từ nhà bếp phát ra, quá trình thu nhận và xử lí thông tin diễn ra theo thứ tự nào?",
+    [
+     "Mũi ngửi thấy mùi - Não bộ phân tích - Nhận biết cơm đã chín",
+     "Tai nghe thấy tiếng - Mắt nhìn thấy khói - Não bộ kết luận",
+     "Tay sờ vào nồi - Mũi ngửi mùi - Miệng nếm thử thức ăn",
+     "Não bộ suy nghĩ - Mắt nhìn xung quanh - Mũi ngửi thấy mùi"
+    ],
+    "Quá trình bắt đầu từ việc cơ quan cảm giác (mũi) thu nhận thông tin, chuyển về não bộ xử lý để đưa ra kết luận."
+   ],
+   [
+    "Bạn Nam nhìn thấy bảng thông báo nhà trường dán trước cửa lớp. Đâu là hành động xử lí thông tin tiếp theo của Nam?",
+    [
+     "Đọc và ghi nhớ nội dung thông báo để thực hiện",
+     "Nhắm mắt lại và đi thẳng vào trong lớp học",
+     "Bịt tai lại để không nghe thấy thông báo nữa",
+     "Quăng cuốn vở xuống dưới đất"
+    ],
+    "Sau khi nhìn (thu nhận thông tin), Nam cần đọc và ghi nhớ để hiểu và làm theo thông báo."
+   ],
+   [
+    "Khi em nghe cô giáo đọc câu hỏi và em giơ tay phát biểu, bộ phận nào đóng vai trò điều khiển cánh tay giơ lên?",
+    [
+     "Não bộ",
+     "Tai",
+     "Mắt",
+     "Miệng"
+    ],
+    "Não bộ là trung tâm xử lí thông tin nhận được từ tai và ra lệnh cho tay giơ lên."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện việc con người sử dụng thông tin để giải quyết một công việc cụ thể?",
+    [
+     "Xem lịch thấy hôm nay là Chủ Nhật nên em ở nhà giúp mẹ dọn nhà",
+     "Nhìn thấy chiếc bút bi rơi dưới sàn nhà nhưng cứ để nguyên",
+     "Nghe tiếng chuông báo thức nhưng trùm chăn ngủ tiếp",
+     "Biết trời sắp mưa nhưng không mang theo ô áo mưa"
+    ],
+    "Việc xem lịch (thu nhận thông tin) và quyết định ở nhà giúp mẹ là hành động sử dụng thông tin để giải quyết công việc."
+   ],
+   [
+    "Khi em chơi trò chơi xếp hình trên máy tính, máy tính hiển thị các mảnh ghép và em dùng chuột để kéo chúng vào đúng vị trí. Đâu là thông tin đầu ra (kết quả)?",
+    [
+     "Mảnh ghép được đặt đúng vị trí tạo thành bức tranh hoàn chỉnh",
+     "Hình ảnh các mảnh ghép rời rạc xuất hiện trên màn hình",
+     "Tiếng nhạc nền vui nhộn phát ra từ loa máy tính",
+     "Tay em di chuyển con chuột máy tính trên bàn"
+    ],
+    "Kết quả của việc xử lí là hình ảnh bức tranh được hoàn thành sau khi ghép."
+   ],
+   [
+    "Em đang làm bài tập tính nhẩm: “5 cộng 4 bằng mấy?”. Bộ phận nào trong cơ thể giúp em tính ra kết quả bằng 9?",
+    [
+     "Não bộ",
+     "Bàn tay",
+     "Con mắt",
+     "Cái tai"
+    ],
+    "Bộ phận thực hiện việc tính toán, suy nghĩ chính là não bộ."
+   ],
+   [
+    "Trong các tình huống sau, tình huống nào thể hiện sự nhầm lẫn trong quá trình xử lí thông tin?",
+    [
+     "Thấy mây đen tưởng sắp mưa to liền vội vội vàng vàng cất quần áo, hóa ra chỉ là mây che nắng",
+     "Nghe tiếng chuông hết giờ chơi, học sinh xếp hàng vào lớp",
+     "Nhìn thấy đèn đỏ, người đi đường dừng xe lại trước vạch sơn",
+     "Đọc thời khóa biểu tối nay và chuẩn bị đầy đủ sách vở cho ngày mai"
+    ],
+    "Việc nhìn mây đen tưởng trời mưa nhưng thực chất không mưa là sự phán đoán nhầm lẫn dựa trên thông tin thu nhận."
+   ],
+   [
+    "Khi em sử dụng máy tính bảng để học bài trực tuyến, máy tính giúp em tiếp nhận những dạng thông tin nào cùng một lúc?",
+    [
+     "Hình ảnh, âm thanh và văn bản",
+     "Chỉ có thông tin dạng số liệu",
+     "Chỉ có thông tin dạng âm thanh",
+     "Chỉ có thông tin dạng văn bản"
+    ],
+    "Màn hình máy tính bảng vừa hiển thị chữ (văn bản), hình ảnh vừa phát ra tiếng nói (âm thanh) của thầy cô."
+   ],
+   [
+    "Bạn Minh chuẩn bị băng cá nhân khi thấy bạn mình bị ngã xước chân. Hành động chuẩn bị băng cá nhân dựa trên việc xử lí thông tin gì?",
+    [
+     "Bạn bị ngã và có vết thương cần băng bó",
+     "Trời đang chuẩn bị đổ mưa giông",
+     "Sắp đến giờ vào lớp học môn Tin học",
+     "Tiếng chuông điện thoại reo vang nhà"
+    ],
+    "Minh nhìn thấy bạn bị ngã (thông tin vào), xử lí và nhận ra cần dùng băng cá nhân để giúp bạn."
+   ],
+   [
+    "Khi em đọc một bài báo cáo về số lượng học sinh đạt giải trong kì thi học sinh giỏi, thông tin chủ yếu giúp em nắm bắt là gì?",
+    [
+     "Các con số cụ thể về số lượng học sinh đạt giải",
+     "Giọng đọc truyền cảm của phát thanh viên",
+     "Mùi thơm của những trang giấy mới in",
+     "Màu sắc rực rỡ của các hình vẽ trang trí"
+    ],
+    "Báo cáo về số lượng sử dụng chủ yếu thông tin dạng số để thể hiện kết quả."
+   ],
+   [
+    "Hành động nào sau đây của em thể hiện rõ nhất việc xử lí thông tin để đưa ra quyết định đúng đắn?",
+    [
+     "Nhìn thấy biển báo “Trơn trượt” trước sàn nhà ướt nên em đi bước nhỏ, cẩn thận hơn",
+     "Thấy bảng chỉ dẫn hướng đi nhưng em nhắm mắt lại và chạy nhanh",
+     "Nghe tiếng còi xe ô tô đang lao tới nhưng em vẫn đứng giữa lòng đường",
+     "Đọc đề toán nhưng không suy nghĩ mà điền đại một số bất kì"
+    ],
+    "Việc đọc biển báo trơn trượt và đi cẩn thận là xử lí thông tin an toàn."
+   ],
+   [
+    "Khi em chơi trò chơi “Đuổi hình bắt chữ” trên ti vi, bộ phận nào làm việc nhiều nhất để suy luận ra từ khóa từ các bức ảnh gợi ý?",
+    [
+     "Bộ não",
+     "Đôi tai",
+     "Cái mũi",
+     "Bàn chân"
+    ],
+    "Bộ não chịu trách nhiệm suy luận, liên kết hình ảnh để tìm ra đáp án của trò chơi."
+   ],
+   [
+    "Vì sao con người cần phải thu nhận và xử lí thông tin trong đời sống hằng ngày?",
+    [
+     "Để hiểu biết và đưa ra những hành động, ứng xử phù hợp",
+     "Để lúc nào cũng được nghỉ ngơi mà không cần phải làm gì",
+     "Để làm cho mọi việc diễn ra lộn xộn hơn",
+     "Để không bao giờ phải nói chuyện với ai nữa"
+    ],
+    "Thu và xử lí thông tin giúp chúng ta hiểu sự việc và có cách ứng xử đúng đắn."
+   ],
+   [
+    "Khi em nghe tiếng còi xe cứu thương đang hú vang trên đường, tai em giúp thu nhận thông tin thuộc dạng nào?",
+    [
+     "Dạng âm thanh",
+     "Dạng hình ảnh",
+     "Dạng văn bản",
+     "Dạng số liệu"
+    ],
+    "Tiếng còi xe cứu thương là âm thanh phát ra trong không gian mà tai chúng ta nghe được."
+   ],
+   [
+    "Bạn An nhìn thấy tờ lịch ghi “Chủ nhật, ngày 20 tháng 10”. Thông tin ngày tháng này thuộc dạng nào?",
+    [
+     "Dạng văn bản và số liệu",
+     "Dạng âm thanh",
+     "Dạng hình vẽ",
+     "Dạng chỉ có màu sắc"
+    ],
+    "Tờ lịch chứa các chữ viết và các con số chỉ ngày, tháng nên thuộc dạng văn bản và số liệu."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện em đang tiếp nhận thông tin từ sách giáo khoa?",
+    [
+     "Đọc các câu chuyện và xem tranh minh họa trong sách",
+     "Nghe tiếng quạt trần quay trong lớp học",
+     "Nếm thử vị của viên kẹo ngọt",
+     "Ngửi mùi thơm của quyển vở mới"
+    ],
+    "Khi học tập với sách, mắt em đọc chữ và xem hình ảnh để tiếp nhận thông tin."
+   ],
+   [
+    "Khi em nhìn vào đèn giao thông chuyển sang màu đỏ, mắt em đã thu nhận thông tin gì để quyết định dừng lại?",
+    [
+     "Thông tin dạng hình ảnh và màu sắc",
+     "Thông tin dạng âm thanh lớn",
+     "Thông tin dạng chữ viết chi tiết",
+     "Thông tin dạng con số đếm ngược"
+    ],
+    "Đèn giao thông phát tín hiệu bằng ánh sáng và màu sắc để mắt người tham gia giao thông nhìn thấy."
+   ],
+   [
+    "Quá trình xử lí thông tin của con người theo thứ tự đúng nhất gồm các bước nào?",
+    [
+     "Thu nhận thông tin, Xử lí và suy nghĩ, Đưa ra kết quả hoặc hành động",
+     "Đưa ra kết quả, Thu nhận thông tin, Suy nghĩ",
+     "Xử lí thông tin, Quên đi, Thu nhận lại",
+     "Hành động ngay lập tức, Sau đó mới thu nhận thông tin"
+    ],
+    "Con người luôn cần thu nhận thông tin vào, xử lí rồi mới đưa ra phản ứng hoặc hành động."
+   ],
+   [
+    "Bộ phận nào trên cơ thể con người đóng vai trò quan trọng nhất trong việc suy nghĩ và xử lí thông tin?",
+    [
+     "Bộ não",
+     "Đôi tai",
+     "Bàn tay",
+     "Đôi chân"
+    ],
+    "Bộ não là trung tâm điều khiển, giúp con người suy nghĩ, phân tích và đưa ra quyết định."
+   ],
+   [
+    "Bạn Hoa nghe mẹ nhắc “Đến giờ đi ngủ rồi con nhé”. Đâu là thông tin đầu vào mà Hoa nhận được?",
+    [
+     "Lời nói của mẹ qua tai",
+     "Bức tranh treo trên tường",
+     "Nhiệt độ trong phòng ngủ",
+     "Vị ngọt của viên thuốc"
+    ],
+    "Hoa nghe thấy lời mẹ dặn bằng tai, đó chính là thông tin đầu vào dạng âm thanh."
+   ],
+   [
+    "Khi em giải một bài toán đố, sau khi đọc đề bài xong, bộ não của em thực hiện công việc gì tiếp theo?",
+    [
+     "Tính toán và suy luận để tìm ra đáp số",
+     "Nhắm mắt lại và đi ngủ ngay lập tức",
+     "Chỉ nghe mà không cần suy nghĩ gì",
+     "Cất sách vở vào cặp mà không làm bài"
+    ],
+    "Bộ não phải xử lí dữ liệu từ đề bài, tính toán để tìm ra kết quả đúng cho bài toán."
+   ],
+   [
+    "Hành động nào sau đây thể hiện sự cẩn thận trong việc xử lí thông tin trước khi làm bài kiểm tra?",
+    [
+     "Đọc kĩ từng câu hỏi và suy nghĩ thật kỹ trước khi viết đáp án",
+     "Nhắm mắt đánh dấu đại vào một đáp án bất kỳ",
+     "Không đọc đề mà nộp giấy trắng ngay",
+     "Nghe bạn bên cạnh đọc sai rồi chép theo ngay"
+    ],
+    "Đọc kĩ và suy nghĩ giúp em xử lí thông tin chính xác, tránh làm sai sót."
+   ],
+   [
+    "Khi em sờ tay vào một chú mèo lông xù, giác quan nào giúp em cảm nhận được độ mềm mại của bộ lông?",
+    [
+     "Xúc giác qua da ở tay",
+     "Thính giác qua đôi tai",
+     "Vị giác qua chiếc lưỡi",
+     "Khứu giác qua chiếc mũi"
+    ],
+    "Da trên tay giúp chúng ta có xúc giác để cảm nhận sự nóng, lạnh, cứng, mềm của vật thể."
+   ],
+   [
+    "Bạn Bình nhìn thấy bảng lớp ghi lịch trực nhật có tên mình ngày mai. Bình nên làm gì tiếp theo sau khi xử lí thông tin đó?",
+    [
+     "Ghi nhớ để ngày mai đến lớp sớm làm trực nhật",
+     "Quên ngay lập tức và đi về nhà chơi game",
+     "Xóa ngay tên mình khỏi bảng lịch trực nhật",
+     "Trách cô giáo vì đã phân công nhầm ngày"
+    ],
+    "Biết được lịch trực nhật giúp Bình xử lí thông tin và chuẩn bị hành động phù hợp cho ngày hôm sau."
+   ],
+   [
+    "Khi em chơi trò chơi tìm đường trong mê cung trên giấy, mắt và bộ não phối hợp với nhau để làm gì?",
+    [
+     "Quan sát lối đi và tìm ra đường ra chính xác",
+     "Làm cho bức tranh mê cung rách đi",
+     "Nhắm mắt lại để vẽ mò vào giấy",
+     "Nghe âm thanh phát ra từ tờ giấy"
+    ],
+    "Mắt quan sát hình ảnh mê cung, bộ não suy luận tìm đường đi ngắn nhất không bị cụt."
+   ],
+   [
+    "Thông tin về biển báo “Cấm bơi lội” ở hồ nước mang lại lợi ích gì cho em?",
+    [
+     "Giúp em biết nơi đó nguy hiểm để phòng tránh tai nạn",
+     "Giúp em biết nơi đó có nhiều cá lớn để câu",
+     "Giúp em biết chỗ đó nước rất ấm và sạch sẽ",
+     "Giúp em biết giờ mở cửa của khu vui chơi"
+    ],
+    "Biển báo cấm giúp con người xử lí thông tin để bảo vệ an toàn cho bản thân."
+   ],
+   [
+    "Khi em đang xem bản tin dự báo thời tiết trên ti vi thấy hình ảnh ông mặt trời và số liệu 32 độ C, em hiểu điều gì?",
+    [
+     "Trời hôm đó có nắng và nhiệt độ khá cao",
+     "Trời hôm đó đang có bão lớn và mưa đá",
+     "Trời hôm đó rất lạnh và có tuyết rơi",
+     "Trời hôm đó tối đen và không có ánh sáng"
+    ],
+    "Hình ảnh mặt trời kết hợp số 32 độ C cho biết thời tiết nắng nóng."
+   ],
+   [
+    "Tình huống nào sau đây thể hiện việc xử lí thông tin bị nhầm lẫn?",
+    [
+     "Nhìn từ xa thấy bóng cây tưởng là người đứng chờ nên gọi lớn",
+     "Nghe tiếng còi xe ô tô liền đứng lại nép vào lề đường",
+     "Nhìn đồng hồ thấy đúng 7 giờ sáng thì đến lớp vừa kịp giờ",
+     "Đọc thấy biển báo đi chậm liền giảm tốc độ xe đạp"
+    ],
+    "Nhầm bóng cây thành người là do thu nhận và xử lí hình ảnh chưa chính xác từ xa."
+   ],
+   [
+    "Em đang làm bài tập ghép chữ cái thành từ đúng. Sau khi nhìn các chữ cái rời rạc C, A, M, bộ não em xử lí và tạo thành từ gì?",
+    [
+     "CAM",
+     "MAC",
+     "AMC",
+     "MCA"
+    ],
+    "Các chữ cái C, A, M được bộ não sắp xếp lại thành từ có nghĩa là CAM."
+   ],
+   [
+    "Khi tham gia trò chơi “Nhìn cử chỉ đoán từ khóa”, bạn em diễn tả hành động đánh răng bằng tay. Em đã sử dụng giác quan nào để thu nhận thông tin đó?",
+    [
+     "Mắt quan sát",
+     "Tai lắng nghe",
+     "Mũi ngửi hương",
+     "Tay sờ nắm"
+    ],
+    "Đoán từ qua cử chỉ là lúc em dùng mắt để quan sát thông tin dạng hình ảnh, hành động."
+   ],
+   [
+    "Vì sao khi tham gia giao thông, chúng ta cần phải quan sát biển báo và tín hiệu đèn liên tục?",
+    [
+     "Để kịp thời thu nhận thông tin và điều khiển xe an toàn",
+     "Để đếm xem trên đường có bao nhiêu cái cột đèn",
+     "Để khoe với bạn bè là mình biết đọc chữ trên biển báo",
+     "Để xe chạy nhanh hơn mức quy định cho phép"
+    ],
+    "Việc liên tục thu nhận và xử lí thông tin giao thông giúp chúng ta tránh được các nguy hiểm."
+   ],
+   [
+    "Khi bạn An làm vỡ chiếc cốc thủy tinh, tiếng “xoảng” phát ra giúp những người xung quanh thu nhận thông tin gì?",
+    [
+     "Có vật gì bằng thủy tinh hoặc sành vừa bị rơi vỡ",
+     "Có tiếng đàn piano đang được chơi rất hay",
+     "Có tiếng nước chảy từ vòi nước trong nhà tắm",
+     "Có tiếng chim hót líu lo trên cành cây cao"
+    ],
+    "Âm thanh đồ vật vỡ là tín hiệu âm thanh đặc trưng giúp nhận biết sự việc."
+   ],
+   [
+    "Bạn Minh đọc một bản đồ kho báu. Theo em, bản đồ kho báu cung cấp chủ yếu những dạng thông tin nào?",
+    [
+     "Dạng hình ảnh và chữ viết chỉ dẫn đường đi",
+     "Dạng âm thanh tiếng hò reo của cướp biển",
+     "Dạng mùi hương thơm của các loài hoa lạ",
+     "Dạng nhiệt độ nóng lạnh của vùng đất đó"
+    ],
+    "Bản đồ gồm các ký hiệu hình ảnh và chữ chú thích để chỉ đường tìm kiếm."
+   ]
+  ]
+ }
+}

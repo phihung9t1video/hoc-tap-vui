@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c14": [
+   [
+    "Tính nhẩm: 20 000 × 4 = ?",
+    [
+     "80 000",
+     "60 000",
+     "8 000",
+     "40 000"
+    ],
+    "Ta lấy 2 chục nghìn nhân với 4 được 8 chục nghìn, tức là 80 000."
+   ],
+   [
+    "Tính nhẩm: 60 000 : 3 = ?",
+    [
+     "20 000",
+     "30 000",
+     "2 000",
+     "18 000"
+    ],
+    "Ta lấy 6 chục nghìn chia cho 3 được 2 chục nghìn, tức là 20 000."
+   ],
+   [
+    "Kết quả của phép tính 11 082 × 6 là bao nhiêu?",
+    [
+     "66 492",
+     "66 482",
+     "66 092",
+     "66 429"
+    ],
+    "Thực hiện phép nhân lượt lượt từ phải sang trái ta được 11 082 × 6 = 66 492."
+   ],
+   [
+    "Thương của phép chia 48 624 : 2 là bao nhiêu?",
+    [
+     "24 312",
+     "24 311",
+     "24 212",
+     "24 112"
+    ],
+    "Thực hiện phép chia lượt lượt từ trái sang phải ta được 48 624 : 2 = 24 312."
+   ],
+   [
+    "Trong phép chia 35 142 : 5, số dư là bao nhiêu?",
+    [
+     "2",
+     "1",
+     "3",
+     "4"
+    ],
+    "Ta có 35 142 : 5 = 7 028 dư 2."
+   ],
+   [
+    "Số gồm 4 chục nghìn, 2 nghìn và 5 đơn vị nhân với 2 được kết quả là:",
+    [
+     "84 010",
+     "84 100",
+     "84 005",
+     "82 010"
+    ],
+    "Số đó là 42 005. Nhân với 2 ta được: 42 005 × 2 = 84 010."
+   ],
+   [
+    "Tìm x, biết x : 4 = 15 210.",
+    [
+     "60 840",
+     "60 810",
+     "3 802",
+     "60 240"
+    ],
+    "x = 15 210 × 4 = 60 840."
+   ],
+   [
+    "Một thừa số bằng 7, tích là 49 357. Thừa số còn lại là:",
+    [
+     "7 051",
+     "7 050",
+     "7 501",
+     "7 150"
+    ],
+    "Thừa số còn lại là 49 357 : 7 = 7 051."
+   ],
+   [
+    "Một ô tô chở 4 chuyến hàng, mỗi chuyến chở 11 250 kg gạo. Hỏi ô tô đó chở được tất cả bao nhiêu ki-lô-gam gạo?",
+    [
+     "45 000 kg",
+     "44 000 kg",
+     "45 200 kg",
+     "40 000 kg"
+    ],
+    "Số ki-lô-gam gạo ô tô chở được là: 11 250 × 4 = 45 000 (kg)."
+   ],
+   [
+    "Người ta chia đều 36 000 l dầu vào 9 bồn chứa. Hỏi mỗi bồn chứa bao nhiêu lít dầu?",
+    [
+     "4 000 l",
+     "3 000 l",
+     "400 l",
+     "5 000 l"
+    ],
+    "Mỗi bồn chứa số lít dầu là: 36 000 : 9 = 4 000 (l)."
+   ],
+   [
+    "Giá trị của biểu thức 10 000 + 12 000 × 5 là:",
+    [
+     "70 000",
+     "110 000",
+     "60 000",
+     "62 000"
+    ],
+    "Thực hiện phép nhân trước: 12 000 × 5 = 60 000, sau đó cộng: 10 000 + 60 000 = 70 000."
+   ],
+   [
+    "Giá trị của biểu thức (50 000 - 15 000) : 5 là:",
+    [
+     "7 000",
+     "47 000",
+     "35 000",
+     "10 000"
+    ],
+    "Thực hiện phép tính trong ngoặc trước: 50 000 - 15 000 = 35 000. Sau đó chia: 35 000 : 5 = 7 000."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 12 100 × 4 ... 98 000 : 2",
+    [
+     "<",
+     ">",
+     "─",
+     "Không so sánh được"
+    ],
+    "Vì 12 100 × 4 = 48 400 và 98 000 : 2 = 49 000. Do 48 400 < 49 000 nên điền dấu <."
+   ],
+   [
+    "Một xưởng sản xuất làm được 15 600 đôi giày trong 3 ngày. Hỏi trung bình mỗi ngày xưởng đó làm được bao nhiêu đôi giày?",
+    [
+     "5 200 đôi",
+     "5 100 đôi",
+     "4 800 đôi",
+     "5 300 đôi"
+    ],
+    "Mỗi ngày xưởng làm được số đôi giày là: 15 600 : 3 = 5 200 (đôi)."
+   ],
+   [
+    "Có 4 thùng dầu như nhau chứa tổng cộng 80 l dầu. Hỏi 7 thùng dầu như thế chứa bao nhiêu lít dầu?",
+    [
+     "140 l",
+     "120 l",
+     "160 l",
+     "20 l"
+    ],
+    "Mỗi thùng chứa: 80 : 4 = 20 (l). 7 thùng chứa: 20 × 7 = 140 (l)."
+   ],
+   [
+    "Có 6 bao đường chứa tất cả 180 kg đường. Hỏi 4 bao đường như thế chứa bao nhiêu ki-lô-gam đường?",
+    [
+     "120 kg",
+     "30 kg",
+     "150 kg",
+     "90 kg"
+    ],
+    "Mỗi bao chứa: 180 : 6 = 30 (kg). 4 bao chứa: 30 × 4 = 120 (kg)."
+   ],
+   [
+    "Một cửa hàng nhập về 40 000 kg gạo. Cửa hàng đã bán đi 1/4 số gạo đó. Hỏi cửa hàng còn lại bao nhiêu ki-lô-gam gạo?",
+    [
+     "30 000 kg",
+     "10 000 kg",
+     "20 000 kg",
+     "35 000 kg"
+    ],
+    "Số gạo đã bán là: 40 000 : 4 = 10 000 (kg). Số gạo còn lại là: 40 000 - 10 000 = 30 000 (kg)."
+   ],
+   [
+    "Hình vuông có cạnh dài 12 150 cm. Chu vi của hình vuông đó là bao nhiêu?",
+    [
+     "48 600 cm",
+     "24 300 cm",
+     "36 450 cm",
+     "48 400 cm"
+    ],
+    "Chu vi hình vuông là: 12 150 × 4 = 48 600 (cm)."
+   ],
+   [
+    "Bác An mua 3 cái áo cùng loại hết 90 000 đồng. Hỏi bác An mua 5 cái áo như thế thì phải trả bao nhiêu tiền?",
+    [
+     "150 000 đồng",
+     "30 000 đồng",
+     "120 000 đồng",
+     "180 000 đồng"
+    ],
+    "Giá tiền một cái áo là: 90 000 : 3 = 30 000 (đồng). Mua 5 cái áo hết: 30 000 × 5 = 150 000 (đồng)."
+   ],
+   [
+    "Một công ty chuẩn bị 45 500 gói quà để chia đều cho 5 xã bị lũ lụt. Mỗi xã lại chia đều số quà đó cho 2 thôn. Hỏi mỗi thôn nhận được bao nhiêu gói quà?",
+    [
+     "4 550 gói",
+     "9 100 gói",
+     "2 275 gói",
+     "5 000 gói"
+    ],
+    "Mỗi xã nhận được: 45 500 : 5 = 9 100 (gói). Mỗi thôn nhận được: 9 100 : 2 = 4 550 (gói)."
+   ],
+   [
+    "Kết quả của phép tính 13 412 x 3 là bao nhiêu?",
+    [
+     "40 236",
+     "40 226",
+     "39 236",
+     "41 236"
+    ],
+    "Ta đặt tính rồi tính từ phải sang trái, 3 nhân 2 bằng 6, viết 6; 3 nhân 1 bằng 3, viết 3; 3 nhân 4 bằng 12, viết 2 nhớ 1; 3 nhân 3 bằng 9, thêm 1 bằng 10, viết 0 nhớ 1; 3 nhân 1 bằng 3, thêm 1 bằng 4, viết 4. Kết quả là 40 236."
+   ],
+   [
+    "Thương của phép chia 84 848 : 4 là bao nhiêu?",
+    [
+     "21 212",
+     "21 112",
+     "22 212",
+     "21 221"
+    ],
+    "Thực hiện chia lần lượt từ trái sang phải: 8 chia 4 được 2; 4 chia 4 được 1; 8 chia 4 được 2; 4 chia 4 được 1; 8 chia 4 được 2. Vậy thương là 21 212."
+   ],
+   [
+    "Trong phép chia 42 317 : 3, số dư của phép chia là bao nhiêu?",
+    [
+     "2",
+     "1",
+     "0",
+     "3"
+    ],
+    "Ta có 42 317 chia 3 được 14 105 và dư 2, vì 14 105 nhân 3 cộng 2 bằng 42 317."
+   ],
+   [
+    "Tính nhẩm: 40 000 x 2 : 4 = ?",
+    [
+     "20 000",
+     "40 000",
+     "10 000",
+     "80 000"
+    ],
+    "Ta tính lần lượt từ trái sang phải: 40 000 nhân 2 bằng 80 000, sau đó lấy 80 000 chia 4 được 20 000."
+   ],
+   [
+    "Số gồm 3 chục nghìn, 5 trăm và 4 đơn vị nhân với 2 được kết quả là:",
+    [
+     "61 008",
+     "60 504",
+     "61 504",
+     "60 008"
+    ],
+    "Số đó là 30 504. Nhân với 2 ta được kết quả là 61 008."
+   ],
+   [
+    "Tìm x, biết x : 3 = 12 312.",
+    [
+     "36 936",
+     "36 926",
+     "41 040",
+     "36 836"
+    ],
+    "Muốn tìm x ta lấy thương nhân với số chia: x bằng 12 312 nhân 3, kết quả x bằng 36 936."
+   ],
+   [
+    "Một thừa số bằng 6, tích là 54 360. Thừa số còn lại là:",
+    [
+     "9 060",
+     "9 600",
+     "9 006",
+     "9 160"
+    ],
+    "Muốn tìm thừa số chưa biết ta lấy tích chia cho thừa số đã biết: 54 360 chia 6 bằng 9 060."
+   ],
+   [
+    "Giá trị của biểu thức 25 000 + 15 000 x 3 là:",
+    [
+     "70 000",
+     "120 000",
+     "65 000",
+     "80 000"
+    ],
+    "Biểu thức có phép cộng và phép nhân, ta thực hiện phép nhân trước: 15 000 nhân 3 bằng 45 000, sau đó cộng với 25 000 được 70 000."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 15 000 x 4 ... 80 000 : 2",
+    [
+     ">",
+     "<",
+     "️=",
+     "Không so sánh được"
+    ],
+    "Ta có 15 000 nhân 4 bằng 60 000, và 80 000 chia 2 bằng 40 000. Vì 60 000 lớn hơn 40 000 nên ta điền dấu lớn hơn."
+   ],
+   [
+    "Một đội công nhân sửa đường trong 3 ngày đầu, mỗi ngày sửa được 2 400 m đường, trong 2 ngày sau mỗi ngày sửa được 3 100 m đường. Hỏi trong 5 ngày đó đội công nhân sửa được bao nhiêu mét đường?",
+    [
+     "13 400 m",
+     "12 400 m",
+     "14 300 m",
+     "11 400 m"
+    ],
+    "Số mét đường sửa trong 3 ngày đầu là 2 400 nhân 3 bằng 7 200 m. Số mét đường sửa trong 2 ngày sau là 3 100 nhân 2 bằng 6 200 m. Tổng số mét đường là 7 200 cộng 6 200 bằng 13 400 m."
+   ],
+   [
+    "Một kho chứa 48 000 kg muối, người ta đã chuyển đi 1/3 số muối trong kho. Hỏi trong kho còn lại bao nhiêu ki-lô-gam muối?",
+    [
+     "32 000 kg",
+     "16 000 kg",
+     "36 000 kg",
+     "24 000 kg"
+    ],
+    "Số ki-lô-gam muối đã chuyển đi là 48 000 chia 3 bằng 16 000 kg. Số muối còn lại trong kho là 48 000 trừ 16 000 bằng 32 000 kg."
+   ],
+   [
+    "Một sân trường hình chữ nhật có chiều dài 250 m và chiều rộng kém chiều dài 50 m. Chu vi của sân trường đó là bao nhiêu?",
+    [
+     "900 m",
+     "450 m",
+     "500 m",
+     "600 m"
+    ],
+    "Chiều rộng sân trường là 250 trừ 50 bằng 200 m. Chu vi sân trường là lấy chiều dài cộng chiều rộng rồi nhân 2: mở ngoặc 250 cộng 200 đóng ngoặc nhân 2 bằng 900 m."
+   ],
+   [
+    "Có 5 hộp bánh như nhau chứa tổng cộng 60 cái bánh. Hỏi 8 hộp bánh như thế chứa bao nhiêu cái bánh?",
+    [
+     "96 cái",
+     "75 cái",
+     "84 cái",
+     "120 cái"
+    ],
+    "Mỗi hộp chứa số bánh là 60 chia 5 bằng 12 cái. 8 hộp chứa số bánh là 12 nhân 8 bằng 96 cái."
+   ],
+   [
+    "Mẹ mua 4 quyển vở hết 36 000 đồng. Hỏi nếu mẹ mua 7 quyển vở như thế thì phải trả bao nhiêu tiền?",
+    [
+     "63 000 đồng",
+     "72 000 đồng",
+     "54 000 đồng",
+     "49 000 đồng"
+    ],
+    "Giá tiền một quyển vở là 36 000 chia 4 bằng 9 000 đồng. Giá tiền 7 quyển vở là 9 000 nhân 7 bằng 63 000 đồng."
+   ],
+   [
+    "Một cửa hàng có 36 000 m vải, cửa hàng đã bán được 1/4 số vải đó, sau đó lại bán tiếp 1/3 số vải còn lại. Hỏi cửa hàng còn lại bao nhiêu mét vải?",
+    [
+     "18 000 m",
+     "9 000 m",
+     "27 000 m",
+     "12 000 m"
+    ],
+    "Số vải bán lần đầu là 36 000 chia 4 bằng 9 000 m. Số vải còn lại sau lần đầu là 36 000 trừ 9 000 bằng 27 000 m. Số vải bán lần hai là 27 000 chia 3 bằng 9 000 m. Số vải cuối cùng còn lại là 27 000 trừ 9 000 bằng 18 000 m."
+   ],
+   [
+    "Cô giáo chia đều 72 000 trang giấy thủ công cho 4 lớp khối Ba, mỗi lớp có 3 tổ. Hỏi mỗi tổ nhận được bao nhiêu trang giấy thủ công?",
+    [
+     "6 000 trang",
+     "18 000 trang",
+     "24 000 trang",
+     "8 000 trang"
+    ],
+    "Mỗi lớp nhận được số trang giấy là 72 000 chia 4 bằng 18 000 trang. Mỗi tổ nhận được số trang giấy là 18 000 chia 3 bằng 6 000 trang."
+   ],
+   [
+    "Tìm x, biết x x 4 + 12 000 = 36 000.",
+    [
+     "6 000",
+     "24 000",
+     "12 000",
+     "8 000"
+    ],
+    "Ta coi x nhân 4 là một số hạng chưa biết: x nhân 4 bằng 36 000 trừ 12 000 bằng 24 000. Suy ra x bằng 24 000 chia 4 bằng 6 000."
+   ],
+   [
+    "Tính nhẩm: 30 000 × 3 = ?",
+    [
+     "90 000",
+     "60 000",
+     "900 000",
+     "9 000"
+    ],
+    "Ta lấy 3 chục nghìn nhân 3 bằng 9 chục nghìn (90 000)."
+   ],
+   [
+    "Kết quả của phép tính 21 032 × 4 là bao nhiêu?",
+    [
+     "84 128",
+     "84 028",
+     "84 120",
+     "84 428"
+    ],
+    "Thực hiện nhân từ phải sang trái: 2 × 4 = 8, 3 × 4 = 12 viết 2 nhớ 1, 0 × 4 = 0 thêm 1 bằng 1, 1 × 4 = 4, 2 × 4 = 8. Kết quả là 84 128."
+   ],
+   [
+    "Trong phép chia 56 429 : 5, số dư là bao nhiêu?",
+    [
+     "4",
+     "1",
+     "2",
+     "3"
+    ],
+    "Ta thực hiện phép chia 56 429 : 5 = 11 285 dư 4."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,406 @@
+{
+ "3-tinhoc": {
+  "c1": [
+   [
+    "Thiết bị nào sau đây giúp em đưa văn bản từ trong máy tính ra giấy?",
+    [
+     "Máy in",
+     "Màn hình",
+     "Loa",
+     "Chuột"
+    ],
+    "Máy in là thiết bị đưa thông tin từ trong máy tính ra giấy."
+   ],
+   [
+    "Để nghe bản nhạc yêu thích mà không làm ảnh hưởng đến người khác ở xung quanh, em nên sử dụng thiết bị nào?",
+    [
+     "Tai nghe",
+     "Loa ngoài",
+     "Micro",
+     "Máy in"
+    ],
+    "Tai nghe giúp em nghe âm thanh riêng tư mà không gây ồn ào."
+   ],
+   [
+    "Hàng phím nằm ở chính giữa khu vực chính của bàn phím máy tính có tên là gì?",
+    [
+     "Hàng phím cơ sở",
+     "Hàng phím số",
+     "Hàng phím trên",
+     "Hàng phím dưới"
+    ],
+    "Hàng phím cơ sở là hàng chứa các phím xuất phát để đặt tay."
+   ],
+   [
+    "Phím nào nằm ở hàng phím dưới và được dùng nhiều nhất bằng ngón cái?",
+    [
+     "Phím cách",
+     "Phím Enter",
+     "Phím Backspace",
+     "Phím Shift"
+    ],
+    "Phím cách là phím dài nhất, nằm ở hàng dưới và dùng để tạo khoảng trắng."
+   ],
+   [
+    "Khi em gõ xong một đoạn văn và muốn đưa con trỏ soạn thảo về đầu dòng tiếp theo mà không dùng phím Enter, điều đó có được không?",
+    [
+     "Không được, bắt buộc phải dùng phím Enter.",
+     "Được, chỉ cần ngừng gõ thì máy tự xuống dòng.",
+     "Được, dùng phím cách để xuống dòng.",
+     "Được, dùng phím Backspace để xuống dòng."
+    ],
+    "Để xuống dòng khi soạn thảo văn bản, em bắt buộc phải nhấn phím Enter."
+   ],
+   [
+    "Bạn Minh gõ từ “MÁY TÍNH” nhưng quên bật đèn Caps Lock, bạn ấy có thể dùng phím nào kết hợp với các chữ cái để vừa gõ được chữ in hoa vừa nhanh chóng?",
+    [
+     "Phím Shift",
+     "Phím Enter",
+     "Phím Tab",
+     "Phím Esc"
+    ],
+    "Giữ phím Shift kết hợp gõ chữ cái sẽ tạo ra chữ in hoa."
+   ],
+   [
+    "Trên màn hình nền, để xem bên trong ổ đĩa hoặc các thư mục của máy tính, em thường nháy đúp chuột vào biểu tượng nào?",
+    [
+     "This PC",
+     "Thùng rác",
+     "Trình duyệt web",
+     "Trò chơi"
+    ],
+    "Biểu tượng This PC giúp quản lý các ổ đĩa và tệp tin trong máy tính."
+   ],
+   [
+    "Khi sử dụng chuột máy tính, ngón tay trỏ thường được đặt ở đâu là chính?",
+    [
+     "Nút trái chuột",
+     "Nút phải chuột",
+     "Dưới đáy chuột",
+     "Bên hông chuột"
+    ],
+    "Ngón trỏ là ngón chính dùng để nhấp nút trái chuột."
+   ],
+   [
+    "Hành động nào sau đây thể hiện việc sử dụng máy tính đúng cách và an toàn?",
+    [
+     "Ngồi thẳng lưng, khoảng cách mắt đến màn hình vừa phải.",
+     "Vừa ăn uống vừa sử dụng máy tính.",
+     "Rút dây nguồn đột ngột khi máy đang chạy.",
+     "Dùng tay ướt để chạm vào ổ cắm điện của máy tính."
+    ],
+    "Ngồi đúng tư thế giúp bảo vệ cột sống và mắt khi dùng máy tính."
+   ],
+   [
+    "Khi khởi động máy tính xong, khu vực chính xuất hiện đầu tiên với nhiều biểu tượng nhỏ được gọi là gì?",
+    [
+     "Màn hình nền",
+     "Trang sách",
+     "Bảng điều khiển",
+     "Hộp thoại"
+    ],
+    "Màn hình nền là giao diện chính xuất hiện sau khi mở máy tính."
+   ],
+   [
+    "Em muốn tìm kiếm thông tin trên mạng Internet để phục vụ cho việc học tập, em sẽ sử dụng chương trình gì trên máy tính?",
+    [
+     "Trình duyệt web",
+     "Phần mềm vẽ Paint",
+     "Phần mềm gõ văn bản",
+     "Máy tính bỏ túi"
+    ],
+    "Trình duyệt web giúp em truy cập internet để tìm kiếm thông tin."
+   ],
+   [
+    "Bạn Lan muốn vẽ một bức tranh có hình ông mặt trời và những bông hoa, em hãy chỉ cho bạn phần mềm phù hợp nhất.",
+    [
+     "Paint",
+     "Word",
+     "Notepad",
+     "Calculator"
+    ],
+    "Paint là phần mềm tập vẽ quen thuộc dành cho học sinh lớp 3."
+   ],
+   [
+    "Khi em gõ từ “HOA HUNG”, nhưng thực tế em muốn gõ là “HOA HÙNG”, em cần dùng phím nào để xóa chữ U thừa rồi gõ lại chữ Ù cho đúng?",
+    [
+     "Phím Backspace",
+     "Phím Enter",
+     "Phím Shift",
+     "Phím Caps Lock"
+    ],
+    "Phím Backspace dùng để xóa ký tự ngay bên trái con trỏ soạn thảo."
+   ],
+   [
+    "Bộ phận nào của máy tính có vai trò như “bộ não” điều khiển mọi hoạt động của máy tính?",
+    [
+     "Thân máy tính",
+     "Màn hình",
+     "Bàn phím",
+     "Chuột"
+    ],
+    "Thân máy tính chứa CPU và các linh kiện quan trọng điều khiển mọi hoạt động."
+   ],
+   [
+    "Nếu em nhấp chuột phải vào một biểu tượng trò chơi trên màn hình nền, điều gì sẽ xảy ra?",
+    [
+     "Xuất hiện một bảng chọn các lệnh tắt cho biểu tượng đó.",
+     "Trò chơi sẽ được mở ngay lập tức.",
+     "Biểu tượng trò chơi sẽ bị biến mất.",
+     "Máy tính sẽ tự động tắt nguồn."
+    ],
+    "Nhấp chuột phải thường hiển thị bảng chọn lệnh (menu) cho đối tượng."
+   ],
+   [
+    "Bạn Nam muốn lưu lại bức tranh vừa vẽ vào trong máy tính để hôm sau vẽ tiếp, bạn ấy cần làm gì?",
+    [
+     "Chọn lệnh lưu bài (Save) trong phần mềm vẽ.",
+     "Tắt ngay máy tính mà không cần làm gì thêm.",
+     "Rút phích cắm điện của máy tính.",
+     "Tắt màn hình máy tính."
+    ],
+    "Cần lưu tệp (Save) để giữ lại kết quả làm việc trên máy tính."
+   ],
+   [
+    "Vì sao khi học tập với máy tính xong, em nên tắt máy theo đúng các bước hướng dẫn thay vì ngắt nguồn điện trực tiếp?",
+    [
+     "Để bảo vệ hệ thống và các tệp dữ liệu không bị hỏng.",
+     "Để màn hình sáng hơn vào lần bật sau.",
+     "Để máy tính sạc đầy pin nhanh hơn.",
+     "Để bàn phím không bị bám bụi."
+    ],
+    "Tắt máy đúng cách giúp hệ điều hành và dữ liệu được an toàn."
+   ],
+   [
+    "Khi gõ văn bản bằng hai tay trên bàn phím máy tính, hai ngón trỏ của em nên được đặt ở hai phím có gờ nổi nào?",
+    [
+     "Phím F và phím J",
+     "Phím A và phím Z",
+     "Phím D và phím K",
+     "Phím S và phím L"
+    ],
+    "Phím F và J có gờ nổi giúp định vị hai ngón trỏ khi gõ bàn phím."
+   ],
+   [
+    "Nếu em đang sử dụng máy tính bình thường nhưng bỗng nhiên cần đi ra ngoài khoảng mười phút, em nên làm gì để tiết kiệm điện và bảo vệ máy?",
+    [
+     "Nhờ người lớn khóa máy hoặc chuyển sang chế độ nghỉ.",
+     "Đập nhẹ vào thân máy tính.",
+     "Rút ngay toàn bộ dây cáp bàn phím.",
+     "Đổ một ít nước lên màn hình."
+    ],
+    "Khóa máy hoặc để chế độ nghỉ giúp bảo vệ thông tin khi rời đi."
+   ],
+   [
+    "Bạn Mai dùng chuột để kéo thả một tệp hình ảnh từ thư mục này sang thư mục khác. Thao tác đó được gọi là gì?",
+    [
+     "Kéo thả chuột",
+     "Nháy đúp chuột",
+     "Nháy chuột phải",
+     "Nháy chuột"
+    ],
+    "Giữ nút trái và di chuyển chuột rồi thả ra gọi là thao tác kéo thả chuột."
+   ],
+   [
+    "Bộ phận nào giúp em nhìn thấy các hình ảnh và kết quả khi làm việc với máy tính?",
+    [
+     "Màn hình",
+     "Bàn phím",
+     "Chuột",
+     "Loa"
+    ],
+    "Màn hình là thiết bị hiển thị kết quả làm việc và hình ảnh của máy tính cho em quan sát."
+   ],
+   [
+    "Khi muốn chọn một đối tượng trên màn hình máy tính, em thường dùng thiết bị nào sau đây?",
+    [
+     "Chuột máy tính",
+     "Bàn phím",
+     "Máy in",
+     "Tai nghe"
+    ],
+    "Chuột máy tính giúp em di chuyển, chọn và mở các đối tượng trên màn hình một cách nhanh chóng."
+   ],
+   [
+    "Đâu là tên của bộ phận chứa bộ xử lý trung tâm, được ví như hộp chứa các linh kiện quan trọng của máy tính để bàn?",
+    [
+     "Thân máy",
+     "Màn hình",
+     "Bàn phím",
+     "Chuột"
+    ],
+    "Thân máy là hộp chứa bộ não và các linh kiện chính giúp máy tính hoạt động."
+   ],
+   [
+    "Để gõ các chữ cái tiếng Việt có dấu như ă, â, ê, ô, em thường sử dụng thêm phần mềm hỗ trợ nào?",
+    [
+     "Unikey",
+     "Paint",
+     "Word",
+     "Notepad"
+    ],
+    "Unikey là phần mềm giúp người dùng gõ chữ tiếng Việt có dấu trên máy tính."
+   ],
+   [
+    "Phần mềm nào sau đây được dùng để luyện tập thao tác với chuột máy tính cho học sinh lớp 3?",
+    [
+     "GCompris",
+     "Word",
+     "Excel",
+     "PowerPoint"
+    ],
+    "GCompris cung cấp nhiều trò chơi bổ ích giúp học sinh rèn luyện kỹ năng sử dụng chuột và bàn phím."
+   ],
+   [
+    "Để mở một phần mềm trò chơi đã được cài đặt trên máy tính, thao tác chuẩn xác với chuột là gì?",
+    [
+     "Nháy đúp chuột vào biểu tượng trò chơi",
+     "Nháy chuột phải một lần vào biểu tượng",
+     "Di chuyển chuột qua lại thật nhanh",
+     "Giữ nút phải chuột và kéo đi"
+    ],
+    "Nháy đúp chuột nhanh hai lần liên tiếp vào biểu tượng giúp em mở ứng dụng hoặc trò chơi."
+   ],
+   [
+    "Khi đang gõ văn bản, nếu em muốn di chuyển con trỏ soạn thảo xuống dòng dưới mà không muốn xóa chữ, em dùng phím nào?",
+    [
+     "Phím Enter",
+     "Phím Space",
+     "Phím Shift",
+     "Phím Tab"
+    ],
+    "Phím Enter có chức năng đưa con trỏ xuống dòng tiếp theo để tiếp tục gõ văn bản."
+   ],
+   [
+    "Bạn Nam muốn đổi tên một tệp trên màn hình nền. Bạn ấy nháy chuột phải vào tệp và chọn dòng chữ nào trong bảng chọn hiện ra?",
+    [
+     "Rename",
+     "Delete",
+     "Copy",
+     "Open"
+    ],
+    "Rename là lệnh dùng để đổi tên cho tệp hoặc thư mục trên máy tính."
+   ],
+   [
+    "Thiết bị nào sau đây giúp chuyển đổi văn bản từ dạng số hóa trong máy tính thành các trang giấy in?",
+    [
+     "Máy in",
+     "Máy quét",
+     "Loa",
+     "Micro"
+    ],
+    "Máy in giúp em in các tài liệu, hình ảnh từ máy tính ra giấy."
+   ],
+   [
+    "Khi em nhìn thấy biểu tượng chiếc loa có dấu gạch chéo ở góc màn hình, điều đó có nghĩa là gì?",
+    [
+     "Âm thanh của máy tính đang bị tắt",
+     "Máy tính đang bị hỏng màn hình",
+     "Chuột máy tính bị mất kết nối",
+     "Internet đang không hoạt động"
+    ],
+    "Biểu tượng loa có gạch chéo thông báo âm thanh của máy tính đang ở chế độ tắt hoặc im lặng."
+   ],
+   [
+    "Bạn Hoa muốn tạo một thư mục mới trên màn hình nền để lưu các bài tập vẽ của mình, bạn ấy nên nháy chuột phải vào khoảng trống và chọn lệnh nào?",
+    [
+     "New rồi chọn Folder",
+     "Delete rồi chọn Yes",
+     "Rename rồi gõ tên mới",
+     "Copy rồi chọn Paste"
+    ],
+    "Để tạo thư mục mới, em chọn lệnh New sau đó chọn Folder trong bảng chọn hiện ra."
+   ],
+   [
+    "Khi em đang vẽ hình chữ nhật trong phần mềm Paint nhưng muốn quay lại thao tác vừa làm sai trước đó, em dùng tổ hợp phím nào?",
+    [
+     "Ctrl và Z",
+     "Ctrl và C",
+     "Ctrl và V",
+     "Ctrl và X"
+    ],
+    "Tổ hợp phím Ctrl và Z giúp em hoàn tác lại thao tác vừa thực hiện trong phần mềm."
+   ],
+   [
+    "Hành động nào sau đây là sử dụng điện và thiết bị máy tính an toàn?",
+    [
+     "Không chạm tay ướt vào dây điện hoặc ổ cắm của máy tính",
+     "Vừa ăn uống vừa sử dụng máy tính thường xuyên",
+     "Kéo mạnh dây nguồn để tắt máy tính cho nhanh",
+     "Để máy tính ở nơi ẩm ướt và có ánh nắng gay gắt"
+    ],
+    "Đảm bảo tay khô ráo khi cắm điện giúp em tránh nguy cơ bị điện giật, đảm bảo an toàn."
+   ],
+   [
+    "Em muốn tìm kiếm hình ảnh con mèo trên máy tính nhưng không nhớ rõ đã lưu ở đâu, em có thể gõ từ khóa vào ô tìm kiếm ở vị trí nào để tìm nhanh?",
+    [
+     "Thanh Taskbar hoặc trong cửa sổ This PC",
+     "Bên trong phần mềm Paint đang mở",
+     "Trên nút cuộn của con chuột máy tính",
+     "Ở góc trên cùng của bàn phím"
+    ],
+    "Em có thể dùng ô tìm kiếm trên thanh Taskbar hoặc trong This PC để tìm tệp nhanh chóng."
+   ],
+   [
+    "Khi em đang học bài trực tuyến, giáo viên gọi em phát biểu, thiết bị nào giúp giọng nói của em truyền đến cô giáo và các bạn?",
+    [
+     "Micro",
+     "Loa",
+     "Màn hình",
+     "Máy in"
+    ],
+    "Micro là thiết bị thu âm thanh giọng nói của em để đưa vào máy tính."
+   ],
+   [
+    "Bạn Linh muốn sao chép một hình ảnh từ trang web vào tệp văn bản Word, bạn ấy nháy chuột phải vào ảnh, chọn Copy, sau đó sang Word và nhấn tổ hợp phím nào để dán ảnh vào?",
+    [
+     "Ctrl và V",
+     "Ctrl và C",
+     "Ctrl và X",
+     "Ctrl và A"
+    ],
+    "Tổ hợp phím Ctrl và V dùng để dán nội dung đã được sao chép vào vị trí con trỏ."
+   ],
+   [
+    "Nếu em di chuyển con trỏ chuột vào góc trên bên phải của một cửa sổ chương trình và nháy vào nút có dấu nhân (X), điều gì sẽ xảy ra?",
+    [
+     "Cửa sổ chương trình đó sẽ đóng lại",
+     "Cửa sổ sẽ thu nhỏ xuống thanh công việc",
+     "Cửa sổ sẽ phóng to toàn màn hình",
+     "Máy tính sẽ tự động tắt nguồn ngay lập tức"
+    ],
+    "Nút dấu nhân (X) ở góc phải cửa sổ dùng để đóng và kết thúc chương trình."
+   ],
+   [
+    "Khi em học xong và muốn tắt máy tính đúng cách, em cần thực hiện thao tác nào trước khi rút nguồn điện?",
+    [
+     "Chọn Start rồi nhấn Shut down",
+     "Nhấn giữ nút nguồn trên thân máy 10 giây",
+     "Rút ngay dây nguồn phía sau màn hình",
+     "Gập màn hình lại đối với máy tính xách tay"
+    ],
+    "Em phải thực hiện lệnh Shut down từ hệ điều hành để máy lưu trữ và tắt an toàn trước khi ngắt nguồn."
+   ],
+   [
+    "Bạn Huy lỡ tay xóa nhầm một tệp bài tập quan trọng trên màn hình nền. Bạn ấy có thể vào đâu để tìm lại tệp vừa xóa nếu chưa dọn sạch nó?",
+    [
+     "Biểu tượng Thùng rác (Recycle Bin)",
+     "Phần mềm vẽ tranh Paint",
+     "Bên trong ổ đĩa quang của máy tính",
+     "Trang chủ của phần mềm Unikey"
+    ],
+    "Recycle Bin là nơi lưu giữ tạm thời các tệp đã bị xóa, em có thể khôi phục lại nếu cần."
+   ],
+   [
+    "Thiết bị nào sau đây giúp em nghe được âm thanh từ máy tính phát ra mà không làm ảnh hưởng đến người xung quanh?",
+    [
+     "Tai nghe",
+     "Màn hình",
+     "Bàn phím",
+     "Máy in"
+    ],
+    "Tai nghe là thiết bị phát âm thanh trực tiếp đến tai người dùng, giúp giữ yên lặng cho không gian xung quanh."
+   ]
+  ]
+ }
+}

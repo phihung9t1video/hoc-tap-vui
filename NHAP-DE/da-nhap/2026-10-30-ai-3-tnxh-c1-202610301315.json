@@ -1,0 +1,566 @@
+{
+ "3-tnxh": {
+  "c1": [
+   [
+    "Con của anh trai hoặc chị gái của bố thuộc thế hệ nào trong họ hàng đối với em?",
+    [
+     "Thế hệ ngang hàng (anh, chị, em họ)",
+     "Thế hệ ông bà",
+     "Thế hệ cha mẹ",
+     "Thế hệ con cháu"
+    ],
+    "Con của anh, chị của bố là anh, chị hoặc em họ của em, cùng thế hệ với em."
+   ],
+   [
+    "Để phòng tránh chập điện gây cháy trong gia đình, chúng ta KHÔNG nên làm gì?",
+    [
+     "Cắm quá nhiều thiết bị điện công suất lớn vào một ổ cắm",
+     "Rút phích cắm điện khi không sử dụng",
+     "Tắt bếp gas sau khi đun nấu xong",
+     "Để bật lửa xa tầm tay trẻ em"
+    ],
+    "Cắm quá nhiều thiết bị điện vào một ổ cắm dễ gây quá tải và dẫn đến cháy nổ."
+   ],
+   [
+    "Khi nhà bên cạnh bị cháy và khói lan sang nhà em, việc làm nào sau đây là ĐÚNG?",
+    [
+     "Dùng khăn ẩm che mũi miệng và bò thấp người để thoát ra ngoài",
+     "Núp trong tủ quần áo để chờ người đến cứu",
+     "Mở hết tất cả cửa sổ để khói bay vào",
+     "Đứng thẳng người và chạy thật nhanh qua khói"
+    ],
+    "Khói độc thường bay lên cao, vì vậy cần dùng khăn ẩm che mũi miệng và bò thấp người để tránh hít phải khói."
+   ],
+   [
+    "Đâu là việc làm thể hiện sự gắn kết giữa gia đình với cộng đồng xung quanh?",
+    [
+     "Cùng các hộ gia đình trong xóm dọn vệ sinh đường làng",
+     "Chỉ dọn dẹp phòng riêng của mình",
+     "Đóng chặt cửa nhà không giao tiếp với ai",
+     "Mở tivi thật to vào ban đêm"
+    ],
+    "Tham gia dọn vệ sinh đường làng là hoạt động chung giúp gắn kết gia đình với hàng xóm, cộng đồng."
+   ],
+   [
+    "Em trai của mẹ em, em sẽ gọi là gì?",
+    [
+     "Cậu",
+     "Chú",
+     "Bác",
+     "Dượng"
+    ],
+    "Em trai của mẹ thuộc họ ngoại và được gọi là cậu."
+   ],
+   [
+    "Trong sơ đồ mối quan hệ họ hàng, người đứng ở vị trí cao nhất thường là:",
+    [
+     "Ông bà",
+     "Bố mẹ",
+     "Anh chị",
+     "Em nhỏ"
+    ],
+    "Sơ đồ họ hàng thường xếp theo thế hệ từ lớn đến nhỏ, nên ông bà ở vị trí cao nhất."
+   ],
+   [
+    "Khi đun nấu thức ăn trong bếp, em hoặc người lớn cần lưu ý điều gì để đảm bảo an toàn?",
+    [
+     "Luôn có người trông coi và không để vật dễ cháy gần bếp",
+     "Vừa đun nấu vừa đi ra ngoài sân chơi",
+     "Xếp nhiều sách vở và giấy cũ cạnh bếp gas",
+     "Bật quạt gió thổi thẳng vào bếp gas đang cháy"
+    ],
+    "Không để vật dễ cháy gần bếp và luôn trông coi khi đun nấu giúp ngăn ngừa hỏa hoạn."
+   ],
+   [
+    "Trường hợp nào sau đây có nguy cơ cao gây ngộ độc cho thành viên trong gia đình?",
+    [
+     "Đựng nước lau sàn vào vỏ chai nước khoáng không dán nhãn",
+     "Sắp xếp thuốc gọt trong tủ thuốc gia đình có khóa",
+     "Để thực phẩm tươi sống riêng với thức ăn chín",
+     "Rửa sạch rau củ trước khi chế biến"
+    ],
+    "Đựng hóa chất vào chai nước uống dễ khiến người khác uống nhầm gây ngộ độc."
+   ],
+   [
+    "Bố mẹ cùng em tham gia ngày hội “Ngày Chủ nhật xanh” tại địa phương. Hoạt động này có ý nghĩa gì?",
+    [
+     "Góp phần bảo vệ môi trường và kết nối với cộng đồng",
+     "Chỉ để làm cho xong nghĩa vụ",
+     "Làm tốn thời gian nghỉ ngơi của gia đình",
+     "Để được chính quyền khen thưởng tiền mặt"
+    ],
+    "Tham gia hoạt động chung giúp giữ gìn môi trường sống và tăng cường tình đoàn kết xóm giềng."
+   ],
+   [
+    "Con gái của cô (em gái của bố) em sẽ gọi là gì?",
+    [
+     "Em họ (hoặc chị họ)",
+     "Cháu nội",
+     "Em ruột",
+     "Cháu ngoại"
+    ],
+    "Con của cô là anh, chị hoặc em họ của em."
+   ],
+   [
+    "Hành động nào sau đây thể hiện sự quan tâm, chăm sóc giữa các thế hệ trong gia đình?",
+    [
+     "Rót nước và lấy thuốc giúp ông bà khi ông bà bị mệt",
+     "Nhường hết việc nhà cho ông bà làm",
+     "Chỉ chơi game và không nói chuyện với ông bà",
+     "Tự ý lấy đồ dùng của ông bà mà không hỏi"
+    ],
+    "Lấy nước, lấy thuốc giúp ông bà thể hiện sự hiếu thảo và lễ phép của con cháu."
+   ],
+   [
+    "Trẻ em KHÔNG nên tự ý sử dụng vật dụng nào sau đây ở nhà để tránh bị thương tích?",
+    [
+     "Dao nhọn và kéo sắc",
+     "Thước kẻ nhựa",
+     "Sách vở học tập",
+     "Búp bê hoặc xe đồ chơi"
+    ],
+    "Dao nhọn và kéo sắc là các vật sắc nhọn dễ gây đứt tay, chấn thương cho trẻ em."
+   ],
+   [
+    "Mẹ bạn An nhắc: “Con không được đổ nước ra sàn nhà vệ sinh mà không lau khô”. Lời nhắc đó giúp phòng tránh rủi ro nào?",
+    [
+     "Trơn trượt gây ngã",
+     "Chập điện",
+     "Bị hỏa hoạn",
+     "Bị ngộ độc thực phẩm"
+    ],
+    "Sàn nhà ướt rất trơn, dễ làm người đi lại bị trượt ngã nguy hiểm."
+   ],
+   [
+    "Gia đình em cùng ủng hộ đồng bào bị lũ lụt. Việc làm này thể hiện điều gì?",
+    [
+     "Lòng nhân ái và sự chia sẻ với cộng đồng",
+     "Sự lãng phí tiền bạc của gia đình",
+     "Hành động theo phong trào không có ý nghĩa",
+     "Việc làm chỉ dành cho người lớn"
+    ],
+    "Ủng hộ người gặp thiên tai thể hiện tinh thần lá lành đùm lá rách và lòng nhân ái."
+   ],
+   [
+    "Bác ruột của em (anh trai của bố) có sinh được một con trai. Người đó là gì của em?",
+    [
+     "Anh họ (hoặc em họ)",
+     "Anh ruột",
+     "Chú",
+     "Cháu"
+    ],
+    "Con của bác ruột là anh họ hoặc em họ của em."
+   ],
+   [
+    "Cách nào sau đây giúp giữ gìn an toàn khi sử dụng các thiết bị tỏa nhiệt như bàn là, bếp điện?",
+    [
+     "Không chạm tay vào bề mặt đang nóng và tắt ngay khi dùng xong",
+     "Dùng tay ướt để chạm vào bàn là đang cắm điện",
+     "Để bàn là đang nóng lên trên chăn màn",
+     "Vừa dùng bàn là vừa tưới nước xung quanh"
+    ],
+    "Không chạm vào bề mặt nóng giúp tránh bị pop, tắt thiết bị giúp đảm bảo an toàn điện."
+   ],
+   [
+    "Khi thấy ổ cắm điện trong phòng bị hở dây nhựa bảo vệ, em nên xử lý như thế nào?",
+    [
+     "Báo ngay cho người lớn trong nhà biết để sửa chữa",
+     "Dùng tay kéo dây điện ra xem thử",
+     "Lấy băng dính giấy tự dán lại",
+     "Dùng nước dội vào chỗ hở dây"
+    ],
+    "Dây điện hở rất nguy hiểm, học sinh tiểu học cần báo ngay cho người lớn để xử lý an toàn."
+   ],
+   [
+    "Để giữ gìn không khí trong lành xung quanh nhà ở, gia đình em nên làm gì?",
+    [
+     "Trồng thêm cây xanh và không đốt rác bừa bãi",
+     "Vứt rác thải sinh hoạt ra ngõ chung",
+     "Xả nước thải trực tiếp ra đường đi",
+     "Chặt hết cây to xung quanh nhà"
+    ],
+    "Trồng cây xanh giúp lọc không khí và không đốt rác giúp giảm khói bụi độc hại."
+   ],
+   [
+    "Chị gái của mẹ em, em sẽ gọi người đó là gì?",
+    [
+     "Bác",
+     "Cô",
+     "Thím",
+     "Mợ"
+    ],
+    "Theo xưng hô truyền thống, anh hoặc chị của bố/mẹ đều được gọi là bác."
+   ],
+   [
+    "Ngôi nhà em đang ở thường gồm những khu vực chính nào?",
+    [
+     "Phòng khách, phòng ngủ, phòng bếp, phòng vệ sinh",
+     "Phòng học, phòng làm việc, phòng họp",
+     "Sân vận động, nhà văn hóa, siêu thị",
+     "Khu vui chơi, vườn thú, rạp chiếu phim"
+    ],
+    "Các khu vực cơ bản trong một ngôi nhà thường ngày bao gồm phòng khách, phòng ngủ, phòng bếp và phòng vệ sinh."
+   ],
+   [
+    "Đâu là việc làm giúp sắp xếp đồ dùng cá nhân gọn gàng, ngăn nắp trong phòng ngủ của em?",
+    [
+     "Gấp chăn màn gọn gàng sau khi ngủ dậy",
+     "Vứt quần áo bừa bãi lên giường",
+     "Để sách vở lung tung dưới sàn nhà",
+     "Cất đồ chơi ở khắp mọi nơi trên lối đi"
+    ],
+    "Gấp chăn màn gọn gàng là thói quen tốt giúp phòng ngủ ngăn nắp."
+   ],
+   [
+    "Khi sử dụng phòng bếp để nấu ăn, em cần chú ý điều gì để đảm bảo an toàn?",
+    [
+     "Không tự ý chạm vào bếp đang nấu hay vật dụng sắc nhọn",
+     "Chạy nhảy thật nhanh quanh khu vực nấu nướng",
+     "Dùng tay không để bốc thức ăn đang sôi trên bếp",
+     "Chơi đùa với dao kéo cùng các bạn nhỏ khác"
+    ],
+    "Nhà bếp có nhiều vật sắc nhọn và nhiệt độ cao, học sinh không được tự ý chạm vào."
+   ],
+   [
+    "Việc làm nào sau đây thể hiện sự giữ gìn vệ sinh chung trong ngôi nhà của em?",
+    [
+     "Thường xuyên lau chùi bàn ghế và quét nhà sạch sẽ",
+     "Vứt rác bừa bãi ra góc phòng khách",
+     "Đổ nước bẩn ra giữa nhà rồi bỏ đi chỗ khác",
+     "Để bát đũa bẩn qua nhiều ngày không rửa"
+    ],
+    "Quét nhà và lau bàn ghế giúp nhà cửa luôn sạch sẽ, thoáng mát."
+   ],
+   [
+    "Hành động nào dưới đây giúp tiết kiệm nước sạch khi sinh hoạt trong gia đình?",
+    [
+     "Khóa chặt vòi nước ngay sau khi sử dụng xong",
+     "Mở vòi nước chảy tràn lan khi đánh răng",
+     "Để vòi nước rỉ nước suốt cả ngày không sửa",
+     "Dùng nước thoải mái rồi để kệ nước chảy đi"
+    ],
+    "Khóa chặt vòi nước sau khi dùng là cách thiết thực để tiết kiệm nước."
+   ],
+   [
+    "Vào buổi tối, khi không có ai ở trong phòng khách, em nên làm gì để tiết kiệm điện?",
+    [
+     "Tắt tất cả các bóng đèn và quạt ở phòng khách",
+     "Bật tất cả các thiết bị điện cho sáng nhà",
+     "Mở ti vi thật to để nghe âm thanh cho vui",
+     "Để đèn sáng suốt đêm không cần tắt"
+    ],
+    "Tắt các thiết bị điện khi không sử dụng giúp gia đình tiết kiệm điện năng."
+   ],
+   [
+    "Đồ dùng nào sau đây dùng để chiếu sáng và học tập vào ban tối trong gia đình?",
+    [
+     "Đèn bàn học",
+     "Nồi cơm điện",
+     "Quạt máy",
+     "Bàn là"
+    ],
+    "Đèn bàn học cung cấp ánh sáng giúp học sinh đọc sách, viết bài vào ban tối."
+   ],
+   [
+    "Gia đình em thường quây quần làm gì vào buổi tối sau bữa ăn?",
+    [
+     "Trò chuyện, xem phim hoặc cùng nhau dọn dẹp",
+     "Mỗi người đi ngủ ở một góc nhà từ sớm tinh mơ",
+     "Khóa cửa phòng và không ai nói chuyện với ai",
+     "Cãi nhau về những chuyện không vui trong ngày"
+    ],
+    "Buổi tối là thời gian các thành viên quây quần, gắn kết tình cảm gia đình."
+   ],
+   [
+    "Vào dịp cuối tuần, khi bố mẹ bận rộn dọn dẹp nhà cửa, em nên làm gì?",
+    [
+     "Phụ giúp bố mẹ gấp quần áo hoặc lau bàn ghế",
+     "Ngồi chơi game và mặc kệ bố mẹ làm việc một mình",
+     "Đi ra ngoài chơi suốt cả ngày không về",
+     "Bật nhạc thật to để làm phiền mọi người"
+    ],
+    "Học sinh lớp 3 có thể tham gia các công việc vừa sức như gấp quần áo, lau bàn ghế."
+   ],
+   [
+    "Để thể hiện lòng biết ơn với ông bà, cha mẹ, em nên làm gì?",
+    [
+     "Lễ phép chào hỏi và vâng lời người lớn tuổi",
+     "Cãi lại khi không vừa ý với người lớn",
+     "Không quan tâm khi ông bà hoặc bố mẹ mệt mỏi",
+     "Bỏ đi chỗ khác khi người lớn đang dặn dò"
+    ],
+    "Sự lễ phép, vâng lời là cách thể hiện tình yêu thương và kính trọng với người lớn."
+   ],
+   [
+    "Vì sao chúng ta không nên cắm quá nhiều thiết bị điện chung một ổ cắm?",
+    [
+     "Dễ gây quá tải điện, chập điện và dẫn đến hỏa hoạn",
+     "Làm cho các thiết bị điện chạy nhanh hơn bình thường",
+     "Giúp tiết kiệm tiền điện hàng tháng cho gia đình",
+     "Làm cho dòng điện trong nhà sáng hơn"
+    ],
+    "Cắm quá nhiều thiết bị chung một ổ cắm dễ gây quá tải và cháy nổ."
+   ],
+   [
+    "Khi ở nhà một mình và có người lạ gọi cửa, em nên xử lý như thế nào?",
+    [
+     "Không mở cửa cho người lạ và gọi điện cho người thân",
+     "Mở cửa ngay lập tức để xem người đó là ai",
+     "Nhận quà bánh và mời người lạ vào nhà chơi",
+     "Trốn vào góc phòng và khóc lớn thật to"
+    ],
+    "Tuyệt đối không mở cửa cho người lạ khi ở nhà một mình để đảm bảo an toàn."
+   ],
+   [
+    "Hành vi nào dưới đây thể hiện sự quan tâm đến sức khỏe của người thân trong gia đình?",
+    [
+     "Nhắc nhở ông bà uống thuốc đúng giờ khi bị ốm",
+     "Cười chê khi bố mẹ bị cảm cúm, mệt mỏi",
+     "Ăn hết phần đồ ăn ngon dành cho người đang ốm",
+     "Mở nhạc thật to khi người nhà đang cần nghỉ ngơi"
+    ],
+    "Quan tâm, nhắc nhở người thân uống thuốc thể hiện tình cảm gắn bó trong gia đình."
+   ],
+   [
+    "Khi thấy nền nhà bếp vừa được lau nước bị ướt và trơn trượt, em nên làm gì?",
+    [
+     "Đi lại cẩn thận hoặc dùng giẻ lau khô lại sàn",
+     "Chạy thật nhanh qua khu vực đó để đua tài",
+     "Đổ thêm nước ra sàn cho trơn hơn nữa",
+     "Mặc kệ để người khác ngã cũng không sao"
+    ],
+    "Sàn nhà ướt rất dễ gây trượt ngã, cần lau khô hoặc đi lại cẩn thận."
+   ],
+   [
+    "Ý nghĩa chính của việc các thành viên trong gia đình cùng nhau ăn tối là gì?",
+    [
+     "Tăng sự gắn kết, chia sẻ niềm vui và công việc trong ngày",
+     "Để xem ai ăn nhanh hơn và nhanh chóng đứng lên",
+     "Để tranh giành những món ăn ngon nhất trên bàn",
+     "Để không ai phải nói chuyện với ai trong bữa ăn"
+    ],
+    "Bữa cơm gia đình là dịp quan trọng để các thành viên quây quần và gắn kết tình cảm."
+   ],
+   [
+    "Nếu phát hiện có mùi gas rò rỉ trong bếp nhà mình, em cần lập tức làm gì?",
+    [
+     "Thông báo ngay cho người lớn và tránh xa khu vực đó",
+     "Bật quạt máy thật mạnh để thổi bay mùi gas",
+     "Bật bếp ga lên để kiểm tra xem gas còn hay hết",
+     "Dùng bật lửa soi tìm chỗ bị hở ống dẫn gas"
+    ],
+    "Khi phát hiện mùi gas, tuyệt đối không bật lửa hay thiết bị điện, cần báo người lớn ngay."
+   ],
+   [
+    "Việc phân công công việc nhà cho từng thành viên mang lại lợi ích gì?",
+    [
+     "Mọi người cùng chung tay giúp nhà cửa gọn gàng và gắn bó hơn",
+     "Để một mình mẹ phải làm hết mọi việc nặng nhọc",
+     "Khiến cho gia đình thêm phần mệt mỏi và cãi vã",
+     "Làm cho ngôi nhà trở nên lộn xộn hơn trước"
+    ],
+    "Phân công việc nhà giúp mọi người chia sẻ gánh nặng và thêm gắn kết."
+   ],
+   [
+    "Em ứng xử như thế nào khi anh chị em trong nhà xảy ra tranh giành đồ chơi?",
+    [
+     "Bình tĩnh chia sẻ đồ chơi hoặc nhờ bố mẹ phân xử",
+     "Đánh nhau thật mạnh để giành lại đồ chơi",
+     "Khóc lóc và đập phá tất cả đồ chơi trong phòng",
+     "Giấu sạch đồ chơi đi không cho ai chơi cùng nữa"
+    ],
+    "Khi có tranh chấp, cần bình tĩnh nhường nhịn hoặc nhờ người lớn giúp đỡ."
+   ],
+   [
+    "Để bảo vệ môi trường sống xung quanh ngôi nhà của mình, em nên làm gì?",
+    [
+     "Thu gom rác đúng nơi quy định và trồng thêm cây xanh",
+     "Vứt rác thải sinh hoạt xuống ao hồ gần nhà",
+     "Đốt rác nhựa ngay trước cửa nhà vào ban ngày",
+     "Xả nước thải bẩn trực tiếp ra đường đi chung"
+    ],
+    "Thu gom rác đúng nơi quy định và trồng cây xanh giúp bảo vệ môi trường trong lành."
+   ],
+   [
+    "Vào những ngày thời tiết thay đổi chuyển lạnh, em cần nhắc nhở người thân làm gì?",
+    [
+     "Mặc đủ ấm và giữ gìn sức khỏe khi ra ngoài",
+     "Mặc quần áo thật mỏng để rèn luyện cơ thể",
+     "Tắm nước lạnh thật lâu để sảng khoái tinh thần",
+     "Mở tung các cửa sổ cho gió lùa vào nhà"
+    ],
+    "Trời lạnh cần mặc ấm để phòng chống các bệnh về đường hô hấp."
+   ],
+   [
+    "Ai là người sinh ra bố của em?",
+    [
+     "Ông bà nội",
+     "Ông bà ngoại",
+     "Bác ruột",
+     "Chú thím"
+    ],
+    "Ông bà nội là bố mẹ sinh ra bố của em."
+   ],
+   [
+    "Em gọi em trai của mẹ là gì?",
+    [
+     "Cậu",
+     "Chú",
+     "Bác",
+     "Dì"
+    ],
+    "Em trai của mẹ được gọi là cậu."
+   ],
+   [
+    "Khu vực nào trong ngôi nhà thường dùng để tiếp khách và là nơi quây quần của cả gia đình?",
+    [
+     "Phòng khách",
+     "Phòng bếp",
+     "Phòng tắm",
+     "Ban công"
+    ],
+    "Phòng khách là không gian chung để tiếp khách và gia đình sinh hoạt."
+   ],
+   [
+    "Việc làm nào sau đây giúp giữ gìn vệ sinh khu vực bếp ăn?",
+    [
+     "Thu dọn thức ăn thừa và rửa sạch bát đĩa sau bữa ăn",
+     "Đổ rác thải trực tiếp ra sàn nhà bếp",
+     "Để bát đĩa bẩn qua nhiều ngày",
+     "Quét nhà nhưng không gom rác đi đổ"
+    ],
+    "Rửa bát và thu dọn thức ăn thừa giúp nhà bếp luôn sạch sẽ, tránh ruồi muỗi."
+   ],
+   [
+    "Hành động nào dưới đây thể hiện sự tiết kiệm điện khi sử dụng các thiết bị trong nhà?",
+    [
+     "Tắt đèn và quạt khi đi ra khỏi phòng",
+     "Bật ti vi cả ngày dù không ai xem",
+     "Mở tủ lạnh liên tục để xem có gì bên trong",
+     "Bật điều hòa ở nhiệt độ thấp nhất rồi đắp chăn"
+    ],
+    "Tắt các thiết bị điện khi không sử dụng là cách tiết kiệm điện hiệu quả."
+   ],
+   [
+    "Khi thấy góc học tập của mình bừa bộn sách vở, em nên làm gì?",
+    [
+     "Tự sắp xếp sách vở ngăn nắp lên giá sách",
+     "Nhờ mẹ cất hộ mọi thứ",
+     "Để nguyên trạng thái và học bài trên đống sách lộn xộn",
+     "Dùng vải che đống sách lại cho khuất mắt"
+    ],
+    "Học sinh lớp 3 cần tự giác dọn dẹp góc học tập của mình gọn gàng."
+   ],
+   [
+    "Em cần làm gì khi thấy em bé trong nhà cầm kéo chơi đùa?",
+    [
+     "Nhẹ nhàng lấy lại kéo và cất vào nơi an toàn",
+     "Kệ cho em tự chơi vì kéo không sắc lắm",
+     "Đưa thêm dao cho em chơi cùng",
+     "Mắng mỏ và đánh em ngay lập tức"
+    ],
+    "Kéo là vật sắc nhọn gây nguy hiểm, cần lấy ra khỏi tầm tay trẻ nhỏ."
+   ],
+   [
+    "Vào mùa đông lạnh, việc làm nào giúp bảo vệ sức khỏe cho ông bà lớn tuổi trong nhà?",
+    [
+     "Nhắc ông bà mặc đủ ấm và đi tất chân",
+     "Mở tung tất cả các cửa sổ để đón gió lùa",
+     "Cho ông bà ăn kem lạnh để giải nhiệt",
+     "Khuyên ông bà tắm nước lạnh vào buổi tối"
+    ],
+    "Mặc đủ ấm giúp ông bà tránh bị cảm lạnh trong thời tiết giá rét."
+   ],
+   [
+    "Vì sao các thành viên trong gia đình nên thường xuyên chia sẻ công việc nhà với nhau?",
+    [
+     "Giúp gắn kết tình cảm và giảm bớt vất vả cho người thân",
+     "Để ai thích làm gì thì làm mà không cần quy củ",
+     "Để mọi người tị nạnh nhau xem ai làm nhiều hơn",
+     "Nhằm bắt người nhỏ tuổi phải làm thay việc của người lớn"
+    ],
+    "Cùng làm việc nhà giúp gia đình thêm gắn bó và san sẻ gánh nặng."
+   ],
+   [
+    "Khi tham gia dọn dẹp vệ sinh khu phố cùng gia đình, em cảm thấy thế nào và học được điều gì?",
+    [
+     "Biết yêu quý môi trường và tự hào vì góp phần làm sạch đẹp khu xóm",
+     "Thấy mệt mỏi và lần sau sẽ trốn tránh không tham gia",
+     "Chỉ đứng nhìn người khác làm việc mà không cần quan tâm",
+     "Nghĩ rằng việc bảo vệ môi trường chỉ là của người lớn"
+    ],
+    "Hoạt động cộng đồng giúp học sinh rèn luyện ý thức bảo vệ môi trường chung."
+   ],
+   [
+    "Nếu bố mẹ đi vắng và có người lạ đến bấm chuông tự xưng là bạn của bố mẹ, em sẽ ứng xử ra sao?",
+    [
+     "Không mở cửa và gọi điện thoại cho bố mẹ thông báo",
+     "Mở cửa ngay lập tức để mời người đó vào nhà ngồi đợi",
+     "Đứng ở cửa trò chuyện và nhận quà bánh từ người lạ",
+     "Chạy ra ngoài đường chơi để tránh mặt người đó"
+    ],
+    "Tuyệt đối không mở cửa cho người lạ khi ở nhà một mình để đảm bảo an toàn."
+   ],
+   [
+    "Hành vi nào dưới đây thể hiện sự lễ phép của em đối với ông bà, cha mẹ?",
+    [
+     "Khoanh tay thưa gửi khi đi học về và khi ăn cơm",
+     "Gọi tên trống không với người lớn tuổi trong nhà",
+     "Nằm ườn ra sofa khi người lớn đang nói chuyện",
+     "Quát tháo khi không được mua đồ chơi như ý muốn"
+    ],
+    "Khoanh tay thưa gửi là nét đẹp văn hóa thể hiện sự kính trọng người lớn."
+   ],
+   [
+    "Khi vô tình làm vỡ một chiếc cốc sứ yêu thích của mẹ, em nên chọn cách giải quyết nào?",
+    [
+     "Thật thà nhận lỗi với mẹ và xin lỗi",
+     "Giấu mảnh vỡ đi và đổi thừa cho con mèo",
+     "Ném các mảnh vỡ vào sọt rác rồi im lặng",
+     "Khóc lóc và giận dỗi bỏ vào phòng"
+    ],
+    "Dũng cảm nhận lỗi là đức tính tốt, giúp em được người lớn tha thứ và tin tưởng."
+   ],
+   [
+    "Đâu là việc làm thể hiện sự quan tâm đến hàng xóm láng giềng theo đúng tinh thần “tối lửa tắt đèn có nhau”?",
+    [
+     "Sang thăm hỏi và hỗ trợ khi nhà bác hàng xóm có người ốm đau",
+     "Mở nhạc thật to vào đêm khuya để trêu chọc nhà bên cạnh",
+     "Vứt rác sang phần sân trước nhà hàng xóm",
+     "Đóng kín cửa và không bao giờ chào hỏi ai xung quanh"
+    ],
+    "Giúp đỡ hàng xóm khi hoạn nạn thể hiện tinh thần đoàn kết cộng đồng."
+   ],
+   [
+    "Em sẽ làm gì để góp phần tiết kiệm nước sạch khi tắm gội hằng ngày?",
+    [
+     "Khóa vòi nước trong lúc đang xà phòng hóa mỹ phẩm",
+     "Mở vòi nước chảy tràn lan suốt thời gian tắm",
+     "Dùng vòi hoa sen phun nước chơi đùa thoải mái",
+     "Để nước chảy liên tục không cần khóa dù đã tắm xong"
+    ],
+    "Khóa vòi nước lúc xoa xà phòng là thói quen giúp tiết kiệm nước sạch."
+   ],
+   [
+    "Khi đi du lịch cùng gia đình đến một địa điểm công cộng, em cần tuân thủ quy định nào để bảo vệ cảnh quan?",
+    [
+     "Không vứt rác bừa bãi và bỏ rác đúng nơi quy định",
+     "Ngắt hoa, bẻ cành để mang về làm kỷ niệm",
+     "Khắc tên mình lên các di tích lịch sử",
+     "Cho động vật ở vườn thú ăn đồ ăn lạ mang theo"
+    ],
+    "Giữ vệ sinh và không phá hoại cảnh quan là trách nhiệm của mỗi người."
+   ],
+   [
+    "Vào bữa cơm gia đình, khi muốn ăn món ăn đặt ở xa tầm với, em nên làm gì?",
+    [
+     "Nhờ người lớn gần đó gắp giúp một cách lịch sự",
+     "Đứng hẳn lên ghế để với lấy món ăn",
+     "Dùng đũa của mình chọc thẳng sang mâm khác",
+     "Kéo mạnh đĩa thức ăn về phía mình"
+    ],
+    "Nhờ người lớn gắp giúp thể hiện sự lịch sự trong văn hóa ăn uống."
+   ]
+  ]
+ }
+}

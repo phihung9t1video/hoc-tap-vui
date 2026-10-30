@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c8": [
+   [
+    "Số “năm nghìn không trăm linh ba” viết là:",
+    [
+     "5003",
+     "5030",
+     "5300",
+     "50003"
+    ],
+    "Năm nghìn viết là 5000, không trăm viết là 00, linh ba viết là 03, gộp lại ta được 5003."
+   ],
+   [
+    "Số gồm 4 nghìn, 8 đơn vị được viết là:",
+    [
+     "4008",
+     "4800",
+     "4080",
+     "40008"
+    ],
+    "Số có 4 ở hàng nghìn, không có trăm và chục nên viết là 0, hàng đơn vị là 8, ta được số 4008."
+   ],
+   [
+    "Chữ số 7 trong số 3 725 chỉ giá trị là:",
+    [
+     "7 trăm",
+     "7 chục",
+     "7 nghìn",
+     "7 đơn vị"
+    ],
+    "Chữ số 7 đứng ở hàng trăm nên có giá trị là 7 trăm."
+   ],
+   [
+    "Trong các số 2451, 2154, 2514, 2415, số lớn nhất là:",
+    [
+     "2514",
+     "2451",
+     "2415",
+     "2154"
+    ],
+    "So sánh các hàng từ trái sang phải, chữ số hàng trăm lớn nhất là 5 nên số 2514 là số lớn nhất."
+   ],
+   [
+    "Số La Mã XV biểu diễn số nào trong hệ thập phân?",
+    [
+     "15",
+     "13",
+     "16",
+     "25"
+    ],
+    "Ký hiệu X là 10, V là 5, X đứng trước V nên ta cộng lại: 10 + 5 = 15."
+   ],
+   [
+    "Số 13 được viết bằng chữ số La Mã là:",
+    [
+     "XIII",
+     "XIV",
+     "XIIII",
+     "XIIP"
+    ],
+    "Số 13 gồm 10 (X) và 3 (III), viết liền nhau là XIII."
+   ],
+   [
+    "Khi làm tròn số 4 231 đến hàng nghìn, ta được số:",
+    [
+     "4000",
+     "5000",
+     "4200",
+     "4300"
+    ],
+    "Chữ số hàng trăm là 2 (nhỏ hơn 5) nên ta làm tròn xuống, được 4000."
+   ],
+   [
+    "Khi làm tròn số 7 689 đến hàng trăm, ta được số:",
+    [
+     "7700",
+     "7600",
+     "8000",
+     "7680"
+    ],
+    "Chữ số hàng chục là 8 (lớn hơn hoặc bằng 5) nên ta làm tròn lên, được 7700."
+   ],
+   [
+    "Số liền trước của số 5 000 là:",
+    [
+     "4999",
+     "5001",
+     "4990",
+     "4000"
+    ],
+    "Số liền trước kém số đó 1 đơn vị, lấy 5000 trừ đi 1 ta được 4999."
+   ],
+   [
+    "Kết quả của phép tính 2 400 + 3 500 là:",
+    [
+     "5900",
+     "5800",
+     "6000",
+     "5950"
+    ],
+    "Cộng theo từng hàng từ phải sang phải: 2400 + 3500 = 5900."
+   ],
+   [
+    "Mẹ mua một cái quạt máy giá 1 200 đồng và một cái đèn học giá 2 300 đồng. Tổng số tiền mẹ phải trả là:",
+    [
+     "3500 đồng",
+     "3400 đồng",
+     "3600 đồng",
+     "3550 đồng"
+    ],
+    "Tổng số tiền là 1200 + 2300 = 3500 đồng."
+   ],
+   [
+    "Cho dãy số: 1000, 2000, 3000, ..., 5000. Số thích hợp điền vào chỗ chấm là:",
+    [
+     "4000",
+     "3500",
+     "4500",
+     "6000"
+    ],
+    "Dãy số tăng dần đều 1000 đơn vị, sau 3000 là 4000."
+   ],
+   [
+    "Tìm x, biết: x - 1200 = 3100",
+    [
+     "4300",
+     "1900",
+     "4200",
+     "3100"
+    ],
+    "Muốn tìm số bị trừ x ta lấy hiệu cộng với số trừ: 3100 + 1200 = 4300."
+   ],
+   [
+    "Một cửa hàng buổi sáng bán được 2 100 kg gạo, buổi chiều bán được ít hơn buổi sáng 400 kg gạo. Hỏi buổi chiều cửa hàng bán được bao nhiêu ki-lô-gam gạo?",
+    [
+     "1700 kg",
+     "2500 kg",
+     "1600 kg",
+     "1800 kg"
+    ],
+    "Số gạo buổi chiều bán được là 2100 - 400 = 1700 kg."
+   ],
+   [
+    "Sắp xếp các số sau theo thứ tự từ bé đến lớn: 3 821, 3 182, 3 812, 3 218",
+    [
+     "3182, 3218, 3812, 3821",
+     "3821, 3812, 3218, 3182",
+     "3182, 3812, 3218, 3821",
+     "3218, 3182, 3821, 3812"
+    ],
+    "So sánh các chữ số hàng trăm và chục ta sắp xếp được thứ tự tăng dần là 3182, 3218, 3812, 3821."
+   ],
+   [
+    "Số lớn nhất có bốn chữ số khác nhau được lập từ các chữ số 3, 0, 5, 8 là:",
+    [
+     "8530",
+     "8503",
+     "8350",
+     "5830"
+    ],
+    "Để được số lớn nhất, ta xếp chữ số lớn nhất ở hàng nghìn (8), tiếp theo là 5, 3 và nhỏ nhất ở hàng đơn vị (0), ta được 8530."
+   ],
+   [
+    "Một đội công nhân tuần thứ nhất sửa được 1 500 m đường, tuần thứ hai sửa được gấp đôi tuần thứ nhất. Hỏi tuần thứ hai đội công nhân sửa được bao nhiêu mét đường?",
+    [
+     "3000 m",
+     "2500 m",
+     "1500 m",
+     "3500 m"
+    ],
+    "Tuần thứ hai sửa được số mét đường là 1500 nhân 2 bằng 3000 m."
+   ],
+   [
+    "Thùng thứ nhất đựng 4 200 lít nước, thùng thứ hai đựng ít hơn thùng thứ nhất 1 500 lít nước. Cả hai thùng đựng số lít nước là:",
+    [
+     "6900 lít",
+     "5700 lít",
+     "2700 lít",
+     "8400 lít"
+    ],
+    "Thùng thứ hai đựng 4200 - 1500 = 2700 lít. Cả hai thùng đựng 4200 + 2700 = 6900 lít."
+   ],
+   [
+    "Trang trại có 2 400 con gà, số vịt ít hơn số gà là 600 con. Hỏi trang trại có tất cả bao nhiêu con gà và vịt?",
+    [
+     "4200 con",
+     "3000 con",
+     "1800 con",
+     "4800 con"
+    ],
+    "Số vịt là 2400 - 600 = 1800 con. Tổng số gà và vịt là 2400 + 1800 = 4200 con."
+   ],
+   [
+    "Số gồm 5 nghìn, 3 trăm, 4 chục và 2 đơn vị được viết là:",
+    [
+     "5 342",
+     "5 432",
+     "3 542",
+     "5 234"
+    ],
+    "Ta viết các chữ số theo thứ tự từ hàng nghìn đến hàng đơn vị được số 5 342."
+   ],
+   [
+    "Trong số 4 715, chữ số 1 thuộc hàng nào?",
+    [
+     "Hàng chục",
+     "Hàng trăm",
+     "Hàng nghìn",
+     "Hàng đơn vị"
+    ],
+    "Số 4 715 gồm 4 nghìn, 7 trăm, 1 chục và 5 đơn vị nên chữ số 1 thuộc hàng chục."
+   ],
+   [
+    "Số liền sau của số 8 999 là:",
+    [
+     "9 000",
+     "8 998",
+     "9 001",
+     "8 900"
+    ],
+    "Số liền sau của một số được tính bằng cách cộng thêm 1 đơn vị vào số đó."
+   ],
+   [
+    "Số La Mã XI biểu diễn số nào trong hệ thập phân?",
+    [
+     "11",
+     "9",
+     "12",
+     "21"
+    ],
+    "Chữ số X là 10, chữ số I là 1, viết I bên phải X nghĩa là 10 cộng 1 bằng 11."
+   ],
+   [
+    "Khi làm tròn số 3 450 đến hàng trăm, ta được số:",
+    [
+     "3 500",
+     "3 400",
+     "3 000",
+     "3 600"
+    ],
+    "Chữ số hàng chục là 5 (lớn hơn hoặc bằng 5) nên ta làm tròn lên, được 3 500."
+   ],
+   [
+    "Trong các số sau, số nào nhỏ nhất: 4 021, 4 120, 4 012, 4 201?",
+    [
+     "4 012",
+     "4 021",
+     "4 120",
+     "4 201"
+    ],
+    "So sánh các hàng từ trái sang phải, ta thấy số 4 012 có chữ số hàng chục nhỏ nhất."
+   ],
+   [
+    "Kết quả của phép tính 6 800 - 2 400 là:",
+    [
+     "4 400",
+     "4 600",
+     "5 400",
+     "4 500"
+    ],
+    "Trừ các chữ số cùng hàng từ phải sang trái, ta được 6 800 trừ 2 400 bằng 4 400."
+   ],
+   [
+    "Tìm x, biết: x + 1 500 = 4 500",
+    [
+     "3 000",
+     "6 000",
+     "2 500",
+     "3 500"
+    ],
+    "Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết: 4 500 trừ 1 500 bằng 3 000."
+   ],
+   [
+    "Cho dãy số: 2 100, 2 200, 2 300, ..., 2 500. Số thích hợp điền vào chỗ chấm là:",
+    [
+     "2 400",
+     "2 350",
+     "2 450",
+     "2 600"
+    ],
+    "Dãy số đếm thêm 100 đơn vị, số đứng sau hơn số đứng trước 100 đơn vị."
+   ],
+   [
+    "Sắp xếp các số sau theo thứ tự từ lớn đến bé: 5 120, 5 210, 5 021, 5 102",
+    [
+     "5 210, 5 120, 5 102, 5 021",
+     "5 021, 5 102, 5 120, 5 210",
+     "5 210, 5 021, 5 120, 5 102",
+     "5 102, 5 120, 5 210, 5 021"
+    ],
+    "So sánh các chữ số hàng trăm và hàng chục để sắp xếp từ lớn đến bé."
+   ],
+   [
+    "Số nhỏ nhất có bốn chữ số khác nhau được lập từ các chữ số 1, 0, 6, 8 là:",
+    [
+     "1 068",
+     "1 086",
+     "6 018",
+     "8 610"
+    ],
+    "Chữ số hàng nghìn phải khác 0 và là số nhỏ nhất có thể là 1, tiếp theo là 0, 6 và 8."
+   ],
+   [
+    "Một cửa hàng buổi sáng bán được 1 200 kg đường, buổi chiều bán được nhiều hơn buổi sáng 300 kg đường. Hỏi buổi chiều cửa hàng bán được bao nhiêu ki-lô-gam đường?",
+    [
+     "1 500 kg",
+     "900 kg",
+     "1 400 kg",
+     "1 600 kg"
+    ],
+    "Số ki-lô-gam đường buổi chiều bán được là 1 200 cộng 300 bằng 1 500 kg."
+   ],
+   [
+    "Thùng thứ nhất có 3 000 lít dầu, thùng thứ hai có nhiều hơn thùng thứ nhất 800 lít dầu. Cả hai thùng có số lít dầu là:",
+    [
+     "6 800 lít",
+     "3 800 lít",
+     "6 000 lít",
+     "5 800 lít"
+    ],
+    "Tìm số dầu thùng thứ hai rồi cộng số dầu hai thùng lại: 3 000 cộng 3 800 bằng 6 800 lít."
+   ],
+   [
+    "Một trại chăn nuôi có 4 000 con gà, số vịt nhiều hơn số gà 500 con. Hỏi trại chăn nuôi có tất cả bao nhiêu con gà và vịt?",
+    [
+     "8 500 con",
+     "4 500 con",
+     "7 500 con",
+     "9 000 con"
+    ],
+    "Số vịt là 4 000 cộng 500 bằng 4 500 con. Tổng số gà và vịt là 4 000 cộng 4 500 bằng 8 500 con."
+   ],
+   [
+    "Khoảng cách giữa hai số 3 500 và 3 900 là bao nhiêu đơn vị?",
+    [
+     "400",
+     "300",
+     "500",
+     "600"
+    ],
+    "Lấy số lớn trừ đi số bé: 3 900 trừ 3 500 bằng 400 đơn vị."
+   ],
+   [
+    "Số gồm 7 nghìn và 5 đơn vị được viết là:",
+    [
+     "7 005",
+     "7 050",
+     "7 500",
+     "7 0005"
+    ],
+    "Các hàng vắng mặt (trăm, chục) được viết là chữ số 0, ta được số 7 005."
+   ],
+   [
+    "Kết quả của phép tính 2 300 nhân 3 là:",
+    [
+     "6 900",
+     "6 300",
+     "9 600",
+     "6 600"
+    ],
+    "Nhân lần lượt từng hàng từ phải sang trái, 3 nhân 3 bằng 9, 2 nhân 3 bằng 6, kết quả là 6 900."
+   ],
+   [
+    "Kết quả của phép tính 8 800 chia 4 là:",
+    [
+     "2 200",
+     "2 000",
+     "2 400",
+     "2 100"
+    ],
+    "Chia lần lượt từng hàng từ trái sang phải, 8 chia 4 được 2 ở mỗi hàng, kết quả là 2 200."
+   ],
+   [
+    "Biết x nhân 2 = 6 400. Giá trị của x là:",
+    [
+     "3 200",
+     "3 100",
+     "3 400",
+     "1 600"
+    ],
+    "Muốn tìm thừa số chưa biết, ta lấy tích chia cho thừa số đã biết: 6 400 chia 2 bằng 3 200."
+   ],
+   [
+    "Mẹ mua một món quà giá 5 500 đồng và đưa cho cô bán hàng tờ 10 000 đồng. Hỏi cô bán hàng phải trả lại mẹ bao nhiêu tiền?",
+    [
+     "4 500 đồng",
+     "3 500 đồng",
+     "5 500 đồng",
+     "4 000 đồng"
+    ],
+    "Số tiền trả lại là 10 000 trừ 5 500 bằng 4 500 đồng."
+   ],
+   [
+    "Số “sáu nghìn bốn trăm linh tám” được viết là:",
+    [
+     "6 408",
+     "6 480",
+     "6 048",
+     "6 400"
+    ],
+    "Số “sáu nghìn bốn trăm linh tám” gồm 6 nghìn, 4 trăm, 0 chục và 8 đơn vị, nên được viết là 6 408."
+   ]
+  ]
+ }
+}

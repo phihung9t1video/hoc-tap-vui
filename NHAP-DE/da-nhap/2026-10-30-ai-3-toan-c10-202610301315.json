@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c10": [
+   [
+    "Tính nhẩm: 5 000 + 3 000 = ?",
+    [
+     "8 000",
+     "7 000",
+     "9 000",
+     "800"
+    ],
+    "Nhẩm: 5 nghìn cộng 3 nghìn bằng 8 nghìn (8 000)."
+   ],
+   [
+    "Tính nhẩm: 8 000 - 5 000 = ?",
+    [
+     "3 000",
+     "2 000",
+     "4 000",
+     "300"
+    ],
+    "Nhẩm: 8 nghìn trừ 5 nghìn bằng 3 nghìn (3 000)."
+   ],
+   [
+    "Kết quả của phép tính 2 345 + 4 123 là:",
+    [
+     "6 468",
+     "6 467",
+     "6 368",
+     "6 478"
+    ],
+    "Đặt tính rồi tính: 2 345 + 4 123 = 6 468."
+   ],
+   [
+    "Kết quả của phép tính 7 856 - 3 421 là:",
+    [
+     "4 435",
+     "4 425",
+     "4 436",
+     "4 335"
+    ],
+    "Đặt tính rồi tính: 7 856 - 3 421 = 4 435."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm: 3 600 + ... = 5 600 là:",
+    [
+     "2 000",
+     "1 000",
+     "3 000",
+     "9 200"
+    ],
+    "Ta có: 5 600 - 3 600 = 2 000."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm: ... - 1 500 = 4 500 là:",
+    [
+     "6 000",
+     "3 000",
+     "5 000",
+     "7 000"
+    ],
+    "Ta lấy 4 500 + 1 500 = 6 000."
+   ],
+   [
+    "Số bé nhất có bốn chữ số cộng với 3 500 được kết quả là:",
+    [
+     "4 500",
+     "3 501",
+     "3 510",
+     "13 500"
+    ],
+    "Số bé nhất có bốn chữ số là 1 000. Ta có: 1 000 + 3 500 = 4 500."
+   ],
+   [
+    "Hiệu của 9 000 và số lớn nhất có ba chữ số là:",
+    [
+     "8 001",
+     "8 000",
+     "8 010",
+     "8 999"
+    ],
+    "Số lớn nhất có ba chữ số là 999. Ta có: 9 000 - 999 = 8 001."
+   ],
+   [
+    "Kết quả của phép tính 5 678 + 2 415 là:",
+    [
+     "8 093",
+     "8 083",
+     "7 093",
+     "8 092"
+    ],
+    "Thực hiện phép cộng có nhớ: 5 678 + 2 415 = 8 093."
+   ],
+   [
+    "Kết quả của phép tính 6 243 - 2 817 là:",
+    [
+     "3 426",
+     "3 436",
+     "4 426",
+     "3 326"
+    ],
+    "Thực hiện phép trừ có nhớ: 6 243 - 2 817 = 3 426."
+   ],
+   [
+    "Giá trị của biểu thức 4 500 + 2 100 - 1 300 là:",
+    [
+     "5 300",
+     "6 600",
+     "5 200",
+     "5 400"
+    ],
+    "Thực hiện từ trái sang phải: 4 500 + 2 100 = 6 600; sau đó 6 600 - 1 300 = 5 300."
+   ],
+   [
+    "Một cửa hàng buổi sáng bán được 1 450 kg gạo, buổi chiều bán được 1 230 kg gạo. Cả hai buổi cửa hàng bán được bao nhiêu ki-lô-gam gạo?",
+    [
+     "2 680 kg",
+     "2 670 kg",
+     "2 580 kg",
+     "2 220 kg"
+    ],
+    "Số kg gạo bán được trong cả hai buổi là: 1 450 + 1 230 = 2 680 (kg)."
+   ],
+   [
+    "Một xưởng sản xuất đợt đầu làm được 4 500 cái khẩu trang, đợt sau làm ít hơn đợt đầu 1 200 cái. Hỏi đợt sau xưởng làm được bao nhiêu cái khẩu trang?",
+    [
+     "3 300 cái",
+     "5 700 cái",
+     "3 200 cái",
+     "3 400 cái"
+    ],
+    "Đợt sau xưởng làm được số khẩu trang là: 4 500 - 1 200 = 3 300 (cái)."
+   ],
+   [
+    "Quãng đường từ nhà An đến trường dài 1 250 m, quãng đường từ trường đến thư viện dài 850 m. Hỏi An đi từ nhà qua trường rồi đến thư viện thì phải đi đoạn đường dài bao nhiêu mét?",
+    [
+     "2 100 m",
+     "2 000 m",
+     "2 150 m",
+     "400 m"
+    ],
+    "Độ dài quãng đường An phải đi là: 1 250 + 850 = 2 100 (m)."
+   ],
+   [
+    "Đã có 5 280 l nước trong bể. Người ta tháo ra 1 650 l nước. Trong bể còn lại bao nhiêu lít nước?",
+    [
+     "3 630 l",
+     "3 620 l",
+     "6 930 l",
+     "3 730 l"
+    ],
+    "Số lít nước còn lại trong bể là: 5 280 - 1 650 = 3 630 (l)."
+   ],
+   [
+    "Tìm một số biết rằng lấy số đó cộng với 2 400 thì được 6 000.",
+    [
+     "3 600",
+     "8 400",
+     "3 500",
+     "4 600"
+    ],
+    "Số cần tìm là: 6 000 - 2 400 = 3 600."
+   ],
+   [
+    "Tổng của hai số là 8 500. Số thứ nhất là 3 250. Số thứ hai là:",
+    [
+     "5 250",
+     "5 350",
+     "11 750",
+     "5 150"
+    ],
+    "Số thứ hai là: 8 500 - 3 250 = 5 250."
+   ],
+   [
+    "Chăn nuôi gia cầm có 3 500 con vịt. Số con gà nhiều hơn số con vịt là 1 200 con. Hỏi trang trại có tất cả bao nhiêu con gà và vịt?",
+    [
+     "8 200 con",
+     "4 700 con",
+     "7 200 con",
+     "2 300 con"
+    ],
+    "Số con gà là: 3 500 + 1 200 = 4 700 (con). Tất cả có: 3 500 + 4 700 = 8 200 (con)."
+   ],
+   [
+    "Năm ngoái một xã trồng được 3 800 cây ăn quả. Năm nay xã trồng thêm được 2 500 cây. Hỏi cả hai năm xã đó trồng được bao nhiêu cây ăn quả?",
+    [
+     "6 300 cây",
+     "1 300 cây",
+     "6 200 cây",
+     "5 300 cây"
+    ],
+    "Cả hai năm trồng được số cây là: 3 800 + 2 500 = 6 300 (cây)."
+   ],
+   [
+    "Một mương dẫn nước dài 4 200 m. Đội công nhân đã đào được 2 850 m. Hỏi đội công nhân còn phải đào bao nhiêu mét nữa mới xong?",
+    [
+     "1 350 m",
+     "1 450 m",
+     "7 050 m",
+     "1 300 m"
+    ],
+    "Số mét mương đội công nhân còn phải đào là: 4 200 - 2 850 = 1 350 (m)."
+   ],
+   [
+    "Số liền sau của số 5 432 là số nào?",
+    [
+     "5 433",
+     "5 431",
+     "5 532",
+     "6 432"
+    ],
+    "Muốn tìm số liền sau của một số, ta cộng thêm 1 đơn vị vào số đó. 5 432 cộng 1 bằng 5 433."
+   ],
+   [
+    "Số gồm 4 nghìn, 5 trăm, 3 chục và 8 đơn vị được viết là:",
+    [
+     "4 538",
+     "4 358",
+     "4 583",
+     "5 438"
+    ],
+    "Ta viết lần lượt các chữ số ở hàng nghìn, hàng trăm, hàng chục và hàng đơn vị từ trái sang phải ta được số 4 538."
+   ],
+   [
+    "Kết quả của phép tính 7 968 - 4 325 là:",
+    [
+     "3 643",
+     "3 634",
+     "3 463",
+     "4 643"
+    ],
+    "Trừ các hàng theo thứ tự từ phải sang trái: 8-5=3, 6-2=4, 9-3=6, 7-4=3. Kết quả là 3 643."
+   ],
+   [
+    "Tính nhẩm: 4 000 + 3 000 - 2 000 = ?",
+    [
+     "5 000",
+     "6 000",
+     "7 000",
+     "4 000"
+    ],
+    "Thực hiện phép tính từ trái sang phải: 4 000 + 3 000 = 7 000, sau đó lấy 7 000 - 2 000 = 5 000."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm để 6 500 + ... = 9 500 là:",
+    [
+     "3 000",
+     "2 000",
+     "4 000",
+     "3 500"
+    ],
+    "Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết: 9 500 - 6 500 = 3 000."
+   ],
+   [
+    "Số lớn nhất có bốn chữ số trừ đi 5 000 bằng:",
+    [
+     "4 999",
+     "5 999",
+     "4 998",
+     "4 000"
+    ],
+    "Số lớn nhất có bốn chữ số là 9 999. Thực hiện phép trừ: 9 999 - 5 000 = 4 999."
+   ],
+   [
+    "Tính: 2 456 + 3 123 - 1 500 = ?",
+    [
+     "4 079",
+     "4 097",
+     "4 179",
+     "3 079"
+    ],
+    "Thực hiện phép tính từ trái sang phải: 2 456 + 3 123 = 5 579, tiếp tục lấy 5 579 - 1 500 = 4 079."
+   ],
+   [
+    "Một kho hàng có 5 420 kg gạo, sau khi xuất kho thì còn lại 2 100 kg gạo. Hỏi kho hàng đã xuất đi bao nhiêu ki-lô-gam gạo?",
+    [
+     "3 320 kg",
+     "3 230 kg",
+     "3 420 kg",
+     "3 310 kg"
+    ],
+    "Để tìm số gạo đã xuất, ta lấy tổng số gạo ban đầu trừ đi số gạo còn lại: 5 420 - 2 100 = 3 320 kg."
+   ],
+   [
+    "Đội thứ nhất sửa được 1 520 m đường, đội thứ hai sửa được nhiều hơn đội thứ nhất 450 m đường. Hỏi đội thứ hai sửa được bao nhiêu mét đường?",
+    [
+     "1 970 m",
+     "1 960 m",
+     "1 870 m",
+     "2 070 m"
+    ],
+    "Số mét đường đội thứ hai sửa được là lấy số mét của đội thứ nhất cộng thêm 450 m: 1 520 + 450 = 1 970 m."
+   ],
+   [
+    "Tìm x, biết: x - 2 150 = 3 420",
+    [
+     "5 570",
+     "5 470",
+     "5 560",
+     "1 270"
+    ],
+    "Muốn tìm số bị trừ x, ta lấy hiệu cộng với số trừ: 3 420 + 2 150 = 5 570."
+   ],
+   [
+    "Giá trị của biểu thức 8 400 - (2 100 + 1 300) là:",
+    [
+     "5 000",
+     "6 300",
+     "5 100",
+     "4 000"
+    ],
+    "Tính trong ngoặc trước: 2 100 + 1 300 = 3 400. Sau đó lấy 8 400 - 3 400 = 5 000."
+   ],
+   [
+    "Một chuyến xe chở 1 250 kg hàng hóa ở đợt đầu và 1 600 kg hàng hóa ở đợt sau. Hỏi cả hai đợt xe chở được bao nhiêu ki-lô-gam hàng hóa?",
+    [
+     "2 850 kg",
+     "2 840 kg",
+     "2 950 kg",
+     "2 750 kg"
+    ],
+    "Cả hai đợt xe chở số hàng là: 1 250 + 1 600 = 2 850 kg."
+   ],
+   [
+    "Hiệu của số lớn nhất có bốn chữ số và số nhỏ nhất có bốn chữ số là:",
+    [
+     "8 999",
+     "9 999",
+     "8 000",
+     "9 000"
+    ],
+    "Số lớn nhất có 4 chữ số là 9 999, số nhỏ nhất có 4 chữ số là 1 000. Hiệu của chúng là 9 999 - 1 000 = 8 999."
+   ],
+   [
+    "Tính nhẩm: 5 400 + 300 - 200 = ?",
+    [
+     "5 500",
+     "5 600",
+     "5 400",
+     "5 700"
+    ],
+    "Thực hiện lần lượt từ trái sang phải: 5 400 + 300 = 5 700, rồi lấy 5 700 - 200 = 5 500."
+   ],
+   [
+    "Tìm x, biết: 4 200 + x = 7 600",
+    [
+     "3 400",
+     "3 500",
+     "2 400",
+     "3 600"
+    ],
+    "Muốn tìm số hạng x chưa biết, ta lấy tổng trừ đi số hạng đã biết: 7 600 - 4 200 = 3 400."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm để có 7 800 - ... = 3 200 là:",
+    [
+     "4 600",
+     "4 500",
+     "3 600",
+     "4 400"
+    ],
+    "Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu: 7 800 - 3 200 = 4 600."
+   ],
+   [
+    "Một mảnh vườn hình chữ nhật có chu vi được tính bằng tổng chiều dài và chiều rộng nhân với 2. Nếu chiều dài là 1 200 m và chiều rộng là 800 m, thì nửa chu vi của mảnh vườn là:",
+    [
+     "2 000 m",
+     "4 000 m",
+     "1 000 m",
+     "2 400 m"
+    ],
+    "Nửa chu vi hình chữ nhật bằng tổng của chiều dài và chiều rộng: 1 200 + 800 = 2 000 m."
+   ],
+   [
+    "Số gồm 7 nghìn, 4 chục và 5 đơn vị được viết là:",
+    [
+     "7045",
+     "7405",
+     "7450",
+     "7004"
+    ],
+    "Số gồm 7 nghìn, 0 trăm, 4 chục và 5 đơn vị viết là 7045."
+   ],
+   [
+    "Tính nhẩm: 9 000 - 4 000 + 2 000 = ?",
+    [
+     "7000",
+     "3000",
+     "5000",
+     "6000"
+    ],
+    "Thực hiện từ trái sang phải: 9 000 trừ 4 000 bằng 5 000, cộng tiếp 2 000 bằng 7 000."
+   ],
+   [
+    "Kết quả của phép tính 4 632 + 3 254 là:",
+    [
+     "7886",
+     "7876",
+     "7786",
+     "8786"
+    ],
+    "Cộng các hàng từ phải sang trái: 2 cộng 4 bằng 6, 3 cộng 5 bằng 8, 6 cộng 2 bằng 8, 4 cộng 3 bằng 7, được 7886."
+   ]
+  ]
+ }
+}

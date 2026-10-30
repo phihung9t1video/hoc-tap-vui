@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c9": [
+   [
+    "Để tính chu vi của một hình tam giác, chúng ta cần làm như thế nào?",
+    [
+     "Tính tổng độ dài ba cạnh của hình tam giác đó.",
+     "Tính tích độ dài ba cạnh của hình tam giác đó.",
+     "Lấy độ dài cạnh dài nhất nhân với 3.",
+     "Lấy độ dài cạnh ngắn nhất cộng với 3."
+    ],
+    "Chu vi hình tam giác bằng tổng độ dài các cạnh của hình tam giác đó."
+   ],
+   [
+    "Xăng-ti-mét vuông là diện tích của hình vuông có cạnh dài bao nhiêu?",
+    [
+     "1 cm",
+     "1 m",
+     "2 cm",
+     "4 cm"
+    ],
+    "Xăng-ti-mét vuông là diện tích của hình vuông có cạnh dài 1 cm."
+   ],
+   [
+    "Kí hiệu của xăng-ti-mét vuông là:",
+    [
+     "cm²",
+     "cm",
+     "cm3",
+     "m²"
+    ],
+    "Xăng-ti-mét vuông được viết tắt là cm²."
+   ],
+   [
+    "Một hình tứ giác có độ dài các cạnh lần lượt là 7 cm, 8 cm, 10 cm và 12 cm. Chu vi của hình tứ giác đó là:",
+    [
+     "37 cm",
+     "37 cm²",
+     "27 cm",
+     "35 cm"
+    ],
+    "Chu vi hình tứ giác là: 7 + 8 + 10 + 12 = 37 cm."
+   ],
+   [
+    "Diện tích của một mặt bàn học sinh thường được đo bằng đơn vị nào sau đây?",
+    [
+     "Xăng-ti-mét vuông",
+     "Xăng-ti-mét",
+     "Ki-lô-gam",
+     "Lít"
+    ],
+    "Để đo diện tích các bề mặt phẳng nhỏ như mặt bàn, người ta dùng đơn vị xăng-ti-mét vuông."
+   ],
+   [
+    "Một khung bức tranh hình tam giác có độ dài các cạnh đều bằng 9 cm. Chu vi của khung bức tranh đó là:",
+    [
+     "27 cm",
+     "18 cm",
+     "81 cm",
+     "36 cm"
+    ],
+    "Vì ba cạnh bằng nhau nên chu vi khung bức tranh là: 9 x 3 = 27 cm."
+   ],
+   [
+    "Một cái nắp hộp hình vuông có cạnh dài 9 cm. Diện tích của nắp hộp đó là:",
+    [
+     "81 cm²",
+     "36 cm²",
+     "81 cm",
+     "36 cm"
+    ],
+    "Diện tích nắp hộp hình vuông là: 9 x 9 = 81 cm²."
+   ],
+   [
+    "Bác An muốn rào xung quanh một mảnh đất hình tứ giác có độ dài các cạnh là 5 m, 6 m, 7 m và 8 m. Độ dài lưới rào bác An cần dùng là:",
+    [
+     "26 m",
+     "26 m²",
+     "24 m",
+     "28 m"
+    ],
+    "Độ dài lưới rào chính là chu vi mảnh đất: 5 + 6 + 7 + 8 = 26 m."
+   ],
+   [
+    "Muốn tính diện tích hình chữ nhật, ta làm thế nào?",
+    [
+     "Lấy chiều dài nhân với chiều rộng (cùng đơn vị đo).",
+     "Lấy chiều dài cộng chiều rộng rồi nhân với 2.",
+     "Lấy chiều dài nhân với 4.",
+     "Lấy chiều dài cộng với chiều rộng."
+    ],
+    "Muốn tính diện tích hình chữ nhật, ta lấy chiều dài nhân với chiều rộng (cùng đơn vị đo)."
+   ],
+   [
+    "Một chiếc nhãn vở hình chữ nhật có chiều dài 7 cm và chiều rộng 4 cm. Chu vi của chiếc nhãn vở đó là:",
+    [
+     "22 cm",
+     "28 cm",
+     "11 cm",
+     "22 cm²"
+    ],
+    "Chu vi chiếc nhãn vở là: (7 + 4) x 2 = 22 cm."
+   ],
+   [
+    "Nối 4 đoạn thẳng có độ dài bằng nhau 6 cm để tạo thành một hình vuông. Chu vi của hình vuông đó là:",
+    [
+     "24 cm",
+     "36 cm",
+     "12 cm",
+     "24 cm²"
+    ],
+    "Chu vi hình vuông tạo thành là: 6 x 4 = 24 cm."
+   ],
+   [
+    "Một tờ giấy màu hình vuông có diện tích là 36 cm². Cạnh của tờ giấy màu đó dài bao nhiêu?",
+    [
+     "6 cm",
+     "9 cm",
+     "4 cm",
+     "8 cm"
+    ],
+    "Vì 6 x 6 = 36 nên cạnh của tờ giấy màu hình vuông là 6 cm."
+   ],
+   [
+    "Hình chữ nhật có chiều dài 10 cm, chiều rộng ngắn hơn chiều dài 3 cm. Diện tích hình chữ nhật đó là:",
+    [
+     "70 cm²",
+     "30 cm²",
+     "34 cm²",
+     "70 cm"
+    ],
+    "Chiều rộng hình chữ nhật là: 10 - 3 = 7 cm. Diện tích hình chữ nhật là: 10 x 7 = 70 cm²."
+   ],
+   [
+    "Bạn Nam có một tấm bìa hình vuông cạnh 5 cm. Bạn cắt tấm bìa đó thành các ô vuông nhỏ, mỗi ô có diện tích 1 cm². Nam sẽ cắt được bao nhiêu ô vuông như thế?",
+    [
+     "25 ô vuông",
+     "20 ô vuông",
+     "10 ô vuông",
+     "15 ô vuông"
+    ],
+    "Diện tích tấm bìa là 5 x 5 = 25 cm², do đó cắt được 25 ô vuông 1 cm²."
+   ],
+   [
+    "Một tấm thảm hình chữ nhật có chu vi là 36 cm, chiều dài là 10 cm. Chiều rộng của tấm thảm đó là:",
+    [
+     "8 cm",
+     "13 cm",
+     "26 cm",
+     "18 cm"
+    ],
+    "Nửa chu vi tấm thảm là: 36 : 2 = 18 cm. Chiều rộng tấm thảm là: 18 - 10 = 8 cm."
+   ],
+   [
+    "Cho hai hình: hình vuông A có cạnh 4 cm và hình chữ nhật B có chiều dài 5 cm, chiều rộng 3 cm. Kết luận nào sau đây là đúng?",
+    [
+     "Chu vi hình vuông A bằng chu vi hình chữ nhật B.",
+     "Diện tích hình vuông A bằng diện tích hình chữ nhật B.",
+     "Chu vi hình vuông A lớn hơn chu vi hình chữ nhật B.",
+     "Diện tích hình vuông A nhỏ hơn diện tích hình chữ nhật B."
+    ],
+    "Chu vi hình A: 4 x 4 = 16 cm; Chu vi hình B: (5 + 3) x 2 = 16 cm. Vậy chu vi hai hình bằng nhau."
+   ],
+   [
+    "Một tờ bìa hình chữ nhật có chiều rộng 6 cm, chiều dài gấp 2 lần chiều rộng. Chu vi của tờ bìa đó là:",
+    [
+     "36 cm",
+     "18 cm",
+     "72 cm",
+     "24 cm"
+    ],
+    "Chiều dài tờ bìa là: 6 x 2 = 12 cm. Chu vi tờ bìa là: (12 + 6) x 2 = 36 cm."
+   ],
+   [
+    "Người ta ghép 3 ô vuông nhỏ cạnh 2 cm thành một hình chữ nhật lớn. Chu vi của hình chữ nhật lớn đó là:",
+    [
+     "16 cm",
+     "12 cm",
+     "24 cm",
+     "18 cm"
+    ],
+    "Hình chữ nhật có chiều rộng 2 cm, chiều dài 2 x 3 = 6 cm. Chu vi là: (6 + 2) x 2 = 16 cm."
+   ],
+   [
+    "Một mảnh đất hình vuông có chu vi 32 m. Diện tích mảnh đất hình vuông đó là:",
+    [
+     "64 m²",
+     "128 m²",
+     "32 m²",
+     "16 m²"
+    ],
+    "Độ dài cạnh mảnh đất là: 32 : 4 = 8 m. Diện tích mảnh đất là: 8 x 8 = 64 m²."
+   ],
+   [
+    "Cần bao nhiêu hình vuông nhỏ có diện tích 1 cm² để xếp kín một hình chữ nhật có chiều dài 6 cm và chiều rộng 4 cm?",
+    [
+     "24 hình vuông",
+     "20 hình vuông",
+     "10 hình vuông",
+     "12 hình vuông"
+    ],
+    "Diện tích hình chữ nhật là: 6 x 4 = 24 cm², vậy cần 24 hình vuông nhỏ 1 cm²."
+   ],
+   [
+    "Đơn vị đo nào dưới đây dùng để đo diện tích",
+    [
+     "Xăng-ti-mét vuông",
+     "Xăng-ti-mét",
+     "Mét",
+     "Đề-xi-mét"
+    ],
+    "Xăng-ti-mét vuông là đơn vị dùng để đo diện tích."
+   ],
+   [
+    "Kí hiệu đúng của đơn vị xăng-ti-mét vuông là",
+    [
+     "cm²",
+     "cm",
+     "m²",
+     "dm²"
+    ],
+    "Xăng-ti-mét vuông được viết tắt là cm²."
+   ],
+   [
+    "Xăng-ti-mét vuông là diện tích của hình vuông có cạnh dài",
+    [
+     "1 cm",
+     "1 m",
+     "2 cm",
+     "10 cm"
+    ],
+    "Xăng-ti-mét vuông là diện tích của hình vuông có cạnh dài 1 cm."
+   ],
+   [
+    "Muốn tính chu vi hình tam giác, ta lấy",
+    [
+     "Độ dài ba cạnh cộng lại với nhau",
+     "Độ dài hai cạnh cộng lại với nhau",
+     "Độ dài cạnh nhân với 3",
+     "Độ dài cạnh nhân với 4"
+    ],
+    "Chu vi hình tam giác bằng tổng độ dài ba cạnh của nó."
+   ],
+   [
+    "Muốn tính chu vi hình tứ giác, ta lấy",
+    [
+     "Độ dài bốn cạnh cộng lại với nhau",
+     "Độ dài ba cạnh cộng lại với nhau",
+     "Độ dài cạnh nhân với 4",
+     "Độ dài cạnh nhân với 2"
+    ],
+    "Chu vi hình tứ giác bằng tổng độ dài bốn cạnh."
+   ],
+   [
+    "Hình chữ nhật có chiều dài 9 cm, chiều rộng 5 cm. Chu vi hình chữ nhật đó là",
+    [
+     "28 cm",
+     "14 cm",
+     "45 cm",
+     "40 cm"
+    ],
+    "Chu vi hình chữ nhật bằng tổng chiều dài và chiều rộng nhân với 2, kết quả là (9 + 5) x 2 = 28 cm."
+   ],
+   [
+    "Một khu vườn hình chữ nhật có chiều dài 8 cm, chiều rộng kém chiều dài 3 cm. Chiều rộng của khu vườn là",
+    [
+     "5 cm",
+     "11 cm",
+     "24 cm",
+     "16 cm"
+    ],
+    "Chiều rộng kém chiều dài 3 cm nên ta lấy 8 trừ đi 3 bằng 5 cm."
+   ],
+   [
+    "Hình vuông có diện tích 16 cm². Cạnh của hình vuông đó dài",
+    [
+     "4 cm",
+     "8 cm",
+     "16 cm",
+     "2 cm"
+    ],
+    "Vì 4 x 4 = 16 nên cạnh hình vuông dài 4 cm."
+   ],
+   [
+    "Một mảnh sân hình chữ nhật có diện tích 30 cm², chiều dài 6 cm. Chiều rộng của mảnh sân là",
+    [
+     "5 cm",
+     "24 cm",
+     "36 cm",
+     "18 cm"
+    ],
+    "Chiều rộng hình chữ nhật bằng diện tích chia cho chiều dài, 30 : 6 = 5 cm."
+   ],
+   [
+    "Chu vi của một mảnh đất hình vuông là 40 m. Cạnh của mảnh đất đó dài",
+    [
+     "10 m",
+     "20 m",
+     "80 m",
+     "160 m"
+    ],
+    "Cạnh hình vuông bằng chu vi chia cho 4, vậy 40 : 4 = 10 m."
+   ],
+   [
+    "Một bức tranh hình chữ nhật có chu vi 50 cm, chiều dài 15 cm. Chiều rộng của bức tranh là",
+    [
+     "10 cm",
+     "35 cm",
+     "25 cm",
+     "20 cm"
+    ],
+    "Nửa chu vi là 50 : 2 = 25 cm, chiều rộng là 25 - 15 = 10 cm."
+   ],
+   [
+    "Hình vuông M có cạnh 6 cm, hình vuông N có cạnh 8 cm. Tổng diện tích của hai hình vuông đó là",
+    [
+     "100 cm²",
+     "28 cm²",
+     "48 cm²",
+     "196 cm²"
+    ],
+    "Diện tích hình M là 36 cm², hình N là 64 cm². Tổng diện tích là 36 + 64 = 100 cm²."
+   ],
+   [
+    "Một tấm bìa hình chữ nhật có chiều rộng 5 cm, chiều dài gấp 3 lần chiều rộng. Diện tích tấm bìa đó là",
+    [
+     "75 cm²",
+     "40 cm²",
+     "15 cm²",
+     "25 cm²"
+    ],
+    "Chiều dài là 5 x 3 = 15 cm. Diện tích là 15 x 5 = 75 cm²."
+   ],
+   [
+    "Bạn Mai cắt một tờ giấy màu hình chữ nhật dài 12 cm, rộng 7 cm thành hai phần. Diện tích tờ giấy màu ban đầu là",
+    [
+     "84 cm²",
+     "38 cm²",
+     "19 cm²",
+     "48 cm²"
+    ],
+    "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng, 12 x 7 = 84 cm²."
+   ],
+   [
+    "Một cái sân hình vuông có cạnh 9 m. Người ta lát gạch kín sân, mỗi mét vuông hết 2 viên gạch. Số viên gạch cần dùng là",
+    [
+     "162 viên",
+     "18 viên",
+     "36 viên",
+     "81 viên"
+    ],
+    "Diện tích sân là 9 x 9 = 81 m². Số gạch cần dùng là 81 x 2 = 162 viên."
+   ],
+   [
+    "Bác Nam có mảnh vườn hình chữ nhật chiều dài 20 m, chiều rộng 10 m. Bác muốn rào xung quanh bằng 3 vòng thép gai. Độ dài sợi dây thép gai bác cần dùng là",
+    [
+     "180 m",
+     "60 m",
+     "120 m",
+     "300 m"
+    ],
+    "Chu vi mảnh vườn là (20 + 10) x 2 = 60 m. Rào 3 vòng cần 60 x 3 = 180 m thép."
+   ],
+   [
+    "Một khung ảnh hình chữ nhật có chiều dài 30 cm, chiều rộng 20 cm. Người ta nẹp viền gỗ xung quanh khung ảnh đó. Độ dài viền gỗ cần dùng là",
+    [
+     "100 cm",
+     "50 cm",
+     "600 cm",
+     "60 cm"
+    ],
+    "Độ dài viền gỗ chính là chu vi khung ảnh, bằng (30 + 20) x 2 = 100 cm."
+   ],
+   [
+    "Hình chữ nhật A có chiều dài 12 cm, chiều rộng 4 cm. Hình vuông B có cạnh 8 cm. Hiệu diện tích giữa hình B và hình A là",
+    [
+     "16 cm²",
+     "16 cm",
+     "48 cm²",
+     "64 cm²"
+    ],
+    "Diện tích hình A là 48 cm², diện tích hình B là 64 cm². Hiệu diện tích là 64 - 48 = 16 cm²."
+   ],
+   [
+    "Người ta ghép 4 miếng bìa hình vuông cạnh 3 cm thành một hình chữ nhật lớn. Chu vi của hình chữ nhật lớn đó là",
+    [
+     "30 cm",
+     "24 cm",
+     "36 cm",
+     "12 cm"
+    ],
+    "Có thể ghép thành hình chữ nhật dài 12 cm, rộng 3 cm. Chu vi là (12 + 3) x 2 = 30 cm."
+   ],
+   [
+    "Một căn phòng hình chữ nhật có chiều dài 6 m, chiều rộng 4 m. Người ta dùng các viên gạch hình vuông cạnh 2 dm để lát nền. Số viên gạch cần dùng là",
+    [
+     "600 viên",
+     "24 viên",
+     "120 viên",
+     "2400 viên"
+    ],
+    "Đổi 6 m = 60 dm, 4 m = 40 dm. Diện tích phòng là 2400 dm². Diện tích một viên gạch là 4 dm². Số gạch là 2400 : 4 = 600 viên."
+   ]
+  ]
+ }
+}

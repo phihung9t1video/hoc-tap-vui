@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c12": [
+   [
+    "Kết quả của phép tính nhẩm 80 000 − 30 000 là bao nhiêu?",
+    [
+     "50 000",
+     "40 000",
+     "60 000",
+     "500 000"
+    ],
+    "Ta lấy 8 chục nghìn trừ 3 chục nghìn bằng 5 chục nghìn (50 000)."
+   ],
+   [
+    "Đặt tính rồi tính kết quả của phép cộng: 32 415 + 45 231.",
+    [
+     "77 646",
+     "77 645",
+     "77 676",
+     "67 646"
+    ],
+    "Thực hiện cộng lần lượt từ phải sang trái: 5 + 1 = 6, 1 + 3 = 4, 4 + 2 = 6, 2 + 5 = 7, 3 + 4 = 7. Kết quả là 77 646."
+   ],
+   [
+    "Hiệu của 68 942 và 24 510 là bao nhiêu?",
+    [
+     "44 432",
+     "44 422",
+     "44 332",
+     "93 452"
+    ],
+    "Thực hiện phép trừ 68 942 − 24 510 từ phải sang trái ta thu được kết quả là 44 432."
+   ],
+   [
+    "Kết quả của phép tính 15 820 + 24 165 là:",
+    [
+     "39 985",
+     "39 975",
+     "39 885",
+     "40 000"
+    ],
+    "Ta cộng lần lượt từ hàng đơn vị sang hàng chục nghìn thu được kết quả 39 985."
+   ],
+   [
+    "Cho phép tính: 56 789 − 12 345. Chữ số ở hàng chục nghìn của kết quả là chữ số nào?",
+    [
+     "4",
+     "3",
+     "5",
+     "2"
+    ],
+    "Hiệu là 44 444, vậy chữ số ở hàng chục nghìn là 4 (hoặc lấy 5 chục nghìn trừ 1 chục nghìn bằng 4 chục nghìn)."
+   ],
+   [
+    "Kết quả của phép tính 62 835 + 19 247 là bao nhiêu?",
+    [
+     "82 082",
+     "81 082",
+     "82 072",
+     "81 982"
+    ],
+    "Cộng có nhớ lần lượt từ phải sang trái: 62 835 + 19 247 = 82 082."
+   ],
+   [
+    "Kết quả của phép tính 85 412 − 38 256 là bao nhiêu?",
+    [
+     "47 156",
+     "47 256",
+     "47 166",
+     "57 156"
+    ],
+    "Thực hiện phép trừ có nhớ từ phải sang trái: 85 412 − 38 256 = 47 156."
+   ],
+   [
+    "Một cửa hàng ngày thứ nhất bán được 18 250 kg gạo, ngày thứ hai bán được ít hơn ngày thứ nhất 3 120 kg gạo. Hỏi ngày thứ hai cửa hàng bán được bao nhiêu ki-lô-gam gạo?",
+    [
+     "15 130 kg",
+     "21 370 kg",
+     "15 120 kg",
+     "15 030 kg"
+    ],
+    "Số gạo ngày thứ hai bán được là: 18 250 − 3 120 = 15 130 (kg)."
+   ],
+   [
+    "Biết số bị trừ là 92 500 và hiệu là 41 200. Số trừ là bao nhiêu?",
+    [
+     "51 300",
+     "133 700",
+     "51 200",
+     "50 300"
+    ],
+    "Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu: 92 500 − 41 200 = 51 300."
+   ],
+   [
+    "So sánh hai biểu thức A = 25 000 + 35 000 và B = 90 000 − 28 000.",
+    [
+     "A < B",
+     "A > B",
+     "A = B",
+     "Không so sánh được"
+    ],
+    "Ta có A = 60 000 và B = 62 000. Vì 60 000 < 62 000 nên A < B."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 74 125 − 23 100 ... 51 025.",
+    [
+     "=",
+     ">",
+     "<",
+     "Không có dấu nào"
+    ],
+    "Ta tính 74 125 − 23 100 = 51 025. Do đó điền dấu bằng (=)."
+   ],
+   [
+    "Cho dãy số: 10 000, 25 000, 40 000, ..., 70 000. Số thích hợp điền vào chỗ chấm là:",
+    [
+     "55 000",
+     "50 000",
+     "60 000",
+     "45 000"
+    ],
+    "Quy luật dãy số là cộng thêm 15 000 vào mỗi số đứng trước. Vậy số cần tìm là: 40 000 + 15 000 = 55 000."
+   ],
+   [
+    "An nhẩm tính: “100 000 trừ đi 45 000 rồi trừ tiếp 25 000 được kết quả là 30 000”. Hỏi An tính đúng hay sai?",
+    [
+     "Đúng",
+     "Sai",
+     "Không xác định",
+     "Cần tính lại"
+    ],
+    "Ta có: 100 000 − 45 000 = 55 000, sau đó 55 000 − 25 000 = 30 000. Vậy An tính đúng."
+   ],
+   [
+    "Một xưởng may tuần thứ nhất may được 12 400 cái áo. Tuần thứ hai xưởng may được nhiều hơn tuần thứ nhất 2 200 cái áo. Hỏi cả hai tuần xưởng đó may được bao nhiêu cái áo?",
+    [
+     "27 000 cái áo",
+     "14 600 cái áo",
+     "24 600 cái áo",
+     "26 800 cái áo"
+    ],
+    "Tuần thứ hai may được: 12 400 + 2 200 = 14 600 (cái áo). Cả hai tuần may được: 12 400 + 14 600 = 27 000 (cái áo)."
+   ],
+   [
+    "Quãng đường từ tỉnh A đến tỉnh B dài 48 500 m. Một người đi xe máy từ A hướng về B, đã đi được 23 800 m. Hỏi người đó còn cách tỉnh B bao nhiêu mét?",
+    [
+     "24 700 m",
+     "25 700 m",
+     "24 300 m",
+     "72 300 m"
+    ],
+    "Người đó còn cách tỉnh B số mét là: 48 500 − 23 800 = 24 700 (m)."
+   ],
+   [
+    "Bác Hòa thu hoạch được 32 500 kg cam. Sau khi bán đi một số ki-lô-gam cam thì bác còn lại 14 200 kg cam. Hỏi bác Hòa đã bán được bao nhiêu ki-lô-gam cam?",
+    [
+     "18 300 kg",
+     "46 700 kg",
+     "18 200 kg",
+     "17 300 kg"
+    ],
+    "Số ki-lô-gam cam bác Hòa đã bán là: 32 500 − 14 200 = 18 300 (kg)."
+   ],
+   [
+    "Tính nhẩm: 60 000 + 30 000 = ?",
+    [
+     "90 000",
+     "80 000",
+     "900 000",
+     "9 000"
+    ],
+    "Ta lấy 6 chục nghìn cộng 3 chục nghìn bằng 9 chục nghìn, tức là 90 000."
+   ],
+   [
+    "Tính nhẩm: 70 000 − 40 000 = ?",
+    [
+     "30 000",
+     "40 000",
+     "3 000",
+     "20 000"
+    ],
+    "Ta lấy 7 chục nghìn trừ 4 chục nghìn bằng 3 chục nghìn, tức là 30 000."
+   ],
+   [
+    "Kết quả của phép tính 50 000 + 50 000 là bao nhiêu?",
+    [
+     "100 000",
+     "10 000",
+     "90 000",
+     "1 000 000"
+    ],
+    "Ta có 5 chục nghìn cộng 5 chục nghìn bằng 10 chục nghìn, tức là 100 000."
+   ],
+   [
+    "Số gồm 8 chục nghìn và 5 nghìn trừ đi 3 chục nghìn thì bằng bao nhiêu?",
+    [
+     "55 000",
+     "82 000",
+     "50 000",
+     "35 000"
+    ],
+    "Số ban đầu là 85 000. Lấy 85 000 trừ 30 000 ta được 55 000."
+   ],
+   [
+    "Kết quả của phép tính 41 235 + 23 412 là bao nhiêu?",
+    [
+     "64 647",
+     "64 648",
+     "64 657",
+     "54 647"
+    ],
+    "Thực hiện cộng lần lượt từng hàng từ phải sang trái ta được 64 647."
+   ],
+   [
+    "Hiệu của 75 892 và 31 641 là bao nhiêu?",
+    [
+     "44 251",
+     "44 241",
+     "44 151",
+     "34 251"
+    ],
+    "Thực hiện trừ lần lượt từng hàng từ phải sang trái ta được 44 251."
+   ],
+   [
+    "Kết quả của phép tính 18 243 + 26 138 là:",
+    [
+     "44 381",
+     "44 371",
+     "44 281",
+     "43 381"
+    ],
+    "Đặt tính rồi tính từ phải sang trái: 18 243 + 26 138 = 44 381."
+   ],
+   [
+    "Phép tính 63 514 − 28 172 có kết quả là:",
+    [
+     "35 342",
+     "35 332",
+     "35 442",
+     "45 342"
+    ],
+    "Đặt tính rồi tính từ phải sang trái: 63 514 − 28 172 = 35 342."
+   ],
+   [
+    "Giá trị của biểu thức 12 000 + 8 000 − 5 000 là bao nhiêu?",
+    [
+     "15 000",
+     "20 000",
+     "25 000",
+     "10 000"
+    ],
+    "Tính từ trái sang phải: 12 000 + 8 000 = 20 000, sau đó 20 000 − 5 000 = 15 000."
+   ],
+   [
+    "Số thích hợp điền vào chỗ chấm trong phép tính: ... + 15 000 = 45 000 là:",
+    [
+     "30 000",
+     "60 000",
+     "20 000",
+     "35 000"
+    ],
+    "Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết: 45 000 − 15 000 = 30 000."
+   ],
+   [
+    "Cho phép tính: 98 765 − 43 210 = 55 555. Chữ số ở hàng nghìn của hiệu là chữ số nào?",
+    [
+     "5",
+     "0",
+     "8",
+     "4"
+    ],
+    "Hiệu là 55 555, chữ số ở hàng nghìn của số này là 5."
+   ],
+   [
+    "Năm ngoái một huyện trồng được 35 400 cây xanh. Năm nay huyện đó trồng thêm được 12 300 cây xanh. Hỏi cả hai năm huyện đó trồng được bao nhiêu cây xanh?",
+    [
+     "47 700 cây",
+     "23 100 cây",
+     "47 100 cây",
+     "48 700 cây"
+    ],
+    "Cả hai năm trồng được số cây là: 35 400 + 12 300 = 47 700 (cây)."
+   ],
+   [
+    "Một kho gạo có 68 500 kg gạo. Người ta đã xuất đi 24 300 kg gạo. Hỏi trong kho còn lại bao nhiêu ki-lô-gam gạo?",
+    [
+     "44 200 kg",
+     "92 800 kg",
+     "44 800 kg",
+     "42 200 kg"
+    ],
+    "Trong kho còn lại số gạo là: 68 500 − 24 300 = 44 200 (kg)."
+   ],
+   [
+    "Điền dấu thích hợp vào chỗ chấm: 30 000 + 40 000 ... 100 000 − 20 000.",
+    [
+     "<",
+     ">",
+     "═",
+     "Không so sánh được"
+    ],
+    "Vế trái = 70 000, vế phải = 80 000. Vì 70 000 < 80 000 nên điền dấu <."
+   ],
+   [
+    "Bình nhẩm tính: “Lấy 50 000 cộng với 30 000 rồi trừ đi 10 000 thì được 70 000”. Hỏi Bình tính đúng hay sai?",
+    [
+     "Đúng",
+     "Sai",
+     "Không tính được",
+     "Kết quả là 80 000"
+    ],
+    "Ta có: 50 000 + 30 000 = 80 000, tiếp tục 80 000 − 10 000 = 70 000. Vậy Bình tính đúng."
+   ],
+   [
+    "Cho hai biểu thức: M = 45 000 + 15 000 và N = 90 000 − 25 000. Phát biểu nào sau đây đúng?",
+    [
+     "M < N",
+     "M > N",
+     "M = N",
+     "M lớn hơn N 5 000 đơn vị"
+    ],
+    "M = 60 000 và N = 65 000. Do 60 000 < 65 000 nên M < N."
+   ],
+   [
+    "Đã có 14 500 người vào xem một trận thi đấu bóng đá. Sau đó có thêm 3 200 người nữa vào sân. Hỏi lúc này có tất cả bao nhiêu người xem trận thi đấu?",
+    [
+     "17 700 người",
+     "11 300 người",
+     "17 500 người",
+     "16 700 người"
+    ],
+    "Lúc này có tất cả số người là: 14 500 + 3 200 = 17 700 (người)."
+   ],
+   [
+    "Một trang trại nuôi 15 000 con vịt. Số gà nhiều hơn số vịt là 4 500 con. Hỏi trang trại đó nuôi tất cả bao nhiêu con gà và vịt?",
+    [
+     "34 500 con",
+     "19 500 con",
+     "29 500 con",
+     "10 500 con"
+    ],
+    "Số gà là 15 000 + 4 500 = 19 500 con. Tổng số gà và vịt là 15 000 + 19 500 = 34 500 con."
+   ],
+   [
+    "Đạn xe đạp giá 35 000 đồng, một bộ bơm xe giá 25 000 đồng. Nam đưa cho cô bán hàng tờ tiền 100 000 đồng. Hỏi cô bán hàng phải trả lại Nam bao nhiêu tiền?",
+    [
+     "40 000 đồng",
+     "60 000 đồng",
+     "50 000 đồng",
+     "30 000 đồng"
+    ],
+    "Tổng số tiền mua đồ là 35 000 + 25 000 = 60 000 đồng. Số tiền nhận lại là 100 000 − 60 000 = 40 000 đồng."
+   ],
+   [
+    "Một quãng đường dài 25 000 m. Đội công nhân đã sửa được 11 000 m ở đoạn đầu và 8 000 m ở đoạn cuối. Hỏi còn bao nhiêu mét đường chưa được sửa?",
+    [
+     "6 000 m",
+     "19 000 m",
+     "14 000 m",
+     "7 000 m"
+    ],
+    "Số mét đường đã sửa là 11 000 + 8 000 = 19 000 m. Số mét đường chưa sửa là 25 000 − 19 000 = 6 000 m."
+   ],
+   [
+    "Tính nhẩm: 90 000 − 50 000 = ?",
+    [
+     "40 000",
+     "50 000",
+     "30 000",
+     "140 000"
+    ],
+    "Nhẩm: 9 chục nghìn − 5 chục nghìn = 4 chục nghìn (40 000)."
+   ],
+   [
+    "Số gồm 4 chục nghìn, 6 nghìn và 3 trăm cộng với 2 chục nghìn thì được kết quả là bao nhiêu?",
+    [
+     "66 300",
+     "48 300",
+     "66 030",
+     "46 500"
+    ],
+    "Số đó là 46 300. Ta có: 46 300 + 20 000 = 66 300."
+   ],
+   [
+    "Tìm x, biết: x − 21 305 = 43 280.",
+    [
+     "64 585",
+     "21 975",
+     "64 500",
+     "22 025"
+    ],
+    "Muốn tìm số bị trừ x, ta lấy hiệu cộng với số trừ: x = 43 280 + 21 305 = 64 585."
+   ],
+   [
+    "Cho phép tính: 84 520 − 31 280 = 53 240. Chữ số ở hàng trăm của hiệu là chữ số nào?",
+    [
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "Hiệu của phép tính là 53 240, chữ số đứng ở hàng trăm là 2."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c15": [
+   [
+    "Trong hộp chỉ có 4 chiếc bút mực màu xanh. Bạn Nam nhắm mắt lấy ra 1 chiếc bút. Khả năng Nam lấy được chiếc bút màu xanh là gì?",
+    [
+     "Chắc chắn",
+     "Có thể",
+     "Không thể",
+     "Chưa biết"
+    ],
+    "Vì trong hộp chỉ toàn là bút màu xanh nên khi lấy ngẫu nhiên 1 chiếc bút, chắc chắn chiếc bút đó sẽ có màu xanh."
+   ],
+   [
+    "Trong túi có 2 quả bóng màu vàng và 2 quả bóng màu đỏ. Bạn Mai nhắm mắt lấy ra 1 quả bóng. Khả năng Mai lấy được quả bóng màu đỏ là gì?",
+    [
+     "Có thể",
+     "Chắc chắn",
+     "Không thể",
+     "Luôn luôn"
+    ],
+    "Trong túi có cả bóng màu đỏ và bóng màu vàng nên bạn Mai có thể lấy được quả bóng màu đỏ."
+   ],
+   [
+    "Bạn Hà quay một kim chỉ trên đĩa tròn gồm 3 phần bằng nhau mang các số 2, 4, 6. Khả năng kim chỉ dừng lại ở ô mang số 5 là gì?",
+    [
+     "Không thể",
+     "Có thể",
+     "Chắc chắn",
+     "Luôn luôn"
+    ],
+    "Trên đĩa tròn không có ô mang số 5 nên kim chỉ không thể dừng lại ở ô mang số 5."
+   ],
+   [
+    "An gieo một con xúc xắc 6 mặt cân đối. Khả năng xuất hiện mặt có số chấm lớn hơn 0 là gì?",
+    [
+     "Chắc chắn",
+     "Có thể",
+     "Không thể",
+     "Chưa xác định"
+    ],
+    "Các mặt của con xúc xắc có số chấm từ 1 đến 6 đều lớn hơn 0, nên kết quả xuất hiện chắc chắn lớn hơn 0."
+   ],
+   [
+    "Kết quả kiểm tra số lượng gấu bông của 4 bạn như sau: Bình có 5 con, Hoa có 8 con, Lan có 3 con, Tuấn có 8 con. Bạn nào có ít gấu bông nhất?",
+    [
+     "Lan",
+     "Bình",
+     "Hoa",
+     "Tuấn"
+    ],
+    "So sánh số gấu bông của 4 bạn: 3 < 5 < 8, vậy bạn Lan có ít gấu bông nhất (3 con)."
+   ],
+   [
+    "Một khay bánh có 4 loại bánh với số lượng: bánh quy 12 chiếc, bánh su kem 18 chiếc, bánh rán 15 chiếc, bánh mì 9 chiếc. Loại bánh nào có số lượng ít nhất?",
+    [
+     "Bánh mì",
+     "Bánh quy",
+     "Bánh rán",
+     "Bánh su kem"
+    ],
+    "So sánh số lượng các loại bánh: 9 < 12 < 15 < 18, nên bánh mì có số lượng ít nhất."
+   ],
+   [
+    "Số lượt xe đi qua cổng trường trong 10 phút gồm: xe đạp 14 chiếc, xe máy 25 chiếc, xe ô tô 8 chiếc, xe buýt 2 chiếc. Loại xe nào đi qua cổng trường nhiều nhất?",
+    [
+     "Xe máy",
+     "Xe đạp",
+     "Xe ô tô",
+     "Xe buýt"
+    ],
+    "So sánh số lượng xe: 25 > 14 > 8 > 2, nên xe máy là loại xe đi qua nhiều nhất."
+   ],
+   [
+    "Hộp hoa quả có: 10 quả cam, 15 quả táo, 8 quả lê và 12 quả xoài. Loại quả nào có số lượng ít nhất?",
+    [
+     "Lê",
+     "Cam",
+     "Xoài",
+     "Táo"
+    ],
+    "So sánh số lượng quả: 8 < 10 < 12 < 15, vậy quả lê có số lượng ít nhất."
+   ],
+   [
+    "Kết quả thu thập về số vở thu gom kế hoạch nhỏ của các tổ: Tổ 1 thu 35 quyển, Tổ 2 thu 42 quyển, Tổ 3 thu 38 quyển. Tổ 2 thu gom nhiều hơn Tổ 1 bao nhiêu quyển vở?",
+    [
+     "7 quyển",
+     "4 quyển",
+     "3 quyển",
+     "12 quyển"
+    ],
+    "Tổ 2 thu nhiều hơn Tổ 1 số quyển vở là: 42 - 35 = 7 (quyển)."
+   ],
+   [
+    "Một tổ công nhân làm được số sản phẩm trong 3 ngày: ngày đầu 45 sản phẩm, ngày thứ hai 50 sản phẩm, ngày thứ ba 40 sản phẩm. Cả ba ngày tổ đó làm được bao nhiêu sản phẩm?",
+    [
+     "135 sản phẩm",
+     "125 sản phẩm",
+     "140 sản phẩm",
+     "130 sản phẩm"
+    ],
+    "Cả ba ngày tổ đó làm được tất cả số sản phẩm là: 45 + 50 + 40 = 135 (sản phẩm)."
+   ],
+   [
+    "Kết quả bình chọn cây cảnh yêu thích của các bạn nhỏ: cây hoa hồng 18 bạn, cây hoa cúc 11 bạn, cây hoa lan 15 bạn. Số bạn chọn hoa hồng nhiều hơn số bạn chọn hoa cúc là bao nhiêu?",
+    [
+     "7 bạn",
+     "3 bạn",
+     "4 bạn",
+     "8 bạn"
+    ],
+    "Số bạn thích hoa hồng nhiều hơn số bạn thích hoa cúc là: 18 - 11 = 7 (bạn)."
+   ],
+   [
+    "Bạn Minh đếm số con vật nuôi trong trang trại: gà 55 con, vịt 40 con, lợn 15 con, bò 8 con. Tổng số con gà và con vịt là bao nhiêu?",
+    [
+     "95 con",
+     "70 con",
+     "55 con",
+     "118 con"
+    ],
+    "Tổng số con gà và vịt trong trang trại là: 55 + 40 = 95 (con)."
+   ],
+   [
+    "Thống kê số điểm 10 môn Toán của lớp 3B trong 4 tuần: Tuần 1 được 12 điểm 10, Tuần 2 được 15 điểm 10, Tuần 3 được 9 điểm 10, Tuần 4 được 14 điểm 10. Tuần nào lớp 3B đạt ít điểm 10 nhất?",
+    [
+     "Tuần 3",
+     "Tuần 1",
+     "Tuần 2",
+     "Tuần 4"
+    ],
+    "So sánh số điểm 10 thu được: 9 < 12 < 14 < 15, vậy Tuần 3 đạt ít điểm 10 nhất."
+   ],
+   [
+    "Một thư viện thu thập số lượt học sinh đến đọc sách trong tuần: Thứ Hai 45 lượt, Thứ Ba 52 lượt, Thứ Tư 38 lượt, Thứ Năm 48 lượt. Tổng số lượt khách đến đọc sách trong Thứ Hai và Thứ Ba là bao nhiêu?",
+    [
+     "97 lượt",
+     "90 lượt",
+     "86 lượt",
+     "100 lượt"
+    ],
+    "Tổng số lượt đọc sách trong Thứ Hai và Thứ Ba là: 45 + 52 = 97 (lượt)."
+   ],
+   [
+    "Trong túi có các tấm thẻ ghi số: 10, 20, 30, 40. Rút ngẫu nhiên một tấm thẻ, khả năng rút được tấm thẻ ghi số lẻ là gì?",
+    [
+     "Không thể",
+     "Chắc chắn",
+     "Có thể",
+     "Luôn luôn"
+    ],
+    "Các số 10, 20, 30, 40 đều là số chẵn nên không thể rút được tấm thẻ ghi số lẻ."
+   ],
+   [
+    "Thống kê số kg giấy vụn các lớp khối 3 quyên góp: Lớp 3A gom 28 kg, Lớp 3B gom 32 kg, Lớp 3C gom 25 kg, Lớp 3D gom 35 kg. Hiệu số kg giấy vụn giữa lớp gom nhiều nhất và lớp gom ít nhất là bao nhiêu?",
+    [
+     "10 kg",
+     "7 kg",
+     "12 kg",
+     "8 kg"
+    ],
+    "Lớp gom nhiều nhất là 3D (35 kg), lớp gom ít nhất là 3C (25 kg). Hiệu số kg là: 35 - 25 = 10 (kg)."
+   ],
+   [
+    "Mẹ đi chợ mua các loại quả: 2 kg cam, 3 kg xoài, 1 kg dưa hấu, 2 kg táo. Tổng khối lượng hoa quả mẹ đã mua là bao nhiêu?",
+    [
+     "8 kg",
+     "7 kg",
+     "9 kg",
+     "6 kg"
+    ],
+    "Tổng khối lượng hoa quả mẹ mua là: 2 + 3 + 1 + 2 = 8 (kg)."
+   ],
+   [
+    "Thống kê số trang sách bạn Việt đã đọc: Ngày 1 đọc 15 trang, Ngày 2 đọc 20 trang, Ngày 3 đọc 25 trang. Trung bình mỗi ngày Việt đọc được bao nhiêu trang sách?",
+    [
+     "20 trang",
+     "15 trang",
+     "25 trang",
+     "60 trang"
+    ],
+    "Tổng số trang Việt đọc trong 3 ngày là 15 + 20 + 25 = 60 trang. Số trang trung bình đọc mỗi ngày là: 60 : 3 = 20 (trang)."
+   ],
+   [
+    "Trong hộp có 1 chiếc thước kẻ dài 15 cm và 1 chiếc thước kẻ dài 20 cm. Lấy ra ngẫu nhiên 1 chiếc thước, khả năng lấy được chiếc thước dài hơn 10 cm là gì?",
+    [
+     "Chắc chắn",
+     "Có thể",
+     "Không thể",
+     "Chưa thể biết"
+    ],
+    "Cả hai chiếc thước đều có độ dài lớn hơn 10 cm (15 cm và 20 cm) nên chắc chắn lấy được chiếc thước dài hơn 10 cm."
+   ],
+   [
+    "Kết quả khảo sát món ăn sáng yêu thích của học sinh: Xôi 14 bạn, Phở 18 bạn, Bánh mì 22 bạn, Miến 6 bạn. Tổng số bạn tham gia khảo sát món ăn sáng là bao nhiêu?",
+    [
+     "60 bạn",
+     "54 bạn",
+     "40 bạn",
+     "50 bạn"
+    ],
+    "Tổng số bạn tham gia khảo sát là: 14 + 18 + 22 + 6 = 60 (bạn)."
+   ],
+   [
+    "Số bạn thích các môn thể thao được ghi lại như sau: Bóng rổ 11 bạn, Cầu lông 13 bạn, Đá cầu 9 bạn, Chạy nhanh 15 bạn. Môn nào được ít bạn thích nhất?",
+    [
+     "Đá cầu",
+     "Bóng rổ",
+     "Cầu lông",
+     "Chạy nhanh"
+    ],
+    "So sánh các số 11, 13, 9, 15 ta thấy số 9 là nhỏ nhất, ứng với môn Đá cầu."
+   ],
+   [
+    "Thống kê số lượng cây xanh các lớp trồng được: Lớp 3A trồng 22 cây, Lớp 3B trồng 30 cây, Lớp 3C trồng 27 cây. Lớp trồng được nhiều cây nhất là:",
+    [
+     "Lớp 3B",
+     "Lớp 3A",
+     "Lớp 3C",
+     "Không có lớp nào"
+    ],
+    "So sánh số cây của các lớp: 30 lớn nhất, ứng với Lớp 3B."
+   ],
+   [
+    "Trong hộp có 3 quả bóng xanh và 3 quả bóng vàng có kích thước giống nhau. Không nhìn vào hộp, Mai lấy ra 1 quả bóng. Khả năng Mai lấy được quả bóng màu xanh là:",
+    [
+     "Có thể",
+     "Chắc chắn",
+     "Không thể",
+     "Không xác định"
+    ],
+    "Vì trong hộp có cả bóng xanh và bóng vàng nên việc lấy được quả bóng màu xanh là có thể xảy ra."
+   ],
+   [
+    "Biểu đồ tranh thể hiện số sao điểm tốt của tổ 1: Tổ trưởng 12 sao, Tổ phó 15 sao, Bạn Hoa 10 sao, Bạn Nam 14 sao. Ai có số sao điểm tốt nhiều nhất?",
+    [
+     "Tổ phó",
+     "Tổ trưởng",
+     "Bạn Hoa",
+     "Bạn Nam"
+    ],
+    "So sánh các số sao 12, 15, 10, 14 thì 15 là số lớn nhất, thuộc về Tổ phó."
+   ],
+   [
+    "Gieo một con xúc xắc 6 mặt. Khả năng xuất hiện mặt có số chấm là 7 là:",
+    [
+     "Không thể",
+     "Có thể",
+     "Chắc chắn",
+     "Chưa biết"
+    ],
+    "Xúc xắc 6 mặt chỉ có các số chấm từ 1 đến 6, không có mặt nào 7 chấm nên sự kiện này không thể xảy ra."
+   ],
+   [
+    "Thống kê số điểm 10 trong tháng của lớp 3A: Tổ 1 được 24 điểm, Tổ 2 được 29 điểm, Tổ 3 được 21 điểm. Tổ có số điểm 10 ít nhất là:",
+    [
+     "Tổ 3",
+     "Tổ 1",
+     "Tổ 2",
+     "Cả ba tổ bằng nhau"
+    ],
+    "So sánh các số 24, 29, 21 ta thấy 21 là nhỏ nhất, ứng với Tổ 3."
+   ],
+   [
+    "Hộp có 4 viên bi đỏ và không có viên bi nào khác. Nam nhắm mắt lấy ra 1 viên bi. Khả năng Nam lấy được viên bi màu đỏ là:",
+    [
+     "Chắc chắn",
+     "Có thể",
+     "Không thể",
+     "Không đoán được"
+    ],
+    "Vì trong hộp chỉ toàn bi đỏ nên việc lấy ra bi đỏ là chắc chắn xảy ra."
+   ],
+   [
+    "Số lượng các con vật trong cửa hàng: Chim 14 con, Cá cảnh 35 con, Thỏ 12 con, Rùa 8 con. Cửa hàng có tất cả bao nhiêu con thỏ và rùa?",
+    [
+     "20 con",
+     "22 con",
+     "47 con",
+     "26 con"
+    ],
+    "Tổng số thỏ và rùa là 12 cộng 8 bằng 20 con."
+   ],
+   [
+    "Một cửa hàng bán kem thống kê số lượng kem bán được trong 4 ngày: Thứ Hai 40 chiếc, Thứ Ba 55 chiếc, Thứ Tư 45 chiếc, Thứ Năm 50 chiếc. Ngày bán được nhiều kem nhất là:",
+    [
+     "Thứ Ba",
+     "Thứ Hai",
+     "Thứ Tư",
+     "Thứ Năm"
+    ],
+    "So sánh số kem bán được trong các ngày, 55 là số lớn nhất, ứng với ngày Thứ Ba."
+   ],
+   [
+    "Lớp 3A quyên góp sách vở tặng các bạn vùng cao: Sách giáo khoa 40 cuốn, Truyện đọc 25 cuốn, Vở ô ly 60 cuốn. Số vở ô ly nhiều hơn số truyện đọc bao nhiêu cuốn?",
+    [
+     "35 cuốn",
+     "15 cuốn",
+     "85 cuốn",
+     "40 cuốn"
+    ],
+    "Lấy số vở ô ly trừ đi số truyện đọc: 60 trừ 25 bằng 35 cuốn."
+   ],
+   [
+    "Bạn Hùng ghi lại số bước chân đi từ nhà đến trường qua các ngày: Thứ Hai 520 bước, Thứ Ba 490 bước, Thứ Tư 510 bước. Ngày Hùng đi ít bước nhất là:",
+    [
+     "Thứ Ba",
+     "Thứ Hai",
+     "Thứ Tư",
+     "Các ngày như nhau"
+    ],
+    "So sánh các số 520, 490, 510 ta thấy 490 là nhỏ nhất, ứng với Thứ Ba."
+   ],
+   [
+    "Trong hộp có 5 thẻ ghi các số 1, 3, 5, 7, 9. Rút ngẫu nhiên một thẻ, khả năng rút được thẻ ghi số chẵn là:",
+    [
+     "Không thể",
+     "Có thể",
+     "Chắc chắn",
+     "Đôi khi xảy ra"
+    ],
+    "Các số trên thẻ đều là số lẻ nên không thể rút được số chẵn."
+   ],
+   [
+    "Thống kê số huy động vốn kế hoạch nhỏ của các khối lớp: Khối 3 thu được 45 kg, Khối 4 thu được 60 kg, Khối 5 thu được 55 kg. Khối thu được ít giấy vụn nhất là:",
+    [
+     "Khối 3",
+     "Khối 4",
+     "Khối 5",
+     "Khối 3 và Khối 5"
+    ],
+    "So sánh 45, 60, 55 thì 45 là nhỏ nhất, ứng với Khối 3."
+   ],
+   [
+    "Quay vòng quay may mắn chia làm 4 phần bằng nhau có ghi các màu: Xanh, Đỏ, Tím, Vàng. Khả năng kim chỉ dừng lại ở phần màu đen là:",
+    [
+     "Không thể",
+     "Có thể",
+     "Chắc chắn",
+     "Luôn luôn"
+    ],
+    "Trên vòng quay không có ô màu đen nên kim chỉ không thể dừng lại ở màu đen."
+   ],
+   [
+    "Lớp 3B bình chọn con vật yêu thích: Chó 16 bạn, Mèo 14 bạn, Chim 10 bạn, Thỏ 18 bạn. Tổng số bạn tham gia bình chọn con vật yêu thích là:",
+    [
+     "58 bạn",
+     "50 bạn",
+     "40 bạn",
+     "60 bạn"
+    ],
+    "Cộng tất cả số bạn: 16 cộng 14 cộng 10 cộng 18 bằng 58 bạn."
+   ],
+   [
+    "Một trang trại nuôi gia cầm thống kê số lượng: Gà 210 con, Vịt 180 con, Ngan 90 con. Số con gà nhiều hơn số con ngan là bao nhiêu?",
+    [
+     "120 con",
+     "30 con",
+     "110 con",
+     "130 con"
+    ],
+    "Lấy số gà trừ đi số ngan: 210 trừ 90 bằng 120 con."
+   ],
+   [
+    "Trong rổ có 6 quả cam lành và 2 quả cam hỏng. Lấy ngẫu nhiên 1 quả cam từ rổ. Khả năng lấy được quả cam hỏng là:",
+    [
+     "Có thể",
+     "Chắc chắn",
+     "Không thể",
+     "Không bao giờ"
+    ],
+    "Vì trong rổ có chứa cả cam lành và cam hỏng nên việc lấy được quả cam hỏng là hoàn toàn có thể."
+   ],
+   [
+    "Một chiếc hộp chứa 6 quả bóng màu tím và không có quả bóng nào màu khác. Bạn Linh nhắm mắt lấy ra 1 quả bóng từ hộp. Sự kiện nào sau đây chắc chắn xảy ra?",
+    [
+     "Linh lấy được quả bóng màu tím",
+     "Linh lấy được quả bóng màu vàng",
+     "Linh không lấy được quả bóng nào",
+     "Linh lấy được quả bóng màu đỏ"
+    ],
+    "Vì trong hộp chỉ toàn bóng màu tím nên Linh chắc chắn sẽ lấy được quả bóng màu tím."
+   ],
+   [
+    "Bạn An kiểm tra tủ sách gia đình và ghi chép lại số lượng: Sách toán có 14 quyển, Truyện tranh có 28 quyển, Sách tiếng Anh có 19 quyển, Tạp chí có 7 quyển. Loại sách nào có số lượng đúng 19 quyển?",
+    [
+     "Sách tiếng Anh",
+     "Truyện tranh",
+     "Sách toán",
+     "Tạp chí"
+    ],
+    "Dựa vào danh sách ghi chép của An, loại sách có số lượng 19 quyển là sách tiếng Anh."
+   ],
+   [
+    "Thống kê số lượng cây ăn quả trong vườn nhà bác Hòa: 15 cây xoài, 25 cây nhãn, 18 cây bưởi và 12 cây ổi. Hỏi số cây nhãn nhiều hơn số cây ổi bao nhiêu cây?",
+    [
+     "13 cây",
+     "10 cây",
+     "37 cây",
+     "7 cây"
+    ],
+    "Số cây nhãn nhiều hơn số cây ổi là 25 – 12 = 13 (cây)."
+   ]
+  ]
+ }
+}

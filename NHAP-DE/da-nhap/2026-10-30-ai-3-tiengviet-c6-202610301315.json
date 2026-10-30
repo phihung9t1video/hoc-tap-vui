@@ -1,0 +1,406 @@
+{
+ "3-tiengviet": {
+  "c6": [
+   [
+    "Dòng nào gồm các tiếng đều bắt đầu bằng âm tr?",
+    [
+     "trà, trứng, trống",
+     "trà, chững, trống",
+     "chà, trứng, trống",
+     "trà, trứng, chổng"
+    ],
+    "Các tiếng trà, trứng, trống đều bắt đầu bằng âm tr."
+   ],
+   [
+    "Điền vào chỗ trống: \"Mẹ mua cho em một chiếc cặp sách mới tinh.\". Từ nào viết đúng chính tả?",
+    [
+     "cặp sách",
+     "cắp sách",
+     "cặp sác",
+     "cắp sác"
+    ],
+    "Từ chỉ đồ dùng học tập là cặp sách, viết đúng âm đầu c và vần ạch."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ hoạt động của đôi mắt?",
+    [
+     "liếc",
+     "liết",
+     "líc",
+     "lít"
+    ],
+    "Hoạt động nhìn ngang bằng đuôi mắt gọi là liếc."
+   ],
+   [
+    "Phát hiện từ viết sai chính tả trong câu: \"Con đường làng ngoằn ngoèo uốn lượn.\"?",
+    [
+     "Không có từ nào viết sai",
+     "ngoằn ngoèo",
+     "uốn lượn",
+     "con đường"
+    ],
+    "Tất cả các từ trong câu trên đều được viết đúng chính tả."
+   ],
+   [
+    "Chọn từ viết đúng chính tả để điền vào câu: \"Bé chăm chú nghe cô giáo ... bài.\"",
+    [
+     "giảng",
+     "giản",
+     "gản",
+     "gỉang"
+    ],
+    "Hành động giải thích bài học của thầy cô giáo là giảng bài."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ người bạn nhỏ cùng học tập?",
+    [
+     "bạn thân",
+     "bạn thâm",
+     "bạng thân",
+     "bạn thâu"
+    ],
+    "Người bạn gắn bó, quý mến gọi là bạn thân."
+   ],
+   [
+    "Chọn từ viết đúng chính tả để điền vào câu: \"Mỗi khi đi học về, em luôn ... chào ông bà, cha mẹ.\"",
+    [
+     "khoanh tay",
+     "khoanh tai",
+     "khoang tay",
+     "khoang tai"
+    ],
+    "Hành động lễ phép khi chào người lớn là khoanh tay."
+   ],
+   [
+    "Tiếng nào chứa vần en (thay vì vần eng) khi viết về âm thanh của tiếng kẻng?",
+    [
+     "tiếng keng",
+     "tiếng kẻng",
+     "tiếng kẽng",
+     "tiếng kêng"
+    ],
+    "Tiếng chỉ tiếng động của cái kẻng viết đúng chính tả là tiếng kẻng, mang vần eng."
+   ],
+   [
+    "Điền chữ s hoặc x thích hợp vào chỗ trống: Chú mèo đang nằm sưởi ... trước hiên nhà.",
+    [
+     "nắng",
+     "nắn",
+     "nẵng",
+     "náng"
+    ],
+    "Từ chỉ ánh sáng và hơi ấm của mặt trời là nắng, bắt đầu bằng n."
+   ],
+   [
+    "Dòng nào gồm các từ đều viết đúng chính tả bắt đầu bằng âm l hoặc n?",
+    [
+     "lung linh, no đủ",
+     "nung linh, no đủ",
+     "lung linh, nơ đủ",
+     "nung linh, nơ đủ"
+    ],
+    "Các từ viết đúng chính tả là lung linh và no đủ."
+   ],
+   [
+    "Tìm từ viết đúng chính tả để điền vào câu: Đêm xuống, từng vòm ... nhấp nháy trên bầu trời.",
+    [
+     "sao",
+     "xao",
+     "são",
+     "xão"
+    ],
+    "Từ chỉ các vật thể sáng trên bầu trời đêm là sao, bắt đầu bằng s."
+   ],
+   [
+    "Phát hiện lỗi sai chính tả trong câu: Những giọt sương sớm long lanh trên lá.",
+    [
+     "Không có lỗi sai",
+     "Lỗi ở từ sương",
+     "Lỗi ở từ long",
+     "Lỗi ở từ lá"
+    ],
+    "Câu trên các từ đều được viết đúng chính tả."
+   ],
+   [
+    "Từ nào viết đúng chính tả chỉ một loài hoa màu vàng nở vào mùa xuân?",
+    [
+     "hoa mai",
+     "hoa nay",
+     "hoa may",
+     "hoa mây"
+    ],
+    "Loài hoa đặc trưng ngày Tết miền Nam là hoa mai."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ người dạy học cho chúng ta ở trường?",
+    [
+     "thầy giáo",
+     "thầy giao",
+     "thày giáo",
+     "thày giao"
+    ],
+    "Từ chỉ người dạy học là thầy giáo, vần ay kết hợp với dấu hỏi."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ dụng cụ dùng để gọt chì?",
+    [
+     "gọt bút chì",
+     "gọt búc chì",
+     "gọt bút chù",
+     "gọt búc chù"
+    ],
+    "Dụng cụ gọt bút chì viết đúng với vần út và ch."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ một người thân trong gia đình sinh ra bố?",
+    [
+     "ông nội",
+     "ông nọi",
+     "ôm nội",
+     "ôm nọi"
+    ],
+    "Người sinh ra bố gọi là ông nội, mang vần ôi và dấu nặng."
+   ],
+   [
+    "Từ nào viết đúng chính tả chỉ đồ vật dùng để đựng sách vở đến trường?",
+    [
+     "cặp sách",
+     "cặp sác",
+     "cập sách",
+     "cập sác"
+    ],
+    "Đồ vật đựng sách vở là cặp sách, mang dấu nặng và thanh sắc."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ hoạt động cùng nhau vui đùa của trẻ em?",
+    [
+     "trò chơi",
+     "trò chời",
+     "chò chơi",
+     "chò chời"
+    ],
+    "Hoạt động giải trí của trẻ em là trò chơi."
+   ],
+   [
+    "Từ nào viết đúng chính tả chỉ màu sắc của lá cây non?",
+    [
+     "màu xanh",
+     "màu xan",
+     "màu sênh",
+     "màu sên"
+    ],
+    "Màu sắc của lá cây non là màu xanh, bắt đầu bằng x."
+   ],
+   [
+    "Điền chữ ch hoặc tr vào chỗ trống: Chú chim nhỏ đang hót ...ên cành cây cao.",
+    [
+     "tr",
+     "ch",
+     "s",
+     "x"
+    ],
+    "Từ chỉ vị trí ở trên cao bắt đầu bằng âm tr."
+   ],
+   [
+    "Điền vần iêt hoặc iêc vào chỗ trống: Bé chăm chú viết bài vào vở s... mới.",
+    [
+     "iếc",
+     "iêt",
+     "iêm",
+     "iên"
+    ],
+    "Quyển vở sạch sẽ được gọi là vở viết, điền vần iêc."
+   ],
+   [
+    "Chọn từ viết đúng chính tả để điền vào chỗ trống: Gió thổi ... qua kẽ lá.",
+    [
+     "vi vu",
+     "ri ru",
+     "vi ru",
+     "ri vu"
+    ],
+    "Âm thanh của gió thổi là vi vu, viết bằng v."
+   ],
+   [
+    "Từ nào dưới đây viết đúng chính tả để chỉ hành động chăm sóc cây cối?",
+    [
+     "tưới cây",
+     "tưới cấy",
+     "tướt cây",
+     "tuới cây"
+    ],
+    "Hành động cho cây uống nước là tưới cây."
+   ],
+   [
+    "Điền dấu hỏi hoặc dấu ngã vào từ in nghiêng trong câu: Bầu trời đêm nay có rất nhiều ngôi sao lấp lanh.",
+    [
+     "lấp lánh",
+     "lấp lảnh",
+     "lấp lanh",
+     "lấp lạng"
+    ],
+    "Từ chỉ ánh sáng lóe lên rồi tắt liên tục là lấp lánh (dấu sắc)."
+   ],
+   [
+    "Tìm tiếng bắt đầu bằng âm s hoặc x để hoàn thành câu: Bé thích ăn quả ... xoài chín ngọt.",
+    [
+     "xanh",
+     "sanh",
+     "xăng",
+     "săng"
+    ],
+    "Màu của quả chưa chín là xanh, viết bằng x."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ người làm nhiệm vụ chữa bệnh cho bệnh nhân?",
+    [
+     "bác sĩ",
+     "bát sĩ",
+     "bác sỉ",
+     "bát sỉ"
+    ],
+    "Người khám chữa bệnh là bác sĩ, có chữ c và dấu hỏi."
+   ],
+   [
+    "Phát hiện lỗi sai chính tả trong câu: Ông đang ngồi uống nước trà ngoài sân.",
+    [
+     "Không có lỗi sai",
+     "uống",
+     "nước",
+     "trà"
+    ],
+    "Câu trên các từ đều được viết đúng chính tả."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ hoạt động cùng nhau chạy nhảy trên sân trường của học sinh?",
+    [
+     "vui đùa",
+     "vui dùm",
+     "sui đùa",
+     "vui đuà"
+    ],
+    "Hoạt động chơi đùa vui vẻ là vui đùa."
+   ],
+   [
+    "Điền chữ g hoặc gh vào chỗ trống: Đàn bò đang thong thả ...ặm cỏ trên đồng.",
+    [
+     "gặm",
+     "ghặm",
+     "rặm",
+     "dặm"
+    ],
+    "Trước âm ă, ta dùng chữ g đơn để viết tiếng gặm."
+   ],
+   [
+    "Từ nào viết đúng chính tả chỉ loài hoa thường nở rực rỡ vào dịp Tết ở miền Nam?",
+    [
+     "hoa mai",
+     "hoa may",
+     "hoa mài",
+     "hoa mây"
+    ],
+    "Loài hoa màu vàng đặc trưng ngày Tết miền Nam là hoa mai."
+   ],
+   [
+    "Điền c hoặc k vào chỗ trống: Bé ...hẽ nhặt những hạt thóc rơi vãi.",
+    [
+     "khẽ",
+     "cẽ",
+     "nghe",
+     "nhẹ"
+    ],
+    "Đứng trước âm h là chữ k để tạo thành tiếng khẽ."
+   ],
+   [
+    "Phát hiện từ viết sai chính tả trong câu: Những cánh cò trắng bay lập phập trên đồng.",
+    [
+     "lập phập",
+     "cánh cò",
+     "trắng bay",
+     "trên đồng"
+    ],
+    "Từ đúng phải là lập phờ hoặc phấp phới, từ lập phập sai chính tả."
+   ],
+   [
+    "Chọn từ viết đúng chính tả để điền vào câu: Em chăm chỉ làm bài tập ... về nhà.",
+    [
+     "tập",
+     "tắp",
+     "thập",
+     "thắp"
+    ],
+    "Bài tập làm ở nhà gọi là bài tập về nhà."
+   ],
+   [
+    "Từ nào viết đúng chính tả để chỉ buổi trong ngày khi mặt trời vừa lặn?",
+    [
+     "buổi chiều",
+     "buổi chiểu",
+     "buổi chiêu",
+     "buổi trều"
+    ],
+    "Thời gian sau buổi trưa và trước buổi tối là buổi chiều."
+   ],
+   [
+    "Dòng nào gồm các từ đều viết đúng chính tả âm đầu r, d, gi?",
+    [
+     "rừng rực, da dẻ, gia đình",
+     "dừng rực, ra dẻ, gia đình",
+     "rừng rực, ra dẻ, ơ gia đình",
+     "dừng rực, da dẻ, ra đình"
+    ],
+    "Các tiếng rừng rực, da dẻ, gia đình đều được viết đúng chính tả."
+   ],
+   [
+    "Điền chữ s hoặc x vào chỗ trống: Chiếc áo dài của bà có màu ...ám.",
+    [
+     "xám",
+     "sám",
+     "xãm",
+     "sãm"
+    ],
+    "Từ chỉ màu xám viết với âm đầu x."
+   ],
+   [
+    "Điền vần iêt hoặc iêc vào chỗ trống: Em thích ăn bánh ch...",
+    [
+     "iêc",
+     "iêt",
+     "yêt",
+     "yêc"
+    ],
+    "Bánh chưng, bánh tét viết với vần iêt."
+   ],
+   [
+    "Phát hiện từ viết sai chính tả trong câu: “Mặt trời mọc ở đằng đông.”",
+    [
+     "Không có từ nào sai",
+     "Mặt",
+     "trời",
+     "đông"
+    ],
+    "Câu văn trên các từ đều được viết đúng chính tả."
+   ],
+   [
+    "Chọn từ viết đúng chính tả để điền vào câu: “Mẹ đang ... quần áo cho em bé.”",
+    [
+     "giặt",
+     "dặt",
+     "rặt",
+     "giắt"
+    ],
+    "Hoạt động giặt quần áo viết với âm gi và vần ăt."
+   ],
+   [
+    "Điền dấu hỏi hoặc dấu ngã cho từ in nghiêng: “Cây chuối sau nhà đã trổ buồng.”",
+    [
+     "Không cần thêm dấu",
+     "buông",
+     "buỏng",
+     "buỗng"
+    ],
+    "Từ buồng trong nải chuối, buồng cau mang dấu huyền, không cần thay đổi."
+   ]
+  ]
+ }
+}

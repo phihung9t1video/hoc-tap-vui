@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c13": [
+   [
+    "Trong các tháng của một năm, những tháng nào sau đây đều có 30 ngày?",
+    [
+     "Tháng 4, tháng 6, tháng 9, tháng 11",
+     "Tháng 1, tháng 3, tháng 5, tháng 7",
+     "Tháng 4, tháng 5, tháng 8, tháng 10",
+     "Tháng 6, tháng 7, tháng 8, tháng 9"
+    ],
+    "Các tháng có 30 ngày trong năm là tháng 4, tháng 6, tháng 9 và tháng 11."
+   ],
+   [
+    "Nếu kim giờ chỉ vượt qua số 2 một chút và kim phút chỉ đúng vào số 3 thì đồng hồ chỉ mấy giờ?",
+    [
+     "2 giờ 15 phút",
+     "2 giờ 3 phút",
+     "3 giờ 10 phút",
+     "2 giờ 30 phút"
+    ],
+    "Kim giờ qua số 2 tức là 2 giờ, kim phút chỉ số 3 tương ứng với 15 phút (5 x 3 = 15)."
+   ],
+   [
+    "An có 1 tờ tiền 50 000 đồng và 2 tờ tiền 10 000 đồng. Hỏi An có tất cả bao nhiêu tiền?",
+    [
+     "70 000 đồng",
+     "60 000 đồng",
+     "80 000 đồng",
+     "52 000 đồng"
+    ],
+    "Tổng số tiền của An là: 50 000 + 10 000 + 10 000 = 70 000 đồng."
+   ],
+   [
+    "Đồng hồ đang chỉ 10 giờ 10 phút. Khoảng thời gian từ lúc đó đến 10 giờ 40 phút cùng buổi sáng là bao nhiêu phút?",
+    [
+     "30 phút",
+     "40 phút",
+     "20 phút",
+     "50 phút"
+    ],
+    "Khoảng thời gian trôi qua là: 40 - 10 = 30 phút."
+   ],
+   [
+    "Một tờ tiền 50 000 đồng có thể đổi được bao nhiêu tờ tiền 10 000 đồng?",
+    [
+     "5 tờ",
+     "10 tờ",
+     "2 tờ",
+     "4 tờ"
+    ],
+    "Vì 50 000 : 10 000 = 5 nên 1 tờ 50 000 đồng đổi được 5 tờ 10 000 đồng."
+   ],
+   [
+    "Các tháng nào dưới đây đứng liền nhau và đều có 31 ngày?",
+    [
+     "Tháng 7 và tháng 8",
+     "Tháng 5 và tháng 6",
+     "Tháng 8 và tháng 9",
+     "Tháng 11 và tháng 12"
+    ],
+    "Tháng 7 và tháng 8 là hai tháng liên tiếp trong năm đều có 31 ngày."
+   ],
+   [
+    "Buổi chiều, Nam nhìn thấy đồng hồ điện tử hiển thị 15:20. Cách gọi giờ thông thường của thời điểm này là:",
+    [
+     "3 giờ 20 phút chiều",
+     "5 giờ 20 phút chiều",
+     "15 giờ 20 phút đêm",
+     "2 giờ 20 phút chiều"
+    ],
+    "Vì 15 giờ - 12 giờ = 3 giờ nên 15:20 là 3 giờ 20 phút chiều."
+   ],
+   [
+    "Bình mua một chiếc thước kẻ giá 4 000 đồng và một gọt bút chì giá 6 000 đồng. Bình đưa cô bán hàng 20 000 đồng. Cô bán hàng cần trả lại Bình bao nhiêu tiền?",
+    [
+     "10 000 đồng",
+     "14 000 đồng",
+     "16 000 đồng",
+     "12 000 đồng"
+    ],
+    "Tổng số tiền mua đồ là 4 000 + 6 000 = 10 000 đồng. Số tiền nhận lại là 20 000 - 10 000 = 10 000 đồng."
+   ],
+   [
+    "Đồng hồ chỉ 4 giờ kém 10 phút. Cách gọi giờ khác tương đương là:",
+    [
+     "3 giờ 50 phút",
+     "4 giờ 10 phút",
+     "3 giờ 10 phút",
+     "4 giờ 50 phút"
+    ],
+    "4 giờ kém 10 phút tức là còn 10 phút nữa mới đến 4 giờ, tức là 3 giờ 50 phút."
+   ],
+   [
+    "Hôm nay là Thứ Bảy, ngày 10 tháng 3. Hỏi Thứ Bảy tuần trước là ngày mấy tháng 3?",
+    [
+     "Ngày 3 tháng 3",
+     "Ngày 17 tháng 3",
+     "Ngày 4 tháng 3",
+     "Ngày 2 tháng 3"
+    ],
+    "Một tuần có 7 ngày, Thứ Bảy tuần trước là ngày: 10 - 7 = 3 tháng 3."
+   ],
+   [
+    "Mẹ mua 2 hộp sữa cùng loại hết tất cả 18 000 đồng. Hỏi giá tiền của 1 hộp sữa là bao nhiêu?",
+    [
+     "9 000 đồng",
+     "8 000 đồng",
+     "36 000 đồng",
+     "10 000 đồng"
+    ],
+    "Giá tiền 1 hộp sữa là: 18 000 : 2 = 9 000 đồng."
+   ],
+   [
+    "Đồng hồ chỉ kim giờ gần sát số 7, kim phút chỉ đúng vào số 11. Thời gian đó là:",
+    [
+     "7 giờ kém 5 phút",
+     "6 giờ 5 phút",
+     "7 giờ 55 phút",
+     "11 giờ 35 phút"
+    ],
+    "Kim phút chỉ số 11 nghĩa là còn 5 phút nữa đến giờ tiếp theo, kim giờ gần số 7 nên là 7 giờ kém 5 phút (hay 6 giờ 55 phút)."
+   ],
+   [
+    "Trong một năm, từ đầu tháng 1 đến hết tháng 3 có tổng cộng bao nhiêu tháng?",
+    [
+     "3 tháng",
+     "2 tháng",
+     "4 tháng",
+     "12 tháng"
+    ],
+    "Các tháng từ tháng 1 đến hết tháng 3 gồm tháng 1, tháng 2, tháng 3, tổng cộng là 3 tháng."
+   ],
+   [
+    "Mai có 3 tờ 20 000 đồng. Mai mua một cây kéo hết 25 000 đồng. Số tiền Mai còn lại là:",
+    [
+     "35 000 đồng",
+     "45 000 đồng",
+     "5 000 đồng",
+     "15 000 đồng"
+    ],
+    "Mai có tổng cộng 20 000 x 3 = 60 000 đồng. Số tiền còn lại là 60 000 - 25 000 = 35 000 đồng."
+   ],
+   [
+    "Lớp học bắt đầu từ 8 giờ 15 phút và kéo dài trong 35 phút. Lớp học đó kết thúc vào lúc mấy giờ?",
+    [
+     "8 giờ 50 phút",
+     "8 giờ 40 phút",
+     "9 giờ 00 phút",
+     "8 giờ 30 phút"
+    ],
+    "Thời điểm kết thúc là: 15 phút + 35 phút = 50 phút, tức là 8 giờ 50 phút."
+   ],
+   [
+    "Một xưởng sản xuất làm việc từ tháng 8 đến hết tháng 10 cùng năm. Xưởng đó làm việc trong thời gian bao nhiêu tháng?",
+    [
+     "3 tháng",
+     "2 tháng",
+     "4 tháng",
+     "10 tháng"
+    ],
+    "Thời gian xưởng làm việc gồm tháng 8, tháng 9 và tháng 10, tổng cộng là 3 tháng."
+   ],
+   [
+    "Việt có hai tờ tiền giống nhau và một tờ 5 000 đồng. Tổng số tiền Việt có là 25 000 đồng. Hỏi hai tờ tiền giống nhau đó có mệnh giá bao nhiêu?",
+    [
+     "10 000 đồng",
+     "20 000 đồng",
+     "100 000 đồng",
+     "2 000 đồng"
+    ],
+    "Tổng giá trị hai tờ tiền giống nhau là 25 000 - 5 000 = 20 000 đồng. Mỗi tờ có giá trị là 20 000 : 2 = 10 000 đồng."
+   ],
+   [
+    "Ngày 28 tháng 5 là Chủ nhật. Hỏi ngày 1 tháng 6 cùng năm đó là Thứ mấy?",
+    [
+     "Thứ Năm",
+     "Thứ Tư",
+     "Thứ Sáu",
+     "Chủ nhật"
+    ],
+    "Tháng 5 có 31 ngày. Ngày 28 là Chủ nhật, ngày 29 là Thứ Hai, ngày 30 là Thứ Ba, ngày 31 là Thứ Tư, vậy ngày 1 tháng 6 là Thứ Năm."
+   ],
+   [
+    "Đồng hồ treo tường bị chậm 15 phút. Khi đồng hồ này chỉ 9 giờ 10 phút thì giờ đúng thực tế phải là:",
+    [
+     "9 giờ 25 phút",
+     "8 giờ 55 phút",
+     "9 giờ 00 phút",
+     "9 giờ 30 phút"
+    ],
+    "Vì đồng hồ bị chậm 15 phút nên giờ đúng thực tế phải cộng thêm 15 phút: 9 giờ 10 phút + 15 phút = 9 giờ 25 phút."
+   ],
+   [
+    "Hà có 100 000 đồng. Hà mua 3 cuốn truyện, mỗi cuốn giá 15 000 đồng và mua 1 hộp màu giá 30 000 đồng. Hỏi Hà còn thừa bao nhiêu tiền?",
+    [
+     "25 000 đồng",
+     "55 000 đồng",
+     "45 000 đồng",
+     "15 000 đồng"
+    ],
+    "Tổng tiền mua truyện và hộp màu là 15 000 x 3 + 30 000 = 75 000 đồng. Số tiền Hà còn thừa là 100 000 - 75 000 = 25 000 đồng."
+   ],
+   [
+    "Tháng 8 có bao nhiêu ngày?",
+    [
+     "31 ngày",
+     "30 ngày",
+     "28 ngày",
+     "29 ngày"
+    ],
+    "Tháng 8 là một trong các tháng có 31 ngày theo lịch dương."
+   ],
+   [
+    "Năm nhuận có bao nhiêu ngày?",
+    [
+     "366 ngày",
+     "365 ngày",
+     "354 ngày",
+     "360 ngày"
+    ],
+    "Năm thường có 365 ngày, năm nhuận có thêm 1 ngày ở tháng 2 nên tổng cộng có 366 ngày."
+   ],
+   [
+    "Đồng hồ chỉ kim giờ chỉ đúng số 12, kim phút chỉ số 1. Lúc đó là:",
+    [
+     "12 giờ 5 phút",
+     "1 giờ 12 phút",
+     "12 giờ 1 phút",
+     "1 giờ đúng"
+    ],
+    "Kim giờ ở số 12 là 12 giờ, kim phút chỉ số 1 ứng với 5 phút."
+   ],
+   [
+    "Mẹ đi chợ mua thịt hết 45 000 đồng và mua rau hết 15 000 đồng. Tổng số tiền mẹ mua là:",
+    [
+     "60 000 đồng",
+     "50 000 đồng",
+     "70 000 đồng",
+     "55 000 đồng"
+    ],
+    "Cộng tiền thịt và tiền rau: 45 000 + 15 000 = 60 000 đồng."
+   ],
+   [
+    "Khoảng thời gian từ 8 giờ kém 10 phút đến 8 giờ đúng là:",
+    [
+     "10 phút",
+     "20 phút",
+     "15 phút",
+     "30 phút"
+    ],
+    "8 giờ kém 10 phút là 7 giờ 50 phút, từ 7 giờ 50 phút đến 8 giờ đúng là 10 phút."
+   ],
+   [
+    "Tờ tiền có mệnh giá lớn nhất trong các tờ tiền polime đang lưu hành ở nước ta là:",
+    [
+     "500 000 đồng",
+     "200 000 đồng",
+     "100 000 đồng",
+     "50 000 đồng"
+    ],
+    "Tờ 500 000 đồng là tờ tiền có mệnh giá lớn nhất hiện nay."
+   ],
+   [
+    "Một năm không phải năm nhuận bắt đầu từ tháng 1 và kết thúc ở tháng 12 có tổng số ngày là:",
+    [
+     "365 ngày",
+     "366 ngày",
+     "360 ngày",
+     "300 ngày"
+    ],
+    "Một năm thường có 365 ngày."
+   ],
+   [
+    "Hải có 3 tờ 10 000 đồng và 2 tờ 2 000 đồng. Tổng số tiền Hải có là:",
+    [
+     "34 000 đồng",
+     "32 000 đồng",
+     "40 000 đồng",
+     "30 000 đồng"
+    ],
+    "3 tờ 10 000 đồng là 30 000 đồng, 2 tờ 2 000 đồng là 4 000 đồng, tổng là 34 000 đồng."
+   ],
+   [
+    "Đồng hồ chỉ 3 giờ 45 phút. Cách đọc giờ khác theo kiểu kém là:",
+    [
+     "4 giờ kém 15 phút",
+     "3 giờ kém 15 phút",
+     "4 giờ kém 45 phút",
+     "3 giờ kém 45 phút"
+    ],
+    "3 giờ 45 phút nghĩa là còn 15 phút nữa là đến 4 giờ, đọc là 4 giờ kém 15 phút."
+   ],
+   [
+    "Khoảng thời gian từ 7 giờ sáng đến 11 giờ trưa cùng ngày là:",
+    [
+     "4 giờ",
+     "3 giờ",
+     "5 giờ",
+     "4 giờ 30 phút"
+    ],
+    "Lấy 11 trừ 7 bằng 4 giờ."
+   ],
+   [
+    "Lan có một tờ 20 000 đồng, Lan mua bút hết 12 000 đồng. Số tiền cô bán hàng phải trả lại Lan là:",
+    [
+     "8 000 đồng",
+     "10 000 đồng",
+     "7 000 đồng",
+     "12 000 đồng"
+    ],
+    "Lấy 20 000 trừ 12 000 bằng 8 000 đồng."
+   ],
+   [
+    "Tháng nào trong năm có số ngày ít nhất?",
+    [
+     "Tháng 2",
+     "Tháng 1",
+     "Tháng 4",
+     "Tháng 6"
+    ],
+    "Tháng 2 chỉ có 28 hoặc 29 ngày, ít nhất trong các tháng."
+   ],
+   [
+    "Hùng đi ngủ lúc 9 giờ tối và thức dậy lúc 6 giờ sáng hôm sau. Hùng đã ngủ trong thời gian:",
+    [
+     "9 giờ",
+     "8 giờ",
+     "10 giờ",
+     "7 giờ"
+    ],
+    "Từ 9 giờ tối đến 12 giờ đêm là 3 giờ, từ 12 giờ đêm đến 6 giờ sáng là 6 giờ, tổng cộng là 9 giờ."
+   ],
+   [
+    "Bố đi công tác từ ngày thứ Hai và về vào ngày thứ Sáu cùng tuần đó. Bố đi công tác trong số ngày là:",
+    [
+     "5 ngày",
+     "4 ngày",
+     "6 ngày",
+     "7 ngày"
+    ],
+    "Từ thứ Hai đến thứ Sáu gồm các ngày: thứ Hai, thứ Ba, thứ Tư, thứ Năm, thứ Sáu (5 ngày)."
+   ],
+   [
+    "Một chiếc bánh quy giá 3 000 đồng. Nam mua 4 chiếc bánh và đưa cô bán hàng 20 000 đồng. Số tiền thừa là:",
+    [
+     "8 000 đồng",
+     "12 000 đồng",
+     "5 000 đồng",
+     "10 000 đồng"
+    ],
+    "4 chiếc bánh hết 3 000 nhân 4 bằng 12 000 đồng. Tiền thừa là 20 000 trừ 12 000 bằng 8 000 đồng."
+   ],
+   [
+    "Khoảng thời gian từ 13 giờ đến 15 giờ 30 phút là:",
+    [
+     "2 giờ 30 phút",
+     "2 giờ",
+     "3 giờ 30 phút",
+     "1 giờ 30 phút"
+    ],
+    "Từ 13 giờ đến 15 giờ là 2 giờ, thêm 30 phút thành 2 giờ 30 phút."
+   ],
+   [
+    "Hòa có 5 tờ 5 000 đồng. Hòa muốn đổi lấy các tờ 10 000 đồng thì được nhiều nhất bao nhiêu tờ 10 000 đồng?",
+    [
+     "2 tờ",
+     "5 tờ",
+     "3 tờ",
+     "4 tờ"
+    ],
+    "Hòa có tất cả 5 nhân 5 000 bằng 25 000 đồng. Đổi được nhiều nhất 2 tờ 10 000 đồng và thừa 5 000 đồng."
+   ],
+   [
+    "Hôm nay là ngày 30 tháng 4. Hỏi ngày mai là ngày mấy, tháng mấy?",
+    [
+     "Ngày 1 tháng 5",
+     "Ngày 1 tháng 4",
+     "Ngày 31 tháng 4",
+     "Ngày 2 tháng 5"
+    ],
+    "Tháng 4 có 30 ngày, sau ngày 30 tháng 4 là ngày 1 tháng 5."
+   ],
+   [
+    "Đồng hồ chỉ 6 giờ chiều, theo cách gọi 24 giờ thì thời gian đó là:",
+    [
+     "18 giờ",
+     "6 giờ",
+     "12 giờ",
+     "20 giờ"
+    ],
+    "6 giờ chiều bằng 12 giờ cộng thêm 6 giờ thành 18 giờ."
+   ],
+   [
+    "Thảo mua một hộp bút màu giá 24 000 đồng và một tẩy chì giá 4 000 đồng. Thảo đưa cô bán hàng một tờ 50 000 đồng. Số tiền cô bán hàng phải trả lại là:",
+    [
+     "22 000 đồng",
+     "26 000 đồng",
+     "28 000 đồng",
+     "20 000 đồng"
+    ],
+    "Tổng tiền mua đồ là 24 000 + 4 000 = 28 000 đồng. Tiền trả lại là 50 000 - 28 000 = 22 000 đồng."
+   ]
+  ]
+ }
+}

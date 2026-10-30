@@ -1,0 +1,406 @@
+{
+ "3-tinhoc": {
+  "c7": [
+   [
+    "Khi em muốn nhờ máy tính tìm kiếm thông tin về loài chim cánh cụt, việc đầu tiên em cần làm là gì?",
+    [
+     "Mở trình duyệt web hoặc phần mềm tìm kiếm.",
+     "Tắt máy tính ngay lập tức.",
+     "In ra giấy tất cả hình ảnh về chim cánh cụt.",
+     "Vẽ một bức tranh về chim cánh cụt."
+    ],
+    "Để tìm kiếm thông tin trên máy tính, bước đầu tiên bắt buộc là phải mở công cụ tìm kiếm như trình duyệt web."
+   ],
+   [
+    "Việc nào sau đây KHÔNG cần phải thực hiện theo một thứ tự các bước nhất định?",
+    [
+     "Nhìn xung quanh phòng trong chốc lát.",
+     "Mở máy tính để học tập.",
+     "Giải một bài toán có lời văn.",
+     "Nấu một món ăn."
+    ],
+    "Việc nhìn xung quanh phòng là hành động tự nhiên, không đòi hỏi phải tuân theo một quy trình hay thứ tự các bước."
+   ],
+   [
+    "Để chuẩn bị cặp sách đến trường vào buổi tối, việc nào nên được làm trước?",
+    [
+     "Kiểm tra thời khóa biểu ngày mai.",
+     "Đóng chặt khóa cặp lại.",
+     "Đeo cặp lên vai và đi ra cửa.",
+     "Chào bố mẹ để đi học."
+    ],
+    "Em phải xem thời khóa biểu trước để biết cần mang những quyển sách nào rồi mới tiến hành xếp vào cặp."
+   ],
+   [
+    "Khi em sử dụng phần mềm vẽ tranh, nếu em chọn sai màu vẽ cho chiếc lá cây, việc em cần làm để sửa là gì?",
+    [
+     "Chọn lại màu xanh lá cây rồi tô đè lên.",
+     "Vứt máy tính đi và mua máy mới.",
+     "Tắt điện nguồn của nhà mình ngay lập tức.",
+     "Bắt buộc phải vẽ lại từ đầu bức tranh."
+    ],
+    "Máy tính cho phép em sửa lỗi dễ dàng bằng cách chọn lại công cụ đúng hoặc tô màu khác đè lên vùng bị sai."
+   ],
+   [
+    "“Nếu ngày mai trời không mưa thì lớp chúng ta sẽ đi tham quan viện bảo tàng.” Đâu là điều kiện trong câu này?",
+    [
+     "Ngày mai trời không mưa.",
+     "Lớp chúng ta đi tham quan.",
+     "Cả lớp ở lại nhà.",
+     "Trời đổ mưa to."
+    ],
+    "Điều kiện là sự việc được đặt ra sau từ “nếu”, quyết định việc đi tham quan có diễn ra hay không."
+   ],
+   [
+    "Hành động nào sau đây thể hiện công việc được lặp đi lặp lại mỗi ngày của em?",
+    [
+     "Đánh răng vào mỗi buổi sáng và buổi tối.",
+     "Mua một chiếc cặp sách mới vào đầu năm học.",
+     "Đi tham quan Đầm Sen một lần trong năm.",
+     "Cắt tóc ba tháng một lần."
+    ],
+    "Đánh răng là công việc diễn ra đều đặn hàng ngày, không thay đổi."
+   ],
+   [
+    "Khi em muốn máy tính giúp mình tính toán kết quả phép tính 125 cộng 348, bước đầu tiên em cần làm là:",
+    [
+     "Khởi động phần mềm máy tính bỏ túi hoặc bảng tính.",
+     "Vẽ hình vuông lên màn hình.",
+     "Tắt màn hình máy tính.",
+     "In văn bản ra giấy."
+    ],
+    "Để tính toán bằng máy tính, em cần mở công cụ hỗ trợ tính toán trước khi nhập số liệu."
+   ],
+   [
+    "Bạn Minh phân công công việc “Trực nhật lớp” thành các việc nhỏ. Việc nào sau đây KHÔNG nằm trong nhóm công việc đó?",
+    [
+     "Đi mua đồ chơi cho các bạn.",
+     "Quét sạch lớp học.",
+     "Lau bảng thật sạch.",
+     "Kê lại bàn ghế ngay ngắn."
+    ],
+    "Mua đồ chơi là hoạt động cá nhân, không liên quan đến nhiệm vụ trực nhật lớp."
+   ],
+   [
+    "Khi em gõ một đoạn văn bản tiếng Việt trên máy tính mà chữ bị dính liền nhau, nguyên nhân thường gặp là gì?",
+    [
+     "Em quên nhấn phím cách giữa các từ.",
+     "Máy tính đã bị hỏng hoàn toàn bàn phím.",
+     "Em đã gõ quá nhanh so với máy.",
+     "Màn hình máy tính chưa được cắm điện."
+    ],
+    "Phím cách (Space) dùng để tạo khoảng trắng giữa các từ, quên nhấn phím này sẽ làm chữ bị dính liền."
+   ],
+   [
+    "Cho các bước luộc rau: (1) Cho rau vào nồi nước sôi, (2) Đun sôi nước, (3) Rửa sạch rau. Thứ tự đúng để thực hiện là:",
+    [
+     "(3) rồi đến (2) và cuối cùng là (1).",
+     "(1) rồi đến (2) và cuối cùng là (3).",
+     "(2) rồi đến (3) và cuối cùng là (1).",
+     "(3) rồi đến (1) và cuối cùng là (2)."
+    ],
+    "Quy trình hợp lý là rửa sạch rau, đun sôi nước rồi mới thả rau vào luộc."
+   ],
+   [
+    "“Nếu điểm số môn Tin học đạt điểm 10 thì em được mẹ thưởng một cây bút màu.” Nếu em đạt điểm 9 thì theo câu trên, em sẽ được gì?",
+    [
+     "Không nhận được cây bút màu vì chưa đạt điểm 10.",
+     "Được nhận ngay hai cây bút màu.",
+     "Được mẹ mua cho một bộ máy tính mới.",
+     "Chắc chắn được thưởng bút màu."
+    ],
+    "Điều kiện để nhận thưởng là phải đạt đúng điểm 10, điểm 9 chưa thỏa mãn điều kiện."
+   ],
+   [
+    "Khi em muốn tìm một tệp văn bản đã lưu trên máy tính nhưng không nhớ rõ tên, việc chia nhỏ quá trình tìm kiếm thành các việc nhỏ sẽ giúp ích gì?",
+    [
+     "Giúp em tìm kiếm nhanh hơn theo thư mục, ngày tạo hoặc loại tệp.",
+     "Làm cho máy tính chạy chậm đi nhiều lần.",
+     "Xóa sạch tất cả các tệp có trong máy.",
+     "Làm mất dữ liệu quan trọng của em."
+    ],
+    "Chia nhỏ việc tìm kiếm theo các tiêu chí giúp thu hẹp phạm vi và tìm ra tệp nhanh chóng."
+   ],
+   [
+    "Bạn Nam muốn dùng máy tính để xem lịch học của tuần tới. Việc làm nào sau đây là phù hợp nhất?",
+    [
+     "Mở tệp hình ảnh hoặc tệp ghi chú lịch học đã được lưu sẵn.",
+     "Sử dụng phần mềm vẽ tranh để tô màu.",
+     "Mở trò chơi đua xe trực tuyến.",
+     "Bật máy nghe nhạc thiếu nhi."
+    ],
+    "Để xem lịch học, Nam cần mở đúng tệp tài liệu lưu thông tin lịch học."
+   ],
+   [
+    "Khi em đang gõ bài bằng bàn phím máy tính mà màn hình bỗng nhiên tối đen, việc đầu tiên em nên kiểm tra là gì?",
+    [
+     "Kiểm tra dây nguồn của màn hình hoặc nguồn điện.",
+     "Mua ngay một chiếc bàn phím mới.",
+     "Đập nhẹ vào màn hình để máy sáng lên.",
+     "Bỏ học và không dùng máy nữa."
+    ],
+    "Màn hình tối đen thường do nguồn điện hoặc dây cáp kết nối có vấn đề, cần kiểm tra đầu tiên."
+   ],
+   [
+    "Trong các tình huống sau, tình huống nào thể hiện việc thực hiện công việc có điều kiện?",
+    [
+     "Nếu hôm nay trời nắng to thì em nhớ mang theo ô che nắng.",
+     "Em thức dậy vào lúc sáu giờ sáng mỗi ngày.",
+     "Em đánh răng sạch sẽ trước khi đi ngủ.",
+     "Em cất sách gọn gàng lên giá sách."
+    ],
+    "Tình huống có từ “nếu... thì...” thể hiện hành động chỉ xảy ra khi có điều kiện đi kèm."
+   ],
+   [
+    "Để giải quyết bài toán “Vẽ hình vuông cạnh 5 cm bằng phần mềm vẽ”, bước nào em cần thực hiện sau khi đã mở phần mềm?",
+    [
+     "Chọn công cụ vẽ hình chữ nhật hoặc hình vuông.",
+     "Tắt máy tính và đi ra ngoài chơi.",
+     "In bức tranh ra giấy ngay lập tức.",
+     "Gửi bức tranh cho bạn qua email."
+    ],
+    "Sau khi mở phần mềm, bước tiếp theo là chọn công cụ hình vẽ phù hợp để bắt đầu vẽ."
+   ],
+   [
+    "Khi em muốn nhờ máy tính sắp xếp tên các bạn trong lớp theo thứ tự bảng chữ cái, máy tính giúp em bằng cách nào?",
+    [
+     "Thực hiện cực kỳ nhanh chóng và chính xác theo yêu cầu.",
+     "Từ chối thực hiện vì việc này quá khó.",
+     "Phải mất hàng giờ đồng hồ mới xong.",
+     "Sắp xếp sai thứ tự các tên."
+    ],
+    "Máy tính có thế mạnh xử lý dữ liệu dạng chữ và số rất nhanh chóng và chính xác."
+   ],
+   [
+    "Bạn Hoa muốn tạo một thiệp chúc mừng sinh nhật trên máy tính. Theo em, việc Hoa cần làm ngay sau khi mở phần mềm thiết kế là gì?",
+    [
+     "Lựa chọn hình nền và màu sắc phù hợp cho thiệp.",
+     "Đóng phần mềm lại mà không làm gì cả.",
+     "Tắt nguồn máy tính để tiết kiệm điện.",
+     "In thiệp ra khi chưa có nội dung gì."
+    ],
+    "Khi đã mở phần mềm thiết kế, bước tiếp theo là chọn khung nền hoặc màu sắc để bắt đầu tạo thiệp."
+   ],
+   [
+    "Khi em nhận được thông báo từ máy tính rằng đĩa cứng đã đầy, việc chia nhỏ công việc “Dọn dẹp bộ nhớ” thành các việc nhỏ sẽ bao gồm việc nào sau đây?",
+    [
+     "Xóa bỏ các tệp tin hình ảnh hoặc trò chơi không còn dùng đến.",
+     "Mua thêm một chiếc bàn phím máy tính mới.",
+     "Thay đổi màu sắc của màn hình nền.",
+     "Tăng âm lượng của loa máy tính lên mức tối đa."
+    ],
+    "Để giải phóng dung lượng đĩa cứng đầy, việc cần làm là tìm và xóa các tệp không cần thiết."
+   ],
+   [
+    "Trong quy trình sử dụng máy tính để học tập an toàn, việc cuối cùng em nên làm khi đã học xong là gì?",
+    [
+     "Chọn lệnh tắt máy (Shut down) và cất gọn thiết bị.",
+     "Rút ngay dây điện khi máy đang hoạt động.",
+     "Đổ nước lên bàn phím để lau chùi.",
+     "Để màn hình sáng liên tục qua đêm."
+    ],
+    "Thao tác đúng và an toàn khi kết thúc sử dụng máy tính là tắt máy đúng cách và cất gọn gàng."
+   ],
+   [
+    "Khi em muốn máy tính vẽ giúp một hình tròn, bước nào dưới đây là bước em cần thực hiện đầu tiên?",
+    [
+     "Khởi động phần mềm vẽ hình trên máy tính.",
+     "Nhấn phím Enter trên bàn phím.",
+     "Tắt máy tính ngay lập tức.",
+     "Rút dây nguồn của máy tính."
+    ],
+    "Để máy tính giúp vẽ hình, trước tiên em phải mở chương trình vẽ lên."
+   ],
+   [
+    "Đâu là một công việc được thực hiện theo các bước có thứ tự rõ ràng khi em chuẩn bị quần áo để mặc?",
+    [
+     "Mặc áo vào trước rồi mới mặc quần.",
+     "Mặc cả áo và quần cùng một lúc hoàn toàn.",
+     "Đi giày trước khi mặc áo.",
+     "Đội mũ trước khi mặc quần áo."
+    ],
+    "Trong sinh hoạt, việc mặc quần áo thường tuân theo thứ tự nhất định để gọn gàng."
+   ],
+   [
+    "Trong câu “Nếu ngày mai trời nắng thì em đi công viên”, việc em đi công viên phụ thuộc vào điều kiện nào?",
+    [
+     "Trời nắng vào ngày mai.",
+     "Em có chiếc mũ mới.",
+     "Em thức dậy thật muộn.",
+     "Em ăn rất nhiều cơm."
+    ],
+    "Điều kiện được đặt ra ngay sau từ Nếu chính là thời tiết ngày mai phải nắng."
+   ],
+   [
+    "Việc nào sau đây thể hiện tính lặp đi lặp lại diễn ra hàng ngày của một học sinh?",
+    [
+     "Đánh răng rửa mặt vào mỗi buổi sáng.",
+     "Mua một chiếc cặp sách mới vào đầu năm học.",
+     "Đi tham quan viện bảo tàng vào dịp hè.",
+     "Được nghỉ học vào ngày Tết Trung Thu."
+    ],
+    "Đánh răng là việc em làm đều đặn mỗi ngày để giữ vệ sinh cá nhân."
+   ],
+   [
+    "Khi em chia việc “Gấp quần áo” thành các việc nhỏ, việc nào dưới đây KHÔNG thuộc công việc đó?",
+    [
+     "Rửa sạch bát đĩa sau khi ăn xong.",
+     "Lựa chọn áo và quần riêng ra.",
+     "Gấp gọn gàng chiếc áo sơ mi.",
+     "Xếp quần áo gọn vào tủ."
+    ],
+    "Rửa bát đĩa thuộc về công việc bếp núc, không liên quan đến việc gấp quần áo."
+   ],
+   [
+    "Bạn Mai muốn tìm hiểu về loài gấu trúc trên máy tính. Bước đầu tiên Mai cần làm là gì?",
+    [
+     "Mở trình duyệt tìm kiếm trên máy tính.",
+     "In bức tranh gấu trúc ra giấy.",
+     "Tắt máy tính và đi ngủ.",
+     "Gấp gọn máy tính lại."
+    ],
+    "Để tìm thông tin, trước hết em phải mở công cụ tìm kiếm trên máy tính."
+   ],
+   [
+    "Khi em gõ văn bản trên máy tính, để tạo ra khoảng cách giữa hai từ, em sử dụng phím nào dưới đây?",
+    [
+     "Phím Spacebar dài nhất trên bàn phím.",
+     "Phím Enter ở góc phải.",
+     "Phím Backspace để xóa chữ.",
+     "Phím Caps Lock để viết hoa."
+    ],
+    "Phím dài nhất ở hàng dưới cùng (Spacebar) dùng để tạo khoảng trắng giữa các từ."
+   ],
+   [
+    "Khi giải bài toán tính tổng trên máy tính, nếu em nhập sai dữ liệu ban đầu thì điều gì sẽ xảy ra với kết quả?",
+    [
+     "Kết quả do máy tính tính ra sẽ bị sai.",
+     "Máy tính sẽ tự động sửa lại cho đúng.",
+     "Máy tính sẽ từ chối hoạt động.",
+     "Màn hình máy tính sẽ tự động tắt."
+    ],
+    "Máy tính tính toán dựa trên dữ liệu con người nhập vào, nhập sai thì kết quả sẽ sai."
+   ],
+   [
+    "Trong các hoạt động sau, hoạt động nào máy tính có thể giúp con người thực hiện tốt và nhanh nhất?",
+    [
+     "Thực hiện phép tính cộng với các số rất lớn.",
+     "Tự động quét nhà sạch sẽ ở ngoài sân.",
+     "Tự nấu một bữa ăn ngon cho gia đình.",
+     "Tự mặc quần áo cho em bé."
+    ],
+    "Máy tính rất giỏi trong việc tính toán các con số với tốc độ cực kỳ nhanh."
+   ],
+   [
+    "Khi thực hiện các bước giải quyết một bài toán trên máy tính, việc chia nhỏ bài toán thành các phần giúp em điều gì?",
+    [
+     "Dễ dàng hiểu và thực hiện từng phần một cách chính xác hơn.",
+     "Làm cho thời gian chờ đợi kéo dài hơn nhiều.",
+     "Làm cho máy tính bị hỏng hóc nặng.",
+     "Làm cho kết quả tính toán trở nên phức tạp hơn."
+    ],
+    "Chia nhỏ việc lớn thành việc nhỏ giúp em giải quyết vấn đề dễ dàng và ít sai sót."
+   ],
+   [
+    "Bạn Khoa muốn nhờ máy tính phát một bài hát thiếu nhi. Em hãy chọn bước hợp lý tiếp theo sau khi đã mở chương trình âm nhạc:",
+    [
+     "Tìm và chọn tên bài hát thiếu nhi muốn nghe.",
+     "Rút ngay dây nguồn của máy tính ra.",
+     "Gõ một đoạn văn bản dài vào máy tính.",
+     "Tắt nguồn điện của phòng học."
+    ],
+    "Sau khi mở phần mềm nhạc, em cần chọn đúng bài hát mình thích để máy phát."
+   ],
+   [
+    "Khi em đang vẽ tranh trên máy tính mà lỡ tay tô nhầm màu, em nên làm gì để khắc phục?",
+    [
+     "Tìm nút Undo để hoàn tác lại bước vừa làm.",
+     "Đập bàn phím để máy tính tự sửa.",
+     "Vứt máy tính đi và mua máy mới.",
+     "Tắt nguồn máy tính ngay lập tức."
+    ],
+    "Nút Undo (quay lại bước trước) giúp em sửa lỗi tô nhầm màu rất nhanh chóng."
+   ],
+   [
+    "Trong quy trình làm một chiếc đèn lồng giấy, bước nào sau đây phải được thực hiện trước bước dán keo hoàn thiện?",
+    [
+     "Cắt các tờ giấy màu theo kích thước.",
+     "Trưng bày đèn lồng lên bàn học.",
+     "Tặng đèn lồng cho bạn hàng xóm.",
+     "Cất đèn lồng vào trong hộp kín."
+    ],
+    "Em phải cắt giấy thành các mảnh trước thì mới có thể dán keo lại được."
+   ],
+   [
+    "Câu nào sau đây thể hiện một hành động có điều kiện trong học tập của em?",
+    [
+     "Nếu em làm xong bài tập sớm thì em được đọc sách.",
+     "Hôm nay em ăn cơm trưa lúc mười hai giờ.",
+     "Em có một chiếc bút mực màu xanh rất đẹp.",
+     "Sân trường hôm nay có rất nhiều cây xanh."
+    ],
+    "Câu có chứa từ Nếu và thì thể hiện rõ ràng một điều kiện và kết quả."
+   ],
+   [
+    "Khi sử dụng máy tính xong để học bài, việc cuối cùng em nên làm để bảo vệ thiết bị là gì?",
+    [
+     "Tắt máy tính đúng cách và cất gọn gàng.",
+     "Đổ nước sạch trực tiếp lên bàn phím.",
+     "Dùng búa đập nhẹ vào màn hình máy tính.",
+     "Để nguyên máy chạy suốt ngày đêm."
+    ],
+    "Sau khi dùng xong, em cần tắt máy đúng quy trình để giữ gìn độ bền cho thiết bị."
+   ],
+   [
+    "Bạn Linh muốn sắp xếp các bức ảnh theo thứ tự ngày chụp trên máy tính. Máy tính giúp Linh thực hiện việc này dựa vào đâu?",
+    [
+     "Dựa vào thông tin thời gian được lưu trữ kèm theo mỗi bức ảnh.",
+     "Dựa vào màu sắc của chiếc áo trong ảnh.",
+     "Dựa vào tâm trạng của người chụp ảnh.",
+     "Dựa vào số lượng người xuất hiện trong ảnh."
+    ],
+    "Máy tính đọc thông tin thời gian ngầm trong tệp ảnh để sắp xếp theo đúng thứ tự."
+   ],
+   [
+    "Khi em sử dụng phần mềm tập gõ bàn phím, việc để các ngón tay đúng vị trí trên hàng phím cơ sở giúp em điều gì?",
+    [
+     "Gõ phím nhanh hơn và ít bị gõ nhầm chữ hơn.",
+     "Làm cho bàn phím phát ra âm thanh vui tai.",
+     "Làm cho máy tính chạy nhanh hơn bình thường.",
+     "Giúp màn hình hiển thị sáng rực rỡ hơn."
+    ],
+    "Đặt tay đúng hàng phím cơ sở là nền tảng giúp em gõ bàn phím bằng mười ngón nhanh chóng."
+   ],
+   [
+    "Khi em muốn tìm một từ tiếng Việt trong từ điển điện tử trên máy tính, bước đầu tiên em cần thực hiện là:",
+    [
+     "Gõ từ cần tìm vào ô tìm kiếm của từ điển.",
+     "Đóng cửa sổ chương trình từ điển lại.",
+     "In toàn bộ cuốn từ điển ra giấy.",
+     "Tắt máy tính và đi ra ngoài chơi."
+    ],
+    "Để tra từ, em phải nhập chính xác từ đó vào ô tìm kiếm của phần mềm từ điển."
+   ],
+   [
+    "Trong các công việc sau, việc nào KHÔNG cần phải tuân theo một thứ tự các bước nghiêm ngặt?",
+    [
+     "Chọn đọc một câu chuyện yêu thích trong tủ sách.",
+     "Giải bài toán đố có nhiều phép tính phức tạp.",
+     "Thực hiện quy trình luộc chín một quả trứng.",
+     "Bật máy tính và mở phần mềm soạn thảo."
+    ],
+    "Việc chọn quyển sách nào để đọc trước không bắt buộc phải theo một thứ tự cố định nào."
+   ],
+   [
+    "Khi em nhận được thông báo từ máy tính là ổ đĩa đã đầy, em nên thực hiện việc nào sau đây để giải quyết?",
+    [
+     "Xóa bớt các tệp tin cũ không còn dùng đến nữa.",
+     "Mua thêm một chiếc bàn học mới cho phòng.",
+     "Thay đổi màu sắc hình nền của máy tính.",
+     "Tăng âm lượng của loa máy tính lên mức tối đa."
+    ],
+    "Khi đĩa đầy, việc dọn dẹp bằng cách xóa bớt các tệp không cần thiết sẽ giải phóng không gian."
+   ]
+  ]
+ }
+}

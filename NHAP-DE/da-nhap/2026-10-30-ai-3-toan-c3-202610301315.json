@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c3": [
+   [
+    "Trong các hình sau, hình nào có số cạnh ít nhất?",
+    [
+     "Hình tam giác",
+     "Hình vuông",
+     "Hình chữ nhật",
+     "Hình tứ giác"
+    ],
+    "Hình tam giác có 3 cạnh, trong khi hình vuông, hình chữ nhật và hình tứ giác đều có 4 cạnh."
+   ],
+   [
+    "Đồ vật nào dưới đây thường có dạng khối trụ?",
+    [
+     "Lon nước ngọt",
+     "Hộp bút nhựa",
+     "Viên xúc xắc",
+     "Quyển vở ghi"
+    ],
+    "Lon nước ngọt có hai mặt đáy là hình tròn và mặt xung quanh uốn cong giống dạng khối trụ."
+   ],
+   [
+    "Khối lập phương và khối hộp chữ nhật giống nhau ở điểm nào sau đây?",
+    [
+     "Có 6 mặt",
+     "Có các cạnh bằng nhau",
+     "Có các mặt đều là hình vuông",
+     "Có chiều dài các cạnh dọc bằng nhau"
+    ],
+    "Cả khối lập phương và khối hộp chữ nhật đều có 6 mặt, 12 cạnh và 8 đỉnh."
+   ],
+   [
+    "Hình nào dưới đây có các cạnh không bằng nhau nhưng có 4 góc vuông?",
+    [
+     "Hình chữ nhật",
+     "Hình vuông",
+     "Hình tam giác",
+     "Hình tròn"
+    ],
+    "Hình chữ nhật có 4 góc vuông và hai chiều dài bằng nhau, hai chiều rộng bằng nhau chứ không bằng tất cả các cạnh."
+   ],
+   [
+    "Một chiếc hộp quà có dạng khối lập phương thì tất cả các mặt của nó là hình gì?",
+    [
+     "Hình vuông",
+     "Hình chữ nhật",
+     "Hình tròn",
+     "Hình tam giác"
+    ],
+    "Khối lập phương có 6 mặt đều là các hình vuông bằng nhau."
+   ],
+   [
+    "Đoạn thẳng MN dài 18 cm. Điểm P nằm trên đoạn thẳng MN sao cho độ dài MP bằng nửa độ dài MN. Độ dài đoạn MP là:",
+    [
+     "9 cm",
+     "36 cm",
+     "8 cm",
+     "19 cm"
+    ],
+    "Độ dài đoạn MP bằng nửa đoạn MN nên ta lấy 18 chia 2 được 9 cm."
+   ],
+   [
+    "Cho ba điểm A, B, C thẳng hàng theo thứ tự đó. Biết độ dài đoạn AB bằng 5 cm và đoạn BC bằng 7 cm. Độ dài đoạn thẳng AC là:",
+    [
+     "12 cm",
+     "2 cm",
+     "35 cm",
+     "10 cm"
+    ],
+    "Vì B nằm giữa A và C nên độ dài đoạn AC bằng tổng độ dài đoạn AB và BC, tức là 5 cộng 7 bằng 12 cm."
+   ],
+   [
+    "Dùng một sợi dây dài 24 cm uốn thành một hình vuông. Cạnh của hình vuông đó dài số xăng-ti-mét là:",
+    [
+     "6 cm",
+     "8 cm",
+     "12 cm",
+     "4 cm"
+    ],
+    "Hình vuông có 4 cạnh bằng nhau nên độ dài một cạnh là 24 chia 4 bằng 6 cm."
+   ],
+   [
+    "Xung quanh chiếc hộp bút hình hộp chữ nhật có bao nhiêu cạnh tất cả?",
+    [
+     "12 cạnh",
+     "8 cạnh",
+     "6 cạnh",
+     "4 cạnh"
+    ],
+    "Khối hộp chữ nhật có tổng cộng 12 cạnh."
+   ],
+   [
+    "Một bảng giao thông có dạng hình tam giác đều có độ dài một cạnh là 20 cm. Tổng độ dài các cạnh của biển báo đó là:",
+    [
+     "60 cm",
+     "40 cm",
+     "80 cm",
+     "20 cm"
+    ],
+    "Hình tam giác có 3 cạnh bằng nhau, tổng độ dài là 20 nhân 3 bằng 60 cm."
+   ],
+   [
+    "Bạn Nam xếp các khối lập phương nhỏ thành một khối lập phương lớn. Khối lập phương lớn đó có tất cả bao nhiêu đỉnh?",
+    [
+     "8 đỉnh",
+     "6 đỉnh",
+     "12 đỉnh",
+     "4 đỉnh"
+    ],
+    "Bất kỳ hình khối lập phương nào cũng có 8 đỉnh."
+   ],
+   [
+    "Hình nào dưới đây không có góc nào?",
+    [
+     "Hình tròn",
+     "Hình vuông",
+     "Hình chữ nhật",
+     "Hình tam giác"
+    ],
+    "Hình tròn là đường cong khép kín nên không có góc và không có cạnh thẳng."
+   ],
+   [
+    "Một sân chơi hình chữ nhật có chiều dài 10 m và chiều rộng 6 m. Bạn An đi dọc theo các cạnh của sân một vòng. Quãng đường An đi dài số mét là:",
+    [
+     "32 m",
+     "16 m",
+     "60 m",
+     "26 m"
+    ],
+    "Chu vi hình chữ nhật là tổng chiều dài và chiều rộng nhân 2, ta có (10 cộng 6) nhân 2 bằng 32 m."
+   ],
+   [
+    "Điền từ thích hợp vào chỗ trống để được câu đúng: “Khối hộp chữ nhật có các mặt đều là hình chữ nhật hoặc có ... mặt là hình vuông.”",
+    [
+     "2",
+     "4",
+     "6",
+     "0"
+    ],
+    "Khối hộp chữ nhật đặc biệt có thể có 2 mặt đáy là hình vuông và 4 mặt bên là hình chữ nhật."
+   ],
+   [
+    "Cho hình tròn tâm O, bán kính r. Biết rằng đường kính d lớn hơn bán kính r là 4 cm. Bán kính r của hình tròn đó là:",
+    [
+     "4 cm",
+     "8 cm",
+     "2 cm",
+     "6 cm"
+    ],
+    "Đường kính gấp đôi bán kính, hay đường kính trừ bán kính thì bằng bán kính. Vậy bán kính chính là 4 cm."
+   ],
+   [
+    "Một khung ảnh hình vuông có tổng độ dài 4 cạnh là 1m20cm. Độ dài một cạnh của khung ảnh là:",
+    [
+     "30 cm",
+     "40 cm",
+     "20 cm",
+     "60 cm"
+    ],
+    "Đổi 1m20cm thành 120 cm. Độ dài một cạnh là 120 chia 4 bằng 30 cm."
+   ],
+   [
+    "Đâu là vật có dạng khối cầu trong thực tế?",
+    [
+     "Quả bóng đá",
+     "Hộp sữa tươi",
+     "Viên gạch hoa",
+     "Cục tẩy học sinh"
+    ],
+    "Quả bóng đá có dạng khối cầu tròn đều về mọi phía."
+   ],
+   [
+    "Một sợi dây thép được cắt ra và uốn thành một hình tam giác có các cạnh lần lượt là 12 cm, 15 cm và 18 cm. Độ dài sợi dây thép đó là:",
+    [
+     "45 cm",
+     "42 cm",
+     "35 cm",
+     "50 cm"
+    ],
+    "Độ dài sợi dây chính là tổng chu vi tam giác: 12 cộng 15 cộng 18 bằng 45 cm."
+   ],
+   [
+    "Cho đoạn thẳng CD dài 16 cm. Lấy điểm I trên đoạn thẳng CD sao cho CI bằng 3 lần ID. Độ dài đoạn thẳng ID là:",
+    [
+     "4 cm",
+     "8 cm",
+     "12 cm",
+     "6 cm"
+    ],
+    "Tổng số phần bằng nhau là 3 cộng 1 bằng 4 phần. Độ dài đoạn ID là 16 chia 4 bằng 4 cm."
+   ],
+   [
+    "Một chiếc bánh kem hình tròn được cắt làm đôi qua tâm. Biết đường kính chiếc bánh là 20 cm. Chiều dài đường cắt chính là:",
+    [
+     "20 cm",
+     "10 cm",
+     "40 cm",
+     "5 cm"
+    ],
+    "Đường cắt qua tâm và đi từ mép này sang mép kia chính là đường kính của hình tròn, dài 20 cm."
+   ],
+   [
+    "Hình nào dưới đây có các mặt đều là hình vuông?",
+    [
+     "Khối lập phương",
+     "Khối hộp chữ nhật",
+     "Khối trụ",
+     "Khối cầu"
+    ],
+    "Khối lập phương có 6 mặt đều là các hình vuông bằng nhau."
+   ],
+   [
+    "Đồ vật nào dưới đây thường có dạng khối cầu?",
+    [
+     "Quả bóng đá",
+     "Hòn gạch",
+     "Lon nước ngọt",
+     "Hộp bút"
+    ],
+    "Quả bóng đá có dạng khối cầu, các đồ vật còn lại có dạng khối khác."
+   ],
+   [
+    "Khối hộp chữ nhật có bao nhiêu cạnh tất cả?",
+    [
+     "12 cạnh",
+     "8 cạnh",
+     "6 cạnh",
+     "4 cạnh"
+    ],
+    "Khối hộp chữ nhật có 12 cạnh, gồm 4 cạnh dài, 4 cạnh rộng và 4 cạnh cao."
+   ],
+   [
+    "Khối trụ khác khối cầu ở đặc điểm nào dưới đây?",
+    [
+     "Khối trụ có các mặt phẳng, khối cầu không có",
+     "Khối trụ lăn được, khối cầu không lăn được",
+     "Khối trụ không có mặt nào phẳng",
+     "Khối trụ có các góc vuông"
+    ],
+    "Khối trụ có các mặt phẳng ở hai đáy còn khối cầu thì tròn đều và không có mặt phẳng."
+   ],
+   [
+    "Trong các hình phẳng sau, hình nào không có đỉnh và không có cạnh?",
+    [
+     "Hình tròn",
+     "Hình tam giác",
+     "Hình tứ giác",
+     "Hình chữ nhật"
+    ],
+    "Hình tròn là hình cong khép kín nên không có đỉnh và không có cạnh như các hình đa giác."
+   ],
+   [
+    "Biển báo giao thông hình tròn có mấy tâm đối xứng hoặc đường kính?",
+    [
+     "Vô số đường kính đi qua tâm",
+     "Chỉ có 1 đường kính",
+     "Có 2 đường kính",
+     "Không có đường kính nào"
+    ],
+    "Một hình tròn có vô số bán kính và vô số đường kính đi qua tâm O."
+   ],
+   [
+    "Khối hộp chữ nhật có bao nhiêu góc vuông ở các đỉnh?",
+    [
+     "Có tất cả 24 góc vuông",
+     "Chỉ có 4 góc vuông",
+     "Không có góc vuông nào",
+     "Có 8 góc vuông"
+    ],
+    "Mỗi đỉnh của khối hộp chữ nhật là giao của 3 mặt tạo thành các góc vuông, tổng cộng có 8 đỉnh nên có 24 góc vuông ở các đỉnh."
+   ],
+   [
+    "Một sợi dây dài 36 cm được uốn thành một hình tam giác đều. Độ dài mỗi cạnh của hình tam giác đó là:",
+    [
+     "12 cm",
+     "9 cm",
+     "18 cm",
+     "6 cm"
+    ],
+    "Hình tam giác đều có 3 cạnh bằng nhau, lấy 36 chia cho 3 được 12 cm."
+   ],
+   [
+    "Cho đoạn thẳng AB dài 24 cm. Điểm M nằm giữa A và B sao cho độ dài đoạn thẳng AM bằng 1/3 độ dài đoạn thẳng AB. Độ dài đoạn thẳng AM là:",
+    [
+     "8 cm",
+     "6 cm",
+     "12 cm",
+     "4 cm"
+    ],
+    "Lấy 24 chia cho 3 ta được độ dài đoạn thẳng AM là 8 cm."
+   ],
+   [
+    "Một mảnh vườn hình chữ nhật có chiều dài 12 m và chiều rộng gấp đôi chiều rộng chuẩn 4 m. Chu vi mảnh vườn đó là:",
+    [
+     "40 m",
+     "24 m",
+     "32 m",
+     "20 m"
+    ],
+    "Chiều rộng là 4 nhân 2 bằng 8 m. Chu vi hình chữ nhật là (12 cộng 8) nhân 2 bằng 40 m."
+   ],
+   [
+    "Đường kính của một chiếc nắp hộp hình tròn là 14 cm. Bán kính của nắp hộp đó là:",
+    [
+     "7 cm",
+     "28 cm",
+     "21 cm",
+     "42 cm"
+    ],
+    "Bán kính hình tròn bằng nửa đường kính, lấy 14 chia cho 2 bằng 7 cm."
+   ],
+   [
+    "Một tấm bìa hình vuông có chu vi là 28 cm. Độ dài cạnh của tấm bìa đó là:",
+    [
+     "7 cm",
+     "14 cm",
+     "4 cm",
+     "56 cm"
+    ],
+    "Cạnh hình vuông bằng chu vi chia cho 4, lấy 28 chia cho 4 bằng 7 cm."
+   ],
+   [
+    "Cho hình tròn tâm O có bán kính 8 cm. Một đoạn thẳng đi qua O và cắt hình tròn tại hai điểm M, N. Độ dài đoạn thẳng MN là:",
+    [
+     "16 cm",
+     "8 cm",
+     "4 cm",
+     "32 cm"
+    ],
+    "Đoạn thẳng đi qua tâm O và cắt đường tròn tại hai điểm chính là đường kính, gấp đôi bán kính nên bằng 16 cm."
+   ],
+   [
+    "Bạn An dùng một thanh gỗ dài 50 cm để đóng thành một khung tranh hình vuông. Hỏi cạnh của khung tranh dài bao nhiêu xăng-ti-mét, biết dùng hết thanh gỗ không thừa?",
+    [
+     "12,5 cm",
+     "10 cm",
+     "25 cm",
+     "15 cm"
+    ],
+    "Lấy tổng độ dài là 50 chia cho 4 cạnh ta được 12,5 cm."
+   ],
+   [
+    "Điểm M nằm trên đoạn thẳng AB sao cho đoạn thẳng AM ngắn hơn đoạn thẳng MB là 6 cm. Biết tổng độ dài đoạn thẳng AB là 20 cm. Độ dài đoạn AM là:",
+    [
+     "7 cm",
+     "10 cm",
+     "13 cm",
+     "14 cm"
+    ],
+    "Đây là bài toán tìm hai số khi biết tổng và hiệu. Độ dài AM là (20 trừ 6) chia 2 bằng 7 cm."
+   ],
+   [
+    "Một chiếc bàn ăn mặt kính hình tròn có bán kính 45 cm. Người ta nẹp xung quanh mặt bàn bằng viền inox. Độ dài viền inox cần dùng là chu vi hình tròn, được tính nhanh bằng đường kính nhân với 3. Độ dài đó là:",
+    [
+     "270 cm",
+     "90 cm",
+     "135 cm",
+     "180 cm"
+    ],
+    "Đường kính mặt bàn là 45 nhân 2 bằng 90 cm. Độ dài viền inox là 90 nhân 3 bằng 270 cm."
+   ],
+   [
+    "Cho ba điểm X, Y, Z thẳng hàng theo thứ tự đó, với Y là điểm nằm giữa X và Z. Biết XZ bằng 18 cm và Y là trung điểm của XZ. Độ dài đoạn XY là:",
+    [
+     "9 cm",
+     "6 cm",
+     "18 cm",
+     "36 cm"
+    ],
+    "Vì Y là trung điểm của XZ nên độ dài XY bằng nửa XZ, lấy 18 chia 2 bằng 9 cm."
+   ],
+   [
+    "Một mảnh đất hình chữ nhật có chu vi bằng 60 m, chiều rộng bằng 10 m. Chiều dài của mảnh đất đó là:",
+    [
+     "20 m",
+     "50 m",
+     "30 m",
+     "40 m"
+    ],
+    "Nửa chu vi là 60 chia 2 bằng 30 m. Chiều dài bằng nửa chu vi trừ chiều rộng, lấy 30 trừ 10 bằng 20 m."
+   ],
+   [
+    "Bạn Bình cắt một sợi dây thép dài 48 cm thành các đoạn bằng nhau để uốn thành các cạnh của một khung hình lập phương. Độ dài mỗi cạnh của khối lập phương đó là:",
+    [
+     "4 cm",
+     "6 cm",
+     "8 cm",
+     "12 cm"
+    ],
+    "Khối lập phương có 12 cạnh bằng nhau. Lấy 48 chia cho 12 ta được độ dài mỗi cạnh là 4 cm."
+   ],
+   [
+    "Hình tròn tâm O có bán kính OM bằng 6 cm. Đường kính của hình tròn đó dài là:",
+    [
+     "12 cm",
+     "3 cm",
+     "6 cm",
+     "18 cm"
+    ],
+    "Đường kính của hình tròn có độ dài gấp 2 lần bán kính. Ta có: 6 x 2 = 12 cm."
+   ]
+  ]
+ }
+}

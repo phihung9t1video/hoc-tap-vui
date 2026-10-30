@@ -1,0 +1,406 @@
+{
+ "3-toan": {
+  "c6": [
+   [
+    "Kết quả của phép nhân 142 nhân 2 là bao nhiêu?",
+    [
+     "284",
+     "264",
+     "282",
+     "248"
+    ],
+    "Ta đặt tính nhân từ phải sang trái: 2 nhân 2 bằng 4, 4 nhân 2 bằng 8, 1 nhân 2 bằng 2, được 284."
+   ],
+   [
+    "Kết quả của phép nhân 311 nhân 3 là bao nhiêu?",
+    [
+     "933",
+     "939",
+     "913",
+     "393"
+    ],
+    "Ta nhân từng hàng: 1 nhân 3 bằng 3, 1 nhân 3 bằng 3, 3 nhân 3 bằng 9, kết quả là 933."
+   ],
+   [
+    "Phép chia 484 chia cho 4 có kết quả là:",
+    [
+     "121",
+     "141",
+     "112",
+     "122"
+    ],
+    "Ta chia lần lượt từ trái sang phải: 4 chia 4 được 1, 8 chia 4 được 2, 4 chia 4 được 1, được 121."
+   ],
+   [
+    "Tính nhẩm: 600 chia cho 3 bằng mấy?",
+    [
+     "200",
+     "300",
+     "20",
+     "30"
+    ],
+    "Ta lấy 6 chia 3 được 2, sau đó viết thêm hai chữ số 0 vào bên phải ta được 200."
+   ],
+   [
+    "Số nào sau đây khi nhân với 5 thì bằng 555?",
+    [
+     "111",
+     "101",
+     "115",
+     "511"
+    ],
+    "Ta lấy 555 chia cho 5. 5 chia 5 được 1, 5 chia 5 được 1, 5 chia 5 được 1, kết quả là 111."
+   ],
+   [
+    "Kết quả của phép nhân 116 nhân 5 là:",
+    [
+     "580",
+     "550",
+     "530",
+     "600"
+    ],
+    "6 nhân 5 bằng 30, viết 0 nhớ 3. 1 nhân 5 bằng 5, thêm 3 bằng 8. 1 nhân 5 bằng 5. Kết quả là 580."
+   ],
+   [
+    "Phép chia 726 chia cho 6 có kết quả là:",
+    [
+     "121",
+     "112",
+     "131",
+     "122"
+    ],
+    "7 chia 6 được 1 dư 1, hạ 2 được 12, 12 chia 6 được 2, hạ 6, 6 chia 6 được 1, ta được 121."
+   ],
+   [
+    "Số 420 giảm đi 3 lần thì được số mấy?",
+    [
+     "140",
+     "120",
+     "150",
+     "130"
+    ],
+    "Giảm đi 3 lần nghĩa là ta thực hiện phép chia cho 3. Lấy 420 chia 3 bằng 140."
+   ],
+   [
+    "Tìm x biết: x nhân 4 bằng 832.",
+    [
+     "208",
+     "280",
+     "218",
+     "202"
+    ],
+    "Muốn tìm thừa số chưa biết ta lấy tích chia cho thừa số đã biết. 832 chia 4 bằng 208."
+   ],
+   [
+    "Thùng thứ nhất có 135 lít dầu, số dầu ở thùng thứ hai gấp đôi thùng thứ nhất. Thùng thứ hai có số lít dầu là:",
+    [
+     "270",
+     "260",
+     "250",
+     "280"
+    ],
+    "Gấp đôi nghĩa là nhân với 2. Ta lấy 135 nhân 2 bằng 270 lít."
+   ],
+   [
+    "Giá trị của biểu thức 100 cộng 30 nhân 3 là:",
+    [
+     "190",
+     "390",
+     "330",
+     "160"
+    ],
+    "Biểu thức có phép cộng và phép nhân, ta thực hiện nhân trước cộng sau. 30 nhân 3 bằng 90, sau đó lấy 100 cộng 90 bằng 190."
+   ],
+   [
+    "Giá trị của biểu thức mở ngoặc 150 trừ 50 đóng ngoặc nhân 4 là:",
+    [
+     "400",
+     "350",
+     "600",
+     "100"
+    ],
+    "Biểu thức có dấu ngoặc, ta tính trong ngoặc trước: 150 trừ 50 bằng 100. Sau đó lấy 100 nhân 4 bằng 400."
+   ],
+   [
+    "Giá trị của biểu thức 360 chia 3 cộng 40 là:",
+    [
+     "160",
+     "120",
+     "180",
+     "90"
+    ],
+    "Thực hiện phép chia trước: 360 chia 3 bằng 120. Sau đó thực hiện phép cộng: 120 cộng 40 bằng 160."
+   ],
+   [
+    "Một cuộn vải dài 96 mét, được cắt thành các đoạn bằng nhau, mỗi đoạn dài 3 mét. Hỏi cắt được bao nhiêu đoạn vải?",
+    [
+     "32",
+     "31",
+     "33",
+     "29"
+    ],
+    "Để tìm số đoạn vải, ta lấy tổng chiều dài chia cho chiều dài mỗi đoạn: 96 chia 3 bằng 32 đoạn."
+   ],
+   [
+    "Mỗi hộp bánh có chiếc bánh. Hỏi 7 hộp bánh như thế có tất cả bao nhiêu chiếc, biết mỗi hộp chứa 32 chiếc bánh?",
+    [
+     "224",
+     "214",
+     "234",
+     "220"
+    ],
+    "Ta lấy số bánh trong một hộp nhân với số hộp: 32 nhân 7 bằng 224 chiếc bánh."
+   ],
+   [
+    "Học sinh khối lớp 3 xếp thành 8 hàng, mỗi hàng có 105 học sinh. Hỏi khối lớp 3 có bao nhiêu học sinh?",
+    [
+     "840",
+     "830",
+     "850",
+     "820"
+    ],
+    "Ta lấy số học sinh ở một hàng nhân với số hàng: 105 nhân 8 bằng 840 học sinh."
+   ],
+   [
+    "Biết 5 lần một số bằng 455. Số đó là:",
+    [
+     "91",
+     "95",
+     "81",
+     "90"
+    ],
+    "Để tìm số đó, ta lấy 455 chia cho 5. 45 chia 5 được 9, 5 chia 5 được 1, kết quả là 91."
+   ],
+   [
+    "Giá trị của biểu thức 500 trừ 40 chia 2 là:",
+    [
+     "480",
+     "230",
+     "460",
+     "250"
+    ],
+    "Thực hiện phép chia trước: 40 chia 2 bằng 20. Sau đó thực hiện phép trừ: 500 trừ 20 bằng 480."
+   ],
+   [
+    "Một cửa hàng có 368 kg gạo, cửa hàng đã bán đi một phần tư số gạo đó. Số gạo đã bán là:",
+    [
+     "92",
+     "91",
+     "93",
+     "82"
+    ],
+    "Bán đi một phần tư nghĩa là ta chia tổng số gạo cho 4. 368 chia 4 bằng 92 kg."
+   ],
+   [
+    "Nam có 126 viên bi, số bi của Nam gấp 3 lần số bi của Việt. Hỏi Việt có bao nhiêu viên bi?",
+    [
+     "42",
+     "44",
+     "32",
+     "38"
+    ],
+    "Để tìm số bi của Việt, ta lấy số bi của Nam chia cho 3. 126 chia 3 bằng 42 viên bi."
+   ],
+   [
+    "Thừa số thứ nhất là 212, thừa số thứ hai là 4. Tích của hai số đó là:",
+    [
+     "848",
+     "846",
+     "816",
+     "216"
+    ],
+    "Ta lấy 212 × 4 = 848."
+   ],
+   [
+    "Thương của 639 và 3 là:",
+    [
+     "213",
+     "203",
+     "212",
+     "113"
+    ],
+    "Ta lấy 639 : 3 = 213."
+   ],
+   [
+    "Trong phép chia cho 5, số dư lớn nhất có thể có là:",
+    [
+     "4",
+     "5",
+     "3",
+     "6"
+    ],
+    "Số dư luôn nhỏ hơn số chia, nên số dư lớn nhất trong phép chia cho 5 là 4."
+   ],
+   [
+    "Gấp 104 lên 6 lần thì được kết quả là:",
+    [
+     "624",
+     "604",
+     "610",
+     "642"
+    ],
+    "Muốn gấp 104 lên 6 lần ta thực hiện phép nhân 104 × 6 = 624."
+   ],
+   [
+    "Số 848 giảm đi 4 lần thì được số nào?",
+    [
+     "212",
+     "202",
+     "222",
+     "844"
+    ],
+    "Muốn giảm 848 đi 4 lần ta lấy 848 : 4 = 212."
+   ],
+   [
+    "Kết quả của phép chia 96 : 4 là:",
+    [
+     "24",
+     "22",
+     "26",
+     "14"
+    ],
+    "Ta thực hiện phép chia: 9 chia 4 được 2 viết 2, dư 1; hạ 6 được 16; 16 chia 4 được 4. Kết quả là 24."
+   ],
+   [
+    "Số dư trong phép chia 58 : 5 là:",
+    [
+     "3",
+     "1",
+     "2",
+     "4"
+    ],
+    "Ta có 58 : 5 = 11 dư 3."
+   ],
+   [
+    "Một thừa số bằng 6, tích bằng 360. Thừa số còn lại là:",
+    [
+     "60",
+     "6",
+     "354",
+     "366"
+    ],
+    "Muốn tìm thừa số chưa biết, ta lấy tích chia cho thừa số đã biết: 360 : 6 = 60."
+   ],
+   [
+    "Giá trị của biểu thức 120 × 3 + 50 là:",
+    [
+     "410",
+     "360",
+     "210",
+     "510"
+    ],
+    "Thực hiện phép nhân trước: 120 × 3 = 360, sau đó lấy 360 + 50 = 410."
+   ],
+   [
+    "Giá trị của biểu thức 800 : 2 - 150 là:",
+    [
+     "250",
+     "400",
+     "350",
+     "150"
+    ],
+    "Thực hiện phép chia trước: 800 : 2 = 400, sau đó lấy 400 - 150 = 250."
+   ],
+   [
+    "Một số chia cho 6 thì được thương là 12 và số dư là 4. Số đó là:",
+    [
+     "76",
+     "72",
+     "68",
+     "80"
+    ],
+    "Muốn tìm số bị chia, ta lấy thương nhân với số chia rồi cộng số dư: 12 × 6 + 4 = 76."
+   ],
+   [
+    "Biết x : 3 = 102 (dư 2). Giá trị của x là:",
+    [
+     "308",
+     "306",
+     "304",
+     "107"
+    ],
+    "Số bị chia x = 102 × 3 + 2 = 306 + 2 = 308."
+   ],
+   [
+    "Giá trị của biểu thức (100 + 25) × 4 là:",
+    [
+     "500",
+     "200",
+     "425",
+     "225"
+    ],
+    "Tính trong ngoặc trước: 100 + 25 = 125. Sau đó lấy 125 × 4 = 500."
+   ],
+   [
+    "Một hình tam giác có độ dài 3 cạnh bằng nhau, mỗi cạnh dài 115 cm. Chu vi của hình tam giác đó là:",
+    [
+     "345 cm",
+     "335 cm",
+     "118 cm",
+     "230 cm"
+    ],
+    "Chu vi hình tam giác có 3 cạnh bằng nhau là: 115 × 3 = 345 cm."
+   ],
+   [
+    "Mỗi bao gạo nặng 50 kg. Hỏi 6 bao gạo như thế nặng tất cả bao nhiêu ki-lô-gam?",
+    [
+     "300 kg",
+     "250 kg",
+     "350 kg",
+     "56 kg"
+    ],
+    "6 bao gạo nặng số ki-lô-gam là: 50 × 6 = 300 kg."
+   ],
+   [
+    "Cô giáo chia đều 96 quyển vở cho 8 bạn học sinh giỏi. Hỏi mỗi bạn nhận được bao nhiêu quyển vở?",
+    [
+     "12 quyển",
+     "11 quyển",
+     "14 quyển",
+     "88 quyển"
+    ],
+    "Mỗi bạn nhận được số quyển vở là: 96 : 8 = 12 quyển."
+   ],
+   [
+    "Lớp 3A xếp thành 4 hàng, mỗi hàng có 9 học sinh. Nếu xếp số học sinh đó thành 6 hàng đều nhau thì mỗi hàng có bao nhiêu học sinh?",
+    [
+     "6 học sinh",
+     "9 học sinh",
+     "4 học sinh",
+     "36 học sinh"
+    ],
+    "Tổng số học sinh lớp 3A là: 9 × 4 = 36 học sinh. Nếu xếp thành 6 hàng thì mỗi hàng có: 36 : 6 = 6 học sinh."
+   ],
+   [
+    "Mẹ mua 4 vỉ trứng, mỗi vỉ có 10 quả trứng. Mẹ đã dùng hết 15 quả trứng. Hỏi mẹ còn lại bao nhiêu quả trứng?",
+    [
+     "25 quả",
+     "40 quả",
+     "30 quả",
+     "15 quả"
+    ],
+    "Tổng số trứng mẹ mua là: 10 × 4 = 40 quả. Số trứng còn lại là: 40 - 15 = 25 quả."
+   ],
+   [
+    "Một người nuôi 120 con gà. Số con vịt gấp 3 lần số con gà. Hỏi người đó nuôi tất cả bao nhiêu con gà và vịt?",
+    [
+     "480 con",
+     "360 con",
+     "240 con",
+     "123 con"
+    ],
+    "Số con vịt là 120 × 3 = 360 con. Tổng số gà và vịt là 120 + 360 = 480 con."
+   ],
+   [
+    "Kết quả của phép tính 203 × 4 là:",
+    [
+     "812",
+     "802",
+     "815",
+     "612"
+    ],
+    "Ta thực hiện nhân từ phải sang trái: 3 nhân 4 bằng 12, viết 2 nhớ 1; 0 nhân 4 bằng 0, thêm 1 bằng 1; 2 nhân 4 bằng 8. Vậy 203 × 4 = 812."
+   ]
+  ]
+ }
+}
